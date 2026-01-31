@@ -1,0 +1,574 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Valve disease - Cardiology Explained - NCBI Bookshelf.pdf",
+  "converted_date": "2026-01-31T14:39:51.069839",
+  "file_size_bytes": 507257,
+  "original_format": "pdf",
+  "document_type": "Textbooks",
+  "source_folder": "Textbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Textbooks/Valve disease - Cardiology Explained - NCBI Bookshelf.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+Ashley EA, Niebauer J. Cardiology Explained. London: Remedica; 2004.
+Chapter 9 Valve disease
+Disease of the heart valves remains an important cause of morbidity and mortality across the
+world. While advances in echocardiography and the widespread availability of antibiotics have
+changed the prevalence, management, and especially the diagnosis of valve disease for
+specialists, very little has changed for generalists, who hear heart murmurs less frequently. Even
+though echo diagnosis is not readily available to generalists, they nevertheless feel pressured to
+identify murmurs and to report them, with their associated signs, in the referral letter. Similarly,
+for many examiners, the appeal of obscure murmurs for clinical short-case exams remains too
+great to resist, despite its mostly historical relevance. Yet, there are few greater pleasures in
+clinical medicine than having your stethoscopic diagnostic brilliance confirmed by an echo
+report. Furthermore, healthcare economics has prompted a renewed interest in the power of the
+stethoscope for diagnosing and even quantifying valve disease.
+The asymptomatic murmur
+Opinions differ as to the management of a murmur that has been picked up incidentally. By far
+the most common is the mid systolic 2/6 murmur (grade II – see Table 1). For children and
+young adults with an asymptomatic mid systolic murmur, a negative history and a negative
+physical exam are sufficient to exclude sinister pathology in most cases.
+Table 1
+Grading of murmurs.
+In the elderly, it is important to differentiate between the common and benign aortic sclerosis and
+the less common and less benign aortic stenosis (AS). As such, close attention should be paid to
+the cardiac exam. In particular, AS is indicated by:
+murmur radiation
+the presence of a thrill
+a soft second heart sound
+In addition, an electrocardiogram should be carried out to screen for left ventricular hypertrophy
+(LVH), ischemia, and atrial size or conduction abnormalities. If none of the above is present and
+the patient remains asymptomatic, the most likely diagnosis is aortic sclerosis and no echo is
+required.
+Referral is warranted when a murmur in an asymptomatic patient is:
+systolic and grade III or above
+late systolic
+mid systolic and accompanied by clinical signs suggestive of AS
+diastolic
+continuous
+Aortic stenosis
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 1/13
+--- Страница 2 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+Causes
+Congenital aortic stenosis
+Congenital AS is usually due to a bicuspid valve. A bicuspid valve in itself does not give rise to
+significant hemodynamic abnormality, but it has a tendency to calcify and a predisposition to
+infective endocarditis (see Table 2).
+Table 2
+Clinical signs in aortic stenosis and aortic regurgitation.
+Rheumatic aortic stenosis
+Rheumatic AS results from cusp fusion and calcification many years following rheumatic fever.
+Senile aortic stenosis
+Senile, or degenerative, AS results from calcium deposition on the aortic surface of the valve.
+This is becoming an increasingly important disability problem in the elderly.
+Physical signs
+The carotid pulse is slow rising with reduced amplitude.
+The venous pressure is usually normal until late in the disease.
+The apex beat is sustained and can be doubled due to an additional atrial component.
+On auscultation, the second heart sound is single when the valve is calcified due to a lack
+of aortic component. The classic ejection systolic murmur, which can radiate to one or
+both carotids, is usually heard best over the aortic area. A soft, early diastolic murmur of
+aortic regurgitation (AR) often coexists.
+Investigation and management
+Echo is the diagnostic tool of choice for valve disease – in particular, Doppler measurement of
+valve gradients can quantify lesions. Significant hemodynamic changes do not occur until the
+aortic valve area has been reduced to a quarter of its normal size (the normal orifice is 3–4 cm2).
+AS is classed as:
+mild if the area is >1.5 cm2
+2
+moderate if the area is 1–1.5 cm
+2
+severe if the area is <1 cm
+The Invention of the Stethoscope
+"In the summer of 1816, Laennec was called to a young lady who presented the general
+symptoms of disease of the heart; the application of the hand to the chest and percussion
+afforded very little assistance, and immediate auscultation was interdicted by the sex and
+a
+embonpoint of the patient. The recollection of the well-known fact, that the tap of a pin at
+one end of a beam could be heard distinctly at the opposite end, induced him at the moment,
+to avail himself of this acoustic phenomenon. He took a quire of paper, rolled it tightly
+together, applied one extremity over the region of the heart, and putting the ear to the other,
+was surprised to find that he could distinguish the pulsation of the heart in a more distinct
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 2/13
+--- Страница 3 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+manner than he could before do with the naked ear. Having hit upon the principle he
+extended its application to the investigation of the various sounds produced in the chest by
+the respiration, the voice, and the accidental presence of fluids in the lung, pleural sac, and
+pericardium."
+Mediate Auscultation, 1816. (Quoted in The Lancet 1998;352:997.)
+a
+Corpulence, physically bulky.
+Severe stenosis causes a transvalvular pressure gradient of >50 mm Hg in the presence of normal
+transvalvular flow (ie, normal LV function). However, abnormally low pressure gradients are
+found in conditions of LV dysfunction, so the gradient alone is not a clear guide.
+The natural history of AS is one of slow progression. Studies suggest that some patients exhibit a
+decrease in valve area of 0.1–0.3 cm2/year, although no progression is discernible in many
+patients. However, regardless of the individual variability, symptoms of angina, syncope, or heart
+failure generally develop after a latent period. At this point, the outlook changes dramatically.
+After the onset of symptoms, the average survival is less than 3 years. Thus, development of
+symptoms is the critical point in the natural history of AS and thereafter the benefits of surgery
+outweigh the risk. Consequently, asymptomatic AS patients should be monitored closely.
+Although there is no clear consensus, most cardiologists follow-up mild AS annually (together
+with 5-yearly echos); moderate AS every 6 months (together with 2-yearly echos); and severe AS
+more frequently (together with annual echos). If a patient with AS presents with a change in
+symptoms, their next appointment at the cardiology clinic should be expedited.
+If a patient with severe AS is undergoing open chest bypass grafting for coexisting coronary
+artery disease (CAD), the opportunity should be taken to carry out aortic valve replacement
+(AVR) – regardless of whether or not AS symptoms are evident. The merit of carrying out a
+concomitant AVR is less clear for those with mild or moderate AS.
+Cardiac catheterization is only indicated in AS for two reasons: (1) to perform coronary
+angiography before AVR in patients with risk factors for CAD; (2) to assess the severity of AS in
+symptomatic patients when AVR is planned or when noninvasive tests are inconclusive
+(catheterization allows accurate quantification of the orifice because it can account for
+transvalvular flow).
+Contrary to popular belief, exercise testing is not contraindicated for mild to moderate AS
+patients and can give useful information with respect to exercise capacity, heart rate recovery,
+and exercise-induced rise in blood pressure.
+Balloon valvotomy
+Percutaneous balloon aortic valvotomy (stretching a stenotic valve by balloon inflation) has an
+important role to play in the treatment of young adults with AS, but a very limited role in older
+2
+patients. This is because the postoperative valve area is rarely >1 cm and because complications
+are frequent (10%) and serious. This procedure can act as a "bridge" to reduce the requirement
+for surgery (with its inherent risk) in adult patients with refractory pulmonary edema or
+cardiogenic shock.
+Aortic valve replacement in the elderly
+Due to the limitations of medical therapy and balloon valvotomy, AVR should be considered for
+all elderly patients with symptomatic AS. However, the decision as to whether to carry out AVR
+is rarely straightforward and must take into account the risks as viewed by both the surgeon and
+the patient. Comorbidity in the form of LVH or CAD greatly increases the risk associated with
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 3/13
+--- Страница 4 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+surgery. In addition, specific valve problems, such as heavy calcification and narrow LV outflow
+tract or annulus, make the procedure more complex. The decision is highly individual.
+Aortic regurgitation
+AR is associated with classic clinical signs (see Table 2):
+waterhammer (collapsing) pulse – detected by comparing the character of the radial pulse
+at the level of the heart with its character on elevation of the arm (use several fingers).
+Elevation accentuates the steep rise-and-fall character of this pulse, which seems to slap
+faster and harder against the fingers
+Corrigan's sign – visible arterial pulsation in the neck
+de Musset's sign – nodding of the head in time with the heartbeat
+Duroziez's sign – caused by retrograde diastolic flow in the femoral artery. Place the
+stethoscope on the femoral pulse and occlude the artery distally. The turbulent flow will be
+picked up as a "to-and-fro" murmur
+Quincke's sign – capillary pulsation in the nail beds that is visible on applying gentle
+pressure to induce a degree of whitening
+Traube's sign – a "pistol-shot" sound heard over the femoral pulse
+Müller's sign – pulsation of the uvula
+An early diastolic murmur is heard at the left lower sternal edge when the patient is sitting
+forward and holding his or her breath in expiration. There could also be a coexistent aortic
+systolic flow murmur, caused by the large stroke volume (rather than reflecting organic AS).
+There may be a mid diastolic murmur at the apex (Austin Flint murmur) caused by the
+regurgitant aortic jet vibrating the anterior mitral valve (MV) leaflet.
+Acute aortic regurgitation
+Acute AR is one hallmark of aortic dissection and is a medical emergency in its own right. A
+large regurgitant volume is suddenly imposed on an LV of normal size that has not had time to
+accommodate to the volume overload. The result is a reduction in stroke volume, compensatory
+tachycardia, pulmonary edema, and cardiogenic shock. Characteristic clinical findings are absent
+and an echo is essential to document the severity of the lesion. This is done by assessing the
+speed of equilibration of aortic and LV pressures in diastole. Useful echo measures are short
+regurgitant wave half time, short mitral deceleration time, and premature closure of the MV.
+Mortality is high in acute severe AR and early surgical intervention is essential. Nitroprusside
+can be helpful in reducing preload and afterload, possibly in combination with dobutamine or
+dopamine. Intra-aortic balloon pumping is absolutely contraindicated (it increases aortic diastolic
+pressure and worsens the regurgitation), while β-blockers, often used in the management of
+dissection, should be used with caution in associated acute severe AR as they dampen the
+compensatory tachycardia.
+Chronic aortic regurgitation
+An early diastolic murmur is always justification for referral to a cardiologist for assessment and
+echo.
+Causes
+Rheumatic involvement of the aortic valve, resulting in thickening of the cusps and fusion
+of the commissures – the valve neither opens nor closes completely.
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 4/13
+--- Страница 5 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+Dilatation of the aortic root resulting from aneurysm of the ascending aorta – this is
+commonly seen in Marfan's syndrome.
+Dilatation of the aortic annulus can also result from connective tissue disease, such as
+ankylosing spondylitis, rheumatoid arthritis, Reiter's syndrome, relapsing polychondritis,
+or systemic lupus erythematosus.
+Dissecting aneurysm involving the aortic root.
+Syphilitic aortitis causing aortic aneurysm and dilatation of the valve ring that may involve
+the coronary ostia.
+Table 2 outlines the causes of aortic regurgitation.
+Natural history and therapeutic options
+Chronic AR represents a condition of combined volume and pressure overload on the LV. The
+ejection fraction (EF) – the percentage of the end diastolic volume ejected during systole – is
+maintained by compensatory LVH and the majority of patients remain in this compensated phase
+for decades. However, in time, the EF drops. Although initially this is fully reversible, soon, due
+to progressive dilatation and remodeling, full recovery with AVR is out of reach. A large number
+of studies have identified LV systolic dysfunction and end systolic dimension as the key
+determinants of survival in patients undergoing AVR for AR. Thus, in contrast to AS, the critical
+point when the benefit of AVR outweighs the risk is determined not by symptoms, but by echo-
+determined LV function. More specifically, AVR is indicated in:
+patients with New York Heart Association (NYHA) class III or IV symptoms (see Chapter
+7, Heart failure) and preserved LV systolic function – defined as normal EF (≥50% at rest)
+patients with NYHA class II symptoms and preserved LV systolic function at rest, but with
+progressive LV dilatation, declining rest EF, or declining effort tolerance (the trend is more
+important than the absolute level)
+patients with angina on walking or climbing stairs rapidly
+asymptomatic or symptomatic patients with mild to moderate LV dysfunction at rest (EF
+25%–49%)
+patients undergoing open chest surgery for another reason (eg, bypass grafting)
+Exercise testing can be useful in AR if the patient is sedentary or has equivocal symptoms. It
+assesses functional capacity and the hemodynamic effects of exercise. Radionuclide
+ventriculography should be used if the echo window is poor. Cardiac catheterization is only
+required in patients at risk of CAD prior to AVR or where other tests are equivocal.
+Asymptomatic patients with no LV dysfunction should be encouraged to participate in all forms
+of normal daily activity, including exercise (although lifting weights should be avoided).
+Vasodilator therapy can, in theory, retard the natural history of chronic AR by reducing the
+regurgitant volume. However, very few studies have actually examined the effect of this
+treatment on the long-term outcome. Indications for vasodilator therapy (generally using long-
+acting nifedipine) are:
+long-term therapy in patients with severe regurgitation who have symptoms and/or LV
+dysfunction, when surgery is not recommended
+long-term therapy in asymptomatic patients with severe regurgitation who have LV
+dilatation, but normal systolic function
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 5/13
+--- Страница 6 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+long-term therapy in asymptomatic patients with hypertension and any degree of
+regurgitation
+long-term therapy in patients with persistent LV systolic dysfunction after AVR
+(angiotensin-converting enzyme inhibitor)
+short-term therapy to improve the hemodynamic profile of patients with severe heart
+failure symptoms and severe LV dysfunction before proceeding with AVR
+Asymptomatic patients with mild AR and normal LV systolic function should be seen by a
+cardiologist annually and undergo echo every 2–3 years. Asymptomatic patients with normal
+systolic function, but severe AR and significant LV dilatation (end diastolic diameter >6 cm),
+require more frequent evaluation. These patients should be seen by a cardiologist every 6 months
+and undergo echo every 6–12 months.
+Mitral stenosis
+The MV apparatus consists of three components: two leaflets, the fibrous annulus, and the
+chordae tendineae, which connect the leaflets to the papillary muscles (see Figure 1). The
+anterior leaflet is larger than the posterior leaflet (see Figure 2). The normal area of the MV
+orifice is 4–5 cm2. Symptoms of mitral stenosis (MS) develop when the orifice is <2.5 cm2 and a
+2
+critical stenosis occurs when it is approximately 1 cm (see Figure 3). The signs and causes of
+MS are outlined in Table 3.
+Figure 1
+The structure of the mitral valve apparatus.
+Figure 2
+A calcified mitral valve posterior leaflet in diastole.
+Figure 3
+Mitral stenosis with left atrial dilatation. This figure shows a
+thickened mital valve arrow. The spontaneous contrast is a
+good illustration of the thrombogenicity of the blood in the
+left atrium. This is believed to be the first step before the
+formation (more...)
+Table 3
+Common murmurs in mitral stenosis and mitral regurgitation
+with their associated signs and causes.
+Causes
+Rheumatic heart disease is the most common cause of MS, although it pre-dates the symptoms
+by at least 10 years. Other acquired causes are rare – eg, annular calcification, endocarditis, or
+granulomatous infiltration in association with eosinophilia.
+Signs
+Symptoms of MS generally occur during exertion, infection, stress, or with the onset of atrial
+fibrillation (AF) with a rapid ventricular response. This is because a left atrial (LA) pressure that
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 6/13
+--- Страница 7 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+is normal at rest rises with an increase in transmitral flow or a decrease in the diastolic filling
+time.
+The most common manifestation is breathlessness, but a reduction in exercise tolerance or
+symptoms of right-sided congestion can also occur. The typical physical signs are described in
+Table 4. Figure 4 demonstrates MS in echo, electrocardiography pressure tracing, and a chest x-
+ray.
+Table 4
+The typical physical signs of mitral stenosis.
+Figure 4
+Mitral stenosis demonstrated by (a) echocardiography
+(showing thickened leaflets that no longer open), (b)
+electrocardiography pressure tracing in the left atrium versus
+left ventricle demonstrating the gradient between the two
+cavities (and therefore (more...)
+Natural history
+The disease takes a slow course with progressive acceleration later in life. In developed
+countries, the lag period from the time of rheumatic fever to the onset of symptoms is 20–40
+years, and there is another 10 years before these symptoms become disabling. The 10-year
+survival rate is high for asymptomatic patients (>80%), but low for those with symptoms (0%–
+2
+15%). Asymptomatic patients with mild MS (MV area >1.5 cm ) require no further evaluation
+and do not need to be followed up more than annually.
+Percutaneous and surgical therapy
+Decisions on therapy are made by joint consideration of symptoms and MV morphology
+(including hemodynamics and pulmonary artery pressure). Therapeutic options include MV
+repair (open/closed commissurotomy), MV replacement, and percutaneous valvotomy.
+Both repair and percutaneous valvotomy acutely result in a doubling of the valve area and a 60%
+reduction in transmitral gradient. However, open commissurotomy and percutaneous valvotomy
+produce better long-term hemodynamic results. The current recommendations for percutaneous
+and surgical therapy are outlined in Table 5.
+Table 5
+Current recommendations for surgical therapy.
+Medical therapy
+Prophylaxis against rheumatic fever and endocarditis should be considered for all patients with
+MS. Agents with negative chronotropic properties, such as β-blockers or calcium-channel
+blockers, may benefit those in sinus rhythm with symptoms relating to exertional tachycardia.
+Atrial fibrillation
+AF develops in 40% of patients with symptomatic MS and should be treated according to
+standard protocols (see Chapter 8, Arrhythmia). The value of anticoagulation therapy for those
+with AF and those with a prior embolic event with or without AF is clear. However, there is no
+evidence that oral anticoagulation is beneficial in those with MS who have neither AF nor a prior
+embolic event. The frequency of embolic events does not seem to be related to the severity of
+MS, the size of the LA, or the presence of symptoms. There is some controversy over whether
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 7/13
+--- Страница 8 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+percutaneous mitral valvotomy should be performed in patients with new-onset AF and moderate
+or severe MS who are otherwise asymptomatic.
+Mitral regurgitation
+Acute mitral regurgitation
+In acute severe mitral regurgitation (MR), the hemodynamic changes are not tolerated and the
+result is generally acute decompensation. Without time for compensatory LV and LA dilatation,
+the increase in ventricular preload leads to a decreased stroke volume and pulmonary congestion.
+However, examination findings may not be typical:
+there may be no hyperdynamic apex beat
+the systolic murmur may be short
+there may be a fourth heart sound
+The most common cause of acute MR is papillary muscle rupture secondary to myocardial
+infarction (MI) (see Figure 5). In this situation, the principal differential diagnosis is ventricular
+septal defect and an echo is required to differentiate between the two. Ventricular septal defect is
+more likely with:
+Figure 5
+(a) Transesophageal echocardiography showing a tear in the
+papillary muscle (the most common cause of acute mitral
+regurgitation). (b) The same scene with a color jet from the
+left ventricle into the left atrium, demonstrating "blood flow"
+in the wrong (more...)
+right-sided radiation of murmur
+raised jugular venous pressure (JVP)
+anterior MI (inferior MI is more likely to cause acute MR)
+The goal of medical therapy in acute severe MR is to diminish regurgitation, increase stroke
+volume, and reduce pulmonary congestion. As such, nitroprusside alone or in combination with
+dobutamine (if blood pressure is low) can be effective. Intra-aortic balloon pumping can also
+help to achieve these goals. In many cases, emergency surgery is warranted. If so, prior
+transesophageal echo helps to characterize the anatomy and severity of the lesion. Cardiac
+catheterization should be performed if the patient is at high risk for CAD.
+Chronic mitral regurgitation
+Causes
+Degenerative MV disease is common in the elderly. The valve leaflets are thickened,
+redundant, increased in area, and they prolapse into the LA in systole. The chordae may
+become elongated, thinned, and tortuous – predisposing to rupture.
+Infective endocarditis is a major cause of chronic MR. Vegetations developing on the cusp
+vary from small nodules along the line of apposition to large friable masses of up to 10
+mm or more (see Figure 6). "Jet" lesions on the anterior cusp of the MV can also occur in
+association with aortic valve endocarditis.
+Ischemia.
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 8/13
+--- Страница 9 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+Figure 6
+Echocardiogram showing a vegetation on the mitral valve
+(arrow).
+Clinical signs
+The clinical signs of chronic MR are outlined in Table 6. With severe MR, the regurgitant
+murmur is usually short and stops at the same time as aortic valve closure. Occasionally, the
+murmur can hardly be heard due to early equalization of atrioventricular pressures. The signs and
+causes of MR are outlined in Table 3.
+Table 6
+The clinical signs of chronic mitral regurgitation.
+Natural history
+In chronic MR, the increased preload and decreased afterload of the LV (caused by ejection of
+some of the stroke volume into the LA) are compensated for by LV and LA dilatation, and the
+total stroke volume is increased (the EF is also maintained). This compensated phase of chronic
+MR may last for years. Eventually, however, the volume overload causes sufficient dilatation to
+push the LV onto the downward portion of the Frank–Starling curve and dysfunction results (see
+Figure 7). Importantly, the loading conditions mean that this dysfunction might not be reflected
+in an abnormal EF (the EF in a patient with MR and normal LV function is >60%).
+Figure 7
+Frank–Starling curve showing left ventricular (LV)
+dysfunction.
+Asymptomatic patients with mild MR and no evidence of LV dilatation or dysfunction can be
+followed on a yearly basis and undergo echo less frequently than that. Asymptomatic patients
+with moderate MR should have an echo annually. Asymptomatic patients with severe MR should
+be followed up every 6–12 months and undergo echo to detect silent LV dysfunction. Exercise
+testing is useful to document changes in exercise tolerance.
+The timing of surgery is determined by the EF, LV end systolic dimension (LVESD), the
+presence of AF, and symptoms. It is indicated for those with:
+class II–IV symptoms, EF >60%, LVESD <45 mm
+EF 30%–60%, LVESD 45–55 mm (regardless of symptoms)
+asymptomatic patients with AF and normal EF
+symptomatic patients with normal EF and pulmonary hypertension (>50 mm Hg)
+asymptomatic patients with EF 50%–60% and LVESD <45 mm, or EF >60% and LVESD
+45–55 mm
+patients with EF <30% and/or LVESD >55 mm in whom the chordae tendineae are likely
+to be intact (ie, no previous MI in that territory)
+The operation of choice is MV repair. In many patients, however, replacement of the valve
+together with removal of part or all of the MV apparatus (chordae) is required. The repair
+procedure leads to better postoperative LV function and survival.
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 9/13
+--- Страница 10 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+There is no generally accepted medical therapy for chronic MR. Although vasodilators might
+seem a sensible choice, in fact, in compensated chronic MR the afterload is decreased (since the
+LV has two routes of ejection); as such, drugs that reduce the afterload further are unlikely to be
+beneficial.
+Chronic MR can also occur due to a primary ischemic cause, relating either to LV dysfunction or
+to chordal ischemia – revascularization or stenting can eliminate the episodes.
+Functional mitral regurgitation
+The normal function of the MV depends on the cusps, ring, and subvalvular apparatus, including
+papillary muscle fibers and the circumferential muscle layer supporting the mitral ring. Each of
+these components plays a significant role in maintaining the competence of the valve. With
+papillary muscle dysfunction due to ischemia or other causes of ventricular disease, cusp closure
+is not complete, leading to some degree of regurgitation. This can even occur, for example, in
+athletic hypertrophy. This is usually mild, but can be significant in rare cases. In such conditions,
+the heart rate is usually fast and the duration of MR long enough to compromise filling time and
+hence cardiac output. Although functional in origin, it can be hemodynamically significant.
+Alfred de Musset
+a
+"La bouche garde le silence, Pour écouter parler le coeur."
+Alfred de Musset (1810–1857), La Nuit de Mai
+The French romantic poet and playwright, Alfred de Musset (1810–1857), was famous for
+both his creative brain and his pathological heart. His most inspiring work was prompted
+by the ending of a love affair he had with George Sand (a French romantic writer who later
+had a 10-year relationship with Chopin). During a visit to Venice in 1834, both Sand and he
+became very unwell. Such was the quality of care and attention lavished on them by their
+physician that Sand fell in love with this man and de Musset returned to France alone
+(where he penned some of his best work). He spent the last 2 years of his life housebound,
+his heart broken by the combined effects of lost love, aortic regurgitation, and alcohol-
+related cardiomyopathy. The nodding of his head in time with his heartbeat, the classic
+eponymous sign of aortic regurgitation, was described by his brother in a biography. When
+told of it, de Musset apparently placed his thumb and forefinger on his neck and his head
+stopped bobbing.
+a
+The mouth keeps silent to hear the heart speak.
+Mitral valve prolapse
+MV prolapse (MVP) is the single most common valvular abnormality. It affects 2%–6% of the
+population and is defined as a backward movement of one or both leaflets of the MV (usually the
+anterior) into the LA during (ventricular) systole. In most cases it is associated with trivial MR.
+However, as a result of its prevalence, it is also the most common single cause of significant MR.
+Although MVP does not alter life expectancy, all of the above complications of MR can occur.
+Sudden death, often reported as an association with MVP, is rare (<2% on long-term follow-up).
+Classic findings on auscultation are a mid systolic click followed by a late systolic murmur. The
+click is thought to be caused by a tensing of the MV apparatus as the leaflets prolapse into the
+LA. The murmur is usually high pitched and loudest at the apex. Certain maneuvers can help to
+secure the diagnosis: standing reduces end diastolic volume (EDV), bringing the click–murmur
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 10/13
+--- Страница 11 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+nearer to the first heart sound; squatting increases EDV (and afterload), moving the click–
+murmur nearer to the second heart sound.
+Patients with these findings should be referred for echo assessment. Interestingly, there is no
+absolute consensus on criteria for diagnosing MVP on two-dimensional echo. The diagnosis
+should never be made on one view alone (especially if that is the 4-chamber view). Serial echos
+are not necessary unless there is a change in the clinical picture.
+Management involves reassurance and prophylaxis for endocarditis. Patients who suffer from
+palpitations should have Holter/event monitoring to make a firm diagnosis. Aspirin is
+recommended for patients with documented focal neurological events who are in sinus rhythm
+and have no atrial thrombus. Recurrent transient ischemic attacks or stroke in MVP patients
+demand long-term warfarin therapy. Ultimately, MV repair may be required, and the indications
+are as for MR (described above).
+Tricuspid valve disease
+In comparison with the left side, the right side of the heart is a low-pressure system.
+Consequently, disorders such as endocarditis, in which high-pressure jets help to "seed" the
+infective vegetations, occur less frequently. The notable exception is in intravenous drug abusers,
+where right-sided endocarditis is more common. Perhaps the most common cause of tricuspid
+valve incompetence, however, is elevated right ventricular (RV) pressure, secondary to
+pulmonary hypertension, MS, pulmonary stenosis, dilated cardiomyopathy, or RV failure. In
+addition, rheumatic heart disease can affect the tricuspid valve and tends to produce a
+combination of tricuspid stenosis and regurgitation – the overriding symptoms are those of
+regurgitation. Ebstein's anomaly is a congenital disorder affecting the tricuspid valve (see
+Chapter 14, Adult congenital heart disease).
+Clinical signs
+Physical examination is key to the diagnosis of tricuspid regurgitation. Typical signs are:
+gross fluid retention
+significant peripheral edema
+ascites that may result in nausea
+raised JVP with a prominent systolic wave and sharp Y descent
+parasternal heave and loud P2, suggesting pulmonary hypertension as a cause
+an enlarged, tender, pulsatile liver and, occasionally, mild jaundice
+a pansystolic murmur at the left lower sternal edge that is increased by inspiration
+Management
+Severe tricuspid regurgitation resulting from any cause is associated with a poor long-term
+outcome due to RV dysfunction and systemic venous congestion. The timing of surgery and the
+most suitable operation remain controversial, although chordal reconstruction and annuloplasty
+have become established in recent years. Annuloplasty involves the use of a prosthetic ring to
+support the endogenous dilated annulus. Valve replacement is also possible.
+Medical management treats fluid retention and AF. Standard protocols are used, although high
+doses and combination diuretics are often required.
+Pulmonary valve disease
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 11/13
+--- Страница 12 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+Pulmonary regurgitation is caused by pulmonary hypertension and annular dilatation resulting
+from various causes of left-sided heart disease (as well as primary pulmonary hypertension). An
+early diastolic murmur (Graham Steell murmur) is heard over the pulmonary area and should be
+distinguished from that of AR.
+Antibiotic prophylaxis is only required if the cause is rheumatic. Most pulmonary valve disease
+does not need treatment. However, valve replacement can be carried out in cases of intractable
+right heart failure.
+Valve disease in pregnancy
+In pregnancy, there is a 50% increase in circulating blood volume. The cardiac output peaks
+between the second and third trimesters, predominantly due to an increase in stroke volume,
+although the heart rate also increases by up to 20%. Total peripheral resistance falls
+disproportionately, reducing the diastolic blood pressure and widening the pulse pressure.
+Occasionally, in the supine position the inferior vena cava can be compressed by a gravid uterus,
+leading to an abrupt decrease in venous return. This can result in light headedness, but quickly
+resolves on changing position. The increased blood volume and cardiac output can accentuate
+stenotic murmurs, while the lowered peripheral resistance can actually reduce regurgitant
+murmurs. In general, echo demonstrates a degree of "physiological" chamber enlargement that,
+in a significant minority of women, may be associated with functional MR.
+In some conditions (eg, cyanotic heart disease, Eisenmenger syndrome, and severe pulmonary
+hypertension), the changes resulting from pregnancy greatly increase risk and most cardiologists
+would counsel against pregnancy. The following are also associated with increased risk, either to
+the mother or fetus:
+severe AS
+MR/AR with class III–IV symptoms
+MS with class II–IV symptoms
+pulmonary pressures >75% of systemic
+EF <40%
+mechanical prosthetic valves requiring anticoagulation
+AR in Marfan's syndrome
+Although risk is increased, many patients with valvular abnormalities can be managed through
+pregnancy with conservative medical measures aimed at optimizing intravascular volume.
+Mitral stenosis
+Penicillin prophylaxis should be continued in pregnant women with MS. The cautious use of
+diuretics and β-blockers in those with mild to moderate disease can prevent tachycardia and
+optimize diastolic filling. For women with severe disease, a percutaneous balloon valvotomy
+prior to conception should be considered. Those who develop class III–IV symptoms during
+pregnancy should also undergo valvotomy. This can be achieved with very limited fluoroscopy
+or appropriate shielding.
+Mitral regurgitation
+The usual cause of MR is MVP; this rarely requires treatment.
+Aortic stenosis
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 12/13
+--- Страница 13 ---
+22/01/2026, 15:52 Valve disease - Cardiology Explained - NCBI Bookshelf
+The most likely cause of AS in a woman of childbearing age is congenital bicuspid disease. Mild
+to moderate obstruction can be managed conservatively throughout pregnancy, whereas those
+with severe disease (eg, gradient >50 mm Hg, LV function likely to be normal) should be advised
+to delay conception until treatment is obtained.
+Aortic regurgitation
+AR can usually be managed medically with a combination of diuretics and vasodilator therapy.
+As with MR, surgery should be contemplated during pregnancy for the control of class III–IV
+symptoms.
+Anticoagulation in pregnancy
+Warfarin crosses the placenta and has been associated with an increased incidence of
+spontaneous abortion, fetal deformity, prematurity, and stillbirth. The incidence is probably
+around 5%–10%. In contrast, heparin does not cross the placenta and is generally safer. However,
+it is associated with a higher degree of thromboembolic complications. The evidence base for
+decision making is not good, and the decision should be made in partnership with the patient
+after explaining the risks involved. Most change from warfarin to heparin at week 36 in
+anticipation of labor.
+Further reading
+1. Guidelines for the management of patients with valvular heart disease. Executive
+summary: a report of the American College of Cardiology/American Heart Association
+Task Force on Practice Guidelines (Committee on Management of Patients with Valvular
+Heart Disease). Circulation. 1998;98:1949–84. [PubMed: 9799219]
+2. Phoon CK. Estimation of pressure gradients by auscultations: an innovative and accurate
+physical examination technique. Am Heart J. 2001;141:500–6. [PubMed: 11231450]
+3. Shry EA, Smithers MA, Mascette AM. Auscultation versus echocardiography in a healthy
+population with precordial murmur. Am J Cardiol. 2001;87:1428–30. [PubMed: 11397373]
+Copyright © 2004, Remedica.
+Bookshelf ID: NBK2220
+https://www.ncbi.nlm.nih.gov/books/NBK2220/ 13/13

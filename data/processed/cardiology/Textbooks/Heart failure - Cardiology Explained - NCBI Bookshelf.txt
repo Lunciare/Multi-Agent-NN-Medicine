@@ -1,0 +1,375 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Heart failure - Cardiology Explained - NCBI Bookshelf.pdf",
+  "converted_date": "2026-01-31T14:44:08.262389",
+  "file_size_bytes": 453383,
+  "original_format": "pdf",
+  "document_type": "Textbooks",
+  "source_folder": "Textbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Textbooks/Heart failure - Cardiology Explained - NCBI Bookshelf.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:51 Heart failure - Cardiology Explained - NCBI Bookshelf
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+Ashley EA, Niebauer J. Cardiology Explained. London: Remedica; 2004.
+Chapter 7 Heart failure
+Background
+The survival rate for myocardial infarction (MI) has greatly increased in recent years due to the
+success of thrombolysis and primary angioplasty. However, the ensuing epidemic of heart failure
+has created a major public health problem. Data from the UK suggest that heart failure affects
+approximately 2% of the population. Furthermore, the prognosis for chronic heart failure (CHF)
+is poor: a patient admitted to hospital with pulmonary edema has a poorer prognosis (the 5-year
+mortality rate is around 50%) than a patient presenting with a carcinoma in any organ other than
+the lung.
+The many causes of heart failure (see Table 1) operate through the central mechanism of reduced
+ventricular function. As a consequence, the heart is unable to perfuse the tissues adequately. The
+resulting clinical syndrome (see Table 2) can be explained by compensatory measures, such as
+cardiac hypertrophy and activation of the sympathetic nervous system and the renin–angiotensin
+system.
+Table 1
+Causes of heart failure.
+Table 2
+The multiorgan symptoms of heart failure.
+Heart failure is categorized as either systolic or diastolic. Systolic dysfunction is due to poor left
+ventricular (LV) contraction, usually expressed as ejection fraction (EF). Heart failure patients
+with diastolic dysfunction (more common in the elderly) have normal LV ejection fraction; the
+defect seems to lie in relaxation of the left ventricle and is associated with delayed filling. For the
+generalist, one clue to diastolic dysfunction lies in the chest x-ray (CXR), which can show signs
+of congestion without significant LV dilatation. However, echocardiography is required for a
+firm diagnosis (see Chapter 4, Understanding the echocardiogram).
+Pathophysiology
+The approach to heart failure has changed enormously over the past few years (see Figure 1).
+Earlier thinking focused on inadequate pump function and the accepted therapeutic wisdom was
+to bolster it with β-agonist inotropes. The idea of treating heart failure by blocking the
+sympathetic nervous system would have been regarded as heretical and dangerous. However, it
+has now been realized that most CHF pathology is a result of the body's own compensatory
+mechanisms (see Figure 2) and that interrupting these neurohumoral pathways achieves more
+than attempting to "overdrive" the failing heart. The exception is acute decompensation (acute
+heart failure, pulmonary edema, cardiogenic shock), where the focus is on short-term survival;
+although the primary aim is still the reduction of preload and afterload using diuretics and
+vasodilators, inotropes in the form of β-agonists are also used.
+Figure 1
+Treatment of heart failure according to (a) old and (b) new
+paradigms. ADH: antidiuretic hormone (vasopressin).
+https://www.ncbi.nlm.nih.gov/books/NBK2218/ 1/9
+--- Страница 2 ---
+22/01/2026, 15:51 Heart failure - Cardiology Explained - NCBI Bookshelf
+Figure 2
+Chronic heart failure. TNF: tumor necrosis factor.
+Clinical history and examination
+The hallmark of heart failure is dyspnea. The classic combination of raised jugular venous
+pressure (JVP), peripheral edema, palpable liver, basal crepitations, tachycardia, and a third heart
+sound is well known. Orthopnea (shortness of breath when lying flat) and paroxysmal nocturnal
+dyspnea (acute nocturnal shortness of breath) are both manifestations of decompensation of
+ventricular function – precipitated by diurnal susceptibility and increased venous return resulting
+from adoption of the supine position.
+In an elderly person, the cause of acute shortness of breath can often be difficult to diagnose, and
+the chest may reveal nothing but coarse breath sounds throughout. In this situation, two factors
+are helpful: the JVP and overt sympathetic overactivation (cold peripheries and profuse
+sweating).
+Investigations
+Electrocardiography
+The electrocardiogram of a patient with heart failure often shows LV hypertrophy (LVH). This
+may show a "strain" pattern (LVH plus ST depression), most commonly in the lateral chest leads.
+Arrhythmias are also common in heart failure.
+Chest x-ray
+Classic signs on CXRs are common only for acute heart failure. Typically, some of the following
+signs are seen (see Figure 3):
+Figure 3
+(a) Classic signs of acute heart failure that can be seen on a
+chest x-ray of left ventricular failure. (b) Pleural effusion on a
+chest x-ray.
+cardiomegaly (see Figure 4)
+upper lobe blood diversion
+"bat's wing" alveolar edema
+pleural effusions
+Kerley B lines (lymphatics)
+Figure 4
+Cardiomegaly and pleural effusion (on the right side) in a
+patient with heart failure.
+Echocardiography
+This is the investigation of choice and can identify and quantify LVH and dysfunction (both
+systolic and diastolic) as well as examine causes of heart failure, such as valve abnormalities.
+https://www.ncbi.nlm.nih.gov/books/NBK2218/ 2/9
+--- Страница 3 ---
+22/01/2026, 15:51 Heart failure - Cardiology Explained - NCBI Bookshelf
+Blood tests
+The measurement of natriuretic peptides for the diagnosis of heart failure is not yet routine.
+However, other blood tests can contribute to the clinical picture. The sodium concentration is
+often low (<130 mmol/L, despite high total body sodium) as a result of dilution and is a strong
+prognostic indicator. The potassium level is altered by many of the therapeutic agents and should
+be kept in the mid to high normal range (4.25–5 mmol/L) to minimize the risk of arrhythmia. If
+the pulse is of full volume, investigative blood tests for anemia and thyroid function should be
+carried out. If echo suggests restrictive cardiomyopathy, further tests can be carried out for iron
+storage disease, amyloidosis, or sarcoidosis.
+Management: acute heart failure
+The approach to the management of acute decompensation is different from that to CHF. Acute
+pulmonary edema should be managed by:
+sitting the patient up
+giving high-flow oxygen
+giving diamorphine (2.5–5 mg intravenous [IV])
+giving nitrates (sublingual at first, then isosorbide mononitrate 2–10 mg/hour IV)
+giving loop diuretics (eg, furosemide [frusemide] 40–80 mg slow IV)
+Blood pressure is a key measurement and should be considered when deciding the rate of a
+nitrate infusion or whether to use β-agonists. If the systolic blood pressure drops below 100 mm
+Hg, consideration should be given to replacing the nitrate infusion with one containing
+dobutamine (2–10 μg/kg/min). Although the effect of an IV diuretic can often be dramatic
+(probably due to an early effect on pulmonary venous dilatation), nitrates are preferred because,
+in addition to decreasing preload, they also decrease peripheral resistance and do not reduce
+cardiac output.
+It is also important to take the precipitating factor into account. If, for example, a patient is in
+atrial fibrillation, slowing the ventricular rate may be more effective than a combination of more
+general measures. Similarly, if a patient has suffered an MI then thrombolysis or intervention
+may be the key to their recovery.
+Management: cardiogenic shock
+Cardiogenic shock, which has a 90% mortality rate, is the most severe form of acute heart
+failure. It is diagnosed when acute heart failure and hypotension are resistant to the measures
+described above and there is evidence of tissue hypoxia. Treatment, which should be in the
+coronary care unit of a specialist center, involves inotropic support, invasive monitoring
+equipment, intra-aortic balloon pumping, and, in the setting of MI, cardiac catheterization.
+Intra-aortic balloon pump counterpulsation
+Intra-aortic balloon pump (IABP) counterpulsation was developed in the early 1960s. A balloon
+is inserted, via the femoral artery, into the descending aorta (see Figure 5). Using
+electrocardiography for synchronization, the balloon is almost instantaneously, automatically
+inflated with helium at the onset of diastole, then deflated just prior to systole. This serves a dual
+purpose:
+Figure 5
+(a) Insertion of an intra-aortic balloon pump and (b) the
+corresponding arterial pressure waveform.
+https://www.ncbi.nlm.nih.gov/books/NBK2218/ 3/9
+--- Страница 4 ---
+22/01/2026, 15:51 Heart failure - Cardiology Explained - NCBI Bookshelf
+it improves coronary blood flow by increasing the perfusion pressure in the ascending
+aorta during diastole
+it encourages systemic perfusion by reducing impedance to ventricular ejection at the point
+of balloon deflation (it creates a negative pressure which helps to "suck" the blood out)
+Contraindications to IABP include severe aortic regurgitation and aortic dissection.
+Management: chronic heart failure
+The chronic form of heart failure is a condition that most generalists treat every day. When
+referring these patients, it is useful to classify the severity of heart failure. This is facilitated by a
+very simple scale: the New York Heart Association (NYHA) functional classification (see Table
+3). It is straightforward and provides a common language that is understood by cardiologists
+worldwide.
+Table 3
+The New York Heart Association functional classification of
+chronic heart failure.
+Diagnosis and assessment
+The initial diagnosis and assessment of the severity and progression of CHF can be made using
+echo and exercise testing with gas analysis. The most commonly used echo measure is the EF.
+This is rated as:
+45%–70%, normal
+35%–45%, mildly impaired
+25%–35%, moderately impaired
+<25%, severely impaired
+<15%, end-stage/transplant candidates
+5% is compatible with life, but not long life
+The single best exercise-testing measurement is the maximum rate of oxygen consumption (VO
+2
+max). In a situation where cardiac and respiratory causes of dyspnea coexist, exercise testing
+with gas analysis can be particularly useful in discerning which is the greater problem.
+Treatment
+The first step in the management of CHF is patient education. It is easy for physicians to forget
+(since they use the term every day) that, to most patients, heart "failure" sounds significantly
+worse than "myocardial infarction", "heart attack", or even "cardiac arrest". Educating patients
+about their condition – by giving them information about avoiding excessive salt intake and
+teaching them how to use their daily weight to monitor fluid balance – will pay dividends in
+long-term management.
+Historical Hearts
+Hippocrates believed that the left side of the heart and its associated arteries were conduits
+for air rather than blood. Galen (AD 138–201) thought that blood passed through invisible
+pores in the ventricular septum. Such was his influence on Roman medical thinking that this
+idea remained in place until the 15th century when an embargo on the dissection of human
+https://www.ncbi.nlm.nih.gov/books/NBK2218/ 4/9
+--- Страница 5 ---
+22/01/2026, 15:51 Heart failure - Cardiology Explained - NCBI Bookshelf
+cadavers was lifted by the Pope. Not long after this, Leonardo da Vinci and others began to
+produce detailed anatomical drawings, and William Harvey finally described the function of
+the heart as a pump that pushed blood through a circulatory system, beat by beat.
+Spironolactone, angiotensin-converting enzyme inhibitors (ACEIs), and β-blockers are the only
+agents that have been shown to reduce heart failure mortality, and all are now widely used in the
+community. However, their use requires caution. Although not strictly necessary, most
+practitioners use short-acting preparations (eg, captopril, metoprolol) when first starting these
+treatments.
+Diuretics
+Although diuretics are the mainstay of CHF management, their main role is in symptom control
+– they may even increase neurohumoral activation. An approach that allows patients to take
+control of their own diuretic dosage and alter it according to their daily weight (in much the same
+way as diabetics alter their insulin dosage) may be successful in many patients. It is
+recommended that diuretics should always be used with an ACEI. In addition, the skillful use of
+diuretics with complementary actions (see Figure 6, Tables 4 and 5) can aid diuresis and even
+avoid hospital admission if the balance is upset. Given the choice between increasing the dose of
+a loop diuretic or adding another agent, it is usually best to add another agent.
+Figure 6
+The mechanism of action of diuretics in chronic heart failure
+management.
+Table 4
+Diuretics used in the treatment of heart failure.
+Table 5
+Treatment of heart failure with diuretics (loop diuretics,
+thiazides, metolazone).
+Spironolactone has been shown to improve outcomes in stage III–IV heart failure with an effect
+equivalent to that of ACE inhibition (25 mg spironolactone has a beneficial effect on remodeling,
+but essentially no effect on potassium levels and diuresis).
+Metolazone is a thiazide-like diuretic that has a powerful synergistic action with loop diuretics,
+so should be used in the community only as a last resort, for short periods, and be accompanied
+by daily electrolyte checks.
+Defining Hearts
+Pulmonary edema was first explained by Henry Welch, who showed that it could be
+reproduced by obstructing the outflow of the left ventricle. However, the first definition of
+heart failure was provided by Theophile Bonet (1620–1689), who published clinico-
+pathological studies linking the effects of valvular disease and cardiac chamber size to the
+clinical features of dyspnea and edema.
+https://www.ncbi.nlm.nih.gov/books/NBK2218/ 5/9
+--- Страница 6 ---
+22/01/2026, 15:51 Heart failure - Cardiology Explained - NCBI Bookshelf
+Angiotensin-converting enzyme inhibitors
+ACEIs were the first agents shown to reduce mortality in heart failure. Angiotensin receptor
+blockers (ARBs) are currently reserved for those patients with an ACE cough. Guidelines for
+starting ACEIs are outlined in Table 6.
+Table 6
+The recommended procedure for starting an angiotensin-
+converting enzyme inhibitor (ACEI).
+Beta-blockers
+Much of the early work on β-blockers used carvedilol – a nonselective β-blocker, α-antagonist,
+and antioxidant. However, although its significant effect appeared to result from β-blockade
+resulting in many different β-blocking agents being used, recent trials have suggested there may
+be effects over and above that of β-blockade. Beneficial effects of β-blockade include a reduction
+in heart rate (which increases myocardial perfusion), regression of LVH (probably related to
+inhibition of the deleterious effects of excess catecholamines), and a reduction in sudden death
+(probably related to a reduction in ventricular fibrillation – 50% of heart failure deaths are due to
+arrhythmia).
+Digoxin
+Digoxin has perhaps the longest history of any of the treatments for heart failure. However, being
+a positive inotrope, it occupies a controversial place overarching the old and new paradigms for
+the treatment of sinus rhythm heart failure. It works by increasing cellular calcium via inhibition
+of Na+/K+ ATPase and consequent reduction of Ca2+ extrusion via Na+/Ca2+ exchange (see
++
+Figure 7). As K "competes" with digoxin at the ATPase site, digoxin can become toxic in
+hypokalemic patients. Symptoms of digoxin toxicity are gastrointestinal upset and (more rarely)
+visual disturbances and headache. However, despite its widespread use, there have been no large,
+prospective, placebo-controlled trials to determine the efficacy of digoxin in reducing mortality
+(although it has been shown to reduce hospital admissions).
+Figure 7
++ +
+Mechanism of action of digoxin. Digoxin inhibits Na /K
++
+ATPase. As a consequence of an increased intercellular Na
+concentration, Ca2+ extrusion (via Na+/Ca2+ exchange) is
+reduced. The result is an increase in cellular Ca2+.
+Hydralazine and nitrates
+The vasodilator combination of hydralazine (up to 300 mg) and nitrates (160 mg isosorbide
+dinitrate) has been tested with digoxin and diuretics in several large trials and has been
+associated with mortality reductions in heart failure. However, the advent of ARBs is likely to
+offer a better alternative to ACEIs than this drug combination.
+Future directions
+Areas of controversy still exist in the management of CHF. For example, aspirin is known to be
+effective as an aid to secondary prevention of coronary artery disease. However, it can reduce the
+efficacy of ACEIs. Also, despite the high rate of heart failure deaths due to arrhythmia (50%),
+amiodarone is the only antiarrhythmic (so far) that has been shown to reduce mortality.
+New agents currently being investigated in trials include:
+https://www.ncbi.nlm.nih.gov/books/NBK2218/ 6/9
+--- Страница 7 ---
+22/01/2026, 15:51 Heart failure - Cardiology Explained - NCBI Bookshelf
+2+
+calcium sensitizers (increase contractile response to intracellular Ca )
+endothelin antagonists (there are increased levels of endothelin – a potent vasoconstrictor –
+in heart failure); results of all recent trials have been negative or neutral at best
+TNF-α antibodies; recent trials all produced negative results
+neutral endopeptidase inhibitors (neutral endopeptidase breaks down atrial natriuretic
+peptide and brain natriuretic peptide – peptides with diuretic, natriuretic, and vasodilator
+properties)
+Heart failure treatments, according to NYHA classification, are outlined in Table 7.
+Table 7
+Treatment of heart failure according to the New York Heart
+Association (NYHA) functional classification of congestive
+heart failure.
+Nonpharmacotherapies
+Recent evidence suggests that individualized exercise training programs can be beneficial in
+stable, mild to moderate heart failure. Like most other aspects of the treatment of heart failure,
+today's advice (exercise) is the opposite of that from 30 years ago (bed rest).
+Early Treatments
+The first breakthrough in the treatment of heart failure was by William Withering (1741–
+1799), who published observations of the therapeutic use of digitalis (foxglove).
+Ironically, he believed its main mechanism of action was diuretic. Until the discovery of
+digitalis, treatment for heart failure had remained unchanged since Egyptian times: bed
+rest, fluid restriction, and weak herbal diuretics were combined with starvation, laxatives,
+and venesection. Patients can perhaps derive some solace from the fact they are living
+today, rather than 200 years ago.
+Revascularization of patients with heart failure is being considered increasingly as it is realized
+that chronic LV dysfunction does not necessarily mean permanent or irreversible cell damage.
+Myocardium that has suffered low-level ischemia and no longer contributes significantly to
+ventricular function (hibernating myocardium) remains viable, and therefore potentially
+rescuable. It can be detected by cardiovascular magnetic resonance imaging, perfusion imaging,
+low-dose dobutamine stress echo, or PET scanning (perfusion metabolism mismatch).
+Many patients with systolic heart failure exhibit significant intra- or interventricular conduction
+delays (IVCDs) that cause ventricular dysynchrony, recognized by a wide QRS complex on the
+ECG (typically, a left bundle branch block morphology). Ventricular dysynchrony has several
+important consequences for cardiac performance, which include abnormal interventricular septal
+wall motion, reduced diastolic filling time, and prolonged mitral regurgitation duration. In
+addition, there is a proportional increase in mortality with increasing QRS duration. Cardiac
+resynchronization therapy (CRT) provides atrial-synchronized, biventricular pacing using
+standard pacing technology combined with a special third lead. This third lead is implanted via
+the coronary sinus and positioned in a cardiac vein to sense and pace the left ventricle. Following
+a sensed atrial contraction, both ventricles are stimulated to contract simultaneously. The
+resulting resynchronization of ventricular contraction reduces mitral regurgitation and optimizes
+left ventricular filling, thereby improving cardiac function.
+https://www.ncbi.nlm.nih.gov/books/NBK2218/ 7/9
+--- Страница 8 ---
+22/01/2026, 15:51 Heart failure - Cardiology Explained - NCBI Bookshelf
+Transplantation and ventricular assist devices are options for end-stage disease. Local availability
+and guidelines vary. Indications are:
+severe LV dysfunction (eg, EF <20% as demonstrated by radionuclide ventriculography)
+VO max <14 mL/kg/min (patients with values above this tend to have a better prognosis
+2
+without surgery)
+Contraindications center on comorbidities, eg, vasculopathy, diabetes mellitus with target-organ
+damage, or pulmonary hypertension. In addition, few centers will transplant patients over the age
+of 60 years.
+Several studies have shown clear benefit from a multidisciplinary approach to heart failure
+treatment. Specialist nurses who visit patients in the community can significantly reduce the rate
+of hospitalization by helping with exercise, symptom control, and fluid balance, and by alerting
+the medical team early to any potential deterioration.
+Palliative care
+The very poor prognosis associated with heart failure begs the question of the availability of
+hospice care and end-of-life support for this population. The irony remains that while cancer
+patients receive end-of-life support and often report dyspnea as an equivalent problem to pain,
+many more heart failure patients whose chief symptom is dyspnea have a poorer prognosis and
+go unattended. The management of these patients is an area deserving of more investigation and
+analysis. For example, what is the place of drugs that are known to help symptoms but which
+might increase the risk of sudden death (eg, inotropes)? Does "dual-intent" apply? What are the
+wishes of the patient? As cardiology becomes more technological there is less focus on patients
+and more on their lesions and the tools used to treat them. Generalists are almost certainly better
+than cardiologists at practising holistic care.
+Unfortunately, conventional drugs for the treatment of heart failure do not adequately control the
+most common symptoms of fatigue and dyspnea. The latter is the most common distressing
+symptom in refractory heart failure. Maintaining a very close control of plasma volume is
+facilitated by regular weighing and adjustment of diuresis, but this rarely provides full symptom
+control. Fortunately, relief is possible through the use of opiates. These drugs reduce preload and
+afterload, dampen the central respiratory drive, and relieve distress through a central narcotic
+action. Thus, they are well suited for use in this situation. Drawbacks, such as tolerance and
+dependence, should not deter their use as studies suggest that they are minimal in this setting.
+Physical dependence is inevitable, but only relevant in the case of discontinuation of therapy, in
+which case it can be managed by gradual withdrawal. Morphine can be given at a dose of 2.5 mg
+4 hourly and as required, with the 4-hourly dose readjusted after 48 hours to take account of
+interim dosing. Control of constipation should always accompany chronic opioid treatment.
+Further reading
+1. Jong P, Demers C, McKelvie RS. et al. Angiotensin receptor blockers in heart failure:
+meta-analysis of randomized controlled trials. J Am Coll Cardiol. 2002;39:463–70.
+[PubMed: 11823085]
+2. Krumholz HM, Baker DW, Ashton CM. et al. Evaluating quality of care for patients with
+heart failure. Circulation. 2000;101:E122–40. [PubMed: 10736303]
+3. Niebauer J, Volk HD, Kemp M. et al. Endotoxin and immune activation in chronic heart
+failure: a prospective cohort study. Lancet. 1999;353:1838–42. [PubMed: 10359409]
+4. Nolan J. A historical review of heart failure. Scott Med J. 1993;38:53–7. [PubMed:
+8502981]
+5. Task Force of the Working Group on Heart Failure of the European Society of Cardiology.
+The treatment of heart failure. Eur Heart J. 1997;18:736–53. [PubMed: 9152644]
+https://www.ncbi.nlm.nih.gov/books/NBK2218/ 8/9
+--- Страница 9 ---
+22/01/2026, 15:51 Heart failure - Cardiology Explained - NCBI Bookshelf
+Copyright © 2004, Remedica.
+Bookshelf ID: NBK2218
+https://www.ncbi.nlm.nih.gov/books/NBK2218/ 9/9

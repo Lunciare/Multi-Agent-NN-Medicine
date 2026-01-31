@@ -1,0 +1,1205 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "venous-thromboembolism-in-over-16s-reducing-the-risk-of-hospitalacquired-deep-vein-thrombosis-or-pulmonary-embolism-pdf-1837703092165.pdf",
+  "converted_date": "2026-01-31T14:50:55.472303",
+  "file_size_bytes": 244918,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/venous-thromboembolism-in-over-16s-reducing-the-risk-of-hospitalacquired-deep-vein-thrombosis-or-pulmonary-embolism-pdf-1837703092165.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+Venous thromboembolism
+in over 16s: reducing the
+risk of hospital-acquired
+deep vein thrombosis or
+pulmonary embolism
+NICE guideline
+Published: 21 March 2018
+Last updated: 13 August 2019
+www.nice.org.uk/guidance/ng89
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+--- Страница 2 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Your responsibility
+The recommendations in this guideline represent the view of NICE, arrived at after careful
+consideration of the evidence available. When exercising their judgement, professionals
+and practitioners are expected to take this guideline fully into account, alongside the
+individual needs, preferences and values of their patients or the people using their service.
+It is not mandatory to apply the recommendations, and the guideline does not override the
+responsibility to make decisions appropriate to the circumstances of the individual, in
+consultation with them and their families and carers or guardian.
+All problems (adverse events) related to a medicine or medical device used for treatment
+or in a procedure should be reported to the Medicines and Healthcare products Regulatory
+Agency using the Yellow Card Scheme.
+Local commissioners and providers of healthcare have a responsibility to enable the
+guideline to be applied when individual professionals and people using services wish to
+use it. They should do so in the context of local and national priorities for funding and
+developing services, and in light of their duties to have due regard to the need to eliminate
+unlawful discrimination, to advance equality of opportunity and to reduce health
+inequalities. Nothing in this guideline should be interpreted in a way that would be
+inconsistent with complying with those duties.
+Commissioners and providers have a responsibility to promote an environmentally
+sustainable health and care system and should assess and reduce the environmental
+impact of implementing NICE recommendations wherever possible.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
+conditions#notice-of-rights). 45
+--- Страница 3 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Contents
+Overview ...................................................................................................................................... 5
+Who is it for? .......................................................................................................................................... 5
+Recommendations ....................................................................................................................... 6
+1.1 Risk assessment ............................................................................................................................... 6
+1.2 Giving information and planning for discharge ............................................................................. 9
+1.3 All patients ....................................................................................................................................... 11
+1.4 Interventions for people with acute coronary syndromes or acute stroke or for acutely ill
+patients .................................................................................................................................................. 14
+1.5 Interventions for people with renal impairment ............................................................................ 15
+1.6 Interventions for people with cancer ............................................................................................. 16
+1.7 Interventions for people having palliative care ............................................................................. 16
+1.8 Interventions for people admitted to critical care ........................................................................ 17
+1.9 Interventions for people with psychiatric illness .......................................................................... 18
+1.10 Interventions when using anaesthesia ........................................................................................ 19
+1.11 Interventions for people having orthopaedic surgery ................................................................ 20
+1.12 Interventions for people having elective spinal surgery or cranial surgery or people with
+spinal injury ............................................................................................................................................ 24
+1.13 Interventions for people with major trauma ................................................................................ 27
+1.14 Interventions for people having abdominal, thoracic or head and neck surgery .................... 27
+1.15 Interventions for people having cardiac or vascular surgery .................................................... 31
+1.16 Interventions for pregnant women and women who gave birth or had a miscarriage or
+termination of pregnancy in the past 6 weeks ................................................................................... 33
+Terms used in this guideline ................................................................................................................. 35
+Recommendations for research .................................................................................................37
+1 Risk assessment ................................................................................................................................. 37
+2 Dose strategies for people who are obese ..................................................................................... 37
+3 Direct oral anticoagulants for people with lower limb immobilisation .......................................... 38
+4 Aspirin prophylaxis for people with fragility fractures of the pelvis, hip or proximal femur ....... 39
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
+conditions#notice-of-rights). 45
+--- Страница 4 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+5 Duration of prophylaxis for elective total hip replacement surgery .............................................. 39
+Context ......................................................................................................................................... 41
+Finding more information and committee details .....................................................................43
+Update information .....................................................................................................................44
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
+conditions#notice-of-rights). 45
+--- Страница 5 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+This guideline replaces CG92.
+This guideline is the basis of QS201.
+Overview
+This guideline covers assessing and reducing the risk of venous thromboembolism (VTE or
+blood clots, including deep vein thrombosis and pulmonary embolism) in people aged 16
+and over in hospital. It aims to help healthcare professionals identify people most at risk
+and describes interventions that can be used to reduce the risk of VTE.
+For guidance on pharmacological VTE prophylaxis for people with COVID-19 pneumonia
+who are being treated in a hospital or community setting, see our COVID-19 rapid guideline
+on managing COVID-19.
+Who is it for?
+• Healthcare professionals
+• People going into hospital who are at risk of VTE. This includes people discharged
+from hospital, (including from A&E) with lower limb devices such as plaster casts and
+braces, people attending hospital for day procedures including cancer treatment and
+surgery, and pregnant women admitted to hospital or a midwife-led unit including up
+to 6 weeks after giving birth, and their carers
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
+conditions#notice-of-rights). 45
+--- Страница 6 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Recommendations
+People have the right to be involved in discussions and make informed decisions
+about their care, as described in NICE's information on making decisions about your
+care.
+Making decisions using NICE guidelines explains how we use words to show the
+strength (or certainty) of our recommendations, and has information about
+prescribing medicines (including off-label use), professional guidelines, standards
+and laws (including on consent and mental capacity), and safeguarding.
+1.1 Risk assessment
+All patients
+1.1.1 Assess all patients to identify the risk of venous thromboembolism (VTE) and
+bleeding (see the recommendation for all medical patients, for all surgical
+patients, for all pregnant women and all women who gave birth or had a
+miscarriage or termination of pregnancy in the past 6 weeks, for all people
+admitted to the critical care unit and for all acute psychiatric patients). [2018]
+People admitted, or are due to be admitted, to hospital
+Medical patients
+1.1.2 Assess all medical patients to identify the risk of VTE and bleeding:
+• as soon as possible after admission to hospital or by the time of the first
+consultant review, or
+• in accident and emergency, if they have not been admitted within 12 hours of
+their arrival
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
+conditions#notice-of-rights). 45
+--- Страница 7 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+• using a tool published by a national UK body, professional network or peer-
+reviewed journal.
+A tool commonly used to develop a treatment plan for medical patients is the
+Department of Health VTE risk assessment tool. (Reproduced with the
+permission of the Department of Health and Social Care under the Open
+Government Licence.) [2018, amended 2021]
+1.1.3 Balance the person's individual risk of VTE against their risk of bleeding when
+deciding whether to offer pharmacological thromboprophylaxis to medical
+patients. [2018]
+1.1.4 If using pharmacological VTE prophylaxis for medical patients, start it as soon as
+possible and within 14 hours of a decision to admit, unless otherwise stated in
+the population-specific recommendations (see the sections on interventions for
+people with acute coronary syndromes or acute stroke or for acutely ill patients,
+interventions for people with renal impairment, interventions for people with
+cancer, interventions for people having palliative care, interventions for people
+admitted to critical care, and interventions for people with psychiatric illness).
+[2018]
+Surgical and trauma patients
+1.1.5 Assess all surgical and trauma patients to identify the risk of VTE and bleeding:
+• as soon as possible after admission to hospital or by the time of the first
+consultant review, or
+• in accident and emergency, if they have not been admitted within 12 hours of
+their arrival
+• using a tool published by a national UK body, professional network or peer-
+reviewed journal.
+A tool commonly used to develop a treatment plan for surgical patients is the
+Department of Health VTE risk assessment tool. (Reproduced with the
+permission of the Department of Health and Social Care under the Open
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
+conditions#notice-of-rights). 45
+--- Страница 8 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Government Licence.) [2018, amended 2021]
+1.1.6 Balance the person's individual risk of VTE against their risk of bleeding when
+deciding whether to offer pharmacological thromboprophylaxis to surgical and
+trauma patients. [2018]
+1.1.7 If using pharmacological VTE prophylaxis for surgical and trauma patients, start it
+as soon as possible and within 14 hours of a decision to admit, unless otherwise
+stated in the population-specific recommendations (see the sections on
+interventions when using anaesthesia, interventions for people having
+orthopaedic surgery, interventions for people having elective spinal surgery or
+cranial surgery people with spinal injury, interventions for people with major
+trauma, interventions for people having abdominal, thoracic or head and neck
+surgery, and interventions for people having cardiac or vascular surgery). [2018]
+Reassessment of risk of VTE and bleeding
+1.1.8 Reassess all medical, surgical and trauma patients for risk of VTE and bleeding at
+the point of consultant review or if their clinical condition changes. [2018]
+Pregnant women and women who gave birth or had a miscarriage
+or termination of pregnancy in the past 6 weeks
+1.1.9 Assess all women on admission to hospital or a midwife-led unit if they are
+pregnant or gave birth, had a miscarriage or had a termination of pregnancy in
+the past 6 weeks, to identify their risk of VTE and bleeding. Use a tool published
+by a national UK body, professional network or peer-reviewed journal. The most
+commonly used tool is the Royal College of Obstetricians and Gynaecologists risk
+assessment tool. (Reproduced from: Royal College of Obstetricians and
+Gynaecologists. Reducing the risk of venous thromboembolism during pregnancy
+and the puerperium. Green-top Guideline No. 37a. London: RCOG, 2015, with the
+permission of the Royal College of Obstetricians and Gynaecologists.) [2018]
+1.1.10 Reassess risk of VTE and bleeding, and assess the need for thromboprophylaxis
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
+conditions#notice-of-rights). 45
+--- Страница 9 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+for all women:
+• within 6 hours of giving birth, having a miscarriage or having a termination of
+pregnancy or
+• if their clinical condition changes and they:
+－ are pregnant or
+－ gave birth, had a miscarriage or had a termination of pregnancy within
+the past 6 weeks. [2018]
+1.2 Giving information and planning for discharge
+1.2.1 On admission ensure that people understand the reason for having a risk
+assessment for VTE and bleeding. [2018]
+1.2.2 For people admitted to hospital who are at increased risk of VTE, give them and
+their family members or carers (as appropriate) verbal and written information on
+the following before offering VTE prophylaxis:
+• the person's risks and possible consequences of VTE
+• the importance of VTE prophylaxis and its possible side effects – for example,
+pharmacological prophylaxis can increase bleeding risk
+• the correct use of VTE prophylaxis – for example, anti-embolism stockings,
+intermittent pneumatic compression
+• how people can reduce their risk of VTE (such as keeping well hydrated and,
+if possible, exercising and becoming more mobile). [2018]
+1.2.3 Be aware that heparins are of animal origin and this may be of concern to some
+people (See Religion or belief: a practical guide for the NHS). Discuss the
+alternatives with people who have concerns about using animal products, after
+discussing their suitability, advantages and disadvantages with the person.
+[2018]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
+conditions#notice-of-rights). 45
+--- Страница 10 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+1.2.4 As part of the discharge plan, give patients and their family members or carers
+(as appropriate) verbal and written information on:
+• the signs and symptoms of deep vein thrombosis (DVT) and pulmonary
+embolism
+• how people can reduce their risk of VTE (such as keeping well hydrated and,
+if possible, exercising and becoming more mobile)
+• the importance of seeking help if DVT, pulmonary embolism or other adverse
+events are suspected. [2018]
+1.2.5 Give people discharged with VTE prophylaxis and their family members or carers
+(as appropriate) verbal and written information on:
+• the importance of using VTE prophylaxis correctly (including the correct
+administration and disposal of pharmacological prophylaxis)
+• the importance of continuing treatment for the recommended duration
+• the signs and symptoms of adverse events related to VTE prophylaxis
+• the importance of seeking help and who to contact if people have problems
+using VTE prophylaxis. [2018]
+1.2.6 Ensure that people who are discharged with anti-embolism stockings:
+• understand the benefits of wearing them
+• understand the importance of wearing them correctly
+• understand the need to remove them daily for hygiene purposes
+• are able to remove and replace them, or have someone available who will be
+able to do this for them
+• know what to look for if there is a problem – for example, skin marking,
+blistering or discolouration, particularly over the heels and bony prominences
+• know who to contact if there is a problem
+• know when to stop wearing them. [2018]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
+conditions#notice-of-rights). 45
+--- Страница 11 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+1.2.7 Ensure that people who are discharged with pharmacological and/or mechanical
+VTE prophylaxis are able to use it correctly, or have arrangements made for
+someone to be available who will be able to help them. [2018]
+1.2.8 Notify the person's GP if the person has been discharged with pharmacological
+and/or mechanical VTE prophylaxis to be used at home. [2018]
+1.3 All patients
+Mechanical prophylaxis
+1.3.1 Do not offer anti-embolism stockings to people who have:
+• suspected or proven peripheral arterial disease
+• peripheral arterial bypass grafting
+• peripheral neuropathy or other causes of sensory impairment
+• any local conditions in which anti-embolism stockings may cause damage –
+for example, fragile 'tissue paper' skin, dermatitis, gangrene or recent skin
+graft
+• known allergy to material of manufacture
+• severe leg oedema
+• major limb deformity or unusual leg size or shape preventing correct fit.
+Use caution and clinical judgement when applying anti-embolism stockings
+over venous ulcers or wounds. [2010, amended 2018]
+1.3.2 Ensure that people who need anti-embolism stockings have their legs measured
+and that they are provided with the correct size of stocking. Anti-embolism
+stockings should be fitted and patients shown how to use them by staff trained in
+their use. [2010]
+1.3.3 Ensure that people who develop oedema or postoperative swelling have their
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
+conditions#notice-of-rights). 45
+--- Страница 12 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+legs re-measured and anti-embolism stockings refitted. [2010]
+1.3.4 If arterial disease is suspected, seek expert opinion before fitting anti-embolism
+stockings. [2010]
+1.3.5 Use anti-embolism stockings that provide graduated compression and produce a
+calf pressure of 14 mmHg to 15 mmHg. (This relates to a pressure of 14 mmHg to
+18 mmHg at the ankle and is in line with the British Standard Institution's BS
+661210:2018 Specification for graduated compression hosiery, anti-embolism
+hosiery and graduated support hosiery.) [2010]
+1.3.6 Encourage people to wear their anti-embolism stockings day and night until they
+no longer have significantly reduced mobility. [2010]
+1.3.7 Remove anti-embolism stockings daily for hygiene purposes and to inspect skin
+condition. In people with a significant reduction in mobility, poor skin integrity or
+any sensory loss, inspect the skin 2 or 3 times a day, particularly over the heels
+and bony prominences. [2010]
+1.3.8 Monitor the use of anti-embolism stockings and offer assistance if they are not
+being worn correctly. [2010]
+1.3.9 Stop the use of anti-embolism stockings if there is marking, blistering or
+discolouration of the skin, particularly over the heels and bony prominences, or if
+the person experiences pain or discomfort. If suitable, offer intermittent
+pneumatic compression as an alternative. [2010, amended 2018]
+1.3.10 Do not offer intermittent pneumatic compression to people with a known allergy
+to the material of manufacture. [2010, amended 2018]
+1.3.11 Advise the person to wear their device for as much time as possible. [2010,
+amended 2018]
+Pharmacological prophylaxis
+1.3.12 For pharmacological VTE prophylaxis in people under 18, follow the
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
+conditions#notice-of-rights). 45
+--- Страница 13 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+recommendations on apixaban, aspirin, dabigatran etexilate, fondaparinux
+sodium, low-molecular-weight heparin (LMWH) and rivaroxaban in this guideline.
+[2018]
+In March 2018, the use of these drugs in young people under 18 was off label.
+See NICE's information on prescribing medicines.
+All surgery
+1.3.13 Advise people to consider stopping oestrogen-containing oral contraceptives or
+hormone replacement therapy 4 weeks before elective surgery. If stopped,
+provide advice on alternative contraceptive methods. [2010]
+Nursing care: early mobilisation and hydration
+1.3.14 Encourage people to mobilise as soon as possible. [2010]
+1.3.15 Do not allow people to become dehydrated unless clinically indicated. [2010]
+People using antiplatelet agents
+1.3.16 Consider VTE prophylaxis for people who are having antiplatelet agents for other
+conditions and whose risk of VTE outweighs their risk of bleeding. Take into
+account the risk of bleeding and of comorbidities such as arterial thrombosis.
+• If the risk of VTE outweighs the risk of bleeding, consider pharmacological
+VTE prophylaxis based on their condition or procedure.
+• If the risk of bleeding outweighs the risk of VTE, consider mechanical VTE
+prophylaxis. [2018]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
+conditions#notice-of-rights). 45
+--- Страница 14 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+People using anticoagulation therapy
+1.3.17 Consider VTE prophylaxis for people at increased risk of VTE who are interrupting
+anticoagulant therapy. [2018]
+1.4 Interventions for people with acute coronary
+syndromes or acute stroke or for acutely ill
+patients
+Acute coronary syndromes
+1.4.1 Be aware that people receiving anticoagulant drugs as part of their treatment for
+an acute coronary syndrome do not usually need VTE prophylaxis. See also the
+recommendation in the section on people using anticoagulation therapy. [2018]
+Acute stroke patients
+1.4.2 Do not offer anti-embolism stockings for VTE prophylaxis to people who are
+admitted for acute stroke. [2010, amended 2018]
+1.4.3 Consider intermittent pneumatic compression for VTE prophylaxis for people who
+are immobile and admitted with acute stroke. If using, start it within 3 days of
+acute stroke. [2018]
+1.4.4 Explain to the person admitted with acute stroke and their family members or
+carers (as appropriate) that intermittent pneumatic compression:
+• reduces the risk of DVT and may increase their chances of survival
+• will not help them recover from stroke, and there may be an associated
+increased risk of surviving with severe disability. [2018]
+1.4.5 When using intermittent pneumatic compression for people who are admitted
+with acute stroke, provide it for 30 days or until the person is mobile or
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
+conditions#notice-of-rights). 45
+--- Страница 15 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+discharged, whichever is sooner. [2018]
+Acutely ill medical patients
+For guidance on pharmacological VTE prophylaxis for people with COVID-19 pneumonia
+who are being treated in a hospital or community setting, see our COVID-19 rapid guideline
+on managing COVID-19.
+1.4.6 Offer pharmacological VTE prophylaxis for a minimum of 7 days to acutely ill
+medical patients whose risk of VTE outweighs their risk of bleeding:
+• Use LMWH as first-line treatment.
+• If LMWH is contraindicated, use fondaparinux sodium. [2018]
+In March 2018, the use of LMWH and fondaparinux sodium in young people
+under 18 was off label. See NICE's information on prescribing medicines.
+1.5 Interventions for people with renal impairment
+In March 2018, the use of LMWH in young people under 18 was off label. See NICE's
+information on prescribing medicines.
+1.5.1 If using pharmacological VTE prophylaxis for people with renal impairment,
+choose either LMWH or unfractionated heparin (UFH). [2018]
+1.5.2 If needed, reduce the dose of LMWH and UFH for people with renal impairment.
+Base the decision on multidisciplinary or senior opinion, or locally agreed
+protocols. [2018]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
+conditions#notice-of-rights). 45
+--- Страница 16 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+1.6 Interventions for people with cancer
+In March 2018:
+• the use of LMWH in young people under 18 in recommendations 1.6.2 and 1.6.3
+was off label
+• the use of aspirin in recommendation 1.6.2 was off label.
+See NICE's information on prescribing medicines.
+1.6.1 Do not offer VTE prophylaxis to people with cancer who are receiving cancer-
+modifying treatments such as radiotherapy, chemotherapy or immunotherapy and
+who are mobile, except as outlined in recommendations 1.6.2 and 1.6.3, unless
+they are also at increased risk of VTE because of something other than the
+cancer. [2018]
+1.6.2 Consider pharmacological VTE prophylaxis for people with myeloma who are
+receiving chemotherapy with thalidomide, pomalidomide or lenalidomide with
+steroids. Choose either:
+• aspirin (75 mg or 150 mg) or
+• LMWH. [2018]
+1.6.3 Consider pharmacological VTE prophylaxis with LMWH for people with pancreatic
+cancer who are receiving chemotherapy. [2018]
+1.6.4 If giving VTE prophylaxis to people with cancer (see recommendations 1.6.2
+and 1.6.3), continue for as long as they are receiving chemotherapy. [2018]
+1.7 Interventions for people having palliative care
+1.7.1 Consider pharmacological VTE prophylaxis for people who are having palliative
+care. Take into account temporary increases in thrombotic risk factors, risk of
+bleeding, likely life expectancy and the views of the person and their family
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
+conditions#notice-of-rights). 45
+--- Страница 17 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+members or carers (as appropriate):
+• Use LMWH as first-line treatment.
+• If LMWH is contraindicated, use fondaparinux sodium. [2018]
+In March 2018, the use of LMWH and fondaparinux sodium in young people
+under 18 was off label. See NICE's information on prescribing medicines.
+1.7.2 Do not offer VTE prophylaxis to people in the last days of life. [2018]
+1.7.3 For recommendations on shared decision-making in the last days of life, see the
+NICE guideline on care of dying adults in the last days of life. [2018]
+1.7.4 Review VTE prophylaxis daily for people who are having palliative care, taking into
+account the views of the person, their family members or carers (as appropriate)
+and the multidisciplinary team. [2018]
+1.8 Interventions for people admitted to critical
+care
+For guidance on pharmacological VTE prophylaxis for people with COVID-19 pneumonia
+who are being treated in a hospital or community setting, see our COVID-19 rapid guideline
+on managing COVID-19.
+1.8.1 Assess all people admitted to the critical care unit for risk of VTE and bleeding.
+[2018]
+1.8.2 Provide LMWH to people admitted to the critical care unit if pharmacological VTE
+prophylaxis is not contraindicated. For people with renal impairment, see the
+recommendations on interventions for people with renal impairment. [2018]
+In March 2018, the use of LMWH in young people under 18 was off label. See
+NICE's information on prescribing medicines.
+1.8.3 Consider mechanical VTE prophylaxis for people admitted to the critical care unit
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
+conditions#notice-of-rights). 45
+--- Страница 18 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+if pharmacological prophylaxis is contraindicated based on their condition or
+procedure. [2018]
+1.8.4 If using mechanical VTE prophylaxis for people admitted to the critical care unit,
+start it on admission and continue until the person no longer has reduced mobility
+relative to their normal or anticipated mobility. [2018]
+1.8.5 Reassess VTE and bleeding risk daily for people in critical care units. [2018]
+1.8.6 Assess VTE and bleeding risk more than once a day in people admitted to the
+critical care unit if the person's condition is changing rapidly. [2018]
+1.9 Interventions for people with psychiatric illness
+In March 2018:
+• the use of LMWH in young people under 18 in recommendations 1.9.3 and 1.9.4
+was off label
+• the use of fondaparinux sodium in young people under 18 in recommendation
+1.9.4 was off label.
+See NICE's information on prescribing medicines.
+1.9.1 Assess all acute psychiatric patients to identify their risk of VTE and bleeding:
+• as soon as possible after admission to hospital or by the time of the first
+consultant review
+• using a tool published by a national UK body, professional network or peer-
+reviewed journal.
+A tool commonly used to develop a treatment plan for surgical patients is the
+Department of Health VTE risk assessment tool. (Reproduced with the
+permission of the Department of Health and Social Care under the Open
+Government Licence.) [2018, amended 2021]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
+conditions#notice-of-rights). 45
+--- Страница 19 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+1.9.2 Reassess all people admitted to an acute psychiatric ward for risk of VTE and
+bleeding at the point of consultant review or if their clinical condition changes.
+[2018]
+1.9.3 Consider pharmacological VTE prophylaxis with LMWH for people admitted to an
+acute psychiatric ward whose risk of VTE outweighs their risk of bleeding. [2018]
+1.9.4 Consider pharmacological VTE prophylaxis with fondaparinux sodium if LMWH is
+contraindicated for people admitted to an acute psychiatric ward whose risk of
+VTE outweighs their risk of bleeding. [2018]
+1.9.5 Continue pharmacological VTE prophylaxis for people admitted to an acute
+psychiatric ward until the person is no longer at increased risk of VTE. [2018]
+1.10 Interventions when using anaesthesia
+1.10.1 Consider regional anaesthesia for individual patients, in addition to other
+methods of VTE prophylaxis, as it carries a lower risk of VTE than general
+anaesthesia. Take into account the person's preferences, their suitability for
+regional anaesthesia and any other planned method of VTE prophylaxis. [2010]
+1.10.2 If regional anaesthesia is used, plan the timing of pharmacological VTE
+prophylaxis to minimise the risk of epidural haematoma. If antiplatelet or
+anticoagulant agents are being used, or their use is planned, refer to the
+summary of product characteristics for guidance about the safety and timing of
+these in relation to the use of regional anaesthesia. [2010]
+1.10.3 Do not routinely offer pharmacological or mechanical VTE prophylaxis to people
+undergoing a surgical procedure with local anaesthesia by local infiltration with
+no limitation of mobility. [2010]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
+conditions#notice-of-rights). 45
+--- Страница 20 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+1.11 Interventions for people having orthopaedic
+surgery
+Lower limb immobilisation
+1.11.1 Consider pharmacological VTE prophylaxis with LMWH or fondaparinux sodium
+for people with lower limb immobilisation whose risk of VTE outweighs their risk
+of bleeding. Consider stopping prophylaxis if lower limb immobilisation continues
+beyond 42 days. [2018]
+In March 2018, the use of LMWH and fondaparinux sodium in young people
+under 18 was off label. See NICE's information on prescribing medicines.
+Fragility fractures of the pelvis, hip and proximal femur
+In March 2018, the use of LMWH and fondaparinux sodium in young people under 18
+in recommendations 1.11.2 and 1.11.3 was off label. See NICE's information on
+prescribing medicines.
+1.11.2 Offer VTE prophylaxis for a month to people with fragility fractures of the pelvis,
+hip or proximal femur if the risk of VTE outweighs the risk of bleeding. Choose
+either:
+• LMWH, starting 6 to12 hours after surgery or
+• fondaparinux sodium, starting 6 hours after surgery, providing there is low
+risk of bleeding. [2018]
+1.11.3 Consider pre-operative VTE prophylaxis for people with fragility fractures of the
+pelvis, hip or proximal femur if surgery is delayed beyond the day after admission.
+Give the last dose no less than 12 hours before surgery for LMWH or 24 hours
+before surgery for fondaparinux sodium. [2018]
+1.11.4 Consider intermittent pneumatic compression for people with fragility fractures of
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
+conditions#notice-of-rights). 45
+--- Страница 21 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+the pelvis, hip or proximal femur at the time of admission if pharmacological
+prophylaxis is contraindicated. Continue until the person no longer has
+significantly reduced mobility relative to their normal or anticipated mobility.
+[2018]
+Elective hip replacement
+In March 2018:
+• the use of LMWH and rivaroxaban in young people under 18 in recommendation
+1.11.5 was off label
+• the use of aspirin in recommendation 1.11.5 was off label
+• the use of apixaban and dabigatran etexilate in young people under 18 in
+recommendation 1.11.6 was off label.
+See NICE's information on prescribing medicines.
+1.11.5 Offer VTE prophylaxis to people undergoing elective hip replacement surgery
+whose risk of VTE outweighs their risk of bleeding. Choose any one of:
+• LMWH for 10 days followed by aspirin (75 mg or 150 mg) for a further
+28 days.
+• LMWH for 28 days combined with anti-embolism stockings (until discharge).
+• Rivaroxaban, which is recommended as an option in NICE technology
+appraisal guidance for preventing venous thromboembolism in adults after
+elective hip replacement surgery. For full details, see the guidance on
+rivaroxaban (TA170, 2009). [2018]
+1.11.6 Consider one of the following if none of the options in recommendation 1.11.5 can
+be used:
+• Apixaban, which is recommended as an option in NICE technology appraisal
+guidance for preventing venous thromboembolism in adults after elective hip
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
+conditions#notice-of-rights). 45
+--- Страница 22 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+replacement surgery. For full details, see the guidance on apixaban (TA245,
+2012).
+• Dabigatran etexilate, which is recommended as an option in NICE technology
+appraisal guidance for preventing venous thromboembolism in adults after
+elective hip replacement surgery. For full details, see the guidance on
+dabigatran etexilate (TA157, 2008). [2018]
+1.11.7 Consider anti-embolism stockings until discharge from hospital if
+pharmacological interventions are contraindicated in people undergoing elective
+hip replacement surgery. [2018]
+Elective knee replacement
+In March 2018:
+• the use of LMWH and rivaroxaban in young people under 18 in recommendation
+1.11.8 was off label
+• the use of aspirin in recommendation 1.11.8 was off label
+• the use of apixaban and dabigatran etexilate in young people under 18 in
+recommendation 1.11.9 was off label.
+See NICE's information on prescribing medicines.
+1.11.8 Offer VTE prophylaxis to people undergoing elective knee replacement surgery
+whose VTE risk outweighs their risk of bleeding. Choose any one of:
+• Aspirin (75 mg or 150 mg) for 14 days.
+• LMWH for 14 days combined with anti-embolism stockings until discharge.
+• Rivaroxaban, which is recommended as an option in NICE technology
+appraisal guidance for preventing venous thromboembolism in adults after
+elective knee replacement surgery. For full details, see the guidance on
+rivaroxaban (TA170, 2009). [2018]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
+conditions#notice-of-rights). 45
+--- Страница 23 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+1.11.9 Consider one of the following if none of the options in recommendation 1.11.8 can
+be used:
+• Apixaban, which is recommended as an option in NICE technology appraisal
+guidance for preventing venous thromboembolism in adults after elective
+knee replacement surgery. For full details, see the guidance on apixaban
+(TA245, 2012).
+• Dabigatran etexilate, which is recommended as an option in NICE technology
+appraisal guidance for preventing venous thromboembolism in adults after
+elective knee replacement surgery. For full details, see the guidance on
+dabigatran etexilate (TA157, 2008). [2018]
+1.11.10 Consider intermittent pneumatic compression if pharmacological prophylaxis is
+contraindicated in people undergoing elective knee replacement surgery.
+Continue until the person is mobile. [2018]
+Non-arthroplasty orthopaedic knee surgery
+1.11.11 Be aware that VTE prophylaxis is generally not needed for people undergoing
+arthroscopic knee surgery where:
+• total anaesthesia time is less than 90 minutes and
+• the person is at low risk of VTE. [2018]
+1.11.12 Consider LMWH 6 to12 hours after surgery for 14 days for people undergoing
+arthroscopic knee surgery if:
+• total anaesthesia time is more than 90 minutes or the person's risk of VTE
+outweighs their risk of bleeding. [2018]
+In March 2018, the use of LMWH in young people under 18 was off label. See
+NICE's information on prescribing medicines.
+1.11.13 Consider VTE prophylaxis for people undergoing other knee surgery (for example,
+osteotomy or fracture surgery) whose risk of VTE outweighs their risk of
+bleeding. [2018]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
+conditions#notice-of-rights). 45
+--- Страница 24 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Foot and ankle orthopaedic surgery
+1.11.14 Consider pharmacological VTE prophylaxis for people undergoing foot or ankle
+surgery:
+• that requires immobilisation (for example, arthrodesis or arthroplasty);
+consider stopping prophylaxis if immobilisation continues beyond 42 days
+(see the recommendation on lower limb immobilisation) or
+• when total anaesthesia time is more than 90 minutes or
+• the person's risk of VTE outweighs their risk of bleeding. [2018]
+Upper limb orthopaedic surgery
+1.11.15 Be aware that VTE prophylaxis is generally not needed if giving local or regional
+anaesthetic for upper limb surgery. [2018]
+1.11.16 Consider VTE prophylaxis for people undergoing upper limb surgery if the
+person's total time under general anaesthetic is over 90 minutes or where their
+operation is likely to make it difficult for them to mobilise. [2018]
+1.12 Interventions for people having elective spinal
+surgery or cranial surgery or people with spinal
+injury
+Elective spinal surgery
+In March 2018, the use of LMWH in young people under 18 in recommendations
+1.12.2, 1.12.3 and 1.12.4 was off label. See NICE's information on prescribing
+medicines.
+1.12.1 Offer mechanical VTE prophylaxis on admission to people undergoing elective
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
+conditions#notice-of-rights). 45
+--- Страница 25 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+spinal surgery. Choose either:
+• anti-embolism stockings or
+• intermittent pneumatic compression.
+Continue for 30 days or until the person is mobile or discharged, whichever is
+sooner. [2018]
+1.12.2 Consider adding pharmacological VTE prophylaxis with LMWH for people
+undergoing elective spinal surgery whose risk of VTE outweighs their risk of
+bleeding, taking into account individual patient and surgical factors (major or
+complex surgery) and according to clinical judgement. [2018]
+1.12.3 If using LMWH for people undergoing elective spinal surgery, start giving it 24 to
+48 hours postoperatively according to clinical judgement, taking into account
+patient characteristics and surgical procedure. Continue for 30 days or until the
+person is mobile or discharged, whichever is sooner. [2018]
+1.12.4 If needed, start LMWH earlier than 24 hours after the operation for people
+undergoing elective spinal surgery. Base the decision on multidisciplinary or
+senior opinion, or a locally agreed protocol. [2018]
+Cranial surgery
+In March 2018, the use of LMWH in young people under 18 in recommendations 1.12.7,
+1.12.8 and 1.12.9 was off label. See NICE's information on prescribing medicines.
+1.12.5 Consider mechanical VTE prophylaxis for people undergoing cranial surgery.
+[2018]
+1.12.6 If using mechanical VTE prophylaxis for people undergoing cranial surgery, start it
+on admission. Choose either:
+• anti-embolism stockings or
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
+conditions#notice-of-rights). 45
+--- Страница 26 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+• intermittent pneumatic compression.
+Continue for 30 days or until the person is mobile or discharged, whichever is
+sooner. [2018]
+1.12.7 Consider adding pre-operative pharmacological VTE prophylaxis with LMWH.
+Give the last dose no less than 24 hours before surgery for people undergoing
+cranial surgery whose risk of VTE outweighs their risk of bleeding. [2018]
+1.12.8 Consider adding pharmacological VTE prophylaxis with LMWH, starting 24 to
+48 hours after surgery for people undergoing cranial surgery whose risk of VTE
+outweighs their risk of bleeding. Continue for a minimum of 7 days. [2018]
+1.12.9 If needed, start LMWH earlier than 24 hours after the operation for people
+undergoing cranial surgery. Base the decision on multidisciplinary or senior
+opinion, or a locally agreed protocol. [2018]
+1.12.10 Do not offer pharmacological VTE prophylaxis to people with ruptured cranial
+vascular malformations (for example, brain aneurysms) or people with intracranial
+haemorrhage (spontaneous or traumatic) until the lesion has been secured or the
+condition has stabilised. [2018]
+Spinal injury
+1.12.11 Consider mechanical VTE prophylaxis on admission for people with spinal injury.
+Choose either:
+• anti-embolism stockings (only in a specialist spinal injury unit and after
+multidisciplinary team discussion) or
+• intermittent pneumatic compression. [2018, amended 2019]
+1.12.12 Reassess risk of bleeding 24 hours after initial admission in people with spinal
+injury. [2018]
+1.12.13 Consider adding pharmacological VTE prophylaxis with LMWH 24 hours after
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
+conditions#notice-of-rights). 45
+--- Страница 27 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+initial admission for people with spinal injury who are not having surgery in the
+next 24 to 48 hours, if the benefit of reducing the risk of VTE outweighs the risk
+of bleeding. [2018]
+In March 2018, the use of LMWH in young people under 18 was off label. See
+NICE's information on prescribing medicines.
+1.12.14 Continue VTE prophylaxis in people with spinal injury for 30 days or until the
+person is mobile or discharged, whichever is sooner. [2018]
+1.13 Interventions for people with major trauma
+1.13.1 Offer mechanical VTE prophylaxis with intermittent pneumatic compression on
+admission to people with serious or major trauma. Continue until the person no
+longer has significantly reduced mobility relative to their normal or anticipated
+mobility. [2018]
+1.13.2 Reassess risk of VTE and bleeding in people with serious or major trauma
+whenever their clinical condition changes and at least daily. [2018]
+1.13.3 Consider pharmacological VTE prophylaxis for people with serious or major
+trauma as soon as possible after the risk assessment when the risk of VTE
+outweighs the risk of bleeding. Continue for a minimum of 7 days. [2018]
+1.14 Interventions for people having abdominal,
+thoracic or head and neck surgery
+Abdominal surgery
+1.14.1 Offer VTE prophylaxis to people undergoing abdominal (gastrointestinal,
+gynaecological, urological) surgery who are at increased risk of VTE. For people
+undergoing bariatric surgery, follow the recommendations in the section on
+bariatric surgery. [2018]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
+conditions#notice-of-rights). 45
+--- Страница 28 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+1.14.2 Start mechanical VTE prophylaxis on admission for people undergoing abdominal
+surgery. Choose either:
+• anti-embolism stockings or
+• intermittent pneumatic compression.
+Continue until the person no longer has significantly reduced mobility relative
+to their normal or anticipated mobility. [2018]
+1.14.3 Add pharmacological VTE prophylaxis for a minimum of 7 days for people
+undergoing abdominal surgery whose risk of VTE outweighs their risk of bleeding,
+taking into account individual patient factors and according to clinical judgement.
+Choose either:
+• LMWH or
+• fondaparinux sodium. [2018]
+In March 2018, the use of LMWH and fondaparinux sodium in young people
+under 18 was off label. See NICE's information on prescribing medicines.
+1.14.4 Consider extending pharmacological VTE prophylaxis to 28 days postoperatively
+for people who have had major cancer surgery in the abdomen. [2018]
+Bariatric surgery
+1.14.5 Offer VTE prophylaxis to people undergoing bariatric surgery. [2018]
+1.14.6 Start mechanical VTE prophylaxis on admission for people undergoing bariatric
+surgery. Choose either:
+• anti-embolism stockings or
+• intermittent pneumatic compression.
+Continue until the person no longer has significantly reduced mobility relative
+to their normal or anticipated mobility. [2018]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
+conditions#notice-of-rights). 45
+--- Страница 29 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+1.14.7 Add pharmacological VTE prophylaxis for people undergoing bariatric surgery for
+a minimum of 7 days for people whose risk of VTE outweighs their risk of
+bleeding. Choose either:
+• LMWH or
+• fondaparinux sodium. [2018]
+In March 2018, the use of LMWH and fondaparinux sodium in young people
+under 18 was off label. See NICE's information on prescribing medicines.
+Thoracic surgery
+1.14.8 Consider VTE prophylaxis for people undergoing thoracic surgery who are at
+increased risk of VTE. [2018]
+1.14.9 Start mechanical VTE prophylaxis on admission for people undergoing thoracic
+surgery. Choose either:
+• anti-embolism stockings or
+• intermittent pneumatic compression.
+Continue until the person no longer has significantly reduced mobility relative
+to their normal or anticipated mobility. [2018]
+1.14.10 Consider adding pharmacological VTE prophylaxis for people undergoing thoracic
+surgery for a minimum of 7 days to people whose risk of VTE outweighs their risk
+of bleeding:
+• Use LMWH as first-line treatment.
+• If LMWH is contraindicated, use fondaparinux sodium. [2018]
+In March 2018, the use of LMWH and fondaparinux sodium in young people
+under 18 was off label. See NICE's information on prescribing medicines.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
+conditions#notice-of-rights). 45
+--- Страница 30 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Head and neck surgery
+Oral and maxillofacial surgery
+1.14.11 Consider pharmacological VTE prophylaxis with LMWH for a minimum of 7 days
+for people undergoing oral or maxillofacial surgery whose risk of VTE outweighs
+their risk of bleeding. [2018]
+In March 2018, the use of LMWH in young people under 18 was off label. See
+NICE's information on prescribing medicines.
+1.14.12 Consider mechanical VTE prophylaxis on admission for people undergoing oral or
+maxillofacial surgery who are at increased risk of VTE and high risk of bleeding.
+Choose either:
+• anti-embolism stockings or
+• intermittent pneumatic compression.
+Continue until the person no longer has significantly reduced mobility relative
+to their normal or anticipated mobility. [2018]
+ENT surgery
+1.14.13 Consider pharmacological VTE prophylaxis with LMWH for a minimum of 7 days
+for people undergoing ears, nose or throat (ENT) surgery whose risk of VTE
+outweighs their risk of bleeding. [2018]
+In March 2018, the use of LMWH in young people under 18 was off label. See
+NICE's information on prescribing medicines.
+1.14.14 Consider mechanical VTE prophylaxis on admission for people undergoing ENT
+surgery who are at increased risk of VTE and high risk of bleeding. Choose either:
+• anti-embolism stockings or
+• intermittent pneumatic compression.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
+conditions#notice-of-rights). 45
+--- Страница 31 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Continue until the person no longer has significantly reduced mobility relative
+to their normal or anticipated mobility. [2018]
+1.15 Interventions for people having cardiac or
+vascular surgery
+Cardiac surgery
+1.15.1 Consider mechanical VTE prophylaxis on admission for people who are
+undergoing cardiac surgery who are at increased risk of VTE. Choose either:
+• anti-embolism stockings or
+• intermittent pneumatic compression.
+Continue until the person no longer has significantly reduced mobility relative
+to their normal or anticipated mobility. [2018]
+1.15.2 Consider adding pharmacological VTE prophylaxis for a minimum of 7 days for
+people who are undergoing cardiac surgery and are not having other
+anticoagulation therapy:
+• Use LMWH as first-line treatment.
+• If LMWH is contraindicated, use fondaparinux sodium. [2018]
+In March 2018, the use of LMWH and fondaparinux sodium in young people
+under 18 was off label. See NICE's information on prescribing medicines.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of
+conditions#notice-of-rights). 45
+--- Страница 32 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Vascular surgery
+Open vascular surgery or endovascular aneurysm repair
+1.15.3 Consider pharmacological VTE prophylaxis with LMWH for a minimum of 7 days
+for people who are undergoing open vascular surgery or major endovascular
+procedures, including endovascular aneurysm repair whose risk of VTE outweighs
+their risk of bleeding. [2018]
+In March 2018, the use of LMWH in young people under 18 was off label. See
+NICE's information on prescribing medicines.
+1.15.4 Consider mechanical VTE prophylaxis on admission for people who are
+undergoing open vascular surgery or major endovascular procedures, including
+endovascular aneurysm repair, if pharmacological prophylaxis is contraindicated.
+Choose either:
+• anti-embolism stockings or
+• intermittent pneumatic compression.
+Continue until the person no longer has significantly reduced mobility relative
+to their normal or anticipated mobility. [2018]
+Lower limb amputation
+1.15.5 Consider pharmacological VTE prophylaxis with LMWH for a minimum of 7 days
+for people who are undergoing lower limb amputation whose risk of VTE
+outweighs their risk of bleeding. [2018]
+In March 2018, the use of LMWH in young people under 18 was off label. See
+NICE's information on prescribing medicines.
+1.15.6 Consider mechanical VTE prophylaxis with intermittent pneumatic compression
+on the contralateral leg, on admission, for people who are undergoing lower limb
+amputation and if pharmacological prophylaxis is contraindicated. [2018]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 32 of
+conditions#notice-of-rights). 45
+--- Страница 33 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+1.15.7 For people undergoing lower limb amputation, continue mechanical VTE
+prophylaxis until the person no longer has significantly reduced mobility relative
+to their anticipated mobility. [2018]
+Varicose vein surgery
+1.15.8 Be aware that VTE prophylaxis is generally not needed for people undergoing
+varicose vein surgery where:
+• total anaesthesia time is less than 90 minutes and
+• the person is at low risk of VTE. [2018]
+1.15.9 Consider pharmacological VTE prophylaxis with LMWH, starting 6 to 12 hours
+after surgery and continuing for 7 days for people undergoing varicose vein
+surgery if:
+• total anaesthesia time is more than 90 minutes or
+• the person's risk of VTE outweighs their risk of bleeding. [2018]
+In March 2018, the use of LMWH in young people under 18 was off label. See
+NICE's information on prescribing medicines.
+1.15.10 Consider mechanical VTE prophylaxis with anti-embolism stockings, on
+admission, for people undergoing varicose vein surgery:
+• who are at increased risk of VTE and
+• if pharmacological prophylaxis is contraindicated. [2018]
+1.15.11 If using anti-embolism stockings for people undergoing varicose vein surgery,
+continue until the person no longer has significantly reduced mobility relative to
+their normal or anticipated mobility. [2018]
+1.16 Interventions for pregnant women and women
+who gave birth or had a miscarriage or termination
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 33 of
+conditions#notice-of-rights). 45
+--- Страница 34 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+of pregnancy in the past 6 weeks
+In March 2018, the use of LMWH in young people under 18 in recommendations 1.16.1,
+1.16.4, 1.16.5 and 1.16.6 was off label. See NICE's information on prescribing medicines.
+1.16.1 Consider LMWH for all women who are admitted to hospital or a midwife-led unit
+if they are pregnant or gave birth, had a miscarriage or had a termination of
+pregnancy in the past 6 weeks, and whose risk of VTE outweighs their risk of
+bleeding. [2018]
+1.16.2 Do not offer VTE prophylaxis to women admitted to hospital or a midwife-led unit
+who are in active labour. [2018]
+1.16.3 Stop pharmacological VTE prophylaxis when women are in labour. [2018]
+1.16.4 If using LMWH in pregnant women, start it as soon as possible and within
+14 hours of the risk assessment being completed and continue until the woman is
+no longer at increased risk of VTE or until discharge from hospital or the midwife-
+led unit. [2018]
+1.16.5 If using LMWH in women who gave birth or had a miscarriage or termination of
+pregnancy, start 4 to 8 hours after the event unless contraindicated and continue
+for a minimum of 7 days. [2018]
+1.16.6 Consider combined prophylaxis with LMWH plus mechanical prophylaxis for
+pregnant women or women who gave birth or had a miscarriage or termination of
+pregnancy in the past 6 weeks and who are likely to be immobilised, or have
+significantly reduced mobility relative to their normal or anticipated mobility for
+3 or more days after surgery, including caesarean section:
+• Use intermittent pneumatic compression as first-line treatment.
+• If intermittent pneumatic compression is contraindicated, use anti-embolism
+stockings.
+Continue until the woman no longer has significantly reduced mobility relative
+to her normal or anticipated mobility or until discharge from hospital. [2018]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 34 of
+conditions#notice-of-rights). 45
+--- Страница 35 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Terms used in this guideline
+Admission
+Admission in the context of this guideline refers to admission as an inpatient, where a bed
+is provided for 1 or more nights, or admission as a day patient, where a bed is provided for
+a procedure including surgery or chemotherapy but not for an overnight stay.
+Discharge
+Discharge in the context of this guideline refers to discharge from hospital as an inpatient
+or after a day procedure.
+Intermittent pneumatic compression
+A method of prophylaxis that includes an air pump and inflatable garments in a system
+designed to improve venous circulation in the lower limbs of people at risk of DVT or
+pulmonary embolism. The inflation–deflation cycle of intermittent pneumatic compression
+therapy simulates the thigh, calf and foot's normal ambulatory pump action increasing
+both the volume and rate of blood flow, eliminating venous stasis and replicating the
+effects of the natural muscle pump. Intermittent pneumatic compression devices can be
+thigh- or knee-length sleeves that are wrapped around the leg, or a garment that can be
+wrapped around or worn on the foot that is designed to mimic the actions of walking.
+Lower limb immobilisation
+Any clinical decision taken to manage the affected limb in a way that would prevent normal
+weight-bearing status or use of that limb, or both.
+Renal impairment
+People with an estimated glomerular filtration rate (eGFR) of less than 30 ml/min/1.73 m2.
+For more detailed information on renal impairment, see the NICE guideline on chronic
+kidney disease in adults.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 35 of
+conditions#notice-of-rights). 45
+--- Страница 36 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Significantly reduced mobility
+People who are bed bound, unable to walk unaided or likely to spend a substantial
+proportion of their day in bed or in a chair.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 36 of
+conditions#notice-of-rights). 45
+--- Страница 37 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Recommendations for research
+The guideline committee has made the following recommendations for research. The
+committee's full set of research recommendations is detailed in the full guideline.
+1 Risk assessment
+What is the accuracy of individual risk assessment tools in predicting the risk of venous
+thromboembolism (VTE) and risk of bleeding in people admitted to hospital?
+Why this is important
+Risk assessment is a mandatory for all people admitted or having day procedures in
+hospital. Since 2010, the National VTE Risk Assessment Tool has been widely used in the
+NHS to assess a person's risk of VTE. This tool has not been validated or tested against
+other tools to evaluate its diagnostic accuracy or effectiveness at correctly identifying
+people at risk of VTE. There is concern that the tool may not accurately identify those who
+are most likely to get VTE.
+According to national figures, over 70% of medical patients in the UK have prophylaxis
+when the national tool has been used, with some trusts offering prophylaxis to over 90% of
+medical patients. Around 40% of medical patients have prophylaxis in largely US-based
+populations when other tools are used (although this may partially relate to different
+indications for hospital admission). It is not known if this means that the national tool
+identifies too many people or the other tools do not identify enough. The potential impact
+of giving unnecessary prophylaxis is that people may be at increased risk of bleeding and
+discomfort through repeated injections. There is also the potential for reducing the cost of
+thromboprophylaxis by better defining 'at risk' populations, so that the number of those
+given thromboprophylaxis is reduced.
+2 Dose strategies for people who are obese
+What is the clinical and cost effectiveness of weight-based dose-adjustment strategies of
+low-molecular-weight heparin (LMWH) compared with fixed-dose strategies of LMWH for
+preventing VTE in people who are very obese (BMI over 35) who are admitted to hospital
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 37 of
+conditions#notice-of-rights). 45
+--- Страница 38 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+or having day procedures (including surgery and chemotherapy)?
+Why this is important
+Obesity is on the rise in England. The prevalence of obesity increased by 11% between
+1993 and 2014 (15% in 1993 and 26% in 2014), which has resulted in more obese people
+being admitted to hospital. Obesity may as much as double a person's risk of developing
+hospital-acquired VTE, therefore most obese people will need prophylaxis. There is much
+uncertainty about what dose to use and the clinical and cost effectiveness of using
+weight-based dose-adjustment versus fixed-dose strategies. In current practice, a higher
+than usual dose is given but this may not be necessary, especially if the person has
+obesity-related liver disease. Several studies have reported effectiveness in terms of
+biological measures rather than clinical outcomes such as deep vein thrombosis (DVT) and
+bleeding events. It is important that there is a clearer understanding of the effects that
+different dose strategies can have in terms of clinical outcomes. This is because they can
+directly influence the quality of life of obese people admitted to hospital and help inform
+clinical decisions on patient care.
+3 Direct oral anticoagulants for people with lower
+limb immobilisation
+What is the clinical and cost effectiveness of direct oral anticoagulants for preventing VTE
+in people with lower limb immobilisation?
+Why this is important
+The Computerized registry of patients with venous thromboembolism (RIETE) study, a
+multicentre prospective cohort study of 30,886 patients with acute VTE, estimated that
+5.7% of VTE events were associated with lower limb immobilisation for non-major
+orthopaedic surgery. Estimates of DVT risk in people with lower limb immobilisation, based
+on meta-analyses of trials comparing chemothromboprophylaxis with placebo, range
+between approximately 4% and 40%. Given that lower limb immobilisation following trauma
+or non-major orthopaedic surgery is so common, the consequent burden of disease from
+VTE from this cause in the whole population is very considerable. For example, the annual
+incidence of ankle fracture is 187 per 100,000, translating to over 120,000 incident
+fractures per year in the UK. If 10% of these fractures are complicated by VTE, then we
+might expect approximately 12,000 events per year only related to immobilisation following
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 38 of
+conditions#notice-of-rights). 45
+--- Страница 39 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+ankle trauma.
+Despite this burden of ill-health, no randomised studies comparing modern anticoagulants
+that are available in oral preparations (perhaps more suitable for outpatient treatments)
+with established treatments such as LMWH or fondaparinux were identified in the
+evidence review. The committee were unable to make a recommendation to consider oral
+anticoagulants for this patient group given this lack of evidence.
+4 Aspirin prophylaxis for people with fragility
+fractures of the pelvis, hip or proximal femur
+What is the clinical and cost effectiveness of aspirin alone versus other pharmacological
+and/or mechanical prophylaxis strategies (alone or in combination) for people with fragility
+fractures of the pelvis, hip or proximal femur?
+Why this is important
+Fragility fractures are the greatest burden of musculoskeletal disease in hospitals in the
+UK. There are approximately 70,000 fragility hip fractures per year in England alone
+leading to 1.5 million bed days being used each year, which equates with the continuous
+occupation of over 4,000 NHS beds.
+Current evidence supports a recommendation for prophylaxis with LMWH or fondaparinux.
+Both involve a subcutaneous injection for 28 days requiring either self-injection at home or
+a community nurse attending to deliver the injection. Patient adherence to treatment may
+be improved with an oral rather than injectable treatment.
+A large but controversially reported trial suggests that aspirin may be at least as effective
+as currently recommended treatments. However, because of methodological and reporting
+limitations, the evidence for the effectiveness of aspirin alone is not clear. There is
+potentially a large cost saving if aspirin is clinically effective because it is very inexpensive.
+5 Duration of prophylaxis for elective total hip
+replacement surgery
+What is the clinical and cost effectiveness of standard versus extended duration
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 39 of
+conditions#notice-of-rights). 45
+--- Страница 40 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+pharmacological prophylaxis for preventing VTE in people undergoing elective total hip
+replacement surgery?
+Why this is important
+In 2015, there were 84,462 hip replacements in England, Wales and Northern Ireland. The
+current recommended duration of prophylaxis is 28 days in the elective total hip
+replacement population. This extended duration of prophylaxis is based on few, small and
+older trials. The quality of the evidence supporting extended duration prophylaxis is very
+low. Modern pharmaceutical trials of newer interventions use extended duration
+prophylaxis based on these historical data, with the added incentive of more expensive
+prophylaxis strategies. There is a large potential cost saving if a shorter duration of
+prophylaxis is as clinically effective, given the considerable cost of prophylaxis and the
+number of people for whom it is prescribed.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 40 of
+conditions#notice-of-rights). 45
+--- Страница 41 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Context
+Hospital-acquired venous thromboembolism (VTE), also known as hospital-acquired or
+hospital-associated thrombosis (HAT), covers all VTE that occurs in hospital and within
+90 days after a hospital admission. It is a common and potentially preventable problem.
+VTE most frequently occurs in the deep veins of the legs or pelvis (a deep vein thrombosis
+[DVT]). If it dislodges and travels to the lungs, it is called a pulmonary embolism, which in
+some cases can be fatal.
+Hospital-acquired VTE accounts for thousands of deaths annually in the NHS, and fatal
+pulmonary embolism remains a common cause of in-hospital mortality. HAT accounts for
+50% to 60% of all VTE seen. In 2013 to 2014, there were around 24,700 admissions for
+pulmonary embolism and 19,400 for DVT in England. In 2013 in England and Wales, there
+were 2,191 deaths recorded as due to pulmonary embolism and 2,816 due to DVT.
+Treatment of non-fatal symptomatic VTE and related long-term morbidities is associated
+with a considerable cost to the health service.
+People admitted to hospital or mental health units have varying risk factors for VTE. The
+spectrum of VTE risk is broad, and understanding the scale of the problem has led to a
+paradigm shift in preventing and managing VTE in the NHS. In particular, patients now
+undergo VTE risk assessment as a routine event in all NHS care pathways. By July 2013,
+96% of adult admissions to NHS-funded acute care hospitals were risk assessed for VTE
+compared with less than 50% of patients in July 2010.
+VTE prophylaxis has been shown to reduce the incidence of DVT. It includes mechanical
+methods (such as anti-embolism stockings and intermittent pneumatic compression
+devices), and pharmacological treatments (such as heparin and other anticoagulant
+drugs).
+This guideline is about reducing the risk of VTE in over 16s admitted to or treated as day
+procedures in hospitals. It provides recommendations on the most clinically and cost-
+effective measures to reduce the risk of VTE, while considering the potential risks of the
+various VTE prophylaxis options and patient preferences. It highlights the importance of
+risk assessment for VTE and for bleeding for all people being admitted and of clinical
+judgement in deciding on a prophylaxis strategy for each person at risk.
+The 2018 update takes into account newer evidence and newer therapies and has been
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 41 of
+conditions#notice-of-rights). 45
+--- Страница 42 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+made more relevant for specific groups such as surgical sub-specialities, people with
+mental health conditions and pregnant women.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 42 of
+conditions#notice-of-rights). 45
+--- Страница 43 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Finding more information and committee
+details
+To find NICE guidance on related topics, including guidance in development, see the NICE
+topic page on embolism and thrombosis.
+For full details of the evidence and the guideline committee's discussions, see the full
+guideline. You can also find information about how the guideline was developed, including
+details of the committee.
+NICE has produced tools and resources to help you put this guideline into practice. For
+general help and advice on putting our guidelines into practice, see resources to help you
+put NICE guidance into practice.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 43 of
+conditions#notice-of-rights). 45
+--- Страница 44 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+Update information
+August 2019: Recommendation 1.12.11 was amended to clarify when anti-embolism
+stockings can be used for VTE prophylaxis for people with spinal injury.
+March 2018: New recommendations were added on risk assessment for venous
+thromboembolism (VTE) and reducing the risk of VTE. These recommendations are
+marked as [2018].
+Some changes were made to clarify recommendation wording without an evidence review.
+These recommendations are marked as [2010, amended 2018].
+Recommendations are marked as [2010] when the evidence was last reviewed in 2010.
+Minor changes since publication
+September 2025: In recommendations 1.1.2 and 1.1.5 in the section on risk assessment, we
+highlighted the need to assess people for the risk of VTE and bleeding if they have been in
+accident and emergency for 12 hours or more. We also changed 'admission' to 'decision to
+admit' in recommendations 1.1.4 and 1.1.7.
+March 2025: We updated links to relevant technology appraisal guidance in the sections
+on elective hip replacement and elective knee replacement.
+May 2021: Recommendation 1.9.1 was amended to clarify that the Department of Health
+tool is commonly used to develop a treatment plan.
+January 2021: Recommendations 1.1.2 and 1.1 5 were amended to clarify that the
+Department of Health tool is commonly used to develop a treatment plan.
+November 2020: We added links in the sections on acutely ill medical patients and
+interventions for critical care to the NICE COVID-19 rapid guideline on reducing the risk of
+venous thromboembolism in over 16s.
+December 2019: In recommendation 1.3.5 the British Standards for anti-embolism hosiery
+were updated because BS 6612 and BS 7672 have been withdrawn.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 44 of
+conditions#notice-of-rights). 45
+--- Страница 45 ---
+Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein
+thrombosis or pulmonary embolism (NG89)
+ISBN: 978-1-4731-2871-2
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 45 of
+conditions#notice-of-rights). 45

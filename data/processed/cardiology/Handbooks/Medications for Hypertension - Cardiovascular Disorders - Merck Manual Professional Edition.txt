@@ -1,0 +1,508 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:09.828298",
+  "file_size_bytes": 420009,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Medications for Hypertension
+By Matthew R. Weir, MD, University of Maryland School of Medicine
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Feb 2025 | Modified Dec 2025
+The treatment of hypertension involves lifestyle modifications (eg, dietary modification, weight loss,
+exercise), alone or in combination with medications. The decision to treat with medication is based on
+the blood pressure (BP) level, the presence of atherosclerotic cardiovascular disease (ASCVD) or its risk
+factors, and other considerations.
+A number of medication classes are effective for initial and subsequent management of hypertension
+(1):
+Diuretics
+Angiotensin-converting enzyme (ACE) inhibitors
+Angiotensin II receptor blockers (ARBs)
+Calcium channel blockers
+Direct renin inhibitors
+Beta-blockers
+Alpha adrenergic modifiers
+Direct vasodilators
+Selection and use of medications in the treatment of stable hypertension is discussed elsewhere. For
+treatment of hypertensive emergencies, see table Parenteral Medications for Hypertensive
+Emergencies.
+(See also Hypertension and Hypertensive Emergencies.)
+General medication reference
+1. Writing Committee Members*, Jones DW, Ferdinand KC, et al. 2025
+AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the
+Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults: A Report of
+the American College of Cardiology/American Heart Association Joint Committee on Clinical
+Practice Guidelines. Hypertension. 2025;82(10):e212-e316. doi:10.1161/HYP.0000000000000249
+Diuretics for Hypertension
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 1/13
+--- Страница 2 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Main classes of diuretics used for hypertension (see table Oral Diuretics for Hypertension) are
+Thiazide diuretics
+Potassium-sparing diuretics
+Loop diuretics
+Diuretics modestly reduce plasma volume and reduce vascular resistance, possibly via shifts in sodium
+from intracellular to extracellular loci.
+Thiazide-type diuretics (thiazide diuretics and thiazide-like diuretics) are most commonly used.
+Chlorthalidone and indapamide, thiazide-like diuretics, are preferred over hydrochlorothiazide because
+of their higher potency (1) and longer duration of action. However, one retrospective analysis from The
+Diuretic Comparison Project (2), and another pragmatic trial conducted in Veterans (3) demonstrated
+that chlorthalidone, despite its greater potency, did not have an advantage over hydrochlorothiazide in
+reducing cardiovascular or kidney disease progression events. Although thiazide diuretics had been
+thought to be ineffective in patients with stage 4 chronic kidney disease, chlorthalidone has been shown
+to be effective in improving blood pressure in patients with glomerular filtration rates < 30 mL/minute
+(4). In addition to other antihypertensive effects, thiazide diuretics cause a small amount of vasodilation
+when intravascular volume is normal. In a few patients, thiazide-type diuretics can increase serum
+cholesterol slightly (mostly low-density lipoprotein cholesterol) and also increase triglyceride levels,
+although these effects may not persist > 1 year (5). The increase is apparent within 4 weeks of treatment
+and can be ameliorated by a low-fat diet. The possibility of a slight increase in lipid levels does not
+contraindicate diuretic use in patients with dyslipidemia.
+Potassium-sparing diuretics are not as effective as thiazide-type diuretics in controlling hypertension
+and thus are not used for initial treatment. They do not cause hypokalemia, hyperuricemia, or
+hyperglycemia, and thus may be helpful for patients who develop these adverse effects of thiazide
+diuretics. Potassium-sparing diuretics or potassium supplements are not needed when an angiotensin-
+converting enzyme (ACE) inhibitor or angiotensin II receptor blocker is used because these medications
+increase serum potassium.
+Loop diuretics are used to treat hypertension only in patients who have an estimated glomerular
+filtration rate (GFR) < 30 mL/minute; these diuretics are given at least twice a day (except for torsemide
+which can be given once a day).
+All diuretics except the potassium-sparing distal tubular diuretics (eg, spironolactone) cause significant
+potassium loss, so serum potassium is measured monthly until the level stabilizes. Unless serum
+potassium is normalized, potassium channels in the arterial walls close and the resulting
+vasoconstriction makes achieving the blood pressure (BP) goal difficult. Patients with potassium levels <
+3.5 mEq/L (< 3.5 mmol/L) are given potassium supplements. Supplements may be continued long-term
+at a lower dose, or a potassium-sparing diuretic (eg, spironolactone, triamterene, amiloride) may be
+added. Addition of a potassium-sparing diuretic or potassium supplements is also recommended for
+patients who are also taking digoxin, have a known heart disorder, have an abnormal ECG, have ectopy
+or arrhythmias, or develop ectopy or arrhythmias while taking a diuretic.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 2/13
+--- Страница 3 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+In most patients with diabetes, thiazide-type diuretics do not affect control of diabetes. Uncommonly,
+diuretics precipitate or worsen type 2 diabetes in patients with metabolic syndrome.
+A hereditary predisposition probably explains the few cases of gout due to diuretic-induced
+hyperuricemia. Diuretic-induced hyperuricemia without gout does not require treatment or
+discontinuation of the diuretic.
+Diuretics may slightly increase mortality in patients with a history of heart failure who do not have
+pulmonary congestion, particularly in those who are also taking an ACE inhibitor or angiotensin II
+receptor blocker and who do not drink at least 1400 mL (48 oz) of fluid daily. The increased mortality is
+probably related to diuretic-induced hyponatremia and hypotension.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 3/13
+--- Страница 4 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+TABLE
+Oral Diuretics for Hypertension
+Medication Selected Adverse Effects
+Thiazides and thiazide-like diuretics (chlorthalidone and indapamide)
+Hypokalemia (which increases digitalis Chlorothiazide
+toxicity), hyperuricemia, glucose
+Chlorothiazide
+intolerance, hypercholesterolemia,
+hypertriglyceridemia, hypercalcemia,
+Hydrochlorothiazide
+sexual dysfunction in men, weakness,
+rash Indapamide
+Potassium-sparing diuretics
+Hyperkalemia (particularly in patients
+Amiloride
+with renal failure and in patients treated
+with an angiotensin-converting enzyme
+Eplerenone*
+inhibitor, angiotensin II receptor blocker,
+or nonsteroidal anti-inflammatory drug),
+Spironolactone*
+nausea, gastrointestinal distress,
+gynecomastia, menstrual irregularities
+Triamterene
+(with spironolactone)
+Loop diuretics
+Bumetanide
+Hyperkalemia, hyponatremia,
+Ethacrynic acid
+hypomagnesemia, dehydration, postural
+Furosemide
+hypotension, tinnitus, hearing loss
+Torsemide
+* Aldosterone receptor blockers.
+Diuretic references
+1. Roush GC, Ernst ME, Kostis JB, Tandon S, Sica DA. Head-to-head comparisons of
+hydrochlorothiazide with indapamide and chlorthalidone: antihypertensive and metabolic
+effects. Hypertension. 2015;65(5):1041-1046. doi:10.1161/HYPERTENSIONAHA.114.05021
+2. Ishani A, Cushman WC, Leatherman SM, et al. Chlorthalidone vs. Hydrochlorothiazide for
+Hypertension-Cardiovascular Events. N Engl J Med. 2022;387(26):2401-2410.
+doi:10.1056/NEJMoa2212270
+3. Ishani A, Hau C, Raju S, et al. Chlorthalidone vs Hydrochlorothiazide and Kidney Outcomes in
+Patients With Hypertension: A Secondary Analysis of a Randomized Clinical Trial. JAMA Netw Open.
+2024;7(12):e2449576. doi:10.1001/jamanetworkopen.2024.49576
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 4/13
+--- Страница 5 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+4. Agarwal R, Sinha AD, Tu W: Chlorthalidone for hypertension in Advanced CKD. Reply. N Engl J
+Med. 2022;386(14):1384. doi:10.1056/NEJMc2201160
+5. Ott SM, LaCroix AZ, Ichikawa LE, Scholes D, Barlow WE. Effect of low-dose thiazide diuretics on
+plasma lipids: results from a double-blind, randomized clinical trial in older men and women. J Am
+Geriatr Soc. 2003;51(3):340-347. doi:10.1046/j.1532-5415.2003.51107.x
+ACE Inhibitors for Hypertension
+ACE inhibitors (see table Oral ACE Inhibitors and Angiotensin II Receptor Blockers for Hypertension)
+reduce blood pressure by interfering with the conversion of angiotensin I to angiotensin II and by
+inhibiting the degradation of bradykinin, thereby decreasing peripheral vascular resistance without
+causing reflex tachycardia. These medications reduce BP in many patients with hypertension, regardless
+of plasma renin activity. Because these medications provide renal protection, they (along with
+angiotensin II receptor blockers) are the medications of choice for patients with diabetes. They are not
+recommended for initial treatment in patients with African ancestry, in whom they appear to increase
+the risk of stroke when used for initial treatment (1).
+A dry, irritating cough is the most common adverse effect, with estimates of occurrence in up to 20% in
+North American and Europe populations and up to 40% in Asian populations (2, 3). Angioedema is the
+most serious adverse effect and, if it affects the oropharynx, can be fatal. Angioedema is most common
+among patients with African ancestry and those who smoke.
+ACE inhibitors may increase serum potassium and creatinine levels, especially in patients with chronic
+kidney disease and those taking potassium-sparing diuretics, potassium supplements, or nonsteroidal
+anti-inflammatory drugs (NSAIDs).
+ACE inhibitors are contraindicated during pregnancy.
+In patients with a renal disorder, serum creatinine and potassium levels are monitored at least every 3
+months. Patients who have stage 3 nephropathy (estimated GFR of < 60 mL/minute to > 30 mL/minute)
+and are given ACE inhibitors can usually tolerate an increase in serum creatinine up to 30 to 35% above
+baseline. ACE inhibitors can cause acute kidney injury in patients who have hypovolemia, severe heart
+failure, severe bilateral renal artery stenosis, or severe stenosis in the artery to a solitary kidney.
+Thiazide-type diuretics enhance the antihypertensive activity of ACE inhibitors and angiotensin II
+receptor blockers more than that of other classes of antihypertensives (4, 5). Spironolactone and
+eplerenone also appear to enhance the effect of ACE inhibitors.
+TABLE
+Oral Angiotensin-Converting Enzyme (ACE) Inhibitors and
+Angiotensin II Receptor Blockers (ARBs) for Hypertension
+Medication Selected Adverse Effects
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 5/13
+--- Страница 6 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Medication Selected Adverse Effects
+ACE inhibitors*
+Benazepril Rash, cough, angioedema, hyperkalemia
+(particularly in patients with renal
+Captopril
+insufficiency or taking nonsteroidal anti-
+inflammatory drugs, potassium-sparing
+Enalapril
+diuretics, or potassium supplements),
+Fosinopril dysgeusia, reversible acute kidney injury
+if stenosis affecting one or both kidneys
+Lisinopril
+threatens renal function, proteinuria
+Perindopril (rare at recommended doses),
+neutropenia (rare), hypotension with
+Quinapril
+initiation of treatment (particularly in
+patients with high plasma renin activity
+Ramipril
+or with hypovolemia due to diuretics or
+Trandolapril other conditions)
+ARBs
+Azilsartan
+Candesartan
+Dizziness, angioedema (very rare);
+Irbesartan
+theoretically, same adverse effects as
+Losartan ACE inhibitors on renal function (except
+proteinuria and neutropenia), serum
+Olmesartan
+potassium, and blood pressure
+Telmisartan
+Valsartan
+* All ACE inhibitors and angiotensin II receptor blockers are contraindicated in pregnancy
+(can cause injury or death to the developing fetus).
+ACE inhibitors references
+1. Palla M, Ando T, Androulakis E, Telila T, Briasoulis A. Renin-Angiotensin System Inhibitors vs
+Other Antihypertensives in Hypertensive Blacks: A Meta-Analysis. J Clin Hypertens (Greenwich).
+2017;19(4):344-350. doi:10.1111/jch.12867
+2. Israili ZH, Hall WD. Cough and angioneurotic edema associated with angiotensin-converting
+enzyme inhibitor therapy. A review of the literature and pathophysiology. Ann Intern Med.
+1992;117(3):234-242. doi:10.7326/0003-4819-117-3-234
+3. Woo KS, Nicholls MG. High prevalence of persistent cough with angiotensin converting enzyme
+inhibitors in Chinese. Br J Clin Pharmacol. 1995;40(2):141-144.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 6/13
+--- Страница 7 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+4. Townsend RR, Holland OB. Combination of converting enzyme inhibitor with diuretic for the
+treatment of hypertension. Arch Intern Med. 1990;150(6):1175-1183.
+5. Lacourcière Y, Poirier L, Lefebvre J, Ross SA, Leenen FH. Increasing the doses of both diuretics
+and angiotensin receptor blockers is beneficial in subjects with uncontrolled systolic
+hypertension. Can J Cardiol. 2010;26(8):313-319. doi:10.1016/s0828-282x(10)70442-6
+Angiotensin II Receptor Blockers for Hypertension
+Angiotensin II receptor blockers (see table Oral ACE Inhibitors and Angiotensin II Receptor Blockers for
+Hypertension) block angiotensin II receptors and therefore interfere with the renin-angiotensin system.
+Angiotensin II receptor blockers and ACE inhibitors are equally effective as antihypertensives.
+Angiotensin II receptor blockers may provide added benefits via tissue ACE blockade. The 2 classes have
+the same beneficial effects in patients with left ventricular failure or with nephropathy due to type 1
+diabetes. An angiotensin II receptor blocker should not be used together with an ACE inhibitor, but
+when used with a beta-blocker may reduce the hospitalization rate for patients with heart failure.
+Angiotensin II receptor blockers may be safely used in anyone with an estimated GFR > 30 mL/minute to
+reduce cardiovascular risk and kidney disease progression.
+Incidence of adverse events is low; angioedema occurs but much less frequently than with ACE
+inhibitors. Precautions for use of angiotensin II receptor blockers in patients with renovascular
+hypertension, hypovolemia, and severe heart failure are the same as those for ACE inhibitors (see table
+Oral ACE Inhibitors and Angiotensin II Receptor Blockers for Hypertension). Angiotensin II receptor
+blockers are contraindicated during pregnancy.
+Calcium Channel Blockers for Hypertension
+Dihydropyridines (see table Oral Calcium Channel Blockers for Hypertension) are potent peripheral
+vasodilators and reduce blood pressure by decreasing total peripheral vascular resistance (TPR); they
+sometimes cause reflexive tachycardia.
+The nondihydropyridines verapamil and diltiazem slow the heart rate, decrease atrioventricular
+conduction, and decrease myocardial contractility. These medications should not be prescribed for
+patients with second-degree or third-degree atrioventricular block or with left ventricular failure.
+TABLE
+Oral Calcium Channel Blockers for Hypertension
+Selected Adverse
+Medication Comments
+Effects
+Dihydropyridines
+Amlodipine Dizziness, flushing, Contraindicated in heart
+headache, weakness, failure, possibly except for
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 7/13
+--- Страница 8 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Selected Adverse
+Medication Comments
+Effects
+nausea, heartburn, amlodipine
+peripheral edema,
+Use of short-acting
+tachycardia
+nifedipine possibly
+Possible gingival associated with higher
+Felodipine
+hyperplasia with chronic rate of myocardial
+use infarction
+Isradipine
+Nicardipine
+Nicardipine, sustained-
+release
+Nifedipine, extended-
+release
+Nisoldipine
+Nondihydropyridines
+Diltiazem, sustained- Headache, dizziness,
+release asthenia, flushing, Contraindicated in heart
+peripheral edema, failure with reduced
+Diltiazem, extended- bradycardia; possibly liver ejection fraction due to
+release dysfunction negative inotropic effects,
+in sinus node dysfunction,
+Possible gingival
+Verapamil or in greater than first-
+hyperplasia with chronic
+degree atrioventricular
+use
+Verapamil, sustained-
+block
+release
+Verapamil: Constipation
+Use of short-acting nifedipine should be avoided because of an increased risk of acute myocardial
+infarction (1).
+A calcium channel blocker is preferred to a beta-blocker in patients with angina pectoris who also have a
+bronchospastic disorder, with coronary spasms, or with Raynaud phenomenon.
+Calcium channel blocker reference
+1. Furberg CD, Psaty BM, Meyer JV.Nifedipine. Dose-related increase in mortality in patients with
+coronary heart disease. Circulation. 1995;92(5):1326-1331. doi:10.1161/01.cir.92.5.1326
+Direct Renin Inhibitor for Hypertension
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 8/13
+--- Страница 9 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Aliskiren, a direct renin inhibitor, is used in the management of hypertension.
+As with ACE inhibitors and angiotensin II receptor blockers, aliskiren causes elevation of serum
+potassium and creatinine. Aliskiren should not be combined with ACE inhibitors or angiotensin II
+receptor blockers in patients with diabetes or renal disease (estimated GFR < 60 mL/minute). It is also
+contraindicated during pregnancy.
+Beta-Blockers for Hypertension
+Beta-blockers are not first-line agents for treatment of hypertension. However, they may be useful in
+patients with hypertension who have other disorders that may benefit from a beta-blocker, such as
+angina, previous myocardial infarction, or heart failure. Otherwise, beta-blockers are less protective
+against stroke and overall mortality than some other antihypertensives (1, 2).
+Beta-blockers (see table Oral Beta-Blockers for Hypertension) slow the heart rate and reduce myocardial
+contractility, thus reducing blood pressure. All beta-blockers are similar in antihypertensive efficacy.
+Cardioselective beta blockers (eg, acebutolol, atenolol, betaxolol, bisoprolol, metoprolol) are often
+preferred over nonselective agents because of potentially less bronchoconstriction and peripheral
+vasodilation, which is particularly relevant for patients with diabetes (increasing risk of hypoglycemia),
+chronic peripheral artery disease (impairing function), or chronic obstructive pulmonary disease (COPD,
+by potentiating bronchospasm). However, cardioselectivity is only relative and decreases as dose
+increases. Even cardioselective beta-blockers should be used with caution in patients with COPD with a
+prominent bronchospastic component.
+TABLE
+Oral Beta-Blockers for Hypertension
+Selected Adverse
+Medication Comments
+Effects
+Acebutolol*, † Bronchospasm, fatigue, Contraindicated in
+insomnia, sexual patients with greater than
+Atenolol*
+dysfunction, exacerbation 1st-degree atrioventricular
+Betaxolol* of heart failure, masking of block, or sick sinus
+symptoms of syndrome
+Bisoprolol*
+hypoglycemia,
+Should be avoided in
+Carvedilol‡ triglyceridemia, increased
+patients with asthma
+total cholesterol and
+Carvedilol (controlled-
+decreased high-density Should be used cautiously
+release)‡
+lipoprotein cholesterol in patients with COPD with
+Labetalol‡, § (except for pindolol, severe disease, heart
+acebutolol, carteolol, and failure, or who are taking
+Metoprolol*
+labetalol) insulin
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 9/13
+--- Страница 10 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Selected Adverse
+Medication Comments
+Effects
+Metoprolol (extended- Should not be stopped
+release) abruptly in patients with
+coronary artery disease
+Nadolol
+Bisoprolol, carvedilol, and
+Nebivolol
+metoprolol can be used to
+Pindolol† treat heart failure
+Propranolol
+Propranolol, long-acting
+Timolol
+* Cardioselective.
+† With intrinsic sympathomimetic activity.
+‡ Alpha-beta-blockers. Labetalol can also be given IV for hypertensive emergencies.
+§ Can also be given for hypertensive emergencies.
+Beta-blockers with intrinsic sympathomimetic activity (eg, acebutolol, pindolol) do not adversely affect
+serum lipids; they are less likely to cause severe bradycardia.
+Beta-blockers have central nervous system (CNS) adverse effects (sleep disturbances, fatigue, lethargy)
+and exacerbate depression. Nadolol affects the CNS the least and may be best when CNS effects must
+be avoided. Beta-blockers are contraindicated in patients with second- or third-degree atrioventricular
+block or sinus node dysfunction. Beta-blockers should generally be avoided in patients with asthma
+because, in addition to bronchospasm, they can also cause resistance to the effects of inhaled or oral
+beta receptor agonists (3).
+Beta-blockers references
+1. Thomopoulos C, Bazoukis G, Tsioufis C, Mancia G. Beta-blockers in hypertension: overview and
+meta-analysis of randomized outcome trials. J Hypertens. 2020;38(9):1669-1681.
+doi:10.1097/HJH.0000000000002523
+2. Wiysonge CS, Bradley HA, Volmink J, Mayosi BM, Opie LH. Beta-blockers for
+hypertension. Cochrane Database Syst Rev. 2017;1(1):CD002003.
+doi:10.1002/14651858.CD002003.pub5
+3. Morales DR, Jackson C, Lipworth BJ, Donnan PT, Guthrie B. Adverse respiratory effect of acute β-
+blocker exposure in asthma: a systematic review and meta-analysis of randomized controlled
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 10/13
+--- Страница 11 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+trials. Chest. 2014;145(4):779-786. doi:10.1378/chest.13-1235
+Alpha Adrenergic Modifiers for Hypertension
+Adrenergic modifiers include central alpha-2-agonists, postsynaptic alpha-1-blockers, and peripheral-
+acting non-selective adrenergic blockers (see table Adrenergic Modifiers for Hypertension).
+TABLE
+Alpha Adrenergic Modifiers for Hypertension
+Selected Adverse
+Medication* Comments
+Effects
+Alpha-2-agonists (central acting)
+Drowsiness, sedation, dry Should be used cautiously
+Clonidine
+mouth, fatigue, sexual in older patients because
+dysfunction, rebound of orthostatic hypotension
+hypertension with abrupt
+Clonidine TTS (patch)
+Interferes with
+discontinuance
+measurements of urinary
+(particularly if doses are
+catecholamine levels by
+Guanfacine high or concomitant beta-
+fluorometric methods
+blockers are continued),
+localized skin reaction to Should not be combined
+Methyldopa
+clonidine patch; possibly with an alpha-1-blocker
+liver damage, Coombs- because of a risk of
+positive hemolytic anemia significant orthostatic
+Alpha-1 blockers
+with methyldopa hypotension.
+Should be used cautiously
+Doxazosin
+in older patients because
+First-dose syncope,
+of orthostatic hypotension
+orthostatic hypotension,
+Prazosin
+weakness, palpitations,
+Relieves symptoms of
+headache
+benign prostatic
+Terazosin
+hyperplasia
+* Peripheral-acting adrenergic blockers (eg, guanadrel, guanethidine, reserpine) are not
+available in the United States.
+TTS = transdermal therapeutic system.
+Alpha-2-agonists (eg, methyldopa, clonidine, guanfacine) stimulate alpha-2-adrenergic receptors in the
+brain stem and reduce sympathetic nervous activity, lowering blood pressure (BP). Because they have a
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 11/13
+--- Страница 12 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+central action, they are more likely than other antihypertensives to cause drowsiness, lethargy, and
+depression; they are not widely used. Clonidine can be applied transdermally once a week as a patch;
+thus, it may be useful for patients who have difficulty adhering to treatment (eg, those with dementia).
+Rebound hypertension can occur with abrupt discontinuation of oral clonidine.
+Postsynaptic alpha-1-blockers (eg, prazosin, terazosin, doxazosin) are not used for primary treatment of
+hypertension because of their adverse effects and no reduction in mortality. Doxazosin used alone or
+with antihypertensives other than diuretics increases the risk of heart failure. Other adverse effects
+include first-dose syncope, orthostatic hypotension, weakness, palpitations, and headache. However,
+postsynaptic alpha-1-blockers may be used in patients who have prostatic hypertrophy and need a
+fourth antihypertensive or in people with high sympathetic tone (ie, with high heart rate and spiking
+blood pressures) already on the maximum dose of a beta-blocker.
+Direct Vasodilators for Hypertension
+Direct vasodilators, including minoxidil and hydralazine (see table Direct Vasodilators for Hypertension),
+work directly on blood vessels, independently of the autonomic nervous system. Minoxidil is more
+potent than hydralazine but has more adverse effects, including sodium and water retention and
+hypertrichosis, which may be poorly tolerated. Minoxidil should be reserved for severe, refractory
+hypertension.
+Hydralazine may be used during pregnancy (eg, for preeclampsia) and as an adjunct antihypertensive.
+Hydralazine (particularly at doses > 200 mg/day) has been associated with drug-induced lupus, which
+resolves when the medication is stopped (1). It is also associated with drug-induced antineutrophil
+cytoplasmic antibody (ANCA)-associated vasculitis (2).
+TABLE
+Direct Vasodilators for Hypertension
+Selected Adverse
+Medication Comments
+Effects*
+Positive antinuclear
+Augments vasodilating
+antibody test, drug-
+Hydralazine effects of other
+induced lupus (rare at
+vasodilating medication
+recommended doses)
+Sodium and water
+retention, hypertrichosis;
+Reserved for severe,
+Minoxidil possibly new or worsening
+refractory hypertension
+pleural and pericardial
+effusions
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 12/13
+--- Страница 13 ---
+22/01/2026, 14:47 Medications for Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+* Both medications may cause headache, tachycardia, and fluid retention and may
+precipitate angina in patients with coronary artery disease.
+Direct vasodilators references
+1. Handler J. Hydralazine-induced lupus erythematosis. J Clin Hypertens (Greenwich).2012;14(2):133-
+136. doi:10.1111/j.1751-7176.2011.00573.x
+2. Santoriello D, Bomback AS, Kudose S, et al. Anti-neutrophil cytoplasmic antibody associated
+glomerulonephritis complicating treatment with hydralazine. Kidney Int. 2021;100(2):440-446.
+doi:10.1016/j.kint.2021.03.029
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/medications-for-hypertension 13/13

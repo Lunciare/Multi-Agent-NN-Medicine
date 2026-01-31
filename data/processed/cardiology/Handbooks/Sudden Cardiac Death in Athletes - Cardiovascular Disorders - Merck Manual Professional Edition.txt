@@ -1,0 +1,110 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Sudden Cardiac Death in Athletes - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:35:56.505819",
+  "file_size_bytes": 195843,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Sudden Cardiac Death in Athletes - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:51 Sudden Cardiac Death in Athletes - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Sudden Cardiac Death in Athletes
+By Robert S. McKelvie, MD, PhD, Western University
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Aug 2024
+An estimated 1 to 3/100,000 apparently healthy young athletes die suddenly during exercise. Males are
+affected up to 10 times more often than females. Basketball and football players in the United States
+and soccer players in Europe may be at highest risk (1).
+In young athletes, sudden cardiac death has many causes (see table Some Causes of Sudden
+Cardiovascular Death in Young Athletes). The most common cause of sudden cardiac death was thought
+to be hypertrophic cardiomyopathy. More recent studies suggest that hypertrophic cardiomyopathy
+accounts for a lower proportion of sudden cardiac deaths and that the majority of sudden cardiac
+deaths occur in patients whose hearts are found to be structurally normal during autopsy (2, 3).
+Commotio cordis (sudden ventricular tachycardia or fibrillation after a blow to the precordium) is a risk
+in athletes with thin, compliant chest walls even when no cardiovascular disorder is present. The blow
+may involve a moderate-force projectile (eg, baseball, hockey puck, lacrosse ball) or impact with another
+player during a vulnerable phase of myocardial repolarization.
+Other causes include inherited arrhythmia syndromes (eg, long QT syndrome, Brugada syndrome).
+Some young athletes die of aortic aneurysm rupture (in Marfan syndrome).
+In older athletes, sudden cardiac death is typically caused by
+Coronary artery disease
+Occasionally, hypertrophic cardiomyopathy or valvular disease is involved.
+In other conditions underlying sudden death in athletes (eg, asthma, heatstroke, complications related
+to use of illicit or performance-enhancing drugs), ventricular tachycardia or ventricular fibrillation is a
+terminal, not a primary, event.
+Symptoms and signs are those of cardiovascular collapse; diagnosis is obvious.
+Immediate treatment with advanced cardiac life support is successful in < 20%; the percentage may
+increase as distribution of community-based, automated external defibrillators (AEDs) expands. Studies
+have demonstrated that the presence of AEDs can increase the neurologically intact survival rates to
+over 80% (4). For survivors, treatment is management of the underlying condition. In some cases, an
+implanted cardioverter-defibrillator may ultimately be required.
+TABLE
+https://www.merckmanuals.com/professional/cardiovascular-disorders/sports-and-the-heart/sudden-cardiac-death-in-athletes 1/3
+--- Страница 2 ---
+22/01/2026, 14:51 Sudden Cardiac Death in Athletes - Cardiovascular Disorders - Merck Manual Professional Edition
+Some Causes of Sudden Cardiovascular Death in Young Athletes
+Hypertrophic cardiomyopathy
+Commotio cordis
+Coronary artery anomalies (eg, anomalous left main coronary artery origin,
+anomalous right coronary artery origin, coronary arterial hypoplasia)
+Myocarditis
+Ruptured aortic aneurysm
+Arrhythmogenic right ventricular cardiomyopathy
+Tunneled left anterior descending coronary artery
+Aortic stenosis
+Premature atherosclerotic coronary artery disease
+Dilated cardiomyopathy
+Myxomatous degeneration of mitral valve
+Long QT syndrome
+Brugada syndrome
+Wolff-Parkinson-White syndrome (anterograde conduction only)
+Catecholaminergic polymorphic tachycardia
+Right ventricular outflow tract tachycardia
+Coronary vasospasm
+Cardiac sarcoidosis
+Cardiac trauma
+Ruptured cerebral artery aneurysm
+General references
+1. Maron BJ, Haas TJ, Ahluwalia A, et al:
+Demographics and epidemiology of sudden deaths in young competitive athletes: From
+the United States National Registry. Am J Med 129:1170–1177, 2016. doi:
+10.1016/j.amjmed.2016.02.031
+2. Finocchiaro G, Papadakis M, Robertus JL, et al: Etiology of sudden death in sports: insights from
+a United Kingdom regional registry. J Am Coll Cardiol 67:2108–2115, 2016. doi:
+10.1016/j.jacc.2016.02.062
+3. Harmon KG, Asif IM, Klossner D, Drezner JA: Incidence of sudden cardiac death in National
+Collegiate Athletic Association athletes. Circulation 123:1594–1600, 2011. doi:
+https://www.merckmanuals.com/professional/cardiovascular-disorders/sports-and-the-heart/sudden-cardiac-death-in-athletes 2/3
+--- Страница 3 ---
+22/01/2026, 14:51 Sudden Cardiac Death in Athletes - Cardiovascular Disorders - Merck Manual Professional Edition
+10.1161/CIRCULATIONAHA.110.004622
+4. Johri AM, Poirier P, Dorian P, et al: Canadian Cardiovascular Society/Canadian Heart Rhythm
+Society joint position statement on the cardiovascular screening of competitive athletes. Can J
+Cardiol 35:1-11, 2019. doi: 10.1016/j.cjca.2018.10.016
+Key Points
+Sudden cardiac death during exercise is rare and may be due to hypertrophic
+cardiomyopathy, but many patients have a structurally normal heart at autopsy
+(typically younger athletes) or coronary artery disease (older athletes).
+More Information
+The following English-language resources may be useful. Please note that THE MANUAL is not
+responsible for the content of these resources.
+Baggish AL, Battle RW, Beaver TA, et al: Recommendations on the use of multimodality
+cardiovascular imaging in young adult competitive athletes: A report from the American Society of
+Echocardiography in collaboration with the Society of Cardiovascular Computed Tomography and
+the Society for Cardiovascular Magnetic Resonance. J Am Soc Echocardiogr 33 (5): 523–549, 2020.
+doi: 10.1016/j.echo.2020.02.009
+Johri AM, Poirier P, Dorian P, et al: Canadian Cardiovascular Society/Canadian Heart Rhythm
+Society joint position statement on the cardiovascular screening of competitive athletes. Can J
+Cardiol 35:1–11, 2019. doi: 10.1016/j.cjca.2018.10.016
+Martinez MW, Kim JH, Shah, AB, et al: Exercise-induced cardiovascular adaptations and approach
+to exercise and cardiovascular disease. JACC State-Of-The-Art Review, J Am Col Cardiol 78 (14):1454-
+1470, 2021.
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/sports-and-the-heart/sudden-cardiac-death-in-athletes 3/3

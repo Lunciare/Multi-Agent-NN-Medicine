@@ -1,0 +1,396 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Narrow complex tachycardia; it recurs after adenosine. What should we do now_ - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:38:08.843769",
+  "file_size_bytes": 22512139,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/Narrow complex tachycardia; it recurs after adenosine. What should we do now_ - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:16 Narrow complex tachycardia; it recurs after adenosine. What should we do now? - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  Narrow complex tachycardia; it recurs after adenosine. What should we do now?
+ Steve Smith onJanuary 6, 2026 
+Narrow complex
+tachycardia; it recurs after
+adenosine. What should we
+do now?
+A 50-something male presented with palpitations. He had a
+fever and hypotension (BP 80/40). His volume status was low
+by ultrasound (flat IVC), and he had good LV function. He had
+no B lines. He had a history atrial fibrillaton and ablation, but
+has been in sinus rhythm recently. IV fluids were given, and
+because of his heart rate of 190 bpm, this ECG was recorded:
+Heart rate 156. What do you think?
+There is a narrow complex tachycardia without P waves (you
+must look carefully for P waves!! Especially in a patient with
+fever (thus, supraventricular tachycardia, or SVT). It could be
+Atrial flutter, AVNRT, AVRT (WPW), or atrial tachycardia.
+There are no flutter wavies. It is not irregularly irregular, so it
+
+is NOT atrial fibrillation. It is however, regularly irregular, as
+https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 1/12
+--- Страница 2 ---
+22/01/2026, 15:16 Narrow complex tachycardia; it recurs after adenosine. What should we do now? - Dr. Smith’s ECG Blog
+there are 2 different RR intervals (and each with its own
+voltage amplitude!). One RR interval is 360 ms, the other is
+400 ms. I donʼt see any P-wave or even retrograde P-waves,
+and sinus tach at 190 would be very unusual for a 50-
+something.
+An aside, not critical to management: The differing RR
+intervals suggests PSVT (paroxysmal SVT) due to AVNRT
+with triple AV nodal pathways. See this amazing case of
+dual AV nodal pathways in addition to a 3rd pathway which
+is an accessory pathway (WPW) and an explanation and
+diagram of what it means. All AVNRT has 2 pathways, one
+fast and one slow. In this case, in order to have 2 different
+speeds, and since there is no accessory pathway, the third
+pathway is within the AV node. There is likely one fast
+pathway and 2 slow ones. See this article:Typical
+Atrioventricular Nodal Re-Entry Tachycardia Masquerading
+as Atrial Fibrillation.
+What would you do?
+Adenosine is a good choice, and so is electricity. Electricity
+requires deep sedation, which takes more time than
+adenosine, so I would start with adenosine.
+The providers gave adenosine. It converted to sinus rhythm,
+and then rapidly reverted to the above rhythm.
+What would you do now?
+Because it reverted, there is no point in giving a treatment
+that only lasts seconds, as it will just revert AGAIN. This
+means that neither electricity nor adenosine will result in
+sustained sinus rhythm.
+The providers tried adenosine 2 more times, and each time
+the rhythm converted to sinus then reverted to SVT. They
+then tried electrical cardioversion (this is pointless!). Both
+times it converted then reverted. Cardiology was consulted
+and they recommended amiodarone bolus and drip. This had
+no effect.
+The patient remained hypotensive after fluids.
+I came on duty in the ED at this point in time. My practice is
+that, when SVT reverts, I first make certain that the K and Mg
+are replenished and if this does not prevent reversion, and if
+there is good LV function, then I want to give an AV nodal
+blocker that will persist (adenosine and electricity are both
+gone quickly). That means a calcium channel blocker
+(verapamil or diltiazem). When I first started EM, there was
+https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 2/12
+--- Страница 3 ---
+22/01/2026, 15:16 Narrow complex tachycardia; it recurs after adenosine. What should we do now? - Dr. Smith’s ECG Blog
+no adenosine and we always gave verapamil for SVT. It works
+and the data shows it is pretty safe (a meta-analysis with 4%
+hypotension vs. 1% with adenosine).
+Only give a calcium channel blocker if LV function is good!! They
+diminish contractility and can lead to shock in a patient with poor LV
+function.
+The patient was already on amiodarone drip and bolus. So I
+suggested we first try electrical cardioversion to see if the
+amiodarone would keep the patient in sinus. The patient
+converted to sinus and again reverted within seconds to SVT.
+So we stopped the amiodarone. We started a phenylephrine
+infusion for the hypotension prior to giving a calcium channel
+blocker which could exacerbate hypotension. We used
+phenylephrine in order to avoid the beta stimulation of
+norepinephrine – beta stimulation could make it more difficult
+to control SVT). After the BP increased to 105/70, we gave a
+diltiazem bolus (not verapamil only because we do not stock
+it in the ED) and there was immediate and sustained
+conversion to sinus rhythm.
+= = Sin=Sinus rhythm at a rate of 66.
+A diltiazem infusion was also started.
+A Chest X-ray confirmed pneumonia. The patient remained
+hypotensive. Notice there is absence of appropriate reflex
+sinus tachcardia, as one would both desire (in order to
+improve cardiac output) and expect (as happens is sepsis
+with hypotension). This relative sinus bradycardiais of
+course due to the diltiazem, which slows the sinus rate.
+Because of this, the patient continued to require
+phenylephrine for blood pressure support.
+The patient ultimately did well.
+Here are some guidelines for SVT management. Then see the
+other cases below:
+https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 3/12
+--- Страница 4 ---
+22/01/2026, 15:16 Narrow complex tachycardia; it recurs after adenosine. What should we do now? - Dr. Smith’s ECG Blog
+Screenshot
+Here is a case that had sustained sinus rhythm after giving
+magnesium. Good literature review here.
+An apparent SVT that does not persistently
+correct with adenosine
+A middle-aged woman presented for
+abdominal pain. She was found to have a
+heart rate of 150. A … Continue reading
+Dr. Smithʼs ECG Blog 10
+Here is a case in which I tried beta blockade (esmolol) but it
+failed and amiodarone did work. (I should have given a
+calcium channel blocker)
+Paroxysmal SVT (PSVT) that repeatedly recurs
+in spite of successful conversion with
+adenosine
+An elderly male complained of dyspnea. His
+pulse was regular at just under 150. BP was
+110/70. There … Continue reading
+Dr. Smithʼs ECG Blog 18
+= = = =
+======================================
+MY Comment, by KEN GRAUER, MD (1/7/2026):
+https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 4/12
+--- Страница 5 ---
+22/01/2026, 15:16 Narrow complex tachycardia; it recurs after adenosine. What should we do now? - Dr. Smith’s ECG Blog
+Todayʼs case by Dr. Smith highlights a series of important
+points regarding assessment and management of reentry
+SVT (SupraVentricular Tachycardia) rhythms. These points
+include the following:
+The history may be insightful. The patient in todayʼs
+case had AFib in the past — that was successfully
+ablated. As noted by Romero et al (Heart Rhythm
+4(11):1637-1646, 2017) — Catheter ablation of AFib may
+predispose to the subsequent development of a reentry
+SVT rhythm (ie, AVNRT, AVRT) by altering conduction
+pathway properties, thereby potentially facilitating
+development and maintenance of a reentry circuit.
+Itʼs EASY to overlook the underlying pattern of todayʼs
+rhythm. For example, when you first saw todayʼs rhythm —
+Did YOU think the rhythm was regular?
+As per Dr. Smith — Todayʼs rhythm is not regular. Instead
+— there is a regular irregularity, in the form of a
+repetitive pattern in which slightly longer R-R intervals
+alternate with slightly shorter R-R intervals (ie, R-R
+intervals inFigure-1that begin with even-numbered
+beats are slightly longer than R-R intervals beginning
+with odd-numbered beats).
+Even without calipers — this irregular irreglarity can be
+appreciated if you focus for a moment on the long lead II
+rhythm strip that appears below the 12-lead ECG in
+Figure-1.
+Recognition that this narrow complex (therefore
+supraventricular)tachycardia has a repetitive pattern —
+immediatelly limits the differentialdiagnosis by ruling
+out sinus tachycardia and atrial fibrillation.
+AFlutter and ATach are also unlikely — since although
+Wenckebach conduction may be associated with these 2
+SVT rhythms, the subtle every-other-beat variation in R-
+R interval at the rapid rate seen in Figure-1 is much more
+typical of a reentry SVT (either AVNRT or AVRT).
+= = =
+Figure-1: Iʼve reproduced todayʼs ECG — with my proposed
+laddergram.
+https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 5/12
+--- Страница 6 ---
+22/01/2026, 15:16 Narrow complex tachycardia; it recurs after adenosine. What should we do now? - Dr. Smith’s ECG Blog
+= = =
+Is there Atrial Activity?
+Normal sinus P waves are clearly absent in Figure-1.
+However, there is beat-to-beat variation in the ST
+segments that to me suggests that there may be some
+form of atrial activity hidden within.
+I thought a pattern of alternate beat ST segment
+variation was best suggested in lead V3 (within the
+BLUE rectangle in Figure-1) — albeit this pattern is not
+consistently seen in other leads.
+In addition to this hint of retrograde atrial conduction —
+there appears to be electricalalternansin a number of
+leads in Figure-1 (ie, alternate beat variation in QRS
+morphologyseen best in lead V3— but also consistenly
+seen in leads II,aVF; and in V4,V5,V6 in the form of
+alternating QRS amplitude).
+As I review in detail in theNovember 28, 2022 post of
+Dr. Smithʼs ECG Blog (in My Comment at the bottom of
+the page) — the presence of electrical alternans
+increases the likelihood of a reentrySVT rhythm.
+= = =
+The Mechanism of Todayʼs Rhythm
+Why then do we see alternating R-R intervals in todayʼs
+reentry SVT?
+https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 6/12
+--- Страница 7 ---
+22/01/2026, 15:16 Narrow complex tachycardia; it recurs after adenosine. What should we do now? - Dr. Smith’s ECG Blog
+Against Wenckebach conduction is the lack of a
+dropped beat.
+Instead — I suspect the presence of dual AV Nodal
+pathways, each with its own speed of retrograde
+conduction is the reason for persistence of alternating
+R-R intervals in todayʼs rhythm.
+The theoretical laddergram I propose in my above
+Figure-1 illustrates one pathway with slightly slower
+retrograde conduction (PURPLE broken lines) alternating
+with a second pathway with slightly faster retrograde
+conduction (RED broken lines).
+= = =
+KEY Points in Management:
+Dr. Smithʼs above discussion highlights the relevance of
+recognizing that todayʼs rhythm is indeed a reentry SVT.
+Adenosine was given — and promptly converted the
+SVT (as it almost always does for reentry SVT rhythms).
+Sometimes this is all that is needed. However, in todayʼs
+case — the rhythm promptly reverted to the reentry SVT.
+The immediate conversion of todayʼs rhythm after the
+initial dose of Adenosine strongly supports the premise
+that the rhythm is a reentry SVT (AVNRT or AVRT).
+Rapid reversion back to the reentry SVT tells us that
+neither repeat Adenosine doses nor cardioversion will
+succeed in maintaining sinus rhythm. Instead — a
+longer-acting drug ( = IV Diltiazem in todayʼs case) will
+be needed to maintain sinus rhythm.
+PEARL: Remember to always record a long lead rhythm strip
+for the 60-to-90 seconds after giving Adenosine! This is
+because things happen quickly after you give Adenosine —
+and it is EASY to miss the important fact that the Adenosine
+did its job and converted the rhythm to sinus unless you have
+a hard copy recording that you can look at.
+Otherwise, all the “action” will be over in seconds and
+you may easily miss the momentary conversion to sinus
+rhythm because your eyes were on the patient.
+The moment we see that Adenosine did its job — but
+that the patient immediately reverted back to the SVT —
+we know itʼs time to stop giving Adenosine, and instead
+use a long-acting agent.
+= = =
+= = =
+https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 7/12
+--- Страница 8 ---
+22/01/2026, 15:16 Narrow complex tachycardia; it recurs after adenosine. What should we do now? - Dr. Smith’s ECG Blog
+Steve Smith onJanuary 6, 2026
+ADENOSINE DILTIAZEM DUAL AV NODAL PATHWAYS
+DYSRHYTHMIA THAT IS REFRACTORY
+SUPRAVENTRICULAR TACHYCARDIA (PSVT) VERAPAMIL
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+COPD exacerbation, What does this ECG
+followed by cardiac recorded 4 days prior
+arrest. (in clinic) tell us about
+the ECGs in the ED?
+SEARCH
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 8/12
+--- Страница 9 ---
+22/01/2026, 15:16 Narrow complex tachycardia; it recurs after adenosine. What should we do now? - Dr. Smith’s ECG Blog
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 9/12
+--- Страница 10 ---
+22/01/2026, 15:16 Narrow complex tachycardia; it recurs after adenosine. What should we do now? - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 10/12
+--- Страница 11 ---
+22/01/2026, 15:16 Narrow complex tachycardia; it recurs after adenosine. What should we do now? - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Willy Frick onJanuary 9, 2026
+What does this ECG recorded 4 days prior (in clinic) tell
+us about the ECGs in the ED?
+Submitted by Evan (Kuan-Yu) Lin, edits by Willy Frick This ECG had
+been recorded in cardiology clinic: What do you think? Here is the
+case: An…
+Magnus Nossen onJanuary 12, 2026
+A Quiz on 10 ECGs
+Created by Magnus Nossen This post consists of 10 ECGs and
+different clinical scenarios. Your task is simple. Match the ECG to the
+clinical…
+https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 11/12
+--- Страница 12 ---
+22/01/2026, 15:16 Narrow complex tachycardia; it recurs after adenosine. What should we do now? - Dr. Smith’s ECG Blog
+Pendell Meyers onJanuary 15, 2026
+A woman in her 60s with chest pain and “No STEMI”
+Sent by anonymous. A woman in her 60s presented with acute chest
+pain and normal vital signs. Here is her triage ECG: What do you
+think? It…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 12/12

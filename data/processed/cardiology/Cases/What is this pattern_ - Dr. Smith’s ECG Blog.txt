@@ -1,0 +1,354 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "What is this pattern_ - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:38:09.727215",
+  "file_size_bytes": 11588957,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/What is this pattern_ - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:18 What is this pattern? - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  What is this pattern?
+Steve Smith onDecember 18, 2025
+What is this pattern?
+This was contributed by Amandeep Singh, from Highland
+Hospital In Oakland CA.
+A 54yo male presented to the ED with severe substernal
+chest pain lasting 15-20 min, associated with general
+weakness, mild dyspnea, and diaphoresis.
+Here is the initial 12-lead ECG:
+ 
+What do you think?
+There is STE in V1, V2, aVR, and aVL. (There is also a
+hyperacute T-wave in V3). Otherwise, there is diffuse ST
+depression: in inferior leads and in V4-6. So there is a
+superior ST vector.
+There is no question that this is a STEMI-OMI. But it is
+unusual in that the STE vector is directly superior, with
+reciprocal STD in inferior areas (V5-6 are at the level of the
+inferior part of the heart, at the apex).
+
+https://drsmithsecgblog.com/what-is-this-pattern/ 1/11
+--- Страница 2 ---
+22/01/2026, 15:18 What is this pattern? - Dr. Smith’s ECG Blog
+There is a vaguely defined pattern here called “Northern
+OMI”. It is a STEMI pattern that is associated with
+subepicardial (“transmural”) ischemia of the BASE of the
+heart (the base is the top, just under the atria). In particular, it
+may be the base of the septum.
+Key Features of Northern OMI
+ECG Findings: ST elevation in lead aVR and aVL, often
+with negative T-waves, combined with ST depression in
+inferior (II, III, aVF) and lateral (V4-V6) leads with
+positive or biphasic T-waves.
+Underlying Cause: Suggests acute occlusion of the left
+main coronary artery or proximal Left Anterior
+Descending (LAD) artery.
+Clinical Significance: Represents a severe form of acute
+coronary syndrome (ACS) where a significant portion of
+the heart muscle is at risk, often missed by traditional
+STEMI criteria.
+Diagnostic Importance: Aims to identify high-risk
+patients who need immediate cath lab activation for
+reperfusion, improving outcomes.
+Amandeep (Deep) writes:
+“This ECG is consistent with the recently described “northern
+occlusion myocardial infarction” pattern (1). When the ST
+vector points straight up (-90 degrees, or north), it can signify
+infarction of the upper northernmost portion of the heart with
+subendocardial ischemia in the inferior and low lateral regions
+of the heart. This pattern can be due to left main coronary
+occlusion, proximal left anterior descending artery occlusion,
+or multivessel coronary artery disease. The terminology
+“northern occlusion myocardial infarction” refers to the
+unique ST vector orientation associated with this OMI
+pattern.”
+In this example, there is ST segment elevation in aVR, V1, and
+V2. Lead aVL has subtle ST segment elevation with T wave
+inversion and there is ST segment depression with an upright
+T wave in the inferior and low lateral leads.
+The cath lab was activated.
+Case Outcome/Cardiology Note:
+Patient arrived to ED diaphoretic, clammy and altered. He was
+emergently taken to the cardiac catheterization laboratory
+where he had a weak thready pulse. He was found to have
+100% occlusion of the left-main coronary artery with TIMI 0
+flow. Flow was restored in the left-side, however, patient
+https://drsmithsecgblog.com/what-is-this-pattern/ 2/11
+--- Страница 3 ---
+22/01/2026, 15:18 What is this pattern? - Dr. Smith’s ECG Blog
+proceeded to have emesis and not protect his airway. He was
+intubated, but lost his pulse. He underwent CPR, but
+ultimately had PEA arrest and was pronounced at 12:06am.
+1. Ricci F, Martini C, Scordo DM, Rossi D, Gallina S,
+Fedorowski A, Sciarra L, Chahal CAA, Meyers HP, Herman R,
+Smith SW. ECG Patterns of Occlusion Myocardial Infarction: A
+Narrative Review. Ann Emerg Med. 2025 Apr;85(4):330-340.
+doi: 10.1016/j.annemergmed.2024.11.019. Epub 2025 Jan 17.
+PMID: 39818676.
+See here 9 examples of total left main occlusion (includes
+this one):
+How does Acute Total Left Main Coronary occlusion present
+on the ECG?
+= = =
+======================================
+MY Comment, by KEN GRAUER, MD
+(12/18/2025):
+Predicting the “culprit” artery in an acute OMI can be
+challenging. Although in many cases — determination of the
+specific acutely occluded coronary artery does not alter
+management (ie, If you clearly know based on history and the
+initial ECG that regardless of which artery is the culprit —
+prompt cath will be needed!) — in selected cases, being able
+to accurately predict the “culprit” artery may be of
+tremendous assistance to the interventionist for determining
+where to look during the cath procedure for the vessel that
+needs reperfusion!
+Weʼve shown too-numerous-to-count cases in Dr.
+Smithʼs ECG Blog of tracings in which we can
+confidently predict acute RCA, LAD, or LCx occlusion
+(with us often being able to predict which LAD
+occlusions are proximal — and when RCA occlusions
+are also associated with acute RV involvement).
+PEARL: Iʼve learned that when the initial ECG shows
+obvious acute occlusion — but with conflicting findings
+suggesting no clear indication as to which vessel is “the
+culprit” — that much of the time, the reason is that the
+patient has significant multi-vessel disease.
+The same is true for the uncommon acute LMain
+occlusions that survive to make it to the hospital — for
+https://drsmithsecgblog.com/what-is-this-pattern/ 3/11
+--- Страница 4 ---
+22/01/2026, 15:18 What is this pattern? - Dr. Smith’s ECG Blog
+which the multiple anatomic areas affected by difficult-
+to-predict contributions of ischemic myocardium, often
+attenuated (and sometimes completely cancelled out) by
+oppositely situated areas — make prediction by ECG of
+acute LMain occlusion so very challenging.
+The fact that the number of LMain occlusion cases that
+we see is so small (ie, in which the patient survives long
+enough to record an ECG) — makes collecting data
+exceedingly difficult.
+The above said — Iʼve synthesized the ECG findings collected
+by Dr. Smith from 9 anecdotal cases of completeLMain
+occlusion(published in the August 9, 2019 post) — into a
+summarizing Table in Figure-1.
+KEY Summarizing Points: Itʼs virtually impossible to
+predict what the ECG will look like in a patient with acute
+LMain occlusion.
+Lead aVR does not provide the answer.
+The above said — at least the findings in Figure-1 give
+us an idea of the possibilities.
+= = =
+Figure-1: Reasons for the varied ECG presentation of acute
+LMain occlusion — excerpted from Dr. Smithʼs 8/9/2019 post
+(See text).
+https://drsmithsecgblog.com/what-is-this-pattern/ 4/11
+--- Страница 5 ---
+22/01/2026, 15:18 What is this pattern? - Dr. Smith’s ECG Blog
+= = =
+What about Todayʼs Initial ECG?
+For clarity in Figure-2 — Iʼve reproduced and labeled todayʼs
+initial ECG. As per Dr. Smith — there is an obvious acute
+STEMI.
+ECG #1 shows sinustachycardia(which is always a
+worrisome sign with acute MI — often suggesting
+associated heart failure or shock).
+What I find especially remarkable about this tracing — is
+that all 12 leads show marked ST-T wave
+abnormalities, with lots of what I call, “transition leads”.
+By this I mean that the modest size of the hyperacute T
+wave in lead V4 most likely reflects transition from a
+much more obvious hyperacute T wave in preceding
+lead V3 — to the marked ST depression that begins in
+subsequent lead V5.
+Another “transition area” is seen in lead V3, in which the
+multi-directional(rSrʼsʼ ) QRS complex in this lead most
+likely reflects transition from the QS wave in preceding
+lead V2 — to the abruptly all-positive QRS deflection
+that we see in subsequent lead V4.
+https://drsmithsecgblog.com/what-is-this-pattern/ 5/11
+--- Страница 6 ---
+22/01/2026, 15:18 What is this pattern? - Dr. Smith’s ECG Blog
+PEARL: I interpret seeing a multi-fragmented QRS
+complex as we do in lead V3, that follows QS complexes
+in preceding leads V1,V2 — as a Q wave equivalent
+(especially given tiny size of the initial r wave in lead
+V3).
+My “eye” was immediately drawn to the massiveST
+depression in each of the inferior leads (within the RED
+rectangle).
+Marked ST depression is seen in multiple lateral leads
+(BLUE arrowsin leads I,V5,V6) — with terminal T wave
+inversion in lead I — and a mixed picture in lead aVL
+(with deep Q wave, coved ST elevation, and deep
+terminal T wave inversion).
+Acute anteroseptal infarction is heralded by ST
+elevation and those QS waves in leads V1,V2 (with “Q
+wave equivalent” and hyperacute T wave in neighboring
+lead V3).
+Finally — there is marked ST elevation in lead aVR
+(GREEN arrow), which in this context undoubtedly
+reflects diffuse ischemia in multiple anatomical areas.
+BOTTOM Line: The ECG in Figure-2 is consistent with the
+Northern OMI pattern of acute LMain occlusion.
+Unfortunately (but not surprisingly) — this tachycardic
+patient with acute LMain occlusion did not survive.
+= = =
+Figure-2: Iʼve labeled the initial ECG in todayʼs case.
+= = =
+= = =
+= = =
+Steve Smith onDecember 18, 2025
+LEFT MAIN LEFT MAIN TOTAL OCCLUSION -- TIMI-0 NORTHERN OMI
+SHARE
+   
+https://drsmithsecgblog.com/what-is-this-pattern/ 6/11
+--- Страница 7 ---
+22/01/2026, 15:18 What is this pattern? - Dr. Smith’s ECG Blog
+   
+ PREVIOUS ARTICLE NEXT ARTICLE 
+Electrophysiology: A man in his 50s with
+Wide Complex chest pain. You must
+Tachycardia in a 70- strongly advocate for
+something your patient who has
+an NSTEMI-OMI ECG
+pattern.
+SEARCH
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+https://drsmithsecgblog.com/what-is-this-pattern/ 7/11
+--- Страница 8 ---
+22/01/2026, 15:18 What is this pattern? - Dr. Smith’s ECG Blog
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/what-is-this-pattern/ 8/11
+--- Страница 9 ---
+22/01/2026, 15:18 What is this pattern? - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/what-is-this-pattern/ 9/11
+--- Страница 10 ---
+22/01/2026, 15:18 What is this pattern? - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Pendell Meyers onDecember 20, 2025
+A man in his 50s with chest pain. You must strongly
+advocate for your patient who has an NSTEMI-OMI ECG
+pattern.
+From Anonymous A man in his 50s experienced acute chest pain and
+shortness of breath. He presented quickly to the Emergency
+Department, where…
+Steve Smith onDecember 21, 2025
+What pathology do all these ECGs manifest?
+ECG 1: What do you think? Then you can look at the rest. ECG 1: This
+is hyperkalemia. As soon as I saw it, I knew it. The peaked T-waves
+of…
+https://drsmithsecgblog.com/what-is-this-pattern/ 10/11
+--- Страница 11 ---
+22/01/2026, 15:18 What is this pattern? - Dr. Smith’s ECG Blog
+Pendell Meyers onDecember 23, 2025
+A man in his 50s with altered mental status and
+abdominal pain. What treatment must be given
+immediately, and how much?
+50 year old male with PMH of ESRD, heart failure, pancreatitis and
+previous MI presents to the ED with chief complaint of epigastric
+pain. He…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/what-is-this-pattern/ 11/11

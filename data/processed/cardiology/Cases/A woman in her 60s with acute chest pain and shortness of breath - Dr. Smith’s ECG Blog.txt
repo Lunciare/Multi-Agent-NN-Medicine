@@ -1,0 +1,295 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:37:55.961034",
+  "file_size_bytes": 14421614,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:25 A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  A woman in her 60s with acute chest pain and shortness of breath
+Pendell Meyers onMay 13, 2025
+A woman in her 60s with
+acute chest pain and
+shortness of breath
+Written by Pendell Meyers
+ 
+A woman in her 60s had acute chest pain and shortness of breath.
+EMS arrived and recorded this ECG (no baseline ECG available):
+What do you think?
+Sinus rhythm, RBBB, and anterolateral OMI pattern with concordant
+STE in V2, inappropriate STD (precordial swirl pattern) in V5 anv V6,
+HATW in I and aVL, with reciprocal STD and negative HATW in III and
+aVF. Proximal LAD OMI would be the most likely cause.
+Here is the Queen of Hearts interpretation: STEMI / STEMI equivalent
+(OMI) with high confidence
+
+https://drsmithsecgblog.com/a-woman-in-her-60s-with-acute-chest/ 1/10
+--- Страница 2 ---
+22/01/2026, 15:25 A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog
+This was expertly recognized, and she bypassed the ED and went
+straight to the cath lab, where a proximal total LAD occlusion was
+opened.
+She did well.
+How do we diagnose LAD OMI on the ECG in the presence of Right
+Bundle Branch Block?
+Here is a nice case of chest pain and RBBB, with references, and
+discussion of RBBB and LAD OMI, written mostly by Smith:
+Triska J, George J, Rector G, et al. Acute coronary occlusion in a
+patient with prior known right bundle branch block: Another chink in
+the armor for the ST-elevation myocardial infarction criteria. Ann
+Emerg Med [Internet] 2023;82(2):219–21. Available from:
+http://dx.doi.org/10.1016/j.annemergmed.2022.12.006
+https://emergencymed.org.il/wp-
+content/uploads/2023/09/Acute-Coronary-Occlusion-in-a-
+Patient-With-Prior-Known-Right-Bundle-Branch-Block.pdf
+===================================
+MY Comment, by KEN GRAUER, MD (5/13/2025):
+===================================
+I reviewed today’s initial ECG knowing only that the patient was a woman
+in her 60s who contacted EMS for acute CP (Chest Pain) and shortness
+of breath.
+https://drsmithsecgblog.com/a-woman-in-her-60s-with-acute-chest/ 2/10
+--- Страница 3 ---
+22/01/2026, 15:25 A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog
+For clarity in Figure-1 — I’ve reproduced and have labeled
+this initial ECG.
+Interpretation of ECG #1:
+As per Dr. Meyers, in this 60s woman with new CP — the ECG in Figure-
+1 suggests acute LAD OMI until proven otherwise:
+The rate is a bit fast (about 100/minute).
+There is RBBB (Right Bundle Branch Block).
+There are obvious hyperacute ST-T waves in leads I and aVL —
+as well as an unusual biphasic ST-T wave in lead V2 (double RED
+arrows in this lead — with the ST elevation in the initial part of the
+ST segment clearly abnormal given the RBBB that typically results
+in ST-T wave depression).
+There is equally marked reciprocal ST depression in each of
+the inferior leads (II,III,aVF) — as well as in lateral chest leads
+V5,V6.
+Figure-1: I have labeled the initial ECG in today’s case.
+BUT — Is there WPW?
+And then I looked closer at the P wave, PR interval and QRS complex
+in leads V1,V2,V3 (See BLUE arrows in these leads in Figure-2, in which
+I have magnified selected leads from ECG #1).
+Doesn’t the PR interval in these anterior chest leads look short? —
+with in addition, slurring of the initial upward slope of the
+QRS (simulating a delta wave?).
+KEY Point: Regardless of whether or not today’s patient has WPW
+— the magnitude of hyperacute ST-T wave changes in multiple
+leads in this 60s woman with new CP merits prompt cath to define
+the anatomy.
+WPW is notorious for its potential to manifest pseudo-
+infarction patterns. And, in those uncommon situations in which a
+patient with WPW does develop acute MI — alterations in the
+widened QRS complex and resultant changes in ST-T wave
+morphology often serve to mask acute ECG findings, making it
+much more difficult to recognize acute MI on the ECG of a patient
+with WPW.
+https://drsmithsecgblog.com/a-woman-in-her-60s-with-acute-chest/ 3/10
+--- Страница 4 ---
+22/01/2026, 15:25 A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog
+The above said — at times the magnitude of ST-T wave abnormality
+resulting from an acute MI will be marked enough to suggest an
+acute event despite the associated presence of WPW (See the July
+11, 2014 post — and My Comment at the bottom of the page in
+the October 13, 2022 post for illustration of these concepts
+regarding pseudo-infarction vs recognition of acute MI in association
+with WPW).
+Figure-2: I’ve magnified selected leads from ECG #1.
+WPW is Unlikely . . .
+While important to consider the possibility of WPW from the appearance of
+atrial activity in relation to neighboring QRS complexes in leads V1,V2,V3
+— I do not think the ECG in Figure-1 represents WPW.
+While I had no idea about the medical history of today’s patient at
+the time I reviewed ECG #1 — it’s helpful to keep in mind that
+discovery of WPW for the 1st time at age 60+ would be rare.
+While the QRS complex in lead V1 of Figure-1 is
+monophasic (ie, lacking the triphasic rsR’ morphology characteristic
+of typical RBBB) — there is a slender initial R wave, followed by a
+wide, terminal S wave in left-sided leads I and V6 — such that QRS
+morphology in today’s 12-lead tracing is consistent with RBBB.
+The magnified view in Figure-2 — suggests that the P wave in lead
+II is not upright (RED arrow in this lead). The P wave is also
+negative in lead III — and positive in lead aVL (PINK arrows in
+these leads) — which suggests a non-sinus rhythm. As a result —
+the PR interval might not be short after all, if the site of the atrial
+impulse arises from a site close to the AV node.
+While the number of leads that manifest definite delta waves in a
+patient with WPW is variable — most leads in Figure-1 do not seem
+to have delta waves.
+Finally, looking closer — it may be that delta waves are
+simulated (and not present) in leads V1 and V3 because the initial
+part of the QRS lies near the baseline.
+Bottom Line:
+https://drsmithsecgblog.com/a-woman-in-her-60s-with-acute-chest/ 4/10
+--- Страница 5 ---
+22/01/2026, 15:25 A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog
+Failure to consider WPW (especially in the presence of monophasic
+QRS widening in lead V1 with uncertain atrial activity, and uncertain
+PR interval) — will result in overlooking WPW when it does occur.
+Acutely, in this 60s woman with new CP — regardless of whether or
+not WPW is present, prompt cath is indicated because of the
+extreme ST-T wave changes in multiple leads that would be
+abnormal even if WPW was present.
+There is time to determine if today’s patient has WPW (ie, Review of
+this patient’s previous medical history and prior ECGs should be
+enlightening). In contrast — the decision to perform prompt cath is
+time dependent. Fortunately, this patient’s providers immediately
+recognized the acute ECG findings and expedited cardiac cath —
+that confirmed proximal total LAD occlusion, which was
+successfully stented.
+Pendell Meyers onMay 13, 2025
+HYPERACUTE T-WAVES HYPERACUTE T-WAVES LAD
+LAD OCCLUSION OMI
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+ED Bedside Echo (in Artificial Intelligence
+case one does not Driven Prehospital ECG
+recognize the ECG). Interpretation for the
+Images obtained and Reduction of False
+interpreted by a Positive Emergent
+novice. Cardiac
+Catheterization Lab
+Activations: A
+Retrospective Cohort
+Study
+Write a Comment
+https://drsmithsecgblog.com/a-woman-in-her-60s-with-acute-chest/ 5/10
+--- Страница 6 ---
+22/01/2026, 15:25 A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog
+SEARCH
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+https://drsmithsecgblog.com/a-woman-in-her-60s-with-acute-chest/ 6/10
+--- Страница 7 ---
+22/01/2026, 15:25 A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/a-woman-in-her-60s-with-acute-chest/ 7/10
+--- Страница 8 ---
+22/01/2026, 15:25 A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/a-woman-in-her-60s-with-acute-chest/ 8/10
+--- Страница 9 ---
+22/01/2026, 15:25 A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Steve Smith onMay 14, 2025
+Artificial Intelligence Driven Prehospital ECG
+Interpretation for the Reduction of False Positive
+Emergent Cardiac Catheterization Lab Activations: A
+Retrospective Cohort Study
+1. 2. 3. 4. 5. 6. 7. 8. 9.
+Magnus Nossen onMay 15, 2025
+A young man with a ‘pathologicʼ ECG
+Written by Magnus Nossen The patient in todayʼs case is a young
+adult male who has had annual cardiological follow-ups due to a…
+https://drsmithsecgblog.com/a-woman-in-her-60s-with-acute-chest/ 9/10
+--- Страница 10 ---
+22/01/2026, 15:25 A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog
+Steve Smith onMay 17, 2025
+Chest pain, normal ECG, and serial undetectable high
+sensitivity troponins. Should we do further testing?
+Many authors state that if troponins are undetectable and ECG is
+normal, no further testing should be done. For example, in JACC:…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/a-woman-in-her-60s-with-acute-chest/ 10/10

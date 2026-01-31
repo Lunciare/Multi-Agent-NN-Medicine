@@ -1,0 +1,138 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:40.152045",
+  "file_size_bytes": 357560,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:04 Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Atrial Flutter
+By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Sept 2024
+Atrial flutter is a rapid regular atrial rhythm due to an atrial macroreentrant
+circuit. Symptoms include palpitations and sometimes weakness, effort
+intolerance, dyspnea, and presyncope. Atrial thrombi may form and embolize.
+Diagnosis is by electrocardiography. Treatment involves rate control with
+medication, prevention of thromboembolism with anticoagulants, and often
+conversion to sinus rhythm with medication, cardioversion, or atrial flutter
+substrate ablation.
+(See also Overview of Arrhythmias.)
+Atrial flutter is much less common than atrial fibrillation, but its causes and hemodynamic
+consequences are similar. Many patients with atrial flutter also have periods of atrial fibrillation. In a
+population-based study of patients with a first diagnosis of atrial flutter, 69% were already known to
+have atrial fibrillation and, of those not known to have had atrial fibrillation, 40% were found to have
+atrial fibrillation over the next 3 years (1).
+Typical atrial flutter is due to a large reentrant circuit involving most of the right atrium and requires
+conduction between the orifice of the inferior vena cava and the annulus of the tricuspid valve (the
+cavotricuspid isthmus). The atria depolarize at a rate of 250 to 350 beats/minute (typically 300
+beats/minute). Because the atrioventricular (AV) node cannot usually conduct at this rate, typically half
+of the impulses get through (2:1 block), resulting in a regular ventricular rate of 150 beats/minute.
+Sometimes, the block varies from moment to moment, causing an irregular ventricular rhythm. Less
+commonly, a fixed 3:1, 4:1, or 5:1 block may be present.
+The probability of a thromboembolic event in isolated atrial flutter is thought to be about half of that in
+atrial fibrillation (2). However, many patients with atrial flutter also have (or will develop) atrial
+fibrillation. Accordingly, guidelines for anticoagulation make no distinction between patients with atrial
+flutter and those with atrial fibrillation (3).
+General references
+1. Gula LJ, Redfearn DP, Jenkyn KB, et al: Elevated Incidence of Atrial Fibrillation and Stroke in
+Patients With Atrial Flutter—A Population-Based Study. Can J Cardiol 34(6):774–783, 2018. doi:
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-flutter 1/5
+--- Страница 2 ---
+22/01/2026, 14:04 Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition
+10.1016/j.cjca.2018.01.001
+2. Biblo LA, Yuan Z, Quan KJ, et al: Risk of stroke in patients with atrial flutter. Am J Cardiol
+87(3):346–349, 2001. doi: 10.1016/s0002-9149(00)01374-6
+3. Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis
+and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American
+Heart Association Joint Committee on Clinical Practice Guidelines. Circulation 149(1):e1–e156, 2024.
+doi: 10.1161/CIR.0000000000001193
+Symptoms and Signs of Atrial Flutter
+Symptoms of atrial flutter depend primarily on ventricular rate and the nature of any underlying heart
+disorder. If ventricular rate is < 120 beats/minute and regular, there are likely to be few or no
+symptoms. Faster rates and variable AV conduction usually cause palpitations. Decreased cardiac
+output may cause symptoms of hemodynamic compromise (eg, chest discomfort, dyspnea, weakness,
+syncope). Close inspection of the jugular venous pulse reveals flutter a waves.
+Diagnosis of Atrial Flutter
+ECG
+The diagnosis of atrial flutter is by electrocardiography (ECG). In typical flutter, ECG shows continuous
+and regular atrial activation with a sawtooth pattern, most obvious in leads II, III, and aVF (see figure
+Atrial Flutter).
+Atrial Flutter
+(Note: Conducted with right bundle branch block.)
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-flutter 2/5
+--- Страница 3 ---
+22/01/2026, 14:04 Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition
+Carotid sinus massage can increase AV block and better expose the typical flutter waves. A similar
+response may follow pharmacologic AV nodal blockade (eg, with adenosine), but such therapy does not
+usually terminate atrial flutter.
+Treatment of Atrial Flutter
+Rate control with medication
+Rhythm control with cardioversion, medication, or ablation
+Prevention of thromboembolism
+Treatment of atrial flutter focuses on ventricular rate control, rhythm control, and prevention of
+thromboembolism.
+Pharmacologic rate control is more difficult to achieve in atrial flutter than in atrial fibrillation. Thus, for
+most patients, electrical conversion (using synchronized cardioversion or overdrive pacing) is the
+treatment of choice for an initial episode and is mandatory with 1:1 AV conduction or hemodynamic
+compromise. Typically, low-energy (50 joules) conversion is effective. Anticoagulation, as in atrial
+fibrillation, is necessary before cardioversion (1).
+If medication is used to restore sinus rhythm, rate must first be controlled with beta-blockers or
+nondihydropyridine calcium channel blockers (eg, verapamil, diltiazem). Many of the antiarrhythmic
+medications that can restore sinus rhythm (especially class Ia and Ic) can slow atrial flutter, shorten AV
+nodal refractoriness (by their vagolytic effects), or do both enough to allow 1:1 conduction with
+paradoxical increase in ventricular rate and hemodynamic compromise. These medications may be
+used for long-term maintenance as required to prevent recurrence in association with medication to
+prolong AV nodal refractoriness (class II, III, IV, or digoxin) (1).
+Overview of Atrial Flutter
+VIDEO
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-flutter 3/5
+--- Страница 4 ---
+22/01/2026, 14:04 Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition
+An antitachycardia pacing system is an alternative to long-term use of antiarrhythmics and is a rare
+therapy used in patients with atrial flutter and an independent indication for pacing, such as a
+bradycardia, who are ineligible or in whom other approaches to rhythm control have failed.
+Ablation procedures designed to interrupt the atrial reentrant circuit may effectively prevent atrial
+flutter, particularly typical atrial flutter. Because typical atrial flutter is dependent on conduction through
+the relatively narrow cavotricuspid isthmus, placement of an ablation line of block across the isthmus
+will cure typical atrial flutter in > 95% of patients. However, atrial fibrillation may recur in up to 60% of
+patients in the 10 years that follow successful atrial flutter ablation (2).
+To prevent thromboembolism, patients with chronic or recurrent atrial flutter require an oral
+anticoagulant (warfarin titrated to an INR of 2 to 3, a direct thrombin inhibitor, or a factor Xa inhibitor).
+The choice among the therapies is based on the same considerations as in the treatment of atrial
+fibrillation (1).
+Treatment references
+1. Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis
+and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American
+Heart Association Joint Committee on Clinical Practice Guidelines. Circulation 149(1):e1–e156, 2024.
+doi: 10.1161/CIR.0000000000001193
+2. Seara JG, Roubin SR, Sampedro FG, et al: Risk of atrial fibrillation, stroke, and death after
+radiofrequency catheter ablation of typical atrial flutter. Clin Res Cardiol 103(7):543–552, 2014. doi:
+10.1007/s00392-014-0682-6
+Key Points
+Atrial flutter is a rapid, regular atrial rhythm that may cause an regular, irregular,
+tachycardic, or nontachycardic QRS response, depending on the degree and type of
+block present.
+After initial rate control with medications such as beta-blockers and nondihydropyridine
+calcium channel blockers (eg, verapamil, diltiazem), most patients should have
+pharmacologic or direct current cardioversion.
+Anticoagulation is usually necessary before cardioversion.
+Long-term oral anticoagulation to prevent stroke is required for patients with chronic or
+recurrent atrial flutter.
+Recurrent episodes are prevented with class Ia, Ic, or III antiarrhythmic medications
+along with AV nodal suppression or, more effectively, by cavotricuspid isthmus ablation.
+Drugs Mentioned In This Article
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-flutter 4/5
+--- Страница 5 ---
+22/01/2026, 14:04 Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/atrial-flutter 5/5

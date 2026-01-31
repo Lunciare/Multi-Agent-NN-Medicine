@@ -1,0 +1,413 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Supraventricular tachycardia - wikidoc.pdf",
+  "converted_date": "2026-01-31T14:37:05.672208",
+  "file_size_bytes": 860437,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Supraventricular tachycardia - wikidoc.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 16:13 Supraventricular tachycardia - wikidoc
+Search WikiDoc
+Search Try Exact Match
+Supraventricular tachycardia
+For patient information click here
+Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailto:charlesmichaelgibson@gmail.com);
+Associate Editor(s)-in-Chief: Abdelrahman Ibrahim Abushouk, MD[2] (mailto:aabushou@bidmc.har
+vard.edu)
+Synonyms and keywords: SVT
+Overview
+There are several classification systems for supraventricular tachycardia, based on site of origin, QRS
+width, pulse regularity, and AV node dependence. There are different types of supraventricular
+tachycardia, including sinus tachycardia, inappropriate sinus tachycardia, sinus node re-entry
+tachycardia, atrial fibrillation, atrial flutter, AV nodal re-entry tachycardia, AV reciprocating tachycardia,
+junctional tachycardia, multifocal atrial tachycardia, and Wolff-Parkinson White syndrome. The general
+symptoms of SVTs include anxiety, chest pain or sensation of tightness, dizziness or fainting, palpitations,
+shortness of breath, syncope in cases of AVNRT, and sweating. The individual subtypes of SVT can be
+distinguished from each other by certain physiological and electrical characteristics, many of which
+present in the patient's EKG. Supraventricular tachycardias must be differentiated from each other
+because the management strategies may vary. In general, SVT is not life threatening, but episodes should
+be treated or prevented. While some treatment modalities can be applied to all SVTs with impunity, there
+are specific therapies available to cure some of the different sub-types. Cure requires intimate knowledge
+of how and where the arrhythmia is initiated and propagated. SVTs can be separated into two groups,
+based on whether they involve the AV node for impulse maintenance or not. Those that involve the AV
+node can be terminated by slowing conduction through the AV node. Those that do not involve the AV
+node will not usually be stopped by AV nodal blocking maneuvers. These maneuvers are still useful
+however, as transient AV block will often unmask the underlying rhythm abnormality. Once the acute
+episode has been terminated, ongoing treatment may be indicated to prevent a recurrence of the
+arrhythmia. Patients who have a single isolated episode, or infrequent and minimally symptomatic
+episodes usually do not warrant any treatment except observation. Patients who have more frequent or
+disabling symptoms from their episodes generally warrant some form of preventative therapy. A variety of
+drugs including simple AV nodal blocking agents like beta-blockers and verapamil, as well as
+antiarrhythmics may be used, usually with good effect, although the risks of these therapies need to be
+weighed against the potential benefits.
+Classification
+There are several classification systems for supraventricular tachycardia, based on site of origin, QRS
+width, pulse regularity, and AV node dependence.[1][2]
+• Supraventricular tachycardia can be classified based on the site of origin into:
+• Physiological sinus tachycardia
+• Atrial tachycardia
+• Atrioventricular tachycardia
+• Supraventricular tachycardia can be classified based on QRS width into:
+• Narrow complex tachycardia: Sinus tachycardia, atrial flutter, atrial fibrillation, focal/multifocal atrial
+Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
+tachycardia, Sinus node re-entry, AVNRT, and junctional tachycardia.
+https://www.wikidoc.org/index.php/Supraventricular_tachycardia 1/7
+--- Страница 2 ---
+22/01/2026, 16:13 Supraventricular tachycardia - wikidoc
+• Wide complex tachycardia: AF with aberrations and AF with WPW.
+• Supraventricular tachycardia can be classified based on pulse regularity into:
+• Regular: Sinus tachycardia, atrial flutter, Sinus node re-entry tachycardia, AVNRT, and junctional
+tachycardia.
+• Irregular: Atrial fibrillation and multifocal atrial tachycardia
+• Supraventricular tachycardia can be classified based on AV node dependence into:
+• AV node dependent: AVNRTs and AVRTs
+• AV node independent: Focal atrial tachycardia and atrial flutter
+•
+Causes
+Causes by Organ System
+There are several causes of supraventricular tachycardia in almost all body systems.[3][4] A
+comprehensive list can be found in the table below.
+Air embolism, amyloidosis, aortic regurgitation, aortic stenosis, arteriovenous fistula,
+atrial ischemia, atrial myxoma, atrial septal defect, cardiac tamponade, cardiac
+tumors, cardiomyopathy, Chagas heart disease, congestive heart failure, constrictive
+pericarditis, coronary artery bypass graft surgery, coronary artery disease, dilated
+cardiomyopathy, Ebstein's anomaly, endocarditis, familial atrial fibrillation, familial
+atrioventricular nodal reentry tachycardia, heart bypass surgery, heart failure,
+hemochromatosis, holiday heart syndrome, hypertensive heart disease, hypertrophic
+cardiomyopathy, hypokalemia, hypotension, hypoxia, ischemic heart disease,
+Cardiovascular
+Kawasaki disease, left ventricular hypertrophy, Lown-Ganong-Levine syndrome, LQT
+type 4, Lutembacher syndrome, mahaim fiber tachycardia, mitral regurgitation, mitral
+valve stenosis, myocardial infarction, myocarditis, neonatal coxsackie myocarditis,
+open heart surgery, pericarditis, peripartum cardiomyopathy, post cardiac surgery,
+pulmonary embolism, pulmonary hypertension, rheumatic heart disease, shock, sick
+sinus syndrome, stroke, temporary cardiac pacing, tricuspid regurgitation, tricuspid
+stenosis, unstable angina, uremic pericarditis, valvular heart disease, Wolff-
+Parkinson-White syndrome
+Chemical/Poisoning Breath spray, carbon monoxide poisoning, cyanide, grayanotoxin, mercury poisoning
+Dental No underlying causes
+Dermatologic Psoriatic arthritis
+Albuterol, alprazolam, amiodarone, amphetamines, amrinone, atomoxetine, atropine,
+beta blockers, caffeine, carbamazepine poisoning, cimetidine, clonidine, conivaptan,
+diazoxide, dicobalt edetate, diltiazem, disopyramide, dobutamine, docetaxel,
+dopexamine, doxapram, doxorubicin, ephedrine, epirubicin, fentanyl, flecainide,
+flumazenil, fluvoxamine, guanethidine, hexamethonium, hydralazine, ibutilide,
+isoprenaline, isoproterenol infusion, lithium, methamphetamines, methyldopa,
+Drug Side Effect
+methylphenidate, methysergide, minoxidil, nelarabine, nicotine, orlistat, palonosetron,
+paroxetine, phenoxybenzamine, phentolamine, porfimer sodium, pramipexole,
+procainamide, propafenone, quinidine, ramucirumab, reserpine, ritodrine,
+romidepsin, salbutamol, salmeterol, sargramostim, sibutramine, theophylline,
+trimethaphan, type Ia antiarrhythmic agents, type Ic antiarrhythmic agents, type III
+antiarrhythmic agents, verapamil
+Ear Nose Throat No underlying causes
+Amyloidosis, diabetes mellitus, fatigue, hemochromatosis, hyperthyroidism,
+Endocrine
+hypoglycemia, hypothyroidism, pheochromocytoma, thyrotoxicosis
+Environmental No underlying causes
+Gastroenterologic Crohn's disease, hemochromatosis, ulcerative colitis
+Channelopaties, Emery-Dreifuss muscular dystrophy, hemochromatosis, LQT type 4,
+Genetic
+muscular dystrophy, myotonic dystrophy
+Hematologic Anemia, fat embolism, fatigue, hemochromatosis
+Cardiac surgery, cardiac transplantation, incomplete ablation procedures, post
+Iatrogenic
+cardiac surgery, postoperative complication, surgery
+Amoebiasis, chagas heart disease, diphtheria, fever, leptospirosis, Lyme disease,
+Infectious Disease myocarditis, myotonic dystrophy, neonatal coxsackie myocarditis, rheumatic fever,
+salmonella typhosa, sepsis, trichinosis, viral infections
+Emery-Dreifuss muscular dystrophy, fat embolism, hemochromatosis, muscular
+Musculoskeletal/Orthopedic
+dystrophy
+Diabetic autonomic neuropathy, fat embolism, fatigue, Guillain-Barré syndrome,
+Neurologic
+obstructive sleep apnea, stroke, subarachnoid hemorrhage
+Nutritional/Metabolic Dehydration, hypercapnia, hypervitaminosis D, hypokalemia, hypomagnesemia
+Obstetric/GynecologicCookies help unso dneimlivmeurn oeu hry sderrovpisc efest.a Bliys, u pseinripga oruturm s ecravridcioesm, yyoopua athgyr,e per etog noaunrc uyse of cookies.
+https://www.wikidoc.org/index.php/Supraventricular_tachycardia 2/7
+--- Страница 3 ---
+22/01/2026, 16:13 Supraventricular tachycardia - wikidoc
+atrial myxoma, bronchogenic carcinoma, cardiac tumors, fatigue, lung cancer,
+Oncologic
+pheochromocytoma
+Ophthalmologic No underlying causes
+Alcohol overdose, alcohol withdrawal, aminophylline toxicity, binge drinking,
+Overdose/Toxicity carbamazepine poisoning, cocaine overdose, digitalis toxicity, salicylate poisoning,
+tricyclic antidepressant overdose
+Psychiatric Anxiety, bulimia nervosa, fatigue, panic disorder, psychological stress
+Air embolism, bronchogenic carcinoma, chronic obstructive pulmonary disease,
+Pulmonary emphysema, fat embolism, hypoxia, lung cancer, pneumonia, sarcoidosis, tension
+pneumothorax
+Chronic kidney disease, chronic renal failure, dehydration, electrolyte disturbance,
+Renal/Electrolyte
+renal insufficiency
+Amyloidosis, ankylosing spondylitis, collagen vascular disease, juvenile idiopathic
+Rheumatology/Immunology/Allergy arthritis, psoriatic arthritis, reactive arthritis, rheumatic fever, rheumatic heart disease,
+sarcoidosis, scleroderma, spondyloarthritis
+Sexual No underlying causes
+Trauma Cardiac injury from blunt trauma, drowning, electric shock
+Urologic No underlying causes
+Miscellaneous Binge drinking, drowning, fever, hypothermia, malignant hyperthermia, pain, stress
+Differentiating Among the Different Types of Supraventricular Tachycardia
+The individual subtypes of SVT can be distinguished from each other by certain physiological and
+electrical characteristics, many of which present in the patient's EKG. Supraventricular tachycardias must
+be differentiated from each other because the management strategies may vary[5].
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Supraventricular_tachycardia 3/7
+--- Страница 4 ---
+22/01/2026, 16:13 Supraventricular tachycardia - wikidoc
+PR QRS Response to
+Epidemiology Rate Rhythm P waves
+Interval complex maneuvers
+Less than
+0.12–0.20 0.12
+Upright,
+More common sec and seconds, May break
+Sinus Greater than consistent,
+in children and Regular shortens consistent, with vagal
+Tachycardia 100 bpm and normal in
+elderly. with high and normal maneuvers
+morphology
+heart rate in
+morphology
+Less than
+0.12
+More common seconds,
+in the elderly, consistent, Does not
+following Absent, and normal break with
+Atrial 110 to 180 Irregularly
+bypass surgery, fibrillatory Absent in adenosine or
+Fibrillation bpm irregular
+in mitral valve waves morphology vagal
+disease, in the maneuvers
+hyperthyroidism absence of
+aberrant
+conduction
+Conduction
+75 (4:1
+Varies Less than may vary in
+block), 100
+Sawtooth depending 0.12 response to
+(3:1 block)
+More common pattern of P upon the seconds, drugs and
+and 150 (2:1
+Atrial Flutter in the elderly, Regular waves at 250 magnitude consistent, maneuvers
+block) bpm,
+after alcohol to 350 beats of the and normal dropping the
+but 150 is
+per minute block, but in rate from 150
+more
+is short morphology to 100 or to
+common
+75 bpm
+Accounts for
+60%-70% of all Cannot be
+SVTs. 80% to In adults the calculated Less than
+The P wave is
+90% of cases range is 140- as the P 0.12 May break
+AV Nodal usually
+are due to 250 bpm, but wave is seconds, with
+Reentry superimposed
+antegrade in children Regular generally consistent, adenosine or
+Tachycardia on or buried
+conduction the rate can obscured and normal vagal
+(AVNRT) within the
+down a slow exceed 250 by the in maneuvers
+QRS complex
+pathway and bpm QRS morphology
+retrograde up a complex
+fast pathway.
+A retrograde
+More common
+P wave is Less than
+in males,
+seen either at 0.12 May break
+AV whereas
+the end of the Less than seconds, with
+Reciprocating AVNRT is more More rapid
+Regular QRS complex 0.12 consistent, adenosine or
+Tachycardia common in than AVNRT
+or at the seconds and normal vagal
+(AVRT) females, occurs
+beginning of in maneuvers
+at a younger
+the ST morphology
+age.
+segment
+> 95 beats
+per minute.
+The disorder is
+A nocturnal Less than
+uncommon.
+reduction in Normal 0.12 Does not
+Most patients Normal
+Inappropriate heart rate is morphology seconds, break with
+are in their late and <
+Sinus present. Regular and precede consistent, adenosine or
+20s to early 0.20
+Tachycardia There is an the QRS and normal vagal
+30s. More seconds
+inappropriate complex in maneuvers
+common in
+heart rate morphology
+women.
+response on
+exertion.
+Less than
+Common after The P
+Usually 0.12 Does not
+heart surgery, wave is
+inverted, may seconds, break with
+Junctional digitalis toxicity, > 60 beats usually
+Regular be burried in consistent, adenosine or
+Tachycardia as an escape per minute buried in
+the QRS and normal vagal
+rhythm in AV the QRS
+complex in maneuvers
+block complex
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.morphology
+https://www.wikidoc.org/index.php/Supraventricular_tachycardia 4/7
+--- Страница 5 ---
+22/01/2026, 16:13 Supraventricular tachycardia - wikidoc
+Variable Less than
+P waves of
+PR 0.12 Does not
+Multifocal High incidence Atrial rate is varying
+intervals, seconds, terminate with
+Atrial in the elderly > 100 beats morphology
+Irregular RR consistent, adenosine or
+Tachycardia and in those per minute from at least
+intervals, and normal vagal
+(MAT) with COPD (bpm) three different
+and PP in maneuvers
+foci
+intervals morphology
+Less than
+Between 2% Upright P Does often
+0.12
+and 17% waves terminate with
+Sinus Node seconds,
+among 100 to 150 precede each Short PR vagal
+Reentry Regular consistent,
+individuals bpm regular, interval maneuvers
+Tachycardia and normal
+undergoing narrow QRS unlike sinus
+in
+EKG for SVTs complex tachycardia.
+morphology
+Delta wave
+and
+evidence of
+ventricular
+pre-
+Estimated
+Atrial rate is P wave excitation if May break in
+prevalence of
+Wolff- nearly 300 generally there is response to
+WPW Less than
+Parkinson- bpm and follows the conduction procainamide,
+syndrome is Regular 0.12
+White ventricular QRS complex to the adenosine,
+100 - 300 per seconds
+syndrome rate is at 150 due to a ventricle vagal
+100,000 in the
+bpm. bypass tract via ante- maneuvers
+entire world.
+grade
+conduction
+down an
+accessory
+pathway
+Differentiating Supraventricular Tachycardia from Ventricular Tachycardia
+For a detailed discussion of how to distinguish ventricular tachycardia (VT) from supraventricular
+tachycardia (SVT), please visit the wide complex tachycardia differential diagnosis page.
+In brief, the diagnosis of VT is more likely if:
+• There is a history of myocardial infarction, congestive heart failure or structural heart disease
+• VT is more common in the elderly
+• The electrical axis is -90 to -180 degrees (a “northwest” or “superior” axis)
+• The QRS is > 140 msec
+• There is AV dissociation. P waves are normal in morphology, upright, but dissociated from the QRS
+complex (i.e. "march through" the QRS complex)
+• There are positive or negative QRS complexes in all the precordial leads
+• The morphology of the QRS complexes resembles that of a previous premature ventricular
+contraction (PVC).
+• Rate: More than 100 bpm and usually 150-200 bpm
+• Rhythm: The rhythm is regular
+• PR interval: Variable PR interval
+• Response to Maneuvers: VT does not terminate in response to adenosine or vagal maneuvers
+Diagnosis
+Symptoms
+Symptoms that are common to all types of SVT include the following[6]:
+• Anxiety
+• Chest pain orC osoekniess ahetilpo uns odefl itviegrh otunr esesrsvices. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Supraventricular_tachycardia 5/7
+--- Страница 6 ---
+22/01/2026, 16:13 Supraventricular tachycardia - wikidoc
+• Dizziness, or lightheadedness (near-faint), or fainting
+• Lightheadedness
+• Palpitations (the sensation of the heart racing, fluttering or pounding strongly in the chest or the
+carotid arteries)
+• Shortness of breath
+• Syncope in cases of AVNRT
+• Sweating
+Electrocardiogram
+Shown below is an EKG depicting a tachycardia at a rate of 190/min with narrow QRS complexes indicating supraventricular tachycardia.
+Shown below is an EKG recording of a patient who goes from sinus rhythm to a wide complex tachycardia at about 130/min.
+• The wide QRS though disappears after nine complexes and is replaced by narrow complexes at a
+slightly slower rate.
+• No P wave activity is seen.
+• This is a supraventricular tachycardia with a form of aberrancy.
+• In this case, we are probably seeing a rate-dependent left bundle branch block or the effect of a left
+bundle branch block which persists for the nine complexes because of continued block in the left
+bundle from the depolarizations from the intact right bundle.
+Treatment
+Acute Treatment
+• In general, SVT is not life threatening, but episodes should be treated or prevented. While some
+treatment modalities can be applied to all SVTs with impunity, there are specific therapies available to
+cure some of the different sub-types[7].
+• Cure requires intimate knowledge of how and where the arrhythmia is initiated and propagated.
+• The SVTs can be separated into two groups, based on whether they involve the AV node for impulse
+maintenance or not.
+• Those that involve the AV node can be terminated by slowing conduction through the AV node.
+• Those that do not involve the AV node will not usually be stopped by AV nodal blocking maneuvers.
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Supraventricular_tachycardia 6/7
+--- Страница 7 ---
+22/01/2026, 16:13 Supraventricular tachycardia - wikidoc
+• These maneuvers are still useful however, as transient AV block will often unmask the underlying
+rhythm abnormality[8].
+Acute Pharmacotherapy
+• Another modality involves treatment with medications[9].
+• Pre-hospital care providers and hospital clinicians might administer adenosine, an ultra short acting
+AV nodal blocking agent.
+• If this works, follow-up therapy with diltiazem, verapamil or metoprolol may be indicated.
+• SVT that does NOT involve the AV node may respond to other anti-arrhythmic drugs such as sotalol
+or amiodarone.
+• In pregnancy, metoprolol is the treatment of choice as recommended by the American Heart
+Association[8].
+Prevention
+• Once the acute episode has been terminated, ongoing treatment may be indicated to prevent a
+recurrence of the arrhythmia[10].
+• Patients who have a single isolated episode, or infrequent and minimally symptomatic episodes
+usually do not warrant any treatment except observation.
+• Patients who have more frequent or disabling symptoms from their episodes generally warrant some
+form of preventative therapy.
+• A variety of drugs including simple AV nodal blocking agents like beta-blockers and verapamil, as well
+as antiarrhythmics may be used, usually with good effect, although the risks of these therapies need to
+be weighed against the potential benefits[11].
+References
+Template:WikiDoc Sources
+Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
+Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms | Physical
+Examination | Lab Tests | Drugs
+Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
+There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance | Licensing |
+Disclaimers | Avoid Plagiarism | Policies
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Supraventricular_tachycardia 7/7

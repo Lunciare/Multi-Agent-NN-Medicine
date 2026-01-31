@@ -1,0 +1,407 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "miraq-cardiac-ttfm-with-highfrequency-probe-for-assessing-graft-flow-during-coronary-artery-bypass-graft-surgery-pdf-2285967687117253.pdf",
+  "converted_date": "2026-01-31T14:47:37.558719",
+  "file_size_bytes": 104991,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/miraq-cardiac-ttfm-with-highfrequency-probe-for-assessing-graft-flow-during-coronary-artery-bypass-graft-surgery-pdf-2285967687117253.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+MiraQ cardiac TTFM with high-
+frequency probe for assessing
+graft flow during coronary
+artery bypass graft surgery
+Medtech innovation briefing
+Published: 20 June 2023
+www.nice.org.uk/guidance/mib323
+Overview
+NICE has developed a medtech innovation briefing (MIB) on MiraQ cardiac TTFM with
+high-frequency probe for assessing graft flow during coronary artery bypass graft surgery.
+The information provided includes a description of the technology, how it's used and its
+potential role in the treatment pathway. A MIB also includes a review of relevant published
+evidence and the likely costs of using the technologies, but they are not NICE guidance
+and do not make any recommendations on the value of using the technologies.
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 1 of
+conditions#notice-of-rights). 13
+--- Страница 2 ---
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery (MIB323)
+Summary
+• The technology described in this briefing is the MiraQ cardiac transit time flowmetry
+(TTFM) and high-frequency ultrasound (HFUS) system. It is used for intraoperative
+quality assessment of graft blood flow during coronary artery bypass graft (CABG)
+surgery for people with coronary heart disease.
+• The innovative aspect is the L15 HFUS imaging probe that is designed to improve
+near-field imaging and is applied directly to the cardiac tissue.
+• The intended place in therapy would be as an alternative to clinical assessment in
+people undergoing CABG surgery.
+• The main points from the evidence summarised in this briefing are from 4 studies (1
+multicentre observational registry, 1 secondary analysis, 1 prospective study and 1
+retrospective observational study) including a total of 1,134 people undergoing CABG
+surgery. They show that MiraQ cardiac with TTFM and HFUS may improve the quality
+and efficacy of the CABG procedure.
+• Key uncertainties around the evidence or technology are that there is limited UK NHS
+evidence and none of the studies included a comparator.
+• Experts advised that the main benefits of the technology are providing surgeons with
+detailed objective information about the graft condition and graft flow, and helping
+them detect the position of deep lying arteries during the procedure. These may
+reduce long-term graft failure, and the risk of bleeding and intraoperative
+complications.
+• Safety issues identified with the MiraQ system are that there have been incidences
+when flow measurement channels incorrectly indicated that the flow is too high or too
+low, which could cause surgeons to make unnecessary changes and potentially lead to
+graft failure. The instructions for use have been updated to address the problem.
+• The cost of the MiraQ cardiac TTFM and HFUS system is £81,550 per unit, the L15
+imaging probe is £8,365 and the TTFM probe is £1,720 (excluding VAT). Standard care
+is clinical assessment of graft flow using a variety of techniques, which are selected
+based on surgeon preference.
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
+conditions#notice-of-rights). 13
+--- Страница 3 ---
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery (MIB323)
+The technology
+MiraQ cardiac (Medistim) combines transit time flow measurement (TTFM) and high-
+frequency ultrasound (HFUS) modalities within a single system. Surgical findings can be
+documented through flow tracing and images provided by the system. It is intended for
+intraoperative quality assessment of graft blood flow during coronary artery bypass graft
+(CABG) surgery. The system consists of 2 probes. The L15 HFUS imaging probe has a
+frequency range of 11 MHz to 18 MHz and provides high-resolution images that allow the
+surgeon to assess morphology, including the cannulation or clamping site of the aorta, and
+to evaluate the completed bypass anastomosis. The TTFM probe uses transit time
+technology to accurately measure blood flow intraoperatively. It measures 3 parameters of
+transit time flow (mean blood flow in ml per minute, pulsatility index and diastolic filling
+percentage) to assess graft blood flow and check graft patency. A microcomputer with a
+touchscreen mounted on a moveable trolley is used to control the probes and store their
+outputs.
+There is another version available, the MiraQ TTFM system, that does not include HFUS.
+This version has been evaluated separately in NICE's medical technologies guidance on
+MiraQ for assessing graft flow during CABG surgery and is not part of this briefing.
+Innovations
+The company claims that the L15 imaging probe is designed to improve near-field imaging
+using HFUS and is applied directly to the cardiac tissue. The company also claims that
+intraoperative quality assessment and surgical guidance using HFUS is more likely to lead
+to a positive outcome and decrease the chance for additional surgical reinterventions.
+Current care pathway
+Coronary artery disease is a common cause of symptoms, disability and death. It is caused
+by atherosclerosis, which leads to stenosis or occlusion of the coronary arteries. NICE's
+guideline on stable angina: management recommends that revascularisation of the
+blocked coronary arteries using CABG or percutaneous coronary interventions should be
+considered in people whose symptoms are not satisfactorily controlled by medical
+treatment.
+CABG surgery aims to bypass narrowed or blocked segments of the coronary arteries
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
+conditions#notice-of-rights). 13
+--- Страница 4 ---
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery (MIB323)
+using grafts. Grafts are usually constructed from lengths of the patient's own long
+saphenous vein or internal mammary artery, although other blood vessels are also used.
+Cardiac surgeons use a variety of techniques to avoid technical problems during CABG
+surgery, but assessment of graft flow is usually subjective. Techniques used vary
+according to the graft used, the surgical technique, and the surgeon's individual
+preference. They include the surgeon assessing resistance and perfusion beyond a graft
+by flushing fluid through it before restoring flow, and observing and palpating grafts for
+pulsation when blood flow has been re-established.
+The following publications have been identified as relevant to this care pathway:
+• NICE's guideline on stable angina: management
+• NICE's guideline on acute coronary syndromes
+• European Society of Cardiology (ESC) and European Association for Cardio-Thoracic
+Surgery (EACTS) guidelines on myocardial revascularization.
+Population, setting and intended user
+The MiraQ cardiac TTFM and HFUS system is intended for use in people with coronary
+artery disease undergoing CABG surgery.
+The technology is used by cardiovascular surgeons, with nurses operating the system. It is
+used in tertiary care during cardiac surgery.
+The company states that both the surgeon and the operator of the MiraQ cardiac system
+need to be trained in using the system. The training is provided by the company and is
+included in the cost of the device.
+Costs
+Technology costs
+• MiraQ cardiac TTFM and HFUS system: £81,550
+• unit cost L15 imaging probe: £8,365
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
+conditions#notice-of-rights). 13
+--- Страница 5 ---
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery (MIB323)
+• unit cost TTFM probe: £1,720
+• annual maintenance costs (based on 10-year lifetime): £2,086.
+Costs of standard care
+Standard care is clinical assessment of graft flow using a variety of techniques, which are
+selected based on surgeon preference. These usually involve minimal or no extra cost.
+Resource consequences
+The company states that MiraQ cardiac with TTFM and HFUS is used in 6 NHS trusts.
+The company claims that using the MiraQ cardiac TTFM and HFUS system reduces
+postoperative deaths and re-hospitalisations when compared with both CABG surgery
+alone and CABG surgery with the MiraQ TTFM system.
+The company states that there are no practical difficulties or changes in facilities and
+infrastructure associated with adopting MiraQ. It is a standalone system that only needs an
+electrical output socket.
+Regulatory information
+MiraQ cardiac transit time flow measurement and high-frequency ultrasound system is a
+CE-marked class IIa medical device, and the probes used with the MiraQ system are CE-
+marked class III.
+There is a field safety notice on Medistim ASA: VeriQ, MiraQ. Medistim is aware of
+incidences when flow measurement channels on Medistim devices have been operating
+with a significant zero-point offset value. The result is that flow measurements recorded
+with these channels will indicate that the flow is too high or too low. This might result in
+worse patient outcomes. Exploration of the issue has shown that this malfunction was
+caused by electrostatic discharge (ESD) damaging a component in the measurement chain
+on the Medistim systems, causing an offset from zero. Medistim tests the ESD resistance
+during compliance testing to ensure the system meets electromedical safety standard
+requirements. However, the incidences noted above have shown that severe ESD can
+surpass these requirements. Medistim has therefore further issued updated instructions
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
+conditions#notice-of-rights). 13
+--- Страница 6 ---
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery (MIB323)
+for use which clarify the importance of routinely performing the probe and system
+functionality test before use to ensure that they function properly.
+Equality considerations
+NICE is committed to promoting equality of opportunity, eliminating unlawful discrimination
+and fostering good relations between people with particular protected characteristics and
+others.
+The MiraQ cardiac transit time flowmetry and high-frequency ultrasound system is
+intended for people with coronary artery disease who are having coronary artery bypass
+graft surgery. High blood pressure, high cholesterol, high levels of lipoprotein(a), smoking,
+physical inactivity, diabetes and being overweight increase the risk of developing coronary
+heart disease. Older people, people who are male and people of South Asian family origin
+are also more likely to develop coronary heart disease. Age, disability, sex and race are
+protected characteristics under the Equality Act 2010.
+Clinical and technical evidence
+A literature search was carried out for this briefing in accordance with the interim process
+and methods statement for medtech innovation briefings. This briefing includes the most
+relevant or best available published evidence relating to the clinical effectiveness of the
+technology. Further information about how the evidence for this briefing was selected is
+available on request by contacting mibs@nice.org.uk.
+Published evidence
+Four studies are summarised in this briefing, which include a total of 1,134 people.
+All studies are single-arm studies without a comparator. The evidence consists of 1
+multicentre observational registry (Taggart et al. 2020), which has 1 secondary analysis
+from this data (Rosenfeld et al. 2021a), 1 prospective study (Wendt et al. 2019) and 1
+retrospective observational study (Kim et al. 2020).
+There is 1 secondary analysis that is not summarised below because it includes people
+with chronic and end-stage renal disease undergoing coronary artery bypass graft (CABG)
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
+conditions#notice-of-rights). 13
+--- Страница 7 ---
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery (MIB323)
+surgery (Rosenfeld et al. 2021b).
+The clinical evidence and its strengths and limitations are summarised in the overall
+assessment of the evidence.
+Overall assessment of the evidence
+The evidence for the technology is of low to moderate quality. None of the studies have a
+comparator and there is limited evidence in an NHS setting (1 centre). Some of the
+evidence is on VeriQ C, which is a previous version of the technology. The evidence
+suggests that MiraQ cardiac with transit time flowmetry (TTFM) and high-frequency
+ultrasound (HFUS) may improve the quality and efficacy of the CABG procedure.
+Comparative evidence on patient outcomes would be beneficial.
+Taggart et al. (2020)
+Study size, design and location
+A multicentre prospective observational registry of 1,016 people diagnosed with
+multivessel coronary artery disease who were scheduled for isolated coronary artery
+bypass graft surgery in 7 centres in Europe and North America.
+Intervention and comparator
+MiraQ cardiac or VeriQ C devices with TTFM and HFUS, no comparator.
+Key outcomes
+HFUS was used to assess the ascending aorta in 79.3% (806 out of 1,016) of people, the in
+situ conduits in 65.1% (661 out of 1,016), the coronary targets in 47.5% (483 out of 1,016)
+and completed grafts in 59.3% (602 out of 1,016). People who had off-pump surgery had
+HFUS more frequently (88.3%) compared with people who had on-pump surgery (73.5%).
+The primary outcome of the study was any change in planned surgical procedure as a
+result of imaging with TTFM or HFUS, or from visual assessment. A surgical change was
+made in 256 people. Of these, in 77% (197 out of 256) this was a result of TTFM or HFUS.
+Of these, surgical changes were made to the aorta in 74 of 80 people (92.5%), to in situ
+conduits in 10 of 18 people (55.6%), to the proposed coronary target in 73 of 109 people
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
+conditions#notice-of-rights). 13
+--- Страница 8 ---
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery (MIB323)
+(67.0%) and to grafts in 51 of 79 people (64.6%). In-hospital adverse event rates were 0.3%
+for myocardial infarction, 0.6% for mortality and 1.0% for cerebral events.
+Strengths and limitations
+The study suggests that TTFM and HFUS may improve the quality, safety and efficacy of
+CABG procedures. One of the centres was based in the UK. The main author has received
+research funding, speaking and travelling fees from the company. Seven out of the other 9
+authors received travelling support or speaker fees from the company. A limitation of the
+study is that the outcomes were limited to in-hospital reporting and no further follow up
+was done.
+Rosenfeld et al. (2021)
+Study size, design and location
+A retrospective review of the REQUEST registry of 1,016 people diagnosed with multivessel
+coronary artery disease who were scheduled for isolated coronary artery bypass graft
+surgery in 7 centres in Europe and North America.
+Intervention and comparator
+MiraQ cardiac or VeriQ C devices with TTFM and HFUS, no comparator.
+Key outcomes
+This study focused on 3 sub-analyses, comparing on-pump (ONCAB, n=402) with off-
+pump procedures (OPCAB, n=614), arterial versus venous grafts, and grafts to different
+territories. There were more surgical changes to the ascending aorta in OPCAB (14.7%)
+compared with ONCAB (3.4%) procedures (odds ratio [OR] 4.03; 95% confidence interval
+[CI] 2.32 to 7.20). Strategy changes for in situ conduits occurred less in OPCAB (0.2%)
+versus ONCAB (2.8%) procedures (OR 0.09; 95% CI 0.01 to 0.56). Changes to coronary
+targets did not differ between groups (10.4% versus 10.9%; OR 0.95; 95% CI 0.62 to 1.46).
+However, when comparing only people that underwent HFUS scanning, there were more
+target location changes in OPCAB (28.6%) versus ONCAB (19.9%) procedures (OR 1.63;
+95% CI 1.02 to 2.62). In all study participants, revisions were more common for arterial
+versus venous grafts (4.7% versus 2.4%; OR 2.05; 95% CI 1.29 to 3.37), and inferior versus
+anterior (5.1% versus 2.9%; OR 1.77; 95% CI 1.08 to 2.89) and lateral (5.1% versus 2.8%; OR
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
+conditions#notice-of-rights). 13
+--- Страница 9 ---
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery (MIB323)
+1.83; 95% CI 1.04 to 3.27) territory grafts.
+Strengths and limitations
+This study is a secondary analysis of Taggart et al. (2020). It suggests that compared with
+ONCAB, OPCAB procedures resulted in 4 times more changes related to the ascending
+aorta. An additional limitation to those mentioned above is that the study did not compare
+CABG procedures with or without the MiraQ cardiac TTFM and HFUS system because of
+the nature of the study.
+Wendt et al. (2019)
+Study size, design and location
+A prospective study of 65 people undergoing CABG surgery in Germany.
+Intervention and comparator
+MiraQ cardiac with TTFM and HFUS, no comparator.
+Key outcomes
+A surgical strategy change, based on imaging, was done in 10 procedures (15%). Changes
+related to the cannulation site (n=3), the target opening site (n=2) and the clamping site
+(n=1). In 3 cases, imaging was used to identify the left anterior descending artery, and in 1
+case the imaging confirmed a calcified vessel and a procedure was done to treat the
+calcification. In 1 case, the graft was revised. Thirty-day mortality was 0% and no stroke
+was observed.
+Strengths and limitations
+This study suggests that MiraQ TTFM and HFUS was helpful in evaluating the clamping or
+cannulation site, the potential opening site of the vessel or the completed anastomosis. A
+limitation is that the main aim of the study was to evaluate MiraQ TTFM and HFUS in
+relation to postoperative troponin-I release.
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
+conditions#notice-of-rights). 13
+--- Страница 10 ---
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery (MIB323)
+Kim et al. (2020)
+Study size, design and location
+A retrospective observational study of 53 people undergoing CABG in Korea.
+Intervention and comparator
+VeriQ C system, no comparator.
+Key outcomes
+In total, the quality of 141 distal anastomoses was evaluated, of which 123 with normal
+TTFM results also had good ultrasound findings. Abnormal TTFM findings, including low
+flow or high pulsatility index, were found in 18 distal anastomoses. The epicardial
+ultrasound identified that only 3 of these needed revisions. Revisions were not done for
+the other 15 distal anastomoses and at 1 year after surgery, all 15 of these were patent.
+The abnormal TTFM results were false positives for 15 of 18 distal anastomoses (83.3%).
+Epicardial ultrasound was also used to evaluate 32 target epicardial arteries in 30 people
+to identify the appropriate anastomosis sites. For 5 anastomoses, the target vessels were
+changed to adjacent vessels based on the ultrasound findings. The early and 1-year
+overall graft patency rates were 100% (141 anastomoses) and 96.1% (122 of 127
+anastomoses), respectively. The early mortality rate was 1.9% (1 of 53 people). Overall,
+postoperative complications included new-onset atrial fibrillation (n=13; 24.5%),
+respiratory complications (n=3; 5.7%), low cardiac output syndrome (n=2; 3.8%), and acute
+kidney injury (n=2; 3.8%).
+Strengths and limitations
+This study suggests that epicardial ultrasound scanning may be beneficial during CABG
+surgery to confirm the quality of the surgery and potentially reduce additional procedures.
+A limitation is that the procedures were done by 1 surgeon.
+Sustainability
+The company claims the technology will reduce the use of single-use equipment related to
+the surgical procedure by reducing the need for repeat vascularisation (repeat CABG or
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10
+conditions#notice-of-rights). of 13
+--- Страница 11 ---
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery (MIB323)
+percutaneous coronary intervention [PCI]) and the ionising radiation connected to PCI.
+Both the TTFM and HFUS probes can be used on multiple patients after cleaning and
+sterilisation. There is no published evidence to support these claims.
+Recent and ongoing studies
+Flow distribution in arterial composite grafts in patients with coronary heart disease
+undergoing coronary artery bypass grafting. ACTRN12622000774729. Status: not yet
+recruiting. Indication: coronary heart disease leading to coronary artery bypass grafting.
+Devices: MiraQ TTFM and HFUS. Estimated completion date: not reported. Country: Czech
+Republic.
+Expert comments
+Comments on this technology were invited from clinical experts working in the field and
+relevant patient organisations. The comments received are individual opinions and do not
+represent NICE's view.
+Two out of 3 experts were familiar with or had used this technology before.
+Level of innovation
+Two clinical experts commented that the technology has been around for some time,
+about 20 years. One expert said that other modalities offer the same information but at no
+extra cost and 1 expert said that MiraQ cardiac is the most user-friendly form that this
+technology has been presented in. The other expert said that MiraQ cardiac is a useful tool
+for quality control of anastomotic issues. Two experts described the standard care used in
+clinical practice, which includes assessment of graft adequacy and flow by: changes in
+electrocardiogram measurements and haemodynamic parameters, infusing cardioplegia
+through a conduit during the procedure and palpation of the conduit. Two of the clinical
+experts stated that the technology would be used in addition to standard care and 1 said
+that it has the potential to replace standard care.
+Potential patient impact
+Two experts said that the primary benefit of the technology for patients is providing
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
+conditions#notice-of-rights). 13
+--- Страница 12 ---
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery (MIB323)
+surgeons with detailed objective information about the graft condition and graft flow. This
+information can be used to make necessary changes to improve blood flow in the graft
+and potentially reduce long-term graft failure. One expert also highlighted the ability of the
+technology to detect the position of deep lying arteries, which prevents the surgeon from
+making unnecessary dissections during the procedure. This may reduce the risk of
+bleeding and intraoperative complications. Based on this aspect of detection, 1 expert said
+that the technology is most appropriate for use in people with known peripheral vascular
+disease and another expert said that it would provide more benefit in people with calcified
+vessels or small vessels with a high syntax score.
+Potential system impact
+One expert said that the technology has the potential to standardise the methods used in
+practice, which are currently subjective and not evidence-based. This expert added that
+the potential to reduce future cardiac events would mean fewer hospital visits, which
+would free up resource. All of the experts agreed that the technology will initially cost
+significantly more than standard care. This is because of the cost of purchasing the
+technology and disposables, training theatre nursing staff and surgeons, and the extra
+time required to perform flow measurements and ultrasound assessment. One expert felt
+that the long-term cost impact would be equal to or less than standard care.
+General comments
+All 3 experts agreed that the technology would not require any specific changes to
+facilities and infrastructure, though 2 experts noted that storage space within the
+operating theatre would be needed. They also agreed that training would be required to
+achieve competency with the device. One of the experts highlighted that the technology
+does not automatically record blood pressure during the flow measurement and that this
+would be useful for retrospective analyses of outcomes. They also said that a small portion
+of the left internal mammary artery must be prepared for placing the flow probe around
+the vessel. If this step is not done before the procedure and instead done at the end, this
+could cause damage to the mammary artery and cause bleeding. All 3 experts suggested
+that larger studies are needed to determine both the clinical and cost effectiveness of the
+technology, including in different patient groups. Two experts said that the technology
+would be needed for all coronary artery bypass graft (CABG) procedures done in the NHS,
+which is approximately 15,000 a year.
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12
+conditions#notice-of-rights). of 13
+--- Страница 13 ---
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery (MIB323)
+Expert commentators
+The following clinicians contributed to this briefing:
+• Dr James Barnard, consultant cardiac surgeon at Wythenshawe Hospital Manchester
+University NHS Foundation Trust. Did not declare any interests.
+• Dr Vipin Zamvar, consultant cardiothoracic surgeon at Royal Infirmary of Edinburgh.
+Did not declare any interests.
+• Professor Thanos Athanasiou, professor of cardiac surgery at Imperial College London
+NHS Trust. Did not declare any interests.
+Development of this briefing
+This briefing was developed by NICE. The interim process and methods statement for
+medtech innovation briefings sets out the process NICE uses to select topics, and how the
+briefings are developed, quality-assured and approved for publication.
+ISBN: 978-1-4371-5265-6
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13
+conditions#notice-of-rights). of 13

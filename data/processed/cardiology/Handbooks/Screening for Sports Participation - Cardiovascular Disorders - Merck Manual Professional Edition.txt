@@ -1,0 +1,185 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:07.355250",
+  "file_size_bytes": 234773,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:51 Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Screening for Sports Participation
+By Robert S. McKelvie, MD, PhD, Western University
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Aug 2024 | Modified Aug 2025
+Athletes are commonly screened to identify risk before participation in sports. Screening should
+address cardiovascular and other risks.
+Screening for Cardiovascular Risks of Sports Participation
+Athletes are commonly screened to identify cardiovascular risks before participation in sports. In the
+United States, athletes are reevaluated every 2 years (if high school age) or every 4 years (if college age
+or older). In Europe, screening is repeated every 2 years regardless of age.
+Screening recommendations in the United States for college-age young adults—as well as for
+children and adolescents—include the following (1):
+History
+Physical examination
+Selected testing based on findings on history and physical examination
+History should include questions about the following:
+Known hypertension or heart murmur
+Symptoms that are induced by exercise or are unexplained, including syncope (including
+convulsive syncope), near-syncope, chest pain, dyspnea, or palpitations
+Chest pain, particularly new onset, assessing quality (eg, pleuritic, pressing, burning),
+location, duration, intensity, relation to activity, associated symptoms
+Family history of sudden cardiac death at age < 50 years, arrhythmias, dilated
+cardiomyopathy, hypertrophic cardiomyopathy, long QT syndrome, or Marfan syndrome
+Use of performance-enhancing or illicit drugs (Visit the U.S. Anti-Doping Agency.) and
+medications that predispose to long QT syndrome
+In adults, risk factors for coronary artery disease
+Physical examination should consist of a cardiovascular examination that includes blood pressure in
+both arms, supine and standing cardiopulmonary auscultation, and assessment for other conditions
+such as features of Marfan syndrome. These measures aim to identify apparently healthy people at high
+risk of life-threatening cardiac events (eg, people with arrhythmias, hypertrophic cardiomyopathy, or
+other structural heart disorders).
+https://www.merckmanuals.com/professional/cardiovascular-disorders/sports-and-the-heart/screening-for-sports-participation 1/5
+--- Страница 2 ---
+22/01/2026, 14:51 Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition
+European guidelines differ from American guidelines in that a screening electrocardiogram (ECG) is
+recommended for all children, adolescents, and college-age athletes (2).
+Canadian Guidelines recommend screening in 3 tiers:
+History/questionnaire
+Physical examination
+ECG only when indicated according to clinical findings
+Testing follows if clinically warranted (3).
+CLINICAL CALCULATORS
+QT Interval Correction (EKG)
+Screening for older adults (35 years or older) with risk factors may include incremental symptom-
+limited exercise testing, especially if athletes have been sedentary for a number of years.
+History and examination are neither sensitive nor specific; false-negative and false-positive findings are
+common because prevalence of cardiac disorders in an apparently healthy population is very low. Use
+of screening ECG or echocardiography would improve disease detection but would produce even more
+false-positive diagnoses and is impractical at a population level.
+Genetic testing for hypertrophic cardiomyopathy or long QT syndrome is not recommended or even
+feasible for the screening of athletes.
+Selected testing
+Athletes with a family history or symptoms or signs of, for example hypertrophic cardiomyopathy, long
+QT syndrome, arrhythmogenic right ventricular cardiomyopathy, Brugada syndrome, or Marfan
+syndrome, require further evaluation. Typically evaluation includes one or both of the following:
+ECG
+Echocardiography
+Confirmation of any of these disorders may preclude sports participation.
+If ECG reveals Mobitz type II heart block, complete heart block, true right bundle branch block, or left
+bundle branch block, or there is clinical or electrocardiographic evidence of supraventricular or
+ventricular rhythm disorders, a search for cardiac disease is required.
+Athletes with presyncope or syncope in whom noninvasive testing is unrevealing should also be
+evaluated for anomalous coronary arteries. Evaluation is done using
+Cardiac catheterization
+If an enlarged aorta is detected on echocardiography (or incidentally), further assessment is needed.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/sports-and-the-heart/screening-for-sports-participation 2/5
+--- Страница 3 ---
+22/01/2026, 14:51 Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition
+Recommendations for sports participation
+Athletes should be counseled against use of illicit and performance-enhancing drugs. Patients with mild
+or moderate valvular heart disease may participate in vigorous activity.
+Certain patients should not participate in competitive sports or high-intensity recreational sports, such
+as those who have
+Severe valvular heart disease, particularly if stenotic
+Most structural or arrhythmogenic heart disorders (eg, hypertrophic cardiomyopathy,
+coronary artery anomalies, arrhythmogenic right ventricular cardiomyopathy)
+Myocardial infarction within about the previous 6 weeks
+Known aneurysms in the brain or large vessels
+Acute myocarditis (until resolved, with complete recovery of ventricular function)
+Athletes who have had a myocardial infarction will need cardiovascular rehabilitation and a gradual
+approach to returning to high-intensity physical activity.
+Cardiovascular screening references
+1. Maron BJ, Thompson PD, Ackerman MJ, et al: Recommendations and considerations related to
+pre-participation screening for cardiovascular abnormalities in competitive athletes: 2007 update:
+a scientific statement from the American Heart Association Council on Nutrition, Physical Activity,
+and Metabolism: endorsed by the American College of Cardiology Foundation. Circulation
+2007;115(12):1643–1655, 2007. doi:10.1161/CIRCULATIONAHA.107.181423
+2. Corrado D, Pelliccia A, Bjørnstad HH, et al: Cardiovascular pre-participation screening of young
+competitive athletes for prevention of sudden death: proposal for a common European protocol.
+Consensus Statement of the Study Group of Sport Cardiology of the Working Group of Cardiac
+Rehabilitation and Exercise Physiology and the Working Group of Myocardial and Pericardial
+Diseases of the European Society of Cardiology. Eur Heart J 26(5):516–524, 2005.
+doi:10.1093/eurheartj/ehi108
+3. Johri AM, Poirier P, Dorian P, et al: Canadian Cardiovascular Society/Canadian Heart Rhythm
+Society joint position statement on the cardiovascular screening of competitive athletes. Can J
+Cardiol 35:1-11, 2019. doi: 10.1016/j.cjca.2018.10.016
+Screening for Other Risks of Sports Participation
+Athletes should also be screened for musculoskeletal and other risks before participation in sports.
+Noncardiovascular risk factors are more common than cardiovascular risk factors. Adults are asked
+about the following:
+Previous or current musculoskeletal injuries (including easily triggered dislocations)
+Arthritic disorders, particularly those involving major weight-bearing joints (eg, hips, knees,
+ankles)
+https://www.merckmanuals.com/professional/cardiovascular-disorders/sports-and-the-heart/screening-for-sports-participation 3/5
+--- Страница 4 ---
+22/01/2026, 14:51 Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition
+Concussions
+Asthma
+Symptoms suggesting systemic infection
+Heat-related illness
+Easy bruising or bleeding
+Seizures
+Two populations at risk for injuries are commonly overlooked:
+Boys who physically mature late are assumed to be at greater risk of injury in contact sports
+if competing against larger and stronger children.
+People with overweight or obesity are at increased risk of musculoskeletal problems
+because of excess body weight and associated forces on the joints and tissues. One risk is
+overuse injury and soft-tissue inflammation, particularly if people increase intensity and
+duration of exercise too rapidly. A long-term risk is osteoarthritis affecting weight-bearing
+joints. Another risk may be injury due to sudden stops and starts if they participate in
+activities that require jumping or high levels of agility.
+Athletes, particularly adolescents and young adults, should be asked about use of illicit and
+performance-enhancing drugs. (Visit the U.S. Anti-Doping Agency.)
+In girls and young women, screening should detect delayed onset of menarche. Girls and young women
+should be screened for the presence of the female athlete triad (eating disorders, amenorrhea or other
+menstrual dysfunction, and diminished bone mineral density). Two questions are validated screening
+measures for eating disorders:
+Have you ever had an eating disorder?
+Are you happy with your weight?
+Contraindications to Sports Participation
+Other than certain cardiovascular disorders, there are almost no absolute contraindications to sports
+participation.
+Exceptions in children include
+Acute splenic enlargement or recent infectious mononucleosis (Epstein-Barr virus infection)
+because splenic rupture is a risk
+Symptomatic or persistent fevers, which may decrease exercise tolerance, increase risk of
+heat-related disorders, and be a sign of serious illness
+Possibly significant diarrhea and/or recent significant vomiting because dehydration is a risk
+In adults, relative contraindications are more common and lead to recommendations for
+precautions or for participation in some sports rather than others, for example:
+https://www.merckmanuals.com/professional/cardiovascular-disorders/sports-and-the-heart/screening-for-sports-participation 4/5
+--- Страница 5 ---
+22/01/2026, 14:51 Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition
+People with a history of frequent and easily triggered dislocations or multiple concussions
+should participate in noncollision sports.
+Males, particularly those with a single testis, should wear a protective cup for most contact
+sports.
+People, particularly those at risk of heat intolerance and dehydration (eg, those with
+diabetes, cystic fibrosis, sickle cell disease or trait, or previous heat-related illness), should
+hydrate frequently during prolonged activity.
+People with suboptimal seizure control should avoid swimming, weight lifting, and, to
+prevent injury to others, sports such as archery and riflery.
+People who have asthma need to monitor their symptoms closely.
+Key Points
+Screen younger participants (children through young adults) with history and physical
+examination; those with abnormal findings or positive family history should have ECG
+and/or echocardiography.
+Screen older participants with risk factors (particularly if they have been sedentary for a
+number of years) with history, physical examination, and usually an exercise stress test.
+Recommend against participation in athletes with severe valvular disease and most
+structural or arrhythmogenic heart disorders (eg, hypertrophic cardiomyopathy).
+Recommend against participation in children with acute splenic enlargement or recent
+infectious mononucleosis, symptomatic or persistent fever, and significant diarrhea or
+vomiting that predispose them to dehydration until these conditions are resolved.
+In all patients, limit participation in specific sports based upon concurrent medical
+conditions.
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/sports-and-the-heart/screening-for-sports-participation 5/5

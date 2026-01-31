@@ -1,0 +1,1090 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "ticagrelor-for-the-treatment-of-acute-coronary-syndromes-pdf-82600373952709.pdf",
+  "converted_date": "2026-01-31T14:50:01.173449",
+  "file_size_bytes": 189259,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/ticagrelor-for-the-treatment-of-acute-coronary-syndromes-pdf-82600373952709.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+Ticagrelor for the
+treatment of acute
+coronary syndromes
+Technology appraisal guidance
+Published: 26 October 2011
+www.nice.org.uk/guidance/ta236
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+--- Страница 2 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+Your responsibility
+The recommendations in this guidance represent the view of NICE, arrived at after careful
+consideration of the evidence available. When exercising their judgement, health
+professionals are expected to take this guidance fully into account, alongside the
+individual needs, preferences and values of their patients. The application of the
+recommendations in this guidance is at the discretion of health professionals and their
+individual patients and do not override the responsibility of healthcare professionals to
+make decisions appropriate to the circumstances of the individual patient, in consultation
+with the patient and/or their carer or guardian.
+All problems (adverse events) related to a medicine or medical device used for treatment
+or in a procedure should be reported to the Medicines and Healthcare products Regulatory
+Agency using the Yellow Card Scheme.
+Commissioners and/or providers have a responsibility to provide the funding required to
+enable the guidance to be applied when individual health professionals and their patients
+wish to use it, in accordance with the NHS Constitution. They should do so in light of their
+duties to have due regard to the need to eliminate unlawful discrimination, to advance
+equality of opportunity and to reduce health inequalities.
+Commissioners and providers have a responsibility to promote an environmentally
+sustainable health and care system and should assess and reduce the environmental
+impact of implementing NICE recommendations wherever possible.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
+conditions#notice-of-rights). 36
+--- Страница 3 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+Contents
+1 Recommendations ................................................................................................................. 4
+2 The technology ...................................................................................................................... 5
+3 The manufacturer's submission ........................................................................................... 6
+Clinical effectiveness .......................................................................................................................... 6
+Cost effectiveness .............................................................................................................................. 9
+ERG comments .................................................................................................................................... 13
+4 Consideration of the evidence ............................................................................................. 19
+Clinical effectiveness .......................................................................................................................... 19
+Cost effectiveness .............................................................................................................................. 23
+5 Implementation ...................................................................................................................... 27
+6 Recommendations for further research .............................................................................. 28
+7 Appraisal Committee members and NICE project team .................................................... 29
+Appraisal Committee members ......................................................................................................... 29
+NICE project team ............................................................................................................................... 31
+8 Sources of evidence considered by the Committee ......................................................... 33
+Update information .................................................................................................................. 36
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
+conditions#notice-of-rights). 36
+--- Страница 4 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+1 Recommendations
+1.1 Ticagrelor in combination with low-dose aspirin is recommended for up to
+12 months as a treatment option in adults with acute coronary syndromes (ACS)
+that is, people:
+• with ST-segment-elevation myocardial infarction (STEMI) – defined as ST
+elevation or new left bundle branch block on electrocardiogram – that
+cardiologists intend to treat with primary percutaneous coronary intervention
+(PCI) or
+• with non-ST-segment-elevation myocardial infarction (NSTEMI) or
+• admitted to hospital with unstable angina – defined as ST or T wave changes
+on electrocardiogram suggestive of ischaemia plus 1 of the characteristics
+defined in section 1.2. Before ticagrelor is continued beyond the initial
+treatment, the diagnosis of unstable angina should first be confirmed, ideally
+by a cardiologist.
+1.2 For the purposes of this guidance, characteristics to be used in defining
+treatment with ticagrelor for unstable angina are: age 60 years or older; previous
+myocardial infarction or previous coronary artery bypass grafting (CABG);
+coronary artery disease with stenosis of 50% or more in at least 2 vessels;
+previous ischaemic stroke; previous transient ischaemic attack, carotid stenosis
+of at least 50%, or cerebral revascularisation; diabetes mellitus; peripheral arterial
+disease; or chronic renal dysfunction, defined as a creatinine clearance of less
+than 60 ml per minute per 1.73 m2 of body-surface area.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
+conditions#notice-of-rights). 36
+--- Страница 5 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+2 The technology
+2.1 Ticagrelor (Brilique, AstraZeneca) is an oral antagonist at the P2Y adenosine
+12
+diphosphate receptor, which inhibits platelet aggregation and thrombus formation
+in atherosclerotic disease. The summary of product characteristics (SPC) states
+that ticagrelor, co-administered with low-dose aspirin, is indicated for the
+prevention of atherothrombotic events in adult patients with ACS, defined as
+STEMI, NSTEMI or unstable angina. Patients with ACS who receive ticagrelor and
+aspirin may receive drugs only (medical management) or may also undergo
+revascularisation with PCI or CABG.
+2.2 According to the SPC, treatment should be initiated with a loading dose of 180
+mg ticagrelor (2 tablets of 90 mg) and then continued at 90 mg twice a day for up
+to 12 months. Patients taking ticagrelor should also take low-dose aspirin daily,
+unless specifically contraindicated. Following an initial loading dose of aspirin, the
+maintenance dose is 75 to 150 mg per day.
+2.3 Ticagrelor is contraindicated in patients with active pathological bleeding, a
+history of intracranial haemorrhage, or moderate-to-severe hepatic impairment.
+Co-administration of ticagrelor with a strong CYP3A4 inhibitor (for example,
+ketoconazole, clarithromycin, nefazodone, ritonavir, or atazanavir) is also
+contraindicated. The most commonly reported adverse reactions to treatment
+with ticagrelor include dyspnoea, epistaxis, gastrointestinal haemorrhage,
+subcutaneous or dermal bleeding, and bruising. For full details of adverse effects
+and contraindications, see the SPC.
+2.4 The manufacturer stated in its submission that the cost of 90 mg tablets of
+ticagrelor is £54.60 for a pack of 56 tablets (28 days). Costs may vary in different
+settings because of procurement discounts.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
+conditions#notice-of-rights). 36
+--- Страница 6 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+3 The manufacturer's submission
+The Appraisal Committee considered evidence submitted by the manufacturer of
+ticagrelor and a review of this submission by the Evidence Review Group (ERG). This
+evidence related to the clinical and cost effectiveness of ticagrelor plus aspirin.
+Clinical effectiveness
+3.1 For the comparison of ticagrelor plus aspirin with clopidogrel plus aspirin, the
+manufacturer identified 1 trial, the PLATO trial, an international, multicentre,
+randomised, double-blind, double-dummy, parallel group, phase 3 study. The trial
+evaluated the efficacy and safety of ticagrelor plus aspirin compared with
+clopidogrel plus aspirin over 12 months in people with ACS whose symptoms
+began up to 24 hours before their admission to hospital. In the trial, 18,624 adult
+patients with ACS with or without ST-segment elevation on electrocardiogram
+from 43 countries including 18 UK centres (n=281) were admitted to hospital, and
+randomised to either ticagrelor plus aspirin (n=9,333) or clopidogrel plus aspirin
+(n=9,291). In the ticagrelor group, patients received a loading dose of 180 mg of
+ticagrelor, then 90 mg twice a day. Patients randomised to clopidogrel received
+loading doses of 300 to 600 mg of clopidogrel, then 75 mg every day thereafter.
+Patients did not need loading doses of clopidogrel if they had taken clopidogrel
+before admission or had received clopidogrel after admission but before
+randomisation (median approximately 5 hours). In the time between admission
+and randomisation, 46% of patients in both the ticagrelor and clopidogrel groups
+received clopidogrel. All patients also received aspirin (in addition to ticagrelor or
+clopidogrel) with a loading dose of 325 mg, then 75 to 100 mg daily. Patients
+already taking aspirin did not need a loading dose of aspirin.
+3.2 The primary end point was time to first event (a composite of myocardial
+infarction, stroke or death from vascular causes). The planned duration of
+treatment and follow-up was 12 months. If before this time 1,780 individuals had a
+primary end point event, then patients who had not yet been followed for
+12 months would finish the study at their 6 or 9-month visit. At the end of the
+trial, 1,878 participants had experienced events, and the median duration of
+treatment was 9.1 months. Secondary end points included: myocardial infarction;
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
+conditions#notice-of-rights). 36
+--- Страница 7 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+stroke; death from vascular causes; death from any cause; a composite of
+myocardial infarction, stroke and death from any cause; and a composite of
+myocardial infarction, stroke, severe recurrent cardiac ischaemia, recurrent
+cardiac ischaemia, transient ischaemic attack, other arterial thrombotic events
+and death from vascular causes.
+3.3 The results showed that the relative risk of experiencing a primary end point
+event was 16% lower in the ticagrelor group compared with the clopidogrel group
+(hazard ratio [HR] 0.84; 95% confidence interval [CI] 0.77 to 0.92; p<0.001). Of
+the components of the primary end point, randomisation to ticagrelor plus aspirin
+reduced the incidence of myocardial infarction (HR 0.84; 95% CI 0.75 to 0.95;
+p=0.005) and death from vascular causes (HR 0.79; 95% CI 0.69 to 0.91;
+p=0.001), but not of stroke (HR 1.17; 95% CI 0.91 to 1.52). Randomisation to
+ticagrelor plus aspirin reduced the absolute risk of experiencing the primary end
+point from 11.7% to 9.8% at 12 months (absolute risk reduction 1.9%) compared
+with clopidogrel plus aspirin.
+3.4 The manufacturer explored the consistency of effects and safety end points in 25
+pre-specified subgroups and 8 post-hoc subgroups. An analysis was conducted
+of the primary end point in several predefined subgroups. The manufacturer's
+submission stated that analyses showed statistically significant differences in
+treatment efficacy in 3 groups: geographic region; body weight above or below a
+gender-specific median; and use of lipid-lowering drugs at randomisation. The
+HRs by type of ACS at presentation – unstable angina, NSTEMI and STEMI – were
+0.96 (95% CI 0.75 to 1.22), 0.83 (95% CI 0.73 to 0.94) and 0.84 (95% CI 0.72 to
+0.98) respectively with a non-statistically significant test for interaction (p=0.41).
+The manufacturer presented 6 analyses in subgroups that included patients
+whose condition was managed invasively, managed medically, patients with
+STEMI, patients with diabetes, patients with genetic polymorphisms, and patients
+undergoing CABG. The results of these 6 subgroup analyses were generally
+consistent with the primary analysis.
+3.5 The manufacturer reported adverse events from the PLATO study, specifically
+bleeding, dyspnoea and ventricular pauses. There was no statistically significant
+difference in the primary safety end point of 'major' bleeding between the
+ticagrelor plus aspirin and clopidogrel plus aspirin groups (11.6% versus 11.2%
+respectively; p=0.43), or in the end point of bleeding defined by the Thrombolysis
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
+conditions#notice-of-rights). 36
+--- Страница 8 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+in Myocardial Infarction (TIMI) scale. Both were analysed according to which
+treatment a patient took, rather than to which a patient had been randomised;
+these findings were consistent across all major subgroups. Patients randomised
+to ticagrelor experienced more overall major and minor bleeding (HR 1.11; 95% CI
+1.03 to 1.20; p=0.008) as well as more major bleeding not related to CABG (HR
+1.19; 95% CI 1.02 to 1.38; p=0.03). Intracranial bleeding was more common in the
+ticagrelor plus aspirin group than in the clopidogrel plus aspirin group, with fatal
+intracranial bleeding statistically significantly more common in the ticagrelor plus
+aspirin group (HR not reported; p=0.02). Fatal bleeding excluding intracranial
+bleeding was statistically significantly more common in the clopidogrel plus
+aspirin group (HR not reported; p=0.03). There was no difference between the 2
+groups in relation to overall fatal bleeding (0.3% in each group). Patients
+randomised to ticagrelor experienced dyspnoea statistically significantly more
+often than patients taking clopidogrel (13.8% versus 7.8% respectively; p<0.001).
+More patients taking ticagrelor plus aspirin discontinued treatment because of
+dyspnoea than patients taking clopidogrel plus aspirin (0.9% versus 0.1%
+respectively; p<0.001). Holter monitoring detected more ventricular pauses of
+3 seconds or longer during the first week in the ticagrelor plus aspirin group than
+in the clopidogrel plus aspirin group, but these occurred infrequently at 30 days
+of treatment and were rarely associated with symptoms. Patients treated with
+ticagrelor had statistically significantly greater increases from baseline in levels of
+serum uric acid and serum creatinine compared with those on clopidogrel
+(p<0.001 for both events throughout the study).
+3.6 The manufacturer identified no trials directly comparing ticagrelor plus aspirin
+with prasugrel plus aspirin. Instead, the manufacturer identified 2 trials comparing
+prasugrel plus aspirin with clopidogrel plus aspirin that provided data for an
+indirect comparison: the PLATO trial (ticagrelor plus aspirin compared with
+clopidogrel plus aspirin) and TRITON-TIMI 38, which compared prasugrel plus
+aspirin with clopidogrel plus aspirin in patients (n=13,608) with ACS and
+scheduled PCI. The manufacturer took the view that the trials were not
+comparable and, by inference, a comparison between prasugrel and ticagrelor
+based on these trials was inappropriate and should be viewed with caution. The
+manufacturer noted that the PLATO and TRITON-TIMI 38 trials were similar in
+many ways, both including populations with ACS, both comparing the
+intervention plus aspirin to clopidogrel plus aspirin, and both sharing the same
+primary end point. However, there were important differences in the use of PCI
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
+conditions#notice-of-rights). 36
+--- Страница 9 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+and medical management, in the size and timing of the loading dose of
+clopidogrel, and in assessing myocardial infarction. Although the manufacturer
+considered the indirect comparison inappropriate, it cited a published paper
+based on the PLATO and TRITON-TIMI 38 trials that showed no statistically
+significant differences in the occurrence of myocardial infarction, stroke, death
+from any cause or the composite of these outcomes between the 2 drugs.
+Ticagrelor plus aspirin was associated with a statistically significantly lower risk
+of major bleeding and major bleeding specifically associated with bypass grafting
+than prasugrel plus aspirin. The risk of major bleeding not related to CABG did not
+differ between patients taking prasugrel and those taking ticagrelor.
+3.7 The PLATO trial included a pre-specified sub-study of health economics and
+quality of life that evaluated the health-related quality of life for ticagrelor plus
+aspirin compared with clopidogrel plus aspirin. Investigators administered the
+EuroQual 5D (EQ-5D) questionnaire to 8,840 patients at discharge from hospital
+for the index ACS event, again at 6 months, and at the end of treatment in all
+countries where a version of EQ-5D in the country's official language was
+available. No differences in any of the items on the EQ-5D were found between
+the ticagrelor plus aspirin group and the clopidogrel plus aspirin group.
+Cost effectiveness
+3.8 The manufacturer did not identify any publications that evaluated the cost
+effectiveness of ticagrelor for the treatment of ACS. The manufacturer developed
+a new economic model, informed by 9 existing economic evaluations. For the
+health economics evaluation of ticagrelor plus aspirin compared with prasugrel
+plus aspirin, the manufacturer presented the results of a published indirect
+comparison of the TRITON-TIMI 38 trial and the PLATO trial, conducted by an
+independent group.
+3.9 The manufacturer constructed a 2-part cost−utility model with a 1-year decision
+tree to model effectiveness based on data from the PLATO study, and a Markov
+model to extrapolate costs and benefits to a lifetime horizon (40 years), and to
+incorporate major clinical events. Patients in the model had ACS (STEMI, NSTEMI
+or unstable angina) and included patients whose condition was managed
+medically or with PCI or CABG; the model therefore reflected the marketing
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
+conditions#notice-of-rights). 36
+--- Страница 10 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+authorisation for ticagrelor. The model compared ticagrelor plus aspirin with
+clopidogrel plus aspirin.
+3.10 The 1-year decision tree contained 4 mutually exclusive health states: non-fatal
+myocardial infarction, non-fatal stroke, death from any cause, and no further
+event. The Markov model included 6 states: non-fatal myocardial infarction, post-
+myocardial infarction, non-fatal stroke, post-stroke, death, and no further event.
+Non-fatal myocardial infarction and non-fatal stroke were tunnel states, which
+allowed for a worse prognosis the first year after a non-fatal event compared with
+second and subsequent years. After the first year following a non-fatal event,
+patients proceeded to 1 of 4 mutually exclusive health states: post-myocardial
+infarction, post-stroke, death or no further event. Costs and health outcomes
+were discounted at 3.5%. The Markov model used a half-cycle correction to
+adjust for simulated costs and outcomes. The model did not permit a patient to
+discontinue treatment for any reason other than death.
+3.11 In the model, costs, life years, and quality-adjusted life years (QALYs) accrued
+beyond the first year of treatment with ticagrelor or clopidogrel; however, the
+model assumed that the beneficial effect of ticagrelor does not persist beyond
+1 year. This means that the transition probabilities between states in the Markov
+model were the same for both treatment arms; the only difference between
+treatment arms was the number of patients who started the Markov model in
+each state, which was based on the output of the 1-year decision tree. Adverse
+events (notably bleeding) were not included in the structure of the model, but the
+increased costs and decreased health-related quality of life associated with
+adverse events recorded in PLATO (as part of PLATO-HECON) were included in
+the first year (decision tree) of the model. The manufacturer assumed that
+adverse events including bleeding and dyspnoea have no lasting effects beyond
+the 12-month duration of the trial. To model the incidence of cardiovascular
+complications beyond 1 year (in the Markov component of the model), the
+manufacturer assumed a constant probability of 3.15% per year for non-fatal
+myocardial infarction and 1.02% per year for non-fatal stroke. The risk of death
+from MI after the index event (STEMI, NSTEMI or unstable angina) was assumed
+to be the same as that of death at least 1 year after the index ACS event.
+3.12 For the 1-year decision tree, the manufacturer used a parametric time-to-event
+survival model with a Weibull distribution to determine the baseline risk (that is,
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
+conditions#notice-of-rights). 36
+--- Страница 11 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+the risk of cardiovascular events and death in the clopidogrel group). The
+manufacturer then applied HRs reflective of the effectiveness of ticagrelor from
+the PLATO study to this baseline risk to determine the risk in patients taking
+ticagrelor. Using data in the 1-year decision tree derived from the PLATO study,
+the manufacturer estimated from patients in the clopidogrel group age-adjusted
+event rates (myocardial infarction, stroke, death from any cause and death from
+vascular causes) for a UK population with ACS (mean age of PLATO patients,
+62.2 years; reported age of UK patients with ACS in 2009 to 2010, 69.7 years). In
+the Markov model, the transition probabilities from the no event health state to
+each of the non-fatal myocardial infarction or non-fatal stroke health states were
+estimated from a study that the manufacturer commissioned from the Myocardial
+Ischaemia National Audit Project and the General Practice Research Database.
+The probabilities of transitioning between all other health states were based on
+relative risks applied to the probability of death in standard life tables.
+3.13 The manufacturer used the 12-month cohort (patients who were eligible for a
+12-month follow-up) in the PLATO-HECON study to calculate the utility accrued
+in the study and reported it as the average utility value for a patient over the
+12-month period using the EQ-5D. The manufacturer performed a literature
+search to assess the relationship between utility values in the PLATO study and in
+the literature. The lower values from the literature were used in sensitivity
+analyses. The utility scores from both the PLATO-HECON substudy and the
+literature were adjusted downwards by 0.0328 to better reflect the patient
+population that would be treated in UK clinical practice. In addition, because
+utility decreases with age, the manufacturer applied a utility decrement of 0.004
+in the Markov model to each cycle beyond the first year.
+3.14 The costs for the generic drugs clopidogrel and aspirin were taken from the NHS
+Drug Tariff, November 2010. The cost of the drugs used in the economic
+evaluation were: aspirin 28-pack, £0.82; clopidogrel 30-pack, £3.40; and
+ticagrelor 28-pack, £54.60. The PLATO-HECON substudy measured resource use
+and determined costs for all patients participating in the PLATO study by
+recording admissions to hospital, interventions, investigations, blood products,
+re-operations due to bleeding, and use of concomitant or study drugs to estimate
+total healthcare costs associated with ticagrelor and clopidogrel. Resource use
+included costs from randomisation to the time of discharge from hospital, as well
+as after discharge from hospital to the end of the PLATO study. The manufacturer
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
+conditions#notice-of-rights). 36
+--- Страница 12 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+also included in sensitivity analyses the costs of a visit to the GP and of a blood
+test to check renal function, as stipulated in the SPC for ticagrelor.
+3.15 In its deterministic base case (40-year time horizon), the manufacturer's model
+estimated that ticagrelor provides an incremental health gain of 0.108 QALYs
+compared with clopidogrel, at an incremental cost of £379, resulting in an
+incremental cost-effectiveness ratio (ICER) of £3,521 per QALY gained. The
+manufacturer also presented results using time horizons of 1 year, 5 years,
+10 years and 20 years: the ICER differed substantially from the base-case ICER
+only when using the 1-year time horizon, with an ICER of £33,764 per QALY
+gained. The manufacturer also presented base-case ICERs for the subgroups of
+ACS specified in the scope, which were £2,551 per QALY gained for STEMI,
+£5,217 per QALY gained for NSTEMI and £5,310 per QALY gained for unstable
+angina.
+3.16 The manufacturer carried out deterministic sensitivity analyses to the base case
+and showed the effects of changing 43 model parameters. Only the change to
+the costs of the 'no further event' health state impacted substantially on the
+results. When the cost of the 'no further event' health state for ticagrelor plus
+aspirin was set to its lowest, ticagrelor plus aspirin dominated clopidogrel plus
+aspirin (that is, ticagrelor plus aspirin was more effective and less expensive than
+clopidogrel plus aspirin), whereas when the cost of the clopidogrel plus aspirin
+'no further event' health state was set to its lowest, the ICER was £21,000 per
+QALY gained. Changes in all other parameters did not increase the ICER beyond
+£7,620.
+3.17 The manufacturer ran scenario analyses for 0% and 6% discount rates, using
+published rather than PLATO-derived utility values, removing the 0.0328
+downwards utility adjustment and removing the age-related decrease in utility
+per cycle. The results of the scenario analyses showed that the ICER for
+ticagrelor plus aspirin compared with clopidogrel plus aspirin ranged from £2,358
+to £4,699 per QALY gained.
+3.18 The cost-effectiveness acceptability curve showed that at £5,000 per QALY
+gained, the probability of ticagrelor plus aspirin being cost effective compared
+with clopidogrel plus aspirin was 76.6%. At £20,000 per QALY gained, the
+probability of ticagrelor plus aspirin being cost effective compared with
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
+conditions#notice-of-rights). 36
+--- Страница 13 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+clopidogrel plus aspirin was 99.9%.
+3.19 The manufacturer's submission also provided results for ticagrelor plus aspirin
+compared with prasugrel plus aspirin for the subgroup receiving PCI, based on
+the results of a published indirect comparison of the PLATO and TRITON-TIMI 38
+trials. Because of the small proportion of patients who participated in the
+TRITON-TIMI 38 substudy of quality of life (EQ-5D was collected in only 461 of
+13,608 patients at baseline), the model incorporated utility information from the
+literature, rather than from the substudy. If costs from the PLATO-HECON
+substudy were not available, the manufacturer used NHS reference costs in the
+analysis for prasugrel plus aspirin. The manufacturer obtained the cost of
+prasugrel from MIMS, October 2010. The analysis of ticagrelor plus aspirin
+compared with prasugrel plus aspirin resulted in an incremental cost of £227,
+incremental QALYs of 0.065 and an ICER of £3,482 per QALY gained, with a
+40-year time horizon. The manufacturer stated that the results of the indirect
+comparison should be viewed with caution because of the problems associated
+with the indirect comparison of ticagrelor plus aspirin with prasugrel plus aspirin
+discussed in section 3.6.
+ERG comments
+3.20 The ERG conducted a literature search and agreed that the PLATO trial was the
+only trial relevant to the decision problem. The ERG considered that the PLATO
+trial was well designed with robust processes for randomisation and blinding. It
+noted that compliance and deviations in protocol were similar across treatment
+arms. Although only 281 patients in the PLATO trial were from centres in the UK,
+the ERG considered that they were not dissimilar to other European participants.
+The ERG also noted that participants in the PLATO trial were younger than
+patients with ACS in England and Wales, but that the manufacturer's model
+accounted for this difference.
+3.21 The ERG noted that for patients with STEMI not undergoing PCI, NICE
+recommends dual antiplatelet therapy (clopidogrel plus aspirin) for at least 4
+weeks (from NICE's previous guideline on MI: secondary prevention, now
+replaced by NICE's guideline on myocardial infarction: cardiac rehabilitation and
+prevention of further cardiovascular disease). From statements in the 'clinical
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
+conditions#notice-of-rights). 36
+--- Страница 14 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+need and practice' and 'evidence and interpretation' sections of NICE's
+technology appraisal guidance on drug-eluting stents for the treatment of
+coronary artery disease, the ERG concluded that standard practice for STEMI
+should include dual antiplatelet therapy for 3 months for patients undergoing
+revascularisation with bare-metal stents and 12 months for patients undergoing
+revascularisation with drug-eluting stents.
+3.22 The ERG considered that the PLATO trial reflects current clinical practice and that
+all patients received antiplatelet treatment at a clinically appropriate dose. The
+ERG was satisfied with the manufacturer's means of categorising adverse events
+from bleeding. The ERG expressed concerns about the components of the
+primary efficacy end point in the PLATO trial. Firstly, the primary end point was
+inconsistent with the concept that all components of an end point should be of
+similar importance to patients. For example, the average utility values from the
+12-month cohort in the PLATO-HECON study used in the manufacturer's model
+differed by end point and were 0.246 for death from a vascular cause, 0.812 for
+myocardial infarction and 0.736 for stroke. Secondly, the primary end point was
+inconsistent with the concept that all components of an end point occur with
+similar frequencies. For example, in 18,624 participants there were 795 vascular
+deaths, 1,097 myocardial infarctions and 231 strokes during the median 9.1-month
+follow-up in the PLATO study. Thirdly, the primary end point was inconsistent
+with the concept that the effect of a treatment should have an effect of similar
+magnitude and direction on all components of a primary end point. For example,
+in the PLATO study, the HR for stroke (non-significantly higher with ticagrelor)
+differed from those for myocardial infarction and death from vascular causes
+(significantly lower with ticagrelor). The ERG concluded that the results of the
+overall composite end point should be interpreted cautiously. The ERG also noted
+that the manufacturer excluded 'silent' myocardial infarctions (defined as new or
+presumed pathological Q waves on ECG in the absence of symptoms). The ERG
+considered that the secondary end points and their components reflected those
+used in other cardiovascular trials.
+3.23 The ERG noted that the manufacturer tested whether the effectiveness and
+safety of ticagrelor plus aspirin compared with clopidogrel plus aspirin differed
+across 25 pre-specified and 8 post-hoc subgroups, without adjustment for
+multiple comparisons. The ERG expressed concern about the large number of
+subgroups and potential overemphasis of any statistically significant results from
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
+conditions#notice-of-rights). 36
+--- Страница 15 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+these analyses, which might have occurred by chance alone. With these caveats
+noted, the ERG observed that the regional analysis showed that in the USA,
+patients randomised to ticagrelor plus aspirin did worse than those randomised
+to clopidogrel plus aspirin.
+3.24 For patients with STEMI who receive bare-metal stents, the ERG highlighted
+concerns about the comparator treatment included in the economic evaluation. It
+interpreted NICE's technology appraisal guidance on drug-eluting stents for the
+treatment of coronary artery disease as stating that dual antiplatelet therapy for
+3 months was standard practice for patients undergoing revascularisation with
+bare-metal stents, whereas for patients undergoing revascularisation with drug-
+eluting stents, NICE's previous guideline on MI: secondary prevention (now
+replaced by NICE's guideline on myocardial infarction: cardiac rehabilitation and
+prevention of further cardiovascular disease) recommends dual antiplatelet
+therapy for 12 months. Another concern of the ERG was that the manufacturer
+treated the STEMI group as a homogeneous population and estimated a single
+ICER. By contrast, the ERG believed that STEMI has 4 distinct populations
+differing by treatment: STEMI with medical management, STEMI revascularised
+with drug-eluting stent, STEMI revascularised with bare-metal stent and STEMI
+with other intervention (for example, CABG).
+3.25 The ERG stated that as the trial was designed to test the efficacy of 12 months of
+treatment, all patients should have been treated for 12 months. The ERG noted
+that the PLATO trial design did not involve uniform duration of treatment, instead,
+the protocol stipulated that patients could leave the study at their 6- or 9-month
+visit if a predetermined number of primary end-point events had occurred by that
+time. Approximately 44% of patients were followed up for 12 months in the trial.
+This increased the uncertainty in the estimates of effectiveness at the conclusion
+of the trial, which in turn was the prime driver of the Markov model and,
+therefore, the long-term benefits for patients.
+3.26 The ERG noted that the model featured 2 separate paths. In 1 path, after first
+presentation with ACS, patients may have a subsequent non-fatal myocardial
+infarction at any time during the decision-tree part of the model and remain in the
+non-fatal myocardial infarction health state to the end of the decision-tree part of
+the model, then progress to the 'post-myocardial infarction' state for all remaining
+cycles until death (whether from cardiovascular or non-cardiovascular causes).
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
+conditions#notice-of-rights). 36
+--- Страница 16 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+Similarly, patients may instead have a non-fatal stroke as their first event (after
+the initial presentation with ACS) during a cycle, and then progress to the post-
+stroke state until death. The ERG considered that this structure does not
+represent reality, because it does not allow patients to have more than
+1 myocardial infarction, more than 1 stroke, or both myocardial infarctions and
+strokes in their lifetime following their initial presentation with ACS, and that this
+may bias future costs and benefits. The ERG also noted that the model simplified
+the natural history of treated cardiovascular disease by keeping constant the
+transition probability of previously event-free patients (since initial treatment for
+ACS) experiencing a non-fatal myocardial infarction or stroke throughout the
+long-term Markov model. The modelling ignored the increase in risk associated
+with other factors, notably, increasing age. The ERG considered that this
+omission may have led to the manufacturer's model inaccurately estimating future
+events, costs and progressive changes in the outcomes and quality of life of
+patients.
+3.27 The ERG was concerned that the model applied an average utility score for the
+first year, whereas clinical experience showed that ACS patients experience an
+initial decline in utility that steadily improves. Therefore, the ERG noted that the
+ICER at 12 months may be an underestimate.
+3.28 The ERG noted that in the manufacturer's submission the subgroups of interest in
+the economic evaluation did not reflect the subgroups of interest in the clinical
+section. The ERG could not verify the estimates of clinical effectiveness used in
+the manufacturer's model ascribed to ticagrelor in patients with NSTEMI or
+unstable angina. The ERG also noted that the manufacturer considered the
+subgroup with unstable angina as a homogeneous group whereas, in clinical
+practice in England and Wales, physicians typically categorise patients into
+lowest, low, intermediate, high and highest risk groups using the Global Registry
+of Acute Coronary Events (GRACE) classification and treat them accordingly.
+3.29 The ERG noted that the manufacturer adjusted the age of the modelled patients
+to reflect the UK population with ACS. The ERG noted potential problems with the
+methods chosen by the manufacturer, which may have led to inaccuracies. The
+ERG established that these inaccuracies represented an 8% underestimate of
+benefits from ticagrelor plus aspirin compared with clopidogrel plus aspirin and
+suggested that the ICER presented by the manufacturer may be an overestimate.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
+conditions#notice-of-rights). 36
+--- Страница 17 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+3.30 The ERG acknowledged that use of healthcare resources was estimated in the
+model using data from an imbedded health economic study, which collected
+details of hospital care received by patients during the PLATO trial. For the
+purposes of the model, only data for those patients in the 12-month cohort were
+included. This cohort comprised of patients who, based on timing of enrolment,
+had the potential to receive 12 months treatment with ticagrelor. The ERG also
+noted that for each patient category in the model, the resources used by each
+patient were calculated separately for each treatment arm, and these were
+multiplied by a corresponding unit cost and totalled for an estimated hospital-
+care cost per patient for the first 12-month period. The ERG had some concerns
+relating to this type of resource analysis, and conducted a combined analysis of
+resource use (taking the ticagrelor and clopidogrel groups together), making
+some adjustments for double-counting of costs. Results suggested that the
+health state costs with ticagrelor were £100 lower (rather than £371 lower, as in
+the manufacturer's base-case) than the health state costs of clopidogrel, which
+would have the effect of doubling the estimated ICER at the 1-year time horizon.
+3.31 The ERG noted that the manufacturer's base-case analysis estimated costs for
+the study drugs assuming 100% use in the trial period, despite evidence of
+deaths before the end of follow-up, treatment withdrawals, and poor adherence
+in some participants. The ERG instead incorporated data on drug use from the
+PLATO trial and noted that this reduced the average cost of both ticagrelor and
+clopidogrel substantially, and the difference in drug costs of ticagrelor plus
+aspirin compared with clopidogrel plus aspirin reduced from £651 to £507 per
+patient. Applying the ERG's amended age adjustment, resource use, and costs of
+study drugs to the manufacturer's model resulted in a 42% increase in the
+manufacturer's ICER for the 1-year time horizon from £36,177 to £51,204 per
+QALY gained. However, the ERG emphasised that both the incremental costs and
+additional benefits associated with ticagrelor plus aspirin compared with
+clopidogrel plus aspirin were very small at longer time horizons, and subject to
+considerable uncertainty.
+3.32 The ERG conducted a wide-ranging sensitivity analysis, calculating overall
+deterministic cost-effectiveness estimates for all combinations of 4 long-term
+variables – survival gain at 12 months, life expectancy at 12 months, the mean
+long-term utility value and the mean long-term discounted cost per patient year.
+The most favourable ICERs for ticagrelor plus aspirin are £3,407 per QALY gained
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
+conditions#notice-of-rights). 36
+--- Страница 18 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+for all patients, £3,551 per QALY gained for the STEMI group, £3,350 per QALY
+gained for the NSTEMI group and £3,405 per QALY gained for the group with
+unstable angina. Incorporating the least favourable combination of assumptions
+resulted in an estimated ICER for ticagrelor plus aspirin below £20,000 per QALY
+gained for each of the specified populations compared with 12 months'
+clopidogrel plus aspirin treatment. The central estimates from these sensitivity
+analyses were £7,897 per QALY gained for all patients, £8,872 per QALY gained
+for the STEMI group, £7,215 per QALY gained for the NSTEMI group and £9,131
+for the subgroup with unstable angina.
+3.33 The ERG noted that there are no head-to-head trial data comparing ticagrelor
+plus aspirin with prasugrel plus aspirin. With regard to the indirect comparison of
+ticagrelor plus aspirin with prasugrel plus aspirin, the ERG considered that any
+comparison of the PLATO and TRITON-TIMI 38 trials posed problems. The ERG
+agreed with the manufacturer that sufficient clinical evidence is not yet available
+for a credible indirect comparison of ticagrelor plus aspirin compared with
+prasugrel plus aspirin for patients with ACS. It concluded that the effectiveness
+and safety of ticagrelor compared with prasugrel remains unknown.
+3.34 Full details of all the evidence are in the manufacturer's submission and the ERG
+report.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
+conditions#notice-of-rights). 36
+--- Страница 19 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+4 Consideration of the evidence
+4.1 The Appraisal Committee reviewed the data available on the clinical and cost
+effectiveness of ticagrelor, having considered evidence on the nature of ACS and
+the value placed on the benefits of ticagrelor by people with these conditions,
+those who represent them, and clinical specialists. It also took into account the
+effective use of NHS resources.
+4.2 The Committee discussed the clinical management of ACS. It heard from the
+clinical specialists that, in the UK, treatment options for people with STEMI are
+prasugrel plus aspirin or clopidogrel plus aspirin, along with PCI with a bare-metal
+or drug-eluting stent followed by dual antiplatelet treatment. The Committee
+heard that the duration of treatment of clopidogrel does not vary whether a stent
+is bare-metal or drug-eluting, because all people with ACS who undergo PCI, in
+the acute setting, are treated with clopidogrel plus aspirin for 12 months. The
+Committee heard that in UK clinical practice people with NSTEMI are offered
+treatments depending on their GRACE or TIMI score; medical management is an
+option for people at lowest risk of future adverse cardiovascular events, whereas
+people at higher risk would be offered PCI and subsequent dual antiplatelet
+therapy with clopidogrel and aspirin. The Committee heard from the clinical
+specialists that in the UK most people with NSTEMI undergo PCI. The Committee
+understood that of people in the UK with ACS, few have unstable angina and
+often do not need revascularisation, but do receive dual antiplatelet therapy with
+clopidogrel and aspirin. The clinical specialists stated that in the UK it is unusual
+for a patient with STEMI to undergo CABG and that approximately 10% of patients
+with NSTEMI undergo CABG.
+Clinical effectiveness
+4.3 The Committee considered the evidence for the clinical effectiveness of
+ticagrelor compared with clopidogrel. The Committee noted that the
+manufacturer based its submission on a large trial, PLATO, which compared
+ticagrelor plus aspirin with clopidogrel plus aspirin. The Committee noted that
+ticagrelor plus aspirin reduced the relative risk of myocardial infarction, stroke
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
+conditions#notice-of-rights). 36
+--- Страница 20 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+and death from vascular causes by 16% compared with clopidogrel plus aspirin.
+The Committee also noted that if the components of the primary end point were
+considered individually, the reductions in myocardial infarction and death from
+vascular causes were statistically significant (16% and 21% respectively) for
+patients randomised to the ticagrelor plus aspirin group. The Committee also
+noted the non-statistically significant increase in the incidence of stroke, in
+particular haemorrhagic stroke, in patients randomised to the ticagrelor group.
+The Committee considered the clinical evidence for ticagrelor plus aspirin
+compared with clopidogrel plus aspirin in the subgroups of patients that were
+specified in the scope (STEMI, NSTEMI and unstable angina) and noted that the
+test for interaction showed no statistical difference between the groups (p=0.41),
+interpreting this as no difference in the effectiveness between treatments by
+clinical presentation of ACS. The Committee noted that the manufacturer had
+performed a large substudy of quality of life based on EQ-5D scores, which
+indicated no difference in the quality of life between people taking ticagrelor plus
+aspirin and those taking clopidogrel plus aspirin.
+4.4 The Committee heard from the clinical specialists that in general the trial was
+representative of the population in the UK, although the trial had a younger
+population and a higher proportion of men than the population with ACS in the
+UK. The Committee understood that the manufacturer had accounted for age in
+its analysis. The Committee noted comments from consultees and commentators
+questioning the generalisability of the PLATO trial to UK clinical practice because
+most of the patients presenting with ACS in the UK would receive medical
+therapy only whereas 21% of patients in the PLATO trial received medical therapy
+only. However, the Committee noted the clinical specialists' testimonies that most
+STEMI and NSTEMI patients would receive PCI. The Committee was also aware
+that results of the PLATO study showed no statistically significant difference in
+effectiveness between the patients whose condition was managed medically or
+otherwise. The Committee concluded that the trial was broadly reflective of
+clinical practice in the UK.
+4.5 The Committee was aware that nearly half (46%) of all patients in the study
+received clopidogrel in hospital before randomisation, and that of those
+randomised to clopidogrel, only approximately one-fifth received a loading dose
+in the range (600 to 675 mg) recommended in the UK (600 mg). The Committee
+also noted that not all patients in the PLATO trial received treatment for
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
+conditions#notice-of-rights). 36
+--- Страница 21 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+12 months and that the median duration of treatment was 9 months. The
+Committee heard that the results presented included those censored before
+12 months. The Committee noted that the Kaplan–Meier curves depicting the 2
+arms of the trial separated as early as 1 month and up to 1 year and, therefore,
+concluded that neither the difference in loading doses of clopidogrel nor
+censoring was likely to have substantially biased the results.
+4.6 The Committee understood that ticagrelor is administered twice a day compared
+with once a day with clopidogrel and heard from the patient experts that, in
+practice, people may be less likely to take drugs twice a day. The Committee
+noted that no clear differences had been established on adherence between
+once-a-day clopidogrel and twice-a-day ticagrelor. The Committee noted
+comments from consultees and commentators that, particularly with a
+gastrointestinal bleed, the fast offset (time taken for ticagrelor to become
+inactive after it is stopped) could put a patient at increased risk of myocardial
+infarction and stroke more quickly than had the patient been taking clopidogrel,
+and with insufficient time to consult a cardiologist. However, the Committee
+heard from the manufacturer that missing a dose of ticagrelor would not result in
+a lower level of platelet activation than if the patient were treated with clopidogrel
+without missing a dose. The Committee heard that when a CABG is planned, the
+marketing authorisation recommends stopping ticagrelor 7 days before the
+procedure, suggesting that the offset is not as fast as had been suggested in the
+consultation comments. The Committee also noted comments from consultees
+and commentators that treatment with ticagrelor should be limited to people who
+clinicians have counselled on the importance of adherence. The Committee heard
+from the clinical specialists that people taking clopidogrel or ticagrelor would
+usually receive information to ensure that they understand why adherence is
+important and why stopping treatment early might increase the risk of recurrent
+cardiovascular disease. Therefore, the Committee agreed that advice on
+adherence should not explicitly be factored into the recommendations. Lastly, the
+Committee noted that most patients with cardiovascular disease take drugs twice
+a day, including statins in the evening. The Committee concluded that in the 'real
+world' setting, the need to take medication twice a day rather than once a day
+would be unlikely to substantially reduce the effectiveness of ticagrelor plus
+aspirin relative to clopidogrel plus aspirin.
+4.7 The Committee discussed the concerns about safety and adverse effects
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
+conditions#notice-of-rights). 36
+--- Страница 22 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+associated with ticagrelor. The Committee heard that dyspnoea (shortness of
+breath), ventricular pauses, increases in serum uric acid and increases in serum
+creatinine from baseline were statistically significantly more common in the
+ticagrelor group compared with the clopidogrel group, and noted that patients
+randomised to ticagrelor were more likely to discontinue the study drug because
+of adverse reactions. The Committee heard from the patient experts that
+dyspnoea frustrated patients with ACS and the clinical specialists stated that a
+patient randomised to ticagrelor was 9 times as likely to discontinue the study
+because of dyspnoea as a patient randomised to clopidogrel, but that the
+absolute risk, at less than 1%, was small. The Committee heard from the
+manufacturer that the effects of dyspnoea were limited mainly to mild episodes.
+The Committee noted no statistically significant difference in the primary safety
+end point of major bleeding between ticagrelor plus aspirin and clopidogrel plus
+aspirin but that patients on ticagrelor plus aspirin experienced more overall major
+and minor bleeding as well as more major bleeding not related to CABG. The
+Committee considered that the mortality benefit associated with ticagrelor
+outweighed the risks and concluded that ticagrelor was a clinically effective
+treatment option for people with ACS.
+4.8 The Committee discussed whether ticagrelor plus aspirin would be more or less
+effective in any subgroups including patients with STEMI, NSTEMI or unstable
+angina. The Committee noted that several additional subgroups were presented
+in the trial. The Committee noted that among those defined in the scope (STEMI,
+NSTEMI, unstable angina) there was no statistically significant evidence of
+heterogeneity, consistent with no difference in effectiveness of ticagrelor
+compared with clopidogrel by clinical presentation of ACS. The Committee
+appreciated that the numbers of patients by subgroup may have been too small
+to detect a difference in effectiveness. The Committee heard from the
+manufacturer that it had not corrected for multiple comparisons when analysing
+the many subgroups. The Committee noted the comment from a consultee saying
+that patients with unstable angina are unlikely to benefit from ticagrelor because
+subgroup analysis shows benefit only for patients whose blood tests following
+the index event were positive for troponin. The Committee noted, however, that
+neither the test for interaction by clinical presentation of ACS nor the test for
+interaction by whether a patient had a positive or negative test for troponin were
+positive (p value for interaction 0.41 and 0.29 respectively). Lastly, no evidence of
+statistical or biological plausibility was presented to support effect modification
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
+conditions#notice-of-rights). 36
+--- Страница 23 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+by presentation of ACS, and there are no trials using ticagrelor for the primary
+prevention of cardiovascular disease. Therefore, the Committee concluded that
+providing specific recommendations only for patients with STEMI and NSTEMI
+and excluding those with unstable angina would be speculative, would counter
+the statistical evidence, and would risk excluding patients who could benefit from
+treatment with ticagrelor.
+4.9 The Committee was aware of comments from consultees and commentators that
+the estimate of total mortality remained 'exploratory'. This was because the
+analysis plan for PLATO stated that secondary end points should be tested
+individually in a pre-specified order, so mortality should not have been included
+because it followed the non-statistically significant result for stroke. The
+Committee was aware that the result for the association between ticagrelor and
+total mortality, while exploratory, had a HR of 0.78 and a 95% CI of 0.69 to 0.89,
+so was likely to reflect a real decrease in total mortality associated with ticagrelor
+plus aspirin.
+4.10 The Committee noted the concerns around the indirect comparison of ticagrelor
+plus aspirin and prasugrel plus aspirin highlighted in the manufacturer's
+submission and reiterated by the ERG. The Committee concurred with this view
+and concluded that the relative effectiveness of ticagrelor plus aspirin and
+prasugrel plus aspirin was uncertain. The Committee concluded that no separate
+recommendations could be made for ticagrelor compared with prasugrel.
+Cost effectiveness
+4.11 The Committee considered the estimates of cost effectiveness presented in the
+manufacturer's submission and noted that all ICERs for ticagrelor were below
+£5,400 for the whole population in which ticagrelor is licensed and the
+subgroups. The Committee was aware of the concerns raised by the ERG around
+the structure of the model adopted in the manufacturer's submission, and agreed
+that the assumption that patients could not experience multiple cardiovascular
+events over-simplified the clinical course of patients with ACS. The Committee
+noted that if the model had included the possibility of more than 1 cardiovascular
+event after the index event, and had accounted for the increased risk of a
+cardiovascular event associated with having had prior events, then the ICERs for
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
+conditions#notice-of-rights). 36
+--- Страница 24 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ticagrelor compared with clopidogrel would be lower than in the manufacturer's
+base case. This is because at the end of the 1-year decision tree, more patients
+on clopidogrel than on ticagrelor had experienced a myocardial infarction or
+stroke, and were therefore at higher risk of experiencing another event. The
+Committee was aware of the ERG's concerns over the method used to adjust for
+age, but agreed that this would not result in major changes to the ICERs. The
+Committee also noted that it would have been more appropriate to incorporate a
+utility value that reflected clinical practice rather than modelling the average
+utility score, but acknowledged that this too was unlikely to have a large impact
+on the ICERs. The Committee noted comments from consultees that the adverse
+event profile should be fully built into the structure of the economic model. The
+Committee was aware that the 1-year decision tree part of the economic model
+took account of all costs and changes in quality of life associated with the
+adverse events of treatment.
+4.12 The Committee was aware of the ERG's concerns about the manufacturer's
+method of estimating resource use and costs. It was aware that these limitations
+could skew the differences in total costs between the 2 treatment arms. The
+Committee accepted the ERG's adjustments to the manufacturer's model and
+noted the resulting estimates of cost effectiveness. The Committee agreed that
+the central ICERs from the ERG's sensitivity analysis (£7,897 per QALY gained for
+all ACS, £8,872 per QALY gained for STEMI, £7,215 per QALY gained for NSTEMI
+and £9,131 per QALY gained for unstable angina) represented the most plausible
+estimates for the cost effectiveness of ticagrelor compared with clopidogrel. The
+Committee noted that the ICERs produced with this analysis were within the
+range normally considered to be a cost-effective use of NHS resources and
+therefore ticagrelor plus low-dose aspirin should be recommended as a treatment
+option for up to 12 months in adults with ACS. However, the Committee agreed
+that the patient populations for STEMI and unstable angina needed to be further
+specified.
+4.13 The Committee noted that the inclusion criteria in the PLATO trial for patients
+with STEMI, defined as ST elevation or new left bundle branch block on
+electrocardiogram, included the 'intention to perform primary PCI'. The
+Committee therefore agreed that only patients with STEMI that cardiologists
+intend to treat with primary PCI should be treated with ticagrelor. The Committee
+heard that there is a spectrum of severity with respect to unstable angina. The
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
+conditions#notice-of-rights). 36
+--- Страница 25 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+Committee was aware that in clinical practice in the UK a diagnosis of unstable
+angina could be made using less stringent criteria than those defined in the
+PLATO trial. The Committee agreed that only patients with unstable angina
+aligned with the definition in the PLATO trial should be treated with ticagrelor.
+The Committee noted that the definition of unstable angina in the PLATO trial
+was that patients were hospitalised and had to have ST-segment changes on
+electrocardiography indicating ischemia, and that patients had at least 1 of the
+following characteristics: age 60 years or older; previous myocardial infarction or
+CABG; coronary artery disease with stenosis of 50% or more in at least 2 vessels;
+previous ischaemic stroke, transient ischaemic attack, carotid stenosis of at least
+50%, or cerebral revascularisation; diabetes mellitus; peripheral arterial disease;
+or chronic renal dysfunction, defined as a creatinine clearance of less than 60 ml
+per minute per 1.73 m2 of body-surface area. The Committee was aware that it
+may be necessary to start treatment with ticagrelor immediately when a patient
+presents with symptoms. However, the Committee was concerned that a wrong
+diagnosis of unstable angina could result in the patient unnecessarily taking
+ticagrelor. The Committee therefore agreed that it would be appropriate to
+specify that before ticagrelor is continued beyond the initial treatment, the
+diagnosis of unstable angina should first be confirmed, ideally by a cardiologist.
+4.14 The Committee noted the comments from consultees and commentators about
+whether 'lowest risk' patients (that is, patients who have a 6-month mortality of
+1.5% or less as defined by the GRACE scoring system) should receive ticagrelor,
+given that NICE's previous guideline on unstable angina and NSTEMI (now
+replaced by NICE's guideline on acute coronary syndromes) stipulates that these
+patients would not receive clopidogrel because the harms potentially outweigh
+the benefits. The Committee concluded that, because patients potentially
+suitable for treatment with ticagrelor with unstable angina must have at least 1
+specific risk factor for myocardial infarction as well as ST-segment changes on
+electrocardiography, these patients would therefore not be classed as 'lowest
+risk'.
+4.15 The Committee heard from the primary care trust expert that although treatment
+with ticagrelor relative to clopidogrel appeared cost effective within the range
+considered to represent good value for money by NICE, the high incidence of
+ACS in England and Wales means that ticagrelor would substantially impact
+budgets were it approved for use. The primary care trust expert noted that this
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
+conditions#notice-of-rights). 36
+--- Страница 26 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+would invariably lead to reduced spending elsewhere for health, which would
+include cardiology services. The Committee noted further comments received
+from consultees that affordability was an issue that NHS commissioners needed
+to consider 'very seriously'. Although the Committee agreed that that budget
+impact would be substantial, it was possible that any services displaced might be
+less cost effective than ticagrelor relative to clopidogrel. Moreover, the
+Committee noted that NICE's guide to the methods of technology appraisal
+states that budget impact and affordability are not relevant to its decision
+making.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
+conditions#notice-of-rights). 36
+--- Страница 27 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+5 Implementation
+5.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
+and Functions) and the Health and Social Care Information Centre (Functions)
+Regulations 2013 requires integrated care boards, NHS England and, with respect
+to their public health functions, local authorities to comply with the
+recommendations in this evaluation within 3 months of its date of publication.
+5.2 The Welsh ministers have issued directions to the NHS in Wales on implementing
+NICE technology appraisal guidance. When a NICE technology appraisal guidance
+recommends the use of a drug or treatment, or other technology, the NHS in
+Wales must usually provide funding and resources for it within 2 months of the
+first publication of the final draft guidance.
+5.3 When NICE recommends a treatment 'as an option', the NHS must make sure it is
+available within the period set out in the paragraphs above. This means that, if a
+patient has acute coronary syndrome and the healthcare professional responsible
+for their care thinks that ticagrelor is the right treatment, it should be available for
+use, in line with NICE's recommendations.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
+conditions#notice-of-rights). 36
+--- Страница 28 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+6 Recommendations for further research
+6.1 Clinical trials should be conducted comparing ticagrelor with prasugrel in people
+with ACS.
+6.2 Further research into whether ticagrelor is particularly beneficial in any clinical or
+biological subgroups would be useful.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
+conditions#notice-of-rights). 36
+--- Страница 29 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+7 Appraisal Committee members and NICE
+project team
+Appraisal Committee members
+The Appraisal Committee is 1 of NICE's standing advisory committees. Its members are
+appointed for a 3-year term. A list of the Committee members who took part in the
+discussions for this appraisal appears below. The Appraisal Committee meets 3 times a
+month except in December, when there are no meetings. The Committee membership is
+split into 3 branches, each with a chair and vice chair. Each branch considers its own list of
+technologies, and ongoing topics are not moved between the branches.
+Committee members are asked to declare any interests in the technology to be appraised.
+If it is considered there is a conflict of interest, the member is excluded from participating
+further in that appraisal.
+The minutes of each Appraisal Committee meeting, which include the names of the
+members who attended and their declarations of interests, are posted on the NICE
+website.
+Dr Amanda Adler (Chair)
+Consultant Physician, Addenbrooke's Hospital
+Dr Ray Armstrong
+Consultant Rheumatologist, Southampton General Hospital
+Dr Jeff Aronson
+Reader in Clinical Pharmacology, University Department of Primary Health Care, University
+of Oxford
+Dr Peter Barry
+Consultant in Paediatric Intensive Care, Leicester Royal Infirmary
+Dr Michael Boscoe
+Consultant Cardiothoracic Anaesthetist, Royal Brompton and Harefield NHS Foundation
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
+conditions#notice-of-rights). 36
+--- Страница 30 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+Trust
+Professor John Cairns
+Professor of Health Economics Public Health and Policy, London School of Hygiene and
+Tropical Medicine
+Dr Mark Chakravarty
+External Relations Director, Pharmaceuticals and Personal Health, Oral Care Europe
+Mr Mark Chapman
+Health Economics and Market Access Manager, Medtronic UK
+Professor Fergus Gleeson
+Consultant Radiologist, Churchill Hospital, Oxford
+Mrs Eleanor Grey
+Lay member
+Dr Neil Iosson
+General Practitioner
+Mr Terence Lewis
+Lay Member
+Dr Ruairidh Milne
+Director of Strategy and Development and Director for Public Health Research at the NIHR
+Evaluation, Trials and Studies Coordinating Centre at the University of Southampton
+Dr Rubin Minhas
+General Practitioner and Clinical Director, BMJ Evidence Centre
+Dr Peter Norrie
+Principal Lecturer in Nursing, DeMontfort University
+Dr Sanjeev Patel
+Consultant Physician and Senior Lecturer in Rheumatology, St Helier University Hospital
+Dr John Pounsford
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
+conditions#notice-of-rights). 36
+--- Страница 31 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+Consultant Physician, Frenchay Hospital, Bristol
+Dr Casey Quinn
+Lecturer in Health Economics, Division of Primary Care, University of Nottingham
+Dr John Rodriguez
+Assistant Director of Public Health, NHS Eastern and Coastal Kent
+Mr Navin Sewak
+Primary Care Pharmacist, NHS Hammersmith and Fulham
+Mr Roderick Smith
+Finance Director, West Kent Primary Care Trust
+Mr Cliff Snelling
+Lay Member
+Professor Ken Stein (Vice Chair)
+Professor of Public Health, Peninsula Technology Assessment Group (PenTAG), University
+of Exeter
+Professor Andrew Stevens
+Professor of Public Health, Department of Public Health and Epidemiology, University of
+Birmingham
+Dr Rod Taylor
+Professor in Health Services Research, Peninsula Medical School, Universities of Exeter
+and Plymouth
+Mr Tom Wilson
+Director of Contracting and Performance, NHS Tameside and Glossop
+NICE project team
+Each technology appraisal is assigned to a team consisting of 1 or more health technology
+analysts (who act as technical leads for the appraisal), a technical adviser and a project
+manager.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of
+conditions#notice-of-rights). 36
+--- Страница 32 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+Raisa Sidhu
+Technical Lead
+Joanna Richardson
+Technical Adviser
+Jeremy Powell
+Project Manager
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 32 of
+conditions#notice-of-rights). 36
+--- Страница 33 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+8 Sources of evidence considered by the
+Committee
+The Evidence Review Group (ERG) report for this appraisal was prepared by the Liverpool
+Reviews and Implementation Group (LRiG):
+• Bagust A, Boland A, Blundell M et al. Ticagrelor for the treatment of acute coronary
+syndromes, February 2011
+The following organisations accepted the invitation to participate in this appraisal as
+consultees and commentators. They were invited to comment on the draft scope, the ERG
+report and the appraisal consultation document (ACD). Manufacturers or sponsors were
+also invited to make written submissions. Professional or specialist, patient or carer
+groups, and other consultees, had the opportunity to give their expert views.
+Manufacturers or sponsors and professional or specialist and patient or carer groups also
+have the opportunity to appeal against the final appraisal determination.
+Manufacturers or sponsors:
+• AstraZeneca
+Professional or specialist, and patient or carer groups:
+• Action Heart
+• British Cardiovascular Intervention Society (BCIS)
+• British Cardiovascular Society
+• British Heart Foundation
+• Heart Care Partnership (UK)
+• HEART UK
+• Royal College of Nursing
+• Royal College of Physicians
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 33 of
+conditions#notice-of-rights). 36
+--- Страница 34 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+• South Asian Health Foundation
+Other consultees:
+• Department of Health
+• NHS Bradford and Airedale
+• Oxfordshire PCT
+• Welsh Assembly Government
+Commentator organisations (did not provide written evidence and without the right of
+appeal):
+• Bristol–Myers Squibb
+• British National Formulary
+• British Society for Cardiovascular Research
+• Commissioning Support Appraisals Service
+• Daiichi Sankyo
+• Department of Health, Social Services and Public Safety for Northern Ireland
+• Eli Lilly
+• Healthcare Improvement Scotland
+• Medicines and Healthcare products Regulatory Agency (MHRA)
+• Sanofi–Aventis
+The following individuals were selected from clinical specialist and patient expert
+nominations from the non-manufacturer or sponsor consultees and commentators. They
+gave their expert personal view on ticagrelor by attending the initial Committee discussion
+and providing written evidence to the Committee. They are invited to comment on the
+ACD.
+• Nick Curzen, nominated by the Royal College of Physicians – clinical specialist
+• Professor Anthony Gershlick, Consultant Cardiologist, University Hospitals of
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 34 of
+conditions#notice-of-rights). 36
+--- Страница 35 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+Leicester, nominated by the Royal College of Physicians, Consultant Cardiologist,
+Southampton University Hospitals – clinical specialist
+• Liz Clark, nominated by the Heart Care Partnership – patient expert
+• John Miller, nominated by the Heart Care Partnership – patient expert
+The following individuals were nominated as NHS Commissioning experts by the selected
+PCT allocated to this appraisal. They gave their expert and NHS commissioning personal
+view on ticagrelor by attending the initial Committee discussion and providing written
+evidence to the Committee. They are invited to comment on the ACD.
+• Greg Fell, Consultant in Public Health, NHS Bradford and Airedale selected by NHS
+Bradford and Airedale – NHS Commissioning expert
+Representatives from the following manufacturer or sponsor attended Committee
+Meetings. They contributed only when asked by the Committee chair to clarify specific
+issues and comment on factual accuracy.
+• AstraZeneca
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 35 of
+conditions#notice-of-rights). 36
+--- Страница 36 ---
+Ticagrelor for the treatment of acute coronary syndromes (TA236)
+Update information
+February 2014: Implementation section updated to clarify that ticagrelor is recommended
+as an option for treating acute coronary syndromes.
+ISBN: 978-1-4731-6689-9
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 36 of
+conditions#notice-of-rights). 36

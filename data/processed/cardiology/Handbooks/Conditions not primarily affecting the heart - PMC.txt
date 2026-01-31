@@ -1,0 +1,298 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Conditions not primarily affecting the heart - PMC.pdf",
+  "converted_date": "2026-01-31T14:36:24.237387",
+  "file_size_bytes": 1202722,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Conditions not primarily affecting the heart - PMC.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database
+does not imply endorsement of, or agreement with, the contents by NLM or the National
+Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+BMJ. 2002 Jun 1;324(7349):1320–1323. doi: 10.1136/bmj.324.7349.1320
+Conditions not primarily affecting the heart
+Corey Slovis, Richard Jenkins
+Article notes Copyright and License information
+PMCID: PMC1123277 PMID: 12039829
+This article has been corrected. See BMJ. 2002 Aug 3;325(7358):259.
+This article has been corrected. See BMJ. 2007 May 26;334(7603):0.
+To function correctly, individual myocardial cells rely on normal concentrations of biochemical
+parameters such as electrolytes, oxygen, hydrogen, glucose, and thyroid hormones, as well as a
+normal body temperature. Abnormalities of these and other factors affect the electrical activity of
+each myocardial cell and thus the surface electrocardiogram. Characteristic electrocardiographic
+changes may provide useful diagnostic clues to the presence of metabolic abnormalities, the prompt
+recognition of which can be life saving.
+It is important to recognise that some electrocardiographic changes are due to
+conditions other than cardiac disease so that appropriate treatment can be given and
+unnecessary cardiac investigation avoided
+Hyperkalaemia
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 1/14
+--- Страница 2 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+Increases in total body potassium may have dramatic effects on the electrocardiogram. The most
+common changes associated with hyperkalaemia are tall, peaked T waves, reduced amplitude and
+eventually loss of the P wave, and marked widening of the QRS complex.
+Electrocardiographic features of hyperkalaemia
+Serum potassium (mmol/l) Major change
+5.5-6.5 Tall peaked T waves
+6.5-7.5 Loss of P waves
+7.0-8.0 Widening of QRS complexes
+8.0-10 Sine wave, ventricular arrhythmias, asystole
+Open in a new tab
+The earliest changes associated with hyperkalaemia are tall T waves, best seen in leads II, III, and V2
+to V4. Tall T waves are usually seen when the potassium concentration rises above 5.5-6.5 mmol/l.
+However, only about one in five hyperkalaemic patients will have the classic tall, symmetrically
+narrow and peaked T waves; the rest will merely have large amplitude T waves. Hyperkalaemia
+should always be suspected when the amplitude of the T wave is greater than or equal to that of the
+R wave in more than one lead.
+As the potassium concentration rises above 6.5-7.5 mmol/l, changes are seen in the PR interval and
+the P wave: the P wave widens and flattens and the PR segment lengthens. As the concentration
+rises, the P waves may disappear.
+The QRS complex will begin to widen with a potassium concentration of 7.0-8.0 mmol/l. Unlike right
+or left bundle branch blocks, the QRS widening in hyperkalaemia affects all portions of the QRS
+complex and not just the terminal forces. As the QRS complex widens it may begin to merge with the
+T wave and create a pattern resembling a sine wave—a “preterminal” rhythm. Death resulting from
+hyperkalaemia may be due to asystole, ventricular fibrillation, or a wide pulseless idioventricular
+rhythm. Hyperkalaemia induced asystole is more likely to be seen in patients who have had chronic,
+rather than acute, hyperkalaemia.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 2/14
+--- Страница 3 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+Hypokalaemia
+Hypokalaemia may produce several electrocardiographic changes, especially when there is total body
+depletion of both potassium and magnesium. The commonest changes are decreased T wave
+amplitude, ST segment depression, and presence of a U wave. Other findings, particularly in the
+presence of coexistent hypomagnesaemia, include a prolonged QT interval, ventricular extrasystoles,
+and malignant ventricular arrhythmias such as ventricular tachycardia, torsades de pointes, and
+ventricular fibrillation. Electrocardiographic changes are not common with mild to moderate
+hypokalaemia, and it is only when serum concentrations are below 2.7 mmol/l that changes reliably
+appear.
+Electrocardiographic features of hypokalaemia
+Broad, flat T waves
+ST depression
+QT interval prolongation
+Ventricular arrhythmias (premature ventricular contractions, torsades de pointes,
+ventricular tachycardia, ventricular fibrillation)
+A prominent U wave in association with a small T wave are considered to be the classic
+electrocardiographic findings of hypokalaemia. Many authors list a prolonged QT interval as a
+common finding in hypokalaemia. However, most cases of a presumed prolongation of the QT
+interval are really QU intervals. Most hypokalaemic patients with true prolongation of the QT interval
+have coexisting hypomagnesaemia and are at risk of ventricular arrhythmias, including torsades de
+pointes.
+Patients with a potassium concentration below 2.5-3.0 mmol/l often develop ventricular
+extrasystoles. Hypokalaemia may also be associated with supraventricular arrhythmias, such as
+paroxysmal atrial tachycardia, multifocal atrial tachycardia, atrial fibrillation, and atrial flutter.
+Hypothermia
+Hypothermia is present when the core temperature is less than 35°C. As body temperature falls below
+normal, many cardiovascular and electrophysiological changes occur. The earliest change seen in the
+electrocardiogram is an artefact due to shivering, although some hypothermic patients have relatively
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 3/14
+--- Страница 4 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+normal traces. The ability to shiver diminishes as body temperature falls, and shivering is uncommon
+below a core temperature of 32°C.
+Electrocardiographic features of hypothermia
+Tremor artefact from shivering
+Atrial fibrillation with slow ventricular rate
+J waves (Osborn waves)
+Bradycardias, especially junctional
+Prolongation of PR, QRS, and QT intervals
+Premature ventricular beats, ventricular tachycardia, or ventricular fibrillation
+Asystole
+As body temperature falls further, all metabolic and cardiovascular processes slow progressively.
+Pacemaker (heart rate) and conduction velocity decline, resulting in bradycardia, heart block, and
+prolongation of the PR, QRS, and QT intervals. At core temperature below 32°C, regular and
+organised atrial activation disappears and is replaced by varying degrees of slow, irregular, and
+disorganised activity. If core temperature falls below 28°C, a junctional bradycardia may be seen.
+The J wave (Osborn wave) is the most specific electrocardiographic finding in hypothermia. It is
+considered by many to be pathognomonic for hypothermia, but it may also occasionally be seen in
+hypercalcaemia and in central nervous system disorders, including massive head injury and
+subarachnoid haemorrhage.
+The J wave may even be a drug effect or, rarely, a normal variant. The J wave is most commonly
+characterised by a “dome” or “hump” elevation in the terminal portion of the QRS deflection and is
+best seen in the left chest leads. The size of the J wave often correlates with the severity of
+hypothermia (<30°C) but the exact aetiology is not known.
+Ventricular arrhythmias are the most common mechanism of death in hypothermia.
+They seem to be more common during rewarming as the body temperature rises
+through the 28°-32°C range
+Thyrotoxicosis
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 4/14
+--- Страница 5 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+The cardiovascular system is very sensitive to increased levels of circulating thyroid hormones.
+Increases in cardiac output and heart rate are early features in thyrotoxicosis. The most common
+electrocardiographic changes seen in thyrotoxicosis are sinus tachycardia, an increased electrical
+amplitude of all deflections, and atrial fibrillation.
+Electrocardiographic features of thyrotoxicosis
+Most common findings
+Sinus tachycardia
+Increased QRS voltages
+Atrial fibrillation
+Other findings
+Supraventricular arrhythmias (premature atrial beats, paroxysmal supraventricular
+tachycardia, multifocal atrial tachycardia, atrial flutter)
+Non-specific ST and T wave changes
+Ventricular extrasystoles
+About 50% of thyrotoxic patients have a resting pulse rate above 100 beats/min. Atrial
+tachyarrhythmias are common as the atria are very sensitive to the effects of triiodothyronine.
+Patients with thyroid storm may develop paroxysmal supraventricular tachycardia with rates
+exceeding 200 beats/min. Elderly patients may develop ischaemic ST and T wave changes because of
+their tachycardias. Increased voltage is a common but non-specific electrocardiographic finding in
+hyperthyroidism, and is more commonly seen in younger patients.
+Atrial fibrillation is the most common sustained arrhythmia in thyrotoxicosis, occurring in about 20%
+of all cases. It is most common in elderly patients, men, those with a particularly high concentration
+of thyroid hormone, and patients with left atrial enlargement or other intrinsic heart disease.
+Treatment of atrial fibrillation in thyrotoxicosis is difficult as the rhythm may be refractory to
+cardioversion. However, most cases revert spontaneously to sinus rhythm when euthyroid. Multifocal
+atrial tachycardia and atrial flutter with 2:1 conduction, and even 1:1 conduction, may also be seen.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 5/14
+--- Страница 6 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+Electrocardiographic features of hypothyroidism
+Most common
+Sinus bradycardia
+Prolonged QT interval
+Flat or inverted T waves
+Less common
+Heart block
+Low QRS voltages
+Intraventricular conduction defects
+Ventricular extrasystoles
+Patients with thyrotoxicosis may have other electrocardiographic findings. Non-specific ST and T
+wave changes are relatively common. Ventricular arrhythmias may be seen, though much less
+frequently than atrial arrhythmias. Thyrotoxic patients have two or three times the normal number of
+premature ventricular contractions.
+Hypothyroidism
+Hypothyroidism causes slowing of the metabolic rate and affects almost all bodily functions,
+including heart rate and contractility. It causes similar slowing of electrical conduction throughout
+the heart.
+The most common electrocardiographic changes associated with hypothyroidism are sinus
+bradycardia, a prolonged QT interval, and inverted or flat T waves. Most hypothyroid patients will
+have a low to normal heart rate (about 50-70 beats/min). Patients with severe hypothyroidism and
+those with pre-existing heart disease may also develop increasing degrees of heart block or bundle
+branch block (especially right bundle branch block). Conduction abnormalities due to
+hypothyroidism resolve with thyroid hormone therapy.
+Depolarisation, like all phases of the action potential, is slowed in hypothyroidism, and this results in
+a prolonged QT interval. Torsades de pointes ventricular tachycardia has been reported in
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 6/14
+--- Страница 7 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+hypothyroid patients and is related to prolongation of the QT interval, hypothyroidism induced
+electrolyte abnormalities, hypothermia, or hypoventilation.
+Hypothyroid patients are very sensitive to the effects of digitalis and are predisposed to all the
+arrhythmias associated with digitalis intoxication.
+Non-specific T wave abnormalities are very common in hypothyroid patients. The T
+wave may be flattened or inverted in several leads. Unlike with most other causes of T
+wave abnormalities, in hypothyroidism, associated ST changes are rarely seen
+Uncommonly, patients may develop large pericardial effusions, which give rise to electrical alternans
+(beat to beat variation in QRS voltages). Myxoedema coma should always be suspected in patients
+with altered mental states who have bradycardia and low voltage QRS complexes (<1 mV) in all
+leads.
+Other non-cardiac conditions
+Hypercalcaemia is associated with shortening of the QT interval. At high calcium concentrations the
+duration of the T wave increases and the QT interval may then become normal. Digoxin may be
+harmful in hypercalcaemic patients and may result in tachyarrhythmias or bradyarrhythmias.
+Similarly, intravenous calcium may be dangerous in a patient who has received digitalis. The QT
+prolongation seen in hypocalcaemia is primarily due to ST prolongation but is not thought to be
+clinical important.
+Hypoglycaemia is a common medical emergency, although it is not often recognised as having
+electrocardiographic sequelae. The electrocardiographic features include flattening of the T wave and
+QT prolongation.
+Acute electrocardiographic changes commonly accompany severe subarachnoid haemorrhage.
+Typically these are ST depression or elevation and T wave inversion, although other changes, such as
+a prolonged QT interval, can also be seen.
+Finally, artefacts due to shivering or tremor can obscure electrocardiographic changes or simulate
+arrhythmias.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 7/14
+--- Страница 8 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+Figure.
+Open in a new tab
+Serial changes in hyperkalaemia
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 8/14
+🔍
+--- Страница 9 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+Figure.
+Open in a new tab
+Serial changes in patient with renal failure receiving treatment for hyperkalaemia. As
+potassium concentration drops, the electrocardiogram changes: 9.3 mmol/l, very broad QRS
+complexes (A); 7.9 mmol/l, wide QRS complexes with peaked T waves and absent P waves
+(B); 7.2 mmol/l, QRS complex continues to narrow and T waves diminish in size (C)
+Figure.
+Open in a new tab
+Broad complex tachycardia with a potassium concentration of 8.4 mmol/l (A); after
+treatment, narrower complexes with peaked T waves (B)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 9/14
+🔍
+🔍
+--- Страница 10 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+Figure.
+Open in a new tab
+Left: Diagram of electrocardiographic changes associated with hypokalaemia. Right:
+Electrocardiogram showing prominent U wave, potassium concentration 2.5 mmol/l (A) and
+massive U waves with ST depression and flat T waves, potassium concentration 1.6 mmol/l
+(B)
+Figure.
+Open in a new tab
+Sinus bradycardia, with a J wave, in a patient with hypothermia—core temperature 29°C
+(note the shivering artefact)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 10/14
+🔍
+🔍
+--- Страница 11 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+Figure.
+Open in a new tab
+Left: Diagram of electrocardiographic changes associated with thyrotoxicosis. Right: Sinus
+tachycardia in patient with thyrotoxicosis
+Figure.
+Open in a new tab
+Top: Diagram of electrocardiographic changes associated with hypothyroidism. Bottom:
+Bradycardia (note small QRS complexes and inverted T waves) in patient with
+hypothyroidism
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 11/14
+🔍
+🔍
+--- Страница 12 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+Figure.
+Open in a new tab
+Short QT interval in patient with hypocalcaemia (calcium concentration 4 mmol/l)
+Figure.
+Open in a new tab
+Massive T wave inversion and QT prolongation associated with subarachnoid haemorrhage
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 12/14
+🔍
+🔍
+--- Страница 13 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+Figure.
+Open in a new tab
+Electrocardiographic artefacts—“shivering artefact” in patient with anterior myocardial
+infarction (top) and electrical interference simulating tachycardia (bottom)
+Footnotes
+Corey Slovis is professor of emergency medicine and medicine at Vanderbilt University Medical
+Center in the department of emergency medicine, Nashville, TN, USA. Richard Jenkins is specialist
+registrar in general medicine and endocrinology at the Northern General Hospital, Sheffield.
+The ABC of clinical electrocardiography is edited by Francis Morris, consultant in emergency
+medicine at the Northern General Hospital, Sheffield; June Edhouse, consultant in emergency
+medicine, Stepping Hill Hospital, Stockport; William J Brady, associate professor, programme
+director, and vice chair, department of emergency medicine, University of Virginia, Charlottesville,
+VA, USA; and John Camm, professor of clinical cardiology, St George's Hospital Medical School,
+London. The series will be published as a book in the summer.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 13/14
+🔍
+--- Страница 14 ---
+22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+Articles from BMJ : British Medical Journal are provided here courtesy of BMJ Publishing Group
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 14/14

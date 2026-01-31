@@ -1,0 +1,358 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:41.086571",
+  "file_size_bytes": 1149549,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:45 Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Aortic Dissection
+By Mark A. Farber, MD, FACS, University of North Carolina;
+Federico E. Parodi, MD, University of North Carolina School of Medicine
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Dec 2024
+Aortic dissection is the surging of blood through a tear in the aortic intima with
+separation of the intima and media and creation of a false lumen (channel). The
+intimal tear may be a primary event or secondary to hemorrhage within the
+media. The dissection may occur anywhere along the aorta and extend
+proximally or distally into other arteries. Hypertension is an important
+contributor. Symptoms and signs include abrupt onset of tearing chest or back
+pain, and dissection may result in aortic regurgitation and compromised
+circulation in branch arteries. Diagnosis is by imaging tests (eg, transesophageal
+echocardiography, CT angiography, MRI, contrast aortography). Treatment
+involves strict blood pressure control and serial imaging to monitor progression
+of dissection. Surgical repair of the aorta and placement of a synthetic graft are
+needed for ascending aortic dissection and for certain descending aortic
+dissections. Endovascular stent grafts are an option for selected patients with
+descending dissections, especially when dissection involves the descending
+thoracic aorta.
+Patients who are Black, male, or older, and patients with hypertension are especially at risk for aortic
+dissection (1, 2). Peak incidence occurs at age 50 to 65 years in the general population and at age 20 to
+40 years for patients with congenital connective tissue disorders (eg, Marfan syndrome, Ehlers-Danlos
+syndrome).
+https://www.merckmanuals.com/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/aortic-dissection 1/12
+--- Страница 2 ---
+22/01/2026, 14:45 Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+Aortic Dissection
+3D MODEL
+Classification of aortic dissection
+Aortic dissections are classified anatomically.
+The DeBakey classification system is most widely used (3):
+Type I (Majority of dissections): These dissections start in the ascending aorta and extend at
+least to the aortic arch and sometimes beyond.
+Type II: These dissections start in and are confined to the ascending aorta (proximal to the
+brachiocephalic or innominate artery).
+Type III: These dissections start in the descending thoracic aorta just beyond the origin of
+the left subclavian artery and extend distally or, less commonly, proximally. Type IIIa
+dissections originate distal to the left subclavian artery and are confined to the thoracic
+aorta. Type IIIb dissections originate distal to the left subclavian artery and extend below
+the diaphragm.
+The Stanford system is simpler:
+Type A: These dissections involve the ascending aorta.
+Type B: These dissections are confined to the descending thoracic aorta (distal to the left
+subclavian artery).
+https://www.merckmanuals.com/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/aortic-dissection 2/12
+--- Страница 3 ---
+22/01/2026, 14:45 Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+Thoracic Aortic Dissection (Stanford Type B)
+IMAGE
+© 2017 ELLIOT K. FISHMAN, MD.
+Although dissection may originate anywhere along the aorta, it occurs most commonly at areas of
+greatest hydraulic stress, which are the
+Right lateral wall of the ascending aorta (within 5 cm of the aortic valve)
+Proximal segment of the descending aorta (just beyond the origin of the left subclavian
+artery)
+Rarely, dissection is confined to individual arteries (eg, coronary or carotid arteries), typically in pregnant
+or postpartum women.
+General references
+1. Huynh N, Thordsen S, Thomas T, et al. Clinical and pathologic findings of aortic dissection at
+autopsy: Review of 336 cases over nearly 6 decades. Am Heart J 2019;209:108-115.
+doi:10.1016/j.ahj.2018.11.006
+2. Janus SE, Chami T, Mously H, et al. Proportionate and Absolute Vascular Disease Mortality by
+Race and Sex in the United States From 1999 to 2019. J Am Heart Assoc 2022;11(15):e025276.
+doi:10.1161/JAHA.121.025276
+3. Isselbacher EM, Preventza O, Hamilton Black J 3rd, et al. 2022 ACC/AHA Guideline for the
+Diagnosis and Management of Aortic Disease: A Report of the American Heart
+Association/American College of Cardiology Joint Committee on Clinical Practice
+Guidelines. Circulation 2022;146(24):e334-e482. doi:10.1161/CIR.0000000000001106
+Etiology of Aortic Dissection
+Aortic dissections often occur in patients with preexisting degeneration of the aortic media. Causes and
+risk factors include connective tissue disorders, atherosclerotic disease, systemic rheumatic diseases,
+https://www.merckmanuals.com/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/aortic-dissection 3/12
+--- Страница 4 ---
+22/01/2026, 14:45 Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+and injury (see table Conditions Contributing to Aortic Dissection).
+TABLE
+Conditions Contributing to Aortic Dissection
+Category Examples
+Cocaine
+Dyslipidemia
+Atherosclerotic risk factors
+Hypertension
+Smoking
+Bicuspid aortic valve
+Coarctation of the aorta
+Cystic medial necrosis
+Ehlers-Danlos syndrome
+Connective tissue disorders, congenital
+or hereditary
+Loeys-Dietz syndrome
+Marfan syndrome
+Turner syndrome
+Familial thoracic aortic aneurysm
+Aortic catheterization
+Iatrogenic
+Aortic valve surgery
+Behçet disease
+Systemic rheumatic diseases Giant cell arteritis
+Takayasu arteritis
+Trauma Deceleration injuries
+Atherosclerotic risk factors, notably hypertension, contribute in more than two-thirds of patients. After
+rupture of the intima, which is a primary event in some patients and secondary to hemorrhage within
+the media in others, blood flows into the media, creating a false channel that extends distally or, less
+commonly, proximally along the artery.
+Pathophysiology of Aortic Dissection
+The pathophysiologic sequence of aortic dissections involves
+Aortic wall inflammation
+https://www.merckmanuals.com/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/aortic-dissection 4/12
+--- Страница 5 ---
+22/01/2026, 14:45 Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+Apoptosis of vascular smooth muscle cells
+Degeneration of aortic media
+Elastin disruption
+Vessel dissection
+Dissections may communicate back with the true aortic lumen through intimal rupture at a distal site,
+maintaining systemic blood flow.
+Serious consequences of aortic dissection are common and include
+Compromise of the blood supply of arteries that branch off the aorta (including coronary
+arteries)
+Aortic valvular dilation and regurgitation
+Heart failure
+Fatal rupture of the aorta through the adventitia into the pericardium, right atrium, or left
+pleural space
+Acute dissections and those present < 2 weeks are most likely to cause these complications. Risk
+decreases at ≥ 2 weeks if evidence indicates thrombosis of the false lumen and loss of communication
+between the true and false lumina.
+Variants of dissection are thought to be precursors of classic aortic dissection. Variants of aortic
+dissection include
+Separation of the intima and media by intramural hematoma without a clear intimal tear or
+flap
+Intimal tear and bulge without a hematoma or false lumen
+Dissection or hematoma caused by ulceration of atherosclerotic plaque
+https://www.merckmanuals.com/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/aortic-dissection 5/12
+--- Страница 6 ---
+22/01/2026, 14:45 Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+Overview of Aortic Dissection
+Hide Details
+Aortic Dissection (https://www.youtube.com/watch?v=vrbsxsadiwI) by Osmosis (https://open.osmosis.org/) is
+licensed under CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
+Symptoms and Signs of Aortic Dissection
+Typically in aortic dissection, excruciating precordial or interscapular pain, often described as tearing or
+ripping, occurs abruptly (1). The pain frequently migrates from the original location as the dissection
+extends along the aorta. Up to 20% of patients present with syncope due to severe pain, aortic
+baroreceptor activation, extracranial cerebral artery obstruction, or cardiac tamponade. Hypotension
+and tachycardia could indicate active bleeding.
+Occasionally, patients present with symptoms of malperfusion (ischemia due to the obstruction
+resulting from dissection), such as stroke, myocardial infarction, intestinal infarction, renal insufficiency,
+paraparesis, or paraplegia, due to interruption of the blood supply to a particular vascular bed,
+including the spinal cord, brain, heart, kidneys, intestine, or extremities. The interruption in blood
+supply is most often due to acute distal arterial obstruction by the false lumen.
+Approximately 20 to 30% of patients have partial or complete deficits of major arterial pulses, which
+may wax and wane (1). Limb blood pressures may differ, sometimes by > 30 mm Hg; this finding
+suggests a poor prognosis.
+A murmur of aortic regurgitation is often heard in patients with proximal dissection. Peripheral signs of
+aortic regurgitation may be present. Rarely, heart failure results from severe acute aortic regurgitation.
+Cardiac tamponade may cause pulsus paradoxus and jugular venous distention.
+Leakage of blood or inflammatory serous fluid into the left pleural space may lead to signs of pleural
+effusion.
+Occlusion of a limb artery may cause signs of peripheral ischemia or neuropathy.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/aortic-dissection 6/12
+--- Страница 7 ---
+22/01/2026, 14:45 Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+Renal artery occlusion may cause oliguria or anuria.
+Pearls & Pitfalls
+Approximately 20 to 30% of patients with aortic dissection have pulse deficits.
+Symptoms and signs reference
+1. Pape LA, Awais M, Woznicki EM, et al. Presentation, Diagnosis, and Outcomes of Acute Aortic
+Dissection: 17-Year Trends From the International Registry of Acute Aortic Dissection. J Am Coll
+Cardiol 2015;66(4):350-358. doi:10.1016/j.jacc.2015.05.029
+Diagnosis of Aortic Dissection
+Transesophageal echocardiography (TEE), CT angiography (CTA), or magnetic resonance
+angiography (MRA)
+Aortic dissection must be considered in any patient with chest pain, thoracic back pain, unexplained
+syncope, unexplained abdominal pain, stroke, or acute-onset heart failure, especially when pulses or
+blood pressures in the limbs are unequal. Such patients require a chest radiograph; the mediastinal
+shadow is often widened, usually with a localized bulge signifying the site of origin. Left pleural effusion
+is common.
+Patients presenting with acute chest pain, electrocardiography (ECG) changes of acute inferior
+myocardial infarction, and a previously undocumented murmur of aortic regurgitation (AR) are of
+particular concern for a type I aortic dissection into the right coronary artery (causing inferior
+myocardial infarction), and the aortic valve (causing AR).
+https://www.merckmanuals.com/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/aortic-dissection 7/12
+--- Страница 8 ---
+22/01/2026, 14:45 Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+Aortic Dissection
+IMAGE
+© SPRINGER SCIENCE+BUSINESS MEDIA
+Abdominal Aortic Dissection
+IMAGE
+© 2017 ELLIOT K. FISHMAN, MD.
+If the chest radiograph suggests dissection, TEE, CTA, or MRA is done immediately after the patient is
+stabilized. Findings of an intimal flap and double lumina confirm dissection.
+Multiplanar TEE is 97 to 99% sensitive and, with M-mode echocardiography, is nearly 100% specific. It
+can be done at the bedside in < 20 minutes and does not require contrast agents. However, CTA is
+typically the first-line imaging modality because it is often available more rapidly and widely than TEE.
+CTA sensitivity has been reported in the range of 90 to 100%, and specificity of CTA is 87 to 100% (1).
+https://www.merckmanuals.com/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/aortic-dissection 8/12
+--- Страница 9 ---
+22/01/2026, 14:45 Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+MRA has nearly 100% sensitivity and specificity for aortic dissection. But it is time-consuming and ill-
+suited for emergencies. MRA is best used when dissection is suspected in patients who are stable and
+have subacute or chronic chest pain.
+Contrast aortography is an option if surgery is being considered. In addition to identifying the origin and
+extent of dissection, severity of aortic regurgitation, and extent of involvement of the aorta’s major
+branches, aortography helps determine whether simultaneous coronary artery bypass surgery is
+needed.
+Echocardiography should be done to check for aortic regurgitation and thus determine whether the
+aortic valve should be repaired or replaced concomitantly.
+Electrocardiography (ECG) is nearly universally done. However, findings range from normal to markedly
+abnormal (in acute coronary artery occlusion or aortic regurgitation), so the test is not diagnostically
+helpful for dissection itself.
+Serum creatine kinase-MB and troponin levels may help distinguish aortic dissection from myocardial
+infarction, except when dissection causes myocardial infarction.
+Routine laboratory tests may detect slight leukocytosis and anemia if blood has leaked from the aorta.
+Increased lactate dehydrogenase may be a nonspecific sign of celiac or mesenteric arterial trunk
+involvement.
+A cardiothoracic surgeon should be consulted early during the diagnostic evaluation.
+Diagnosis reference
+1. Expert Panel on Cardiac Imaging, Kicska GA, Hurwitz Koweek LM, et al. ACR Appropriateness
+Criteria® Suspected Acute Aortic Syndrome. J Am Coll Radiol 2021;18(11S):S474-S481.
+doi:10.1016/j.jacr.2021.09.004
+Treatment of Aortic Dissection
+Beta-blockers and other medications to control blood pressure
+Usually endovascular repair or open surgical repair
+Patients who do not immediately die of aortic dissection should be admitted to an intensive care unit
+with intra-arterial blood pressure monitoring and an indwelling urethral catheter to monitor urine
+output. Blood should be typed and cross-matched for 4 to 6 units of packed red blood cells when
+surgery is likely. Patients who are hemodynamically unstable should be intubated.
+Medical management
+Medications to decrease arterial pressure, arterial shear stress, ventricular contractility, and pain are
+started immediately to maintain systolic blood pressure at ≤ 120 mm Hg (or the lowest level compatible
+https://www.merckmanuals.com/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/aortic-dissection 9/12
+--- Страница 10 ---
+22/01/2026, 14:45 Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+with adequate cerebral, coronary, and renal perfusion) and to maintain a target heart rate of 60 to 80
+beats per minute.
+A beta-blocker is usually the first-line medication for heart rate and blood pressure control. Options
+include
+Metoprolol tartrate IV
+Esmolol IV
+Labetalol (an alpha- and beta-adrenergic blocker) IV
+Alternatively, nondihydropyridine calcium channel blockers (eg, verapamil, diltiazem) can be used to
+control blood pressure and heart rate in patients who do not tolerate beta-blockers.
+If systolic blood pressure remains > 110 mm Hg despite use of beta-blockers or nondihydropyridine
+calcium channel blockers, nitroprusside can be given in a constant IV infusion, titrated as necessary to
+control blood pressure. Nitroprusside should not be given without a beta-blocker or
+nondihydropyridine calcium channel blocker because reflex sympathetic activation in response to
+vasodilation can increase ventricular inotropy and aortic shear stress, worsening the dissection.
+Pearls & Pitfalls
+To manage blood pressure in aortic dissection, do not use a vasodilator (eg, nitroprusside)
+without a beta-blocker or nondihydropyridine calcium channel blocker because the
+vasodilator causes reflex sympathetic activation, which increases aortic shear stress.
+Surgical repair
+For a dissection of the descending aorta, a trial of medical therapy alone is appropriate for an
+uncomplicated, stable dissection confined to the descending aorta (type B). Endovascular repair is
+warranted in patients with complications (malperfusion, meaning ischemia due to obstruction
+secondary to the dissection; persistent hypertension and pain; rapidly enlarging aortic diameter;
+extension of the dissection; and rupture). Surgery is also best for acute distal dissections in patients with
+Marfan syndrome.
+For ascending aorta dissections, surgery is virtually always indicated due to the risk of life-threatening
+complications. Surgery usually involves open repair and replacement, although endovascular therapy
+can be used in certain circumstances when patients are not candidates for open repair.
+The extent of repair depends upon the reason for repair and the anatomic nature of the dissection.
+The goal of surgery is to obliterate entry into the false channel and reconstitute the aorta with a
+synthetic graft. If present, severe aortic regurgitation must be treated by resuspending the aortic
+leaflets or replacing the valve. Surgical outcomes are best with early, aggressive intervention. Mortality
+rates are approximately 20% (1). Predictors of poor outcome include
+Hypotension
+https://www.merckmanuals.com/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/aortic-dissection 10/12
+--- Страница 11 ---
+22/01/2026, 14:45 Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+Renal failure
+Age > 70 years
+Abrupt onset of chest pain
+Pulse deficit
+ST-segment elevation on ECG
+Stent grafts that seal entry to the false lumen and improve patency of the true lumen, balloon
+fenestration (in which an opening is made in the dissection flap that separates the true and false
+lumina), or both may be less invasive alternatives for patients with type B dissection if peripheral
+ischemic complications develop. Some endovascular devices (Gore Ascending Stent Graft) are available
+for compassionate use in patients with type A dissections who have contraindications to open surgical
+repair.
+Complications of surgery include death, stroke (due to emboli), paraplegia (due to spinal cord ischemia),
+acute renal failure (especially if dissection includes renal arteries) and endoleak (leakage of blood back
+into the aneurysmal sac).
+The most important late sequellae include redissection, formation of localized aneurysms in the
+weakened aorta, and progressive aortic regurgitation. These complications may require surgical or
+endovascular repair.
+Long-term management
+All patients, including those treated by surgery or endovascular methods, are given long-term
+antihypertensive therapy, usually including beta-blockers, nondihydropyridine calcium channel blockers,
+and angiotensin-converting enzyme (ACE) inhibitors. Almost any combination of antihypertensives is
+acceptable; exceptions are those that act mainly by vasodilation (eg, hydralazine, minoxidil) and beta-
+blockers that have intrinsic sympathomimetic action (eg, acebutolol, pindolol). Avoidance of strenuous
+physical activity is often recommended.
+CT may be done before discharge and repeated at 6 months and 1 year, and then every 1 to 2 years.
+After repair of a dissection, the aorta should be monitored for the rest of the patient's life. The
+weakened aorta may develop aneurysmal degeneration above or below the surgical repair or re-dissect.
+For these reasons, continued surveillance is indicated.
+Treatment reference
+1. Pape LA, Awais M, Woznicki EM, et al. Presentation, Diagnosis, and Outcomes of Acute Aortic
+Dissection: 17-Year Trends From the International Registry of Acute Aortic Dissection. J Am Coll
+Cardiol 2015;66(4):350-358. doi:10.1016/j.jacc.2015.05.029
+Prognosis for Aortic Dissection
+About 20% of patients with aortic dissection die before reaching the hospital. Without treatment,
+mortality rate is approximately 1 to 2% per hour after symptom onset. Without surgery, mortality is >
+https://www.merckmanuals.com/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/aortic-dissection 11/12
+--- Страница 12 ---
+22/01/2026, 14:45 Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+50% at 1 month (1).
+Hospital mortality rate for treated patients is about 20% for type A dissection and 10% for type B
+dissection (2). One of the largest international registry databases reported survival rates of > 90 percent
+for type A dissections treated surgically at 1 and 3 years postdischarge. However, the 3-year survival
+rate of patients with type B dissection was 78% for those treated with medical management alone.
+Prognosis references
+1. Tsai TT, Nienaber CA, Eagle KA. Acute aortic syndromes. Circulation 2005;112(24):3802-3813.
+doi:10.1161/CIRCULATIONAHA.105.534198
+2. Evangelista A, Isselbacher EM, Bossone E, et al. Insights From the International Registry of Acute
+Aortic Dissection: A 20-Year Experience of Collaborative Clinical Research. Circulation
+2018;137(17):1846-1860. doi:10.1161/CIRCULATIONAHA.117.031264
+Key Points
+Aortic dissection may originate anywhere along the aorta but is most common at the
+proximal ascending aorta (within 5 cm of the aortic valve) or the descending thoracic
+aorta just beyond the origin of the left subclavian artery.
+Dissection can present in patients with preexisting degeneration of the aortic media (eg,
+caused by connective tissue disorders, injury) but hypertension is commonly also
+involved.
+Patients typically have excruciating, tearing precordial or interscapular pain.
+Other manifestations depend on whether the aortic root and/or branches of the aorta
+are affected, and the presence and location of any rupture; heart failure, organ
+ischemia, and hemorrhagic shock may occur.
+Diagnose using transesophageal echocardiography (TEE), computed tomography
+angiography (CTA), or magnetic resonance angiography (MRA).
+Immediately give beta-blockers and other medications as needed to control blood
+pressure and heart rate.
+Medical therapy alone is appropriate for uncomplicated, stable dissection confined to
+the descending aorta; other cases require surgery.
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/diseases-of-the-aorta-and-its-branches/aortic-dissection 12/12

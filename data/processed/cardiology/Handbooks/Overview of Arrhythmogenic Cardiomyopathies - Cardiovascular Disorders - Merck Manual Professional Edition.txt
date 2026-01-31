@@ -1,0 +1,57 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Overview of Arrhythmogenic Cardiomyopathies - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:38.733445",
+  "file_size_bytes": 130000,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of Arrhythmogenic Cardiomyopathies - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:39 Overview of Arrhythmogenic Cardiomyopathies - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Overview of Arrhythmogenic Cardiomyopathies
+By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Jun 2024 | Modified Aug 2024
+Although any dilated or hypertrophic cardiomyopathy (see Overview of Cardiomyopathies) can produce
+cardiac and systemic factors that predispose to a number of different arrhythmias, including
+bradyarrhythmias, atrial and ventricular tachyarrhythmias, and sudden death, certain cardiomyopathies
+are particularly prone to do so. These are referred to as arrhythmogenic cardiomyopathies and include
+Arrhythmogenic right ventricular cardiomyopathy
+Lamin A/C cardiomyopathies
+Non-compaction cardiomyopathy
+Cardiac sarcoidosis
+Hypertrophic cardiomyopathy
+Some of these disorders have genetic causes, which are typically inherited but are sometimes acquired
+conditions. These arrhythmogenic cardiomyopathies account for approximately 20% of sudden cardiac
+deaths in non-athletes ≤ 35 years of age (1).
+The signs and symptoms of the arrhythmogenic cardiomyopathies are not specific and may include
+those of heart failure itself, along with those of bradyarrhythmias and tachyarrhythmias. Heart failure
+manifestations include exertion intolerance secondary to dyspnea and/or fatigue, orthopnea, and/or
+peripheral edema. Arrhythmias may cause palpitations, light headedness, syncope, cardiac arrest, and
+sudden death.
+Evaluation typically includes family history, ECG, chest radiography, echocardiography, and cardiac MRI.
+If a specific form of arrhythmogenic cardiomyopathy is suspected, other investigations may be
+indicated, including signal-averaged ECG, exercise testing, ambulatory electrocardiographic monitoring,
+chest CT, electrophysiologic study, angiography, and/or endomyocardial biopsy. Genetic testing is
+usually done when a genetic cause is suspected; first-degree relatives of patients with a confirmed
+disorder should be screened clinically and with genetic testing when a specific mutation is found.
+Management depends on the cause of the cardiomyopathy and the specific rhythm disturbance, but
+typically includes standard measures for heart failure (sometimes including cardiac transplantation),
+antiarrhythmic medications, and sometimes an implantable cardioverter-defibrillator (ICD) and/or
+catheter ablation of the arrhythmogenic substrate.
+Reference
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/overview-of-arrhythmogenic-cardiomyopathies 1/2
+--- Страница 2 ---
+22/01/2026, 14:39 Overview of Arrhythmogenic Cardiomyopathies - Cardiovascular Disorders - Merck Manual Professional Edition
+1. D'Ascenzi F, Valentini F, Pistoresi S, et al. Causes of sudden cardiac death in young athletes and
+non-athletes: systematic review and meta-analysis: Sudden cardiac death in the young. Trends
+Cardiovasc Med 2022 Jul;32(5):299-308. doi: 10.1016/j.tcm.2021.06.001
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/overview-of-arrhythmogenic-cardiomyopathies 2/2

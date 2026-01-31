@@ -1,0 +1,287 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:37:14.282658",
+  "file_size_bytes": 19333533,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:30 Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  Abdominal Pain in a middle-aged patient
+Steve Smith onJanuary 18, 2025
+Abdominal Pain in a middle-
+aged patient
+I was texted this case by Ankur Kalra, an interventional cardiologist
+at the University of Indiana. He also did his cardiology fellowship at
+my institution, Hennepin County Medical Center.
+He runs the Parallax podcast, and he inteviewed me on that Podcast
+this year.
+He says the podcast had over 3000 downloads and “Itʼs our season 6
+topper”
+Here it is:
+Ep 121: OMI/NOMI: A Paradigm Shift in Myocardial Infarction
+Diagnosis With Dr Stephen Smith
+By the way, also donʼt miss this new OMI review article
+(January 17, 2025) in Annals of Emergency Medicine:
+ECG Patterns of Occlusion Myocardial Infarction: A Narrative
+Review
+
+https://drsmithsecgblog.com/abdominal-pain-in-middle-aged-patient/ 1/11
+--- Страница 2 ---
+22/01/2026, 15:30 Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog
+Case
+Dr. Kalra texted me this ECG on a Sunday Morning:
+Patient with abdominal pain. No chest pain. hs Trop I is 15,000. I
+think it is OMI. Taking her to the cath lab.
+My response: “This looks like a subacute (possibly spontaneously
+reperufused) first diagonal. Could be LAD. But it is definitely OMI. T-
+wave inverted in aVL and starting to invert in V2.”
+This ECG has the “South Africa Flag Sign”
+This image below illustrates the “South Africa Flag Sign” (Image is
+from this previous post). It is a sign of STE or Hyperacute T-wave in
+V1, I, aVL, with reciprocal ST depression in lead III.
+It is a sign of first diagonal occlusion, or sometimes of LAD occlusion
+proximal to the first diagonal.
+Quiz post: do either or both of these patients have high lateral OMI / South African flag
+sign?
+https://drsmithsecgblog.com/abdominal-pain-in-middle-aged-patient/ 2/11
+--- Страница 3 ---
+22/01/2026, 15:30 Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog
+I sent the ECG to the Queen of Hearts PMCardio AI Model for her
+diagnosis:
+His response:
+“Wow! I will let you know”
+The interventionalist sent this image back:
+https://drsmithsecgblog.com/abdominal-pain-in-middle-aged-patient/ 3/11
+--- Страница 4 ---
+22/01/2026, 15:30 Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog
+You can see the cut off of the artery near the top, just below
+that tortuous vessel.
+He wrote:
+OMI it was. Large diagonal. Now opened.
+Dr. Smith—youʼll change MI care, if you havenʼt already. Iʼm changed.
+===================================
+MY Comment, by KEN GRAUER, MD (1/18/2025):
+===================================
+It’s not often that we see a clinical entity for which it seems that the
+patient “read the textbook” before the ECG was recorded. By this, I mean
+that most of the time with well described entities (ie, Brugada patterns,
+repolarization variants, “shark fin” ST deviations, conduction defects,
+etc.) — there are a variety of possible ECG patterns that often manifest
+differences in some way from the textbook description.
+In contrast — Today’s initial ECG (as per Dr. Smith) is
+clearly diagnostic of an acute OMI that at the stage shown in
+https://drsmithsecgblog.com/abdominal-pain-in-middle-aged-patient/ 4/11
+--- Страница 5 ---
+22/01/2026, 15:30 Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog
+the BOTTOM tracing in Figure-1, very clearly suggests a “culprit”
+artery in the 1st or 2nd Diagonal Branch of the LAD.
+As per the schematic picture at the top of Figure-1 — the South
+African Flag Sign is present in a patient with new CP (Chest Pain)
+when there is: i) ST elevation in leads I, aVL and V2;
+— ii) Reciprocal ST depression in lead III (ST depression is also
+often seen to a lesser degree in neighboring inferior leads II and
+aVF); — and, iii) No ST elevation in any chest leads except for
+lead V2 (The principal leads with ST elevation or depression are
+highlighted in GREEN in Figure-1 — following the distribution of the
+S. African Flag).
+The TOP ECG in Figure-1 is from the April 8, 2022 post in Dr.
+Smithʼs ECG Blog — and illustrates the above noted findings
+of the S. African Flag Sign (ie, ST elevation in leads I,aVL,V2
+— reciprocal ST depression in lead III ).
+PEARL #1: As per Dr. Smith — Sometimes acute proximal LAD
+OMI will initially look like a Diagonal Branch OMI — because ST
+elevation may initially be limited to lead V2, and only later be seen in
+leads V1,V3,V4. A tincture of time and serial ECGs will usually
+clarify the situation.
+PEARL #2: The clinical significance of being aware of
+a Diagonal Branch “culprit” — is that: i) Since only 1 chest lead
+shows ST elevation (ie, lead V2) — this pattern will not “fit” the
+definition of a STEMI, because only 1 chest lead shows ST
+elevation (and the definition of an anterior STEMI requires 2
+contiguous chest leads to show ST elevation); and, ii) Recognizing
+the S. African Flag Sign alerts the angiographer where to look for
+the “culprit” artery. We have seen cases in which a capable
+angiographer initially missed the cath finding of Diagonal Branch
+occlusion — BUT — seeing this ECG pattern conveyed the need
+for another LOOK at the cath film, with focus on the expected area
+for Diagonal Branch takeoff then revealing subtle-but-
+complete occlusion in one of the Diagonals.
+QUESTION:
+How does today’s initial ECG differ from the TOP tracing in Figure-
+1?
+https://drsmithsecgblog.com/abdominal-pain-in-middle-aged-patient/ 5/11
+--- Страница 6 ---
+22/01/2026, 15:30 Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog
+Figure-1: The South African Flag Sign — with comparison of the
+ECG from the April 8, 2022 post — with today’s initial ECG.
+Comparison between the 2 ECGs in Figure-1:
+Both tracings in Figure-1 are consistent with the S. African Flag sign — in
+that the leads with the most prominent ST-T wave changes are leads
+I,III,aVL and V2 — which correspond to the arrangement of GREEN
+coloring in the horizontal “Y” of the South African Flag.
+It is difficult to date the onset of the MI in today’s case because this
+patient never had CP — yet the initial Troponin was markedly
+elevated.
+The principal difference in the interpretation of the 2 tracings
+in Figure-1 — is that in addition to ST elevation in leads I,aVL,V2
+with ST depression in lead III — there are now reperfusion T
+waves in ECG #1 (RED arrows indicating T wave inversion in leads
+I,aVL,V2 — and peaking of the terminal T wave in lead III. This
+suggests that acute occlusion of the 1st Diagonal occurred some
+time before this ECG was recorded — and that there has now been
+some spontaneous reperfusion.
+“Take-Home” — Remember the picture highlighted within the
+GREEN rectangles in Figure-1.
+Steve Smith onJanuary 18, 2025
+DIAGONAL BRANCH (D1 OR D2) SOUTH AFRICAN FLAG SIGN
+   
+https://drsmithsecgblog.com/abdominal-pain-in-middle-aged-patient/ 6/11
+--- Страница 7 ---
+22/01/2026, 15:30 Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+New Review Article in Acute Dyspnea in a
+Annals of Emergency Dialysis Patient. K is
+Medicine: ECG 6.3 mEq/L. Are ECG
+Patterns of Occlusion findings due to
+Myocardial Infarction: hyperkalemia, or even
+A Narrative Review due to Type 2 MI?
+Write a Comment
+SEARCH
+https://drsmithsecgblog.com/abdominal-pain-in-middle-aged-patient/ 7/11
+--- Страница 8 ---
+22/01/2026, 15:30 Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/abdominal-pain-in-middle-aged-patient/ 8/11
+--- Страница 9 ---
+22/01/2026, 15:30 Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/abdominal-pain-in-middle-aged-patient/ 9/11
+--- Страница 10 ---
+22/01/2026, 15:30 Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Steve Smith onJanuary 21, 2025
+Acute Dyspnea in a Dialysis Patient. K is 6.3 mEq/L. Are
+ECG findings due to hyperkalemia, or even due to Type
+2 MI?
+I was reading ECGs on the system and saw all of these, from one
+patient. I read them without clinical context and looked at the
+clinical…
+Hans Helseth onJanuary 23, 2025
+Acute chest pain with LBBB and obvious OMI,
+worsening on serial ECGs, but repeatedly missed by
+physicians and Marquette 12SL
+Hans Helseth onJanuary 23, 2025
+Acute chest pain with LBBB and obvious OMI,
+worsening on serial ECGs, but repeatedly missed by
+physicians and Marquette 12SL
+This was written by Hans Helseth. He just graduated from college. He
+has no medical training, but he has read this blog for years. He is an…
+https://drsmithsecgblog.com/abdominal-pain-in-middle-aged-patient/ 10/11
+--- Страница 11 ---
+22/01/2026, 15:30 Abdominal Pain in a middle-aged patient - Dr. Smith’s ECG Blog
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/abdominal-pain-in-middle-aged-patient/ 11/11

@@ -1,0 +1,133 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Anterior MI - ECGpedia.html",
+  "converted_date": "2026-01-31T14:51:23.111404",
+  "file_size_bytes": 146109,
+  "original_format": "html",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Anterior MI - ECGpedia.html"
+}
+
+=== СОДЕРЖАНИЕ ===
+Anterior MI - ECGpedia
+Anterior MI
+From ECGpedia
+Jump to navigation
+Jump to search
+This is part of: Myocardial Infarction
+ECG-characteristics:Wung
+ST-elevation in leads V1-V6, I and aVL. Maximum elevation in V3, maximal depression in III
+later: pathological Q-wave in the precordial leads V2 to V4-V5.
+Anterolateral infarct caused by occlusion of the LAD.
+The Left Anterior Descending (LAD) coronary artery is the most important coronary artery. On this mercatorprojection of the heart, the grey area is supplied by blood by the LAD and is at risk if this artery occludes.
+Anterior MI can involve the anterior part of the heart and a part of the ventricular septum. Is supplied by blood by the LAD. Can lead to a cardiac aneurysm if not treated timely.
+Proximal or distal occlusion of the LAD can be differentiated when looking at the ST elevation V1-V3 Zimetbaum
+Characteristics of proximal LAD occlusion
+ST-segment elevation in V1 (>2.5 mm) or RBBB with a pathologic Q wave or both (sens 12%, spec 100%)
+ST-segment depression (>1 mm) in II, III and aVF (sens 34%, spec 98%)
+Characteristics of distal LAD occlusion
+Little ST-segment depression (<= 1 mm) or elevation in II, III, and aVF (sens 66%, spec 73%)
+Another way to look at this is by assessing the axis of the ST vector. If it points upwards (with ST depression in II, III, and AVF) the proximal LAD is occluded. If it points downwards (with little ST depression or even elevation in II, III, and AVF) the distal LAD is occluded. An ECG that does not show any ST depression sugggests an occlusion after the origin of the first diagonal branch.
+A more precise determination of the location of the occlusion can be made with below table.
+ECG criteria to determine site of LAD occlusion Engelen
+Criterion
+Occlusion site
+Sensitivity
+Specificity
+PPV
+NPV
+RBBB
+Proximal to S1
+14
+100
+100
+62
+ST elevation in V1 > 2.5mm
+Proximal to S1
+12
+100
+100
+61
+ST elevation in AVR
+Proximal to S1
+43
+95
+86
+70
+ST depression in V5
+Proximal to S1
+17
+98
+88
+62
+Q AVL
+Proximal to D1
+44
+85
+67
+69
+ST depression in II > 1.0 mm
+Proximal to D1/S1
+34
+98
+93
+68
+Q in V5
+Distal to S1
+24
+93
+71
+53
+ST depression in AVL
+Distal to D1
+22
+95
+87
+46
+Absence of ST depression in III
+Distal to S1/D1
+41
+95
+92
+53
+Examples
+A typical example of an acute anterior wall infarction.
+Acute MI with proximal LAD occlusion
+Large acute MI with LAD occlusion
+Acute MI with LAD occlusion
+A 2 weeks old anterior infarction with Q waves in V2-V4 and persisting ST elevation, a sign of formation of a cardiac aneurysm.
+cute MI with LAD occlusion
+A 2 days old anterior infarction with Q waves in V1-V4 with persisting ST elevation, a sign of formation of a cardiac aneurysm.
+References
+<biblio>
+Wung pmid=16777513
+Zimetbaum pmid=12621138
+Engelen pmid=10440150
+</biblio>
+Retrieved from "https://en.ecgpedia.org/index.php?title=Anterior_MI&oldid=16884"
+Navigation menu
+Personal tools
+Log in
+Namespaces
+PageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main PageFrequently Asked QuestionsDisclaimersContactBenefactorsHow to improve this website
+The ECG course
+IntroductionBasicsRhythmRateConduction (PQ,QRS,QT)Heart axisP wave morphologyQRS morphologyST morphology
+The ECG textbook
+Normal tracingTechnical ProblemsSinus rhythmsArrhythmias:- supraventricular- junctional- ventricular- genetic- ectopic beatsAV ConductionIntraventricular ConductionMyocardial InfarctionQRS axis and voltageChamber HypertrophyRepolarizationClinical DisordersElectrolyte DisordersPacemaker
+Cases and Examples
+Cases and ExamplesGuess the CulpritRhythm Puzzles
+Tools
+What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage informationCite this page
+This page was last edited on 8 October 2014, at 10:00.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+Privacy policy
+About ECGpedia
+Disclaimers

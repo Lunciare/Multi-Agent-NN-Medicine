@@ -1,0 +1,441 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:37:13.540468",
+  "file_size_bytes": 12566577,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  An 87-year-old with dyspnea and intermittent WCT
+Magnus Nossen onDecember 3, 2025
+An 87-year-old with
+dyspnea and intermittent
+WCT
+Written by Magnus Nossen
+ 
+The patient in todayʼs case is an 87 year old female with a
+history of dual chamber pacemaker and Afib. She presented
+due to weakness and dyspnea that had progressed over a
+number of weeks. At presentation, the patient was
+tachycardic with a heart rate of about 120 BPM. Other vital
+signs were unremarkable. A prehospital ECG was transmitted
+and is shown below. What do you make of the ECG?
+Prehospital ECG
+The ECG was originally recorded with a paper speed of 50mm/s. Here it has
+been “compressed” on the X-axis so that it appears that it was recorded at
+25mm/s. The layout is in the CabreraFormat(See Dr. Grauer Comment in the
+October 26, 2020 postof Dr. Smithʼs ECG Blog for review on the Cabrera
+Format).
+
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 1/13
+--- Страница 2 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+This ECG displays a regular rhythm featuring two distinct
+QRS morphologies. In the Cabrera format, the limb and
+precordial leads are recorded simultaneously. The first three
+beats show narrow QRS complexes, while the fourth beat
+exhibits a QRS morphology that is intermediate between the
+previous and the following complexes, which are wide. The
+QRS axis in the frontal plane is normal during the first three
+beats, but shifts to a superior and leftward axis thereafter.
+I am used to looking at ECGs in 50mm/s. Especially for
+rhythm interpretation, this faster paper speed can be
+beneficial. The image below shows the precordial leads in
+50mm/s, and has better resolution/quality than the above
+compressed image. What is the rhythm and what accounts
+for the varying QRS morphology?
+Precordial leads in 50mm/s
+This ECG shows a regular atrial rhythm, with an atrial rate of
+about 240 beats per minute. The ventricular rate is half the
+atrial rate. So this is 2:1 atrial flutter. But what about beat #4?
+What accounts for the change in morphology of this beat
+and the susequent QRS complexes?
+Let us have a closer look at the last QRS complexes in leads
+V1-V3. Below I have magnified these leads.
+The orange markers encircle atrial actvity. Blue arrows are
+pointing to ventricular pacemaker spikes.
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 2/13
+--- Страница 3 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+So — this ECG shows initial 2:1 conducted atrial flutter, and
+then subsequent ventricular pacing. This explains the axis
+shift noted on the initial ECG (superior and leftward
+compatible with right ventricular pacing). Beat #4 on the initial
+ECG is a fusion beat (ventricles partly depolarized intrinsically
+and by the pacemaker).
+But why is the pacemaker pacing at a rate of 120/minute? Is
+the pacemaker malfunctioning? Is this pacemaker-mediated
+tachycardia?
+See this case of Pacemaker Mediated Tachycardia.
+Ventricular Fibrillation, ICD, LBBB, QRS of 210 ms, Positive
+Smith Modified Sgarbossa Criteria, and Pacemaker-
+Mediated Tachycardia
+No, this is not a typical case of pacemaker-mediated
+tachycardia (PMT), also known as endless loop tachycardia
+(ELT). In PMT, a ventricular paced event results in retrograde
+conduction through the AV node, producing an atrial
+depolarization. This retrograde P wave is then sensed by the
+pacemaker as though it was an intrinsic atrial event, which
+subsequently triggers another ventricular paced event
+followed by another retrograde P wave — creating a self-
+perpetuating “endless loop” of pacing. This phenomenon was
+more common with earlier generations of pacemakers.
+Modern devices now have effective algorithms that
+significantly reduce the risk of developing PMT.
+What we observe in todayʼs tracing is functional 2:1
+undersensing. This happens when the pacemaker “fails” to
+detect every other P-wave because the atrial activity occurs
+during the post-ventricular atrial blanking (PVAB) period.
+“
+Post ventricular atrial blanking (PVAB)
+refers to a pacemaker timing interval after
+a ventricular paced or sensed event in
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 3/13
+--- Страница 4 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+which the PM completely ignores signals
+on the atrial channel.
+Post-ventricular atrial blanking (PVAB) is a feature in dual-
+chamber pacemakers designed to prevent the atrial sensing
+channel from detecting ventricular paced beats, far-field R
+waves, intrinsic ventricular events, and retrograde P waves.
+Both PVAB and the post-ventricular atrial refractory period
+(PVARP) are programmed timing intervals intended to reduce
+the risk of pacemaker-mediated tachycardia. The PVAB
+temporarily blocks the pacemaker from sensing any atrial
+signals immediately following a ventricular event, whether
+paced or sensed.
+However, if an atrial depolarization from a tachyarrhythmia
+like atrial tachycardia or atrial flutter occurs during the PVAB,
+it will be undetected by the pacemaker. This leads to the
+pacemaker sensing only every other atrial event, a situation
+called 2:1 atrial blanking. For example, with an actual atrial
+rate of 240 beats per minute, 2:1 atrial blanking causes the
+pacemaker to perceive only 120 beats per minute, potentially
+resulting in ventricular pacing as if sinus tachycardia is
+present. This explains what happens in todayʼs case. The
+pacemaker “sees” sinus tachycardia and paces the ventricles
+at 120/minute.
+This observation was verified by pacemaker interrogation.
+The following screenshot from the pacemaker interrogation
+summary illustrates this phenomenon.
+Telemetry print-out
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 4/13
+--- Страница 5 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+Telemetry print-out showing ventricular pacing at half the atrial flutter rate.
+Outcome
+The pacemaker statistics showed that, since the last device
+interrogation, tachycardia, with a heart rate of about 120
+beats per minute, was present approximately 75% of the time
+with ventricular pacing occuring for more than 80% of the
+ventricular beats. Thus — 2:1 blanking was a significant issue
+for this patient. The pacemaker was reprogrammed to VVIR
+mode at 70 beats per minute. In VVI mode, the pacemaker will
+ignore the atrial channel all together (and will therefore not
+track any atrial activity). This programming feature in effect
+turns a two-chamber pacemaker into a single chamber
+ventricular pacemaker. In todayʼs patient, this change did not
+immediately affect the heart rate, as the patient continued to
+have 2:1 blocked atrial flutter due to intrinsic 2:1 AV block.
+After increasing the beta-blocker dose, a higher degree of AV
+block was achieved, and the the ventricular rate was well
+controlled. If the beta-blocker dose had been increased
+without adjusting the pacemaker settings — it is likely that
+this patient would have continued to be paced at half the
+atrial rate due to 2:1 blanking. This would have put her at risk
+of both tachycardia-mediated and pacing-induced heart
+failure.
+A different management strategy would have been
+appropriate if the patient had been younger with fewer
+comorbidities. In such cases, rhythm control with
+cardioversion followed by flutter ablation is a better option.
+However, this patient was very elderly and frail, with
+echocardiography revealing marked dilation of both the right
+and left atria; these factors made rate control the more
+suitable therapeutic approach.
+= = =
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 5/13
+--- Страница 6 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+======================================
+MY Comment, by KEN GRAUER, MD
+(12/3/2025):
+Credit to Dr Nossen for his explanation in todayʼs post of
+PVAB(Post-Ventricular Atrial Blanking) — which is just one of
+an ever increasing number of sophisticated pacemaker
+concepts that these amazing devices are capable of. Gone
+are the days when it was easy to determine if the pacemaker
+is (or is not) working as it should. Fortunately — the option to
+consult with cardiology for formal pacemaker interrogation is
+now readily available to provide a definite answer.
+Many of us (myself included) are not expert in
+pacemaker troubleshooting (beyond an awareness of
+the often forgotten but highly useful truism that most of
+the time — the pacer is right!). As a result — most of
+the time, our principal task is to figure out why despite
+whatever unusual ECG findings are present — more
+likely than not, the pacemaker is functioning correctly.
+As emphasized by Dr. Nossen — even the previous
+nemesis of pacemakers (= Pacemaker-Mediated
+Tachycardia) has been largely eliminated by
+sophisticated algorithms designed to counter the
+retrograde atrial conduction that so often precipitated
+PMT in the past.
+= = =
+Todayʼs Initial Tracing:
+And so I found myself uncertain about what was going on
+with todayʼs initial ECG (that for clarity — Iʼve reproduced
+and labeled in Figure-1). We are told that todayʼs 87-year old
+female patient had a history of AFib with implantation of a
+dual-chamber pacemaker for some unknown indication.
+QUESTIONS:
+If this patient has a pacemaker — Why canʼt we see
+pacemaker spikes on the initial ECG?
+And, if the patient does have a pacemaker — Is the
+pacemaker functioning correctly?
+= = =
+Figure-1: Iʼve labeled the initial ECG in todayʼs case.
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 6/13
+--- Страница 7 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+MY Thoughts:
+I would not have known from looking at Figure-1 that todayʼs
+patient has a permanent pacemaker — because I simply do
+not see pacemaker spikes.
+Filter settings are not displayed on ECG #1. To
+emphasize — it may be that the reason there is no
+indication of filter settings used for recording this tracing
+is that notation of filter settings was removed during the
+process of compressing this ECG that was originally
+recorded at 50 mm/sec. Regardless — the point is that
+all-too-often the potential effect that a given filter setting
+might have on the ECG feature you are seeking to
+optimize is ignored!
+Weʼve periodically reviewed the potential role of filter
+settings in Dr. Smithʼs ECG Blog (See My Comment in
+the March 4, 2019 post, among others). Pacing spikes
+are a high frequecysignal. As a result pacing spikes
+may be filtered out (and therefore not seen on the ECG)
+if the low passfilter is set at too low of a value (ie,
+below 150 Hz). In this case — a wide QRS rhythm
+without P waves may be seen (and may easily be
+misinterpreted as either a junctional rhythm with an
+LBBB pattern or as a ventricular rhythm).
+= = =
+So, What is Going On in ECG #1?
+As per Dr. Nossen — the same 10 beats are seen in both limb
+leads and chest leads. I found awareness of this fact helpful
+to appreciate — because no single lead provided all the
+answers — such that seeing all 10 beats in each of the 12
+leads allowed me to optimally reason out various
+relationships.
+As was Dr. Nossen — my “eye” was immediately drawn
+to the presence of 2 distinctly different QRS
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 7/13
+--- Страница 8 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+morphologies (with this being best seen in lead aVL).
+The QRS appears to be narrow for the first 3 beats in the
+tracing. The QRS widens for beats #5-thru-10.
+As per Dr Nossen — beat #4 manifests a QRS and T
+wave morphology that is intermediate between the first
+3 narrow beats and the last 6 wider beats. Therefore,
+beat #4 is a fusion beat (“F“). But — What is it that is
+“fusing”?
+Significant baseline artifact (especially in the limb leads)
+— makes determination of atrial activity difficult. As a
+result — my “eye” was drawn to lead V1, as the best
+lead in ECG #1 for assessing atrial activity. RED arrows in
+this lead reveal 2:1 atrial activity (ie, The underlying
+rhythm is Atrial Flutter, with flutter waves at a rate of
+~240/minute).
+Recognizing regular flutter activity in lead V1 — allowed
+me to go back and take another look at potential atrial
+activity in the limb leads. As per the BLUE arrows — I
+believe that I now do see regular, 2:1 atrial activity — at
+least for a portion of lead II (albeit baseline artifact had
+just a moment ago suggested to me that atrial activity
+was not consistent throughout this 10-beat rhythm
+strip).
+KEY Point: I carefully measured all intervals with
+calipers. All intervals remain constant throughout the
+tracing. Despite the change in QRS morphology — the
+R-R interval does not change over the course of this 10-
+beat rhythm strip. In the one lead in which 2:1 atrial
+activity is clearly present ( = lead V1) — both the P-P
+interval and the PR interval preceding each QRS
+complex remain constant. This would not be the case if
+these wide beats were of ventricular etiology. Therefore,
+despite my inability to convince myself that there are
+pacing spikes — the fusion beat and widening of the
+QRS for beats #5-thru-10 has to be the result of paced
+QRS complexes.
+BOTTOM Line: Although I was unaware of the concept
+of PVAB prior to reading Dr. Nossenʼs discussion — my
+above “thought process” allowed me to strongly suspect
+that widening of the QRS (that begins with beat #5) —
+but without any change in R-R, P-P and PR intervals —
+had to be indication of pacemaker activity, with
+probable appropriate pacemaker function given
+maintenance of a consistent (albeit rapid) ventricular
+rate.
+Fortunately — formal pacemakerinterrogation in
+todayʼs case was able to confirm appropriate pacemaker
+function. An increase in the ß-blocker dose, together
+with pacemaker reprogramming to VVIR mode restored
+an appropriate ventricular rate.
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 8/13
+--- Страница 9 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+As is so often the case — the pacemaker was doing
+precisely what its ingenious programming designed it to
+do.
+= = =
+= = =
+Magnus Nossen onDecember 3, 2025
+ENDLESS LOOP TACHYCARDIA PACEMAKER-MEDIATED TACHYCARDIA
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+Sam Ghali video: A 55- 4 patients with chest
+year-old woman pain, LVH, and
+complaining of elevated troponin:
+"severe indigestion" which has Occlusion
+MI?
+SEARCH
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 9/13
+--- Страница 10 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 10/13
+--- Страница 11 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 11/13
+--- Страница 12 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Jesse McLaren onDecember 4, 2025
+4 patients with chest pain, LVH, and elevated troponin:
+which has Occlusion MI?
+Written by Jesse McLaren Four patients presented with chest pain, an
+ECG showing LVH, and an elevated troponin. Which patient has an
+acute…
+Steve Smith onDecember 7, 2025
+Chest pain, resolved. Reperfusion T-waves. Should the
+patient go emergently to the cath lab?
+Written by Emily Dawra, one of our superb EM G3 residents, with a
+few edits by Smith. Case: A patient presented to the emergency…
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 12/13
+--- Страница 13 ---
+22/01/2026, 15:19 An 87-year-old with dyspnea and intermittent WCT - Dr. Smith’s ECG Blog
+Steve Smith onDecember 9, 2025
+See Inflated Hyperacute T-waves deflate after
+thrombolytics
+This was sent to me with no information (until later). The conventional
+computer algorithm says “Early Repolarization” The…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/an-87-year-old-with-dyspnea-and-intermittent-wct/ 13/13

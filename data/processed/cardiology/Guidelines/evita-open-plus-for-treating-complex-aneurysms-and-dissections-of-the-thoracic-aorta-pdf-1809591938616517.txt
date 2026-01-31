@@ -1,0 +1,949 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "evita-open-plus-for-treating-complex-aneurysms-and-dissections-of-the-thoracic-aorta-pdf-1809591938616517.pdf",
+  "converted_date": "2026-01-31T14:50:56.514106",
+  "file_size_bytes": 168414,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/evita-open-plus-for-treating-complex-aneurysms-and-dissections-of-the-thoracic-aorta-pdf-1809591938616517.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+E-vita open plus for
+treating complex
+aneurysms and dissections
+of the thoracic aorta
+HealthTech guidance
+Published: 18 December 2013
+Last updated: 1 October 2018
+www.nice.org.uk/guidance/htg326
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+--- Страница 2 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+Your responsibility
+This guidance represents the view of NICE, arrived at after careful consideration of the
+evidence available. When exercising their judgement, healthcare professionals are
+expected to take this guidance fully into account, and specifically any special
+arrangements relating to the introduction of new interventional procedures. The guidance
+does not override the individual responsibility of healthcare professionals to make
+decisions appropriate to the circumstances of the individual patient, in consultation with
+the patient and/or guardian or carer.
+All problems (adverse events) related to a medicine or medical device used for treatment
+or in a procedure should be reported to the Medicines and Healthcare products Regulatory
+Agency using the Yellow Card Scheme.
+Commissioners and/or providers have a responsibility to implement the guidance, in their
+local context, in light of their duties to have due regard to the need to eliminate unlawful
+discrimination, advance equality of opportunity, and foster good relations. Nothing in this
+guidance should be interpreted in a way that would be inconsistent with compliance with
+those duties. Providers should ensure that governance structures are in place to review,
+authorise and monitor the introduction of new devices and procedures.
+Commissioners and providers have a responsibility to promote an environmentally
+sustainable health and care system and should assess and reduce the environmental
+impact of implementing NICE recommendations wherever possible.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
+conditions#notice-of-rights). 31
+--- Страница 3 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+Contents
+1 Recommendations ................................................................................................................. 4
+2 The technology ...................................................................................................................... 5
+Description of the technology .......................................................................................................... 5
+Current management ......................................................................................................................... 6
+3 Clinical evidence ................................................................................................................... 8
+Summary of clinical evidence ........................................................................................................... 8
+4 NHS considerations .............................................................................................................. 15
+System impact .................................................................................................................................... 15
+5 Cost considerations .............................................................................................................. 16
+Cost evidence ..................................................................................................................................... 16
+6 Conclusions ........................................................................................................................... 24
+7 Committee members and NICE lead team .......................................................................... 25
+Medical technologies advisory committee members ..................................................................... 25
+NICE lead team ................................................................................................................................... 27
+8 Sources of evidence considered by the committee .......................................................... 29
+Update information .................................................................................................................. 31
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
+conditions#notice-of-rights). 31
+--- Страница 4 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+This guidance replaces MTG16.
+1 Recommendations
+1.1 The case for adopting the E-vita open plus for treating complex aneurysms and
+dissections of the thoracic aorta, in a carefully selected group of people, is
+supported by the evidence.
+1.2 Using the E-vita open plus could remove the need for a second procedure and
+the associated risk of serious complications, and it should therefore be
+considered for people:
+• who would otherwise need a 2-stage repair procedure because their aortic
+disease extends into or beyond the distal part of their aortic arch (into the
+proximal descending aorta), but
+• who would not need additional intervention (such as stent grafting) in the
+descending aorta.
+1.3 The E-vita open plus is estimated to generate cost savings compared with
+current 2-stage repair from about 2 years after the procedure. The estimated
+cost saving per patient at 5 years after the procedure is around £13,334 when
+compared with 2-stage repair involving open insertion of a vascular graft,
+£10,225 when compared with 2-stage repair involving endovascular stent
+grafting and £12,536 when compared with open surgical debranching followed by
+endoluminal stent grafting. At 10 years after the procedure, the estimated cost
+savings range from around £22,704 to £29,210 across the 3 comparators (see
+section 5.23). [2018]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
+conditions#notice-of-rights). 31
+--- Страница 5 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+2 The technology
+Description of the technology
+2.1 The E-vita open plus (JOTEC GmbH) is an endoluminal stent graft system
+designed for treating aneurysms and dissections of the thoracic aorta. The
+device is a 1-piece polyester fabric tube which combines a conventional vascular
+graft attached to an endovascular stent graft that allows treatment of the
+ascending aorta at the same time as the arch and descending aorta. The E-vita
+open plus supersedes its immediate predecessor device, the E-vita open. The
+2 devices are similar in design and function but the E-vita open plus is
+impermeable to blood, and fibrin glue is not needed to seal the stent graft.
+2.2 The E-vita open plus is a single-use device with a shelf life of 2 years. It is
+supplied sterile and pre-loaded in its delivery system. The device is available in a
+range of sizes with varying diameters and lengths. The delivery system consists
+of a release handle, nested catheters and a positioning aid. A luer connector is
+also incorporated to allow flushing of the inner guide catheter. A stiff guide wire is
+used to aid tracking of the device delivery. Radiopaque markers are integrated
+into the fabric of the graft for radiological imaging.
+2.3 The E-vita open plus received a CE mark in October 2008 for the repair or
+replacement of the thoracic aorta in cases of complex aneurysms or dissections
+that involve the ascending aorta, the aortic arch and the descending aorta.
+2.4 The E-vita open plus is used in a single-stage procedure known as a 'frozen
+elephant trunk'. The thoracic aorta is surgically opened with access through a
+median sternotomy approach. The distal stent graft portion of the device is self-
+expanding, containing nitinol springs, and is used to treat the upper part of the
+descending aorta. The vascular graft part of the device (for repair of the arch and
+ascending aorta) is invaginated in the distal stent graft portion. The stent graft, in
+its delivery system, is inserted into the descending aorta and deployed by
+retracting a retaining sheath. Once the stent graft is in place, the delivery system
+is removed and the proximal vascular graft component is drawn out a short
+distance (5 mm to 10 mm). The stent graft is then surgically anastomosed to the
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
+conditions#notice-of-rights). 31
+--- Страница 6 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+distal aorta. The vascular graft portion of the device is then drawn out fully and
+used to repair the ascending aorta and arch in a standard surgical fashion. The
+aortic branch vessels are attached to the vascular graft using a patch and the
+graft is anastomosed to the ascending aorta.
+2.5 The cost of the E-vita open plus stated in the sponsor's submission was
+£10,500 excluding VAT.
+2.6 The claimed benefits of the E-vita open plus in the case for adoption presented
+by the sponsor are:
+• repair of the ascending aorta, arch and descending aorta in a single-stage
+procedure
+• a reduction in pain and discomfort
+• elimination of the psychological distress associated with the anticipation of a
+second procedure
+• a reduction in treatment times and costs
+• a reduction in total end-organ ischaemia
+• a reduction in incisional complications and infections
+• a reduction in anaesthetic use and the elimination of the need for additional
+epidural pain management
+• a reduction in both total length of stay and intensive care unit length of stay
+• a reduction in rehabilitation time
+• an earlier return to normal activities and work.
+Current management
+2.7 The management of thoracic aortic aneurysms and dissections is determined by
+the location, severity and rate of change of the disease, as well as the clinical
+circumstances. Thoracic aortic aneurysms result from a weakening of the aortic
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
+conditions#notice-of-rights). 31
+--- Страница 7 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+wall, leading to localised dilation. People with thoracic aneurysms are often
+observed with clinical and imaging surveillance. Invasive treatment may be
+offered depending upon the size and rate of enlargement of the aneurysm.
+2.8 Aortic dissections result from a tear in the inner layer of the aorta. Blood flows
+through the tear, separating the layers of the wall. Acute aortic dissections are
+less than 2 weeks old, and chronic dissections have been present for longer than
+2 weeks. Management of aortic dissections depends primarily on their location.
+Emergency surgery is usually offered for a Stanford type A aortic dissection,
+which affects the ascending thoracic aorta and often also the arch and
+descending aorta. Stanford type B dissections, typically involving the descending
+thoracic aorta, are often managed with conservative medical treatment. Elective
+surgical repair is sometimes undertaken, but endovascular repair with stent grafts
+is more commonly used.
+2.9 There are 3 main current methods of surgically treating complex aneurysms and
+dissections of the thoracic aorta, 2 of which involve a 2-stage 'elephant trunk'
+procedure. Both approaches are similar in their first stage but use alternative
+repair techniques to complete the second stage. During the first stage, the
+ascending aorta and arch are repaired with a vascular graft through a median
+sternotomy. During this procedure a free-floating extension of the arch graft
+prosthesis (the 'elephant trunk') is left unattached in the descending aorta.
+Attaching it (and extending it as necessary) may be done by an endovascular
+procedure during which a stent graft is inserted into the descending aorta with
+access via the femoral artery (thoracic endovascular aortic repair – TEVAR).
+Alternatively the descending aorta may be repaired in a second surgical
+procedure some weeks or months later, by extending the 'elephant trunk' as
+necessary, through a lateral thoracotomy approach. The third method involves
+'debranching' of the head and neck vessels from the aortic arch by creating a
+surgical anastomosis between the ascending aorta and the head and neck
+vessels using a vascular graft. This then allows an endoluminal stent graft to be
+inserted into the aortic arch and descending aorta either as a hybrid procedure
+(during the same operation) or at a second-stage operation.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
+conditions#notice-of-rights). 31
+--- Страница 8 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+3 Clinical evidence
+Summary of clinical evidence
+3.1 Full details of all clinical outcomes considered by the committee are available in
+the assessment report overview.
+3.2 The key clinical outcomes for the E-vita open plus presented in the decision
+problem were:
+• completion and success of technical procedure(s)
+• mortality
+• major complications, for example stroke, paraplegia, renal failure, myocardial
+infarction and other events that may delay discharge
+• length of intensive care unit stay
+• total length of hospital stay
+• freedom from further interventions
+• long-term survival rates
+• incidence of junctional endoleak
+• device-related adverse events.
+3.3 The sponsor identified 13 papers relevant to the E-vita open plus. Most of these
+were derived from the International E-vita Open Registry, which is reported to
+contain data on 70% to 80% of patients in 11 European centres who have received
+the E-vita open or open plus devices to treat their complex aortic disease. The
+sponsor excluded 10 (of the 13) papers from further consideration, either
+because the data were already included in a more recent report on the entire
+register dataset at the time of publication (Jakob et al. 2011), or because they
+reported on small numbers of patients or on animal studies. The external
+assessment centre excluded a further 2 papers from its evaluation: a small study
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
+conditions#notice-of-rights). 31
+--- Страница 9 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+with limited follow-up, and a study using the same data as the paper by Jakob et
+al. (2011). The external assessment centre judged that the principal clinical
+evidence for the E-vita open plus was presented in the observational study on
+the International E-vita Open Registry by Jakob et al. (2011).
+3.4 Jakob et al. (2011) reported observational data, gathered between January
+2005 and December 2010, for 274 patients with complex aortic disease enrolled
+in the International E-vita Open Registry from, at the time, 8 European centres.
+This comprised the entire dataset at the time of publication. Details of the
+274 patients treated, in terms of condition and interventions, are shown in tables
+1 and 2. Outcomes were presented as proportions and survival analysis was
+carried out using the Kaplan–Meier technique. Stent-graft deployment and arch
+replacement were carried out under selective antegrade cerebral perfusion
+during a mean time of 75 minutes. Median length of hospital stay was 19 days
+(range 12 to 29). Adverse events are shown in table 3. For patients with
+dissections the false lumen was assessed postoperatively and at a median time
+of 59 months (range 28 to 99) after surgery. The false lumen thrombosed fully in
+83% (62 of 75) of patients with acute aortic dissection, and 72% (68 of 94) of
+patients with chronic aortic dissection. After follow-up these figures rose to 93%
+and 92% respectively. For patients with aneurysms, complete exclusion of the
+aneurysm was achieved in 77% of cases (61 of 79). The overall 5-year survival
+rate was 74%. Of the 233 patients surviving the procedure initially, secondary
+endovascular intervention was needed in 13% (29) and surgery downstream was
+needed in 3% (6) of cases.
+Table 1 Conditions for patients enrolled in the International E-vita Open Registry (Jakob
+et al. 2011)
+Included patients Emergency Previous proximal
+Condition
+(n=274) surgery repair
+Presenting with acute aortic dissection 88 (32%) 77 (88%) -
+Presenting with chronic aortic
+102 (37%) - 71 (70%)
+dissection
+Presenting with thoracic aortic
+84 (31%) - -
+aneurysm
+Underlying condition of Marfan's
+12 (5%) - -
+syndrome
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
+conditions#notice-of-rights). 31
+--- Страница 10 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+Table 2 Interventions for patients enrolled in the International E-vita Open Registry
+(Jakob et al. 2011)
+Interventions received during treatment with the E-vita Included patients Emergency Previous proximal
+open plus (n=274) surgery repair
+Arch replacement with E-vita open plus 151 (55%) - -
+Arch replacement with other prosthesis 123 (45%) - -
+Additional coronary artery bypass graft 43 (16%) - -
+3.5 The sponsor presented limited evidence on clinical outcomes for 2-stage
+procedures to allow comparison with those for the E-vita open plus. The external
+assessment centre therefore carried out a systematic review and meta-analysis
+of available data for the comparator procedures. The review identified 10 papers
+and the meta-analysis provided pooled estimates of outcome rates with 95%
+confidence intervals for in-hospital and 30 day mortality, stroke, bleeding,
+paraplegia and renal failure, which were the main complications reported in the
+literature. The external assessment centre was unable to calculate single
+outcome estimates for the combined 2-stage procedures because of a lack of
+data. It judged that direct comparisons between the E-vita open plus and the
+comparators would therefore be complex and that the figures did not take into
+account factors such as survival from stage 1 to 2 or the impact of the combined
+outcomes for each procedure. Long-term survival rates could not be included in
+the meta-analysis because no confidence intervals were reported and individual
+patient data were not available. The pooled estimate data for the comparators are
+shown in table 3.
+Table 3 Adverse events for the E-vita open plus, as reported in Jakob et al. (2011), and
+comparators
+2-stage repair
+E-vita open plus 2-stage open surgical repair Open surgical 'debranching'
+with
+(Jakob et al. 2011), n with vascular graft with endoluminal stent graft
+- Stage endovascular
+(%; 95% confidence placement,% (95% placement (2-stage
+stent graft
+interval) confidence interval) procedure)
+placement
+8.9%
+41 (15.0%; 13.5% (4.5% to
+In-hospital
+1 8.5% (6.4% to 11.1%) (3.4% to
+mortality 11.0% to 19.7%) 28.8%)
+21.4%)
+9.6%
+In-hospital
+2 - 8.0% (5.6% to 11.2%) (4.4% to 3.7% (0.1% to 19.0%)
+mortality
+19.8%)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10
+conditions#notice-of-rights). of 31
+--- Страница 11 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+2-stage repair
+E-vita open plus 2-stage open surgical repair Open surgical 'debranching'
+with
+(Jakob et al. 2011), n with vascular graft with endoluminal stent graft
+- Stage endovascular
+(%; 95% confidence placement,% (95% placement (2-stage
+stent graft
+interval) confidence interval) procedure)
+placement
+33 (12.0%;
+30-day
+1 7.5% (5.4% to 10.5%) - -
+mortality 8.4% to 16.5%)
+3.2%
+30-day
+2 - 5.9% (1.6% to 19.0%) (0.08% to -
+mortality
+16.7%)
+38 (13.9%; 4.2%
+Re-
+exploration 1 10.0% to 4.6% (2.8% to 7.4%) (0.1% to 8.1% (1.7% to 21.9%)
+for bleeding
+18.5%) 21.1%)
+5.6%
+Re-
+exploration 2 - 3.7% (1.7% to 7.8%) (0.1% to -
+for bleeding
+27.3%)
+7.4%
+16 (5.8%;
+Stroke 1 3.4% (2.3% to 4.9%) (3.3% to 8.1% (1.7% to 21.9%)
+3.4% to 9.3%)
+16.1%)
+Stroke 2 - 3.9% (1.1% to 13.0%) - 3.7% (0.1% to 19.0%)
+4.2%
+22 (8.0%;
+Paraplegia 1 - (0.1% to -
+5.1% to 11.9%)
+21.1%)
+7.8%
+Paraplegia 2 - 4.1% (1.6% to 9.8%) (3.0% to -
+19.1%)
+12.5%
+10 (3.6%; 8.5% (3.4% to
+Renal failure
+1 (2.7% to -
+(permanent) 1.8% to 6.6%) 19.6%)
+32.4%)
+Renal failure
+2 - 6.0% (1.1% to 27.6%) - -
+(permanent)
+95% confidence intervals were calculated by the external assessment centre, and pooled
+outcome estimates for the comparator technologies were taken from the external
+assessment centre's meta-analysis.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
+conditions#notice-of-rights). 31
+--- Страница 12 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+3.6 During consultation, an additional clinical report was identified that presented
+more recent data from the International E-vita Open Registry (Jakob and
+Tsagakis, 2013). The paper reported outcomes for in-hospital mortality, stroke,
+paraplegia and 5-year survival rates for a total of 416 patients from
+11 international centres. No outcomes were reported for 30-day mortality,
+bleeding or renal failure. Figures for 5-year survival rates were reported for
+3 subgroups but no overall figure was reported or could be calculated from the
+data presented. The external assessment centre determined that, overall, there
+was insufficient information available, in terms of completeness or long-term
+follow-up, to provide additional reliable estimates of outcome rates beyond those
+derived from the Jakob et al. (2011) study (see section 3.4).
+Committee considerations
+3.7 The committee considered that the clinical evidence was limited because it was
+restricted to observational studies. However, it considered that the evidence was
+sufficient, when taken together with clinical expert advice, to conclude that the
+E-vita open plus is effective for use in a selected group of people (see sections
+3.10 to 3.11).
+3.8 The committee considered that the pooled estimates of outcomes for the
+comparators produced by the external assessment centre indicated that more
+bleeding would be likely to occur with the E-vita open plus (13.9%) than with the
+comparators (ranging from 4.2% to 8.1% at stage 1, and from 3.7% to 5.6% at
+stage 2). The committee was advised that bleeding was a complication
+experienced with both the E-vita open plus and the comparators and that excess
+bleeding with the E-vita open plus may have reflected incorrect choice of device
+size during early experiences of its use. It was mindful that bleeding is a
+complication which is normally controlled at the time of surgery, without patients
+experiencing long-lasting adverse consequences, in contrast to the other major
+adverse events (stroke, paraplegia and renal failure) which may have serious
+consequences for patients in the long term.
+3.9 The committee was advised that patient selection would be important in realising
+the claimed benefits of the E-vita open plus. The committee heard expert clinical
+advice that the E-vita open plus is primarily suitable for people needing aortic
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12
+conditions#notice-of-rights). of 31
+--- Страница 13 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+arch repair and that the device enables repair to the arch to be completed more
+rapidly than by other techniques. Expert advice also confirmed that in people
+whose aortic disease extends less than 10 cm into the descending aorta (based
+on the size of the stent graft portion of the device), the E-vita open plus would
+allow a complex repair in a single procedure.
+3.10 The committee concluded that in people with aneurysms or acute aortic
+dissections needing repair of the aortic arch and ascending aorta, if the disease
+extends less than 10 cm into the descending aorta, the E-vita open plus would be
+a suitable treatment. The committee recognised that the E-vita open plus might
+be suitable for use in other people with more extensive disease in the descending
+aorta that would need multiple stent grafts. However, it decided that the potential
+benefits of the technology for these people were not clear, based on the
+evidence presented. The committee therefore considered that making a
+recommendation for use of the technology in those with more extensive disease
+in the descending thoracic aorta was not possible.
+3.11 The committee was advised that many people for whom treatment with the E-vita
+open plus would be suitable have progressive aortic disease that would need
+further interventions, regardless of whether the repair was carried out in a single
+or 2-stage procedure. It was advised that this is significantly more likely in people
+with connective tissue disorders such as Marfan's syndrome than in those with
+atherosclerotic disease.
+3.12 The committee judged that the main advantage of the E-vita open plus is the
+avoidance of a second procedure with its associated serious risks, which include
+stroke, renal failure, paraplegia and bleeding. The committee was advised by
+clinical experts that some people decide not to return for a second procedure
+because of negative experiences from the first operation. The committee
+considered that the opportunity to repair the aorta in a single procedure would
+confer significant benefits to these people.
+3.13 The committee was advised by clinical experts that the estimate in the scope for
+the number of people in England (50 to 100 per year) eligible for treatment was
+reasonable.
+3.14 The committee considered the paper by Jakob and Tsagakis (2013), but judged
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13
+conditions#notice-of-rights). of 31
+--- Страница 14 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+that the outcomes it reported did not add to the evidence base for the E-vita
+open plus: no data for 30-day mortality, bleeding or renal failure were reported. It
+considered that the included outcome data did not differ significantly from those
+reported by Jakob et al. (2011) and would not alter the outcomes from the
+external assessment centre's cost analysis.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14
+conditions#notice-of-rights). of 31
+--- Страница 15 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+4 NHS considerations
+System impact
+4.1 The sponsor stated that using the E-vita open plus could allow repair of the
+thoracic aorta in a single procedure, when a 2-stage procedure would otherwise
+be necessary. It claimed that this would consequently reduce overall length of
+stay in hospital and reduce the risk of complications needing hospital treatment.
+The clinical evidence consisted of the study by Jakob et al. (2011), which
+contained no comparative data about resource use during other aortic repair
+techniques. The review and meta-analysis carried out by the sponsor focused on
+clinical outcomes rather than resource implications.
+Committee considerations
+4.2 The committee was satisfied that a second repair procedure could be avoided by
+using the E-vita open plus in a selected group of people and that this could
+reduce associated NHS resource use.
+4.3 The committee was advised that aortic repair using the E-vita open plus is a
+highly specialised procedure, carried out in a small number of centres, in a small
+patient group. Despite these limitations, the committee considered that the
+potential benefits of releasing operating theatre and clinical time by avoiding the
+need for a second procedure could be significant. It recognised that the
+resources needed for treating complications associated with a second procedure
+(some of which would be severe and would result in long-term disability) would
+also be released.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15
+conditions#notice-of-rights). of 31
+--- Страница 16 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+5 Cost considerations
+Cost evidence
+5.1 Neither the sponsor nor the external assessment centre identified any relevant
+published economic evidence for the E-vita open plus or for the comparator
+techniques.
+5.2 The sponsor submitted a de novo analysis comparing the use of the E-vita open
+plus against a 2-stage classical 'elephant trunk' procedure in terms of overall
+costs, in-hospital mortality and adoption rates. The population was a cohort of
+3,500 people with aneurysms, dissections and other specified lesions of the
+thoracic aorta. The model consisted of 2 decision trees over a 1-year time
+horizon:
+• a current practice model using the classical 'elephant trunk' procedure
+• an intervention model comparing current practice against use of the E-vita
+open plus at a 40% adoption rate.
+5.3 The first stage of the current practice arm was divided into 2 options: woven
+graft or branched graft. For patients undergoing stage 2, the options were woven
+graft (open surgery) or endovascular stent graft. Following clarification from the
+sponsor, these options were further defined as follows:
+• Woven graft at stages 1 and 2 referred to 2-stage open surgical repair with
+vascular graft placement.
+• Woven graft followed by stent graft at stage 2 referred to 2-stage repair with
+open surgical graft placement in the ascending aorta and arch and
+endovascular stent graft placement in the descending aorta.
+• Branched graft followed by woven or stent graft at stage 2 referred to open
+surgical 'debranching' of the head and neck vessels with endoluminal stent
+graft placement in the aortic arch and either a vascular graft or endovascular
+stent graft in the descending aorta.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16
+conditions#notice-of-rights). of 31
+--- Страница 17 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+5.4 The sponsor carried out 1- and 2-way sensitivity analyses to include base-case,
+worst-case and best-case scenarios in its analysis.
+5.5 The key assumptions used in the model were:
+• In-hospital and 30-day mortality was 15% for the E-vita open plus, based on
+data from the paper by Jakob et al. (2011).
+• The remaining 85% of patients treated would not experience other
+complications.
+• Mortality rates were 20% for woven graft and 30% for branched graft at
+stage 2.
+• The number of inpatient days for the classical elephant trunk procedure was
+10 at stage 1 and 15 at stage 2.
+• The number of inpatient days for the endovascular stent procedure was 10 at
+stage 1 and 8 at stage 2.
+• The number of inpatient days for the E-vita open plus was 4 in the intensive
+care unit and 6 in a surgical ward.
+5.6 Technology costs were provided by the sponsor. The cost of the E-vita open plus
+was £10,500 and the comparator costs were £200 for a woven graft for stages
+1 and 2, £1,000 for a branched graft, and £5,000 for an endovascular stent graft.
+Consumable costs (mainly for the guide wire, estimated to be £130) were not
+included because the sponsor considered these to be the same for the
+technology and comparators. Cost estimates for clinical time and resource use
+were sourced from published literature, the Personal Social Services Research
+Unit (PSSRU) unit costs of health and social care manual, and NHS reference
+costs.
+5.7 The cost of a surgeon was estimated to be £399 per hour and the costs of a
+perfusionist and anaesthetist were each estimated to be £87 per hour (registrar
+rate). The cost for theatre time, including nursing and consumables, was
+estimated to be £24 per hour, and £30 per hour for corresponding intensive care
+unit costs. These were derived from the NHS tariff for admitted patient case and
+outpatient procedures but no codes were specified. The sponsor used a daily
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17
+conditions#notice-of-rights). of 31
+--- Страница 18 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+cost for an intensive care unit stay of £1,500, taken from a report in The Lancet.
+The cost of a surgical ward inpatient stay was taken to be £420 per day, based
+on 2 different tariff codes. The cost of death cited by the sponsor (£8,000) was
+taken from a cancer network publication.
+5.8 The sponsor carried out 1-way sensitivity analyses varying the adoption rate from
+20% to 100% (in the modelled population of 3,500 patients assumed to be eligible
+for the E-vita open plus). The proportion of woven or branched grafts used at
+stage 1 was varied from 60% to 95% from a base-case estimate of 85%. The
+proportional suitability for a second stage operation was varied from a base case
+of 80% to 60% and 95%, and the proportion of patients having each
+stage 2 procedure was varied from a 50% base case to 40% and 100%. The
+sponsor also carried out a 2-way sensitivity analysis varying the in-hospital death
+rate at stage 1 of the classical elephant trunk procedure and for the E-vita open
+plus.
+5.9 The sponsor presented the results of its de novo analysis as an average cost per
+patient, assuming a 100% adoption level (rather than the 40% adoption level
+described in the model decision tree in section 5.2) for the E-vita open plus
+compared with current practice. The cost for the E-vita open plus was
+£25,689 and the overall cost presented for the comparators was £30,241,
+indicating a cost saving per patient of £4,553 if the E-vita open plus was used.
+The cost per patient varied across the different comparators, ranging from
+£26,691 for woven graft (stage 1) with endovascular stent (stage 2) to
+£36,016 for branched graft (stage 1) with woven graft (stage 2).
+5.10 The sponsor's sensitivity analysis showed little variation in the cost savings
+generated for the E-vita open plus at different adoption levels, with an average
+cost saving of around £4,358. The sponsor reported that varying the parameters
+for second-stage suitability and in-hospital death had an impact on the cost
+savings, but that this was relatively small. Varying the suitability of a second
+stage operation produced higher cost savings per patient if the level of suitability
+was raised. The sponsor did not consider the subgroups defined in the scope in
+its de novo analysis because of a lack of available data on the comparators.
+5.11 The external assessment centre considered that the sponsor's de novo cost
+model was flawed because it did not include the short- or long-term costs of
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18
+conditions#notice-of-rights). of 31
+--- Страница 19 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+complications and because some of the costs and clinical parameters were
+inaccurate or inappropriate. Specifically, the external assessment centre
+considered that a per-patient, rather than a cohort, approach would have been
+more useful and that the estimated cohort of 3,500 patients was too large.
+5.12 The external assessment centre carried out additional modelling to address these
+issues, constructing short- and long-term models that included the costs of
+complications (stroke, paraplegia, renal failure and bleeding). Both models
+compared per-patient costs for the E-vita open plus and the 3 comparators
+defined in the scope. A decision tree was constructed for each procedure in each
+model. In-hospital mortality was modelled at each stage of each procedure. The
+time horizon for the short-term model was 1 year, as the external assessment
+centre considered that stage 2 procedures were likely to be carried out within
+6 months of stage 1. The long-term model had a 20 year time horizon, based on
+the UK life expectancy of the average age (65 years) of those receiving treatment
+described in published literature. Lifetime costs of complications were included in
+this model.
+5.13 In the short-term model for each comparator, patients with no complications or
+bleeding at stage 1 were assumed to proceed to the second stage procedure,
+whereas it was assumed that those who had a stroke, renal failure or paraplegia
+would not. In the long-term model, the annual costs of care for stroke, paraplegia
+and renal failure were taken from published literature and discounted at 3.5%.
+The discounted annual cost was multiplied by a survival probability for 65 to
+85 years and the weighted annual costs were summed to estimate the lifetime
+cost of the complications.
+5.14 The external assessment centre estimated the probabilities of the outcomes at
+each stage from the register data for the E-vita open plus and from its meta-
+analysis of the clinical evidence on the comparator procedures. The probability of
+paraplegia at stage 1 was assumed to be the same for 2-stage repair with
+vascular graft and 2-stage repair with endovascular stent graft. For open
+debranching, the probability of paraplegia and that of renal failure at stage 1 was
+taken from hybrid procedure estimates. Operating times and total lengths of stay
+for all the comparators were sourced from published literature. Operating time for
+the E-vita open plus and details of the surgical team involved for each procedure
+were taken from the sponsor's model. The team included a consultant surgeon,
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19
+conditions#notice-of-rights). of 31
+--- Страница 20 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+consultant anaesthetist, associate specialist, perfusionist and 2 specialist nurses.
+A consultant radiologist was included for stage 2 procedures involving stent
+grafts.
+5.15 The external assessment centre used technology and comparator costs from the
+sponsor's model but derived more precise estimates for staff and ward stay costs
+than those used by the sponsor (as described in section 5.7). Costs for each
+professional in the surgical team were taken from PSSRU 2012 unit costs. The
+costs for an intensive care unit and surgical ward stay were sourced from NHS
+reference costs at £1,410 per day and £383 per day respectively.
+5.16 Complications were assumed to incur additional in-hospital management costs
+and a single cost figure was applied across all procedures (£2,155). The annual
+cost for stroke care was estimated to be £9,597 at 2012 prices, from the NICE
+guideline on atrial fibrillation: diagnosis and management. The annual cost of
+paraplegia was estimated to be £14,580, based on published literature and
+inflated to 2012 prices. The annual cost for renal failure used was £32,961, taken
+from the NICE guideline on renal replacement therapy and conservative
+management and inflated to 2012 prices.
+5.17 Costs for multiple stents were included in the analysis and sourced from the
+sponsor's submission. However, the external assessment centre was not able to
+model the probable outcomes from using multiple stents, citing a lack of available
+clinical evidence.
+5.18 Results of the short-term model showed that treatment with the E-vita open plus
+could generate a cost saving of £280 per patient when compared against
+2-stage repair with vascular graft. The E-vita open plus incurred costs when
+compared against 2-stage repair with endovascular stent graft (£4,760) and also
+when compared against open debranching with endoluminal stent graft (£7,663).
+5.19 Results from the long-term model, which included the lifetime costs of
+complications, showed that treatment with the E-vita open plus could generate
+significant cost savings when compared with all 3 comparator procedures. The
+estimated saving per patient 20 years after the procedure was £41,213 when
+compared against 2-stage repair with vascular graft, £39,392 when compared
+against 2-stage repair with endovascular stent graft and £51,778 when compared
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20
+conditions#notice-of-rights). of 31
+--- Страница 21 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+against open debranching with endoluminal stent graft.
+5.20 The external assessment centre carried out a deterministic sensitivity analysis to
+investigate the impact of uncertainty on the likelihood and costs of complications.
+The probabilities of in-hospital mortality and paraplegia were varied separately
+based on their 95% confidence intervals from the external assessment centre's
+meta-analysis of the clinical evidence. The overall management costs and the
+annual costs of complications were varied separately using minimum and
+maximum ranges identified in the literature, if available. The proportion of days
+spent in an intensive care unit and the cost of an intensive care unit day were
+also varied to reflect uncertainty in the number of organs needing support.
+Results of the sensitivity analysis showed that varying the probability of in-
+hospital mortality and paraplegia for the E-vita open plus, or the management or
+annual costs of complications, did not substantially change the expected cost
+savings in the base-case estimate. In the short-term model, varying the
+proportion of days spent in the intensive care unit did change the observed cost
+savings. At a 20% level, the E-vita open plus incurred costs when compared with
+all 3 comparators. At a 60% level, there were cost savings for the E-vita open plus
+compared against 2-stage repair with vascular graft. Varying the cost of intensive
+care unit stay affected the short-term model results in a similar way, but neither
+variable substantially altered the cost savings in the long term.
+5.21 The external assessment centre acknowledged some limitations in its model.
+Complications were assumed to occur only in the short term, because data were
+not available about their occurrence in the longer term. However, clinical expert
+advice indicated that the majority of complications would occur during or shortly
+after the intervention. The external assessment centre recognised that a more
+complex model (such as Markov or discrete event simulation) might have
+facilitated a more refined analysis and noted that the sensitivity analysis did not
+account for the possibility of multiple complications occurring in individual
+patients.
+5.22 The external assessment centre developed a profile of year-on-year costs for the
+long-term model from year 1 to year 20. The E-vita open plus was estimated to
+be cost saving at and beyond 2 years after the procedure compared with all
+3 comparator procedures. For example, when compared with 2-stage repair with
+vascular grafting, the base-case cost savings per person treated with the E-vita
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21
+conditions#notice-of-rights). of 31
+--- Страница 22 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+open plus were £6,057 at 2 years after the procedure, £13,822 at 5 years, and
+£24,948 at 10 years. When compared with 2-stage repair with endovascular stent
+grafting, the cost savings were £1,471 at 2 years after the procedure, £9,847 at
+5 years, and £21,847 at 10 years. When compared with open surgical
+debranching with endoluminal stent grafting, the cost savings were £726 at
+2 years after the procedure, £12,003 at 5 years, and £28,158 at 10 years.
+5.23 For the guidance review, the external assessment centre revised the model to
+reflect 2018 costs. The major changes in the update relate to acute care costs of
+adverse events and staff costs. In the original model, the acute care cost of
+adverse events was calculated as £2,155; in the revised model, the costs depend
+on the type of adverse event and range from £498 for bleeding to £11,663 for
+paraplegia. Staff costs in the revised model were taken from the Personal Social
+Services Research Unit (PPSRU) 2017 and were often cheaper. Base-case results
+for the 2018 revised model show that estimated cost savings per patient at 5
+years after the procedure are:
+• £13,334 compared with 2-stage repair involving open insertion of a vascular
+graft.
+• £10,225 compared with 2-stage repair involving endovascular stent grafting.
+• £12,536 compared with open surgical debranching followed by endoluminal
+stent grafting.
+These saving increase across the 3 comparators in the longer term. Further
+details of the 2018 revised model are in the revised model summary. [2018]
+Committee considerations
+5.24 The committee recognised the difficulties of cost modelling based on the limited
+clinical evidence. It considered that the external assessment centre's critique of
+the sponsor's cost analysis was generally valid and judged its additional
+modelling to be sufficiently robust to provide a reasonable estimate of potential
+cost savings.
+5.25 The committee heard clinical expert advice that 10% to 20% of people treated
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22
+conditions#notice-of-rights). of 31
+--- Страница 23 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+with the E-vita open plus might need a second procedure. It was advised that
+reintervention was likely for people with connective tissue disorders regardless of
+whether they had a 1- or 2-stage procedure initially. The external assessment
+centre had been unable to include the possibility of reintervention in its model,
+citing a lack of data on which to base estimates. The external assessment centre
+advised the committee that including the assumption that 10% to 20% of people
+would need reintervention would not substantially change the findings from the
+long-term model.
+5.26 The committee recognised that the E-vita open plus could incur costs in the short
+term when compared with most methods of current practice. However, the
+opportunity to avoid a second stage procedure by using the E-vita open plus
+would reduce resource use. The committee accepted the external assessment
+centre's year-on-year costs profile and concluded that the E-vita open plus was
+likely to have a cost advantage from year 2 onwards.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23
+conditions#notice-of-rights). of 31
+--- Страница 24 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+6 Conclusions
+6.1 The committee concluded that use of the E-vita open plus would be likely to
+provide benefits compared with current practice for a small group of people with
+disease of the ascending aorta, aortic arch and the proximal descending aorta.
+Benefits would be conferred by eliminating the need for a second procedure and
+the associated risk of serious complications. Patients would need to be selected
+carefully based on the extent of their thoracic aortic disease.
+6.2 The committee recognised that some people for whom treatment with the E-vita
+open plus would be suitable would have progressive aortic disease needing
+reintervention in the future, regardless of the method of repair used initially. This
+would be significantly more likely in people with connective tissue disorders such
+as Marfan's syndrome than in those with atherosclerotic conditions.
+6.3 The committee concluded that using the E-vita open plus in the NHS was likely to
+save money compared with current standard practice in the longer term, from
+about 2 years after the intervention.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24
+conditions#notice-of-rights). of 31
+--- Страница 25 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+7 Committee members and NICE lead
+team
+Medical technologies advisory committee members
+The medical technologies advisory committee is a standing advisory committee of NICE. A
+list of the committee members who took part in the discussions for this guidance appears
+below.
+Committee members are asked to declare any interests in the technology to be evaluated.
+If it is considered there is a conflict of interest, the member is excluded from participating
+further in that evaluation.
+The minutes of each medical technologies advisory committee meeting, which include the
+names of the members who attended and their declarations of interests, are posted on the
+NICE website.
+Professor Bruce Campbell (Chair)
+Consultant Vascular Surgeon, Exeter
+Dr Peter Groves (Vice Chair)
+Consultant Cardiologist, Cardiff and Vale NHS Trust
+Professor Dilly Anumba
+Chair of Obstetrics and Gynaecology/Honorary Consultant Obstetrician and
+Gynaecologist, University of Sheffield
+Ms Susan Bennett
+Lay member
+Dr Keith Blanshard
+Consultant Interventional Radiologist, University Hospitals of Leicester NHS Trust
+Professor Nigel Brunskill
+Professor of Renal Medicine, University of Leicester
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25
+conditions#notice-of-rights). of 31
+--- Страница 26 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+Mr Andrew Chukwuemeka
+Consultant Cardiothoracic Surgeon, Imperial College Healthcare NHS Trust
+Professor Daniel Clark
+Head of Clinical Engineering, Nottingham University Hospitals NHS Trust
+Professor Tony Freemont
+Professor of Osteoarticular Pathology, University of Manchester
+Professor Peter Gaines
+Consultant Interventional Radiologist, Sheffield Vascular Institute and Sheffield Hallam
+University
+Professor Shaheen Hamdy
+Professor of Neurogastroenterology, University of Manchester
+Mr Matthew Campbell-Hill
+Lay member
+Dr Jerry Hutchinson
+Independent Medical Technology Adviser
+Dr Cynthia Iglesias
+Senior Research Fellow in Health Economics, University of York
+Dr Greg Irving
+General Practitioner, University of Liverpool
+Professor Mohammad Ilyas
+Professor of Pathology, University of Nottingham
+Dr Eva Kaltenthaler
+Reader in Health Technology Assessment, ScHARR, University of Sheffield
+Dr Paul Knox
+Reader in Vision Science, University of Liverpool
+Mrs Jacqui Nettleton
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26
+conditions#notice-of-rights). of 31
+--- Страница 27 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+Programme Director, Commissioning, Western Sussex Hospitals NHS Trust
+Mrs Karen Partington
+Chief Executive, Lancashire Teaching Hospitals NHS Foundation Trust
+Professor Brian J Pollard
+Professor of Anaesthesia, University of Manchester; Consultant Anaesthetist, Central
+Manchester University Hospitals
+Mr Brian Selman
+Managing Director, Selman & Co
+Professor Wendy Tindale
+Scientific Director, Sheffield Teaching Hospitals NHS Foundation Trust
+Professor Allan Wailoo
+Professor of Health Economics, School of Health and Related Research (ScHARR),
+University of Sheffield
+Mr John Wilkinson
+Director of Devices, MHRA
+Dr Janelle Yorke
+Lecturer and Researcher in Nursing, University of Manchester
+NICE lead team
+Each medical technology assessment is assigned a lead team of a NICE technical analyst
+and technical adviser, an expert adviser, a technical expert, a patient expert (if
+appropriate), a non-expert member of the medical technologies advisory committee and a
+representative of the external assessment centre.
+Joanne Higgins
+Technical Analyst
+Mark Campbell
+Associate Director
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27
+conditions#notice-of-rights). of 31
+--- Страница 28 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+Bernice Dillon
+Technical Adviser
+Stephen Large
+Lead Expert Adviser
+Jorge Mascaro
+Lead Expert Adviser
+Jacqui Nettleton
+Non-Expert MTAC Member
+Muralikrishnan Radhakrishnan Kartha
+External Assessment Centre Representative
+Janet Peacock
+External Assessment Centre Representative
+Rachel Clough
+External Assessment Centre Representative
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28
+conditions#notice-of-rights). of 31
+--- Страница 29 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+8 Sources of evidence considered by the
+committee
+The external assessment centre report for this assessment was prepared by King's
+Imaging Technology Evaluation Centre (KITEC):
+• Clough R, Keevil S, Lewis C et al. E-vita open plus for treating complex aneurysms and
+dissections of the thoracic aorta (June 2013).
+Submissions from the following sponsor:
+• JOTEC Gmbh.
+The following individuals gave their expert personal view on the E-vita open plus by
+providing their expert comments on the draft scope and assessment report:
+• Mr Marcus Brooks, nominated by the Vascular Society of Great Britain and Ireland.
+• Mr Stephen Large, ratified by the Society of Cardiothoracic Surgery of Great Britain
+and Ireland.
+• Professor Peter Taylor, ratified by the Vascular Society of Great Britain and Ireland.
+• Professor Matt Thompson, ratified by the British Society for Endovascular Therapy.
+The following individuals gave their expert personal view on the E-vita open plus in writing
+by completing a patient questionnaire or expert adviser questionnaire provided to the
+committee:
+• Prof John Brennan, nominated by the Vascular Society of Great Britain and Ireland.
+• Mr Marcus Brooks, nominated by the Vascular Society of Great Britain and Ireland.
+• Mr Graham Cooper, ratified by the Society of Cardiothoracic Surgery of Great Britain
+and Ireland.
+• Dr Mo Hamady, ratified by the British Society of Interventional Radiology.
+• Mr Michael Jenkins, nominated by the Vascular Society of Great Britain and Ireland.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29
+conditions#notice-of-rights). of 31
+--- Страница 30 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+• Mr Stephen Large, ratified by the Society of Cardiothoracic Surgery of Great Britain
+and Ireland.
+• Mr Jorge Mascaro, ratified by the Society of Cardiothoracic Surgery of Great Britain
+and Ireland.
+• Professor Matt Thompson, ratified by the British Society for Endovascular Therapy.
+• Prof Olaf Wendler, ratified by the Royal College of Surgeons.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30
+conditions#notice-of-rights). of 31
+--- Страница 31 ---
+E-vita open plus for treating complex aneurysms and dissections of the thoracic aorta
+(HTG326)
+Update information
+October 2018: This guidance has been updated to include a review of the cost model
+using more recent values. Updated costs identified during the guidance review are
+denoted as [2018].
+Minor changes since publication
+December 2025: Medical technologies guidance 16 has been migrated to HealthTech
+guidance 326. The recommendations and accompanying content remain unchanged.
+ISBN: 978-1-4731-7632-4
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31
+conditions#notice-of-rights). of 31

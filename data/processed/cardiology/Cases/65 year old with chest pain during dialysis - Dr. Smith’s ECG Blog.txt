@@ -1,0 +1,355 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:37:48.282084",
+  "file_size_bytes": 6020017,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:24 65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  65 year old with chest pain during dialysis
+Jesse McLaren onJune 29, 2025
+65 year old with chest pain
+during dialysis
+Written by Jesse McLaren, with edits by Smith
+A 65 year old with history of CABG and end stage renal disease developed
+sudden chest pain and diaphoresis during routine dialysis, and was given three
+nitro sprays and then sent to the emergency department. On arrival, heart rate was
+145 and BP 75/50. What do you think? 
+
+https://drsmithsecgblog.com/65-year-old-kg-done-with-chest-pain/ 1/11
+--- Страница 2 ---
+22/01/2026, 15:24 65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog
+There’s a wide complex tachycardia which is regular (so not AF) and without
+preceding P
+waves (so not sinus tach). There is an LBBB appearance in the precordial leads,
+but the limb leads have rS complexes in I/aVL rather than monophasic R waves –
+making it non-specific intraventricular conduction delay (IVCD). There are no
+obvious
+features of hyperkalemia (eg very wide QRS, peaked T waves). Instead, There’s
+fast septal depolarization in V1-3 (narrow rS) suggesting supraventricular
+origin. With the abnormal depolarization there’s expected discordant
+repolarization abnormalities, which are exaggerated by the tachy-arrhythmia –
+producing diffuse ST depression with reciprocal STE in aVR. But there’s
+unexpected concordant STE in III, which could be subepicardial (i.e.,
+analogous to OMI) secondary to the tachy-arrhythmia or from primary ACS.
+Bottom line: unstable non-sinus tachy-arrhythmia: cardiovert and reassess.
+The patient spontaneously cardioverted and systolic BP increased to the 90s, but
+had
+ongoing chest pain. Repeat ECG:
+What do you think?
+Sinus rhythm with PVC, first degree AV block, and same QRS morphology as
+during
+tachy-arrhythmia – confirming it was supraventricular. The final blinded read was
+non-specific IVCD, suggesting that all ST/T changes are secondary to abnormal
+depolarization. But there is still ongoing inappropriate concordant ST
+elevation III and reciprocal ST depression I/aVL, as well as mild concordant ST
+depression
+in V2 – indicating superimposed primary ischemic changes from inferior +/-
+posterior OMI.
+Old MI can result in Q waves with residual STE (LV aneurysm morphology),
+which in the inferior leads can be difficulty to distinguish from acute OMI. But
+when this is the case, the Q-wave is MUCH more prominent and always more
+prominent than the R-wave. Moreover, this was new compared to an old ECG:
+https://drsmithsecgblog.com/65-year-old-kg-done-with-chest-pain/ 2/11
+--- Страница 3 ---
+22/01/2026, 15:24 65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog
+The old ECG also had a narrower QRS, so cath lab was activated both for “new
+LBBB” as well as concordant inferior ST elevation. But it’s not a true LBBB, and
+“new LBBB” is no longer an indication for cath lab activation. However, despite
+not being a true LBBB, the principle of inappropriate concordance is still helpful
+in identifying OMI.
+Even without a prior to compare, this ECG in a patient with a high pre-test
+likelihood of ACS is diagnostic of OMI. Here’s the Queen’s interpretation,
+highlighting concordant STE and reciprocal STD:
+New PMcardio for Individuals App 3.0 now includes
+the latest Queen of Hearts model and AI explainability (blue
+heatmaps)! Download now for iOS or Android.
+https://www.powerfulmedical.com/pmcardio-individuals/
+(Drs. Smith and Meyers trained the AI Model and are
+shareholders in Powerful Medical.)
+What about the initial troponin?
+Troponin is often chronically elevated in a dialysis patients, and can rise from the
+demand ischemia of tachy-arrhythmias or other shock states. The initial troponin
+is an unreliable marker of acute OMI (it can be normal acutely, and even if
+elevated it lags far behind the myocardial damage), and doesn’t provide real-time
+information to distinguish Occlusion MI from Non-Occlusion MI. So in this
+patient the initial troponin would not help differentiate chronic myocardial injury,
+type 2 MI from tachyarrhythmia demand ischemia, and type 1 MI from OMI or
+NOMI due to plaque rupture (ACS) – and if OMI, waiting for troponin would cost
+myocardium.
+https://drsmithsecgblog.com/65-year-old-kg-done-with-chest-pain/ 3/11
+--- Страница 4 ---
+22/01/2026, 15:24 65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog
+So this is a clinical diagnosis, aided by ECG.
+Fortunately the patient was immediately taken to cath lab without waiting for the
+troponin,
+with a door to cath time of only 45 minutes. There was a 95% left circumflex
+occlusion which was stented. First troponin I was 80 ng/L (only slightly higher
+than the patient’s baseline of 50ng/L), which rose to 500, then 2,000 and then a
+peak of 8,000 ng/L. Follow up ECG
+showed resolution of the primary ischemic ST changes, and subtle infero-
+posterior reperfusion T wave inversion compared with baseline:
+Take home
+1. If a patient is unstable from a WCT and the differential is narrowed to VT vs
+SVT with aberrancy (eg not AF, sinus tach, or hyperkalemia/sodium channel
+toxicity), then the treatment is immediate cardioversion regardless
+2. Tachy-arrhythmias can cause secondary ST/T changes due to supply/demand
+mismatch that can be reassessed after cardioversion. When the troponin is
+elevated, this is one of the etiologies of “Type 2 MI”
+3. ‘New LBBB’ is not an indication for cath lab activation
+4. Inappropriate concordant STE can identify OMI in both LBBB and IVCD
+5. First troponin is an unreliable marker of OMI in acute chest pain and can’t
+differentiate chronic myocardial injury and demand ischemia from Type 1 MI
+(ACS, plaque rupture) OMI or NOMI: OMI is a clinical diagnosis, aided by ECG
+(and AI)
+===================================
+MY Comment, by KEN GRAUER, MD (6/29/2025):
+===================================
+Insightful case by Dr. McLaren — with lots of PEARLS in assessment
+and management. I focus my comment on a few additional interesting
+aspects regarding the repeat ECG, obtained after spontaneous
+conversion of the regular WCT (Wide-Complex Tachycardia) seen in
+todayʼs 1st ECG.
+For clarity in Figure-1 — Iʼve reproduced and labeled
+this repeat ECG.
+https://drsmithsecgblog.com/65-year-old-kg-done-with-chest-pain/ 4/11
+--- Страница 5 ---
+22/01/2026, 15:24 65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog
+Rhythm Detection Using Simultaneous Leads:
+As per Dr. McLaren — preservation of the same QRS
+morphology as was seen during the WCT in todayʼs 1st ECG
+confirmed that this WCT was supraventricular, with an
+unusual IVCD (IntraVentricular Conduction Defect)
+morphology. I chose to reproduce this tracing — because it
+provides an excellent example of time-efficient use
+of simultaneously-recorded leads to deduce the etiology of
+each beat in Figure-1:
+Caveat: As per Dr. McClaren — the KEY clue for
+suggesting that the WCT in todayʼs 1st ECG was
+supraventricular, was the fast septal depolarization
+(ie, narrow initial R wave in leads V1-to-V3). That said
+— Iʼll add the caveat that as helpful as this clue is, it is
+not infallible — as Iʼve seen documented VT on occasion
+manifest surprisingly narrow initial QRS deflections in
+these anterior leads. The reason I was not confident in
+todayʼs case about a supraventricular etiology for the
+WCT until I saw ECG #2 — was that the initial QRS
+deflection in the WCT rhythm was wide in many of the
+other leads.
+But the presence of sinus P waves with a constant
+(albeit prolonged) PR interval in the long lead V1 rhythm
+strip (RED arrows) — confirmed the supraventricular
+etiology in Figure-1.
+While fully acknowledging that additional details
+regarding the rhythm in Figure-1 do not alter
+management — facile use of the long lead V1 rhythm
+strip in association with the simultaneously-
+recorded leads from the 12-lead tracing above it, allow
+clarification that the PINK arrow P waves in Figure-
+1 are PACs — because: i) Beats #2,6 and 12 all occur
+earlier-than-expected; ii) The PR interval of these 3
+beats is consistently shorter than the PR interval of
+the RED arrow P waves; and, iii) P wave morphology of
+the 4 PINK arrow P waves in Figure-1 is
+subtly different than the P wave morphology of the RED
+arrow sinus P waves (these PINK arrow P waves all lack
+the terminal negative P wave deflection of the sinus P
+waves).
+In contrast — beat #10 is a PVC, even though the QRS
+complex of this beat is small in the long lead V1 rhythm
+strip. We know this — because simultaneously-
+recorded beat #10 in leads V1,V2,V3 is clearly very wide
+and very different in morphology compared to beats
+#8,9 and 11 in these leads.
+However — beat #13 in the long lead V1 rhythm strip
+is not a PVC. We know this despite how wide and
+different-looking this beat is in lead V1 — because the
+QRS morphology of beat #13 in simultaneously-
+recorded beat #13 in leads V4,V5,V6 is identical to the
+https://drsmithsecgblog.com/65-year-old-kg-done-with-chest-pain/ 5/11
+--- Страница 6 ---
+22/01/2026, 15:24 65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog
+QRS morphology of beats #12 and 14 in these leads. It
+should be apparent that the reason for the bizarre QRS
+morphology of beat #13 in the long lead V1 is the result
+of artifact.
+“Take-Home” — In my experience, the concept of
+assessing P wave and QRS morphology
+using simultaneously-recorded leads is underused.
+While not clinically important in ECG #2 —
+there are times when this technique will be the sole
+determining factor for distinguishing between an SVT vs
+VT.
+Figure-1: The repeat ECG in todayʼs case, obtained after
+spontaneous conversion of the regular WCT.
+An Aslanger Pattern?
+While fully acknowleding the confounding role of the unusual
+IVCD morphology that we see in Figure-1 — I instantly arrived
+at a similar decision as Dr. McLaren that ECG #2 was
+indicative of acute inferior infarction — because of the
+resemblance of this tracing to Aslangerʼs Pattern.
+As discussed by Dr. Meyers and in My
+Comment from the December 31, 2024 post of
+Dr.Smithʼs ECG Blog — the combination of ST elevation
+in lead III (but not in other inferior leads) — in
+association with an ECG picture that is otherwise
+consistent with DSI (Diffuse Subendocardial
+Ischemia) — suggests there is inferior OMI
+plus underlying multivessel disease.
+The diagnosis of DSI in todayʼs case is suggested by ST
+depression in multiple leads (as per the 7 BLUE arrows
+in Figure-1) — in association with marked ST elevation
+in lead aVR.
+Although we are only provided with information from the
+cardiac catheterization report regarding the “culprit” LCx
+artery — the bizarre IVCD morphology, in association
+with fragmented QRS complexes in several leads is
+almost certain indication of additional underlying “scar”
+from coronary disease.
+Jesse McLaren onJune 29, 2025
+https://drsmithsecgblog.com/65-year-old-kg-done-with-chest-pain/ 6/11
+--- Страница 7 ---
+22/01/2026, 15:24 65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog
+CONCORDANT ST SEGMENTS MODIFIED SGARBOSSA CRITERIA
+WIDE COMPLEX TACHYCARDIA
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+What is this Pattern? Is A subtle ECG and a
+an initial troponin I of subtle angiogram
+45 ng/L diagnostic?
+Write a Comment
+SEARCH
+https://drsmithsecgblog.com/65-year-old-kg-done-with-chest-pain/ 7/11
+--- Страница 8 ---
+22/01/2026, 15:24 65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/65-year-old-kg-done-with-chest-pain/ 8/11
+--- Страница 9 ---
+22/01/2026, 15:24 65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/65-year-old-kg-done-with-chest-pain/ 9/11
+--- Страница 10 ---
+22/01/2026, 15:24 65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Willy Frick onJuly 1, 2025
+A subtle ECG and a subtle angiogram
+Written by Willy Frick A man in his early 40s with no past medical
+history experienced acute onset crushing chest pain and dyspnea.
+The chest…
+Magnus Nossen onJuly 3, 2025
+Recurrent Seizure. Or was it syncope? Diagnosis made
+after 20 years. But then changed again!
+This was written by Magnus Nossen. Todayʼs case is a bit different
+from the usual case on Dr. Smithʼs ECG blog. This case tells a…
+https://drsmithsecgblog.com/65-year-old-kg-done-with-chest-pain/ 10/11
+--- Страница 11 ---
+22/01/2026, 15:24 65 year old with chest pain during dialysis - Dr. Smith’s ECG Blog
+Steve Smith onJuly 5, 2025
+Wide Complex Tachycardia, intermittent
+This was sent by a former resident, John Dunbar: “Had this one the
+other day. 60s, no medical history but didnʼt go to the doctor. Had a…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/65-year-old-kg-done-with-chest-pain/ 11/11

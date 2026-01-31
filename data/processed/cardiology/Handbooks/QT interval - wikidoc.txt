@@ -1,0 +1,171 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "QT interval - wikidoc.pdf",
+  "converted_date": "2026-01-31T14:36:01.025469",
+  "file_size_bytes": 591653,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/QT interval - wikidoc.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 16:26 QT interval - wikidoc
+Search WikiDoc
+Search Try Exact Match
+QT interval
+Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1]
+(mailto:charlesmichaelgibson@gmail.com)
+Synonyms and keywords: QT; QTc; corrected
+QT interval; corrected QT
+Overview
+The QT interval is a measure of the time between
+the start of the Q wave and the end of the T wave in
+the heart's electrical cycle. The QT interval is a
+general measure of how long it takes for the heart to
+recharge or repolarize itself electrically. The QT
+interval is dependent on the heart rate such that the
+faster the heart rate, the shorter the QT interval. As a
+result, the QT interval must be adjusted for the heart
+Schematic representation of normal ECG trace
+rate for accurate interpretation. This adjustment is (sinus rhythm), with waves, segments, and
+called the corrected QT interval or QTc. A lengthened intervals labeled.
+QT interval is a biomarker for ventricular
+tachyarrhythmias such as torsades de pointes and is a risk factor for sudden cardiac death.
+Historical Perspective
+The standard clinical correction is to use Bazett's formula,[1] named after physiologist Henry
+Cuthbert Bazett, calculating the heartrate-corrected QT interval QTc.
+The formula is as follows:
+<math>QTc = \frac{QT}{\sqrt {RR} }</math>,
+where QTc is the QT interval corrected for rate, and RR is the interval from the onset of one QRS
+complex to the onset of the next QRS complex, measured in seconds. However, this formula tends
+to not be accurate, and over-corrects at high heart rates and under-corrects at low heart rates.
+In the same year, Fridericia [2] published an alternative adjustment:
+<math>QT_F = \frac{QT}{RR^{1/3} } </math>.
+There are several other methods, but a regression based approach is the most accurate according to
+the current knowledge. An example of the regression-based approach is that developed by Sagie et
+al.,[3] as follows:
+Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
+https://www.wikidoc.org/index.php/QT_interval 1/7
+--- Страница 2 ---
+22/01/2026, 16:26 QT interval - wikidoc
+<math>QT_S = QT + 0.154(1-RR)</math>.
+Measurement
+Normal values for the QT interval are between 0.30 and 0.44 (0.45 for women) seconds. QT
+interval can be measured by different methods such as the threshold method in which the end of
+the T wave is determined by the point at which the component of the T wave merges with the
+isoelectric baseline or the tangent method in which the end of the T wave is determined by the
+intersection of a line extrapolated from the isoelectric baseline and the tangent line which touches
+the terminal part of the T wave at the point of maximium downslope.[4]
+Shown below is an example of normal QT interval.
+The QT interval is an important ECG parameter and the identification of ECGs with long QT
+syndrome is of clinical importance. Considering the required standards for precision, the
+measurement of QT interval is subjective.[5] This is because the end of the T wave is not always
+clearly defined and usually merges gradually with the baseline. QT interval in an ECG complex can
+be measured manually by different methods such as the threshold method, in which the end of the
+T wave is determined by the point at which the component of the T wave merges with the
+isoelectric baseline or the tangent method, in which the end of the T wave is determined by the
+intersection of a line extrapolated from the isoelectric baseline and the tangent line, which touches
+the terminal part of the T wave at the point of maximum downslope.[4]
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/QT_interval 2/7
+--- Страница 3 ---
+22/01/2026, 16:26 QT interval - wikidoc
+With the increased availability of digital ECGs with simultaneous 12-channel recording, QT
+measurement may also be done by the 'superimposed median beat' method. In the superimposed
+median beat method, a median ECG complex is constructed for each of the 12 leads. The 12 median
+beats are superimposed on each other and the QT interval is measured either from the earliest
+onset of the Q wave to the latest offset of the T wave or from the point of maximum convergence
+for the Q wave onset to the T wave offset.[6]
+Natural History, Complications and Prognosis
+If the QT interval is abnormally prolonged or shortened, there is a risk of developing ventricular
+arrhythmias.
+Genetic Causes
+An abnormal prolonged QT interval could be due to Long QT syndrome, whereas an abnormal
+shortened QT interval could be due to Short QT syndrome.
+Due to adverse drug reactions
+Prolongation of the QT interval may be due to an adverse drug reaction.[7] Many drugs such as
+haloperidol[8] can prolong the QT interval.
+Prolongation of the QT Interval:
+1. • Represents an excess time required for completion of ventricular depolarization and
+repolarization.
+2. • Abnormal when the QTc is > 0.44 seconds.
+Shown below are examples of prolonged QY interval.
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/QT_interval 3/7
+--- Страница 4 ---
+22/01/2026, 16:26 QT interval - wikidoc
+Shown below is an example of prolonged QT interval with bradycardia.
+Shown below is an example of torsades de pointes
+Drug Causes
+Ofloxacin
+Differential Diagnosis:
+• Idiopathic long QT syndrome
+1. C•o Jokeirevs ehelll pa uns dde lLivaern oguer -sNeriveiclesse. Bny ussyinngd oruor mserevices, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/QT_interval 4/7
+--- Страница 5 ---
+22/01/2026, 16:26 QT interval - wikidoc
+• is associated with congenital deafness, syncope, and sudden death.
+• autosomal recessive inheritance
+• heterozygotes may be normal or have a slightly prolonged QT interval
+• incidence among deaf mute children is .25%
+2. • Romano-Ward syndrome
+• clinically similar to the Jervell and Lange-Nielsen syndrome except the hearing
+is normal
+• autosomal dominant
+• heterozygotes and homozygotes persons may have similar symptoms
+3. • Sporadic long QT syndrome
+• females:males = 2:1
+• 57% had a history of syncope
+• there was a strong association between syncopal episodes and emotions,
+vigorous activities and loud noises.
+4. • Pathogenesis
+• imbalance between various components of the cardiac sympathetic innervation.
+5. • Treatment to shorten the QT syndrome:
+• left stellate ganglion block
+• right stellate ganglion stimulation
+• the administration of propranolol [9]
+Short QT Interval
+Shown below is an example of short QT interval.
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/QT_interval 5/7
+--- Страница 6 ---
+22/01/2026, 16:26 QT interval - wikidoc
+Causes
+1. • Digoxin therapy
+2. • Hypercalcemia
+3. • Secondary (acquired) types of QT prolongation
+• Coronary artery disease: Ischemia, infarction
+• MVP, cardiomyopathy
+• CNS disease, especially hemorrhage
+• Autonomic nervous system dysfunction secondary to radical neck dissection,
+carotid endarterectomy, transabdominal truncal vagotomy.
+• Metabolic disturbances. Electrolyte imbalance (such as hypocalcemia), liquid
+protein diet, intracoronary injection of contrast agents.
+• Cardiac medications: Quinidine, PCA, disopyramide, encainide, flecainide,
+propafenone, amiodarone.
+• Psychotropic drugs. Phenothiazines, tricyclic antidepressants.
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/QT_interval 6/7
+--- Страница 7 ---
+22/01/2026, 16:26 QT interval - wikidoc
+• Miscellaneous. Severe bradycardia, high degree AV block, post Stokes-Adams
+attacks, hypothyroidism, hypothermia, pheochromocytoma, organophosphate
+poisoning.
+References
+Related Chapters
+• Electrocardiogram
+• Long QT syndrome
+• Short QT syndrome
+de:Elektrokardiogramm he:םרגוידרקורטקלא lb:Elektrokardiogramm nl:Elektrocardiogram sv:EKG
+Template:WikiDoc Sources
+Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
+Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
+Physical Examination | Lab Tests | Drugs
+Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
+There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
+Licensing | Disclaimers | Avoid Plagiarism | Policies
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/QT_interval 7/7

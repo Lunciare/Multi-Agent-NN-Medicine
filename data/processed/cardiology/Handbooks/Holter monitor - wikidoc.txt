@@ -1,0 +1,71 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Holter monitor - wikidoc.pdf",
+  "converted_date": "2026-01-31T14:36:15.270474",
+  "file_size_bytes": 288787,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Holter monitor - wikidoc.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 16:26 Holter monitor - wikidoc
+Search WikiDoc
+Search Try Exact Match
+Holter monitor
+Template:Infobox laboratory equipment
+Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailto:charlesmichaelgibson@gmail.com)
+Contents
+• Holter monitor
+• Event diary
+• Gallery
+• Resources
+Holter monitor
+In medicine, a Holter monitor (also called an ambulatory electrocardiography device),
+named after its inventor, Dr. Norman J. Holter, is a portable device for continuously monitoring
+the electrical activity of the heart for 24 hours or more. Its extended recording period is sometime
+useful for observing occasional cardiac arrhythmias that would be difficult to identify in a shorter
+period of time. For patients having more transient symptoms, a cardiac event monitor which can
+be worn for a month or more can be used.
+Much like standard electrocardiography (ECG), the Holter monitor records electrical signals from
+the heart via a series of electrodes attached to the chest. The number and position of electrodes
+varies by model, but most Holter monitors employ from three to eight. These electrodes are
+connected to a small piece of equipment that is attached to the patient's belt, and is responsible for
+keeping a log of the heart's electrical activity throughout the recording period.
+Old devices used to use reel to reel or a standard C60 or C90 audio cassette and ran at a very slow
+speed to record the data. More modern units record onto digital flash memory devices. The data
+are uploaded into a computer which then automatically analyzes the input, counting ECG
+complexes, calculating summary statistics such as average heart rate, minimum and maximum
+heart rate, and finding candidate areas in the recording worthy of further study by the technician.
+Electrodes should be placed over bones to minimize artifacts from muscular activity.
+Both 24 hr and 30 day event recorders are available.
+Event diary
+Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
+https://www.wikidoc.org/index.php/Holter_monitor 1/2
+--- Страница 2 ---
+22/01/2026, 16:26 Holter monitor - wikidoc
+In addition to wearing the device, most patients are asked to keep a diary of activities such as
+running and sleeping, symptoms, and times that their symptoms occur. This information is used
+by doctors and technicians to rapidly pinpoint problem areas in the vast amount of data recorded
+during the monitoring period.
+Gallery
+A person carries a holter monitor in his
+pocket.
+Resources
+• Holter monitor - MedLine Plus (http://www.nlm.nih.gov/medlineplus/ency/article/003877.htm)
+• Holter monitor - Texas Heart Institute (http://www.tmc.edu/thi/diholt.html)
+• Holter Monitor information (http://heartcenter.seattlechildrens.org/what_to_expect/holter_monit
+or.asp) from Children's Hospital Heart Center, Seattle.
+de:Langzeit-EKG sk:Holterovo monitorovanie
+Template:WikiDoc Sources
+Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
+Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
+Physical Examination | Lab Tests | Drugs
+Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
+There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
+Licensing | Disclaimers | Avoid Plagiarism | Policies
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Holter_monitor 2/2

@@ -1,0 +1,1350 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "drugeluting-stents-for-the-treatment-of-coronary-artery-disease-pdf-82598311384261.pdf",
+  "converted_date": "2026-01-31T14:47:21.464648",
+  "file_size_bytes": 224068,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/drugeluting-stents-for-the-treatment-of-coronary-artery-disease-pdf-82598311384261.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+Drug-eluting stents for the
+treatment of coronary
+artery disease
+Technology appraisal guidance
+Published: 23 July 2008
+Last updated: 18 November 2020
+www.nice.org.uk/guidance/ta152
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+--- Страница 2 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+Your responsibility
+The recommendations in this guidance represent the view of NICE, arrived at after careful
+consideration of the evidence available. When exercising their judgement, health
+professionals are expected to take this guidance fully into account, alongside the
+individual needs, preferences and values of their patients. The application of the
+recommendations in this guidance is at the discretion of health professionals and their
+individual patients and do not override the responsibility of healthcare professionals to
+make decisions appropriate to the circumstances of the individual patient, in consultation
+with the patient and/or their carer or guardian.
+All problems (adverse events) related to a medicine or medical device used for treatment
+or in a procedure should be reported to the Medicines and Healthcare products Regulatory
+Agency using the Yellow Card Scheme.
+Commissioners and/or providers have a responsibility to provide the funding required to
+enable the guidance to be applied when individual health professionals and their patients
+wish to use it, in accordance with the NHS Constitution. They should do so in light of their
+duties to have due regard to the need to eliminate unlawful discrimination, to advance
+equality of opportunity and to reduce health inequalities.
+Commissioners and providers have a responsibility to promote an environmentally
+sustainable health and care system and should assess and reduce the environmental
+impact of implementing NICE recommendations wherever possible.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
+conditions#notice-of-rights). 45
+--- Страница 3 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+Contents
+1 Recommendations ................................................................................................................. 4
+2 Clinical need and practice .................................................................................................... 5
+3 The technologies ................................................................................................................... 9
+4 Evidence and interpretation ................................................................................................. 12
+4.1 Clinical effectiveness .................................................................................................................... 12
+4.2 Cost effectiveness ........................................................................................................................ 20
+4.3 Consideration of the evidence .................................................................................................... 29
+5 Implementation ...................................................................................................................... 35
+6 Recommendations for further research .............................................................................. 36
+7 Appraisal Committee members and NICE project team .................................................... 37
+Appraisal Committee members ......................................................................................................... 37
+NICE project team ............................................................................................................................... 40
+8 Sources of evidence considered by the Committee ......................................................... 42
+Update information .................................................................................................................. 45
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
+conditions#notice-of-rights). 45
+--- Страница 4 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+This guidance partially replaces TA71.
+This guidance is partially replaced by NG185.
+1 Recommendations
+1.1 Drug-eluting stents are recommended for use in percutaneous coronary
+intervention for treating stable angina, within their instructions for use, only if:
+• the target artery to be treated has less than a 3-mm calibre or the lesion is
+longer than 15 mm, and
+• the price difference between drug-eluting stents and bare-metal stents is no
+more than £300. [2020]
+For recommendations on drug-eluting stents for people with unstable angina,
+non-ST-segment-elevation myocardial infarction (NSTEMI) or ST-segment-
+elevation myocardial infarction (STEMI), see recommendation 1.1.18 and
+recommendation 1.2.18 in NICE's guideline on acute coronary syndromes.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
+conditions#notice-of-rights). 45
+--- Страница 5 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+2 Clinical need and practice
+2.1 Coronary artery disease is also known as coronary heart disease (CHD) and
+ischaemic heart disease. It is narrowing (stenosis) of the coronary arteries as a
+result of deposition of atherosclerotic plaque, which results in an insufficient
+supply of oxygen to the heart muscle. CHD may affect one or more arteries,
+which may be of different diameters (calibres). The stenosis of arteries may be
+partial or total. Coronary artery stenosis may be asymptomatic or may lead to
+angina – chest pain that may be severe enough to restrict or prevent exertion. A
+critical reduction of the blood supply to the heart may result in myocardial
+infarction (MI) or death.
+2.2 Mortality rates from CHD are decreasing but CHD remains the most common
+cause of mortality in the UK. It accounted for nearly 117,500 deaths in the UK in
+2002 (about 103,000 deaths in England and Wales). CHD is also the cause of
+considerable morbidity and loss of ability to lead a normal life. In the UK, annually,
+approximately 259,500 people experience an acute MI and approximately
+341,500 new cases of angina (the most common form of CHD morbidity) are
+reported. In Europe, CHD has been estimated to account for 9.7% of total
+disability-adjusted life years lost.
+2.3 Mortality and morbidity rates associated with CHD vary by socioeconomic group
+(rates are higher in lower socioeconomic groups), by geographical area (rates are
+highest in Wales, North West England, and the Northern England and Yorkshire
+regions, and lowest in South East England) and by ethnic group (for example,
+CHD rates are highest among people from the Indian subcontinent living in the
+UK). The prevalence of CHD also increases with age and is higher in men than
+women. The disease is more common in people with high serum cholesterol and/
+or high blood pressure, in people who have type 1 or type 2 diabetes mellitus, in
+people who smoke, and in people who are physically inactive and/or obese.
+2.4 The symptoms and health risks associated with a stenosed artery may be treated
+medically, by modifying risk factors (for example, smoking, hyperlipidaemia,
+obesity and hyperglycaemia) and/or by drug treatment (for example, beta-
+adrenergic blockers, nitrates, calcium-channel blockers, antiplatelet agents and/
+or statins).
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
+conditions#notice-of-rights). 45
+--- Страница 6 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+2.5 If these medical treatments fail or are inappropriate, two invasive therapies are
+available. The first, coronary artery bypass grafting (CABG), involves major
+cardiac surgery. The second, balloon angioplasty (or percutaneous transluminal
+coronary angioplasty) involves a widening from within the artery using a balloon
+catheter, which is inserted through a femoral artery. When inflated, the balloon
+increases the calibre of the artery. Most percutaneous transluminal coronary
+angioplasty procedures involve the use of stents. A stent is a thin wire-mesh tube
+loaded over an angioplasty balloon. When the balloon inflates, the stent expands
+like a scaffold to hold the vessel open, and is left behind after the balloon is
+deflated and withdrawn. Percutaneous coronary intervention (PCI) is a generic
+term that encompasses percutaneous transluminal coronary angioplasty with or
+without stenting. The comparison of CABG with PCI including coronary artery
+stents (bare-metal and drug-eluting) was covered by NICE's technology appraisal
+on the use of coronary artery stents and is not dealt with in this appraisal.
+2.6 One of the criteria for comparing the clinical effectiveness of PCI with stents with
+standard PCI (without stents) is the incidence of subsequent attacks of angina
+and major adverse coronary events (MACEs), which include death, MI and the
+need for further revascularisation procedures (CABG or repeat PCI).
+2.7 A number of problems with PCI may occur. Recoil of the artery which happens
+when the balloon is deflated, usually occurs immediately or within 24 hours of
+completing the procedure, and may be associated with acute occlusive
+dissection of the vessel and require emergency CABG. In the medium term
+restenosis of the artery after the procedure may occur and has two main causes:
+contraction of the outer layer of the artery secondary to an injury reaction (3 to
+6 months after the procedure) and proliferation of smooth muscle cells within the
+arterial wall (4 to 6 months after the procedure), leading to intimal hyperplasia. As
+a consequence of restenosis, a repeat procedure may be required and the rate of
+reintervention is greater in patients who have arteries of small calibre ('small
+vessels' – less than 3 mm in calibre), saphenous vein grafts and long lesions
+(longer than 15 mm) or total occlusions. People with diabetes, who commonly
+have arteries affected by atherosclerosis, also have a higher rate of restenosis.
+2.8 Stent technology (type and platform, including the design, alloy used and strut
+thickness) has developed rapidly, and recent advances aim to reduce the
+likelihood of restenosis. Because restenosis is correlated with the degree of
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
+conditions#notice-of-rights). 45
+--- Страница 7 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+inflammation present at the time of angioplasty, drug-eluting stents (DESs) were
+developed. These are bare-metal stents (BMSs) coated with a drug, usually an
+immune suppressant, to reduce inflammation or an antimitotic agent to reduce
+cell proliferation. The drug reaches therapeutic concentrations in local tissues
+only and may not be detectable systemically, thus avoiding systemic adverse
+effects. A subsequent development was the use of a drug–polymer mix where the
+drug is held temporarily in place within a polymer 'painted' onto the metallic stent,
+allowing the drug to elute slowly into surrounding tissues. However, not all stents
+are polymer based.
+2.9 According to British Cardiovascular Intervention Society (BCIS) data,
+approximately 70,000 PCI procedures were undertaken in the UK in 2005,
+equating to 1165 per million of the population. In England, the number of
+procedures per million of the population was 1169, and in Wales, 873.
+2.10 The National Service Framework for CHD set a target in March 2000 for
+revascularisations (PCIs and CABGs), of at least 1500 per million of the population
+(750 for each type of intervention).
+2.11 According to BCIS data, in the UK, the proportion of PCI procedures using stents
+rose steeply between 1993 and 1999, from below 10% to nearly 80%. It continued
+to increase, although more slowly, to about 94% in 2005. Data for DES use were
+not available before 2002. In 2003 it was reported that 17% of all stents used in
+the UK were DESs. In 2005 this had risen to around 62% in the UK, 60% in
+England and 77% in Wales. Given the increases in numbers of PCI procedures, it
+may be that utilisation rates are now much higher than this.
+2.12 There is a risk of stent thrombosis associated with the use of both types of stent
+(DESs and BMSs). To prevent thrombosis occurring, patients are required to use
+an antiplatelet drug, such as clopidogrel, in addition to aspirin during and after
+the implantation of a stent. Following data published in 2006, the US Food and
+Drugs Administration (FDA)'s Circulatory Devices Systems Advisory Panel
+recommended that the duration of clopidogrel use should be extended in patients
+receiving a DES. The American College of Cardiologists/American Heart
+Association PCI guidelines (also endorsed by the Society for Cardiovascular
+Angiography Interventions) and the BCIS have recommended that for patients
+receiving DESs the duration of clopidogrel use should be increased to at least
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
+conditions#notice-of-rights). 45
+--- Страница 8 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+12 months, after which time continuation of clopidogrel should be reviewed
+taking into account the risk for further events on an individual patient basis.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
+conditions#notice-of-rights). 45
+--- Страница 9 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+3 The technologies
+3.1 This technology appraisal focuses on DESs only. The preceding appraisal of DESs
+(NICE's technology appraisal on the use of coronary artery stents) considered
+only three devices (Taxus, Cypher and Dexamet) because at the time of
+publication, these were the only DESs that had been granted Conformité
+Européene (CE) marking for use within EU countries. Eight additional DESs have
+been included in this appraisal.
+3.2 Each DES has an instruction for use (IFU) document that includes the indications
+for which the specific device can be used. The indications for use for each DES
+vary, although the majority specify the sizes of vessels (diameter and length) to
+be treated and are in accordance with their CE marking. Also included in the IFU
+documents are details of side effects and specific contraindications for DESs.
+3.3 Different drugs elute from the stents that are included in this appraisal: paclitaxel
+is a broad-spectrum antimitotic agent that inhibits cell division; sirolimus
+(previously known as rapamycin) is an immunosuppressive agent that reduces
+inflammation; ABT-578 is a synthetic analogue of sirolimus; everolimus is an
+immunosuppressive agent that is closely related to sirolimus; tacrolimus is an
+immunosuppressive agent; and dexamethasone is a synthetic adrenocortical
+steroid that reduces inflammation. These drugs may elute at different rates,
+depending on the presence or absence of additional polymer coatings on the
+stent.
+3.4 The following list prices for DESs exclude VAT.
+• The DES Axxion (Biosensors Limited) is a non-polymeric paclitaxel-eluting
+stent (PES) with a list price of £995 (BMS equivalent: Nexus).
+• The DES CoStar (Biotronik Limited) is a non-polymeric PES (BMS equivalent:
+DepoStent). CoStar was originally included in this appraisal but is no longer
+available.
+• The DES Taxus (Boston Scientific) is a polymeric PES with a list price of
+£1,300 (BMS equivalent: Express).
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
+conditions#notice-of-rights). 45
+--- Страница 10 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+• The second-generation DES Taxus Liberté (Boston Scientific) is a polymeric
+PES with a list price of £1,300 (BMS equivalent: Liberté).
+• The DES Cypher (Cordis Corporation) is a polymeric sirolimus-eluting stent
+(SES) with a list price of £1,340 (BMS equivalent: Bx Velocity).
+• The second-generation DES Cypher Select (Cordis Corporation) is a
+polymeric SES with a list price of £1,340 (BMS equivalent: Sonic).
+• The DES Endeavor (Medtronic AVE) is a polymeric sirolimus analogue
+ABT-578 (zotarolimus)-eluting stent (ZES) with a list price of £1,450 (BMS
+equivalent: Driver).
+• The DES Janus (Sorin) is a polymeric tacrolimus-eluting stent (TES) with a list
+price of £1,500 (BMS equivalent: Janis).
+• The DES Xience V (Guidant Ltd) is a polymeric everolimus-eluting stent (EES)
+with a list price of £1,500 (BMS equivalent: Multi-Link Vision).
+• The DES Dexamet (Abbott Vascular Devices Ltd) is a polymeric
+dexamethasone-eluting stent (BMS equivalent: BiodivYsio). Dexamet was
+originally included in this appraisal but is no longer available in the EU.
+• The DES Yukon (Kiwimed Ltd) is a non-polymeric stent that can be coated
+with any drug to be eluted and has a list price of £650.
+3.5 As list prices are not commonly used for procuring devices in the NHS, updated
+prices of DESs and BMSs were sought from the NHS Purchasing and Supply
+Agency. Procurement of devices is complex and it should be noted that the
+prices for DES and BMS are driven by a number of factors including the: market
+conditions at the time of contracting; contract period; renewal date for the
+procurement arrangements (contracts are usually updated annually and the most
+recent contracts show significant decreases in the prices of DESs); volume
+commitment; period commitment; combination of period and volume
+commitment; product rationalisation or standardisation; retrospective threshold
+discounts (for example, free set quantities of stents when agreed volumes have
+been exceeded); consignment stock (for instance, when a supplier provides an
+inventory to trust); and other added value inclusive arrangements (for example,
+the provision of additional training and related equipment).
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
+conditions#notice-of-rights). 45
+--- Страница 11 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+3.6 From the sample 2007/08 data received from the NHS Purchasing and Supply
+Agency for NHS organisations in England for the stents included in this appraisal,
+the mean price of DES was £529 and the mean price of BMS was £131. The price
+difference between DESs compared with BMSs ranged from £203 to £615 across
+a number of Health Authorities in England, although it should be noted that the
+higher price differences tended to be seen in the older contracts which will be re-
+tendered in due course, in accordance with relevant contract renewal schedules.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
+conditions#notice-of-rights). 45
+--- Страница 12 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+4 Evidence and interpretation
+The Appraisal Committee considered evidence from a number of sources.
+4.1 Clinical effectiveness
+DESs versus BMSs – evidence from randomised controlled trials
+4.1.1 A total of 17 randomised controlled trials (RCTs) were identified that compared
+DESs with BMSs, and data from all 17 were included for at least one outcome in
+the meta-analysis.
+• 10 studies compared an SES (Cypher) with the equivalent BMS.
+• Four studies compared a PES (Taxus) with the equivalent BMS.
+• One study compared both an SES (Cypher) and a PES (Taxus) with a newer
+BMS.
+• One study compared the ZES (Endeavor) with the equivalent BMS.
+• One study compared the EES (Xience V) with the equivalent BMS.
+No RCT evidence has yet been reported for the Axxion, CoStar, Dexamet or
+Janus stents. Limited RCT data were available for the Yukon stent.
+4.1.2 Study outcomes used in the RCTs included rates of mortality, acute MI, target
+lesion revascularisation (TLR), target vessel revascularisation (TVR), composite
+events (major adverse coronary event [MACE] and/or target vessel failure [TVF]),
+angiographic binary restenosis and late luminal loss. Revascularisation was
+usually prompted by protocol-driven angiographic evidence of restenosis either
+for all participants or for a selected subgroup of participants. Only one trial
+(BASKET) explicitly reported that no protocol-driven angiographic follow-up was
+included. This trial compared both SES (Cypher) and PES (Taxus) DESs with a
+newer BMS in a three-arm study.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
+conditions#notice-of-rights). 45
+--- Страница 13 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+4.1.3 All but three of the 17 RCTs were multicentre trials. Study size ranged from 60 to
+over 1300 patients. Of the 17 trials, 11 included patients with single lesions. The
+studies covered a range of vessel diameters from 2.25 mm to 4.00 mm, although
+the lower range was not reported in some studies. Lesion length also varied,
+ranging from 10 mm to 33 mm, although again the data were not always reported.
+All studies permitted the inclusion of people with diabetes, and all but three
+studies excluded acute or evolving MI. The presence of unprotected left main
+coronary artery excluded patients from many trials, as did severe calcification or
+tortuosity, total occlusion, bifurcation, the presence of thrombus in the target
+vessel, previous PCI within 30 days or PCI other than balloon required as part of
+the study intervention.
+4.1.4 A total of 12 trials described the co-therapies used. Aspirin was prescribed
+before intervention in 11 of these studies and used after the procedure in all 12.
+Clopidogrel was used as an antiplatelet therapy in all of the 12 studies; ticlopidine
+was available for use as an alternative to clopidogrel in five studies. In one trial,
+tirofiban, used in combination with a DES, was compared with abciximab used
+with a BMS. The duration of antiplatelet therapy after intervention ranged from
+2 months in three trials to 1 year in one study.
+4.1.5 Meta-analysis was carried out by the Assessment Group for rates of mortality,
+acute MI, TLR, TVR, composite event (MACE and/or TVF), angiographic binary
+restenosis and late luminal loss. Analysis of mortality, acute MI and event rates
+used pooled results from over 7000 participants. Data in the form of an odds ratio
+(OR) and 95% confidence interval (95% CI) were analysed using the
+Mantel–Haenszel method fixed-effect model. For continuous outcomes, weighted
+mean differences (WMDs) were analysed. Where there was significant
+heterogeneity, analysis using a random-effects model was also undertaken.
+4.1.6 In addition to analyses of the individual studies, pooled estimates (giving the OR
+and 95% CI) were provided for each 'eluted drug' group (for example, comparing
+a PES [Taxus] and all BMSs in the paclitaxel studies). Data related to the SES
+(Cypher) and the sirolimus-analogue stent, ZES (Endeavor) in some instances
+were pooled and presented as pooled SES results. All eluted drug group results
+were also pooled to obtain estimates for a meta-analysis of any-type DESs
+compared with any-type BMSs. The meta-analysis was performed for available
+data at follow-ups of up to 1 month, 6 to 9 months, 1 year, 2 years and 3 years.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
+conditions#notice-of-rights). 45
+--- Страница 14 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+The Assessment Group assumed, when making decisions about the
+appropriateness of combining data, that all BMSs are similar and, likewise, all
+DESs are similar except in the drug delivered; and that the stent design and the
+insertion system do not have an impact on clinical outcomes.
+4.1.7 For rates of mortality and rates of acute MI, one study found a statistically
+significant difference in favour of the SES (Cypher) compared with the BMS for MI
+at 6 to 9 months (OR 0.19, 95% CI 0.04, 0.87). There were no statistically
+significant differences between the DES and the BMS in the individual studies for
+all other follow-up periods analysed to 3 years. There were no statistically
+significant differences between the DES and the BMS for the pooled eluted drug
+groups (PES [Taxus] and pooled SESs) and for the pooled analyses of any-type
+DES compared with any-type BMS for any of the follow-up periods.
+4.1.8 For event rate (MACE and TVF), the individual studies of PES (Taxus), SES
+(Cypher) and ZES (Endeavor), and the pooled eluted drug groups analysis
+showed statistically significant differences in favour of DESs over BMSs. This was
+also the case for the overall meta-analysis, which favoured any-type DESs over
+any-type BMSs at all follow-up time points: 6 to 9 months (OR 0.46, 95% CI 0.40
+to 0.53), 1 year (OR 0.39, 95% CI 0.33 to 0.47), 2 years (OR 0.43, 95% CI 0.34 to
+0.54) and 3 years (OR 0.42, 95% CI 0.32 to 0.55). Statistical heterogeneity was
+indicated at the 6 to 9 months follow-up; a random-effect analysis for this time
+point showed only a small effect on the OR (OR 0.44, 95% CI 0.36 to 0.54). The
+difference between the EES (Xience V) and the BMS was not statistically
+significant at the only follow-up period (6 to 9 months).
+4.1.9 For TVR, not all individual studies of PES (Taxus) showed statistical significance
+compared with BMSs for all time periods up to 3 years. The individual studies for
+SESs (Cypher) and ZESs (Endeavor) all showed statistical significance over BMSs
+up to 3 years. The pooled eluted drug groups analysis showed statistically
+significant differences in favour of a PES (Taxus) over BMSs at follow-up time
+points up to 2 years: 6 to 9 months (OR 0.54, 95% CI 0.43 to 0.68), 1 year
+(OR 0.40, 95% CI 0.29 to 0.55) and 2 years (OR 0.45, 95% CI 0.34 to 0.59). At
+3 years, the difference was no longer statistically significant, but the data at this
+time point were derived from a single, relatively small study that may have been
+underpowered. TVR data for a SES (Cypher) versus a BMS were available for two
+trials at 6 to 9 months and for single trials at 1 and 3 years. These showed
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
+conditions#notice-of-rights). 45
+--- Страница 15 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+statistically significantly differences in favour of the SES (Cypher) compared with
+the BMS at: 6 to 9 months (OR 0.33, 95% CI 0.18, 0.62), 1 year (OR 0.34, 95% CI
+0.19 to 0.60) and 3 years (OR 0.35, 95% CI 0.25 to 0.49). TVR data for the ZES
+(Endeavor) at 6 to 9 months, the only time period available, was statistically
+significant in favour of the ZES over the BMS (OR 0.41, 95% CI 0.27 to 0.63).
+There were no data for EES (Xience V) for this outcome measure.
+4.1.10 Rates of revascularisation (TLR) at 1 year for procedures carried out with a DES
+within individual trials were less than 5%, and typically in the 10% to 25% range
+for procedures that used a BMS. For example, in three trials of PES (Taxus), the
+rates were 0%, 4.7% and 4.2% for the DES compared with 10.0%, 12.9% and 14.7%
+for the BMS, respectively. Rates at 1 year in three trials of a SES (Cypher) were
+4.6%, 0% and 4.9% for the DES compared with 24.9%, 13.6% and 20.0% for the
+BMS, respectively. For TLR, the pooled eluted drug groups analysis showed
+statistically significant differences in favour of a PES (Taxus) over BMSs at follow-
+up periods of up to 2 years: 6 to 9 months (OR 0.37, 95% CI 0.28 to 0.49), 1 year
+(OR 0.26, 95% CI 0.18 to 0.39) and 2 years (OR 0.28, 95% CI 0.20 to 0.40). At
+3 years, the difference was no longer statistically significant, but the data at this
+time point were derived from a single, relatively small study that may have been
+underpowered. TLR data for a SES (Cypher) showed it to be statistically
+significantly more effective than a BMS at all time points up to 3 years: 6 to
+9 months (OR 0.21, 95% CI 0.15 to 0.30), 1 year (OR 0.17, 95% CI 0.12 to 0.25),
+2 years (OR 0.22, 95% CI 0.15 to 0.30) and 3 years (OR 0.25, 95% CI 0.17 to 0.36).
+The data for the ZES (Endeavor) at the follow-up period of 6-9 months showed it
+to be statistically significantly more effective than the BMS (OR 0.35, 95% CI
+0.22, 0.56). Lower rates of TLR (3.8% versus 21.4%) were apparent for the EES
+(Xience V) group at 6 months (the only follow-up period) but the difference was
+not statistically significant. For TLR, the meta-analyses showed statistically
+significant differences in favour of any-type DES over any-type BMS, with
+improved rates of lesion revascularisation at all follow-up time points up to
+3 years: 6 to 9 months (OR 0.30, 95% CI 0.25 to 0.37), 1 year (OR 0.21, 95% CI
+0.16 to 0.27), 2 years (OR 0.24, 95% CI 0.19 to 0.31) and 3 years (OR 0.25, 95% CI
+0.17 to 0.35).
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
+conditions#notice-of-rights). 45
+--- Страница 16 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+DES versus BMS – DESs with non-RCT data
+4.1.11 The TES (Janus) was examined in a non-controlled study as was the PES (Taxus
+Liberté). A range of formulations of the PES (CoStar) was evaluated in two non-
+randomised controlled studies, and the Yukon DES was evaluated in a dose-
+ranging non-randomised controlled study comparing Yukon coated with sirolimus
+with the same stent carrying no drug. The Dexamet DES was studied in one non-
+randomised study of Dexamet compared with a BMS and four non-controlled
+studies (including two registries).
+4.1.12 Outcome data were limited due to the short follow-up periods: 30 days for the
+PES (Taxus Liberté) study; 4 months for one PES (CoStar) study and 1 year for
+the other PES (CoStar) study; 6 months for the Dexamet studies and for the TES
+stent; and up to 1 year for the SES (Yukon) study. Angiographic outcomes, binary
+restenosis and/or late loss were reported for the PES (CoStar), Dexamet and the
+SES (Yukon). Because of the variety of DESs considered in these studies, the
+methodological limits of the available studies, and the varied and limited follow-
+up, the Assessment Group did not consider pooled analysis to be appropriate.
+4.1.13 For the TES (Janus), limited data were reported; at 30 days no events (death, MI
+or TLR) had occurred. For the PES (Taxus Liberté) the data available at 30 days
+were marked as commercial in confidence. For the PES (CoStar), the only data
+available were for one of the two arms at 1 year for one trial and interim data from
+two of the four arms of the other ongoing study.
+4.1.14 Data for the SES (Yukon) were reported at 1 month and 1 year. No deaths
+occurred in the first month. Rates of acute MI up to 1 month were 1.8% in the SES
+group and 1.3% in the BMS group. At 1 year, the composite of death or non-fatal
+MI was 2.7% for the Yukon SES and 3.9% for the BMS. No statistically significant
+differences were detected. At 1 year, TLR was reported in 12.6% of the SES group
+and 21.5% of the BMS group, and the difference was statistically significant in
+favour of the SES (OR 0.53, 95% CI 0.34 to 0.81).
+4.1.15 The non-randomised trial that compared Dexamet (DES) with a BMS reported no
+deaths among the 100 participants receiving either stent and only one incidence
+of acute MI, which was in the BMS group, up to a mean of 8 months' follow-up.
+Revascularisations for this time period were 2% TLR in the DES group and 10%
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
+conditions#notice-of-rights). 45
+--- Страница 17 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+TLR (12% TVR) in the BMS group. Composite rates of MACEs, consisting entirely
+of revascularisations, were 2% for the DES and 12% for the BMS. Neither of these
+comparisons showed statistically significant differences.
+DES versus DES
+4.1.16 Eight RCTs comparing different DES types were identified by the Assessment
+Group. Six RCTs compared a SES (Cypher) with a PES (Taxus; including one trial
+that was also assessed in the DES versus BMS clinical section because it had a
+BMS arm as well as two DES arms), one studied SES (Cypher) in comparison with
+the newer SES (Cypher Select) and one compared the Yukon, as a SES, with a
+PES (Taxus).
+4.1.17 Six trials were conducted in only one or two centres in European countries, and
+two were multicentre and multinational. Study sizes ranged from 200 to 1350
+patients. Two trials were distinct in that they did not incorporate planned
+angiographic assessment of trial participants. Only two trials presented
+randomisation details and none of the studies presented adequate information on
+whether the RCTs were conducted under 'blind' conditions. One study did not
+present an intention-to-treat analysis, and for two studies it was unclear whether
+events were reported according to the original randomised allocations.
+4.1.18 A meta-analysis was conducted according to which pairing of DES types was
+compared within trials (most commonly this was the SES [Cypher] versus the PES
+[Taxus]). No total pooled effect estimate was calculated across multiple
+groupings of DES versus DES trials.
+4.1.19 There were no statistically significant differences in rates of mortality or acute MI
+for any of the pairings of DES types.
+4.1.20 For TLR, one individual study showed a statistically significantly better rate of
+TLR, at 6 to 9 months, with the SES (Cypher) compared with the PES (Taxus; OR
+0.56, 95% CI 0.33 to 0.93). Only one RCT had data available beyond 9 months; in
+this study, rates of TLR at 1 year were 5.7% for the SES (Cypher) compared with
+9.0% for the PES (Taxus); the difference was not statistically significant. The
+Assessment Group's pooled analysis of TLR up to 9 months was statistically
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
+conditions#notice-of-rights). 45
+--- Страница 18 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+significant in favour of the SES (Cypher) over the PES (Taxus; OR 0.70, 95% CI
+0.51 to 0.97).
+4.1.21 A statistically significant reduction in TVR with the SES (Cypher) compared with
+the PES (Taxus) was determined from a meta-analysis of two trials at 6 to
+9 months (OR 0.59, 95% CI 0.39 to 0.89). A reduction in the composite event rate
+(MACE) at 6 to 9 months was also statistically significant with the SES (Cypher)
+compared with the PES (Taxus; OR 0.75, 95% CI 0.59 to 0.96).
+Effects of DESs on the risks of thrombosis, MI and mortality
+4.1.22 In December 2006, following publication of data on longer-term risks associated
+with DES (thrombosis, MI and mortality), the FDA convened a public meeting of
+its Circulatory System Devices Advisory Panel to review and analyse the available
+data and to provide recommendations for appropriate actions to address this
+issue. In January 2007, the Circulatory System Devices Advisory Panel made
+recommendations to the FDA. The Panel stated, 'When the DES, which are
+indicated for use in the USA (SES [Cypher]) and (PES [Taxus]), are used in
+accordance with their approved indications both are associated with a small
+increase in stent thrombosis compared with BMS at 1 year after stent
+implantation; the increased risk of stent thrombosis was not associated with an
+increased risk of death or MI compared with BMS; and the concerns about
+thrombosis do not outweigh the benefits of DES compared with BMS when DES
+are implanted within the limits of their approved indications for use.' The FDA
+stated that a longer duration of antiplatelet therapy may be beneficial, and this
+has led to the recommendation in the PCI guideline of the American College of
+Cardiologists/American Heart Association (endorsed by the Society for
+Cardiovascular Angiography Interventions) that in patients receiving DESs the
+duration of clopidogrel use should be increased to 12 months. The BCIS has also
+recommended 12 months' use of clopidogrel in patients receiving a DES.
+4.1.23 The Circulatory System Devices Advisory Panel also considered use of DESs in
+patients with more complex coronary lesions than those studied to support initial
+marketing approval ('off-label' use). The Panel agreed that use of DESs 'off-label'
+is associated with an increased risk of stent thrombosis, MI or death compared
+with 'on-label' use, and until more data are available DES labels (IFUs) should
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
+conditions#notice-of-rights). 45
+--- Страница 19 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+state that when DESs are used off-label, patient outcomes may not be the same
+as the results observed in the clinical trials conducted to support marketing
+approval. The FDA has since defined off-label use to mean the use of a medical
+product for treatments other than those for which the product was initially
+approved; or use not explicitly included in product labelling (intended use and
+IFU). The UK Medicines and Healthcare Products Regulatory Agency (MHRA)
+supports this definition of off-label use for the DESs that have been approved for
+use in Europe.
+4.1.24 Each DES included in this appraisal has an IFU document that lists the indications
+for which it can be used. The sizes of vessels (diameter and length) to be treated
+are stated in the majority of the IFUs, as are the specific contraindications. The
+FDA considers that although patients with diabetes were included in the pivotal
+trials, the number of patients was insufficient for either the SES (Cypher) or the
+PES (Taxus) to earn a specific labelled indication for people with diabetes. The
+UK MHRA supports the view of the FDA with regard to individuals with diabetes
+and only one of the DESs, the PES (Taxus), included in this appraisal has recently
+been specifically indicated for people with diabetes.
+Summary
+4.1.25 There were no statistically significant differences detected in death or MI
+between the pooled subgroups and pooled any-type DES groups. The pooled
+DES analysis indicated that revascularisation rates were reduced by
+approximately three quarters compared with BMSs, consistent across most
+studies of the PES (Taxus) and SESs (Cypher; Endeavor at 6 to 9 months). The
+benefits of DESs over BMSs for TLR were seen at 1 year, and this significant
+difference was maintained for up to 3 years. For the TVR outcome there were
+statistically significant differences in favour of any-type DES over BMS for most
+of the time points assessed.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
+conditions#notice-of-rights). 45
+--- Страница 20 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+4.2 Cost effectiveness
+Published literature
+4.2.1 A total of 10 full economic evaluations were included in the assessment report, all
+of which compared an SES with a BMS, although four evaluations also included a
+PES. One of the evaluations was conducted in the UK; the rest were conducted in
+the USA, Canada or the rest of Europe. Seven evaluations used a 1-year time
+horizon, one used 2 years, one used 6 months and one used a patient's lifetime.
+Of the 10 evaluations, nine estimated that the cost of DESs incurred a price
+premium/difference (the difference in cost between a given BMS and the drug-
+eluting equivalent), which ranged from £233 to £1,225. Four of the evaluations
+reported health outcomes in terms of quality-adjusted life years (QALYs). Three
+evaluations provided incremental costs per QALY for a general population, and
+these costs ranged from US$27,450 to Can$96,523 (approximately US$93,000).
+The fourth evaluation did not include a general population because subgroups
+were found to be too dissimilar for comparison. Two evaluations reported the
+incremental cost-effectiveness ratio (ICER) per repeat revascularisation avoided;
+one estimated it to be US$1650 over 1 year and the other estimated it to be
+approximately US$7000 over 2 years. The majority of evaluations concluded that
+DESs are more cost effective than BMSs for patients with types of arteries that
+have a higher risk of restenosis, although there was great disparity between
+evaluations, with a variety of outcomes and a range of ICERs being reported.
+4.2.2 Only one economic study, carried out alongside the BASKET RCT, reflected
+clinical practice because no protocol-driven angiographic follow-up was included.
+This study's results suggested that, at a threshold of €7800 per MACE avoided,
+DESs could potentially be cost effective in the following subgroups of patients:
+those older than 65 years; those with more than one segment treated; those with
+triple-vessel disease; those with a stent length of more than 20 mm; and those
+with small stent diameters.
+Manufacturers' economic models
+4.2.3 Three models were submitted by DES manufacturers.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
+conditions#notice-of-rights). 45
+--- Страница 21 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+4.2.4 The decision analytic model from Boston Scientific compared the PES (Taxus)
+with the equivalent BMS, for a general population and for subgroups. The
+incremental costs per QALY at 1 year were given as £29,587 for the overall
+population and £1,020 for patients with diabetes. For patients with small vessels
+and long lesions, the PES (Taxus) was dominant (both more effective and less
+costly than the BMS). For the PES (Taxus) at 2 years, the incremental cost per
+QALY for the overall population was given as £13,394, and it was dominant for
+patients with small vessels and those with diabetes. The model was highly
+sensitive to variations in the duration of clopidogrel therapy and the average
+number of stents used. In the manufacturer's sensitivity analyses, when the
+number of stents used per procedure was increased from 1.4 to 1.7, in line with
+the Assessment Group's model, the estimated cost per QALY at 1 year for the
+overall population increased to £56,731; however, the subgroup estimates were
+only marginally increased. If the duration of clopidogrel therapy after DES
+implantation was increased from 6 to 12 months, the cost per QALY at 12 months
+increased to £71,634 for the total population and to over £30,000 for the
+subgroup with diabetes.
+4.2.5 The decision analytic model from Cordis compared the SES (Cypher) with the
+equivalent BMS for a 'no-risk-factor' population and for subgroups. The model
+was split into a two-way analysis of the BMS versus the SES (Cypher) and a
+three-way analysis of the BMS versus the PES (Taxus) versus the SES (Cypher).
+In extending the three-way analysis to 2 years, an indirect comparison was
+undertaken that made an assumption that the BMSs in both trials (Boston
+Scientific and Cordis BMS) are equivalent. The cost data for the technologies (the
+BMS and Taxus) were considered by the Assessment Group to be overestimated
+and when the Assessment Group re-ran the model increasing the SES (Cypher)
+price premium over the equivalent BMS from £433 to £695, the incremental cost
+per QALY increased from £29,259 to £69,613 for the 'no risk factor' subgroup;
+from £10,178 to £39,508 for the small-vessels subgroup; from £16,460 to
+£49,345 for the long-lesions subgroup; and from £9,702 to £38,446 for the group
+with diabetes.
+4.2.6 The Markov model presented by Medtronic compared the ZES (Endeavor
+[sirolimus analogue ABT-578]) with Medtronic's comparable BMS, for a total
+population. The submission measured costs and benefits at 5 years, extrapolating
+the 9-month trial data. In one scenario, the two arms were assumed to be
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
+conditions#notice-of-rights). 45
+--- Страница 22 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+equivalent in terms of risk of repeat revascularisations after 1 year. The
+incremental cost per QALY was estimated at £11,220. No subgroup analyses were
+undertaken. The Assessment Group found the model to be highly sensitive to
+baseline TVR rates and the number of index stents used. If baseline TVR rates
+were reduced below 12% (for both the BMS and the ZES), then the ICER
+exceeded £30,000. If the average number of stents used for the index procedure
+was increased to 1.4, the ICER increased to £39,174. The Assessment Group
+noted that the two factors to which the model was sensitive were taken from a
+single positive trial.
+4.2.7 The submission from Kiwimed compared an SES (Yukon) with the Kiwimed BMS
+for a total population. The effectiveness data were taken from the SES (Cypher)
+trials, so an untested assumption was made that the SES (Yukon) has equivalent
+effectiveness to the SES (Cypher). Extrapolation from 2 to 5 years was
+undertaken using an assumption that patients remained in the same health state
+that they were in at the end of 1 year. Kiwimed's submission stated that the
+model results indicated that the SES (Yukon) was dominant compared with the
+BMS in the total population. In a sensitivity analysis varying the cost of the stent
+and the probability of restenosis, the ICERs for the SES (Yukon) were always
+under £30,000 per QALY.
+Assessment Group model: methods
+4.2.8 The Assessment Group's model used the framework from the original appraisal
+with some minor modifications as follows: the time horizon was restricted to
+1 year, so no discounting was necessary; particular risk groups were examined; in
+addition to the modelling of any-type DES compared with BMS, some head to
+head comparisons were conducted (SES (Cypher) compared with the PES
+(Taxus).
+4.2.9 A difference between the effectiveness of DES and BMS was only seen with
+regard to revascularisation (TLR and TVR) and event rate (MACE and TVF). For
+these endpoints, the clinical trials show evidence of differences between DESs
+and BMSs at 1 year. The clinical trials show evidence in favour of DESs over all
+follow-up periods up to 3 years with a trend towards the greatest benefit
+occurring within the first year.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
+conditions#notice-of-rights). 45
+--- Страница 23 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+4.2.10 In the Assessment Group's model the most important factors in determining the
+incremental cost were the additional cost per DES implanted (price premium/
+difference) and the number of stents implanted per patient. The most important
+factors in determining benefit in the model were the absolute risk of
+revascularisation for patients treated with a BMS and the risk reduction
+attributable to the use of a DES.
+4.2.11 The acquisition cost of a given stent may vary in different settings because of
+negotiated procurement discounts. The Assessment Group in their economic
+evaluation used the prices from a market survey of NHS purchasers. The survey
+was conducted by the NHS Purchasing and Supply Agency in May/June 2005 to
+identify the prices in contracts covering the period 2004/05 for both DESs and
+BMSs. The combined data from 12 purchasing bodies covering 20 hospital trusts
+provided consistent estimates of average unit prices and of the differences in
+price between DESs and BMSs. Results were provided for the two main suppliers
+of DESs: Boston Scientific (Taxus) and Cordis Corporation (Cypher). The effective
+sale price per Taxus PES (excluding VAT) was £815. Because there was only one
+recorded instance of a significant local volume discount agreement for Cypher in
+the survey, the average sample price for the Cypher SES (excluding VAT) was
+£937. The estimated average price for a BMS in the survey (excluding VAT) was
+£278, so the price differences are £537 and £659 per DES for Taxus and Cypher,
+respectively.
+4.2.12 Information received during the consultation period for the appraisal consultation
+document suggested that the prices for DESs had decreased since the 2005
+survey. Therefore updated prices were sought from the NHS Purchasing and
+Supply Agency. From the sample 2007/08 data received from the NHS
+Purchasing and Supply Agency for NHS organisations in England for the stents
+included in this appraisal, the mean price of DES was £529 and the mean price of
+BMS was £131. The price difference between DESs compared with BMSs ranged
+from £203 to £615 across a number of Health Authorities in England.
+4.2.13 To calculate the PCI procedure costs it was necessary to subtract the included
+costs of stents (DES and BMS) from the published PCI costs, and then to add
+back the model estimates of the number of stents, the type of stent and the cost
+per stent. In the final analyses, the Assessment Group assumed a wastage rate of
+1%.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
+conditions#notice-of-rights). 45
+--- Страница 24 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+4.2.14 The Assessment Group base-case analysis used results from two observational
+studies of stented patients treated at the Liverpool Cardiothoracic Centre, to
+convert the efficacy of any-type DES to effectiveness estimates for repeat
+revascularisations and lesions treated in repeat revascularisations. The
+Assessment Group found that 51% of patients who underwent a second PCI
+required repeat treatment to previously treated lesions only. An additional 17% of
+patients received repeat treatment to a target lesion at the same time as
+treatment to a previously untreated lesion in the same vessel; these are the
+patients in whom DESs can be expected to produce benefit. Applying these
+proportions to the relative risk reduction from the trials of 74.6% (for TLR
+obtained from the meta-analysis of any-type DES trials) yielded an expected risk
+reduction in all revascularisations at 12 months of between 38% (95% CI 32 to
+44%) and 50% (95% CI 44 to 57%). The Assessment Group also considered the
+likely benefit that any-type DES may offer in reducing the number of lesions
+treated in repeat revascularisations. When applied to the TLR relative risk
+reductions from the meta-analysis, this suggested that the reduction in the
+number of lesions treated in subsequent interventions was between 37% (95% CI
+31 to 42%) and 53% (95% CI 47 to 59%) based on TLR (the Assessment Group
+counted lesions treated but excluded cases undergoing CABG rather than PCI).
+The Assessment Group noted that the BASKET trial, which did not include
+protocol-driven angiography, reported a risk reduction for DESs of 41% at
+6 months. The Assessment Group therefore used 41% for the risk reduction
+associated with DESs in its base-case analyses.
+4.2.15 The Assessment Group stated that the ICERs of any-type DESs compared with
+any-type BMSs are very dependent on the estimates of relative risk reduction in
+revascularisations and on the absolute rate of revascularisation in the types of
+patients in whom they are used. The absolute rates of revascularisation were
+derived from the Liverpool Cardiothoracic Centre audit data, and the potential of
+benefit was reassessed on the basis of the audit data concerning those patients
+in whom the repeat procedure required treatment of new lesions. This resulted in
+an absolute rate of revascularisation for all patients of 7.43%. The Assessment
+Group also carried out sensitivity analyses, varying rates of revascularisation for
+all patients up to 13%, based on trial data.
+4.2.16 Using the Liverpool Cardiothoracic Centre audit data, the Assessment Group
+developed separate risk models for elective and non-elective patients using
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
+conditions#notice-of-rights). 45
+--- Страница 25 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+patient and lesion characteristics known at the time of the index intervention.
+Risk factors for the patients were identified in the assessment report as being
+calcification, angulation greater than 45 degrees, restenotic lesion, triple-vessel
+disease, vessel diameter of less than 2 mm and prior CABG. In the final analyses,
+the absolute rates of repeat revascularisations for the conventional risk factors
+(long lesions, small vessels, diabetes and all combinations of these) were
+provided using the Liverpool audit data. The Assessment Group stated that,
+because none of these three factors in the multivariate model achieved
+conventional significance using the Liverpool audit data, the individual relative
+risks have wide confidence intervals and should be considered only as illustrative.
+The mean 12-month repeat revascularisation rate for all patients with small
+vessels was 15.25% (95% CI 9.38% to 22.24%), with a rate difference p = 0.02; for
+those with long lesions it was 10.23% (95% CI 8.10% to 12.57%), p = 0.09; and for
+those with diabetes it was 10.61% (95% CI 7.52% to 14.14%), p = 0.14.
+4.2.17 The Assessment Group used patient survey data from the Health Outcomes Data
+Repository (HoDAR) database for its utility values. The difference in HoDAR
+health-related quality of life scores between patients with severe angina and
+those recovered from revascularisation (0.158) was similar to the ARTS trial result
+(0.16), which was used in the previous appraisal. The assumptions made by the
+Assessment Group in the final analyses for disutilities associated with CABG
+versus PCI in the 6-week period following the procedure were that for a 2-week
+post-operative period, patients undergoing CABG experience a very low quality
+of life (0.0), and for the next 2 weeks the mean utility score recovers in a linear
+fashion achieving full benefit (0.660) by 4 weeks after the operation. Patients
+undergoing PCI were assumed to recover full benefit linearly over a 2-week
+period following the procedure. The Assessment Group concluded additionally
+that there was no evidence to suggest an effect on the rate of acute MI or
+mortality with CABG compared with PCI plus stenting.
+4.2.18 When BMSs and DESs were compared, the meta-analysis showed a trend
+towards increased numbers of non-fatal acute MIs with BMSs. The Assessment
+Group concluded in their analyses that based on the reviewed evidence, the
+maximum likely effect of this is equivalent to, per patient, an overall cost saving of
+about £13 and a utility gain of about 0.00055 when DESs are used.
+4.2.19 The clinical evidence from the meta-analyses in the assessment report
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
+conditions#notice-of-rights). 45
+--- Страница 26 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+suggested that the SES (Cypher) reduces repeat revascularisations compared
+with the PES (Taxus). Because most of the clinical trials were limited to 6 to
+9 months' duration, the Assessment Group carried out the economic evaluation
+assuming clinical equivalence and distinguished between stents only on the basis
+of price.
+4.2.20 In the additional analyses requested by the Committee, the Assessment Group
+undertook sensitivity analyses by varying a number of the parameters in the
+original model. The results of the sensitivity analyses were presented as a
+number of tables containing the ICERs for a range of price premiums, for a range
+of absolute risks of revascularisation of BMSs, for the total population of stented
+patients and the risk-factor groups (small vessel, long lesion, diabetes and all
+combinations of these). Tables were presented for different numbers of stents
+(mean number, 1, 2 or 3) per patient. The Assessment Group also undertook new
+sensitivity analyses that took account of an additional 9 months' use of
+clopidogrel in patients receiving DESs, in accordance with the recent BCIS
+recommendations. These additional costs were applied only to 56% of the patient
+population because it was suggested by Consultees that 44% of patients would
+have acute coronary syndrome and therefore already be receiving 12 months'
+treatment with clopidogrel in accordance with 'Clopidogrel in the treatment of
+non-ST-segment-elevation acute coronary syndrome' (NICE technology appraisal
+guidance on clopidogrel in the treatment of non-ST-segment-elevation acute
+coronary syndrome).
+4.2.21 The Assessment Group, at the request of the Committee, also provided estimates
+based on the analyses using a relative risk reduction with DESs of 55% as the
+base case and a sensitivity analysis of 65%. These relative risk reductions with
+DESs were used for a rate of revascularisation, using BMSs, of 11%, which was
+obtained from combining results for all patients (equivalent to 10% for elective
+and 13% for non-elective patients). The corresponding risk of revascularisation
+using BMSs for the risk groups and the mean number of stents were also
+calculated from the combined datasets for the elective and non-elective patients.
+4.2.22 Following consultation, the Assessment Group provided two additional analyses.
+The first additional analysis updated the 2003/04 resource costs with reference
+costs from 2005/06. The waiting times for PCI and CABG were updated from 20
+to 20.5 weeks for PCI and from 13 to 20.9 weeks for CABG. The number of
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
+conditions#notice-of-rights). 45
+--- Страница 27 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+patients with acute coronary syndrome was changed from 44% to 48.5%, and
+consequently the number of patients receiving an extra 9 months' treatment with
+clopidogrel was reduced from 56% to 51.5%.
+4.2.23 In addition to the changes to resource costs, waiting times and number of
+patients with acute coronary syndrome, the second additional analysis included
+new parameters based on alternative suggestions from the BCIS. The
+Assessment Group modified BCIS's suggestion regarding the presentational
+case-mix. The following parameters were used in the model: the percentages of
+elective and non-elective patients were changed from 68% to 57% for elective
+patients and from 32% to 43% for non-elective patients; the absolute risk of
+revascularisation of BMS for all patients was changed from 11% to 13% by
+combining 11.5% of elective and 15% on non-elective patients from the Liverpool
+Cardiothoracic Centre audit dataset; the relative risks for revascularisation in
+high-risk groups were set to 1.75 for small vessels, 1.35 for long lesions and 1.52
+for diabetes; and the relative risk reductions from using DES were set to 60% for
+all patients; 69% for patients with small vessels; 70% for patients with long
+lesions and 61% for patients with diabetes.
+Assessment Group model: results
+4.2.24 Based on the Liverpool Cardiothoracic Centre audit data, the Assessment
+Group's original base-case scenario as described in 4.2.20 assumes the overall
+repeat revascularisation rate for the total population of stented patients in the UK
+at 12 months after PCI with BMSs is 7.43%. Using 7.43% for all patients, the
+absolute rates of repeat revascularisation for the risk factors become: 7.8% for
+long lesions; 9.0% for diabetes; and 9.9% for small vessels. Using the overall
+mean number of stents implanted per patient from the Liverpool Cardiothoracic
+Centre audit data (1.615) and assuming a price difference of £600 (approximate
+average of the price difference of the PES Taxus and the SES Cypher, from the
+survey data) the resulting incremental costs per QALY for each of the groups of
+elective patients are approximately: £407,000 for all patients; £380,000 for long
+lesions; £340,000 for diabetes; and £306,000 for small vessels. Using the overall
+mean number of stents implanted per patient for non-elective patients (1.467) the
+resulting incremental costs per QALY for each of the groups, at a price difference
+of £600, are: £282,000 for all patients; £250,000 for long lesions; £353,000 for
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
+conditions#notice-of-rights). 45
+--- Страница 28 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+diabetes; and £94,000 for small vessels.
+4.2.25 Based on the Liverpool Cardiothoracic Centre audit data, the Assessment
+Group's re-analysis of the base-case scenario assumes an 11% overall
+revascularisation rate for the total population of stented patients in the UK at
+12 months after PCI with BMSs. Using 11% for all patients, the absolute rates of
+repeat revascularisation for the risk factors become: 11.7% for long lesions; 11.6%
+for diabetes; and 19% for small vessels. The relative risk reduction with DESs is
+assumed to be 55%. Using the overall mean number of stents implanted per
+patient from the Liverpool audit data, both elective and non-elective (1.571) and
+assuming a price difference of £600 (approximate average of the price difference
+of the PES [Taxus] and the SES [Cypher], from the survey data) the resulting
+incremental costs per QALY for each of the groups of patients are approximately:
+£213,000 for all patients; £183,000 for long lesions; £180,000 for diabetes; and
+£146,000 for small vessels. Assuming a price difference of £300 the resulting
+incremental costs per QALY for each of the groups of patients are approximately:
+£101,000 for all patients; £85,000 for long lesions; £84,000 for diabetes; and
+£59,000 for small vessels.
+4.2.26 For the Assessment Group's sensitivity analysis for the combined elective and
+non-elective data, using a relative risk reduction with DESs of 65% and a price
+difference of £600, the resulting incremental costs per QALY for each of the
+groups of patients are approximately: £174,000 for all patients; £148,000 for long
+lesions; £146,000 for diabetes; and £116,000 for small vessels. Assuming a price
+difference of £300 the resulting incremental costs per QALY for each of the
+groups of patients are approximately: £78,000 for all patients; £65,000 for long
+lesions; £64,000 for diabetes; and £41,000 for small vessels.
+4.2.27 The Assessment Group's additional analysis as described in 4.2.22, assuming a
+price difference of £600 for the base case (55% relative risk reduction of DES),
+results in incremental costs per QALY for each of the groups of patients of
+approximately: £171,000 for all patients; £158,000 for long lesions; £156,000 for
+diabetes; and £124,000 for small vessels. Assuming a price difference of £300
+the resulting incremental costs per QALY for each of the groups of patients are
+approximately: £74,000 for all patients; £66,000 for long lesions; £65,000 for
+diabetes; and £41,000 for small vessels. For the updated Assessment Group's
+sensitivity analysis (65% for the relative risk reduction of DES) the resulting
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
+conditions#notice-of-rights). 45
+--- Страница 29 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+incremental costs per QALY, for a price difference of £600, for each of the groups
+of patients are approximately: £137,000 for all patients; £126,000 for long lesions;
+£124,000 for diabetes; and £95,000 for small vessels. Assuming a price
+difference of £300 the resulting incremental costs per QALY for each of the
+groups of patients are approximately: £54,000 for all patients; £47,000 for long
+lesions; £46,000 for diabetes; and £25,000 for small vessels.
+4.2.28 The Assessment Group's second additional analysis, as described in 4.2.23,
+resulted in incremental costs per QALY for each of the groups of patients,
+assuming a price difference of £600, of approximately: £111,000 for all patients;
+£51,000 for long lesions; £53,000 for diabetes; and £59,000 for small vessels.
+Assuming a price difference of £300 the resulting incremental costs per QALY for
+each of the groups of patients are approximately: £38,000 for all patients; £3,000
+for long lesions; £4,000 for diabetes; and £4,000 for small vessels.
+4.3 Consideration of the evidence
+4.3.1 The Appraisal Committee reviewed the data available on the clinical and cost
+effectiveness of DESs, having considered evidence on the nature of the condition
+and the value placed on the benefits of DESs by people with coronary artery
+disease, those who represent them, and clinical specialists. It was also mindful of
+the need to take account of the effective use of NHS resources.
+4.3.2 The Committee considered the evidence on the clinical effectiveness of DESs in
+the treatment of CHD. The Committee acknowledged that the clinical trials
+showed that the use of any-type DESs reduced the rate of revascularisation in
+the target lesions and the target vessels, at all follow-up time points up to
+3 years, compared with any-type BMSs. The Committee noted not just the trial
+data, but also the recent discussions on the effects of DESs on the risks of
+thrombosis, MI, and mortality, and accepted the findings of the FDA review that
+any-type DESs conferred no statistically significant benefits in mortality or acute
+MI rates over any-type BMSs. The Committee concluded that the key benefit of
+DESs is the reduction in rates of revascularisation in target lesions and target
+vessels compared with BMSs.
+4.3.3 The Committee considered whether there was any evidence to suggest that
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
+conditions#notice-of-rights). 45
+--- Страница 30 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+there were differences in the clinical effectiveness of the various types of DESs. It
+noted that only four of the eleven DESs had been compared with each other in
+head-to-head RCTs. The majority of data comparing revascularisation rates were
+between the SES (Cypher) and the PES (Taxus). The Committee noted that the
+SES (Cypher) showed a statistically significant reduction in TLR, TVR and MACEs
+compared with the PES (Taxus), at 9 months. It was also noted that at 1 year, for
+the only outcome available, rates of TLR for the SES (Cypher) compared with the
+PES (Taxus) showed no statistically significant difference. The Committee heard
+testimony from the clinical specialists that different DESs are clinically
+comparable and that, in practice, any of the DESs would be used, although those
+with the greater evidence-base would be first choice.
+4.3.4 The Committee considered the evidence to suggest that there were groups of
+patients whose vessel anatomy was more likely to be subject to restenosis. The
+absolute rate of revascularisation in these groups was greater than that of other
+patients and they therefore had the potential to gain a greater relative benefit
+from DESs than other patients, and this was taken into account by the sensitivity
+analysis in the assessment group's economic model. The Committee considered
+the risk factors derived by the Assessment Group using the Liverpool
+Cardiothoracic Centre audit data, but it heard testimony from the clinical
+specialists that small vessels (less than 3 mm in calibre), long lesions (longer than
+15 mm) and diabetes were the risk factors most consistently reported and that
+made most sense clinically. The Committee noted that, although the Assessment
+Group's analysis of the Liverpool Cardiothoracic Centre audit data did not prove
+that any of these were statistically significant risk factors, taking account of other
+studies, small-vessel disease and long lesions were better predictors of risk
+groups than diabetes, and are particularly prevalent in patients with CAD who
+also have diabetes. The Committee was also mindful of the regulatory concerns
+about the 'off-label' use of DESs. The Committee concluded that small vessels
+and long lesions should be considered as separate risk factors whereas diabetes
+should not be considered as a separate risk factor.
+4.3.5 The Committee noted that the Assessment Group's model was based on the
+Liverpool Cardiothoracic Centre audit data that distinguished elective and non-
+elective (emergency) patients. The Committee heard testimony from the clinical
+specialists that in clinical practice the differences between these patient groups
+specifically related to the mode of their presentation with acute coronary
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
+conditions#notice-of-rights). 45
+--- Страница 31 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+syndromes, that is, non-ST-segment-elevated MI or unstable angina, and to the
+use of adjunctive treatments, in particular anti-platelet therapy. Due to the lack of
+other differences the Committee concluded that elective and non-elective
+patients should be considered together but that the merging of the estimates
+should take account of the proportions of elective and non-elective patients seen
+in clinical practice.
+4.3.6 In considering the cost effectiveness of DESs compared with BMSs, the
+Committee noted that the model structure used by the Assessment Group was
+appropriate. The Committee discussed the key parameters that drove the
+Assessment Group's economic model. It considered the absolute rate of
+revascularisation of BMSs in the total population of stented patients and noted
+that the Assessment Group used 7.43% for patients in its base case in the
+assessment report. The Committee heard testimony from the clinical specialists
+that the rate of revascularisation of BMSs was around 12% in the published
+literature. It noted that some of these published trials included protocol-driven
+angiography and revascularisation and therefore were likely to be an
+overestimate of actual revascularisation rates in clinical practice in the UK. The
+Committee noted that the Liverpool Cardiothoracic Centre audit data
+revascularisation rates were lower than those from other data sets including the
+BASKET trial (11%), which had not included protocol-driven angiography, and the
+Scottish Registry (11.5%). The Committee discussed the range of possible values
+for revascularisation and their relevance to UK practice and concluded that a rate
+of 11% for the absolute rate of revascularisation was a reasonable estimate for UK
+practice.
+4.3.7 The Committee considered the relative reduction in the risk of target lesion
+revascularisation with DESs. The Committee noted that the trial data typically
+gave a relative risk reduction of 75%, but considered that this figure might over-
+estimate the real-life benefit of DESs because it is derived from the trials that
+included protocol-driven angiography and revascularisation. The Committee
+heard that the BASKET trial, which had not included protocol-driven angiography,
+had a relative risk reduction with DESs of 41% at 12 months. The Committee
+looked at the adjusted relative risk reduction with DESs used by the Assessment
+Group, and acknowledged that their approach reflected the number of patients,
+and not the target lesions, that would benefit from DESs. The Committee noted
+that the Assessment Group's figure was in line with the BASKET trial. The
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of
+conditions#notice-of-rights). 45
+--- Страница 32 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+Committee heard from the clinical specialists that the most plausible relative risk
+reduction with DESs from the clinical evidence was likely to be in the range 50%
+to 60% for the base case and 61% to 70% for high-risk groups. Given the variation
+in data the Committee considered a relative risk reduction with DESs over BMSs
+of 55% in the base case, and of 65% in a sensitivity analysis for the higher risk
+groups were the most plausible.
+4.3.8 The Committee considered the mean number of stents used for each of the risk
+groups from the Liverpool Cardiothoracic Centre audit data and concluded that
+the estimate of mean number of stents per patient (1.6 for elective patients, 1.5
+for non-elective patients) was likely to be a representative figure of the number
+used in all patients in the UK and could be used as a base case for consideration
+of the benefits of DESs.
+4.3.9 The Committee was mindful of data in the literature on the mortality and
+morbidity of CABG and repeat angiography. After reviewing the utility values in
+the Assessment Group's model the Committee acknowledged the possibility that
+there could be an additional disutility associated with CABG during the initial
+6 weeks following the procedure compared with PCI. The Committee accepted
+the Assessment Group's revisions for this parameter.
+4.3.10 The Committee noted the current UK recommendation that clopidogrel should be
+given for an additional 9 months in patients receiving a DES and it therefore
+considered it appropriate that this should be taken account of in the cost-
+effectiveness analysis. The Committee also accepted the consultation
+suggestions that patients with acute coronary syndrome would already be
+receiving 12 months' treatment with clopidogrel and that no additional costs
+would be incurred in this population.
+4.3.11 The Committee heard testimony from the clinical specialists and received
+information during the consultation period that in some areas procurement
+arrangements had resulted in a price difference of £300 for DESs over BMSs. The
+Committee also received information that although no nationally procured price
+currently existed for DESs, price differences that were less than £300 did exist in
+some regions. The Committee agreed that as this price difference existed in
+some regions, it was reasonable to assume that DESs could be procured in this
+way across all regions within the NHS and, therefore, it could be considered as an
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 32 of
+conditions#notice-of-rights). 45
+--- Страница 33 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+appropriate costing option in its considerations.
+4.3.12 After agreeing on the parameters to use in the Assessment Group's model, the
+Committee discussed the resulting ICERs for the base case and risk groups,
+assuming:
+• the absolute risk of revascularisation with BMSs for the total population is
+11%, with resulting risks of revascularisation for small vessels of 19% and for
+long lesions of 11.7%
+• the mean number of stents per patient is 1.571
+• the relative risk reduction with DESs for the base case is 55% for the total
+population, and 65% for patients with small vessels and long lesions
+• price differences of DESs over BMSs of £600 and £300.
+At a relative risk reduction of 55% with DESs, the resulting ICER for the total
+population of patients was associated with a cost per QALY of approximately
+£171,000 at a price difference of £600 and £74,000 at a price difference of
+£300. For the higher risk groups of patients (that is, those with long lesions
+and those with small vessels) using a DES, with a relative risk reduction of
+65%, the resulting ICERs were associated with costs per QALYs of £126,000
+and £95,000, respectively, at a price difference of £600 and £47,000 and
+£25,000, respectively, at a price difference of £300.
+4.3.13 Reflecting the testimony of the clinical specialists and the comments received
+during consultation, the Committee noted the small differences in the key
+parameters between those that the Committee had previously agreed and those
+suggested by BCIS. The Committee noted that the ICERs resulting from using the
+parameter values suggested by the BCIS into the Assessment Group's model for
+a price difference of £600 were associated with costs per QALYs of
+approximately: £111,000 for all patients; £51,000 for long lesions; £53,000 for
+diabetes; and £59,000 for small vessels. For a price difference of £300 the
+resulting ICERs were associated with costs per QALYs below £5,000 for patients
+with small vessels and long lesions. The Committee was not, however, persuaded
+that all of the parameter values suggested by BCIS were plausible, but it agreed
+that the percentages of elective and non-elective patients at presentation should
+be 57% elective to 43% non-elective. The Committee noted that taking account
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 33 of
+conditions#notice-of-rights). 45
+--- Страница 34 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+of this assumption would decrease the ICERs seen in the updated analysis for
+long lesions and small vessels (see 4.3.12), which means that, at a price
+difference of £300, the plausible ICERs would be much lower than cost per
+QALYs of £47,000 and £25,000, respectively.
+4.3.14 The Committee agreed that DESs could not be considered a cost-effective use of
+NHS resources at a price difference of £600. After considering the alternative
+parameter values presented by the Assessment Group and BCIS, the Committee
+concluded that on balance at a price difference between DESs and BMSs of not
+more than £300, DESs could be considered a cost effective option in patients
+with small vessels and long lesions, and should be recommended for use in these
+patient groups. The Committee's decision was based on a price difference of
+£300 between BMSs and DESs. The Committee noted that procurement
+arrangements for DESs at a price difference of £300 was already in place within
+many NHS regions and achievable across the NHS as a whole. The Committee
+understood that the mean absolute price of a BMS, to the NHS, was £131.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 34 of
+conditions#notice-of-rights). 45
+--- Страница 35 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+5 Implementation
+5.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
+and Functions) and the Health and Social Care Information Centre (Functions)
+Regulations 2013 requires integrated care boards, NHS England and, with respect
+to their public health functions, local authorities to comply with the
+recommendations in this evaluation within 3 months of its date of publication.
+5.2 The Welsh ministers have issued directions to the NHS in Wales on implementing
+NICE technology appraisal guidance. When a NICE technology appraisal guidance
+recommends the use of a drug or treatment, or other technology, the NHS in
+Wales must usually provide funding and resources for it within 2 months of the
+first publication of the final draft guidance.
+5.3 When NICE recommends a treatment 'as an option', the NHS must make sure it is
+available within the period set out in the paragraphs above. This means that, if a
+patient has coronary artery disease and the healthcare professional responsible
+for their care thinks that drug-eluting stents is the right treatment, it should be
+available for use, in line with NICE's recommendations.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 35 of
+conditions#notice-of-rights). 45
+--- Страница 36 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+6 Recommendations for further research
+6.1 The Committee noted that there are a number of trials under way comparing the
+clinical effectiveness of DESs with their equivalent BMS and/or with other DESs at
+longer follow-up periods.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 36 of
+conditions#notice-of-rights). 45
+--- Страница 37 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+7 Appraisal Committee members and NICE
+project team
+Appraisal Committee members
+The Appraisal Committee is a standing advisory committee of NICE. Its members are
+appointed for a 3-year term. A list of the Committee members who took part in the
+discussions for this appraisal appears below. The Appraisal Committee meets three times
+a month except in December, when there are no meetings. The Committee membership is
+split into three branches, each with a chair and vice-chair. Each branch considers its own
+list of technologies and ongoing topics are not moved between the branches.
+Committee members are asked to declare any interests in the technology to be appraised.
+If it is considered there is a conflict of interest, the member is excluded from participating
+further in that appraisal.
+The minutes of each Appraisal Committee meeting, which include the names of the
+members who attended and their declarations of interests, are posted on the NICE
+website.
+Professor Keith Abrams
+Professor of Medical Statistics, University of Leicester
+Dr Darren Ashcroft
+Senior Clinical Lecturer, School of Pharmacy and Pharmaceutical Sciences, University of
+Manchester
+Dr Jeffrey Aronson
+Reader in Clinical Pharmacology, University Department of Clinical Pharmacology,
+Radcliffe Infirmary
+Professor David Barnett
+Professor of Clinical Pharmacology, University of Leicester
+Dr Peter Barry
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 37 of
+conditions#notice-of-rights). 45
+--- Страница 38 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+Consultant in Paediatric Intensive Care, Leicester Royal Infirmary
+Mr Brian Buckley
+Lay Member
+Professor Stirling Bryan
+Director, Health Economics Facility, University of Birmingham
+Professor John Cairns
+Public Health and Policy, London School of Hygiene and Tropical Medicine
+Professor Mike Campbell
+Statistician, University of Sheffield
+Professor David Chadwick
+Professor of Neurology, Walton Centre for Neurology and Neurosurgery
+Dr Mark Chakravarty
+Industry Member
+Dr Peter I Clark
+Consultant Medical Oncologist, Clatterbridge Centre for Oncology, Merseyside
+Dr Mike Davies
+Consultant Physician, University Department of Medicine and Metabolism, Manchester
+Royal Infirmary
+Professor Jack Dowie
+Health Economist, London School of Hygiene
+Ms Lynn Field
+Nurse Director, Pan Birmingham Cancer Network
+Professor Christopher Fowler
+Professor of Surgical Education and Honorary Consultant Urologist
+Mrs Barbara Gerggains
+Lay Member
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 38 of
+conditions#notice-of-rights). 45
+--- Страница 39 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+Dr Fergus Gleeson
+Consultant Radiologist, The Churchill Hospital, Oxford
+Ms Sally Gooch
+Independent Healthcare Consultant
+Mr Sanjay Gupta
+Stroke Services Manager, Basildon and Thurrock University Hospitals NHS Trust
+Professor Philip Home
+Professor of Diabetes Medicine, University of Newcastle upon Tyne
+Dr Peter Jackson
+Clinical Pharmacologist, University of Sheffield
+Professor Peter Jones
+Professor of Statistics and Dean, Faculty of Natural Sciences, Keele University
+Dr Mike Laker
+Medical Director, Newcastle Hospitals NHS Trust
+Dr George Levvy
+Chief Executive, Motor Neurone Disease Association, Northampton
+Ms Rachel Lewis
+Nurse Advisor to the Department of Health
+Mr Terence Lewis
+Lay Member
+Professor Gary McVeigh
+Professor of Cardiovascular Medicine, Queen's University Belfast
+Professor Jonathan Michaels
+Professor of Vascular Surgery, University of Sheffield
+Dr Neil Milner
+General Practitioner, Sheffield
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 39 of
+conditions#notice-of-rights). 45
+--- Страница 40 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+Dr Ruairidh Milne
+Senior Lecturer in Health Technology Assessment, National Coordinating Centre for Health
+Technology
+Dr John Pounsford
+Consultant Physician, Frenchay Hospital, Bristol
+Dr Rosalind Ramsay
+Consultant Psychiatrist, Adult Mental Health Services, Maudsley Hospital
+Dr Stephen Saltissi
+Consultant Physician, The Royal Liverpool University Hospital
+Mr Miles Scott
+Chief Executive, Bradford Teaching Hospitals NHS Foundation Trust
+Dr Lindsay Smith
+General Practitioner, East Somerset Research Consortium
+Mr Roderick Smith
+Director of Finance, Adur, Arun and Worthing PCT
+Mr Cliff Snelling
+Lay Member
+Dr Ken Stein
+Senior Lecturer, Peninsula Technology Assessment Group (PenTAG), University of Exeter
+Professor Andrew Stevens (Chair)
+Professor of Public Health, University of Birmingham
+NICE project team
+Each technology appraisal is assigned to a team consisting of one or more health
+technology analysts (who act as technical leads for the appraisal), a technical adviser and
+a project manager.
+Joanna Richardson
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 40 of
+conditions#notice-of-rights). 45
+--- Страница 41 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+Technical Lead
+Dr Elisabeth George
+Technical Adviser
+Reetan Patel
+Project Manager
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 41 of
+conditions#notice-of-rights). 45
+--- Страница 42 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+8 Sources of evidence considered by the
+Committee
+The assessment report for this appraisal was prepared by Liverpool Reviews and
+Implementation Group, University of Liverpool.
+• Hill R, Boland A, Dickson R, et al. Drug-eluting stents: a systematic review and
+economic evaluation, November 2005
+The following organisations accepted the invitation to participate in this appraisal. They
+were invited to comment on the draft scope, assessment report and the appraisal
+consultation document (ACD). Manufacturers or sponsors and professional or specialist
+and patient or carer groups were also invited to make written submissions and have the
+opportunity to appeal against the final appraisal determination.
+Manufacturers or sponsors:
+• Abbott Vascular Devices Ltd
+• Biotronik UK Ltd
+• Boston Scientific
+• Cordis Corporation
+• Guidant
+• Kiwimed Ltd
+• Medtronic AVE
+• Sorin Biomedica UK Ltd
+Professional or specialist and patient or carer groups:
+• British Association for Nursing in Cardiac Care
+• British Cardiac Society
+• British Cardiovascular Intervention Society
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 42 of
+conditions#notice-of-rights). 45
+--- Страница 43 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+• British Heart Foundation
+• Royal College of Nursing
+• Royal College of Physicians
+• Royal College of Physicians of Edinburgh
+• Pharmaceutical Society of Great Britain
+• Society for Cardiological Science and Technology
+• Society of Cardiothoracic Surgeons of Great Britain and Ireland
+• Action Heart
+• British Cardiac Patients Association
+• Coronary Prevention Group
+• HEART UK
+• National Heart Forum
+• Heart Care Partnership (UK)
+Other consultees
+• Barnet PCT
+• Central Derby PCT
+• Department of Health
+Welsh Assembly Government Commentator organisations (without the right of appeal):
+• Association of British Health-Care Industries (ABHI)
+• British Cardiovascular Industry Association (BCIA)
+• BNF
+• Board of Community Health Councils in Wales
+• EUCOMED
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 43 of
+conditions#notice-of-rights). 45
+--- Страница 44 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+• Medicines and Healthcare products Regulatory Agency (MHRA)
+• National Collaborating Centre for Acute Care
+• National Collaborating Centre for Chronic Conditions
+• National Public Health Service for Wales
+• NHS Confederation
+• NHS Purchasing and Supplies Agency
+• NHS Quality Improvement Scotland
+The following individuals were selected from clinical specialist and patient advocate
+nominations from the non-manufacturer/sponsor consultees and commentators. They
+participated in the Appraisal Committee discussions and provided evidence to inform the
+Appraisal Committee's deliberations. They gave their expert personal view on drug-eluting
+stents by attending the initial Committee discussion and/or providing written evidence to
+the Committee. They were also invited to comment on the ACD.
+• Mrs Jill Bishop, Cardiac Catheter Theatre Manager, nominated by the British
+Association of Nursing in Cardiac Care – clinical specialist (attended in 2006 and
+2007).
+• Mr Ron Box, nominated by the Heart Care Partnership – patient expert (attended in
+2006 and 2007).
+• Dr Martyn Thomas, Consultant Cardiologist, nominated by the British Cardiovascular
+Intervention Society – clinical specialist (attended in 2006 and 2007).
+• Dr AH Gershlick, Consultant Cardiologist, nominated by the British Heart Foundation
+and the British Cardiac Society – clinical specialist (attended in 2006 and 2007).
+• Dr Keith Oldroyd, Consultant Cardiologist, nominated by NHS Quality Improvement
+Scotland – clinical specialist (attended in 2006 and 2007).
+• Rev Dan Paterson, nominated by the Heart Care Partnership – patient expert
+(attended in 2006).
+• Ms Liz Clarke, nominated by the Heart Care Partnership – patient expert (attended in
+2007).
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 44 of
+conditions#notice-of-rights). 45
+--- Страница 45 ---
+Drug-eluting stents for the treatment of coronary artery disease (TA152)
+Update information
+November 2020: Recommendation 1.1 was updated when NICE's guideline on acute
+coronary syndromes was published.
+ISBN: 978-1-4731-3930-5
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 45 of
+conditions#notice-of-rights). 45

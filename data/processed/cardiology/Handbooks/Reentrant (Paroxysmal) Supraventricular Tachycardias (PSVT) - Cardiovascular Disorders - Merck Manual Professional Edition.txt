@@ -1,0 +1,301 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Reentrant (Paroxysmal) Supraventricular Tachycardias (PSVT) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:46.562479",
+  "file_size_bytes": 857433,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Reentrant (Paroxysmal) Supraventricular Tachycardias (PSVT) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:04 Reentrant (Paroxysmal) Supraventricular Tachycardias (PSVT) - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Reentrant (Paroxysmal) Supraventricular
+Tachycardias (PSVT)
+(Paroxysmal Supraventricular Tachycardia)
+By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Sept 2024
+Reentrant (paroxysmal) supraventricular tachycardias (PSVT) involve reentrant
+pathways with a component above the bifurcation of the His bundle. Subtypes
+include atrioventricular nodal reentrant tachycardia (AVNRT), atrioventricular
+reentrant tachycardia (AVRT) using an accessory pathway, atrial reentrant
+tachycardia, and sinus nodal reentrant tachycardia. Patients have sudden
+episodes of palpitations that begin and terminate abruptly; some have dyspnea
+or chest discomfort. Diagnosis is clinical and by electrocardiography. Initial
+treatment is usually with vagotonic maneuvers. If these maneuvers are
+ineffective, treatment is with IV adenosine or nondihydropyridine calcium
+channel blockers for narrow QRS rhythms or for wide QRS rhythms known to be
+a reentrant SVT with aberrant conduction that requires atrioventricular nodal
+conduction. Procainamide or amiodarone are effective for other wide QRS
+rhythms. Synchronized cardioversion can be done for all cases in which
+medications are ineffective or there is hemodynamic instability.
+(See also Overview of Arrhythmias.)
+Pathophysiology of Reentrant SVTs
+Reentrant (paroxysmal) supraventricular tachycardias are defined as the sudden-onset, sudden-offset,
+rapid (120 to 250 beats per minute), regular (successive RR interval variations ≤ 0.04 seconds), narrow
+QRS complex (or wide QRS complex with bundle branch block) tachycardias that are not sinus
+tachycardia, atrial fibrillation, or atrial flutter. So defined, the incidence of reentrant (paroxysmal)
+supraventricular tachycardia is approximately 35/100,000, and the prevalence is 2 to 3/1000 people in
+the United States (1). In adult patients, the proportions of subtypes are (2):
+Atrioventricular (AV) nodal reentrant tachycardia (AVNRT) (50% to 60%)
+Atrioventricular reentrant tachycardia (AVRT) using accessory bypass tract (20% to 30%) OR
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/reentrant-paroxysmal-supraventricular-tachycardias-psvt 1/9
+--- Страница 2 ---
+22/01/2026, 14:04 Reentrant (Paroxysmal) Supraventricular Tachycardias (PSVT) - Cardiovascular Disorders - Merck Manual Professional Edition
+Atrial reentrant tachycardia and sinoatrial (SA) node reentrant tachycardia (10% to 15%)
+Atrioventricular reentrant tachycardia (AVRT) is the most common type seen in Wolff-Parkinson-White
+syndrome. In children, atrioventricular nodal reentrant tachycardia is much less common;
+atrioventricular reentrant tachycardia, atrial reentrant tachycardia, and junctional ectopic tachycardia
+are more common.
+Atrioventricular nodal reentrant tachycardia (AVNRT)
+AVNRT occurs most often in otherwise healthy people. It is most commonly triggered by an atrial
+premature beat. The AV node has multiple extensions that serve as routes for atrial activations to enter
+the AV node. In most people, the superior/anterior extension bypasses much of the AV node and the
+antegrade conduction time to the His-Purkinje system and ventricles is short (a fast pathway) while the
+inferior/posterior extension uses all of the AV node and the antegrade conduction time to the His-
+Purkinje system and ventricles is long (a slow pathway).
+The fast pathway tends to have a longer refractory period, which blocks antegrade transmission of a
+premature atrial depolarization at longer AA intervals, while the slow pathway tends to have a shorter
+refractory period, which blocks antegrade transmission of a premature atrial depolarization at shorter
+AA intervals. At a premature atrial depolarization coupling interval longer than the refractory period of
+both pathways the antegrade transmission through the fast pathway reaches the His-Purkinje system
+and the ventricles while the antegrade transmission through the slow pathway finds the His-Purkinje
+system refractory, having just been activated by the fast pathway, and the slow pathway transmission is
+blocked. The ECG shows a normal PR interval for this beat.
+At a premature atrial depolarization coupling interval shorter than the refractory period of both
+pathways neither antegrade transmission reaches the His-Purkinje system and ventricles. The ECG
+shows a blocked premature atrial beat. At a premature atrial depolarization coupling interval less than
+the refractory period of the fast pathway but longer than the refractory period of the slow pathway,
+antegrade fast pathway transmission is blocked, but antegrade slow pathway conduction proceeds. The
+ECG shows a sudden increase in the PR interval for this beat (see figure Initiation of Atrioventricular
+Nodal Reentry Tachycardia).
+Initiation of an Atrioventricular Nodal Reentry Tachycardia
+There is an abnormal P wave (P′) and atrioventricular nodal delay (long P′R interval) before
+onset of the tachycardia.
+When antegrade conduction through the slow pathway is sufficiently slow, it can find the lower portion
+of the fast pathway ready to conduct, but now in the retrograde direction. When this retrograde fast
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/reentrant-paroxysmal-supraventricular-tachycardias-psvt 2/9
+--- Страница 3 ---
+22/01/2026, 14:04 Reentrant (Paroxysmal) Supraventricular Tachycardias (PSVT) - Cardiovascular Disorders - Merck Manual Professional Edition
+pathway transmission finds the upper portion of the slow pathway ready to conduct again in the
+antegrade conduction, around-and-around AV nodal reentry occurs. The ECG then shows a rapid,
+regular, tachycardia. Such typical, or slow-fast, AV nodal reentry is the usual (90%) type of AV nodal
+reentry (2). Less commonly, and more often induced by a ventricular premature beat, the reentry occurs
+in the opposite direction (atypical or fast-slow AV nodal reentry).
+Atrioventricular reentrant tachycardia (AVRT)
+AVRT occurs in patients with an accessory AV connection and is the most common type seen in Wolff-
+Parkinson-White syndrome. It runs most commonly from an atrium to a ventricle and rarely from an
+atrium to a portion of the conduction system or from a portion of the conduction system to the
+ventricle. An accessory pathway connecting an atrium and a ventricle is the substrate for the Wolff-
+Parkinson-White syndrome. When the accessory AV connection conducts in the antegrade direction, the
+AV nodal delay is bypassed, and a portion of ventricular myocardium is activated before the remainder
+of ventricular myocardium is activated by the normal conduction system. This ventricular pre-excitation
+produces the short PR interval and delta wave that, along with symptoms of paroxysmal tachycardia,
+define the classic (manifest) Wolff-Parkinson-White syndrome (3). When the accessory AV connection
+does not conduct in the antegrade direction, the ECG is normal, and the presence of the accessory AV
+connection is concealed (concealed Wolff-Parkinson-White syndrome). In either event, if the accessory
+AV connection conducts in the retrograde direction, it can support a form of paroxysmal
+supraventricular tachycardia called orthodromic atrioventricular reentrant tachycardia.
+Atrioventricular Nodal Reentrant Tachycardia (AVNRT) ECG
+IMAGE
+IMAGE COURTESY OF L. BRENT MITCHELL, MD.
+The accessory AV connection tends to have a longer refractory period than the AV node. At a premature
+atrial depolarization coupling interval less than the refractory period of the accessory AV pathway, but
+longer than the refractory period of the AV node, antegrade accessory AV pathway transmission is
+blocked but antegrade AV nodal conduction proceeds. In patients with classic (manifest) Wolff-
+Parkinson-White syndrome, the ECG shows a sudden increase in the PR interval and loss of the delta for
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/reentrant-paroxysmal-supraventricular-tachycardias-psvt 3/9
+--- Страница 4 ---
+22/01/2026, 14:04 Reentrant (Paroxysmal) Supraventricular Tachycardias (PSVT) - Cardiovascular Disorders - Merck Manual Professional Edition
+this beat. In patients with concealed Wolff-Parkinson-White syndrome, the ECG only shows an increase
+in the PR interval for this beat.
+When antegrade conduction through the AV node is sufficiently slow, it can find the distal accessory AV
+connection ready to conduct, but in the retrograde direction. When this retrograde accessory AC
+connection transmission finds the atria and, subsequently, the AV node ready to conduct again in the
+antegrade direction, around-and-around atrioventricular reentry occurs. The ECG then shows a rapid
+regular tachycardia. This orthodromic atrioventricular tachycardia is the usual (95%) type of AV
+reentrant tachycardia (4). Less commonly, and more often induced by a ventricular premature beat, the
+reentry occurs in the opposite direction (antidromic atrioventricular reentrant tachycardia).
+An uncommon near-incessant form of atrioventricular reentrant tachycardia, permanent junctional
+reentrant tachycardia (PJRT), occurs in the setting of an antegrade concealed, usually posteroseptal,
+accessory AV connection that has very slow retrograde conduction. Although the tachycardia may be
+incessant (typically with each spontaneous termination followed by a sinus beat that re-initiates the
+tachycardia), some patients have a paroxysmal pattern similar to other PSVTs. The incessant form may
+lead to a tachycardia-induced cardiomyopathy and heart failure. Since 5% of patients with an accessory
+AV connection have multiple accessory AV connections (2), it is also possible to have a dual accessory AV
+connection atrioventricular reentrant tachycardia that uses one accessory AV connection for antegrade
+conduction and another accessory AV connection for retrograde conduction.
+Atrial reentrant tachycardia and sinus nodal reentrant tachycardia
+Atrial reentrant tachycardias include the micro-reentrant atrial tachycardias (see Focal atrial tachycardia)
+and the macro-reentrant atrial tachycardias. The latter most commonly occur in patients with structural
+heart disease but may occur in isolation. The macro-reentrant tachycardias are produced by wide area
+reentry around normal or abnormal, anatomical or functional barriers. When the ECG shows continuous
+atrial electrical activity (flutter waves without intervening isoelectric periods), such rhythms are also
+called atypical atrial flutter. When the ECG shows discrete P-waves with intervening isoelectric periods,
+the distinction from focal atrial tachycardia due to micro-reentry is arbitrary and requires intracardiac
+mapping. Sinus nodal reentrant tachycardia is a focal atrial tachycardia with a P-wave morphology the
+same as that during sinus rhythm. The reentry in this instance is located in the upper crista terminalis
+near the sinus node, and it is debatable whether the sinus node is actually involved in the circuit.
+(See also figure Mechanism of Typical Reentry.)
+Pathophysiology references
+1. Orejarena LA, Vidaillet H Jr, DeStefano F, et al: Paroxysmal supraventricular tachycardia in the
+general population. J Am Coll Cardiol 31(1):150–157, 1998. doi: 10.1016/s0735-1097(97)00422-1
+2. Kadish A, Passman R: Mechanisms and management of paroxysmal supraventricular
+tachycardia. Cardiol Rev 7(5):254–64, 1999. doi: 10.1097/00045415-199909000-00009.
+3. Brugada J, Katritsis DG, Arbelo E, et al: 2019 ESC Guidelines for the management of patients with
+supraventricular tachycardia. The Task Force for the management of patients with
+supraventricular tachycardia of the European Society of Cardiology (ESC). Eur Heart J 41(5):655-720,
+2020. doi: 10.1093/eurheartj/ehz467
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/reentrant-paroxysmal-supraventricular-tachycardias-psvt 4/9
+--- Страница 5 ---
+22/01/2026, 14:04 Reentrant (Paroxysmal) Supraventricular Tachycardias (PSVT) - Cardiovascular Disorders - Merck Manual Professional Edition
+Overview of Atrioventricular R...
+VIDEO
+4. Page RL, Joglar JA, Caldwell MA, et al: 2015 ACC/AHA/HRS Guideline for the Management of Adult
+Patients With Supraventricular Tachycardia: A Report of the American College of
+Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart
+Rhythm Society [published correction appears in J Am Coll Cardiol. 2016 Dec 27;68(25):2922-2923].
+J Am Coll Cardiol 67(13):e27–e115, 2016. doi: 10.1016/j.jacc.2015.08.856
+Symptoms and Signs of Reentrant SVTs
+Most patients present during young adulthood or middle age. They typically have episodes of sudden-
+onset, sudden-offset, rapid, regular palpitations often associated with symptoms of hemodynamic
+compromise (eg, dyspnea, chest discomfort, light-headedness). Attacks may last only a few seconds or
+persist for several hours (rarely, > 12 hours).
+Infants present with episodic breathlessness, lethargy, feeding problems, or rapid precordial pulsations.
+If the episode of tachycardia is protracted, infants may present with heart failure.
+Examination is usually unremarkable except for a heart rate of 120 to 240 beats/minute, most
+commonly 180 to 210 beats/minute.
+Diagnosis of Reentrant SVTs
+Electrocardiography (ECG)
+Diagnosis of supraventricular tachycardia is by ECG showing rapid, regular tachycardia. Previous
+tracings, if available, are reviewed for ECG signs of manifest WPW syndrome or pre-existing bundle
+branch block.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/reentrant-paroxysmal-supraventricular-tachycardias-psvt 5/9
+--- Страница 6 ---
+22/01/2026, 14:04 Reentrant (Paroxysmal) Supraventricular Tachycardias (PSVT) - Cardiovascular Disorders - Merck Manual Professional Edition
+P waves vary. In most cases of typical (slow-fast) AV nodal reentrant tachycardia, retrograde P waves are
+in the terminal portion of the QRS complex (often producing a pseudo-R′ deflection in lead V1); about
+one-third occur just after the QRS complex, and very few occur immediately before. P waves always
+follow the QRS complex in orthodromic typical atrioventricular reentrant tachycardia using an accessory
+AV connection as in WPW syndrome. In either instance the P wave, when identified, is in the first half of
+the RR interval (RP < PR), a short RP tachycardia. The exception is the rare typical AV nodal reentrant
+tachycardia with a P wave immediately (≤ 0.12 seconds) before the QRS complex; this tachycardia is too
+short to have conducted through the AV node to have created that QRS complex.
+The P wave, when identified, in atypical (fast-slow) AV nodal reentrant tachycardia, in permanent
+junctional reentrant tachycardia (PJRT), and in antidromic atrioventricular reentrant tachycardia is in the
+second half of the RR interval (RP > PR), a long RP tachycardia. In each of these paroxysmal
+supraventricular tachycardias, the P-wave morphology is negative in the inferior leads (II, III, and AVF),
+indicating that the atrial activation wavefront is moving from low to high through the atria. In atrial
+reentrant tachycardia, the P-wave may fall anywhere in the RR interval as determined by the
+relationship between the tachycardia rate and the AV conduction delay; the P-wave morphology may or
+may not be negative in the inferior leads (II, III, and AVF), depending on the site of origin of atrial
+depolarization.
+The QRS complex is narrow except with coexisting bundle branch block. Wide QRS complexes also
+result from activation of the ventricles exclusively down an accessory AV connection in antidromic
+atrioventricular reentrant tachycardia or dual accessory connection atrioventricular reentrant
+tachycardia. If a wide-complex tachycardia is not known to be supraventricular in origin, it must be
+treated acutely as ventricular tachycardia.
+In addition to the position of the P-wave, the 2 most common forms of reentrant (paroxysmal)
+supraventricular tachycardia, typical AV nodal reentrant tachycardia amd orthodromic atrioventricular
+reentrant tachycardia, also differ in that typical AV nodal reentrant tachycardia patients are more often
+female and usually present in their third or fourth decade with a tachycardia in the 150 to 200
+beats/minute range. Patients with orthodromic atrioventricular tachycardia are more often male and
+usually present in their second or third decade with a tachycardia in the 180 to 220 beats/minute range.
+The reentrant SVTs may also differ in their response to vagal maneuvers or adenosine administration.
+Although each of the reentrant SVTs may have no response to these interventions, the SVTs with
+conduction through the AV as part of their reentrant circuit must terminate if a single AV nodal
+transmission is blocked. These SVTs are both typical and atypical AV nodal reentrant tachycardias and
+both orthodromic and antidromic atrioventricular reentrant tachycardias. Other than no response, the
+most common response of an atrial reentrant tachycardia to vagal maneuvers or adenosine is for AV
+nodal block to occur transiently without termination of the tachycardia. This produces a long RR interval
+in which previously hidden P-wave should become more evident on the ECG. Although atrial reentrant
+tachycardias do not require AV nodal conduction for their perpetuation, some such rhythms may
+terminate with vagal maneuvers or adenosine, particularly if their mechanism is triggered automaticity
+or micro-reentry. Termination with the final event being a P-wave on the ECG strongly suggests that the
+SVT is not atrial in origin as this would require the coincidence that the atrial driver terminated at
+exactly the same time as the AV node failed to conduct.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/reentrant-paroxysmal-supraventricular-tachycardias-psvt 6/9
+--- Страница 7 ---
+22/01/2026, 14:04 Reentrant (Paroxysmal) Supraventricular Tachycardias (PSVT) - Cardiovascular Disorders - Merck Manual Professional Edition
+Vagal maneuvers or adenosine are also useful to distinguish reentrant SVTs from atrial flutter (the usual
+response being to produce AV block without termination of the flutter but with the flutter waves being
+evident on the ECG) or sinus tachycardia (the usual response being gradual slowing to a new rate
+followed by gradual acceleration to the previous rate).
+Pearls & Pitfalls
+Although most supraventricular tachycardias have a narrow QRS complex, some have a
+wide QRS complex and, unless the rhythm is known to be supraventricular, it must by
+treated acutely as ventricular tachycardia.
+Narrow QRS Tachycardia: Orthodromic Atrioventricular Reentrant
+Tachycardia Using an Accessory AV Connection in Wolff-Parkinson-White
+Syndrome
+Activation is as follows: atrioventricular node, His-Purkinje system, ventricle, accessory
+connection, atria. The P wave occurs shortly after the QRS complex; it is a short RP interval
+tachycardia (RP < PR).
+Treatment of Reentrant SVTs
+Vagotonic maneuvers
+Adenosine
+Verapamil, diltiazem, or a beta-blocker if narrow, regular QRS complex
+For frequent recurrence, ablation
+Many episodes stop spontaneously before treatment.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/reentrant-paroxysmal-supraventricular-tachycardias-psvt 7/9
+--- Страница 8 ---
+22/01/2026, 14:04 Reentrant (Paroxysmal) Supraventricular Tachycardias (PSVT) - Cardiovascular Disorders - Merck Manual Professional Edition
+Vagotonic maneuvers (eg, Valsalva maneuver, unilateral carotid sinus massage, ice water facial
+immersion, swallowing of ice-cold water), particularly if used early, may terminate the tachyarrhythmia;
+some patients use these maneuvers at home (1).
+AV node blockers are used if vagotonic maneuvers are ineffective and the QRS complex is narrow
+(indicating orthodromic conduction) and regular (indicating the episode is not atrial fibrillation); blocking
+conduction through the AV node for one beat interrupts the reentrant cycle. Adenosine is the first
+choice. Dose is 6 mg by rapid IV bolus (0.05 to 0.1 mg/kg in children), followed by a 20-mL saline bolus. If
+this dosage is ineffective, 2 subsequent 12-mg doses are given every 5 minutes. Adenosine sometimes
+causes a brief (2- to 3-second) period of cardiac standstill, which may distress patient and physician.
+Verapamil 5 mg IV or diltiazem 0.25 to 0.35 mg/kg IV are alternatives (2).
+For a regular, wide QRS complex tachycardia known to be an antidromic reciprocating tachycardia not
+involving double accessory pathways (which must be identified by the history; they cannot be
+established acutely), AV nodal blockers may also be effective. However, if the mechanism of the
+tachycardia is unknown and ventricular tachycardia has not been excluded, AV nodal blockers should be
+avoided because they may worsen hemodynamics in ventricular tachycardias. In such cases (or those in
+which medications are ineffective), IV procainamide or amiodarone can be used. Alternatively,
+synchronized cardioversion with 50 joules (0.5 to 2 joules/kg for children) is quick and safe and may be
+preferred to these more toxic agents (2).
+When episodes of reentrant (paroxysmal) supraventricular tachycardia are frequent or bothersome,
+transvenous catheter ablation is the preferred treatment and is usually curative (2). If ablation is not
+acceptable, medication prophylaxis usually begins with digoxin and proceeds, as required, to beta-
+blockers, nondihydropyridine calcium channel blockers, or both, then to one or more class Ia, class Ic, or
+class III antiarrhythmics (see table Antiarrhythmic Medications). However, postadolescent patients with
+manifest Wolff-Parkinson-White syndrome (in whom atrial fibrillation becomes more likely) should not
+receive digoxin, a nondihydropyridine calcium channel blocker, or a beta-blocker alone (2) (see also
+Atrial Fibrillation and Wolff-Parkinson-White Syndrome).
+Treatment references
+1. Waxman MB, Wald RW, Sharma AD, et al: Vagal techniques for termination of
+paroxysmal supraventricular tachycardia. Am J Cardiol 46(4):655–664, 1980. doi: 10.1016/0002-
+9149(80)90517-2
+2. Brugada J, Katritsis DG, Arbelo E, et al: 2019 ESC Guidelines for the management of patients with
+supraventricular tachycardia. The Task Force for the management of patients with
+supraventricular tachycardia of the European Society of Cardiology (ESC). Eur Heart J 41(5):655–720,
+2020. doi: 10.1093/eurheartj/ehz467
+Key Points
+Symptoms of reentrant (paroxysmal) supraventricular tachycardias (PSVT) begin and
+end suddenly.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/reentrant-paroxysmal-supraventricular-tachycardias-psvt 8/9
+--- Страница 9 ---
+22/01/2026, 14:04 Reentrant (Paroxysmal) Supraventricular Tachycardias (PSVT) - Cardiovascular Disorders - Merck Manual Professional Edition
+AV nodal re-entry is the most common PSVT.
+Wolff-Parkinson-White syndrome, whether manifest or concealed, is the most common
+accessory pathway PSVT.
+QRS complexes are typically narrow, rapid, and regular; however, wide complexes may
+occur and must be differentiated from ventricular tachycardia.
+Vagotonic maneuvers (eg, Valsalva maneuver) sometimes help.
+Use atrioventricular (AV) nodal blockers for narrow complex tachycardia; adenosine is
+the first choice, and if ineffective, verapamil or diltiazem are alternatives.
+Avoid AV nodal blockers for wide complex tachycardia not known to be PSVT; use
+synchronized cardioversion or procainamide or amiodarone.
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/reentrant-paroxysmal-supraventricular-tachycardias-psvt 9/9

@@ -1,0 +1,433 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:37:30.449982",
+  "file_size_bytes": 19656383,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  Sudden Palpitations in a Young Adult
+Magnus Nossen onDecember 13, 2024
+Sudden Palpitations in a
+Young Adult
+Written by Magnus Nossen and Ken Grauer (with Comment by Smith)
+The ECG in Figure-1 was electronically transmitted by the ambulance
+service for evaluation. The patient is a young adult male with acute onset
+of palpitations. He was hemodynamically stable at the time ECG #1 was
+recorded.
+QUESTIONS:
+ 
+How would you interpret this ECG?
+— What entities to consider in your differential diagnosis?
+— How would you manage this patient?
+=====================================
+NOTE: The ECGs in today’s case are recorded in the Cabrera Format
+(See Dr. Grauer Comment in the October 26, 2020 post of Dr. Smith’s
+ECG Blog for review on the Cabrera Format).
+=====================================
+
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 1/16
+--- Страница 2 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+Figure-1: The initial ECG in today’s case. (To improve visualization
+— Iʼve digitized the original ECG using PMcardio).
+The patient was transported by EMS to the emergency department, where
+the ECG was interpreted as showing VT (Ventricular Tachycardia). The
+patient was not clinically distressed, and other than the heart rate — the
+vital signs were completely normal. At this point, the palpitations had been
+present for approximately 3 hours.
+Since the patient was stable and tolerating the arrhythmia — it was
+decided to treat with IV Amiodarone for medical conversion.
+Smith: What do you think?
+Smith comments: The heart rate is very fast at 204. Whenever it is this
+fast, you need to be very careful to ascertain whether it is irregular (as in
+atrial fibrillation with rapid ventricular respsonse) or regular (as in VT). Use
+calipers if you need to. In this case, look in the far upper right, in lead
+aVL. You can easily see 4 complexes which form that last 3 RR intervals.
+The interval that is 3rd from last (between 4th and 3rd from last QRS) is
+310 ms. The last RR interval is only 160 ms. Thus this is irregularly
+irregular. It is not VT; it is AF. Then notice that the QRS complexes are
+polymorphic. This is not because it is polymorphic VT; it is because it is
+WPW with atrial fibrillation. Any of leads V2-V5 have polymorphic QRS
+complexes. The last feature which cements the diagnosis of AF with WPW
+is that very short RR interval of 160 ms. That really only happens in AF
+WPW and also makes it very dangerous to give an AV nodal blocker.
+How about the management of giving Amiodarone?:
+This could be a big mistake. Amiodarone is an AV nodal blocker and
+theoretically could result in VFib (Ventricular Fibrillation). However, a
+relatively recent paper found that 18 of 30 stable patients with AF and
+WPW converted to sinus and no ventricular acceleration or VF developed.
+(ref 1)
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 2/16
+--- Страница 3 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+Here is the Introduction to that paper:
+“Though several cases reported IV Amiodarone could accelerate heart
+rate or even promote rapid ventricular rate into VFib — the adverse events
+were developed in patients who commonly suffered
+from hemodynamic compromise. Hence, the IV Amiodarone was once one
+of the 2nd-line choices for acute pharmacologic cardioversion in such
+patients without hemodynamic instability.
+The 2019
+ESC Guidelines for the management of patients with
+supraventricular
+tachycardia indicated that IV Amiodarone should not be considered
+in these populations. Nevertheless, this recommendation is still
+based on the papers published before 2006.”
+It may be safe to give IV Amiodarone. But why would you want to?
+Why not just sedate and cardiovert, which is known to be safe?
+Of course the providers in this case gave Amiodarone because they
+thought this was VT. Had they known it was AF with WPW, perhaps they
+would have cardioverted?
+=====================================
+Continuation of Today’s CASE:
+The ECG was repeated while IV Amiodarone was being infused (Figure-
+2).
+Why is the ECG in Figure-2 pathognomonic of the diagnosis?
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 3/16
+--- Страница 4 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+Figure-2: The repeat ECG (during Amiodarone infusion).
+The ECG in Figure-2:
+The repeat ECG is pathognomonic for WPW:
+ECG #2 shows an irregularly irregular WCT(Wide
+Complex Tachycardia).
+The initial QRS deflection is slow and the QRS is very
+wide, measuring >160msec.
+There is QRS polymorphism — but importantly, the axis
+in the limb leads does not change. (If this was
+polymorphic VT — the axis would change!).
+In certain parts of the tracing — the RR intervals are
+extremely short (See Figure-3 below for a magnified
+excerpt from Figure-2, during which the R-R interval is
+exceeding short).
+Figure-3: Magnified view of that portion of ECG #2 in which the rate is
+fastest.
+The paper speed in Figure-3 is 25 mm/second. Therefore —
+each small box is 40 msec. in duration.
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 4/16
+--- Страница 5 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+The shortestR-R interval in Figure-3 is marginally
+longer than 4 small boxes, measuring 170 msec. in
+duration. This corresponds to a ventricular rate over
+350/minute! Clearly — this is a dangerous situation!
+KEY Point: Nothing other than AFib with WPW results in
+a ventricular response this fast (which is why Figure-2 is
+pathognomonic for AFib in a patient with WPW).
+=====================================
+Take Another LOOK at Figure-1 …
+To facilitate this — I’ve reproduced Figure-1 below, that shows the initial
+ECG in today’s case.
+Did YOU recognize that there is appreciable variation in the R-R
+interval in this tracing with obvious QRS widening?
+Figure-1: The initial ECG in today’s case.
+Grauer Confession:
+When I first saw ECG #1 on my mobile device — I thought “regular WCT
+without P waves — therefore VT”. (I thought the last 3 beats in Figure-
+1 represented the beginning of a deterioration of this VT into VFib).
+It was humbling for me to go back after Dr. Nossen pointed out the
+subtle-but-real irregularity that is actually present throughout the
+entire tracing
+Moral: It is EASY to overlook the irregularity in today’s initial tracing
+— especially if on a smaller screen without calipers.
+In Figure-4 — We magnify a selected portion of the tracing from ECG
+#1 — which when we focus on the relative length of each R-R interval —
+allows visual recognition (even without calipers) of the irregularity.
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 5/16
+--- Страница 6 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+The numbers under the complexes in lead I of Figure-4 indicate
+precise measurement in milliseconds of the 13 R-R intervals in ths
+magnified excerpt.
+KEY Point: As soon as we recognize that ECG #1 is an irregularly
+irregular WCT without P waves that consistently manifests a
+ventricular response well over 220/minute — we have made the
+diagnosis of very rapid AFib in a patient with WPW (For another
+case — See My Comment in the March 12, 2020 post in Dr.
+Smith’s ECG Blog).
+Figure-4: Magnified view of a selected portion of ECG #1 that shows
+the irregularity of the rhythm (measurements of R-R intervals in
+milliseconds).
+Regarding AFib with WPW:
+The very rapid heart rate and at times extremely short R-R intervals put
+the patient with AFib and WPW at risk of cardiac arrest from VFib.
+The risk of the rhythm deteriorating to VFib appears to be inversely
+proportional to R-R interval duration. The shorter the R-R intervals
+are — the higher the risk of deterioration to VFib (ref 2).
+The AV node manifests a distinct property that myocardium and other
+parts of the conduction system lack. This electrophysiological property is
+called decremental conduction. In essence this means that if the AV
+node is repetitively stimulated at very short intervals — the refractory
+period prolongs. In other words — the AV node will conduct slower.
+In addition — conduction through the AV node is calcium
+dependent, and is slower than conduction through myocardium.
+Together with the property of decremental conduction — this means
+that the AV node will act as a “brake” on AFib impulses trying to
+reach the ventricles. As a result — the ventricular rate rarely
+exceeds 200/minute unless an AP (Accessory Pathway) is
+present.
+If R-R intervals become very short (ie, via conduction over an AP) —
+this may predispose to the “R-on-T” phenomenon, which may
+precipitate VFib.
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 6/16
+--- Страница 7 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+In patients with pre-excitation and AFib — some of the myocardium
+will be depolarized via the conduction system (through AV node).
+The degree to which this happens can explain some of the QRS
+polymorphism that is commonly seen with pre-excited AFib. There
+is a varying degree of “fusion” from depolarization via AP
+myocardium and the conduction system. (ref 3)
+If patients with AFib and WPW are given AV nodal blockers — less
+depolarization of myocardium occurs through the conduction system. As a
+result — a larger portion of the heart muscle is submitted to very short
+coupling intervals which increases the risk of ventricular fibrillation.
+In Summary: It is for the above reasons that many clinician feel patients
+with WPW and AFib should not be given AV nodal blockers. Instead —
+they favor sedation and synchronized cardioversion as the treatment of
+choice for this entity.
+Grauer Counterpoint: I’ve always felt, “Ya gotta be there”. As per
+the 2021 Ren et al article cited earlier by Dr. Smith — IV
+Amiodarone may be effective in a significant number of patients
+(with other potentially effective agents being Procainamide and
+Ibutilide). Clearly — synchronized cardioversion is appropriate (and
+often optimal) initial treatment for WPW with AFib. But a trial of
+medical therapy may be reasonable in select patients if the provider
+stays by the bedside during the entire antiarrhythmic infusion, ready
+at-any-moment to cardiovert for any adverse response.
+=====================================
+Continuation of Today’s CASE:
+Today’s patient underwent DC conversion after initial infusion of IV
+Amiodarone.
+The ECG in Figure-5 shows the result following synchronized
+cardioversion. BLUE arrows highlight delta waves in the post-
+conversion tracing.
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 7/16
+--- Страница 8 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+Figure-5: Repeat ECG following synchronized cardioversion — now
+showing sinus rhythm with a short PR interval and delta waves in
+most leads (BLUE arrows).
+Localization of the AP:
+Dr Grauer has synthesized the results of several predictive algorithms
+to form a user-friendly approach for approximating localization of
+the AP (Accessory Pathway).
+Dr. Grauerʼs approach can be found on this Blog Post —
+As per Figure-5 — Since the QRS in todayʼs case is completely
+upright in lead V1 — the approach outlined in Figure-
+6 suggests the likely location of the AP.
+Applying this approach to todayʼs patient — the sum of delta
+wave polarities in the inferior leads = +3 — thereby predicting
+an antero-latral LV free wall AP.
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 8/16
+--- Страница 9 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+Figure-6: Suggested approach for approximating AP localization
+for todayʼs case, given that the QRS is completely upright in lead
+V1 (excerpted for this Dr. Grauer Blog Post).
+CASE Conclusion:
+Today’s patient underwent EP (ElectroPhysiologic) study where
+pre-excited AFib was induced. A anterolateral AP was
+successfully ablated.
+The ECG in Figure-7 was recorded after successful AP
+ablation. Note that the rhythm is sinus — the QRS is narrow
+— and delta waves are no longer present.
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 9/16
+--- Страница 10 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+Figure-7: Repeat ECG following ablation of the AP. There is sinus
+rhythm — a narrow QRS complex — and no longer any sign of
+delta waves.
+Final Note by Dr. Nossen:
+Regarding my thoughts on managing the patient with WPW and AFib —
+the 1st priority is to be aware of the ECG findings discussed in today’s
+case for recognizing this entity (See below for links to additional cases in
+Dr. Smith’s ECG Blog).
+I always sedate and cardiovert these patients because it is safe,
+quick and effective.
+Ibutilide and Procainamide are 2 antiarrhythmic agents that are
+approved for patients with pre-excited AFib (ref 4). I have no
+experience using these medications, as they are not readily
+available in Norway.
+More cases on WPW with atrial fibrillation:
+A young man with another episode of tachycardia. What is it? And why give
+adenosine in sinus rhythm?
+A woman in her 60s with palpitations
+A 47-year-old man with abdominal pain and heart rates
+approaching 300 bpm
+A Clinical Scenario to Recognize- Irregular WCT
+Wide Complex Tachycardia, and What is Latent Conduction and
+“Concealed Conduction?”
+Learning Points:
+Suspect WPW with AFib if you have a wide complex irregular
+tachycardia. R-R intervals less than 240 msec. should alert you to
+this possibility.
+The most effective treatment option is synchronized cardioversion.
+Definite treatment is in the electrophysiology lab where ablation of
+the accessory pathway can be performed.
+Cited References:
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 10/16
+--- Страница 11 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+(1) Ren, J., Yang, Y., et. al (2020). The use of intravenous amiodarone in
+patients with atrial fibrillation and Wolff-Parkinson-White syndrome. Pacing
+and Clinical Electrophysiology, 44(1), 35–43.
+(2) Klein, G. J., Bashore, T. M., et. al (1979). Ventricular fibrillation in
+the Wolff-Parkinson-White syndrome. New England Journal of
+Medicine, 301(20), 1080–1085.
+(3) Buttner, R. (2023, January 31). Atrial fibrillation/flutter in pre-
+excitation. Life in the Fast Lane • LITFL.
+(4) Kieu, A., & Nangia, V. (2019). Atrial Fibrillation in Wolff-Parkinson-
+White Syndrome. JACC Case Reports
+Magnus Nossen onDecember 13, 2024
+ATRIAL FIBRILLATION WITH WPW
+IRREGULAR WIDE COMPLEX TACHYCARDIA
+WIDE COMPLEX TACHYCARDIA WOLFF PARKINSON WHITE WPW
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+An elderly woman with Which Chest Pain
+acute chest pain -- real patient needs a CT
+or fake ST Elevation? scan?
+Write a Comment
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 11/16
+--- Страница 12 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+SEARCH
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 12/16
+--- Страница 13 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 13/16
+--- Страница 14 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 14/16
+--- Страница 15 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Steve Smith onDecember 16, 2024
+Which Chest Pain patient needs a CT scan?
+Which patient needs a CT Scan? Case 1: 20-something woman with
+chest pain Case 2: 50-something man with chest pain Case 1 A 20-
+something yo…
+Willy Frick onDecember 20, 2024
+Chest pain and rapid pacing followed by an unexplained
+wide complex tachycardia. Time for cardioversion?
+Written by Willy Frick with edits by Ken Grauer An older man with a
+history of non-ischemic HFrEF s/p CRT and mild coronary artery
+disease…
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 15/16
+--- Страница 16 ---
+22/01/2026, 15:31 Sudden Palpitations in a Young Adult - Dr. Smith’s ECG Blog
+Willy Frick onDecember 22, 2024
+See how the Queen of Hearts AI is continuously
+improving
+Written by Willy Frick A man in his early 40s with BMI 36,
+hypertension, and a 30 pack-year smoking history presented with
+three days of…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/sudden-palpitations-in-young-adult/ 16/16

@@ -1,0 +1,641 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "cardiovascular-risk-assessment-and-lipid-modification-pdf-75545230925509.pdf",
+  "converted_date": "2026-01-31T14:49:28.762002",
+  "file_size_bytes": 152046,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/cardiovascular-risk-assessment-and-lipid-modification-pdf-75545230925509.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+Cardiovascular risk
+assessment and lipid
+modification
+Quality standard
+Published: 4 September 2015
+Last updated: 23 July 2025
+www.nice.org.uk/guidance/qs100
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+--- Страница 2 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Contents
+Quality statements ..................................................................................................................... 4
+Quality statement 1: Identifying adults who are likely to be at high risk ............................... 5
+Quality statement ................................................................................................................................. 5
+Rationale ............................................................................................................................................... 5
+Quality measures .................................................................................................................................. 5
+What the quality statement means for different audiences ............................................................. 6
+Source guidance ................................................................................................................................... 6
+Definitions of terms used in this quality statement .......................................................................... 7
+Equality and diversity considerations ................................................................................................ 8
+Quality statement 2: Diet and lifestyle advice for primary prevention .................................. 9
+Quality statement ................................................................................................................................. 9
+Rationale ............................................................................................................................................... 9
+Quality measures .................................................................................................................................. 9
+What the quality statement means for different audiences ............................................................. 10
+Source guidance ................................................................................................................................... 10
+Definitions of terms used in this quality statement .......................................................................... 11
+Equality and diversity considerations ................................................................................................ 11
+Quality statement 3: Lipid-lowering treatment for primary prevention ................................ 13
+Quality statement ................................................................................................................................. 13
+Rationale ............................................................................................................................................... 13
+Quality measures .................................................................................................................................. 13
+What the quality statement means for different audiences ............................................................. 14
+Source guidance ................................................................................................................................... 14
+Definitions of terms used in this quality statement .......................................................................... 15
+Equality and diversity considerations ................................................................................................ 15
+Quality statement 4: Assessing response to lipid-lowering treatment ................................. 17
+Quality statement ................................................................................................................................. 17
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
+conditions#notice-of-rights). 25
+--- Страница 3 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Rationale ............................................................................................................................................... 17
+Quality measures .................................................................................................................................. 17
+What the quality statement means for different audiences ............................................................. 18
+Source guidance ................................................................................................................................... 18
+Definitions of terms used in this quality statement .......................................................................... 18
+Quality statement 5: Secondary prevention of cardiovascular disease ................................ 19
+Quality statement ................................................................................................................................. 19
+Rationale ............................................................................................................................................... 19
+Quality measures .................................................................................................................................. 19
+What the quality statement means for different audiences ............................................................. 20
+Source guidance ................................................................................................................................... 21
+Definitions of terms used in this quality statement .......................................................................... 21
+Update information .................................................................................................................... 22
+About this quality standard ....................................................................................................... 23
+Resource impact ................................................................................................................................... 23
+Diversity, equality and language ......................................................................................................... 24
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
+conditions#notice-of-rights). 25
+--- Страница 4 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+This standard is based on NG238, TA694, TA385 and PH15.
+This standard should be read in conjunction with QS103, QS99, QS95, QS93, QS84,
+QS82, QS80, QS68, QS52, QS43, QS41, QS28, QS21, QS11, QS9, QS6, QS5, QS2,
+QS111 and QS143.
+Quality statements
+Statement 1 General practices use a systematic strategy to identify adults likely to be at
+high risk of cardiovascular disease. [new 2025]
+Statement 2 Adults with a 10-year risk of cardiovascular disease of 10% or more receive
+tailored advice on diet and lifestyle changes within 3 months of their cardiovascular
+disease risk assessment score being recorded. [2015, updated 2025]
+Statement 3 Adults with a 10-year risk of cardiovascular disease of 10% or more are
+prescribed a high-intensity statin or other lipid-lowering treatment if a high-intensity statin
+is contraindicated or not tolerated. [2015, updated 2025]
+Statement 4 Adults starting or changing lipid-lowering treatment have a full lipid profile
+and their liver transaminases measured at 2 to 3 months. [2015, updated 2025]
+Statement 5 Adults with cardiovascular disease have a low-density lipoprotein (LDL)
+cholesterol level of 2.0 mmol per litre or less, or a non-high-density lipoprotein (non-HDL)
+cholesterol level of 2.6 mmol per litre or less. [new 2025]
+In 2025 this quality standard was updated and statements prioritised in 2015 were
+updated (2015, updated 2025) or replaced (new 2025). For more information, see update
+information.
+The previous version of the quality standard for cardiovascular risk assessment and lipid
+modification is available as a pdf.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
+conditions#notice-of-rights). 25
+--- Страница 5 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Quality statement 1: Identifying adults
+who are likely to be at high risk
+Quality statement
+General practices use a systematic strategy to identify adults likely to be at high risk of
+cardiovascular disease. [new 2025]
+Rationale
+Cardiovascular disease (CVD) is the most common cause of death in the UK, and is a
+major cause of illness, disability and poor quality of life. To improve primary prevention,
+adults at increased risk of CVD need to be identified using a systematic strategy so that
+their risk factors can be managed in the most effective way. This should not prevent
+people being identified opportunistically but may help to ensure that those with the
+highest risk of CVD are reviewed in an effective and efficient way. Factors routinely
+recorded in electronic patient records can be used to estimate CVD risk using a CVD risk
+assessment tool, and those at high risk should be invited for full formal risk assessment.
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured,
+and can be adapted and used flexibly.
+Structure
+a) Evidence that general practices use a systematic strategy to identify adults who are
+likely to be at high risk of CVD.
+Data source: Data can be collected from local implementation plans.
+b) Evidence that general practices use the QRISK3 tool to estimate CVD risk, or QRISK2 if
+QRISK3 is not currently embedded in electronic clinical systems.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
+conditions#notice-of-rights). 25
+--- Страница 6 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Data source: Data can be collected from local implementation plans.
+Process
+The systematic strategies used by different localities will focus on different groups of
+people depending on the individual GP practice and so example process measures have
+not been provided. Some localities may want to focus on known local health inequalities or
+NHS England's Core20PLUS5, for example, by disaggregating data by socioeconomic
+status, ethnic family background, sex or presence of a learning disability. Measures could
+also focus on adults with modifiable risk factors or coexisting conditions that increase CVD
+risk.
+What the quality statement means for different
+audiences
+Service providers (primary care providers) ensure that they use a systematic strategy to
+identify adults who are likely to be at high risk of CVD. The strategy could use general
+practice records or systematic searches in pre-identified areas or with specific
+populations.
+Healthcare professionals (such as GPs, nurses and pharmacists) identify adults who are
+likely to be at high risk of CVD using risk factors already in patient records. They review
+estimates of CVD risk on an ongoing basis for adults aged over 40.
+Commissioners ensure that they commission services that use systematic strategies to
+identify adults who are likely to be at high risk of CVD using CVD risk factors already
+recorded.
+Adults who are likely to have a high risk of CVD are identified by their healthcare provider
+so that their risk factors can be managed in the most effective way.
+Source guidance
+• Cardiovascular disease: risk assessment and reduction, including lipid modification.
+NICE guideline NG238 (2023), recommendations 1.1.1 to 1.1.4
+• Cardiovascular disease: identifying and supporting people most at risk of dying early.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
+conditions#notice-of-rights). 25
+--- Страница 7 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+NICE guideline PH15 (2008), recommendation 1
+Definitions of terms used in this quality statement
+Factors routinely recorded in electronic patient records
+Factors routinely recorded in general practice patient records that could be used as part
+of a systematic strategy to identify adults with an increased CVD risk, include, but are not
+limited to:
+• age
+• sex
+• family history of CVD
+• ethnicity
+• smoking status
+• presence of other conditions known to associate with higher CVD risk such as
+diabetes, chronic kidney disease, atrial fibrillation, rheumatoid arthritis, systemic lupus
+erythematosus, severe mental illness, migraine and erectile dysfunction
+• use of antipsychotic, immunosuppressant or steroid medication
+• blood pressure
+• lipid levels
+• BMI.
+[Adapted from NICE's clinical knowledge summary on risk factors for CVD and expert
+opinion]
+Adults likely to be at high risk of CVD
+Adults with an estimated 10-year risk of CVD of 10% or more. [NICE's guideline on
+cardiovascular disease: risk assessment and reduction, including lipid modification, section
+1.1 and recommendation 1.1.4]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
+conditions#notice-of-rights). 25
+--- Страница 8 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Equality and diversity considerations
+CVD risk can be estimated based on factors routinely recorded in general practice.
+However, the accuracy of estimated risk scores will be adversely affected if relevant data
+is not accurately recorded in GP records, which is especially likely for vulnerable and
+underserved populations. To mitigate perpetuating or exacerbating existing health
+inequalities, 'batch coding' without clinical judgement should be avoided. Additionally,
+resultant data should be disaggregated by deprivation, ethnicity, age and gender to help
+reduce the risk of widening health inequalities.
+Clinical judgement should inform interpretation of results from CVD risk tools because
+tools may underestimate the risk for certain groups of people, including, but not limited to:
+• people treated for HIV
+• people already taking medicines to treat CVD risk factors
+• people who have recently stopped smoking
+• people taking medicines that can cause dyslipidaemia, such as immunosuppressant
+drugs
+• people with severe mental illness
+• people with autoimmune disorders, and other systemic inflammatory disorders.
+When using a QRISK3 risk score to inform treatment decisions in these populations,
+particularly if it is near the threshold for treatment, take into account other factors that
+may predispose the person to premature CVD that may not be included in calculated risk
+scores. [Adapted from NICE's guideline on cardiovascular disease: risk assessment and
+reduction, including lipid modification, recommendation 1.1.10]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
+conditions#notice-of-rights). 25
+--- Страница 9 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Quality statement 2: Diet and lifestyle
+advice for primary prevention
+Quality statement
+Adults with a 10-year risk of cardiovascular disease of 10% or more receive tailored advice
+on diet and lifestyle changes within 3 months of their cardiovascular disease risk
+assessment score being recorded. [2015, updated 2025]
+Rationale
+Making improvements to diet, stopping smoking, increasing physical activity, managing
+weight and reducing alcohol consumption can reduce the risk of cardiovascular disease
+(CVD). Healthcare professionals should offer advice to adults with a 10-year CVD risk
+score of 10% or more after a full formal risk assessment, based on their individual needs,
+preferences and circumstances.
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured,
+and can be adapted and used flexibly.
+Process
+Proportion of adults with a 10-year risk of CVD of 10% or more who receive advice on diet
+and lifestyle changes within 3 months of their CVD risk assessment score being recorded.
+Numerator – the number in the denominator who receive advice on diet and lifestyle
+changes within 3 months of their CVD risk assessment score being recorded.
+Denominator – the number of adults with a 10-year risk of CVD of 10% or more.
+Data source: Data can be collected from information recorded locally by healthcare
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
+conditions#notice-of-rights). 25
+--- Страница 10 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+professionals and provider organisations, for example from electronic patient records.
+What the quality statement means for different
+audiences
+Service providers (such as primary care services) ensure that systems are in place for
+adults with a 10-year risk of CVD of 10% or more to be given advice on diet and lifestyle
+changes within 3 months of their cardiovascular risk assessment score being recorded.
+Healthcare professionals (such as GPs, nurses, healthcare support workers, and
+pharmacists) give advice on diet and lifestyle changes for the primary prevention of CVD
+to adults with a 10-year risk of CVD of 10% or more within 3 months of their cardiovascular
+risk assessment score being recorded. They take the person's individual needs,
+preferences and circumstances into account when giving advice.
+Commissioners ensure that they commission services that can deliver diet and lifestyle
+advice to adults with a 10-year risk of CVD of 10% or more within 3 months of their
+cardiovascular risk assessment score being recorded.
+Adults with a 1 in 10 chance or more of developing CVD in the next 10 years (a 10-year
+risk of 10% or more) are given advice on diet and lifestyle changes, such as stopping
+smoking, losing weight, eating a healthy diet and exercising when they are found to be at
+risk. These changes may help to reduce their chances of having a heart attack or stroke in
+the future. The advice reflects their needs, preferences and circumstances.
+Source guidance
+Cardiovascular disease: risk assessment and reduction, including lipid modification. NICE
+guideline NG238 (2023), recommendations 1.3.1 to 1.3.11, 1.6.2 and 1.6.3
+The 3-month timeframe is based on expert opinion. The 3-month timeframe is not derived
+from NICE guideline on cardiovascular disease: risk assessment and reduction, including
+lipid modification. It is considered a practical timeframe to enable stakeholders to measure
+performance. The timeframe is used in NICE's indicator on cardiovascular disease
+prevention: primary prevention with lifestyle changes.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
+conditions#notice-of-rights). 25
+--- Страница 11 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Definitions of terms used in this quality statement
+Diet and lifestyle changes
+Diet and lifestyle changes include:
+• stopping smoking
+• healthy eating
+• reaching and maintaining a healthy weight
+• increasing physical activity
+• reducing alcohol consumption.
+[NICE's guideline on cardiovascular disease: risk assessment and reduction, including lipid
+modification, recommendations 1.3.1 to 1.3.11]
+Equality and diversity considerations
+Clinical judgement should inform interpretation of results from CVD risk tools because
+tools may underestimate the risk in certain groups of people, including, but not limited to:
+• people treated for HIV
+• people already taking medicines to treat CVD risk factors
+• people who have recently stopped smoking
+• people taking medicines that can cause dyslipidaemia, such as immunosuppressant
+drugs
+• people with severe mental illness
+• people with autoimmune disorders, and other systemic inflammatory disorders.
+When using a QRISK3 risk score to inform treatment decisions in these populations,
+particularly if it is near the threshold for treatment, take into account other factors that
+may predispose the person to premature CVD that may not be included in calculated risk
+scores. [Adapted from NICE's guideline on cardiovascular disease: risk assessment and
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
+conditions#notice-of-rights). 25
+--- Страница 12 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+reduction, including lipid modification, recommendation 1.1.10]
+A person's sex will affect their CVD risk assessment score, and this should be considered
+when estimating risk for trans people. [Adapted from NICE's guideline on cardiovascular
+disease: risk assessment and reduction, including lipid modification, rationale and impact
+section on full formal risk assessment].
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
+conditions#notice-of-rights). 25
+--- Страница 13 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Quality statement 3: Lipid-lowering
+treatment for primary prevention
+Quality statement
+Adults with a 10-year risk of cardiovascular disease of 10% or more are prescribed a high-
+intensity statin or other lipid-lowering treatment if a high-intensity statin is contraindicated
+or not tolerated. [2015, updated 2025]
+Rationale
+High-intensity statins are the most clinically effective treatment option for the primary
+prevention of cardiovascular disease (CVD). After a full formal risk assessment that
+estimates an adult without CVD has a 10-year risk of CVD of 10% or more and following a
+discussion with a healthcare professional about the risks and benefits of starting statin
+treatment, an adult may choose statin treatment to reduce their risk of CVD. Atorvastatin
+20 mg is recommended as the preferred high-intensity statin, but other lipid-lowering
+treatment could be used if atorvastatin 20 mg is contraindicated or not tolerated.
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured,
+and can be adapted and used flexibly.
+Process
+Proportion of adults with a 10-year risk of CVD of 10% or more who are prescribed a lipid-
+lowering treatment.
+Numerator – the number in the denominator who are prescribed a lipid-lowering treatment.
+Denominator – the number of adults with a 10-year risk of CVD of 10% or more.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
+conditions#notice-of-rights). 25
+--- Страница 14 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Data source:CVDPREVENT indicator CVDP006CHOL reports the proportion of patients
+with no GP recorded CVD and a GP-recorded QRISK score of 10% or more, who are
+currently treated with lipid-lowering therapy. The indicator also reports data for inequality
+markers including sex, age, ethnicity, deprivation level and presence of a learning
+disability.
+What the quality statement means for different
+audiences
+Service providers (primary care services) ensure that systems are in place for adults with
+a 10-year risk of CVD of 10% or more to be offered a high-intensity statin or other lipid-
+lowering treatment, if required, to achieve their individual lipid target of a greater than 40%
+reduction in non-high density (HDL) cholesterol.
+Healthcare professionals (such as GPs, nurses and pharmacists) offer a high-intensity
+statin to adults with a 10-year risk of CVD of 10% or more, or other lipid-lowering treatment
+if required, to achieve their individual lipid target of a greater than 40% reduction in non-
+high density (HDL) cholesterol. They are aware of strategies to address adverse effects of
+high-intensity statins when reported by an adult on a high-intensity statin. They could use
+the NHS England statin intolerance pathway to address statin intolerance.
+Commissioners ensure that lipid-lowering treatment is available for adults with a 10-year
+risk of CVD of 10% or more.
+Adults with a 1 in 10 chance or more of developing CVD in the next 10 years (a 10-year
+risk of 10% or more) are offered medicine to lower their cholesterol. They can use the
+NICE patient decision aid on should I take a statin? to talk about options with their doctor,
+nurse or pharmacist.
+Source guidance
+• Cardiovascular disease: risk assessment and reduction, including lipid modification.
+NICE guideline NG238 (2023), recommendations 1.6.1, 1.6.2, 1.6.7, 1.6.13, 1.9.1, 1.9.3,
+1.10.1 and 1.10.2
+• Bempedoic acid with ezetimibe for treating primary hypercholesterolaemia or mixed
+dyslipidaemia. NICE technology appraisal guidance 694 (2021)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
+conditions#notice-of-rights). 25
+--- Страница 15 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+• Ezetimibe for treating primary heterozygous-familial and non-familial
+hypercholesterolaemia. NICE technology appraisal guidance 385 (2016).
+Definitions of terms used in this quality statement
+High-intensity statin or other lipid-lowering treatment
+See NHS England's summary of national guidance for lipid management.
+Equality and diversity considerations
+Clinical judgement should inform interpretation of results from CVD risk tools because
+tools may underestimate the risk in certain groups of people , including, but not limited to:
+• people treated for HIV
+• people already taking medicines to treat CVD risk factors
+• people who have recently stopped smoking
+• people taking medicines that can cause dyslipidaemia, such as immunosuppressant
+drugs
+• people with severe mental illness
+• people with autoimmune disorders, and other systemic inflammatory disorders.
+When using a QRISK3 risk score to inform treatment decisions in these populations,
+particularly if it is near the threshold for treatment, take into account other factors that
+may predispose the person to premature CVD that may not be included in calculated risk
+scores. [Adapted from NICE's guideline on cardiovascular disease: risk assessment and
+reduction, including lipid modification, recommendation 1.1.10]
+A person's sex will affect their CVD risk assessment score, and this should be considered
+when estimating risk for trans people. [Adapted from NICE's guideline on cardiovascular
+disease: risk assessment and reduction, including lipid modification, rationale and impact
+section on full formal risk assessment].
+For adults aged 85 and older, treatment with atorvastatin 20 mg should be considered
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
+conditions#notice-of-rights). 25
+--- Страница 16 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+with awareness of factors that may make treatment inappropriate, such as the person's
+preference, presence of comorbidities, whether they are on multiple medications, whether
+they are frail, their cognitive status, and their life expectancy. [NICE's guideline on
+cardiovascular disease: risk assessment and reduction, including lipid modification,
+recommendations 1.5.2 and 1.6.9 and expert opinion]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
+conditions#notice-of-rights). 25
+--- Страница 17 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Quality statement 4: Assessing response
+to lipid-lowering treatment
+Quality statement
+Adults starting or changing lipid-lowering treatment have a full lipid profile and their liver
+transaminases measured at 2 to 3 months. [2015, updated 2025]
+Rationale
+Repeating lipid profiles and measuring liver transaminases after starting or changing lipid-
+lowering treatment (and after a baseline blood sample has been taken), is important for
+patient safety and to ensure the effectiveness of the treatment. A repeat lipid profile can
+be used to determine whether the expected lipid levels have been met and can indicate
+the need for escalation of treatment. Measurement of liver transaminase is important to
+detect any increased levels of these enzymes, which may indicate problems with liver
+function.
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured,
+and can be adapted and used flexibly.
+Process
+Proportion of adults starting or changing lipid-lowering treatment who had a full lipid
+profile and their liver transaminases measured at 2 to 3 months.
+Numerator – the number in the denominator who had a full lipid profile and their liver
+transaminases measured at 2 to 3 months.
+Denominator – the number of adults starting or changing lipid-lowering treatment.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
+conditions#notice-of-rights). 25
+--- Страница 18 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Data source: Data can be collected from information recorded locally by healthcare
+professionals and provider organisations, for example from electronic patient records.
+What the quality statement means for different
+audiences
+Service providers (such as primary care services or secondary care services) ensure that
+adults on lipid-lowering treatment have a full lipid profile and their liver transaminases
+measured 2 to 3 months after starting or changing treatment.
+Healthcare professionals (such as GPs, doctors, nurses and pharmacists) measure a full
+lipid profile and liver transaminases 2 to 3 months after adults start or change lipid-
+lowering treatment.
+Commissioners ensure that adults on lipid-lowering treatment have a full lipid profile and
+liver transaminases measured 2 to 3 months after starting or changing treatment.
+Adults taking medicine to reduce their chance of a heart attack or stroke have a blood
+test 2 to 3 months after starting or changing medicine to check that it is reducing their
+cholesterol levels and not affecting their liver.
+Source guidance
+Cardiovascular disease: risk assessment and reduction, including lipid modification. NICE
+guideline NG238 (2023), recommendation 1.11.1
+Definitions of terms used in this quality statement
+Full lipid profile
+This involves taking a blood sample to measure total cholesterol, HDL cholesterol and
+triglyceride levels and then calculating non-HDL cholesterol and LDL cholesterol (a fasting
+sample is not mandated). LDL cholesterol results may not be reported in participants with
+triglyceride levels more than 4.5 mmol per litre or 9 mmol per litre depending on the
+formula used by local laboratories. [NICE's guideline on cardiovascular disease: risk
+assessment and reduction, including lipid modification, terms used in this guideline]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
+conditions#notice-of-rights). 25
+--- Страница 19 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Quality statement 5: Secondary
+prevention of cardiovascular disease
+Quality statement
+Adults with cardiovascular disease have a low-density lipoprotein (LDL) cholesterol level of
+2.0 mmol per litre or less, or a non-high-density lipoprotein (non-HDL) cholesterol level of
+2.6 mmol per litre or less. [new 2025]
+Rationale
+Management of LDL cholesterol or non-HDL cholesterol is important to reduce the risk of
+future cardiovascular events in adults with existing cardiovascular disease. High-intensity
+statins are the most clinically effective treatment option for the secondary prevention of
+cardiovascular disease (CVD) by reduction of lipid levels. Atorvastatin 80 mg is
+recommended as the preferred high-intensity statin, but other lipid-lowering treatments
+could be used if atorvastatin 80 mg is contraindicated, not tolerated or the target
+cholesterol level is not achieved. A non-HDL cholesterol target can be used if an LDL
+cholesterol level has not been requested or calculated.
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured,
+and can be adapted and used flexibly.
+Outcome
+Proportion of adults with CVD in whom the last recorded LDL or non-HDL cholesterol level
+(measured in the preceding 12 months) is 2.0 mmol per litre or less for LDL cholesterol, or
+2.6 mmol per litre or less for non-HDL cholesterol.
+Numerator – the number in the denominator in whom the last recorded LDL or non-HDL
+cholesterol level (measured in the preceding 12 months) is 2.0 mmol per litre or less for
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
+conditions#notice-of-rights). 25
+--- Страница 20 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+LDL cholesterol, or 2.6 mmol per litre or less for non-HDL cholesterol.
+Denominator – the number of adults with CVD.
+Data source:CVDPREVENT indicator CVDP012CHOL reports the proportion of patients
+with GP-recorded CVD (narrow definition which includes coronary heart disease [CHD],
+non-haemorrhagic stroke and stroke cause not specified, transient ischaemic attack [TIA]
+and peripheral arterial disease), whose most recent blood cholesterol level is LDL
+cholesterol less than or equal to 2.0 mmol per litre or, non-HDL cholesterol less than or
+equal to 2.6 mmol per litre in the preceding 12 months. The indicator also reports data for
+inequality markers including sex, age, ethnicity, deprivation level and presence of a
+learning disability.
+QOF indicator CHOL004 reports the percentage of patients on the QOF CHD, PAD or
+stroke/TIA register with the most recent cholesterol measurement in the preceding
+12 months, showing as 2.0 mmol per litre or less if it was an LDL (low-density lipoprotein)
+cholesterol reading or 2.6 mmol per litre or less if it was a non-HDL (high-density
+lipoprotein) cholesterol reading.
+What the quality statement means for different
+audiences
+Service providers (for example primary care services and secondary care services) ensure
+that systems are in place for adults with CVD to achieve their lipid target, for example
+ensuring that LDL cholesterol or non-HDL cholesterol can be measured, and that lipid-
+lowering treatment can be offered.
+Healthcare professionals (such as GPs, nurses, doctors, and specialist nurses) are aware
+of treatment targets for secondary prevention of CVD and offer adults with CVD treatment
+with atorvastatin 80 mg, or other lipid-lowering treatment if required, to achieve the target.
+They could use NHS England's summary of national guidance for lipid management. They
+discuss lifestyle change with the patient at the same time. Treatment and any changes to
+treatment should be made after an informed discussion between the healthcare
+professional and the adult with CVD. They are aware of strategies to address adverse
+effects of high-intensity statins if reported by the adult on a high-intensity statin and could
+use NHS England's statin intolerance pathway to address statin intolerance. They repeat
+measurement of LDL cholesterol or non-HDL cholesterol in adults with CVD after 2 to
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
+conditions#notice-of-rights). 25
+--- Страница 21 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+3 months of treatment and consider escalation of treatment with alternative lipid-lowering
+treatment if the target is not achieved.
+Commissioners ensure that they commission services in which adults with CVD have
+treatment to achieve their target lipid level.
+Adults with CVD are aware of their target cholesterol level and receive treatment, and
+advice on lifestyle changes, that lower their bad cholesterol (non-high-density lipoprotein
+[non-HDL], which is mainly composed of low-density lipoprotein [LDL] cholesterol) to a
+level that reduces their chances of having a heart attack or stroke in the future after
+discussion with their healthcare professional.
+Source guidance
+Cardiovascular disease: risk assessment and reduction, including lipid modification. NICE
+guideline NG238 (2023), recommendation 1.7.1
+Definitions of terms used in this quality statement
+Adults with cardiovascular disease
+Including coronary heart disease, ischaemic stroke or TIA (excluding a history of
+haemorrhagic stroke) or peripheral arterial disease. [Adapted from Quality and Outcomes
+Framework indicator CHOL004, NICE's indicator on cardiovascular disease prevention:
+secondary prevention with lipid lowering therapies and expert opinion]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
+conditions#notice-of-rights). 25
+--- Страница 22 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Update information
+July 2025: This quality standard was updated and statements prioritised in 2015 were
+replaced. The topic was identified for update following the annual review of quality
+standards. The review identified updated guidance on cardiovascular disease: risk
+assessment and reduction, including lipid modification.
+Statements are marked as:
+• [new 2025] if the statement covers a new area for quality improvement
+• [2015, updated 2025] if the statement covers an area for quality improvement
+included in the 2015 quality standard and has been updated.
+The previous version of the quality standard for cardiovascular risk assessment and lipid
+modification is available as a pdf.
+Minor changes since publication
+September 2025: We update the source guidance for statement 3 to align with updated
+recommendations in NICE's guideline on cardiovascular disease that refer to relevant
+technology appraisals.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
+conditions#notice-of-rights). 25
+--- Страница 23 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+About this quality standard
+NICE quality standards describe high-priority areas for quality improvement in a defined
+care or service area. Each standard consists of a prioritised set of specific, concise and
+measurable statements. NICE quality standards draw on existing NICE or high-quality
+external guidance that provides an underpinning, comprehensive set of recommendations,
+and are designed to support the measurement of improvement.
+Expected levels of achievement for quality measures are not specified. Quality standards
+are intended to drive up the quality of care, and so achievement levels of 100% should be
+aspired to (or 0% if the quality statement states that something should not be done).
+However, this may not always be appropriate in practice. Taking account of safety, shared
+decision-making, choice and professional judgement, desired levels of achievement should
+be defined locally.
+Information about how NICE quality standards are developed is available from the NICE
+website.
+See our webpage on quality standards advisory committees for details about our standing
+committees. Information about the topic experts invited to join the standing members is
+available from the webpage for this quality standard.
+NICE guidance and quality standards apply in England and Wales. Decisions on how they
+apply in Scotland and Northern Ireland are made by the Scottish government and Northern
+Ireland Executive. NICE quality standards may include references to organisations or
+people responsible for commissioning or providing care that may be relevant only to
+England.
+Resource impact
+NICE quality standards should be achievable by local services. The potential resource
+impact is considered by the quality standards advisory committee, drawing on resource
+impact work for the source guidance. Organisations are encouraged to use the resource
+impact report for NICE's guideline on cardiovascular disease: risk assessment and
+reduction, including lipid modification to help estimate local costs.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
+conditions#notice-of-rights). 25
+--- Страница 24 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+Diversity, equality and language
+Equality issues were considered during development and equality assessments for this
+quality standard are available. Any specific issues identified during development of the
+quality statements are highlighted in each statement.
+For all quality statements where information is given, it is important that people are
+provided with information that they can easily read and understand themselves, or with
+support, so they can communicate effectively with health and social care services.
+Information should be in a format that suits their needs and preferences. It should be
+accessible to people who do not speak or read English, and it should be culturally
+appropriate and age appropriate. People should have access to an interpreter if needed.
+People should also have access to an advocate, if needed, as set out in NICE's guideline
+on advocacy services for adults with health and social care needs.
+For people with additional needs related to a disability, impairment or sensory loss,
+information should be provided as set out in NHS England's Accessible Information
+Standard or the equivalent standards for the devolved nations.
+Commissioners and providers should aim to achieve the quality standard in their local
+context, in light of their duties to have due regard to the need to eliminate unlawful
+discrimination, advance equality of opportunity and foster good relations. Nothing in this
+quality standard should be interpreted in a way that would be inconsistent with
+compliance with those duties.
+ISBN: 978-1-4731-7122-0
+Endorsing organisation
+This quality standard has been endorsed by NHS England, as required by the Health and
+Social Care Act (2012)
+Supporting organisation
+Many organisations share NICE's commitment to quality improvement using evidence-
+based guidance. The following supporting organisations have recognised the benefit of
+the quality standard in improving care for patients, carers, service users and members of
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
+conditions#notice-of-rights). 25
+--- Страница 25 ---
+Cardiovascular risk assessment and lipid modification (QS100)
+the public. They have agreed to work with NICE to ensure that those commissioning or
+providing services are made aware of and encouraged to use the quality standard.
+• British and Irish Association of Stroke Physicians
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
+conditions#notice-of-rights). 25

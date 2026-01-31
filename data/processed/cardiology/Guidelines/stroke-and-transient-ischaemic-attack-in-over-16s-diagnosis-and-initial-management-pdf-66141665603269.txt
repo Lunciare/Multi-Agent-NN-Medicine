@@ -1,0 +1,1406 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "stroke-and-transient-ischaemic-attack-in-over-16s-diagnosis-and-initial-management-pdf-66141665603269.pdf",
+  "converted_date": "2026-01-31T14:49:07.875385",
+  "file_size_bytes": 265977,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/stroke-and-transient-ischaemic-attack-in-over-16s-diagnosis-and-initial-management-pdf-66141665603269.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+Stroke and transient
+ischaemic attack in over
+16s: diagnosis and initial
+management
+NICE guideline
+Published: 1 May 2019
+Last updated: 13 April 2022
+www.nice.org.uk/guidance/ng128
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+--- Страница 2 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Your responsibility
+The recommendations in this guideline represent the view of NICE, arrived at after careful
+consideration of the evidence available. When exercising their judgement, professionals
+and practitioners are expected to take this guideline fully into account, alongside the
+individual needs, preferences and values of their patients or the people using their service.
+It is not mandatory to apply the recommendations, and the guideline does not override the
+responsibility to make decisions appropriate to the circumstances of the individual, in
+consultation with them and their families and carers or guardian.
+All problems (adverse events) related to a medicine or medical device used for treatment
+or in a procedure should be reported to the Medicines and Healthcare products Regulatory
+Agency using the Yellow Card Scheme.
+Local commissioners and providers of healthcare have a responsibility to enable the
+guideline to be applied when individual professionals and people using services wish to
+use it. They should do so in the context of local and national priorities for funding and
+developing services, and in light of their duties to have due regard to the need to eliminate
+unlawful discrimination, to advance equality of opportunity and to reduce health
+inequalities. Nothing in this guideline should be interpreted in a way that would be
+inconsistent with complying with those duties.
+Commissioners and providers have a responsibility to promote an environmentally
+sustainable health and care system and should assess and reduce the environmental
+impact of implementing NICE recommendations wherever possible.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
+conditions#notice-of-rights). 49
+--- Страница 3 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Contents
+Overview ..................................................................................................................................... 5
+Who is it for? .......................................................................................................................................... 5
+Recommendations ...................................................................................................................... 6
+1.1 Rapid recognition of symptoms and diagnosis ............................................................................. 6
+1.2 Imaging for people who have had a suspected TIA or acute non-disabling stroke ................. 7
+1.3 Specialist care for people with acute stroke ................................................................................ 9
+1.4 Pharmacological treatments and thrombectomy for people with acute stroke ........................ 10
+1.5 Maintenance or restoration of homeostasis ................................................................................. 15
+1.6 Nutrition and hydration ................................................................................................................... 18
+1.7 Optimal positioning and early mobilisation for people with acute stroke .................................. 20
+1.8 Avoiding aspiration pneumonia ...................................................................................................... 21
+1.9 Surgery for people with acute stroke ............................................................................................ 21
+Terms used in this guideline ................................................................................................................. 23
+Additional information ................................................................................................................ 24
+Recommendation 1.3.2 ......................................................................................................................... 24
+Recommendations 1.4.5 to 1.4.7 .......................................................................................................... 24
+Recommendation 1.4.12 ........................................................................................................................ 24
+Recommendation 1.4.15 ........................................................................................................................ 24
+Recommendation 1.4.21 ........................................................................................................................ 25
+Recommendations for research ................................................................................................ 26
+Key recommendations for research .................................................................................................... 26
+Rationale and impact .................................................................................................................. 30
+Initial management of suspected and confirmed transient ischaemic attack (aspirin) ................. 30
+Initial management of suspected and confirmed transient ischaemic attack ................................ 31
+Imaging for people who have had a suspected TIA or acute non-disabling stroke ....................... 32
+Thrombectomy for people with acute ischaemic stroke ................................................................... 34
+Blood pressure control for people with acute intracerebral haemorrhage ...................................... 37
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
+conditions#notice-of-rights). 49
+--- Страница 4 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Optimal positioning for people with acute stroke .............................................................................. 40
+Early mobilisation for people with acute stroke ................................................................................. 41
+Decompressive hemicraniectomy for people with acute stroke ...................................................... 42
+Context ........................................................................................................................................ 44
+Finding more information and resources ................................................................................. 46
+Update information .................................................................................................................... 47
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
+conditions#notice-of-rights). 49
+--- Страница 5 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+This guideline replaces CG68.
+This guideline is the basis of QS2.
+Overview
+This guideline covers interventions in the acute stage of a stroke or transient ischaemic
+attack (TIA). It offers the best clinical advice on the diagnosis and acute management of
+stroke and TIA in the 48 hours after onset of symptoms.
+Who is it for?
+• Healthcare professionals in primary and secondary NHS healthcare settings
+• Commissioners and providers of services
+• People aged over 16 who have had a stroke or TIA, their families and carers
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
+conditions#notice-of-rights). 49
+--- Страница 6 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Recommendations
+People have the right to be involved in discussions and make informed decisions
+about their care, as described in NICE's information on making decisions about your
+care.
+Making decisions using NICE guidelines explains how we use words to show the
+strength (or certainty) of our recommendations, and has information about
+prescribing medicines (including off-label use), professional guidelines, standards
+and laws (including on consent and mental capacity), and safeguarding.
+NICE has also produced patient decision aids on decompressive hemicraniectomy.
+1.1 Rapid recognition of symptoms and diagnosis
+Prompt recognition of symptoms of stroke and transient
+ischaemic attack
+1.1.1 Use a validated tool, such as FAST (Face Arm Speech Test), outside hospital to
+screen people with sudden onset of neurological symptoms for a diagnosis of
+stroke or transient ischaemic attack (TIA). [2008]
+1.1.2 Exclude hypoglycaemia in people with sudden onset of neurological symptoms as
+the cause of these symptoms. [2008]
+1.1.3 For people who are admitted to the emergency department with a suspected
+stroke or TIA, establish the diagnosis rapidly using a validated tool, such as
+ROSIER (Recognition of Stroke in the Emergency Room). [2008]
+Initial management of suspected and confirmed TIA
+1.1.4 Offer aspirin (300 mg daily), unless contraindicated, to people who have had a
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
+conditions#notice-of-rights). 49
+--- Страница 7 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+suspected TIA, to be started immediately. [2019]
+For a short explanation of why the committee made this 2019 recommendation and
+how it might affect practice, see the rationale and impact section on initial
+management of suspected and confirmed transient ischaemic attack (aspirin).
+Full details of the evidence and the committee's discussion are in evidence review A:
+aspirin.
+1.1.5 Refer immediately people who have had a suspected TIA for specialist
+assessment and investigation, to be seen within 24 hours of onset of symptoms.
+[2019]
+1.1.6 Do not use scoring systems, such as ABCD2, to assess risk of subsequent stroke
+or to inform urgency of referral for people who have had a suspected or
+confirmed TIA. [2019]
+1.1.7 Offer secondary prevention, in addition to aspirin, as soon as possible after the
+diagnosis of TIA is confirmed. [2008, amended 2019]
+For a short explanation of why the committee made these 2019 recommendations and
+how they might affect practice, see the rationale and impact section on initial
+management of suspected and confirmed transient ischaemic attack.
+Full details of the evidence and the committee's discussion are in evidence review B:
+TIA prediction rules.
+1.2 Imaging for people who have had a suspected
+TIA or acute non-disabling stroke
+Suspected TIA
+1.2.1 Do not offer CT brain scanning to people with a suspected TIA unless there is
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
+conditions#notice-of-rights). 49
+--- Страница 8 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+clinical suspicion of an alternative diagnosis that CT could detect. [2019]
+1.2.2 After specialist assessment in the TIA clinic, consider MRI (including diffusion-
+weighted and blood-sensitive sequences) to determine the territory of ischaemia,
+or to detect haemorrhage or alternative pathologies. If MRI is done, perform it on
+the same day as the assessment. [2019]
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on imaging for people
+who have had a suspected TIA or acute non-disabling stroke.
+Full details of the evidence and the committee's discussion are in evidence review C:
+TIA imaging.
+Carotid imaging
+1.2.3 Everyone with TIA who after specialist assessment is considered as a candidate
+for carotid endarterectomy should have urgent carotid imaging. [2008, amended
+2019]
+Urgent carotid endarterectomy
+1.2.4 Ensure that people with stable neurological symptoms from acute non-disabling
+stroke or TIA who have symptomatic carotid stenosis of 50% to 99% according to
+the NASCET (North American Symptomatic Carotid Endarterectomy Trial) criteria,
+or 70% to 99% according to the ECST (European Carotid Surgery Trial) criteria:
+• are assessed and referred urgently for carotid endarterectomy to a service
+following current national standards (see the NHS England and NHS
+Improvement National Stroke Service Model)
+• receive best medical treatment (control of blood pressure, antiplatelet
+agents, cholesterol lowering through diet and drugs, lifestyle advice). [2008,
+amended 2019]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
+conditions#notice-of-rights). 49
+--- Страница 9 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+1.2.5 Ensure that people with stable neurological symptoms from acute non-disabling
+stroke or TIA who have symptomatic carotid stenosis of less than 50% according
+to the NASCET criteria, or less than 70% according to the ECST criteria:
+• do not have surgery
+• receive best medical treatment (control of blood pressure, antiplatelet
+agents, cholesterol lowering through diet and drugs, lifestyle advice). [2008]
+1.2.6 Ensure that carotid imaging reports clearly state which criteria (ECST or NASCET)
+were used when measuring the extent of carotid stenosis. [2008]
+1.3 Specialist care for people with acute stroke
+Specialist stroke units
+1.3.1 Admit everyone with suspected stroke directly to a specialist acute stroke unit
+after initial assessment, from either the community, the emergency department,
+or outpatient clinics. (An acute stroke unit is a discrete area in the hospital that is
+staffed by a specialist stroke multidisciplinary team. It has access to equipment
+for monitoring and rehabilitating patients. Regular multidisciplinary team meetings
+occur for goal setting.). [2008]
+Brain imaging for the early assessment of people with suspected
+acute stroke
+1.3.2 Perform brain imaging immediately with a non-enhanced CT for people with
+suspected acute stroke if any of the following apply (see additional information):
+• indications for thrombolysis or thrombectomy
+• on anticoagulant treatment
+• a known bleeding tendency
+• a depressed level of consciousness (Glasgow Coma Score below 13)
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
+conditions#notice-of-rights). 49
+--- Страница 10 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+• unexplained progressive or fluctuating symptoms
+• papilloedema, neck stiffness or fever
+• severe headache at onset of stroke symptoms.
+If thrombectomy might be indicated, perform imaging with CT contrast
+angiography following initial non-enhanced CT. Add CT perfusion imaging (or
+MR equivalent) if thrombectomy might be indicated beyond 6 hours of
+symptom onset. [2008, amended 2019]
+1.3.3 Perform scanning as soon as possible and within 24 hours of symptom onset in
+everyone with suspected acute stroke without indications for immediate brain
+imaging. [2008]
+The NHS England and NHS Improvement National Stroke Service Model contains
+a patient-centred national optimal stroke imaging pathway.
+1.4 Pharmacological treatments and thrombectomy
+for people with acute stroke
+Thrombolysis for people with acute ischaemic stroke
+1.4.1 For thrombolytic medicines recommended as options in NICE technology
+appraisal guidance for treating acute ischaemic stroke within 4.5 hours of
+symptom onset and when intracranial haemorrhage has been excluded, see the
+guidance on:
+• tenecteplase (TA990, 2024)
+• alteplase (TA264, 2012).
+1.4.2 Administer alteplase or tenecteplase only within a well-organised stroke service
+with:
+• staff trained in delivering thrombolysis and in monitoring for any
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
+conditions#notice-of-rights). 49
+--- Страница 11 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+complications associated with thrombolysis
+• nursing staff trained in acute stroke and thrombolysis to provide level 1 and
+level 2 care (see the NHS Data Model and Dictionary on critical care level)
+• immediate access to imaging and re-imaging, and staff trained to interpret
+the images. [2008, amended 2025]
+1.4.3 Staff in emergency departments, if appropriately trained and supported, can
+administer alteplase or tenecteplase for the treatment of ischaemic stroke
+provided that patients can be managed within an acute stroke service with
+appropriate neuroradiological and stroke physician support. [2008, amended
+2025]
+1.4.4 Ensure that protocols are in place for delivering and managing intravenous
+thrombolysis, including post-thrombolysis complications. [2008]
+Thrombectomy for people with acute ischaemic stroke
+1.4.5 Offer thrombectomy as soon as possible and within 6 hours of symptom onset,
+together with intravenous thrombolysis (if not contraindicated and within the
+licensed time window), to people who have:
+• acute ischaemic stroke and
+• confirmed occlusion of the proximal anterior circulation demonstrated by
+computed tomographic angiography (CTA) or magnetic resonance
+angiography (MRA)
+taking into account the factors in recommendation 1.4.8 (see additional
+information). [2019]
+1.4.6 Offer thrombectomy as soon as possible to people who were last known to be
+well between 6 hours and 24 hours previously (including wake-up strokes):
+• who have acute ischaemic stroke and confirmed occlusion of the proximal
+anterior circulation demonstrated by CTA or MRA and
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
+conditions#notice-of-rights). 49
+--- Страница 12 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+• if there is the potential to salvage brain tissue, as shown by imaging such as
+CT perfusion or diffusion-weighted MRI sequences showing limited infarct
+core volume
+taking into account the factors in recommendation 1.4.8 (see additional
+information). [2019]
+1.4.7 Consider thrombectomy together with intravenous thrombolysis (where not
+contraindicated and within the licensed time window) as soon as possible for
+people last known to be well up to 24 hours previously (including wake-up
+strokes):
+• who have acute ischaemic stroke and confirmed occlusion of the proximal
+posterior circulation (that is, basilar or posterior cerebral artery)
+demonstrated by CTA or MRA and
+• if there is the potential to salvage brain tissue, as shown by imaging such as
+CT perfusion or diffusion-weighted MRI sequences showing limited infarct
+core volume
+taking into account the factors in recommendation 1.4.8 (see additional
+information). [2019]
+1.4.8 Take into account the person's overall clinical status and the extent of
+established infarction on initial brain imaging to inform decisions about
+thrombectomy. Select people who have (in addition to the factors in
+recommendations 1.4.5 to 1.4.7):
+• a pre-stroke functional status of less than 3 on the modified Rankin scale and
+• a score of more than 5 on the National Institutes of Health Stroke Scale
+(NIHSS). [2019]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
+conditions#notice-of-rights). 49
+--- Страница 13 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+For a short explanation of why the committee made these 2019 recommendations and
+how they might affect practice, see the rationale and impact section on
+thrombectomy for people with acute ischaemic stroke.
+Full details of the evidence and the committee's discussion are in evidence review D:
+thrombectomy.
+Aspirin and anticoagulant treatment
+People with acute ischaemic stroke
+1.4.9 Offer the following as soon as possible, but certainly within 24 hours, to everyone
+presenting with acute stroke who has had a diagnosis of intracerebral
+haemorrhage excluded by brain imaging:
+• aspirin 300 mg orally if they do not have dysphagia or
+• aspirin 300 mg rectally or by enteral tube if they do have dysphagia.
+Continue aspirin daily 300 mg until 2 weeks after the onset of stroke
+symptoms, at which time start definitive long-term antithrombotic treatment.
+Start people on long-term treatment earlier if they are being discharged
+before 2 weeks. [2008]
+1.4.10 Offer a proton pump inhibitor, in addition to aspirin, to anyone with acute
+ischaemic stroke for whom previous dyspepsia associated with aspirin is
+reported. [2008]
+1.4.11 Offer an alternative antiplatelet agent to anyone with acute ischaemic stroke who
+is allergic to or genuinely intolerant of aspirin. (Aspirin intolerance is defined as
+either of the following: proven hypersensitivity to aspirin-containing medicines, or
+history of severe dyspepsia induced by low-dose aspirin.) [2008]
+1.4.12 Do not use anticoagulation treatment routinely for the treatment of acute stroke
+(see additional information). [2008]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
+conditions#notice-of-rights). 49
+--- Страница 14 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+People with acute venous stroke
+1.4.13 Offer people diagnosed with cerebral venous sinus thrombosis (including those
+with secondary cerebral haemorrhage) full-dose anticoagulation treatment
+(initially full-dose heparin and then warfarin [international normalised ratio
+2 to 3]) unless there are comorbidities that preclude its use. [2008]
+People with stroke associated with arterial dissection
+1.4.14 Offer either anticoagulants or antiplatelet agents to people who have stroke
+secondary to acute arterial dissection. [2008, amended 2019]
+People with acute ischaemic stroke associated with antiphospholipid
+syndrome
+1.4.15 Manage acute ischaemic stroke associated with antiphospholipid syndrome in the
+same way as acute ischaemic stroke without antiphospholipid syndrome (see
+additional information). [2008]
+Reversal of anticoagulation treatment in people with haemorrhagic stroke
+1.4.16 Return clotting levels to normal as soon as possible in people with a primary
+intracerebral haemorrhage who were receiving warfarin before their stroke (and
+have elevated international normalised ratio). Do this by reversing the effects of
+the warfarin using a combination of prothrombin complex concentrate and
+intravenous vitamin K. [2008, amended 2019]
+For advice on reversing direct-acting oral anticoagulants (DOACs), see the MHRA safety
+advice on DOACs for a list of reversal agents.
+Anticoagulation treatment for other comorbidities
+1.4.17 Ensure that people with disabling ischaemic stroke who are in atrial fibrillation are
+treated with aspirin 300 mg for the first 2 weeks before anticoagulation treatment
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
+conditions#notice-of-rights). 49
+--- Страница 15 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+is considered. [2008]
+1.4.18 For people with prosthetic valves who have disabling cerebral infarction and who
+are at significant risk of haemorrhagic transformation, stop anticoagulation
+treatment for 1 week and substitute aspirin 300 mg. [2008]
+1.4.19 Ensure that people with ischaemic stroke and symptomatic proximal deep vein
+thrombosis or pulmonary embolism receive anticoagulation treatment in
+preference to treatment with aspirin unless there are other contraindications to
+anticoagulation. [2008]
+1.4.20 Treat people who have haemorrhagic stroke and symptomatic deep vein
+thrombosis or pulmonary embolism to prevent the development of further
+pulmonary emboli using either anticoagulation or a caval filter. [2008]
+Statin treatment
+1.4.21 Immediate initiation of statin treatment is not recommended in people with acute
+stroke (see additional information). [2008]
+1.4.22 Continue statin treatment in people with acute stroke who are already receiving
+statins. [2008]
+1.5 Maintenance or restoration of homeostasis
+Supplemental oxygen therapy
+1.5.1 Give supplemental oxygen to people who have had a stroke only if their oxygen
+saturation drops below 95%. The routine use of supplemental oxygen is not
+recommended in people with acute stroke who are not hypoxic. [2008]
+Be aware that some pulse oximeters can underestimate or overestimate oxygen
+saturation levels, especially if the saturation level is borderline. Overestimation
+has been reported in people with dark skin. See also the NHS England Patient
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
+conditions#notice-of-rights). 49
+--- Страница 16 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Safety Alert on the risk of harm from inappropriate placement of pulse oximeter
+probes.
+Blood sugar control
+1.5.2 Maintain a blood glucose concentration between 4 and 11 mmol/litre in people
+with acute stroke. [2008]
+1.5.3 Provide optimal insulin therapy, which can be achieved by the use of intravenous
+insulin and glucose, to all adults with type 1 diabetes with threatened or actual
+stroke. Critical care and emergency departments should have a protocol for such
+management. [2008]
+Blood pressure control for people with acute intracerebral
+haemorrhage
+1.5.4 Consider rapid blood pressure lowering for people with acute intracerebral
+haemorrhage who do not have any of the exclusions listed in recommendation
+1.5.7 and who:
+• present within 6 hours of symptom onset and
+• have a systolic blood pressure of between 150 and 220 mmHg. [2022]
+1.5.5 Taking into account the risk of harm, consider rapid blood pressure lowering on a
+case-by-case basis for people with acute intracerebral haemorrhage who do not
+have any of the exclusions listed in recommendation 1.5.7 and who:
+• present beyond 6 hours of symptom onset or
+• have a systolic blood pressure greater than 220 mmHg. [2022]
+1.5.6 When rapidly lowering blood pressure in people with acute intracerebral
+haemorrhage, aim to reach a systolic blood pressure of 140 mmHg or lower while
+ensuring that the magnitude drop does not exceed 60 mmHg within 1 hour of
+starting treatment. [2022]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
+conditions#notice-of-rights). 49
+--- Страница 17 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+1.5.7 Do not offer rapid blood pressure lowering to people who:
+• have an underlying structural cause (for example, tumour, arteriovenous
+malformation or aneurysm)
+• have a score on the Glasgow Coma Scale of below 6
+• are going to have early neurosurgery to evacuate the haematoma
+• have a massive haematoma with a poor expected prognosis. [2019]
+1.5.8 When considering blood pressure lowering in young people aged 16 or 17 with
+acute intracerebral haemorrhage who do not have any of the exclusions listed in
+recommendation 1.5.7, seek advice from a paediatric specialist. [2022]
+For a short explanation of why the committee made the 2022 recommendations and
+how they might affect practice, see the rationale and impact section on blood
+pressure control for people with acute intracerebral haemorrhage.
+Full details of the evidence and the committee's discussion are in evidence review E:
+intensive interventions to lower blood pressure in people with acute intracerebral
+haemorrhage.
+Blood pressure control for people with acute ischaemic stroke
+1.5.9 Anti-hypertensive treatment in people with acute ischaemic stroke is
+recommended only if there is a hypertensive emergency with one or more of the
+following serious concomitant medical issues:
+• hypertensive encephalopathy
+• hypertensive nephropathy
+• hypertensive cardiac failure/myocardial infarction
+• aortic dissection
+• pre-eclampsia/eclampsia. [2008, amended 2019]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
+conditions#notice-of-rights). 49
+--- Страница 18 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+1.5.10 Blood pressure reduction to 185/110 mmHg or lower should be considered in
+people who are candidates for intravenous thrombolysis. [2008]
+1.6 Nutrition and hydration
+Assessment of swallowing function
+1.6.1 On admission, ensure that people with acute stroke have their swallowing
+screened by an appropriately trained healthcare professional before being given
+any oral food, fluid or medication. [2008]
+1.6.2 If the admission screen indicates problems with swallowing, ensure that the
+person has a specialist assessment of swallowing, preferably within 24 hours of
+admission and not more than 72 hours afterwards. [2008]
+1.6.3 People with suspected aspiration on specialist assessment, or who require tube
+feeding or dietary modification for 3 days, should be:
+• re-assessed and considered for instrumental examination
+• referred for dietary advice. [2008]
+1.6.4 People with acute stroke who are unable to take adequate nutrition, fluids and
+medication orally should:
+• receive tube feeding with a nasogastric tube within 24 hours of admission
+unless they have had thrombolysis
+• be considered for a nasal bridle tube or gastrostomy if they are unable to
+tolerate a nasogastric tube
+• be referred to an appropriately trained healthcare professional for detailed
+nutritional assessment, individualised advice and monitoring
+• have their oral medication reviewed to amend either the formulation or the
+route of administration. [2008, amended 2019]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
+conditions#notice-of-rights). 49
+--- Страница 19 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Oral nutritional supplementation
+1.6.5 Screen all hospital inpatients on admission for malnutrition and the risk of
+malnutrition. Repeat screening weekly for inpatients. [2008]
+1.6.6 Screening should assess body mass index (BMI) and percentage unintentional
+weight loss. It should also consider the time over which a nutrient intake has been
+unintentionally reduced and/or the likelihood of future impaired nutrient intake.
+The Malnutrition Universal Screening Tool (MUST), for example, may be used to
+do this. [2008]
+1.6.7 When screening for malnutrition and the risk of malnutrition, be aware that
+dysphagia, poor oral health and reduced ability to self-feed will affect nutrition in
+people with stroke. [2008]
+1.6.8 Screening for malnutrition and the risk of malnutrition should be carried out by
+healthcare professionals with appropriate skills and training. [2008]
+1.6.9 Routine nutritional supplementation is not recommended for people with acute
+stroke who are adequately nourished on admission. [2008]
+1.6.10 Start nutrition support for people with stroke who are at risk of malnutrition. This
+may include oral nutritional supplements, specialist dietary advice and/or tube
+feeding. [2008]
+Hydration
+1.6.11 Assess, on admission, the hydration of everyone with acute stroke. Review
+hydration regularly and manage it so that normal hydration is maintained. [2008]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
+conditions#notice-of-rights). 49
+--- Страница 20 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+1.7 Optimal positioning and early mobilisation for
+people with acute stroke
+Optimal positioning
+1.7.1 Assess the individual clinical needs and personal preferences of people with
+acute stroke to determine their optimal head position. Take into account factors
+such as their comfort, physical and cognitive abilities and postural control. [2019]
+For a short explanation of why the committee made this recommendation and how it
+might affect practice, see the rationale and impact section on optimal positioning for
+people with acute stroke.
+Full details of the evidence and the committee's discussion are in evidence review G:
+head positioning.
+Early mobilisation
+1.7.2 Help people with acute stroke to sit out of bed, stand or walk as soon as their
+clinical condition permits as part of an active management programme in a
+specialist stroke unit. [2019]
+1.7.3 If people need help to sit out of bed, stand or walk, do not offer high-intensity
+mobilisation in the first 24 hours after symptom onset. [2019]
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on early mobilisation
+for people with acute stroke.
+Full details of the evidence and the committee's discussion are in evidence review F:
+very early mobilisation.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
+conditions#notice-of-rights). 49
+--- Страница 21 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+1.8 Avoiding aspiration pneumonia
+1.8.1 To avoid aspiration pneumonia, give food, fluids and medication to people with
+dysphagia in a form that can be swallowed without aspiration, after specialist
+assessment of swallowing (see recommendation 1.6.2). [2008]
+1.9 Surgery for people with acute stroke
+Acute intracerebral haemorrhage
+1.9.1 Stroke services should agree protocols for monitoring, referring and transferring
+people to regional neurosurgical centres for the management of symptomatic
+hydrocephalus. [2008]
+1.9.2 People with intracerebral haemorrhage should be monitored by specialists in
+neurosurgical or stroke care for deterioration in function and referred immediately
+for brain imaging when necessary. [2008]
+1.9.3 Previously fit people should be considered for surgical intervention following
+primary intracerebral haemorrhage if they have hydrocephalus. [2008]
+1.9.4 People with any of the following rarely require surgical intervention and should
+receive medical treatment initially:
+• small deep haemorrhages
+• lobar haemorrhage without either hydrocephalus or rapid neurological
+deterioration
+• a large haemorrhage and significant comorbidities before the stroke
+• a score on the Glasgow Coma Scale of below 8 unless this is because of
+hydrocephalus
+• posterior fossa haemorrhage. [2008]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
+conditions#notice-of-rights). 49
+--- Страница 22 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Decompressive hemicraniectomy
+1.9.5 Consider decompressive hemicraniectomy (which should be performed within
+48 hours of symptom onset) for people with acute stroke who meet all of the
+following criteria:
+• clinical deficits that suggest infarction in the territory of the middle cerebral
+artery, with a score above 15 on the NIHSS
+• decreased level of consciousness, with a score of 1 or more on item 1a of the
+NIHSS
+• signs on CT of an infarct of at least 50% of the middle cerebral artery
+territory:
+－ with or without additional infarction in the territory of the anterior or
+posterior cerebral artery on the same side or
+－ with infarct volume greater than 145 cm3, as shown on diffusion-
+weighted MRI scan. [2019]
+1.9.6 Discuss the risks and benefits of decompressive hemicraniectomy with people or
+their family members or carers (as appropriate), taking into account their
+functional status before the stroke, and their wishes and preferences. [2019]
+NICE has produced patient decision aids to support discussions about
+decompressive hemicraniectomy.
+1.9.7 People who are referred for decompressive hemicraniectomy should be
+monitored by appropriately trained professionals skilled in neurological
+assessment. [2008]
+For a short explanation of why the committee made these 2019 recommendations and
+how they might affect practice, see the rationale and impact section on
+decompressive hemicraniectomy for people with acute stroke.
+Full details of the evidence and the committee's discussion are in evidence review H:
+surgery (decompressive hemicraniectomy).
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
+conditions#notice-of-rights). 49
+--- Страница 23 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Terms used in this guideline
+This section defines terms that have been used in a particular way for this guideline. For
+other definitions, see the NICE glossary.
+High-intensity mobilisation
+High-intensity mobilisation refers to the very early mobilisation intervention from the
+AVERT trial. (Further details of the intervention performed in the trial can be found in
+NICE's evidence review F: very early mobilisation.) It includes mobilisation that:
+• begins within the first 24 hours of stroke onset
+• includes at least 3 additional out-of-bed sessions compared with usual care
+• focuses on sitting, standing and walking (that is, out of bed) activity.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
+conditions#notice-of-rights). 49
+--- Страница 24 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Additional information
+Recommendation 1.3.2
+The committee felt that 'immediately' is defined as 'ideally the next slot and definitely
+within 1 hour, whichever is sooner'.
+Recommendations 1.4.5 to 1.4.7
+In May 2019, not all devices with a CE mark for thrombectomy were intended by the
+manufacturer for use as recommended here. The healthcare professional should follow
+relevant professional guidance, taking full responsibility for the decision. Informed consent
+should be obtained and documented. Medicines and Healthcare products Regulatory
+Agency (MHRA) advice remains to use CE-marked devices for their intended purpose
+where possible. See MHRA's guidance on off-label use of a medical device for further
+information.
+Recommendation 1.4.12
+There may be a subgroup of people for whom the risk of venous thromboembolism
+outweighs the risk of haemorrhagic transformation. People considered to be at particularly
+high risk of venous thromboembolism include anyone with complete paralysis of the leg, a
+previous history of venous thromboembolism, dehydration or comorbidities (such as
+malignant disease), or who is a current or recent smoker. Such people should be kept
+under regular review if they are given prophylactic anticoagulation.
+Recommendation 1.4.15
+There was insufficient evidence to support any recommendation on the safety and
+efficacy of anticoagulants versus antiplatelets for the treatment of people with acute
+ischaemic stroke associated with antiphospholipid syndrome.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
+conditions#notice-of-rights). 49
+--- Страница 25 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Recommendation 1.4.21
+The consensus of the committee is that it would be safe to start statins after 48 hours.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
+conditions#notice-of-rights). 49
+--- Страница 26 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Recommendations for research
+As part of the 2022 update, the guideline committee made an additional
+2 recommendations for research.
+As part of the 2019 update, the guideline committee retained the recommendations for
+research on avoidance of aspiration pneumonia, aspirin and anticoagulant treatment for
+acute ischaemic stroke, aspirin treatment in acute ischaemic stroke, early mobilisation and
+optimum positioning of people with acute stroke, blood pressure control, and safety and
+efficacy of carotid stenting. The committee made an additional recommendation for
+research on MRI brain scanning.
+Key recommendations for research
+1 Impact of intensive blood pressure lowering on people who are
+frail
+What is the efficacy and safety of intensive interventions to lower blood pressure
+compared with less intensive interventions for people with acute intracerebral
+haemorrhage who are frail at presentation? [2022]
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on blood pressure control for people with acute
+intracerebral haemorrhage.
+Full details of the evidence and the committee's discussion are in evidence review E:
+intensive interventions to lower blood pressure in people with acute intracerebral
+haemorrhage.
+2 Impact of intensive interventions to lower blood pressure on
+cognitive function, functional ability and quality of life
+What are the long-term effects of intensive interventions to lower blood pressure on
+cognitive function, functional ability and quality of life compared with standard
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
+conditions#notice-of-rights). 49
+--- Страница 27 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+interventions in people with acute intracerebral haemorrhage? [2022]
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on blood pressure control for people with acute
+intracerebral haemorrhage.
+Full details of the evidence and the committee's discussion are in evidence review E:
+intensive interventions to lower blood pressure in people with acute intracerebral
+haemorrhage.
+3 MRI brain scanning
+Does early MRI brain scanning improve outcomes after suspected transient ischaemic
+attack (TIA)? [2019]
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on imaging for people who have had a suspected
+TIA or acute non-disabling stroke.
+Full details of the evidence and the committee's discussion are in evidence review C:
+TIA imaging.
+4 Avoidance of aspiration pneumonia
+Does the withdrawal of oral liquids or the use of modified (thickened) oral fluids prevent
+the development of aspiration pneumonia after an acute stroke?
+Why this is important
+People with dysphagia after an acute stroke are at higher risk of aspiration pneumonia.
+The guideline development group considered how best to reduce the likelihood of people
+with acute stroke developing aspiration pneumonia, but there was insufficient evidence on
+which to base a recommendation. Current clinical practice dictates that those people with
+clinical evidence of aspiration are given 'nil by mouth' or are given modified (thickened)
+oral fluids. However, there is little evidence to suggest that withdrawal or modification of
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
+conditions#notice-of-rights). 49
+--- Страница 28 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+fluids reduces the incidence of pneumonia. Oral hygiene is impaired by the withdrawal of
+oral fluids, and aspirated saliva (up to 2 litres/day) may be infected as a result. Medications
+are not given orally, and patients may be distressed by the withholding of oral fluids. The
+research question is whether allowing people with evidence of aspiration free access to
+water predisposes them to the development of aspiration pneumonia compared with
+withdrawal of oral liquids or the use of modified (thickened) oral fluids. [2008]
+5 Aspirin and anticoagulant treatment for acute ischaemic stroke
+Does modified-release dipyridamole or clopidogrel with aspirin improve outcome
+compared with aspirin alone when administered early after acute ischaemic stroke?
+Why this is important
+Aspirin administered within 48 hours of acute ischaemic stroke improves outcome
+compared with no treatment or early anticoagulation. In the secondary prevention of
+stroke, the combination of modified-release dipyridamole with aspirin improves outcome
+compared with aspirin alone. Clopidogrel, administered with aspirin, improves outcome
+after myocardial infarction. It is not known whether antiplatelet agents other than aspirin
+(alone or in combination) may be more effective than aspirin alone in the acute phase of
+ischaemic stroke. The research question to be addressed is whether modified-release
+dipyridamole or clopidogrel with aspirin improves outcome compared with aspirin alone
+when administered early after acute ischaemic stroke. [2008]
+6 Aspirin treatment in acute ischaemic stroke
+Should a person who has a stroke or a TIA and is already taking aspirin be prescribed the
+same or an increased dose of aspirin after the stroke?
+Why this is important
+Many people take aspirin routinely for the secondary or primary prevention of vascular
+disease. When a person who is taking 75 mg aspirin daily has a stroke or TIA, there is no
+evidence to guide clinicians on whether to maintain or increase the dose. The research
+question to be addressed is whether a person already on aspirin who has a stroke or TIA
+should be offered the same or an increased dose of aspirin. [2008]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
+conditions#notice-of-rights). 49
+--- Страница 29 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+7 Early mobilisation and optimum positioning of people with
+acute stroke
+How safe and effective is very early mobilisation delivered by appropriately trained
+healthcare professionals after stroke?
+Why this is important
+Most people with stroke are nursed in bed for at least the first day after their admission to
+the stroke unit. The severity of limb weakness or incoordination and reduced awareness or
+an impaired level of consciousness may make mobilisation potentially hazardous. There
+are concerns about the effect of very early mobilisation on blood pressure and cerebral
+perfusion pressure. However, early mobilisation may have beneficial effects on
+oxygenation and lead to a reduction in complications such as venous thromboembolism
+and hypostatic pneumonia. There could be benefits for motor and sensory recovery, and
+patient motivation. The research question to be addressed is whether very early
+mobilisation with the aid of appropriately trained professionals is safe and improves
+outcome compared with standard care. [2008]
+8 Safety and efficacy of carotid stenting
+What is the safety and efficacy of carotid stenting compared with carotid endarterectomy
+when these procedures are carried out within 2 weeks of TIA or recovered stroke?
+Why this is important
+Carotid stenting is less invasive than carotid endarterectomy and might be safer,
+particularly for patients very soon after a TIA or stroke, for whom the risks of general
+anaesthetic might be high. However, neither the risk of stroke nor long-term outcomes
+after early carotid stenting are known. A randomised controlled trial comparing these
+interventions early after stroke would determine which of them is associated with the best
+outcome, as well as comparing their relative safety and cost effectiveness. [2008]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
+conditions#notice-of-rights). 49
+--- Страница 30 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Rationale and impact
+These sections briefly explain why the committee made the recommendations and how
+they might affect practice.
+Initial management of suspected and confirmed
+transient ischaemic attack (aspirin)
+Recommendation 1.1.4
+Why the committee made the recommendation
+There was some evidence for a benefit of aspirin in the early management of confirmed
+transient ischaemic attack (TIA) or minor stroke in reducing the risk of stroke or recurrent
+stroke in secondary care in stroke services units. This is not directly applicable to the area
+of review, which was about TIA at first contact with a healthcare professional. However, in
+the committee's experience, the earlier that aspirin can be administered, the better this
+will also be for patient outcomes in this group. The risk of haemorrhage in this group, and
+of other risks associated with administering aspirin (aspirin allergy or gastrointestinal
+bleed), is low. The recommendation was based largely on the knowledge and experience
+of the committee supported by the indirect evidence.
+How the recommendation might affect practice
+The recommendation represents a change from current practice. However, because of the
+low unit cost of aspirin, the committee did not expect the recommendation to result in a
+significant resource impact. General practices will need to ensure they have adequate
+supplies of aspirin to enable immediate administration.
+Return to recommendation
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
+conditions#notice-of-rights). 49
+--- Страница 31 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Initial management of suspected and confirmed
+transient ischaemic attack
+Recommendations 1.1.5 to 1.1.7
+Why the committee made the recommendations
+Evidence showed that risk prediction scores (ABCD2 and ABCD3) used in isolation are
+poor at discriminating low and high risk of stroke after TIA. Adding imaging of the brain
+and carotid arteries to the risk scores (as is done in the ABCD2-I and ABCD3-I tools)
+modestly improves discrimination. However, appropriate imaging (including MRI) is not
+available in general practice or for paramedics, 2 of the key situations when these tools
+would be used. Arranging specialist assessment less urgently for some people based on a
+tool with poor discriminative ability for stroke risk has the potential for harm. Therefore,
+the committee agreed that risk scores should not be used.
+The committee agreed, based on their clinical experience and the limited predictive
+performance of risk scores, that all cases of suspected TIA should be considered as
+potentially high risk for stroke. Also, because there is no reliable diagnostic test for TIA
+(the risk stratification tools are not diagnostic tests), it is important to urgently confirm or
+refute the diagnosis of a suspected TIA with specialist opinion. This is particularly so
+because in practice, a significant proportion of suspected TIA (30% to 50%) will have an
+alternative diagnosis (that is, TIA-mimic). Therefore, it was agreed that everyone who has
+had a suspected TIA should have specialist assessment and investigation within 24 hours
+of the onset of symptoms. The committee noted the results of an original cost–utility
+analysis, which was undertaken for this review question in the 2008 version of the stroke
+guideline (CG68). The analysis concluded that 'immediate assessment' had both better
+health outcomes and lower costs than 'assessment within a week' for the entire population
+of suspected TIA, without the use of a risk stratification tool.
+The committee acknowledged that having a TIA (or suspected TIA) is a worrying time and
+most people would prefer to be assessed as soon as possible. Urgent specialist
+assessment should ensure that people at high risk of stroke are identified early. This would
+allow preventative treatment to begin, which should be introduced as soon as the
+diagnosis of TIA is confirmed.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of
+conditions#notice-of-rights). 49
+--- Страница 32 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+How the recommendations might affect practice
+The recommendations reflect current best practice of expert assessment in a TIA clinic
+within 24 hours, irrespective of risk stratification using clinical scoring systems. Although
+everyone with a suspected TIA should be seen within 24 hours, provision of daily TIA
+clinics is not universal. Therefore, some areas will need to set up daily TIA clinics to
+provide this best practice service.
+The recommendations should not influence the absolute number of people who need to be
+subsequently assessed in a TIA clinic, but will result in all suspected TIAs being assessed
+with an equal degree of urgency. There are likely to be implementation challenges for
+some areas in providing an adequately responsive 7-days-a-week TIA clinic (or a suitable
+alternative 7-day service) where they currently do not exist. However, services are already
+being encouraged to implement TIA clinics 7 days a week. The committee acknowledged
+that setting up responsive (7 days a week) services in trusts that do not currently offer
+daily clinics could require significant additional resource and this may result in a
+substantial resource impact for the NHS in England. However, preventing stroke is likely to
+result in cost savings later on.
+The recommendation on offering measures for secondary prevention reflects current
+practice so no change is expected.
+Return to recommendations
+Imaging for people who have had a suspected TIA
+or acute non-disabling stroke
+Recommendations 1.2.1 and 1.2.2
+Why the committee made the recommendations
+No evidence was identified from test-and-treat trials (which the committee considered
+would have been the most useful form of evidence to inform decision making). In these
+studies, different imaging strategies are performed on randomised groups followed by
+management on the basis of the results, to compare patient outcomes after different
+imaging strategies. Therefore, the committee used their knowledge and experience to
+conclude that clinical assessment is the best form of diagnosis at this point. The
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 32 of
+conditions#notice-of-rights). 49
+--- Страница 33 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+committee agreed that CT is most useful when there is a clinical suspicion of an alternative
+diagnosis that CT could detect. It should not be routinely performed for everyone with a
+suspected TIA because it rarely confirms a diagnosis in these patients.
+Routine CT imaging is common in current practice and the committee agreed that this
+could waste resources, extend the length of stay in the emergency department, and
+expose people to unnecessary radiation.
+The committee discussed the possible risks of not offering CT brain imaging to everyone
+with a suspected TIA. They agreed that, in the absence of clinical 'red flag' indicators (for
+example, headache, anticoagulation, head injury, repetitive stereotyped events), it is rare
+for a CT scan to reveal an alternative diagnosis needing a different referral pathway.
+Therefore, the number of referrals to TIA clinics should not increase greatly.
+In a TIA clinic, not all people will need an MRI. Therefore, clinical assessment by a
+specialist in a TIA clinic is important for identifying people who may need MRI to determine
+the vascular territory of ischaemia (the region of the brain with loss of blood flow, supplied
+by either the anterior or posterior circulation). For example, this could be before a decision
+is made to refer for a carotid endarterectomy, or to detect alternative pathologies such as
+tumours, demyelinating disorders or convexity subarachnoid haemorrhage. There was
+uncertainty about whether urgent, routine MRI screening improves the outcomes for
+people with suspected TIA, and so the committee made a recommendation for research on
+early MRI brain scanning.
+How the recommendations might affect practice
+Not routinely offering CT brain imaging will be a change in practice for some providers
+(especially in the emergency department), whereas MRI use in the TIA clinic aligns broadly
+with current practice.
+The committee was uncertain whether these recommendations will be cost saving overall.
+It will be a trade-off between a reduction in CT requests against a potential increase in MRI
+requests. The committee also highlighted that any increase in MRI requests may be small
+because the decision to perform an MRI will not generally be affected by the results of a
+previous CT scan.
+The committee recognised that if there was an increase in MRI requests, this could be a
+challenge because access to high-quality MRI scanners is limited in some trusts. In
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 33 of
+conditions#notice-of-rights). 49
+--- Страница 34 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+addition, there are limits on the number of MRI slots per day, so there may be a need for
+dedicated MRI slots for people with suspected TIA.
+Return to recommendations
+Thrombectomy for people with acute ischaemic
+stroke
+Recommendations 1.4.5 to 1.4.8
+Why the committee made the recommendations
+Anterior circulation stroke
+Overall, the evidence across timeframes showed that thrombectomy, with or without
+thrombolysis, improved functional outcome as measured by the modified Rankin Scale
+(mRS) in people last known to be well up to 24 hours previously, compared with usual care.
+There was also a potential benefit for improved quality of life. However, there was no
+clinical difference in mortality and there were low rates of symptomatic intracerebral
+haemorrhage. The committee noted there had been some procedural complications
+associated with thrombectomy, but agreed that these were outweighed by the benefits of
+improvement in functional outcome.
+The committee looked at the results of 2 published cost–utility analyses with a UK NHS
+perspective. The first estimated that thrombectomy alongside intravenous thrombolysis
+(when appropriate) is cost effective compared with intravenous thrombolysis alone, when
+performed within 6 hours of stroke onset (that is, from when a person was last known to
+be well). The second demonstrated the cost effectiveness of thrombectomy therapy and
+best medical therapy compared with best medical therapy alone, when performed 6 to
+24 hours after stroke onset. Therefore, the committee agreed to recommend
+thrombectomy up to 24 hours after stroke onset, together with intravenous thrombolysis if
+within the licensed time window, for people with appropriate clinical and radiological
+characteristics. Few people presenting between 6 and 24 hours after stroke onset
+received thrombolysis because this is outside the licensed time window. Therefore, the
+recommendation for those presenting beyond 6 hours is for thrombectomy alone.
+The evidence for thrombectomy within 6 hours of symptom onset was from populations
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 34 of
+conditions#notice-of-rights). 49
+--- Страница 35 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+selected using computed tomographic angiography (CTA) or magnetic resonance
+angiography (MRA) to identify proximal anterior circulation occlusions. For thrombectomy
+undertaken between 6 and 24 hours after stroke onset, the evidence was based on more
+highly selected populations using CT perfusion, MRI diffusion and MRI perfusion imaging,
+in addition to identifying a proximal anterior circulation arterial occlusion. Because the
+effectiveness of thrombectomy is likely to be lower in a less selected population, the
+committee recommended that, in line with the evidence, imaging such as CT perfusion or
+diffusion-weighted MRI sequences is performed if presentation is 6 to 24 hours after
+stroke onset in people being considered for thrombectomy. This would ensure that there is
+vulnerable but salvageable brain tissue to be targeted for thrombectomy. Although benefit
+is still seen up to 24 hours after stroke, time is still critical. Therefore, the committee
+agreed that thrombectomy should be performed as soon as possible.
+To help determine what clinical characteristics make this intervention suitable, it is
+important to consider the National Institutes of Health Stroke Scale (NIHSS) score and the
+person's overall functional capacity before the stroke. The committee agreed that it was
+not possible on the basis of the evidence reviewed to specify strict threshold criteria for
+eligibility based on pre-stroke functional status, clinical severity of stroke or the extent of
+established infarction on initial brain imaging. This is because there was variation in the
+trial entry criteria used in the studies and the committee agreed that these factors should
+be considered as part of the clinical judgement on an individual basis. However, because it
+was important to make a recommendation that can be implemented in practice, mRS and
+NIHSS eligibility thresholds were included to be consistent with the NHS England clinical
+commissioning policy on mechanical thrombectomy for acute ischaemic stroke.
+Posterior circulation stroke
+No clinical- or cost-effectiveness evidence was identified for the population with posterior
+circulation stroke. The committee discussed that prognosis is usually very poor in basilar
+artery occlusion, with around an 80% mortality. As few as 2% to 5% of people with basilar
+artery occlusion make a full neurological recovery in the absence of interventions to
+achieve recanalisation or reperfusion. The committee agreed that the prevalent current
+practice is to consider intravenous thrombolysis and mechanical thrombectomy. Good
+outcomes can be achieved even up to 24 hours after stroke onset, which is important
+because diagnosis can be delayed in this population by a non-focal presentation, a
+reduced conscious level, or both.
+The main risk of thrombectomy and thrombolysis in this population is intervening when
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 35 of
+conditions#notice-of-rights). 49
+--- Страница 36 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+there is established disabling ischaemic brain injury. For example, if a person with basilar
+artery occlusion has irreversible bilateral damage to the pons, they may be left with
+locked-in-syndrome with complete face and body paralysis but clear consciousness, even
+if the basilar artery is opened. The committee agreed that it is standard practice to
+perform brain imaging and look for established tissue damage in the brain regions affected
+by the arterial occlusion, particularly in the brainstem, before intervening. This reduces the
+number of people surviving with severe neurological disability. Appropriate CT perfusion
+imaging or diffusion-weighted MRI sequences should be performed to demonstrate that
+there is salvageable brain tissue and to seek evidence of established injury to functionally
+critical areas of the posterior circulation.
+The outlook for this population without intervention is poor, but good outcomes can be
+achieved with intervention and there is supportive evidence from treating anterior stroke.
+Therefore, the committee agreed that thrombectomy, and thrombolysis within its licensed
+indications, should be considered for people with posterior circulation proximal occlusions
+and without evidence of irreversible infarction who were last known well up to 24 hours
+previously. This should be done as soon as possible after presentation because better
+outcomes are likely with earlier intervention.
+How the recommendations might affect practice
+The committee noted that in current practice, around 10% of people presenting with all
+strokes in the UK are eligible for endovascular therapy. More people are likely to be offered
+endovascular therapy as a result of these recommendations. The recommendation on
+thrombectomy together with thrombolysis within 6 hours of symptom onset is aligned with
+current best practice and the NHS England clinical commissioning policy on mechanical
+thrombectomy for acute ischaemic stroke. The recommendation for thrombectomy
+between 6 and 24 hours requires a change from current practice by most providers.
+Currently, the NHS England clinical commissioning policy states that mechanical
+thrombectomy will be commissioned when substantial salvageable brain tissue is
+identified up to 12 hours. However, this extension of the eligibility period up to 24 hours
+was supported by clinical- and cost-effectiveness evidence as discussed above. The
+recommendation to consider endovascular therapy for posterior circulation stroke reflects
+current best practice.
+Overall, the new recommendations are likely to have a substantial resource impact on the
+NHS. Thrombectomy is already performed in most neuroscience centres, but the
+recommendations will mean 24-hour access to appropriate staffing and imaging.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 36 of
+conditions#notice-of-rights). 49
+--- Страница 37 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+The committee discussed the possibility that the new recommendations could initially
+result in a large increase in referrals to centres that already have thrombectomy services.
+It also noted that there are likely to be additional costs incurred in transferring people to
+these centres. This will have implications for the spoke site for arranging transfers, for the
+ambulance service and at the hub site, where more people will be received. There may
+need to be networked arrangements for spoke sites around a thrombectomy 'hub' with
+fast image transfer, referral, eligibility assessment and responsive repatriation systems.
+The positive implications for other aspects of stroke care help to address the balance in
+demand for resources. For example, it is expected that there will be a decrease in demand
+for decompressive hemicraniectomies and inpatient rehabilitation. There may also be a
+reduction in the need for long-term social care.
+Return to recommendations
+Blood pressure control for people with acute
+intracerebral haemorrhage
+Recommendations 1.5.4 to 1.5.8
+Why the committee made the recommendations
+For the groups covered, moderate-quality evidence from a large clinical trial showed a
+modest benefit treatment effect on haematoma expansion and quality of life (EQ-5D utility
+index) in rapidly lowering blood pressure to a target systolic blood pressure of 140 mmHg
+or lower compared with less intensive blood pressure lowering treatment.
+The committee acknowledged the uncertainty over the evidence. They discussed the
+additional potential harms relating to rapid blood pressure lowering in people who present
+after 6 hours or who have a systolic blood pressure greater than 220 mmHg, and agreed
+that these factors should be taken into account when considering rapid blood pressure
+lowering for these groups.
+The committee decided to remove the aim of reaching the target within 1 hour because
+only a minority (33.4%) of participants in the INTERACT2 trial achieved the target of
+140 mmHg within 1 hour and, more importantly, to avoid the potential harm of reducing
+systolic blood pressure by more than 60 mmHg in the first hour.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 37 of
+conditions#notice-of-rights). 49
+--- Страница 38 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+There was evidence that rapidly lowering blood pressure does not increase the risk of
+neurological deterioration caused by reduced blood flow to the brain and has the potential
+to improve quality of life.
+In contrast, the committee noted that in another clinical trial, there was no benefit to
+rapidly lowering blood pressure and there was an increase in adverse renal events. The
+committee noted the treatment regimens were more aggressive in this trial compared with
+the other trials included in the review.
+The committee agreed that while there is some evidence that rapid blood pressure
+lowering treatment is beneficial, there may be an increase in adverse renal events, and
+they were concerned about the lack of evidence in people who are frail. Taking this into
+account, the committee agreed that rapid blood pressure lowering treatment should be
+considered as a treatment option except for the groups highlighted in
+recommendation 1.5.7.
+There was evidence that a moderate reduction of up to 60 mmHg within the first hour was
+associated with better outcomes such as functional independence. A reduction of more
+than 60 mmHg within 1 hour was associated with significantly worse outcomes such as
+renal failure, early neurological deterioration, and death, compared with standard
+treatment. Therefore, the committee agreed that a large reduction of 60 mmHg or more
+within 1 hour should be avoided.
+The 2019 guideline included a 130 mmHg lower target limit. However, the committee were
+concerned that a narrow range would be too restrictive, and the variation in the class of
+drugs used in practice means it is difficult to predict the blood pressure reduction. The
+committee decided to remove the 130 mmHg lower target limit. The committee considered
+the potential risk of systolic blood pressure dropping too low but noted that this potential
+concern is addressed by the avoidance of a large reduction of 60 mmHg or more within
+1 hour. The committee also agreed that the target systolic blood pressure and the systolic
+blood pressure reduction should be made into a separate recommendation (1.5.6).
+There was little evidence on people presenting beyond 6 hours or those with a systolic
+blood pressure over 220 mmHg. However, the committee agreed that some guidance is
+needed on treating hypertension in these groups and that it is appropriate to extrapolate
+from the available data to these groups, but that healthcare professionals should take into
+account the individual risk of harm when considering rapid blood pressure lowering using
+clinical judgement on a case-by-case basis.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 38 of
+conditions#notice-of-rights). 49
+--- Страница 39 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+The committee agreed that the evidence to support maintaining the target blood pressure
+for at least 7 days is weak. They were also concerned about the potential impact on
+patient flow, bed management and resources in the NHS, so removed the timeframe.
+The committee discussed the uncertainty about how long to continue acute treatment.
+However, this evidence review is primarily concerned with treatment within the first
+24 hours. The committee highlighted that blood pressure should still remain lowered after
+acute treatment in order to reduce the longer-term effect of the acute intracerebral
+haemorrhage. The committee agreed that people receiving intensive blood pressure
+treatment would not need to stay in hospital for acute management for 7 days. This can be
+managed through secondary prevention, which can be indicated when treatment is
+changed from intravenous to an oral route of administration. The committee also noted
+that longer-term management of blood pressure can be managed in primary care.
+The committee did not change the existing practice of not offering rapid blood pressure
+lowering to specific groups that were excluded from the key clinical trial. This is because
+there is no evidence of whether this would be safe or beneficial.
+The committee discussed rapid blood pressure lowering for young people aged 16 and 17.
+The evidence reviewed covers adults 18 and over, but the committee agreed that this can
+be extrapolated for young people after seeking advice from a paediatric specialist.
+The committee wanted to consider the long-term effect of intensive blood pressure
+lowering on quality of life, but limited evidence was available to show how it affected
+quality of life at 6 and 12 months, and no evidence was available on cognitive function or
+functional ability. Given the lack of evidence for these important outcomes, the committee
+made a recommendation for research about the impact of intensive interventions to lower
+blood pressure on cognitive function, functional ability and quality of life compared with
+less intensive interventions.
+The committee identified a gap in the evidence on the impact of intensive blood pressure
+treatment on people who are frail. There is currently no guidance or treatment pathway for
+people who are frail, so the committee also made a recommendation for research about
+the impact of intensive blood pressure lowering on people who are frail, and encouraged
+the use of frailty scores to evaluate the impact of frailty on outcomes and treatment
+prognoses.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 39 of
+conditions#notice-of-rights). 49
+--- Страница 40 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Other factors the committee took into account
+The committee were aware of the European Stroke Organisation (ESO) guideline on blood
+pressure management in acute ischaemic stroke and intracerebral haemorrhage, which
+suggests 'In patients with hyperacute (presenting within 6 hours) intracerebral
+haemorrhage, lowering blood pressure to below 140 mmHg (and to keep it above
+110 mmHg) to reduce haematoma expansion'. The committee agreed that this is broadly in
+line with NICE recommendations.
+How the recommendations might affect practice
+The recommendations reflect a small change to current best practice. The difference in
+target blood pressure range and magnitude in drop from starting treatment up to the first
+hour in the 2022 update might need additional planning and closer management by the
+nursing team. Given that these people currently need close monitoring, any change is
+likely to be very small. There may be an increased cost of intravenous antihypertension
+medication, but the recommendations should save resources because of reduced harms.
+Overall, the recommendations should not have a resource impact to the NHS in England.
+Return to recommendations
+Optimal positioning for people with acute stroke
+Recommendation 1.7.1
+Why the committee made the recommendation
+The evidence did not indicate any difference in outcomes between lying flat or with the
+head elevated. No cost-effectiveness evidence was identified and no cost difference
+between the 2 strategies is expected. Therefore, the committee used their knowledge and
+experience to recommend positioning people according to their preferences and individual
+requirements.
+How the recommendation might affect practice
+Optimal positioning is an important part of early acute stroke management and
+rehabilitation. In current practice, people are assessed in bed and optimal head positioning
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 40 of
+conditions#notice-of-rights). 49
+--- Страница 41 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+is determined based on clinical presentation, medical needs and patient comfort. The
+recommendation therefore reflects current practice in most hospitals and so the
+committee agreed that there should be little or no change.
+Return to recommendation
+Early mobilisation for people with acute stroke
+Recommendations 1.7.2 and 1.7.3
+Why the committee made the recommendations
+Regarding the recommendation to mobilise people after having a stroke when their clinical
+condition permits, there was no clear evidence of benefit or harm for early mobilisation
+within the first 48 hours after symptom onset compared with standard care. Therefore, the
+committee made a recommendation based on their knowledge and experience. The
+committee agreed that early mobilisation may be appropriate in some cases where people
+need minimal assistance to mobilise, such as in those who have suffered a mild stroke, or
+are experiencing language and/or upper limb dysfunction alone.
+Regarding the recommendation not to offer high-intensity mobilisation within the first
+24 hours of symptom onset, a published within-trial cost-effectiveness analysis from the
+Australian hospital perspective was identified. However, the treatment effect for the health
+outcome mRS 0 to 2 used in the study differed from the treatment effect calculated in the
+clinical review. Because the cost-effectiveness evidence was incompatible with the results
+of the clinical review, the committee chose to make a recommendation based on the
+clinical evidence for mortality. The evidence suggested clinical harm associated with high-
+intensity mobilisation within the first 24 hours after acute stroke. However, based on their
+clinical experience they discussed that this harm was most relevant to those who need
+help to sit out of bed, stand or walk. Therefore, they limited the recommendation to this
+group because they did not want to prevent appropriate early mobilisation in people who
+are independently mobile after having a stroke.
+How the recommendations might affect practice
+The committee was confident that making these recommendations would not have a
+resource impact, because there was no indication that mobilising later and with a lower
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 41 of
+conditions#notice-of-rights). 49
+--- Страница 42 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+intensity leads to a longer length of stay. The committee noted that people will still be
+assessed and mobilised and there are unlikely to be differences in staff costs. In current
+practice, mobilisation strategies differ according to stroke severity and the clinical
+condition of the person with stroke. The strategy may also be impacted by the availability
+of different types of specialist seating. The recommendations may change current practice
+in stroke units where there is an 'as soon as possible' focus on mobilisation. They will
+encourage healthcare professionals to consider the intensity of very early mobilisation and
+advice on intensity of activities to people discharged from hospital early after a stroke.
+Return to recommendations
+Decompressive hemicraniectomy for people with
+acute stroke
+Recommendations 1.9.5 and 1.9.7
+Why the committee made the recommendations
+The evidence showed that surgery improved mortality rates and, to a lesser extent,
+functional outcomes as measured by the mRS. The benefit on mortality was seen in all age
+groups considered, although the benefit for functional outcome was smaller in people
+aged over 60 years than in people under 60 years. Based on this, and to ensure that
+people over 60 have similar opportunities for the surgery as younger people, the
+committee removed the previous age cut-off for considering surgery. The committee also
+acknowledged that although surgery results in more people surviving and better functional
+outcome than without surgery, many still have overall poor functional outcome and their
+quality of life may be low. The acceptability of this trade-off was agreed to be a very
+individual judgement. Some people may choose not to have surgery if there is a risk of
+severe disability, whereas others may wish to go ahead based on mortality benefit alone.
+Therefore, the committee highlighted the need for careful discussion about risks and
+benefits between clinicians and family members or carers. They noted that patients would
+not be able to be involved at the time because of the severity of the stroke, so the family
+or carers would be responsible for making the decision. In deciding whether to opt for
+surgery, considerations should include pre-stroke functional status, because surgery
+would not be appropriate for people with severe disability before stroke.
+The committee noted that although some of the trials included people who had surgery as
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 42 of
+conditions#notice-of-rights). 49
+--- Страница 43 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+long as 96 hours after symptom onset, the benefits in terms of reduced mortality and
+improved functional outcome were largely driven by studies that only allowed surgery up
+to a maximum of 48 hours after onset. Therefore, it agreed to retain the reference to
+surgery being performed within 48 hours of onset from the original recommendations. The
+committee also reviewed the criteria used to determine eligibility for hemicraniectomy
+from NICE's stroke guideline published in 2008. It was agreed that these were still
+appropriate and reflect the populations included in the studies used to inform the new
+recommendations.
+The committee agreed that although the cost effectiveness of decompressive
+hemicraniectomy remains uncertain, it should be considered for some people because of
+the clear mortality benefit and the improved functional outcomes. Shared decision making
+between physicians, surgeons, families and carers is important given the high likelihood of
+residual moderate or severe disability after surgery.
+How the recommendations might affect practice
+In current practice, around 5% of people on the stroke unit are referred for decompressive
+hemicraniectomy. Decompressive hemicraniectomy is currently considered for those aged
+under 60.
+This recommendation will require a change from current practice by all providers. The
+guidance will also require healthcare professionals to take into account people's pre-stroke
+functional status and to have a discussion about the risks and benefits.
+The committee believed that including people over 60 years would not necessarily lead to
+significantly more people undergoing surgery because informed discussion of the
+outcomes might reduce its uptake in this population. In addition, increasing the population
+eligible for endovascular therapy and its provision is likely to decrease the population
+referred for decompressive hemicraniectomy. The committee therefore did not anticipate a
+substantial resource impact to result from this recommendation.
+Return to recommendations
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 43 of
+conditions#notice-of-rights). 49
+--- Страница 44 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Context
+Since NICE published its guideline on stroke and transient ischaemic attack (TIA) in 2008,
+the management of stroke has changed. New evidence has emerged in areas such as
+thrombectomy (clot retrieval procedures) in ischaemic stroke, controlling high blood
+pressure in people with acute haemorrhagic stroke, the role of hemicraniectomy and early
+mobilisation and optimum positioning of people with acute stroke. In addition, there is
+some uncertainty about the use of aspirin when TIA is first suspected, the role of
+conventional risk stratification in TIA and the best approach to intracerebral imaging after
+TIA. This guideline update includes recommendations on these specific issues.
+A stroke occurs when the blood supply to a part of the brain is acutely compromised. Most
+strokes (85%) are caused by a blockage in a blood vessel (artery) that supplies blood to
+the brain. A TIA or 'mini stroke' has the same clinical presentation as a stroke except that
+symptoms disappear within 24 hours.
+The symptoms experienced depend on the part of the brain that is affected. They usually
+occur suddenly and without any warning. Common symptoms include loss of movement or
+sensation in an arm or leg, problems speaking, a drooping of one side of the face or
+problems with vision.
+A stroke can occur at any age. The average age for stroke varies across the UK, with a
+median age of 77 years (interquartile range 67 to 85). A quarter of strokes occur in people
+of working age.
+First-ever stroke affects 230 people per 100,000 each year, with over 80,000 people
+hospitalised per year in England. Although the death rate has been falling, figures from the
+Sentinel Stroke National Audit Programme show that 13.6% of people admitted to hospital
+with stroke in England and Wales died (either in hospital or after being discharged from
+inpatient care) within 30 days. There are approximately 1.2 million stroke survivors in the
+UK. The risk of recurrent stroke is 26% within 5 years of a first stroke and 39% by 10 years.
+Stroke is the single biggest cause of disability in adults. The Stroke Association has
+estimated an annual cost to the NHS in England of £2.98 billion per year. In addition,
+annual social care costs have been estimated at £4.55 billion with almost half of that
+estimated to be from public funds. Of stroke survivors, 1 in 12 have to move into a care
+home because of the effects of their stroke. There is also a substantial burden to families
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 44 of
+conditions#notice-of-rights). 49
+--- Страница 45 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+of people who have had a stroke in terms of informal unpaid care. The importance of
+stroke care in the NHS is also highlighted in the NHS Long Term Plan, the National Stroke
+Programme, the Intercollegiate Stroke Working Party national clinical guideline for stroke,
+and the 2018 publication of NHS England's clinical commissioning policy for mechanical
+thrombectomy for acute ischaemic stroke in the NHS. Also, the Royal College of
+Paediatrics and Child Health published guidelines in 2017 on the treatment of stroke in
+those under 18 years old.
+This guideline covers people over 16 with suspected or confirmed TIAs or completed
+strokes, that is, an acute neurological event presumed to be vascular in origin and causing
+cerebral ischaemia, cerebral infarction or cerebral haemorrhage. This includes first and
+recurrent events, thrombotic and embolic events and primary intracerebral haemorrhage
+of any cause, including venous thrombosis. Areas that are not covered include specific
+issues relating to the general management of underlying conditions and subarachnoid
+haemorrhage.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 45 of
+conditions#notice-of-rights). 49
+--- Страница 46 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Finding more information and resources
+To find NICE guidance on related topics, including guidance in development, see the NICE
+topic page on cardiovascular conditions.
+For full details of the evidence and the guideline committee's discussions, see the
+evidence reviews. You can also find information about how the guideline was developed,
+including details of the committee.
+NICE has produced tools and resources to help you put this guideline into practice. For
+general help and advice on putting NICE guidelines into practice, see resources to help
+you put guidance into practice.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 46 of
+conditions#notice-of-rights). 49
+--- Страница 47 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+Update information
+April 2022: We have:
+• reviewed the evidence on blood pressure control for people with acute intracerebral
+haemorrhage and
+• updated recommendations 1.5.4, 1.5.5, 1.5.6 and 1.5.8.
+May 2019: We have reviewed the evidence on thrombectomy (clot retrieval procedures) in
+ischaemic stroke, controlling high blood pressure in people with acute haemorrhagic
+stroke, the role of hemicraniectomy, and early mobilisation and optimum positioning of
+people with acute stroke. In addition, we have addressed the use of aspirin when transient
+ischaemic attack (TIA) is first suspected, the role of conventional risk stratification in TIA
+and the best approach to intracerebral imaging after TIA. These recommendations are
+marked [2019].
+We have also made some changes without an evidence review:
+• Recommendation 1.1.7 has been made consistent with new recommendations in
+relation to rapid referral and review in the TIA clinic. The remaining part of the
+recommendation has been replaced by recommendations 1.1.4 to 1.1.6.
+• Recommendation 1.2.3 has been made consistent with new recommendations in
+relation to rapid referral and review in the TIA clinic.
+• Recommendation 1.2.4 has been made consistent with new recommendations in
+relation to rapid referral and review in the TIA clinic and to omit the European Carotid
+Surgery Trial (ECST) criteria because these are no longer used.
+• Recommendation 1.3.2 has been amended because early coagulation therapy is not
+relevant in this context. Non-enhanced means 'plain'; it is the basic form of CT scan
+without any contrast (that is, not CT angiography/perfusion). At this very early stage in
+the diagnostic pathway, acute stroke is still 'suspected'; the CT may show up an
+alternative diagnosis or further clinical assessment may also reveal an alternative
+diagnosis (the CT is often performed directly off the ambulance when there is little
+more than 'FAST +ve' criteria). CT angiography and CT perfusion indications have
+been added to be consistent with the new recommendations on thrombectomy.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 47 of
+conditions#notice-of-rights). 49
+--- Страница 48 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+• Recommendation 1.4.2 has been amended to clarify that the levels relate to the level
+of care required by the patient.
+• Recommendation 1.5.7 has been amended to be consistent with the subheading for
+this recommendation, which now applies to acute ischaemic stroke (that is, not
+haemorrhagic stroke). The remaining part of the recommendation has been replaced
+by recommendation 1.5.5.
+These recommendations are marked [2008, amended 2019].
+Recommendations marked [2008] last had an evidence review in 2008. In some cases,
+minor changes have been made to the wording to bring the language and style up to date,
+without changing the meaning.
+Minor changes since publication
+March 2025: We added links to relevant technology appraisal guidance in the section on
+thrombolysis for people with acute ischaemic stroke. Recommendations marked [2008,
+amended 2025] clarify how to use medicines recommended in NICE technology appraisal
+guidance. We removed the link to TA697 from the section on reversal of anticoagulation
+treatment in people with haemorrhagic stroke, because the updated guidance is no longer
+applicable to stroke.
+August 2023: We added links to the MHRA safety advice on DOACs and NICE's
+technology appraisal guidance on andexanet alfa for reversing anticoagulation from
+apixaban or rivaroxaban (TA697) to the section on reversal of anticoagulation treatment in
+people with haemorrhagic stroke.
+July 2023: We added reference to the European Carotid Surgery Trial criteria in
+recommendation 1.2.4.
+March 2023: We have corrected the link in recommendation 1.2.4.
+October 2022: We added text to indicate that pulse oximetry may be less reliable in
+people with dark skin. We also added a link to the NHS patient safety alerton the risk of
+harm from inappropriate placement of pulse oximeter probes. See recommendation 1.5.1.
+November 2021: We added a link to the NHS England and NHS Improvement National
+Stroke Service Model in section 1.3 on specialist care for people with acute stroke.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 48 of
+conditions#notice-of-rights). 49
+--- Страница 49 ---
+Stroke and transient ischaemic attack in over 16s: diagnosis and initial management
+(NG128)
+October 2020: We added the recommendations for research from the 2008 guideline.
+April 2020: We corrected the links to the rationales in section 1.1 on rapid recognition of
+symptoms and diagnosis.
+ISBN: 978-1-4731-3386-0
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 49 of
+conditions#notice-of-rights). 49

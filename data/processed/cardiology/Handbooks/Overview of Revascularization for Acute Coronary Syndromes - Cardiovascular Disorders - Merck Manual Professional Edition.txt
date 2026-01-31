@@ -1,0 +1,127 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Overview of Revascularization for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:35:51.975745",
+  "file_size_bytes": 198211,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of Revascularization for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:44 Overview of Revascularization for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Overview of Revascularization for Acute Coronary
+Syndromes
+By Ranya N. Sweis, MD, MS, Northwestern University Feinberg School of Medicine;
+Arif Jivan, MD, PhD, Northwestern University Feinberg School of Medicine
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Feb 2024
+Revascularization is the restoration of blood supply to ischemic myocardium in an effort to limit ongoing
+damage, reduce ventricular irritability, and improve short-term and long-term outcomes in patients with
+acute coronary syndromes. Modes of revascularization include:
+Thrombolysis with fibrinolytic drugs
+Percutaneous coronary intervention (PCI), with or without stent placement
+Coronary artery bypass grafting (CABG)
+The use, timing, and modality of revascularization depend on which acute coronary syndrome (ACS) is
+present, timing of presentation, extent and location of anatomic lesions, and availability of personnel
+and facilities (see figure Approach to Acute Coronary Syndromes—1).
+Unstable Angina and Non–ST-Segment Elevation Myocardial
+Infarction
+Immediate reperfusion is not as urgent in patients with uncomplicated non–ST-segment elevation
+myocardial infarction (NSTEMI), in whom a completely occluded infarct-related artery at presentation is
+uncommon, or in patients with unstable angina who respond to medical therapy. Such patients typically
+undergo angiography within the first 24 to 48 hours of hospitalization to identify coronary lesions
+requiring PCI or CABG.
+A noninterventional approach and a trial of medical management are used for patients in whom
+angiography demonstrates
+Only a small area of myocardium at risk
+Lesion morphology not amenable to PCI
+Anatomically insignificant disease (< 50% coronary stenosis)
+Significant left main disease in patients who are not candidates for CABG
+Further, angiography or PCI should be deferred in favor of medical management for patients with a high
+risk of procedure-related morbidity or mortality.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/coronary-artery-disease/overview-of-revascularization-for-acute-coronary-syndromes 1/4
+--- Страница 2 ---
+22/01/2026, 14:44 Overview of Revascularization for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+By contrast, patients with persistent chest pain despite maximal medical therapy or complications (eg,
+markedly elevated cardiac biomarkers, presence of cardiogenic shock, acute mitral regurgitation,
+ventricular septal defect, unstable arrhythmias) should proceed directly to the cardiac catheterization
+laboratory to identify coronary lesions requiring PCI or CABG.
+As in patients with stable angina, CABG has historically been preferred over PCI for patients with left
+main or left main equivalent disease (although the data supporting this practice are changing) and for
+those with left ventricular dysfunction or diabetes. CABG must also be considered when PCI is
+unsuccessful, cannot be used (eg, in lesions that are long or near bifurcation points), or causes acute
+coronary artery dissection.
+Fibrinolytics are not indicated for unstable angina or NSTEMI. Risk outweighs potential benefit.
+CLINICAL CALCULATORS
+Thrombolysis in Myocardial Infarction (TIMI) Score for Unstable Angina Non ST
+Elevation Myocardial Infarction
+ST-Segment Elevation Myocardial Infarction
+Emergency PCI is the preferred treatment of ST-segment elevation myocardial infarction (STEMI) when
+available in a timely fashion (door to balloon-inflation time < 90 minutes) by an experienced operator
+(1). Indications for urgent PCI later in the course of STEMI include hemodynamic instability, malignant
+arrhythmias requiring transvenous pacing or repeated cardioversion, and age > 75 years. If the lesions
+necessitate CABG, there is significant mortality and a higher morbidity rate.
+If there is likely to be a significant delay in availability of PCI, thrombolysis should be done for STEMI
+patients meeting criteria (see table Fibrinolytic Therapy for STEMI). Reperfusion using fibrinolytics is
+most effective if given in the first few minutes to hours after onset of myocardial infarction. The earlier a
+fibrinolytic is begun, the better. The goal is a door-to-needle time of 30 to 60 minutes. Greatest benefit
+occurs within 3 hours, but the drugs may be effective up to 12 hours. Used with aspirin, fibrinolytics
+reduce hospital mortality rate by 30 to 50% and improve ventricular function. Prehospital use of
+fibrinolytics by trained paramedics can significantly reduce time to treatment and should be considered
+in situations in which PCI within 90 minutes is not possible, particularly in patients presenting within 3
+hours of symptom onset.
+Regardless, most patients who undergo thrombolysis will ultimately require transfer to a PCI-capable
+facility for elective angiography and PCI as necessary before discharge. PCI should be considered after
+fibrinolytics if chest pain or ST-segment elevation persists ≥ 60 minutes after initiation of fibrinolytics or
+if pain and ST-segment elevation recur, but only if PCI can be initiated < 90 minutes after onset of
+recurrence. If PCI is unavailable, fibrinolytics can be repeated.
+Characteristics and selection of fibrinolytic drugs are discussed elsewhere.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/coronary-artery-disease/overview-of-revascularization-for-acute-coronary-syndromes 2/4
+--- Страница 3 ---
+22/01/2026, 14:44 Overview of Revascularization for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+TABLE
+Fibrinolytic Therapy for STEMI
+Criteria Specifics
+ST-segment elevation in ≥ 2 contiguous
+leads
+Typical symptoms and left bundle
+ECG criteria*
+branch block not known to be old
+Strictly posterior MI (large R wave in V1
+and ST depression in V1–V4
+Aortic dissection
+Previous hemorrhagic stroke (at any
+time)
+Previous ischemic stroke within 1 year
+Absolute contraindications
+Active internal bleeding (not menses)
+Intracranial tumor
+Pericarditis
+Blood pressure > 180/110 mm Hg after
+initial antihypertensive therapy
+Trauma or major surgery within 4 weeks
+Active peptic ulcer
+Relative contraindications
+Pregnancy
+Bleeding diathesis
+Noncompressible vascular puncture
+Current anticoagulation (INR > 2)
+* Patients presenting in the hyperacute phase of MI with giant T waves do not meet current
+criteria for fibrinolytics; ECG is repeated in 20 to 30 minutes to see if ST-segment elevation
+has developed.
+General reference
+1. Lawton JS, Tamis-Holland JE, Bangalore S, et al: 2021 ACC/AHA/SCAI guideline for coronary artery
+revascularization: a report of the ACC/AHA Joint Committee on Clinical Practice Guidelines. J Am
+Coll Cardiol 79(2):e21–e129, 2022. doi: 10.1016/j.jacc.2021.09.006
+https://www.merckmanuals.com/professional/cardiovascular-disorders/coronary-artery-disease/overview-of-revascularization-for-acute-coronary-syndromes 3/4
+--- Страница 4 ---
+22/01/2026, 14:44 Overview of Revascularization for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/coronary-artery-disease/overview-of-revascularization-for-acute-coronary-syndromes 4/4

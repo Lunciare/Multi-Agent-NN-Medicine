@@ -1,0 +1,388 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention_ - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:38:04.712269",
+  "file_size_bytes": 22024522,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention_ - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:28 Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention? - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  Is it possible that this patient with acute chest pain and this ECG does not need
+emergent intervention?
+Jesse McLaren onMarch 19, 2025
+Is it possible that this patient
+with acute chest pain and
+this ECG does not need
+emergent intervention?
+Case submitted by Andrew Grimes,
+Advanced Care paramedic, with additions from Jesse McLaren and Smith
+ 
+An
+84-year-old male with a notable cardiac history (CABG, multiple stents)
+woke at 0500hrs with pressure in his chest, diaphoresis, and light-headedness.
+He presented to a rural ED at approximately 0630hrs. Since he was recovering
+from a recent bout of Influenza-like illness and said yes to several ILI
+screening questions at triage, his chest tightness and diaphoresis were
+initially attributed to this. Still, an ECG was obtained at 0649hrs:
+
+https://drsmithsecgblog.com/is-it-possible-that-this-patient-with/ 1/12
+--- Страница 2 ---
+22/01/2026, 15:28 Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention? - Dr. Smith’s ECG Blog
+(Digitized by PM Cardio)
+McLaren: The patient has a high pretest
+probability based on age, risk factors and symptoms. Influenza-like illness can
+also trigger plaque rupture. Despite the baseline artifact there’s sinus
+bradycardia, convex ST elevation in III, reciprocal ST depression in aVL and
+possible anterior ST depression – indicating inferoposterior OMI.
+Here’s the Queen
+of Hearts interpretation, drawing attention especially to III and aVL:
+This patient does indeed need emergent intervention. But, alas, as with so
+he ECG findings were not noticed and he did
+many patients, t
+not get it.
+STEMI criteria are only 43% sensitive for OMI. Many arteries in
+NSTEMI-OMI will open up by next day angiogram, after the damage is
+done. But in 34% there is persistent occlusion at next day angiogram.
+And they have nearly double the mortality of NSTEMI with an open
+artery in spite of being younger and healthier at baseline. This means
+that, in the United States alone, of 500,000 NSTEMI,
+170,000 do not get the care they deserve. They end up with
+high mortality and needless heart failure.
+Hung C-S, Chen Y-H, Huang C-C, et al. Prevalence and outcome of patients
+with non-ST segment elevation myocardial infarction with occluded “culprit”
+artery – a systemic review and meta-analysis. Crit Care [Internet]
+2018;22(1):34. Available from: https://link.springer.com/article/10.1186/s13054-
+018-1944-x
+Vitals were grossly normal. He was
+treated with MDIs, but when this did not provide any improvement, a cardiac
+workup was ordered. The initial hs-cTn was negative (11 ng/L). He was given two
+separate sprays of nitroglycerin sublingually, neither of which improved his
+pain but did cause him to become briefly hypotensive (<90mmHg SBP).
+McLaren: it is not unusual for troponin < 2
+hours after symptom onset to be in the normal range, which is falsely
+https://drsmithsecgblog.com/is-it-possible-that-this-patient-with/ 2/12
+--- Страница 3 ---
+22/01/2026, 15:28 Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention? - Dr. Smith’s ECG Blog
+reassuring in the presence of an ECG showing acute coronary occlusion.
+Smith: The ECG is diagnostic of occlusion. Do not wait for troponin!!
+Several hours later, the repeat troponin returned at >600
+ng/L.
+Smith: now there is absolutely no doubt about the diagnosis, even if you have no
+idea how to read an ECG. The patient has acute persistent refrectory chest pain
+and elevated troponin. There is no need for another ECG. Just go to the cath lab!
+Unfortunately, only 6% of patients with very high risk NSTEMI needing the
+cath lab now get managed appropriately.
+Cardiology
+at a larger center was consulted and a repeat ECG was obtained at 1119hrs:
+Smith: there is evidence of reperfusion on the ECG: less STE, more T-wave
+inversion in inferior leads and loss of T-wave size in V4-6. But the patient still
+has pain.
+The cardiologist was concerned about a posterior
+MI and suggested a 15-lead ECG, which was obtained at 1210hrs:
+Smith: there is no need for a posterior ECG! The right
+precordial leads V1-V3 tell you all you need to know. ANY ST
+depression in these leads is OMI until proven otherwise. See
+https://drsmithsecgblog.com/is-it-possible-that-this-patient-with/ 3/12
+--- Страница 4 ---
+22/01/2026, 15:28 Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention? - Dr. Smith’s ECG Blog
+our article here. When you have a diagnosis of posterior
+OMI, posterior leads may be falsely negative.
+The posterior lead V9 is clearly misplaced, as it should be relatively
+reciprocal (opposite) in morphology to V2.
+McLaren: The
+inferior T wave inversion suggests either reperfusion (if resolved symptoms) or
+subacute refractory ischemia – and from the previous description of pain
+refractory to nitro it is likely the latter. Despite no posterior ST elevation
+there is still anterior ST depression, and an enlarging R in V2 wave from
+posterior infarction.
+Case Continued
+NSTEMI protocol was ordered, and the patient was given
+ASA, enoxaparin, and
+ticagrelor. A stat transfer to the cardiology center was
+ordered. The transfer was
+uneventful and serial ECGs showed no appreciable further
+evolution. The patient
+maintained a 4/10 “pressure” but insisted he was quite
+comfortable.
+On arrival at the cardiac care unit, the patient soon underwent
+PCI. He had a
+100% RCA occlusion which was stented. His LCx was open
+but small, and perfused
+only a small portion of his posterior wall. The cardiologist
+described him as a
+“challenging” case.
+I
+thought this case was interesting with several learning points, including:
+1.
+The initial misdirection
+to ILI
+2.
+Unrecognized ECG signs of
+occlusion
+3. Queen of Hears has no trouble diagnosing OMI
+https://drsmithsecgblog.com/is-it-possible-that-this-patient-with/ 4/12
+--- Страница 5 ---
+22/01/2026, 15:28 Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention? - Dr. Smith’s ECG Blog
+4.
+Treatment as
+“NSTEMI” despite a 100% RCA occlusion and ongoing pain.
+5. Use of posterior leads can be falsely negative
+6. Posterior leads can be placed erroneously
+7.
+Regarding the ECG, this
+case shows inferior ST elevation with reciprocal depression in aVL that does
+not quite meet STEMI criteria, ST depression maximal in V2-V3 (>97% specific
+for posterior MI), and an increasingly anterior R wave progression indicating
+posterior wall infarction.
+Beware confusing the diagnosis of posterior STEMI by using posterior
+leads…
+7 steps to missing posterior Occlusion MI, and how to avoid them
+Interventionalist at the Receiving Hospital: “No STEMI, no cath. I do not
+accept the transfer.”
+===================================
+MY Comment, by KEN GRAUER, MD (3/19/2025):
+===================================
+Perhaps the most commonly overlooked infarction pattern —
+is posterior OMI. The reason for this is simple: Because of the relative
+location of electrical activity with acute infarction of the LV posterior wall —
+there is no ST elevation on a standard 12-lead ECG.
+Failure to recognize posterior OMI is not a problem IF, as often
+happens — there is clear evidence of associated inferior wall MI
+(which is common because both the RCA and LCx usually supply
+both the posterior and inferior walls of the LV). But when infarction is
+either localized to the posterior wall — or when ECG signs of inferior
+wall involvement are subtle (as in today’s case) — it becomes easy
+for the “unaware” provider to overlook posterior OMI.
+Many providers address the lack of ST elevation on a
+standard ECG by turning to posterior leads. But as we’ve
+shown many times in Dr. Smith’s ECG Blog — having to
+pass through the thick back musculature
+significantly reduces ECG waveform amplitudes, such that
+the sensitivity of posterior leads for picking up posterior OMI
+is lacking.
+https://drsmithsecgblog.com/is-it-possible-that-this-patient-with/ 5/12
+--- Страница 6 ---
+22/01/2026, 15:28 Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention? - Dr. Smith’s ECG Blog
+Posterior leads are not needed to recognize posterior
+OMI. In a patient with chest pain — the finding of maximal
+ST segment depression in lead V2 and/or V3 and/or V4
+indicates posterior OMI — especially when the shape of
+such ST segment flattening/depression is consistent with
+a positive “Mirror” Test (See My Comment in
+the September 21, 2022 post).
+Today’s CASE is illustrative:
+Because today’s patient presented with “ILI” symptoms (ie, of
+an Influenza-Like Illness) — his chest tightness and diaphoresis
+was attributed to a viral illness. But all patients who present to an
+ED with chest discomfort have an ECG — and the initial ECG in
+today’s case (that I’ve reproduced and labeled in Figure-1) —
+is diagnostic of acute posterior OMI.
+Today’s patient is 84 years old — he has known severe coronary
+disease (prior CABG; multiple stents) — and he was awakened
+from sleep because of chest pressure, diaphoresis and light-
+headedness. Considering this history — any ECG abnormalities
+have to be assumed acute until proven otherwise.
+Considering this history — my “eye” was immediately drawn to the 2
+leads within the RED rectangles. The ST-T wave in lead III is
+“bulky”, coved, ever-so-slightly elevated, and with a hint of terminal
+T wave inversion. In support that this lead III finding is indicative
+of acute inferior OMI — is reciprocal ST depression in lead aVL.
+The 2 leads within
+the BLUE rectangles confirm associated posterior OMI — by the
+presence of ST segment straightening in lead V2 — and flattened
+ST depression in lead V3 (whereas normally — there should be
+slight, gradually upsloping ST elevation in these 2 leads). Especially
+abnormal are the peaked T waves in these 2 chest leads, with size
+of the T wave in lead V2 clearly disproportionate to QRS amplitude
+in V2.
+Other leads (ie, leads II and V6) also manifest T waves that look
+hyperacute — but despite the artifact — it is the ST-T waves in the 4
+leads within the colored rectangles that should indicate
+acute infero-postero OMI until proven otherwise.
+https://drsmithsecgblog.com/is-it-possible-that-this-patient-with/ 6/12
+--- Страница 7 ---
+22/01/2026, 15:28 Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention? - Dr. Smith’s ECG Blog
+Figure-1: Comparison between the first 2 ECGs in today’s case. (To
+improve visualization — Iʼve digitized the original ECG
+using PMcardio).
+Additional Lessons to be Learned:
+Despite the presentation of new severe chest pressure in a high-risk
+patient — today’s initial ECG was not repeated for over 3
+hours. Especially when the initial tracing manifests ECG findings of
+potential concern — the initial ECG should be repeated within no
+more than 15-30 minutes. Additional serial ECGs should be
+obtained often until you can be confident of the diagnosis.
+As per Dr. McLaren — a initial negative Troponin does not rule
+out an acute event, as some time may be needed before Troponin
+values increase.
+Today’s patient became hypotensive following nitroglycerin.
+Especially when considering acute inferior infarction — NTG-
+induced hypotension should be a prompt to obtain right-
+sided leads to rule out significant RV involvement (See My
+Comment in the July 19, 2020 post).
+Comparison of serial ECGs is best accomplished by placing the 2
+tracings being looked at side-by-side. This is done in Figure-1 —
+and lead-by-lead comparison suggests some of the hyperacute T
+waves are now not as prominent in the repeat ECG (ie, ST
+segments have deflated some in leads II,III,aVF) — there is less ST
+depression in lead aVL — and there has been progression
+of reperfusion T waves (T wave inversion is now clearly seen in
+leads III and aVF — and the T wave in lead V2 is taller). If the
+patient’s symptoms were less in association with the development of
+these reperfusion T waves in ECG #2 — this would be further
+evidence of acute infero-postero OMI in need of prompt cath.
+BOTTOM Line: If, in a patient with new chest pain — the visual
+“picture” of ST-T wave flattening-depression in the 2 leads within the
+https://drsmithsecgblog.com/is-it-possible-that-this-patient-with/ 7/12
+--- Страница 8 ---
+22/01/2026, 15:28 Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention? - Dr. Smith’s ECG Blog
+BLUE rectangle in Figure-1 is seen — Think acute posterior OMI
+until proven otherwise. There is no need for posterior leads to
+arrive at this conclusion.
+Jesse McLaren onMarch 19, 2025 NONSTEMI
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+Normal ACS care, When ACS care is very
+everything by the delayed, "STEMI
+book! But normal ACS metrics" can be
+care could be much perfect. And how
+better. This post specific is Queen of
+explains everything. Hearts?
+Write a Comment
+SEARCH
+https://drsmithsecgblog.com/is-it-possible-that-this-patient-with/ 8/12
+--- Страница 9 ---
+22/01/2026, 15:28 Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention? - Dr. Smith’s ECG Blog
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/is-it-possible-that-this-patient-with/ 9/12
+--- Страница 10 ---
+22/01/2026, 15:28 Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention? - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/is-it-possible-that-this-patient-with/ 10/12
+--- Страница 11 ---
+22/01/2026, 15:28 Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention? - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Pendell Meyers onMarch 23, 2025
+When ACS care is very delayed, “STEMI metrics” can
+be perfect. And how specific is Queen of Hearts?
+Written by Pendell Meyers, sent by anonymous, with additions by
+Smith A man in his 40s had acute chest pain and called EMS. EMS
+arrived…
+Willy Frick onMarch 25, 2025
+Can you localize the culprit lesion on angiogram without
+taking ECG findings into account?
+Written by Willy Frick A woman in her 60s with very severe
+hyperlipidemia (LDL >200 mg/dL) presented with acute onset chest
+pain. Her…
+https://drsmithsecgblog.com/is-it-possible-that-this-patient-with/ 11/12
+--- Страница 12 ---
+22/01/2026, 15:28 Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention? - Dr. Smith’s ECG Blog
+Steve Smith onMarch 27, 2025
+Even in retrospect, no one could see it.
+This was sent to me by a former resident who is outstanding at
+reading ECGs for OMI. “Hi Steve wonder what you think of this ecg in
+a 60…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/is-it-possible-that-this-patient-with/ 12/12

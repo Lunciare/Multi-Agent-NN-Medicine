@@ -1,0 +1,797 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Arrhythmia - Cardiology Explained - NCBI Bookshelf.pdf",
+  "converted_date": "2026-01-31T14:40:01.837606",
+  "file_size_bytes": 674558,
+  "original_format": "pdf",
+  "document_type": "Textbooks",
+  "source_folder": "Textbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Textbooks/Arrhythmia - Cardiology Explained - NCBI Bookshelf.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+Ashley EA, Niebauer J. Cardiology Explained. London: Remedica; 2004.
+Chapter 8 Arrhythmia
+Introduction
+Arrhythmia is an area of cardiology often feared by generalists. This might be related to the
+inconsistent terminology used in different centers and countries; or perhaps because the most
+basic tool of diagnosis, the electrocardiogram (ECG), can at times seem the most esoteric.
+Whatever the reason, few feel completely comfortable when confronted with a patient with
+ongoing arrhythmia. Despite this, arrhythmia can be simply managed by asking the following
+question: is the patient compromised? This is the first and single most important question in the
+management of your patient. The answer will guide your next steps.
+If the patient is not compromised – no pain, no dyspnea, normal blood pressure, and fully alert –
+you have some time. Take a short history and examination, get the patient monitored
+(preferably), and acquire a 12-lead ECG. The findings will help to make a diagnosis that will
+guide treatment. If a 12-lead ECG is not available, immediately refer the patient to somewhere
+that it can be performed.
+If the patient is compromised – with pain, dyspnea, hypotension, and light headedness – this is an
+emergency and the patient needs an intravenous (IV) cannula inserted and a defibrillator brought
+in immediately. Treatment then depends on the diagnosis (see Table 1).
+Table 1
+Possible diagnoses of an arrhythmic patient.
+Clinical examination can help, whether an ECG is available or not. The key thing to remember is
+that there are few components in the electrical "wiring" of the heart (see Figure 1) and the pulse
+can only be fast or slow, regular or irregular. If an ECG is available, is the QRS complex narrow
+or broad? Broad (>0.12 seconds) is more likely to be ventricular tachycardia (VT) and will
+generally be more concerning than narrow, which suggests a high depolarization site and is likely
+to be supraventricular tachycardia (SVT).
+Figure 1
+A diagrammatic representation of the electrical "wiring" of
+the heart. AV: atrioventricular; SA: sinoatrial. Reproduced
+with permission from Elsevier Science (Hampton J. The ECG
+Made Easy. Churchill Livingstone, 2003).
+Bradycardia
+Bradycardia is defined as heart rate <60 bpm, regardless of the cause. However, this is not a
+particularly helpful definition as it is well known that elite athletes can have "normal" heart rates
+as low as 30 bpm. In general, bradycardia needs attention if it is associated with symptoms,
+hemodynamic compromise, or is the substrate for escape rhythms. Symptoms associated with
+bradycardia include shortness of breath, fatigue, lethargy, nausea, mental confusion, dizziness,
+and presyncope or syncope. If there is hemodynamic compromise and interruption of cerebral
+perfusion is prolonged, grand mal seizures may result (Stokes–Adams attacks). The causes of
+bradycardia are outlined in Table 2.
+Table 2
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 1/18
+--- Страница 2 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+Causes of bradycardia.
+Treatment
+Acute bradycardia only requires treatment if it is associated with hemodynamic compromise or
+dangerous escape rhythms. This will most often be the case in the setting of inferior myocardial
+infarction (MI), but check the temperature! IV atropine at a dose of 500 μg can be administered
+and repeated up to a maximum cumulative dose of 3 mg. If this fails, there are two options.
+1. External pacing. This is a temporizing measure only. Most defibrillators have detachable
+modules to facilitate this. Attach electrode gels anteriorly and posteriorly and pace at 80
+bpm. The procedure is distressing for the conscious patient and should be used with
+sedative analgesia.
+2. IV isoproterenol (isoprenaline) infusion. If the parasympathetic system is entirely blocked,
+the only alternative is to stimulate the sympathetic pathway. However, this is
+proarrhythmic and not without risk.
+Sinus node dysfunction
+Sinus node dysfunction (SND) is also known as tachycardia–bradycardia syndrome and sick
+sinus syndrome. These terms encompass a spectrum of disorders of cardiac conduction tissue that
+are not necessarily confined to the sinus node (eg, atrial conducting tissue and even the
+atrioventricular [AV] node). The cause is not entirely clear, but inflammation, degeneration, and
+fibrosis of the conducting tissue are characteristic. SND is most common in the elderly.
+The spectrum of associated arrhythmias is diverse, but usually includes inappropriate sinus
+bradycardia, sinus pauses (>3 seconds) with junctional escape, sinus arrest (asystolic pause),
+atrial tachycardia, atrial flutter, and atrial fibrillation (AF). Commonly, there is alternating
+bradycardia–tachycardia with a normal sinus rate or bradycardia between attacks. Hence, the
+diagnostic landmarks are palpitations (tachycardia), dizziness, and syncope (bradycardia),
+although the disease is often asymptomatic.
+SND is diagnosed by a 12-lead ECG and Holter monitoring. Although there is no evidence of
+mortality benefit (SND does not seem to cause fatal asystolic arrest), consensus exists that a
+pacemaker (AAI, DDD – see p.135 for a description of the pacemaker codes) should be
+implanted if there is a clear relationship between bradycardia and cerebral symptoms in the
+absence of drugs – a diagnosis that may be difficult to secure. In addition, a pacemaker may be
+considered (AAI, DDD) when bradycardia is secondary to drug therapy necessary to limit
+tachycardia.
+Carotid sinus syndrome
+This term refers to hypersensitivity of the baroreceptor reflex, leading to bradycardia and
+hypotension. It is usually caused when pressure is applied to the neck around the area of the
+carotid sinus, eg, when shaving or by wearing a tight shirt collar. It can be predominantly
+cardioinhibitory (bradycardia, AV block) or vasodepressive (hypotension). Diagnosis is by ECG
+monitoring during carotid sinus massage. Patients with >3 seconds of asystole benefit from
+permanent dual-chamber pacing (DDI). Single-lead atrial pacing is contraindicated because it
+offers no protection against AV block. In patients with predominant vasodepressor syncope or
+mixed forms of the condition, pacing only prevents symptoms due to asystole or
+bradyarrhythmia; it does not prevent neurologic symptoms due to reflex hypotension.
+Syncope
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 2/18
+--- Страница 3 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+Syncope is defined as a sudden transient loss of consciousness and postural tone with
+spontaneous recovery. A careful diagnostic evaluation, though often difficult, is imperative in all
+patients. A vast variety of conditions may result in syncope, including any condition causing
+relative cerebral hypoxia for ≥10 seconds. It occurs as a result of low cardiac output and can be a
+consequence of mechanical, rhythm, and vascular disturbances, and noncardiac causes (see Table
+3).
+Table 3
+Disturbances that can lead to syncope.
+It should be kept in mind that generalized tonic/clonic movements can be the result of syncope,
+rather than the cause of it.
+Evaluation
+It can be difficult to identify the cause of syncope. Initial clinical evaluation should include
+supine and erect blood pressures and heart rate measurements. Blood glucose, serum electrolytes,
+hematocrit, and drug levels (if appropriate) should also be obtained. Assessment of a syncopal
+event requires information from both the patient and a witness; the pattern can be helpful (see
+Table 4). A baseline 12-lead ECG may suggest possible causes such as ischemia, Wolff–
+Parkinson–White (WPW) syndrome, or a prolonged QT interval. In most cases, it will be
+necessary to refer the patient for additional testing (see Figure 2). Additional testing may include
+the following.
+Table 4
+Patterns of syncope.
+Figure 2
+Evaluation of syncope. CT: computed tomography; ECG:
+electrocardiogram; EEG: electroencephalogram; EP:
+electrophysiology; MRI: magnetic resonance imaging.
+Documentation of a symptomatic arrhythmia may be achieved by Holter monitoring.
+However, if syncope is infrequent, event-recorder monitoring may be more helpful. These
+devices allow patients to turn the device on when the episode begins (or ends, facilitated
+by the use of a buffer), and thus record over a much greater period of time.
+An echocardiogram should be used to detect major structural abnormalities potentially
+associated with syncope (aortic stenosis, hypertrophic cardiomyopathy, ischemia). Carotid
+sinus massage should be performed if bruits are absent.
+Before invasive electrophysiological testing, coronary artery disease should be excluded or
+treated. Electrophysiological testing is indicated whenever an arrhythmia is considered as a
+probable cause of syncope.
+Exercise testing may contribute to establishing a basis for syncope by revealing
+myocardial ischemia (substrate for ventricular tachyarrhythmias), catecholamine-sensitive
+tachycardias, exercise-induced AV block, and chronotropic incompetence (SND).
+Malignant vasovagal syncope
+In malignant vasovagal syncope, the sympathetic system is activated via a trigger, usually venous
+pooling, which forces vigorous contraction of a poorly filled ventricle. This stimulates the
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 3/18
+--- Страница 4 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+mechanoreceptors in the ventricular wall, which lead (via C fibers and the brainstem) to
+overactivation of the parasympathetic system, and thus bradycardia and hypotension. This reflex
+is named Bezold–Jarisch after those who first described it (see Figure 3).
+Figure 3
+The Bezold–Jarisch reflex.
+Tilt-table testing
+If malignant vasovagal syncope is suspected, the key investigation is upright tilt-table testing.
+This test is performed on a specially designed table with the patient initially in a supine position.
+He/she is then tilted upright to a maximum of 60°–80° in such a way as to avoid recruiting the
+postural muscles. This maximizes venous pooling. The patient is left in this position for up to 40
+minutes.
+The normal tilt-table response is a baroreceptor-mediated decrease in inhibitory drive to the
+vasomotor center, ie, vasoconstriction and an increase in heart rate and ventricular contractility.
+The test result is considered abnormal when symptomatic hypotension is reproduced (Bezold–
+Jarisch reflex).
+Treatment
+Therapy to prevent recurrent vasovagal syncope has included the use of β-blockers and
+vagolytics (eg, disopyramide).
+Atrioventricular block
+AV block occurs when the electrical impulse from the atria to the ventricles is delayed or
+blocked.
+First-degree AV block
+This is where there is a prolonged PR interval of >200 milliseconds (5 small squares; see Figure
+4). No specific therapy is required and the prognosis is excellent. However, it can be a marker for
+an underlying problem such as myocarditis, MI, degenerative disease, or, most commonly, a drug
+effect (eg, tricyclic antidepressants).
+Figure 4
+Electrocardiogram of first-degree atrioventricular block.
+Second-degree AV block
+This is divided into two types:
+type I (Mobitz I or Wenckebach AV block)
+type II (Mobitz II AV block)
+Type I occurs when there is a repeated pattern of progressive prolongation of the PR interval,
+which eventually results in the failure of conduction of one atrial beat (see Figure 5). The cause
+is usually benign, but it can be a marker for the same underlying cardiac problems as first-degree
+AV block. In most cases, treatment is unnecessary. Routine prophylactic permanent pacing is not
+recommended unless the patient is symptomatic with presyncope, recurrent syncope, or
+bradycardia that exacerbates congestive heart failure or angina.
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 4/18
+--- Страница 5 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+Figure 5
+Electrocardiogram of type I second-degree atrioventricular
+block (Wenckebach).
+In type II, most beats are conducted with a constant PR interval, but occasionally atrial
+depolarization is not followed by ventricular depolarization (see Figure 6). Type II is
+pathological and indicates disease of the conduction system distal to the AV node. It can
+frequently lead to complete AV block, causing Stokes–Adams attacks. Therefore, temporary and
+then permanent pacing (DDD) is indicated in most patients, even those who initially present
+without symptoms.
+Figure 6
+Electrocardiogram of type II second-degree atrioventricular
+block (Mobitz II).
+Third-degree AV block (complete heart block)
+With complete heart block, there is complete dissociation of the P waves and QRS complexes
+(see Figure 7). The ventricular escape complexes are usually wide and occur at around 30–40
+bpm. There is a significant risk of asystole and thus permanent pacing (DDD) is indicated,
+regardless of symptoms. Acquired AV block is most commonly due to ischemic heart disease or
+drug toxicity (in particular β-blockers, digitalis, and calcium-channel blockers).
+Figure 7
+Electrocardiogram of third-degree atrioventricular block.
+Bradyarrhythmia in atrial fibrillation
+In patients with intermittent or chronic AF, AV node dysfunction is not an uncommon finding.
+Clearly, this will be aggravated by many of the rate-limiting drugs given to control the
+ventricular rate. In these cases, consideration should be given to the implantation of a pacemaker
+to protect against bradycardia while still allowing pharmacological control of a rapid ventricular
+rate.
+Bundle branch block
+A problem in the bundle of His presents in an identical fashion to a combined block of both
+bundles, ie, complete heart block. However, a more common occurrence is an isolated left or
+right bundle branch block. These are usually distinct from any problem with AV conduction (ie,
+they usually coexist with normal sinus rhythm [SR]). The patterns of the ECG are characteristic,
+but highly variable; the hallmark is a wide QRS complex.
+In left bundle branch block (LBBB), the pattern is best detected in V6 where there is an
+"M" pattern, while in V1 there is a "W" pattern (see Figure 8).
+In right bundle branch block (RBBB), the pattern is best detected in V1 where there is an
+RSR complex, while in V6 there is a QRS complex (see Figure 8).
+Figure 8
+Electrocardiogram patterns of left bundle branch block and
+right bundle branch block.
+In fact, both LBBB and RBBB are found in the "normal" population. New LBBB is cause for
+concern, and if it can clearly be related to an acute episode of chest pain then it probably
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 5/18
+--- Страница 6 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+indicates MI. Both RBBB and LBBB probably indicate increased risk for cardiovascular disease;
+however, neither on its own is an indication for pacing.
+Fascicular block
+One confusing aspect of electrocardiology is the terminology used to describe blocks of the
+fascicles (see Figure 9). The confusion arises from the fact that the right bundle is included in the
+list of three fascicles:
+Figure 9
+Fascicular block.
+left anterior fascicle
+left posterior fascicle
+right bundle branch
+Left anterior and left posterior fascicular block
+Fascicular block causes axis deviation on the ECG. Therefore, left anterior hemiblock causes left
+axis deviation (see Figure 10), while left posterior hemiblock causes right axis deviation (see
+Figure 11).
+Figure 10
+Left axis deviation.
+Figure 11
+Right axis deviation.
+Bifascicular block
+The term "bifascicular block" refers to a block of any two of the three fascicles. Clearly, this
+should include LBBB (left anterior + left posterior); however, the term is usually reserved for:
+RBBB + left anterior hemiblock, ie, RBBB + left axis deviation
+RBBB + left posterior hemiblock, ie, RBBB + right axis deviation (the axis is usually
+normal in RBBB)
+Bifascicular block is not in itself an indication for pacing. However, when combined with
+intermittent second- or third-degree block, a DDD pacemaker should be fitted.
+Trifascicular block
+Trifascicular block refers to a block of all three fascicles (but with intact AV conduction). It
+usually refers to LBBB + a long PR interval. Although trifascicular block is not strictly speaking
+an indication for permanent pacing, some centers carry this out on the basis that it must reflect
+extensive conducting tissue damage.
+Nonspecific intraventricular conduction defect
+Another term that is sometimes used is "nonspecific intraventricular conduction defect". This
+usually refers to an abnormal ECG that does not clearly fit any of the patterns described above.
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 6/18
+--- Страница 7 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+The QRS complex will generally not be wide, but the waveform will be atypical. It is of
+unknown significance, but is likely to be benign.
+Tachyarrhythmia
+The general principle of patient management outlined at the beginning of this chapter holds true
+for patients suffering from tachyarrhythmia: is the patient compromised? And, as above, the use
+of an ECG will be critical when making the diagnosis. However, you will often be called to see a
+patient in the community where no ECG is available. In this situation, try to make a diagnosis
+based on the defibrillator monitor. Most patients with tachyarrhythmia will require referral, but
+making your own diagnosis can only help the situation. The key questions are:
+do the results show broad (>0.12 seconds) or narrow complexes?
+are they regular or irregular?
+More sophisticated interpretation of the ECG is helpful, but the answers to these key questions
+will be sufficient to guide the immediate management (see Table 5).
+Table 5
+Possible diagnoses of tachyarrhythmias based on the
+electrocardiogram.
+Sinus tachycardia
+Sinus tachycardia is usually a response to physiological stress such as exercise or anxiety, and it
+may be the result of an abnormally heightened sympathetic tone. Abnormal pathological causes
+include fever, hypotension, anemia, thyrotoxicosis, hypovolemia, pulmonary emboli, myocardial
+ischemia, and shock. Nicotine, caffeine, alcohol, and some medications (sympathetic agonists or
+parasympatholytic agents) are frequently the underlying cause of sinus tachycardia. The QRS
+complexes are preceded by P waves of normal morphology, duration, and axis. Sinus tachycardia
+alone does not require any treatment, but the underlying cause should be determined.
+Atrial tachycardia
+Atrial tachycardia can occur in the presence of cardiac or pulmonary disease at a rate varying
+from 140 to 240 bpm. P-wave morphology is generally different from that during SR, but the P–
+QRS relationship remains 1:1 (see Figure 12). Some atrial tachycardias are catecholamine
+sensitive; in this case, a β-blocker is appropriate therapy. Curative radiofrequency ablation of
+atrial tachycardia is effective in 70% of cases. For refractory cases, creation of complete heart
+block by radiofrequency catheter ablation with implantation of a permanent dual-chamber
+pacemaker provides control of the rate and avoids drug toxicity.
+Figure 12
+Electrocardiogram of atrial tachycardia.
+Atrioventricular nodal re-entrant tachycardia
+AV nodal re-entrant tachycardia (AVNRT) accounts for more than 70% of cases of paroxysmal
+SVT (see Figures 13 and 14). This is also termed "classic" SVT with fast (140–250 bpm) narrow
+complexes and no P waves. Initial management involves interventions to increase vagal tone.
+These should only be carried out on a monitored patient, and include:
+Figure 13
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 7/18
+--- Страница 8 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+Electrocardiogram of atrioventricular nodal re-entrant tachycardia.
+Figure 14
+Mechanisms of re-entrant tachycardia. AVN: atrioventricular
+node; AVNRT: atrioventricular nodal re-entrant tachycardia;
+SR: sinus rhythm; VT: ventricular tachycardia.
+carotid sinus massage – apply firm pressure to one carotid artery at the level of the upper
+thyroid cartilage and move a small distance back and forth for up to 5 seconds (check for
+bruits first)
+Valsalva maneuver – the patient should take a deep breath, then attempt to exhale
+forcefully against a closed glottis for up to 15 seconds
+diving reflex – this vestigial reflex, which allows marine animals to lower their
+metabolism when diving underwater, exists in humans and can increase vagal tone.
+Suddenly immerse the patient's face in very cold water
+In a number of patients, the tachycardia (ie, AVNRT) terminates spontaneously with these
+maneuvers. However, if it does not, you should consider an adenosine challenge. This procedure
+involves rapid IV injections of increasing doses of adenosine (3–16 mg). Adenosine has a very
+short half-life (10 seconds) and produces temporary AV block, which can interrupt re-entry. This
+procedure is also very useful diagnostically, as the transient AV block can unmask an underlying
+atrial rhythm.
+The use of a short-acting β-blocker (eg, esmolol) or a calcium-channel blocker (eg, verapamil)
+has also been found to be safe and effective in terminating AVNRT. Verapamil is particularly
+useful in patients with asthma, in whom adenosine is contraindicated.
+Symptomatic patients with frequent episodes of AVNRT can be considered for radiofrequency
+catheter ablation of the "slow" pathway; this can be successfully ablated in more than 95% of
+cases.
+Ventricular pre-excitation
+Pre-excitation is defined as an early depolarization of the ventricular myocardium that occurs
+prior to any conduction through the AV node. The most common condition in which this is seen
+is WPW syndrome, where there is an accessory AV pathway called the bundle of Kent. The
+anomalous conducting system can be located anywhere around the mitral or tricuspid rings. Most
+WPW patients have no evidence of structural heart disease. In the majority of cases, there is only
+a single accessory connection and the electrophysiological properties of the anomalous pathway
+differ from those of the AV node. Conduction through the accessory connection is faster and is
+independent of the heart rate. Consequently, the ventricular myocardium is activated from two
+directions: through the normal system and through the accessory pathway. The resulting QRS
+complex is a product of fusion of the two distinct activation wavefronts. Since conduction over
+the accessory pathway is faster, the initial part of the QRS complex represents ventricular
+activation through this route (delta wave – see Figure 15).
+Figure 15
+Electrocardiogram of Wolff–Parkinson–White syndrome.
+The medical treatment of acute arrhythmias in WPW syndrome depends on the type of
+tachycardia. ECG results can help to determine this. A narrow complex indicates that accessory
+pathway re-entry is occurring. Treatment should include vagal maneuvers and adenosine as
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 8/18
+--- Страница 9 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+above. A broad complex is likely to be seen when AF is present, and can be particularly
+dangerous in WPW syndrome. It is characterized by rapid, irregular, wide complexes and should
+be treated by immediate direct current (DC) cardioversion. Adenosine, verapamil, and digoxin
+are not appropriate treatments as they increase the possibility of VT.
+Following acute therapy, radiofrequency catheter ablation can be used as a curative treatment for
+symptomatic patients with an accessory pathway. Pathways can be successfully ablated in more
+than 90% of all cases and the recurrence rate after successful ablation is approximately 8%–10%.
+Severe complications are rare, occurring in 2% of all cases.
+In the Beginning…
+Wolff–Parkinson–White syndrome was first described by Frank Norman Wilson in 1915.
+Another case in a 19-year-old student was reported by Wedd in 1921, and Louis Wolff, John
+Parkinson, and Paul Dudley White alluded to these two descriptions when they described
+the disorder in 1930. The original article by these three authors contained an account of a
+form of bundle branch block in 11 healthy young adults who were subject to episodes of
+paroxysmal tachycardia. The relative contributions of the authors are uncertain. Wolff
+(1898–1972) and White (1886–1973) were both US cardiologists, while Parkinson (1885–
+1976) was an English physician: one patient had been seen at the London Hospital, while
+most of the others were examined in Boston. White was a giant of cardiology – he studied
+the ECG with Thomas Lewis and was a strong advocate of heart disease prevention through
+exercise, especially bicycle exercise. A bike path in Boston is named after him.
+Ventricular tachycardia
+In the acute situation, broad complex tachycardias present a diagnostic challenge because SVT
+with aberrant conduction can be difficult to distinguish from VT. As mentioned previously, the
+key question remains – is the patient compromised? Certain features on the ECG can help to
+distinguish VT from SVT (see Figure 16):
+Figure 16
+Electrocardiogram of ventricular tachycardia.
+a very broad QRS complex (>0.14 seconds)
+AV dissociation (but P waves are often difficult to distinguish in broad complex
+tachycardias)
+concordance (all QRS complexes in V1–V6 are either positive or negative)
+fusion beats
+capture beats
+However, the key test is an adenosine challenge, which will interrupt an SVT but have no effect
+on VT. If VT is clear from the ECG or adenosine challenge has no effect and the patient is
+compromised, immediate DC cardioversion is needed. If there is time, a short-acting induction
+agent should be administered (or IV midazolam can be used). If the patient is losing
+consciousness, even this can be bypassed. Finally, if the patient loses their pulse, the cardiac
+arrest protocol should be immediately instituted (see Chapter 1, Cardiac arrest).
+If the patient is only mildly compromised or suffering recurrent episodes, other therapeutic
+options are:
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 9/18
+--- Страница 10 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+IV amiodarone
+IV magnesium
+IV lidocaine (lignocaine) (no left ventricular [LV] dysfunction)
+overdrive pacing (this needs a temporary wire. The stimulator rate is turned up above the
+VT rate [usually ×3] to "capture" ventricular depolarization, and then gradually turned
+down)
+The chronic investigation and management of VT will be carried out by a specialist (and
+probably a cardiologist with a special interest in electrophysiology). Investigation will center on
+finding a cause of VT. In the acute situation, there is often an obvious precipitating event (eg,
+MI). However, the most common cause of recurrent VT is ischemic heart disease. Another key
+aspect of the investigation will be distinguishing between polymorphic and monomorphic VT.
+The former, in which complexes vary within or between episodes in their pattern, has a stronger
+association with sudden death. In difficult cases of VT, invasive electrophysiological testing
+(often with concurrent coronary angiography) is warranted.
+Control of chronic VT is pharmacological – typical drugs that are used include sotalol,
+flecainide, amiodarone, propafenone, and disopyramide – although radiofrequency ablation of
+the right ventricular (RV) outflow tract VT can be successful, and in some cases an automatic
+implantable cardioverter defibrillator (AICD) can save lives.
+Ventricular ectopics
+Ventricular ectopics, sometimes known as ventricular premature beats, are common in the
+general population. The shape of the complex is highly variable and depends on the ventricular
+source. Their significance is debated. They can be a marker of coronary disease and increased
+risk, but, without a precipitating cause, treatment generally does not lower risk. Electrolyte
+abnormalities should be excluded. If ventricular ectopics appear frequently during exercise (eg,
+an exercise tolerance test), the patient should be investigated further for coronary artery disease.
+Torsades de pointes
+This is a form of polymorphic VT that occurs when the SR shown on an ECG has a prolonged
+QT interval. The ECG exhibits a continuously changing axis (hence, "turning of points"; see
+Figure 17), which can look like ventricular fibrillation (VF). The prolonged QT interval can be
+caused by:
+Figure 17
+Electrocardiogram showing torsades de pointes.
+antiarrhythmic agents
+hypokalemia
+hypomagnesemia
+bradycardia
+However, in very rare cases it may be congenital (Jervell and Lange–Nielsen syndrome or
+Romano–Ward syndrome).
+Atrial fibrillation
+AF is the single most common cardiac arrhythmia. It is a condition where there is disorganized
+electrical and mechanical activity of the atria with a mechanism of multiple re-entrant wavelets.
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 10/18
+--- Страница 11 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+It may be chronic or occur in a paroxysmal fashion (see Table 6). On the ECG, it is recognized as
+an irregular rhythm with absent P waves (see Figure 18). Low-amplitude wavelets are frequently
+seen, but in many cases the baseline is flat. Usually, the ventricular response is controlled by the
+physiological conduction delay of the AV node and the ventricular response is slower in patients
+with diseases of the conducting system, in the elderly, or in individuals receiving medications
+that impair AV nodal conduction (eg, β-blockers, digitalis, or calcium-channel blockers). With
+intense sympathetic stimulation, it may be as rapid as 160–180 bpm.
+Table 6
+Classification of atrial fibrillation.
+Figure 18
+Electrocardiogram of atrial fibrillation with irregular rhythm
+and absent P waves.
+The clinical manifestations of AF range from a complete absence of symptoms (usually in the
+young and fit) to hemodynamic collapse (in the elderly or those with systolic dysfunction). In
+addition to symptoms of palpitations, patients with AF have an increased risk of stroke and may
+also develop decreased exercise tolerance and LV dysfunction. The incidence of AF increases
+with age and its development is concentrated in patients with hypertensive heart disease,
+congestive heart failure, and rheumatic heart disease; the association with coronary artery disease
+is not as strong as with these other conditions. Among the noncardiac causes of AF, the
+association is strongest with hyperthyroidism, electrolyte abnormalities, and alcohol excess.
+The patient with newly discovered AF
+You will often be faced with a patient presenting with or without symptoms of AF, and an ECG
+showing the classic irregular rhythm with a flat or irregular baseline (see Figure 18). The
+approach to management is guided, as before, by the clinical picture – is the patient
+compromised? If the answer is yes, you should refer immediately.
+If not, you then have to decide whether the AF is persistent or paroxysmal (see Figure 19). A
+large proportion of patients experience spontaneous cardioversion within 24–48 hours of AF
+onset, but it is rarely clear whether this is their first episode. The best approach is to teach the
+patient to take his or her own pulse and monitor its regularity. This way, you can gain some idea
+of how long the patient spends in AF and in SR over the next few days.
+Figure 19
+Pharmacological management of patients with newly
+discovered atrial fibrillation (AF). HF: heart failure.
+Reproduced with permission from the European Society of
+Cardiology (Fuster V, Ryden LE, Asinger RW.
+ACC/AHA/ESC Guidelines for the Managment of Patients
+(more...)
+If they spontaneously cardiovert, chronic treatment of paroxysmal AF takes three forms:
+anticoagulation
+rate control (if necessary)
+antiarrhythmics (the choice of which is guided by symptoms)
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 11/18
+--- Страница 12 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+Most recent studies show that even patients with paroxysmal AF or successful cardioversion
+should remain on anticoagulation (warfarin, international normalized ratio [INR] 2–3) since
+these individuals have a greater risk of cerebrovascular events than of bleeding complications.
+The use of rate control and antiarrhythmics is also individualized – some patients will require
+neither. However, a good choice is a beta-blocker (eg, carvedilol, metoprolol), which can impact
+both of these factors. Another choice for patients with heart failure or hypertension associated
+with AF is flecainide (in the absence of coronary artery disease) or amiodarone (if coronary
+artery disease is present).
+If, several days following chronic treatment, patients remain in AF, there are two avenues of
+management: accept progression to permanent AF (and attend to rate control and
+anticoagulation) or attempt cardioversion.
+Deciding between the two (the decision will often be in the hands of the cardiologist) is
+influenced by several factors:
+How long has AF been present?
+How likely is SR to be maintained?
+What is the risk of thromboembolism?
+How severe are the symptoms?
+Patients with longstanding AF or AF caused by structural abnormalities are least likely to stay in
+SR. Most cardiologists would agree that every patient should have one attempt at restoration of
+SR. However, this is not always the best policy. For example, in an elderly patient with
+asymptomatic, rate-controlled AF, the toxicity of antiarrhythmics may outweigh the benefit of
+restoration of SR.
+The following points regarding treatment are helpful when treating a patient with AF.
+Regardless of the treatment strategy, all patients should have an ECG, chest x-ray, echo,
+and testing of thyroid function.
+If the decision is made to accept permanent AF, then control the rate with a combination of
+digoxin, a β-blocker, or a rate-limiting calcium-channel antagonist, and anticoagulate with
+warfarin, aiming for an INR of 2–3. The INR should be determined weekly (at least) in the
+initial stages and monthly thereafter. Patients over the age of 75 years who are considered
+at high risk for bleeding complications can be targeted to a lower INR of 2. In patients with
+contraindications to full anticoagulation, a daily dose of 300 mg aspirin can be used as an
+alternative to warfarin.
+If elective cardioversion is to be attempted, patients should be anticoagulated for 4 weeks
+with warfarin (aim for an INR of 2–3.5) and potassium levels should be kept in the upper
+normal range (>4.2 mmol) as this increases the chance of success of the cardioversion.
+Cardioversion can be electrical or chemical. If DC cardioversion is used, the patient
+receives a general anesthetic with a short-acting induction agent (usually propofol) and
+then receives shocks (synchronized to the R waves) of increasing energy: 100 J, 200 J, 360
+J, and 360 J using paddles on the anterior and posterior chest (the patient lies on their side).
+Chemical cardioversion is also possible using flecainide. In the event of successful
+cardioversion, patients should continue warfarin for at least 4 weeks. This is because the
+thromboembolic risk relates to "stunned" atria that do not resume normal mechanical function
+during this time.
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 12/18
+--- Страница 13 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+Famous Scots
+The first insight into the mechanism of irregular pulse in atrial fibrillation was provided by
+James Mackenzie, a Scottish GP who used an ink polygraph to record and label jugular
+venous pulses. He noticed that the jugular "a" wave was lost when patients went from a
+normal to an irregular rhythm.
+New directions in the management of atrial fibrillation
+It has recently been established that triggers in pulmonary veins can initiate AF and that
+circumferential or segmental disconnection of these veins at the left atrial junction can provide
+effective therapy. In certain patients, success rates for catheter-based pulmonary vein isolation
+range from 70% to 90%, but more than one procedure is often necessary. Surgery for AF is now
+usually reserved for use as an adjunctive treatment in patients having mitral or coronary surgery.
+Nevertheless, the large experience of the Maze procedure provides an important source of
+information to guide those performing catheter ablation. The Maze procedure was designed to
+exclude any place in the atria where the macro re-entrant circuits that underlie AF can form.
+Until recently, this involved an extensive series of atrial incisions, but the more recent
+cryosurgical Maze is just as effective and technically less demanding.
+Atrial flutter
+Atrial flutter is a rapid, regular rhythm with atrial rates of 250–350 bpm. The ventricular
+response rate varies, but it is usually a 2:1 block (creating the classic 150 bpm regular ventricular
+rhythm). The ECG pattern is typical – classic flutter waves are positive in the inferior leads and
+negative in lead V1 (see Figure 20).
+Figure 20
+Electrocardiogram of atrial flutter.
+Overall, atrial flutter is managed very much like AF:
+if the patient is hemodynamically compromised, one treatment option is DC cardioversion
+with low energy (50–100 J)
+a relatively easy way to convert atrial flutter to SR in the hospital setting is to use
+overdrive pacing in the high right atrium (RA)
+radiofrequency catheter ablation is now considered a curative approach in patients with
+recurrent atrial flutter. It can be eliminated by creating a linear lesion in the isthmus
+between the tricuspid annulus and the inferior vena cava. Acute success rates of 85%–90%
+and recurrence rates of 10%–15% have been reported
+patients with atrial flutter require anticoagulation therapy and, although there is more
+effective atrial contraction in atrial flutter (which may explain the decreased incidence of
+thromboembolism), guidelines are similar to those for AF
+Pacemakers
+Implantation of a permanent electronic replacement for the heart's natural pacemaker began in
+the 1950s and is now a well-established treatment that increases patient longevity and improves
+their quality of life. Since its invention, advances in programmability, telemetry, and the ability to
+sense and pace two chambers have improved the level of care that can be provided.
+Miniaturization has made the process of implantation more straightforward and long-term
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 13/18
+--- Страница 14 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+complications less common. Advances in pacemaker technology mean that several new
+indications are likely to be added to the standard ones (see Table 7).
+Table 7
+Standard indications for pacemakers.
+Pacemaker codes
+Pacemaker codes are, to many, one of the most confusing aspects of electrocardiology (see Table
+8). In fact, the labels, which are standardized, tell you all you need to know about the underlying
+programming and, in combination with the basic electrical wiring diagram of the heart (see
+Figure 1), can allow you to diagnose most problems.
+Table 8
+Pacemaker codes.
+The first letter refers to the chamber or chambers paced (atrium, ventricle, both [dual]). The
+second letter refers to the chamber sensed (atrium, ventricle, both [dual]) and the third letter
+details the response to sensing (triggered, inhibited, both [dual]). Thus, the most common
+pacemaker codes are the following.
+1. DDD – this box senses both chambers and if it detects a missing or late atrial or ventricular
+contraction it will pace one or both. The most common scenarios are:
+sinus bradycardia – atrial pacing will "kick in" and, assuming AV conduction is
+normal, no ventricular pacing will occur
+AV block (Mobitz type II; third-degree) – the ventricle is paced either following a
+normal atrial contraction or a paced atrial contraction. The benefit of this – that
+ventricular contraction will "track" the increased atrial rate of exercise tachycardia –
+is also its biggest drawback; it will also increase the ventricular pacing rate in the
+presence of abnormally increased atrial contraction, eg, atrial tachycardia
+2. VVI – this type of box is considerably cheaper than those boxes capable of DDD
+programming. It senses and paces only the ventricle and, consequently, only requires one
+lead. VVI boxes are indicated for use in AF with bradycardia and AV block, and in sinus
+bradycardia with no AV block. They can cause pacemaker syndrome and retrograde atrial
+tachycardia. They can also trigger AF.
+3. AAI – this device senses and paces only the atrium. It does not pace if a normal P wave is
+sensed. Thus, it is indicated for use in sick sinus syndrome to prevent bradycardia.
+4. Rate-adaptive pacemakers, eg, VVI(R). Some patients do not elevate their heart rate
+normally in response to exercise. This is known as chronotropic incompetence, and is
+defined as a failure to elevate the heart rate to 70% of predicted heart rate or to >100 bpm.
+It is most common in sick sinus syndrome (40% of cases), but it can also occur in AF. The
+solution to this condition is to use a rate-adaptive pacemaker. This type of pacemaker uses
+one of three methods to detect the need for an increased heart rate and responds
+accordingly. Examples of detection methods are: mechanical accelerometers that detect
+movement; changes in transthoracic impedance that can be used to detect changes in
+ventilation or RV filling; and QT sensors that respond to the shortening of the paced QT
+interval by catecholamines.
+Implantation
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 14/18
+--- Страница 15 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+Pacemaker implantation is carried out under sedation. Leads are inserted via the subclavian or
+cephalic vein into the RA and/or RV. Atrial leads are J-shaped and are positioned in the right
+atrial appendage (anteriorly and superiorly in the RA). Ventricular leads are positioned in the RV
+apex. Most ventricular leads are placed in position and left against the myocardial wall. In certain
+circumstances, eg, when these leads become easily displaced or do not provide adequate
+threshold values, an active fixation lead can be used. This lead has a screw "thread" on its end –
+usually covered by a dissolvable tip, so that it is not exposed until it is in position – that allows
+the lead to be fixed into the myocardium.
+After the leads are positioned, a series of tests are carried out to determine if the lead position is
+satisfactory from an electrical point of view. These would typically assess:
+threshold
+the voltage required to cause a contraction. This increases if the lead is not well-
+positioned and can be a sensitive method of detecting poor placement
+lead impedance
+this is a test of the integrity of the lead. It is essentially a measure of electrical
+resistance and is measured in Ohms
+abnormal stimulation of the phrenic nerve
+a high-voltage protocol tests for a diaphragmatic twitch
+Once all the required tests are completed, the pacemaker pocket (in the fascia overlying the
+pectoral muscle) is created by blunt dissection and the wound sutured.
+The Pacemaker's Maker
+Canadian John Hopps invented the first cardiac pacemaker. Hopps was trained as an
+electrical engineer at the University of Manitoba and joined the National Research Council
+in 1941, where he conducted research on hypothermia. While experimenting with
+radiofrequency heating to restore body temperature, Hopps made an unexpected discovery:
+if a heart stopped beating due to cooling, it could be started again by artificial stimulation
+using mechanical or electrical means. In 1950, this led to Hopps' invention of the world's
+first cardiac pacemaker. His device was far too large to be implanted inside the human body
+– it was an external pacemaker.
+Complications
+Acute complications will generally occur in hospital. These may include pneumothorax, RV
+perforation and cardiac tamponade, and hematoma.
+Chronic complications are more likely to present to the generalist. Lead infection is fortunately
+rare, but can present a very difficult management problem. Skin commensals are the most
+common culprits in right-sided endocarditis. If you suspect this, you should immediately refer
+the patient for an echo and blood cultures. Treatment is initially with antibiotics, but the lead
+system should be quickly replaced if this is unsuccessful.
+Lead displacement can occur as a result of concurrent right-sided pathology, eg, RV dilatation or
+valve abnormalities, and can be detected by changes in threshold. Changes in impedance can
+point to deterioration of old wires or loss of insulation properties. Subclavian vein or superior
+vena cava occlusion is more common with multiple lead systems. Classic signs include unilateral
+superficial vein engorgement around the upper thorax, neck, and face.
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 15/18
+--- Страница 16 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+Erosion occasionally occurs if the pacemaker box becomes gradually more superficial. Unless it
+causes chronic pain, or erodes completely, it does not demand referral. Some patients move their
+own box back and forward under the skin (Twiddler's syndrome). This can cause hemorrhage or
+lead breaks.
+Infection of the implantation site can be problematic and should be taken seriously. In the early
+stage, superficial redness of the skin or swelling around the box will be noticed. For this,
+standard treatment is indicated, eg, a skin swab, cloxacillin (flucloxacillin) (oral dosage, 500 mg
+four times daily). If the infection does not respond, or if you suspect deep infection for another
+reason, eg, marked constitutional symptoms, refer immediately. Infections resistant to antibiotic
+therapy demand box and lead extraction – a procedure not without difficulty or complications.
+Pacemaker syndrome occurs in some patients with a VVI pacemaker who are in SR. It is thought
+to relate to the fact that although sometimes the atria contract "in time" and cardiac output is
+normal, at other times they contract against closed AV valves, which causes elevated venous
+pressure and a fall in cardiac output. The patient will experience dizziness, and the solution is to
+upgrade the patient to a DDD pacemaker.
+Finally, atrial-sensing pacemakers, eg, DDD, respond to atrial arrhythmia with tachycardic
+pacing. If this happens, it is possible to alter the program (to DDI or set an upper rate limit) or
+use antiarrhythmic drugs. This problem can be avoided by using a mode-switching pacemaker
+that detects atrial arrhythmia and switches to VVI.
+Pacemaker ECGs
+ECGs are harder to interpret in a patient with a pacemaker as there are more variables; although
+the pacing spikes are usually straightforward to recognize. It is important to remember that the
+paced QRS complex will be in an LBBB pattern because the wave of depolarization begins
+where the lead is placed in the RV.
+Doctor, I have a pacemaker, what should I avoid?
+This is a common question that patients ask. In general, patients should live life as normal. They
+should avoid magnetic resonance imaging studies, and care should be taken with the following:
+electrocautery during surgery – this can cause sensing problems
+therapeutic radiation
+cardioversion/defibrillation – this should be carried out using the lowest effective energy
+with the paddles in the anterior–posterior positions on the body of the patient
+mobile phones – these should not be placed in a shirt pocket next to the pacemaker
+car batteries – batteries can produce large magnetic fields. Again, this is only a problem if
+the person is leaning over and the pacemaker comes close to the battery
+high-voltage cables
+Most manufacturers supply each pacemaker recipient with a wallet-sized emergency card for
+identification as the bearer of an implanted device. This card should include important
+information about current pacing parameters, names and numbers of the pulse generator
+(including leads), indication for pacing, and underlying structural heart disease.
+Patient follow-up
+Application of a magnet to many pacemaker generators reveals the current battery status by
+pacing with a fixed pacing rate or "magnet rate". The pacemaker rate decreases in most models
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 16/18
+--- Страница 17 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+with declining battery charge. When a decrease indicates exhaustion of one battery capacity, the
+pulse generator should be replaced.
+Implantable cardioverter defibrillators
+The natural evolution of pacemaker technology led, in the late 1960s, to the development of the
+AICD. Early versions were implanted abdominally under general anesthesia. These boxes, now
+barely bigger than a VVI pacemaker, are implanted under heavy sedation/light general
+anesthesia, and have revolutionized the treatment of ventricular arrhythmias. Indications for use
+of the device are expanding as the evidence base grows, but at present these include VF or VT
+cardiac arrest without a reversible cause; spontaneous sustained VT; syncope of undetermined
+origin with hemodynamically significant sustained VT; and nonsustained VT with prior MI or LV
+dysfunction. A recent study suggested that all post-MI patients with an EF <30% should receive
+an ACD.
+An AICD is expensive – approximately the same cost as bypass grafting – but the device is
+multifunctional. It is capable of bradycardia and tachyarrhythmia detection, overdrive pacing or
+defibrillation, and event memory (ie, it can "play back" the intracardiac trace from a few minutes
+before the event, which is extremely useful diagnostically).
+The AICD contains a device program for termination of VT and this highlights its versatility. It
+can initiate:
+burst pacing – a short burst of paced beats delivered at approximately 90% of the rate of
+the VT
+ramp pacing – a short burst of paced beats at a rate increasing up to 90% of the rate of the
+VT (to try to achieve capture)
+low-energy shock
+high-energy shock
+The programming of AICDs is sophisticated and is carried out by telemetry (a magnet detector is
+placed over the unit). The energy of shock delivered by the AICD is a magnitude less than that
+delivered across the chest wall by an external defibrillator (internal 5–35 J, external 100–360 J).
+If an AICD delivers a shock, it is important to refer the patient to the nearest center where the
+unit can be interrogated.
+Electrophysiological studies
+Electrophysiology is a rapidly advancing field in which the potential indications currently
+outweigh the availability of facilities. The indications for electrophysiology are detailed in Table
+9.
+Table 9
+Potential indications for electrophysiology.
+The essence of the electrophysiological test is a measurement of the intracardiac ECG: (1) during
+normal SR; (2) during an induced arrhythmia; and (3) following premature extrastimuli.
+Measurements are usually taken from several intracardiac sites, allowing identification of sinus
+node function and recovery, sinoatrial conduction, AV nodal conduction, and triggered
+ventricular arrhythmias. Treatment is with radiofrequency stimulation, which can ablate
+accessory pathways or interrupt re-entry circuits.
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 17/18
+--- Страница 18 ---
+22/01/2026, 15:52 Arrhythmia - Cardiology Explained - NCBI Bookshelf
+Drugs in arrhythmia
+Table 10 describes the Vaughan-Williams classification of antiarrhythmic drugs, and Figure 21
+outlines the drugs used in the treatment of arrhythmia.
+Table 10
+The Vaughan-Williams classification of antiarrhythmic drugs.
+Figure 21
+Drugs used in the treatment of arrhythmia. The typical
+cardiac action potential is also shown: a fast sodium current
+and slower calcium current depolarize cardiac cells. The
+plateau phase caused by calcium entry contributes to the long
+refractory period, (more...)
+Further reading
+1. Fuster V, Ryden LE, Asinger RW. et al. ACC/AHA/ESC Guidelines for the Management of
+Patients With Atrial Fibrillation: Executive Summary. A Report of the American College of
+Cardiology/American Heart Association Task Force on Practice Guidelines and the
+European Society of Cardiology Committee for Practice Guidelines and Policy
+Conferences (Committee to Develop Guidelines for the Management of Patients With
+Atrial Fibrillation) Developed in collaboration with the North American Society of Pacing
+and Electrophysiology. Eur Heart J. 2001;22:1852–923. [PubMed: 11601835]
+2. Guidelines for Clinical Intracardiac Electrophysiological and Catheter Ablation
+Procedures. A report of the American College of Cardiology/American Heart Association
+Task Force on practice guidelines. (Committee on Clinical Intracardiac Electrophysiologic
+and Catheter Ablation Procedures). Developed in collaboration with the North American
+Society of Pacing and Electrophysiology. Circulation. 1995;92:673–91. [PubMed:
+7634483]
+3. Silverman ME. From rebellious palpitations to the discovery of auricular fibrillation:
+contributions of Mackenzie, Lewis and Einthoven. Am J Cardiol. 1994;73:384–9.
+[PubMed: 8109554]
+4. Wolff L, Parkinson J, White PD. Bundle-branch block with short P-R interval in healthy
+young people prone to paroxysmal tachyardia. Am Heart J. 1930;5:685. [PMC free article:
+PMC6932258] [PubMed: 17040283]
+Copyright © 2004, Remedica.
+Bookshelf ID: NBK2219
+https://www.ncbi.nlm.nih.gov/books/NBK2219/ 18/18
