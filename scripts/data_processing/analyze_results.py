@@ -6,7 +6,7 @@ from collections import Counter
 def analyze_processed_files():
     processed_path = Path("01_PROCESSED")
     
-    print("📊 АНАЛИЗ РЕЗУЛЬТАТОВ КОНВЕРТАЦИИ")
+    print("АНАЛИЗ РЕЗУЛЬТАТОВ КОНВЕРТАЦИИ")
     print("="*50)
     
     # Читаем статистику
@@ -20,7 +20,7 @@ def analyze_processed_files():
     
     # Анализируем файлы
     txt_files = list(processed_path.rglob("*.txt"))
-    print(f"\n📁 Конвертированных .txt файлов: {len(txt_files)}")
+    print(f"\n Конвертированных .txt файлов: {len(txt_files)}")
     
     # По категориям
     categories = Counter()
@@ -35,17 +35,17 @@ def analyze_processed_files():
         size_kb = file_path.stat().st_size / 1024
         sizes.append(size_kb)
     
-    print("\n📂 Распределение по категориям:")
+    print("\n Распределение по категориям:")
     for cat, count in sorted(categories.items()):
         print(f"  {cat}: {count} файлов")
     
-    print(f"\n📏 Размеры файлов:")
+    print(f"\n Размеры файлов:")
     print(f"  Средний: {sum(sizes)/len(sizes):.1f} KB")
     print(f"  Минимальный: {min(sizes):.1f} KB")
     print(f"  Максимальный: {max(sizes):.1f} KB")
     
     # Проверяем содержание файлов
-    print("\n🔍 Проверка нескольких файлов:")
+    print("\n Проверка нескольких файлов:")
     for i, file_path in enumerate(txt_files[:3]):
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read(500)

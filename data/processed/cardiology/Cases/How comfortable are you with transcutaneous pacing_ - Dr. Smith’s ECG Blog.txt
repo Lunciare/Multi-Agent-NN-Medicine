@@ -10,16 +10,6 @@
 }
 
 === СОДЕРЖАНИЕ ===
-
---- Страница 1 ---
-22/01/2026, 15:31 How comfortable are you with transcutaneous pacing? - Dr. Smith’s ECG Blog
-Dr. Smith's ECG Blog
-Instructive ECGs in Emergency Medicine Clinical Content
-Associate Editors:
-— Pendell Meyers & Ken Grauer (2018)
-— Jesse McLaren & Emre Aslanger (2022)
-— Willy Frick (2024) — Sam Ghali (2025)
-Home  How comfortable are you with transcutaneous pacing?
 Willy Frick onDecember 24, 2024
 How comfortable are you
 with transcutaneous
@@ -27,11 +17,7 @@ pacing?
  
 Written by Willy Frick
 A woman in her 70s is hospitalized with undifferentiated shock after
-being found down at home. Her family had not heard from her and
-called EMS. Paramedics found her bradycardic, hypotensive, and
-tachypneic. She was resuscitated and admitted to ICU for presumed
-sepsis.
-Several days into hospitalization, she continued to have occasional
+being found down at Several days into hospitalization, she continued to have occasional
 episodes of sinus rhythm and sinus bradycardia with periods of
 Mobitz I AV block and 2:1 block. Her clinical team initiated
 transcutaneous pacing. Here is her cardiac telemetry. (Note: these
@@ -41,8 +27,6 @@ Here is the exact same strip, with the arterial pressure waveform
 included:
 
 https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 1/11
---- Страница 2 ---
-22/01/2026, 15:31 How comfortable are you with transcutaneous pacing? - Dr. Smith’s ECG Blog
 See if you can figure out what the problem is.
 Hint: What does the arterial waveform correspond to on the ECG?
 The problem here is complete failure to capture. The amount of
@@ -60,8 +44,6 @@ Here is the same image with orange arrows pointing out the patientʼs
 native P waves and blue arrows pointing out the patientʼs native QRS
 complexes. (Dotted lines indicated buried waveforms).
 https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 2/11
---- Страница 3 ---
-22/01/2026, 15:31 How comfortable are you with transcutaneous pacing? - Dr. Smith’s ECG Blog
 Now it becomes apparent that the arterial tracing corresponds
 exactly to the native QRS complex, and has no relationship at all to
 the pacing spikes. This patient is getting painful electrical shocks at a
@@ -94,8 +76,6 @@ safe to touch a patient who is being transcutaneously paced. I
 have done it many times.
 Pacing can be painful even if not capturing.
 https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 3/11
---- Страница 4 ---
-22/01/2026, 15:31 How comfortable are you with transcutaneous pacing? - Dr. Smith’s ECG Blog
 When in doubt crank the output all the way up. The dial will
 usually be labeled “OUTPUT,” and the units will be mA.
 Learning points:
@@ -123,8 +103,6 @@ Is there effective capture for rhythm strips A,B,C and D
 in Figure-1?
 — How can you tell? Clinically — What should you do?
 https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 4/11
---- Страница 5 ---
-22/01/2026, 15:31 How comfortable are you with transcutaneous pacing? - Dr. Smith’s ECG Blog
 Figure-1: Pacing caveats. Is there effective capture for rhythm strips
 A,B,C,D? (adapted from Grauer K: ACLS-2013-ePub — Section 15,
 KG/EKG Press).
@@ -153,8 +131,6 @@ the end of this rhythm strip (evidenced by a wide QRS
 complex after each spike, followed by a broad, oppositely
 directed T wave).
 https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 5/11
---- Страница 6 ---
-22/01/2026, 15:31 How comfortable are you with transcutaneous pacing? - Dr. Smith’s ECG Blog
 Suggested Approach:Look for objective signs to
 confirm that pacing is working clinically (ie, Check for
 pulseand BP; pulse ox pleth wave; andET CO2 readings
@@ -200,135 +176,9 @@ effective?)
 Willy Frick onDecember 24, 2024
 PACING PACING CAPTURE - OR NOT
 https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 6/11
---- Страница 7 ---
-22/01/2026, 15:31 How comfortable are you with transcutaneous pacing? - Dr. Smith’s ECG Blog
 SHARE    
  PREVIOUS ARTICLE NEXT ARTICLE 
 See how the Queen of Tachycardia in
 Hearts AI is cardiology clinic, what
 continuously is the rhythm?
 improving
-Write a Comment
-SEARCH
-https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 7/11
---- Страница 8 ---
-22/01/2026, 15:31 How comfortable are you with transcutaneous pacing? - Dr. Smith’s ECG Blog
-ABOUT
-Dr. Smith
-FACULTY PHYSICIAN
-Dr. Stephen W. Smith is a faculty physician in the Emergency
-Medicine Residency at Hennepin County Medical Center
-(HCMC) in Minneapolis, MN, and Professor of Emergency
-Medicine at the University of Minnesota.
-Dr. Smith's Google Scholar Profile
-Dr. Smith Articles on PubMed
-This work is licensed under a Creative Commons Attribution-
-NonCommercial 4.0 International License.
-FOLLOW US ON X (TWITTER)
-Follow @smithECGBlog Follow @PendellM Follow @ekgpress
-Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
-Follow @EM_RESUS
-FEATURED POSTS
- 
-‘NSTEM
-‘NSTEMIʼ or reperfused OMI? An
-OMI? And which lesion is the Jesse McLaren the culp
-culprit?
-onFebruary 8, 2025
-BLOG ARCHIVE
-Select Month
-https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 8/11
---- Страница 9 ---
-22/01/2026, 15:31 How comfortable are you with transcutaneous pacing? - Dr. Smith’s ECG Blog
-LABELS
-"inferior" ST depression(24) anterior STEMI equation(14)
-anterior T wave inversion(15) atrial flutter(31) AV block(17)
-aVL(31) aVR(30) Benign T-wave Inversion(23)
-cardiac arrest(57)
-cardiogenic shock(15) computer(21)
-CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
-Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
-false positive cath lab activation(49)
-False positive ECG(24)
-Formula for Early Repol vs. Anterior STEMI(39)
-hyperacute T-waves(84)
-hyperkalemia(65)
-Hyperacute T-waves LAD(26)
-hypokalemia(32) inferior hyperacute T-waves(24)
-Inferior MI subtle(31)
-inferoposterior STEMI(15)
-LAD occlusion(112)
-LAD occlusion vs. benign early repolarization
-(43)
-LBBB(55)
-LAD OMI missed(19) LAD reperfusion(14)
-lead misplacement(21) left bundle branch block(16) left main(24)
-long QT(45) LV aneurysm(35) LVH(41)
-LVH and OMI(14) missed OMI(33) missed STEMI(24)
-modified sgarbossa criteria(38)
-Morphine(14)
-Myocarditis(21)
-Normal ECG by computer algorithm(55)
-OMI(149)
-paced rhythm(24) Pediatric(16)
-pericarditis(27)
-PM Cardio Queen of Hearts(71)
-posterior leads(22) posterior OMI(44)
-posterior reperfusion T-waves(17) posterior STEMI(26)
-Precordial swirl(38) prehospital ECG(20)
-pseudoinfarction(23) pseudonormalization(24)
-PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
-RBBB(50)
-QOH(13) Queen knows false positive(14)
-RBBB with LAFB (Left Anterior Fascicular Block)(20)
-reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
-ST depression(40)
-shark fin(14) spontaneous reperfusion(17)
-subtle(41) Subtle LAD(50)
-subendocardial ischemia(16)
-Subtle LAD Occlusion(58)
-Subtle STE(14)
-Supraventricular Tachycardia (PSVT)(18) Syncope(34)
-T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
-Thrombolytics(15) torsade(15) Transient OMI(14)
-transient ST elevation(19) U-waves(24) ultrasound(19)
-unstable angina(27) Ventricular Fibrillation(16)
-ventricular tachycardia(30) Wellens' syndrome(31)
-Wide complex tachycardia(46)
-wide complex(16)
-wide QRS(13) wide_complex_tachycardia(25)
-https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 9/11
---- Страница 10 ---
-22/01/2026, 15:31 How comfortable are you with transcutaneous pacing? - Dr. Smith’s ECG Blog
-wolff parkinson white WPW(24) wraparound LAD(15) young(19)
-Young Women(19)
-Read Next
-Willy Frick onDecember 27, 2024
-Tachycardia in cardiology clinic, what is the rhythm?
-Submitted anonymously, written by Willy Frick A man in his 70s with a
-history of remote MI (details unavailable) and prior stent…
-Steve Smith onDecember 29, 2024
-Dizziness in a 40-something with recent stent for
-inferior OMI
-Dizziness is so unlikely to be OMI without an obvious ECG, that I am
-going to pretend that this patient presented with chest pain. The…
-https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 10/11
---- Страница 11 ---
-22/01/2026, 15:31 How comfortable are you with transcutaneous pacing? - Dr. Smith’s ECG Blog
-Pendell Meyers onDecember 31, 2024
-OMI? Subendocardial ischemia? Does it matter in this
-clinical context?
-Written by Pendell Meyers A woman in her 70s with known prior
-coronary artery disease experienced acute chest pain and shortness
-of…
-Never Miss a Beat – Join Our ECG
-Insights Newsletter
-Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
-Smith delivered straight to your inbox—trusted by emergency physicians and
-cardiologists worldwide.
-Email Address Subscribe
-Trusted insights, no spam—only ECG brilliance.
-Expert ECG Interpretation and Emergency Cardiology
-Education
-© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
-https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 11/11

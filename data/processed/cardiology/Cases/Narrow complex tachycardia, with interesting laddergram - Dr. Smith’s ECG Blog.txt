@@ -10,16 +10,6 @@
 }
 
 === СОДЕРЖАНИЕ ===
-
---- Страница 1 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
-Dr. Smith's ECG Blog
-Instructive ECGs in Emergency Medicine Clinical Content
-Associate Editors:
-— Pendell Meyers & Ken Grauer (2018)
-— Jesse McLaren & Emre Aslanger (2022)
-— Willy Frick (2024) — Sam Ghali (2025)
-Home  Narrow complex tachycardia, with interesting laddergram
 Willy Frick onDecember 26, 2025
 Narrow complex
 tachycardia, with interesting
@@ -35,8 +25,6 @@ rhythm.
 ECG 2
 
 https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 1/15
---- Страница 2 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
 Do we still believe the diagnosis of atrial flutter? Remember
 that metoprolol has no ability to cardiovert atrial fibrillation
 or flutter. It helps those patients by slowing conduction
@@ -62,8 +50,6 @@ difference is the terminally positive wave at the end of the
 QRS.
 V3 terminally positive deflection
 https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 2/15
---- Страница 3 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
 This difference cannot be explained by lead positioning, and
 the more likely explanation is that it reflects atrial activity. We
 can prove it is not 2:1 activity by using marching calipers to
@@ -94,8 +80,6 @@ tool to find interesting portions of telemetry, especially when
 there are abrupt rate changes.
 Telemetry with abrupt rate change
 https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 3/15
---- Страница 4 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
 The rhythm at this change is shown below. Have a look and
 see if you can explain it to yourself before scrolling further.
 Rhythm change
@@ -121,8 +105,6 @@ P6 comes quickly, and as a result, the fast pathway
 ventricle via the slow pathway (orange) with long
 PR.
 https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 4/15
---- Страница 5 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
 P7-9 conduct similarly, but with decrement each
 beat. This is normal physiologic AV node behavior.
 The faster that impulses arrive, the slower it
@@ -162,8 +144,6 @@ provided above by Dr. Frick in his excellent discussion..
 = = =
 MYThoughts on the Initial Rhythm:
 https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 5/15
---- Страница 6 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
 For clarity in Figure-1 — Iʼve reproduced the initial ECG —
 with the repeat tracing below it (recorded after 5 mg IV
 Metoprolol successfully converted the rhythm to sinus).
@@ -215,8 +195,6 @@ patient is likely to have a “concealed” AP that
 participates in the retrograde limb of a reentry SVT
 rhythm.
 https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 6/15
---- Страница 7 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
 So how do we know if the tiny deflections that we see during
 a fast SVT rhythm represent retrogradeP waves?
 The best way to tell — is to scrutinize the QRS complex
@@ -233,284 +211,4 @@ wave(REDarrow highlighting a small initial pointed
 upright deflection immediately after the QRS — followed
 by a BLUE arrow highlighting a wider negative
 deflection seen just before the T wave). To Emphasize: I
-was not at all certain about what I was seeing — as
-biphasic retrograde P waves are rare, and baseline
-artifact complicated my assessment.
-That said — I thought that if the positive RED arrow
-deflection after the QRS was not part of a retrograde P
-wave — then the RPʼ interval of theBLUE arrow
-negative deflection would still be longer than what I
-would expect with AVNRT(in which the reentry circuit
-is entirely contained within the AV Node).
-To Also Emphasize! — None of what I describe above
-affects initial management of this patient, since
-regardless of whether the rhythm in ECG #1 turns out to
-be AVNRT or orthodromic AVRT — treatment with vagal
-maneuvers, adenosine, verapamil/diltiazem, and/or a ß-
-blocker should be equally appropriate and effective.
-But I think it insightful to get as close as possible to a
-definitive rhythm diagnosis that may assist with longterm
-management decisions.
-To Summarize: We know that biphasic retrograde P
-waves are rare, but when they occur, they are most
-often associated with participation of a concealed AP in
-the reentry circuit (Ching-Tai Tai et al — JACC 29(2):
-394-402, 1997). And, even if the retrograde P wave in
-ECG #1 was the single negative BLUE arrow deflection in
-Figure-1 — the RPʼ interval is longer than usual for
-AVNRT — which is why I suspected orthodromic AVRT
-in a patient with a concealed AP as the etiology of the
-SVT rhythm in ECG #1.
-P.S.: The rhythm in ECG #2 is now sinus — but the rate
-of this sinus rhythm after treatment with IV Metoprolol is
-slow ( = sinus bradycardia at ~55/minute). Not seeing
-any additional 12-lead post-conversion tracings on this
-patient in her late 70s — if this degree of bradycardia
-persisted at the time of her discharge from the hospital,
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 7/15
---- Страница 8 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
-one would have to wonder if the patient might not have a
-“Tachy-Brady” form of SSS(Sick Sinus Syndrome) —
-with her “tachy” component ( = the reentry SVT rhythm)
-exacerbated by rate-slowing medication ( = the IV ß-
-blocker).
-= = =
-Figure-1: Comparison between the initial ECG — and the
-repeat ECG recorded after conversion to sinus rhythm.
-= = =
-What Happened Next?
-As per Dr. Frickʼs above discussion — this 70+ year old
-woman was discharged from the hospital on Amiodarone,
-with plan for outpatient follow-up. Several days later, she
-returned to the hospital with dizziness and marked
-bradycardia — with the trend analysisand telemetry tracing
-shown in Figure-2 that I have reproduced from Dr. Frickʼs
-presentation:
-As per Dr. Frick — Telemetry monitoring showed
-persistent bradycardia in the 40s lasting for hours —
-until a sudden “spike” in heart rate up to ~90/minute,
-with the fascinating rhythm strip recorded at the time of
-this sudden rate and rhythm change ( = the multi-lead
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 8/15
---- Страница 9 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
-rhythm strip shown below the trend analysis in Figure-
-2).
-KEY Point: Our suspicion of SSS is clearly increased by
-review of the trend analysis and rhythm strip shown in
-Figure-2. That said — SSS(and the need for permanent
-pacing) can only be diagnosed after “fixable” causes of
-alternating tachycardia-bradycardia have been ruled out
-(ie, Withdrawal of the Amiodarone that this patient had
-been placed on — as well as ruling out recent or
-ongoing ischemia-infarction, hypothyroidism, sleep
-apnea).
-For more on SSS — See My Comment in the January
-22, 2020 post in Dr. Smithʼs ECG Blog.
-= = =
-Figure-2: Trend analysis and telemetry tracing following
-readmission to the hospital of todayʼs patient.
-= = =
-Another Laddergram Possibility …
-Iʼll conclude my comments with another perspective on the
-rhythm strip shown at the bottom of Figure-2 — for which Dr.
-Frick provided his laddergram illustration in his above
-discussion.
-As per the Rosenbaum citation I started my comments
-with — more than a single laddergram explanation may
-be possible with complex arrhythmias, with final
-validation often possible only by EP study.
-I could be wrong — and Dr. Frickʼs laddergram may
-more accurately predict the mechanism of this complex
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 9/15
---- Страница 10 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
-arrhythmia. But I thought it interesting to discuss
-another possibilty via my proposedladdergram that I
-show in Figure-3.
-NOTE: I put forth my laddergram theory that I show in
-Figure-3 before I learned the results of EP Study that
-confirmed AVNRT as the mechanism of this patientʼs
-tachycardias.
-The rhythm in my Figure-3 laddergram begins with the
-bradycardia that we saw in the trend analysis from Figure-2. I
-suspect the “MCL” label represents a right-sided monitoring
-lead, such as MCL-1. Iʼve numbered the beats — and have
-labeled P waves with small-case letters in this laddergram.
-Beats #1-thru-4 show a junctional escape rhythm(ie, a
-regular, narrow QRSrhythm without sinus P waves — at
-a rate in the low 40s).
-The terminal (pseudo-rʼ ) upright deflections in the first
-4 QRS complexes are almost certain to represent
-retrograde P waves(labeleda,b,c,d) — as retrograde P
-waves in lead V1 are typically positive, and these
-terminal positive deflections that we see in beats #1-
-thru-4 are missing from conducted beats #5 and 8.
-The light BLUE lines from these initial 4 beats
-schematically represent tranmission of the impulse over
-the AP(that I suspected was present from my
-discussion ofFigure-1) — with this retrograde
-conduction arising from the junctional escape focus in
-the AV Nodal Tier.
-There then follows a 5-beat run of ATach (P waves
-labeled e,f,g,h,i ). As commonly occurs with runs of
-ATach — there is Wenckebach conduction with
-progressively increasing PR intervals until P wave “h” is
-non-conducted. The cycle begins again with beat #8
-that is conducted with a normal PR interval by P wave
-“i”. This apparently primes conditions for initiation of the
-reentrantnodalrhythm at ~90/minute for the duration
-of the tracing (which as per Dr. Frick — is technically
-“too slow” to qualify as AVRT — given the absence of
-“Tachycardia”).
-The light BLUE lines (beginning with beat #8) — once
-again schematically represent active participation by the
-concealed AP in the reentry circuit.
-BOTTOM Line: Regardless of whether my laddergram or Dr.
-Frickʼs laddergram is “correct” — todayʼs patient manifests
-alternatingbrady-tachy rhythms suggestive of SSS
-(pending what happens after Amiodarone is withdrawn).
-= = =
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 10/15
---- Страница 11 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
-Figure-3: My proposed laddergram for the rhythm strip
-shown in Figure-2.
-= = =
-= = =
-Willy Frick onDecember 26, 2025
-AVNRT AV NODAL RE-ENTRANT TACHYCARDIA LADDERGAM
-PSEUDO R-WAVE SUPRAVENTRICULAR TACHYCARDIA (PSVT)
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-A man in his 50s with OMI or Subendocardial
-altered mental status Ischemia (SEI)?
-and abdominal pain.
-What treatment must
-be given immediately,
-and how much?
-SEARCH
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 11/15
---- Страница 12 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
-ABOUT
-Dr. Smith
-FACULTY PHYSICIAN
-Dr. Stephen W. Smith is a faculty physician in the Emergency
-Medicine Residency at Hennepin County Medical Center
-(HCMC) in Minneapolis, MN, and Professor of Emergency
-Medicine at the University of Minnesota.
-Dr. Smith's Google Scholar Profile
-Dr. Smith Articles on PubMed
-This work is licensed under a Creative Commons Attribution-
-NonCommercial 4.0 International License.
-FOLLOW US ON X (TWITTER)
-Follow @smithECGBlog Follow @PendellM Follow @ekgpress
-Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
-Follow @EM_RESUS
-FEATURED POSTS
- 
-‘NSTEM
-‘NSTEMIʼ or reperfused OMI? An
-OMI? And which lesion is the Jesse McLaren the culp
-culprit?
-onFebruary 8, 2025
-BLOG ARCHIVE
-Select Month
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 12/15
---- Страница 13 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
-LABELS
-"inferior" ST depression(24) anterior STEMI equation(14)
-anterior T wave inversion(15) atrial flutter(31) AV block(17)
-aVL(31) aVR(30) Benign T-wave Inversion(23)
-cardiac arrest(57)
-cardiogenic shock(15) computer(21)
-CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
-Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
-false positive cath lab activation(49)
-False positive ECG(24)
-Formula for Early Repol vs. Anterior STEMI(39)
-hyperacute T-waves(84)
-hyperkalemia(65)
-Hyperacute T-waves LAD(26)
-hypokalemia(32) inferior hyperacute T-waves(24)
-Inferior MI subtle(31)
-inferoposterior STEMI(15)
-LAD occlusion(112)
-LAD occlusion vs. benign early repolarization
-(43)
-LBBB(55)
-LAD OMI missed(19) LAD reperfusion(14)
-lead misplacement(21) left bundle branch block(16) left main(24)
-long QT(45) LV aneurysm(35) LVH(41)
-LVH and OMI(14) missed OMI(33) missed STEMI(24)
-modified sgarbossa criteria(38)
-Morphine(14)
-Myocarditis(21)
-Normal ECG by computer algorithm(55)
-OMI(149)
-paced rhythm(24) Pediatric(16)
-pericarditis(27)
-PM Cardio Queen of Hearts(71)
-posterior leads(22) posterior OMI(44)
-posterior reperfusion T-waves(17) posterior STEMI(26)
-Precordial swirl(38) prehospital ECG(20)
-pseudoinfarction(23) pseudonormalization(24)
-PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
-RBBB(50)
-QOH(13) Queen knows false positive(14)
-RBBB with LAFB (Left Anterior Fascicular Block)(20)
-reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
-ST depression(40)
-shark fin(14) spontaneous reperfusion(17)
-subtle(41) Subtle LAD(50)
-subendocardial ischemia(16)
-Subtle LAD Occlusion(58)
-Subtle STE(14)
-Supraventricular Tachycardia (PSVT)(18) Syncope(34)
-T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
-Thrombolytics(15) torsade(15) Transient OMI(14)
-transient ST elevation(19) U-waves(24) ultrasound(19)
-unstable angina(27) Ventricular Fibrillation(16)
-ventricular tachycardia(30) Wellens' syndrome(31)
-Wide complex tachycardia(46)
-wide complex(16)
-wide QRS(13) wide_complex_tachycardia(25)
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 13/15
---- Страница 14 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
-wolff parkinson white WPW(24) wraparound LAD(15) young(19)
-Young Women(19)
-Read Next
-Magnus Nossen onDecember 30, 2025
-OMI or Subendocardial Ischemia (SEI)?
-A 79-year-old woman with a history of hypertension and a benign
-brain tumor was awakened by chest pain and dyspnea. She reported
-having…
-Steve Smith onJanuary 13, 2025
-A 50-something man with Chest pain at triage
-A 50-something male presented to triage with chest pain for one day.
-An ECG was recorded quickly before any further history or physical
-exam:…
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 14/15
---- Страница 15 ---
-22/01/2026, 15:17 Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog
-Willy Frick onFebruary 18, 2025
-After seeing this ECG, are there any medications you
-would consider giving?
-Written by Willy Frick A man in his 50s with COPD presented with
-dizziness and hypotension. He had worked overnight the night before
-and…
-Never Miss a Beat – Join Our ECG
-Insights Newsletter
-Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
-Smith delivered straight to your inbox—trusted by emergency physicians and
-cardiologists worldwide.
-Email Address Subscribe
-Trusted insights, no spam—only ECG brilliance.
-Expert ECG Interpretation and Emergency Cardiology
-Education
-© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 15/15
+was not at all certain

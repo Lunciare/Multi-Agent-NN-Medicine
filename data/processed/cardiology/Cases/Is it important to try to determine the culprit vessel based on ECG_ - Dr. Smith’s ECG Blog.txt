@@ -10,16 +10,6 @@
 }
 
 === СОДЕРЖАНИЕ ===
-
---- Страница 1 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
-Dr. Smith's ECG Blog
-Instructive ECGs in Emergency Medicine Clinical Content
-Associate Editors:
-— Pendell Meyers & Ken Grauer (2018)
-— Jesse McLaren & Emre Aslanger (2022)
-— Willy Frick (2024) — Sam Ghali (2025)
-Home  Is it important to try to determine the culprit vessel based on ECG?
 Willy Frick onJanuary 5, 2025
 Is it important to try to
 determine the culprit vessel
@@ -39,8 +29,6 @@ they are not sinus since the P waves are upside down in aVF. It looks
 like a low atrial rhythm.) The other beats are wider and have a 
 different origin — more on this later. Unfortunately, although natively
 https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 1/15
---- Страница 2 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
 conducted beats are the best ones for evaluating ischemia, we only
 have a few! Or do we?
 Although printed ECGs in North America typically display 2.5 seconds
@@ -61,8 +49,6 @@ Case Continued
 I like to take advantage of this fact by opening up the ECG in the
 reading software and reformatting it into 12 channels of rhythm.
 https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 2/15
---- Страница 3 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
 Before reading further, see if you can figure out the rhythm. My
 interpretation is described in reference to the lead II rhythm strip
 below with annotations for clarity.
@@ -88,8 +74,6 @@ between ventricular (wide) and conducted (narrow)]. R3 is
 mostly AIVR morphology, and R6 is mostly sinus conducted
 morphology.
 https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 3/15
---- Страница 4 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
 The green arrows indicate atrial activity that appears to have
 been beaten out by the AIVR (i.e., did not conduct because the
 AIVR beat came first). I doubt retrograde conduction because
@@ -126,8 +110,6 @@ plan.
 On Sunday, the patient complained of dyspnea and angina while
 ambulating. Repeat ECG is shown.
 https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 4/15
---- Страница 5 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
 Again, we see reperfusion in the inferior and posterior territories.
 There is just a hint of coving in leads III and aVF suggesting a
 component of active ischemia which fits with persistent pain.
@@ -147,8 +129,6 @@ coronary angiography guide where you will find a lot more
 information about coronary angiography generally.
 Here is an LAO cranial view showing TIMI 0 in the mid to distal RCA
 https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 5/15
---- Страница 6 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
 Angiography was interpreted as showing chronic total occlusion of
 the RCA. (We know from the ECG that the RCA is actually the acute
 culprit!) The patient received DES to mid LAD and DES to diagonal,
@@ -165,8 +145,6 @@ operator described the RCA as an acute thrombotic occlusion and
 placed three overlapping stents. The final shot is shown.
 SSccrreeeenn RReeccoorrddiinngg 22002255 0011 0033 aatt 1122 5544 2299 PPMM
 https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 6/15
---- Страница 7 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
 Learning points:
 Just because the cath report describes a lesion as “CTO” does
 not mean it is. It may still be an acute culprit.
@@ -204,8 +182,6 @@ clarifyingatrial activity in todayʼs initial tracing.
 Without Dr. Frickʼs reformatting the 10 beats in todayʼs
 initial tracing into 12 channels of rhythm — I
 https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 7/15
---- Страница 8 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
 would never have realized that there are 2 atrial foci in
 the initial rhythm.(Although P wave morphology of sinus
 P waves may vary some from one beat to the next — I
@@ -254,8 +230,6 @@ QRS complexes).
 Beats #3 and #6 are Fusion beats (F). We know this —
 because both of these beats: i) Manifest a QRS and T
 https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 8/15
---- Страница 9 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
 wave morphology that is intermediate to the beat before
 and the beat after it (ie, QRST morphology of beat #3 is
 intermediate to that of beats #2 and #4 — and QRST
@@ -295,8 +269,6 @@ ventricles — because these P waves occur after the
 QRS of beats #8 and 9 during the ARP (Absolute
 Refractory Period).
 https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 9/15
---- Страница 10 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
 Escape low atrial impulses d and e occur at just the right
 time to be able to conduct normally to the ventricles to
 produce beats #4 and 5.
@@ -321,133 +293,3 @@ with left bundle branch and inferior ST
 block: is there a long Elevation with
 QT? (And: Left Bundle Reciprocal ST
 Pacing). depression in aVL
-Write a Comment
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 10/15
---- Страница 11 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
-SEARCH
-ABOUT
-Dr. Smith
-FACULTY PHYSICIAN
-Dr. Stephen W. Smith is a faculty physician in the Emergency
-Medicine Residency at Hennepin County Medical Center
-(HCMC) in Minneapolis, MN, and Professor of Emergency
-Medicine at the University of Minnesota.
-Dr. Smith's Google Scholar Profile
-Dr. Smith Articles on PubMed
-This work is licensed under a Creative Commons Attribution-
-NonCommercial 4.0 International License.
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 11/15
---- Страница 12 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
-FOLLOW US ON X (TWITTER)
-Follow @smithECGBlog Follow @PendellM Follow @ekgpress
-Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
-Follow @EM_RESUS
-FEATURED POSTS
- 
-‘NSTEM
-‘NSTEMIʼ or reperfused OMI? An
-OMI? And which lesion is the Jesse McLaren the culp
-culprit?
-onFebruary 8, 2025
-BLOG ARCHIVE
-Select Month
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 12/15
---- Страница 13 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
-LABELS
-"inferior" ST depression(24) anterior STEMI equation(14)
-anterior T wave inversion(15) atrial flutter(31) AV block(17)
-aVL(31) aVR(30) Benign T-wave Inversion(23)
-cardiac arrest(57)
-cardiogenic shock(15) computer(21)
-CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
-Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
-false positive cath lab activation(49)
-False positive ECG(24)
-Formula for Early Repol vs. Anterior STEMI(39)
-hyperacute T-waves(84)
-hyperkalemia(65)
-Hyperacute T-waves LAD(26)
-hypokalemia(32) inferior hyperacute T-waves(24)
-Inferior MI subtle(31)
-inferoposterior STEMI(15)
-LAD occlusion(112)
-LAD occlusion vs. benign early repolarization
-(43)
-LBBB(55)
-LAD OMI missed(19) LAD reperfusion(14)
-lead misplacement(21) left bundle branch block(16) left main(24)
-long QT(45) LV aneurysm(35) LVH(41)
-LVH and OMI(14) missed OMI(33) missed STEMI(24)
-modified sgarbossa criteria(38)
-Morphine(14)
-Myocarditis(21)
-Normal ECG by computer algorithm(55)
-OMI(149)
-paced rhythm(24) Pediatric(16)
-pericarditis(27)
-PM Cardio Queen of Hearts(71)
-posterior leads(22) posterior OMI(44)
-posterior reperfusion T-waves(17) posterior STEMI(26)
-Precordial swirl(38) prehospital ECG(20)
-pseudoinfarction(23) pseudonormalization(24)
-PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
-RBBB(50)
-QOH(13) Queen knows false positive(14)
-RBBB with LAFB (Left Anterior Fascicular Block)(20)
-reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
-ST depression(40)
-shark fin(14) spontaneous reperfusion(17)
-subtle(41) Subtle LAD(50)
-subendocardial ischemia(16)
-Subtle LAD Occlusion(58)
-Subtle STE(14)
-Supraventricular Tachycardia (PSVT)(18) Syncope(34)
-T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
-Thrombolytics(15) torsade(15) Transient OMI(14)
-transient ST elevation(19) U-waves(24) ultrasound(19)
-unstable angina(27) Ventricular Fibrillation(16)
-ventricular tachycardia(30) Wellens' syndrome(31)
-Wide complex tachycardia(46)
-wide complex(16)
-wide QRS(13) wide_complex_tachycardia(25)
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 13/15
---- Страница 14 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
-wolff parkinson white WPW(24) wraparound LAD(15) young(19)
-Young Women(19)
-Read Next
-Steve Smith onJanuary 9, 2025
-Syncope, chest pain, and inferior ST Elevation with
-Reciprocal ST depression in aVL
-A 26 year old male presented with syncope and chest pain. Syncope
-was sudden and without prodrome, and resulted in head trauma with
-a…
-Pendell Meyers onJanuary 11, 2025
-One of those ECGs you need to instantly recognize,
-which learners may struggle with at first
-Written by Pendell Meyers An adult man presented with acute chest
-pain. He appeared critically ill. He had undergone stenting of the
-LAD…
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 14/15
---- Страница 15 ---
-22/01/2026, 15:30 Is it important to try to determine the culprit vessel based on ECG? - Dr. Smith’s ECG Blog
-Steve Smith onJanuary 12, 2025
-Online QTc Calculator for normal and wide QRS (LBBB,
-RBBB, etc.)
-Online QTc Calculator for Normal and Wide QRS (as may be seen with
-LBBB, RBBB or IVCD ) There are 2 parts to this QTc Calculator. You
-should…
-Never Miss a Beat – Join Our ECG
-Insights Newsletter
-Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
-Smith delivered straight to your inbox—trusted by emergency physicians and
-cardiologists worldwide.
-Email Address Subscribe
-Trusted insights, no spam—only ECG brilliance.
-Expert ECG Interpretation and Emergency Cardiology
-Education
-© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 15/15
