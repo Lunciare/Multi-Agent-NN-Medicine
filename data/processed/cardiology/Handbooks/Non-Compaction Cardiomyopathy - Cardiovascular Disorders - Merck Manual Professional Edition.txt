@@ -1,0 +1,131 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Non-Compaction Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:09.074479",
+  "file_size_bytes": 177941,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Non-Compaction Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:39 Non-Compaction Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Non-Compaction Cardiomyopathy
+By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Jun 2024 | Modified Sept 2024
+Non-compaction cardiomyopathy is a congenital disorder of the myocardium
+that causes cardiomyopathy, a variety of arrhythmias, conduction disorders,
+and an increased risk of sudden death. Diagnosis includes ECG, cardiac imaging,
+and genetic testing. Treatment is usually an implantable cardioverter-
+defibrillator (ICD), antiarrhythmic medications, and standard measures for
+heart failure.
+(See also Overview of Arrhythmogenic Cardiomyopathies and Overview of Arrhythmias.)
+Non-compaction cardiomyopathy is a rare cardiomyopathy resulting from failure of the embryonic
+ventricular myocardial compaction process, such that the ventricular myocardium consists of an outer
+layer of normally compact myocardium and an inner non-compacted layer that has retained embryonal
+characteristics (1). The inner layer is spongy and markedly trabeculated with deep intertrabecular
+recesses usually most prominent at the left ventricular apex, then elsewhere in the left ventricle, and
+least commonly in the right ventricle. Although there are likely acquired cases, most cases result from
+inherited mutations in genes encoding sarcomeric proteins, cytoskeletal proteins, or mitochondrial
+proteins. Inherited cases are most commonly autosomal dominant or X-linked.
+In non-compaction cardiomyopathy, the disordered myocardial architecture and associated
+microvascular abnormalities lead to myocardial fibrosis. The fibrosis predisposes to both systolic and
+diastolic heart failure and to ventricular tachyarrhythmias, cardiac arrest, and sudden death. The deep
+intertrabecular recesses produce areas of blood flow stasis predisposing to thromboembolic events,
+including stroke. Some forms also are associated with atrial tachyarrhythmias (eg, atrial fibrillation,
+Wolff-Parkinson-White syndrome), conduction system blocks, early repolarization, long QT interval
+syndrome, other congenital heart disorders, or skeletal muscular dystrophies.
+General reference
+1. Filho DCS, do Rêgo Aquino PL, et al: Left Ventricular Noncompaction: New Insights into a Poorly
+Understood Disease. Curr Cardiol Rev. 2021;17(2):209-216. doi:
+10.2174/1573403X16666200716151015
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/non-compaction-cardiomyopathy 1/4
+--- Страница 2 ---
+22/01/2026, 14:39 Non-Compaction Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+Symptoms and Signs of Non-Compaction Cardiomyopathy
+Patients may be asymptomatic.
+Initial symptoms are usually those of heart failure (eg, exertional dyspnea, fatigue, peripheral edema),
+although some patients present with symptoms of conduction blocks and/or arrhythmias, including
+palpitations and/or syncope, or sometimes cardiac arrest. Ventricular tachyarrhythmias may be
+triggered by exercise.
+Diagnosis of Non-Compaction Cardiomyopathy
+Cardiac imaging (eg, echocardiography, magnetic resonance imaging with late gadolinium
+enhancement)
+Genetic testing
+Screening of first-degree relatives
+Diagnosis of non-compaction cardiomyopathy is suspected in patients with manifestations of
+arrhythmias or conduction disorders in whom standard evaluation (eg, echocardiography) discloses
+ventricular wall abnormalities, including hypertrophy, distinct layers, and deep trabeculae. However, it is
+frequently difficult to distinguish the findings in non-compaction cardiomyopathy from normal
+variations, particularly in patients with physiological or pathological left ventricular hypertrophy, those
+with other cardiomyopathies, and pregnant patients. Cardiac MRI with late gadolinium enhancement is
+usually also done and is more sensitive.
+Each imaging technique uses measurement cutoff criteria to enhance discrimination. Several different
+consensus criteria (eg, by echocardiography [1, 2] or by MRI [3]) have been developed to facilitate
+diagnosis. Patients with significant levels of myocardial fibrosis have a worse prognosis.
+ECG and ambulatory cardiac rhythm monitoring are done to assess current rhythm status and are
+repeated annually to guide antiarrhythmic medication or device therapies.
+Patients with findings suggestive of the disorder should have genetic testing.
+First-degree family members of patients should have clinical evaluation (ie, to detect symptoms
+suggestive of arrhythmia, and/or heart failure), ECG, and echocardiography initially and repeated every
+1 to 3 years. Genetic testing is done if the index case has a mutation identified. Family members who
+are not carriers of that mutation do not require ongoing testing.
+Diagnosis references
+1. Chin TK, Perloff JK, Williams RG, et al: Isolated noncompaction of left ventricular myocardium. A
+study of eight cases. Circulation 82(2):507–513, 1990. doi:10.1161/01.cir.82.2.507
+2. Jenni R, Oechslin E, Schneider J, et al: Echocardiographic and pathoanatomical characteristics of
+isolated left ventricular non-compaction: a step towards classification as a distinct
+cardiomyopathy. Heart 86(6):666–671, 2001. doi: 10.1136/heart.86.6.666
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/non-compaction-cardiomyopathy 2/4
+--- Страница 3 ---
+22/01/2026, 14:39 Non-Compaction Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+3. Petersen SE, Selvanayagam JB, Wiesmann F, et al: Left ventricular non-compaction: Insights from
+cardiovascular magnetic resonance imaging. J Am Coll Cardiol 46(1);101–105, 2005. doi
+10.1016/j.jacc.2005.03.045
+Treatment of Non-Compaction Cardiomyopathy
+Moderation of physical activity
+Sometimes an implantable cardioverter-defibrillator (ICD)
+Usually a beta-blocker
+Sometimes other antiarrhythmic medications (particularly sotalol or amiodarone)
+Heart failure therapy (including transplantation) as required
+Sometimes chronic anticoagulation
+Patients with non-compaction cardiomyopathy should avoid athletic exertion because such activities
+foster life-threatening arrhythmias.
+Prevention of sudden death is by an ICD (see also table Indications for an ICD. An ICD is recommended
+for patients with (1)
+Prior ventricular tachycardia with syncope
+Resuscitated cardiac arrest
+Severe left ventricular systolic dysfunction (left ventricular ejection fraction < 35%)
+Placement of an ICD may also be useful (class IIa recommendation) for patients with lamin A/C
+cardiomyopathy who have (1)
+Both nonsustained ventricular tachycardia and reduced left ventricular ejection fraction
+Beta-blockers and other antiarrhythmic medications are used to treat tachyarrhythmias as they occur.
+Anticoagulation is used for patients with atrial fibrillation or stroke who meet standard criteria (see also
+table CHA2DS2-VASc Score). A recent Heart Rhythm Society consensus statement (1) indicates
+antithrombotic therapy may also be useful (class IIa recommendation) in patients with evidence of
+ventricular dysfunction and/or trabecular thrombi.
+Standard measures for treatment of heart failure are used as required (see also Treatment of Dilated
+Cardiomyopathy).
+Treatment reference
+1. Towbin, JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation,
+risk stratification, and management of arrhythmogenic cardiomyopathy. Heart Rhythm 16:e301–
+e372, 2019. doi: 10.1016/j.hrthm.2019.05.007
+Key Points
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/non-compaction-cardiomyopathy 3/4
+--- Страница 4 ---
+22/01/2026, 14:39 Non-Compaction Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+Non-compaction cardiomyopathy is a genetic cardiac disorder that causes heart failure,
+arrhythmias, heart blocks, and thromboembolic disease.
+Diagnosis is based on clinical factors, arrhythmias, cardiac imaging, and genetic testing.
+First-degree family members have a significant risk of disease and require screening.
+Treatment may require an implantable cardioverter-defibrillator (ICD), antiarrhythmic
+medications, anticoagulation, and/or heart failure medications.
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/non-compaction-cardiomyopathy 4/4

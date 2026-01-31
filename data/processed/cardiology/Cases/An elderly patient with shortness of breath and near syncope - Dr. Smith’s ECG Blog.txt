@@ -1,0 +1,310 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:37:16.087849",
+  "file_size_bytes": 18247197,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:27 An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  An elderly patient with shortness of breath and near syncope
+Pendell Meyers onApril 21, 2025
+An elderly patient with
+shortness of breath and
+near syncope
+Written by Pendell Meyers
+An elderly patient experienced a week of shortness of breath on
+exertion, with acute worsening including near syncope and severe
+fatigue. She called EMS, who recorded this ECG on the way to the
+hospital:
+ 
+What do you think?
+On arrival at the Emergency Department, she appeared critically ill,
+and had severe hypotension but was alert and oriented and able to
+follow commands.
+There is sinus rhythm at around 100 bpm. The QRS morphology
+alternates between two morphologies. The P waves are regular, the
+PR intervals are similar, and the QRS duration is similar
+throughout. This is electrical alternans.
+Here is her initial ED ECG: 
+https://drsmithsecgblog.com/an-elderly-patient-with-shortness-of/ 1/12
+--- Страница 2 ---
+22/01/2026, 15:27 An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog
+Here is a prior ECG available from months ago:
+No alternans.
+A bedside echo revealed the large pericardial effusion, with
+tamponade physiology confirmed clinically and ultrasonographically.
+https://drsmithsecgblog.com/an-elderly-patient-with-shortness-of/ 2/12
+--- Страница 3 ---
+22/01/2026, 15:27 An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog
+An emergent pericardiocentesis was performed in the cath lab, with
+700 cc of fluid removed with immediate improvement in
+hemodynamics.
+The effusion was felt to be related to the patientʼs known cancer.
+Ultimately she improved during the hospitalization and returned to her
+previous state of health.
+See these other related cases:
+Acute chest pain and ST Elevation. CT done to look for aortic dissection…..
+A woman in her 20s with syncope
+80-something year old with acute chest pain. 3 visits. Fascinating
+Ultrasound progression
+https://drsmithsecgblog.com/an-elderly-patient-with-shortness-of/ 3/12
+--- Страница 4 ---
+22/01/2026, 15:27 An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog
+A young woman in her early 20s with syncope
+Dyspnea on Exertion in a Middle Aged Woman.
+===================================
+MY Comment, by KEN GRAUER, MD (3/21/2025):
+===================================
+Today’s case by Dr. Meyers is a “Must KNOW” entity for emergency care
+providers.
+The patient is an elderly woman, who contacted EMS because of a
+1-week history of worsening dyspnea on exertion — severe fatigure
+— and near syncope.
+Although alert on arrival in the ED — she was markedly hypotensive
+and appeared critically ill.
+Notable in her past medical history is
+a known diagnosis of cancer.
+KEY Point: Given the above information — recognition of the cause of
+this elderly patient’s acute critical illness should be suspected within 1
+minute of seeing the patient and seeing the ECG.
+In Figure-1 — I’ve reproduced the initial ECG recorded in the ED.
+As per Dr. Meyers — the long lead II rhythm strip shows a rapid
+sinus rhythm at ~90-95/minute, with a narrow QRS complex
+and alternating QRS morphology every-other-beat.
+P wave morphology and the PR interval
+do not change throughout this tracing (as would be expected if the
+reason for the alternating QRS morphology was the result of
+intermittent preexcitation or late-cycle premature junctional or
+ventricular beats).
+T wave morphology does not change from beat-to-beat (as would
+be expected if the alternating QRS morphology was the result of
+some form of intermittent bundle branch block).
+Instead — each even-numbered beat in the long lead II rhythm
+strip manifests decreased R wave amplitude with a prominent J-
+wave that is not present in odd-numbered beats (RED arrows
+highlighting J-waves in several leads).
+PEARL #1: If you “step back” a bit from the tracing — Isn’t there
+a pendulum-like movement from the peak of the QRS from
+one odd-numbered beat to the next? (ie, downsloping dotted RED
+lines alternating with upsloping dotted BLUE lines).
+PEARL #2: Did you notice the low voltage? (with this finding most
+marked for even-numbered beats in the limb leads).
+https://drsmithsecgblog.com/an-elderly-patient-with-shortness-of/ 4/12
+--- Страница 5 ---
+22/01/2026, 15:27 An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog
+PEARL #3: Why is the known history of cancer relevant to today’s
+case?
+Figure-1: The initial ECG in the ED.
+DISCUSSION:
+As per Dr. Meyers — the alternating QRS morphology seen in Figure-
+1 represents electrical alternans.
+As noted in My Comment in the October 23, 2023 post — the
+various forms of electrical alternans are frequently misunderstood, if
+not all-too-often overlooked.
+PEARL #4: Electrical alternans is most commonly encountered by
+emergency providers in association
+with supraventricular tachycardias (especially for the reentry SVT
+rhythms of AVRT and AVNRT). Although other entities may produce
+various forms of alternans (as discussed in the Oct. 23, 2023
+post) — the recognition of alternans in a regular SVT rhyhm without
+atrial activity provides a clue that the mechanism of the SVT
+rhythm is likely to be reentry (See Figure-3 below for an example of
+this).
+The above said — the importance of recognizing electrical alternans in
+today’s case relates to it association with the presence of
+a large pericardial effusion.
+To Emphasize: The overall sensitivity of electrical alternans for
+smaller pericardial effusions is poor. Even with larger effusions — its
+sensitivity is limited.
+That said — the likelihood of a large pericardial effusion is increased
+in today’s case by the additional ECG findings in Figure-
+1 of low voltage and the pendulum-like variation in the peak of
+the QRS from one odd-numbered beat to the next.
+Verification of a large pericardial effusion was immediately
+forthcoming in today’s case by Echo at the bedside (as shown
+above by Dr. Meyers’ with several still ultrasound images ).
+More than just a large pericardial effusion — concern
+for cardiac tamponade was raised by this patient’s critical clinical
+https://drsmithsecgblog.com/an-elderly-patient-with-shortness-of/ 5/12
+--- Страница 6 ---
+22/01/2026, 15:27 An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog
+condition (severe dyspnea — near syncope — marked hypotension
+in the ED) — and as per Dr. Meyers, by signs of tamponade
+physiology on physical exam and Echo (the parameters to look for
+described in the November 28, 2022 post and in Jensen et al: ESC
+15(17), 2017). Fortunately — emergent pericardiocentesis with
+removal of 700 cc of fluid relieved the patient’s symptoms.
+The history of cancer in today’s patient is relevant — because
+malignancy is by far the most common non-traumatic cause of
+cardiac tamponade.
+To better illustrate the “swinging heart” pathophysiology of a
+large pericardial effusion — I show in Figure-2 the ultrasound
+recording that I’ve excerpted from another case in Dr. Smith’s ECG
+Blog. Looking at this swinging heart recording in Figure-2 helps to
+explain the pendulum-like movement from one odd-numbered beat
+to the next that I highlighted with dotted BLUE and RED lines
+in Figure-1.
+00:00
+Figure-2: Illustration of the “Swinging Heart” phenomenon
+(This parasternal long axis view is from the cardiac ultrasound in
+the November 28, 2022 post of Dr. Smith’s ECG Blog).
+==================================
+Electrical Alternans with Reentry SVT:
+https://drsmithsecgblog.com/an-elderly-patient-with-shortness-of/ 6/12
+--- Страница 7 ---
+22/01/2026, 15:27 An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog
+Figure-3:Iʼve enclosed within a RED rectangle the 3 leads in this
+tracing in which there is clear evidence of electrical
+alternans. (Figure reproduced from My Comment at the bottom of
+the page in the September 7, 2020 post in Dr. Smithʼs ECG Blog).
+Pendell Meyers onApril 21, 2025
+ELECTRICAL ALTERNANS PERICARDIAL TAMPONADE
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+Never send a chest Altered mental status,
+pain patient home bradycardia
+without measuring
+troponin. What is
+masquerading bundle
+branch block? And,
+and, and....
+Write a Comment
+https://drsmithsecgblog.com/an-elderly-patient-with-shortness-of/ 7/12
+--- Страница 8 ---
+22/01/2026, 15:27 An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog
+SEARCH
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+https://drsmithsecgblog.com/an-elderly-patient-with-shortness-of/ 8/12
+--- Страница 9 ---
+22/01/2026, 15:27 An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/an-elderly-patient-with-shortness-of/ 9/12
+--- Страница 10 ---
+22/01/2026, 15:27 An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/an-elderly-patient-with-shortness-of/ 10/12
+--- Страница 11 ---
+22/01/2026, 15:27 An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Hans Helseth onApril 25, 2025
+Altered mental status, bradycardia
+This was written by Hans Helseth. Paramedics arrived at the house of
+a 59 year old man after his caretaker called 911 for altered mental…
+Steve Smith onApril 27, 2025
+HEART Score Zero. Computer Normal ECG. Troponin
+Undetectable. Speckle Tracking Echo normal.
+A completely healthy 30-something year old woman with no cardiac
+risk factors had sudden onset of bilateral trapezius pain that
+radiated…
+https://drsmithsecgblog.com/an-elderly-patient-with-shortness-of/ 11/12
+--- Страница 12 ---
+22/01/2026, 15:27 An elderly patient with shortness of breath and near syncope - Dr. Smith’s ECG Blog
+Hans Helseth onApril 30, 2025
+What is this rhythm? And what should we do about it?
+This was written by Hans Helseth, with Ken Grauer, and a bit of help
+from Smith Without any patient information, how might you
+interpret…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/an-elderly-patient-with-shortness-of/ 12/12

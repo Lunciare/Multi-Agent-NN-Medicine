@@ -1,0 +1,487 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab_ - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:37:39.801510",
+  "file_size_bytes": 28674297,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab_ - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to
+the cath lab?
+Steve Smith onDecember 7, 2025
+Chest pain, resolved.
+Reperfusion T-waves.
+Should the patient go
+emergently to the cath lab?
+Written by Emily Dawra, one of our superb EM G3 residents,
+with a few edits by Smith.
+Case: A patient presented to the emergency department from
+ 
+a clinic for a “STEMI activation”. He had been having
+stuttering exertional chest pain and exercise intolerance for
+nearly 1 week. However, he had been out of the country and
+told us that he “didnʼt want to go to the hospital there,” so he
+waited until his convenient appointment with his primary
+doctor in clinic in Minnesota. His physician astutely assessed
+the concerning history, obtained the initial ECG, which he
+recognized as very worrisome, and so transferred him to the
+ED after giving 324mg of aspirin.
+Here is that clinic ECG, recorded while pain-free:
+
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 1/16
+--- Страница 2 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+What do you think?
+This is diagnostic of acute vs. subacute OMI, almost certainly
+reperfused. There is inferior ST elevation (II, III, aVF)
+and anterior precordial ST depression (V2, V3), diagnostic of
+inferior-posterior occlusive event. But also note the T-wave
+inversions inferiorly, which strongly suggest some element
+of reperfusion, especially in the context of resolved chest
+pain (pain free). There are also well-formed Q-waves that
+suggest that the infarct was subacute (several hours old) at
+the time it reperfused.
+Here is the PMCardio Queen of Hearts interpretation:
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 2/16
+--- Страница 3 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+Screenshot
+PMcardio for Individuals now includes the latest Queen of
+Hearts model, AI explainability (blue heatmaps), and %LV
+Ejection Fraction. Download now for iOS or Android:
+https://individuals.pmcardio.com/app/promo?
+code=DRSMITH20. As a member of our community, you can
+use the code DRSMITH20 to get an exclusive 20% off your
+first year of the annual subscription. Disclaimer: PMcardio is
+CE-certified for marketing in the European Union and the
+United Kingdom. PMcardio technology has not yet been
+cleared by the US Food and Drug Administration (FDA) for
+clinical use in the USA.
+_______________________________
+Smith: I am surprised that she does not say “Repefused OMI”.
+The cardiology fellow was in the ED by the time Dr. Smith
+arrived; he looked at the ECG and said “This is a reperfused
+OMI. The patient should go to the cath lab now because he
+is at very high risk of re-occlusion at any moment.”
+The fellow talked with the interventionalist, who said: “This is
+an NSTEMI and the patient can wait for intervention.”
+At this moment, while the patient was still completely pain
+free, we recorded another ECG:
+Now there is significant worsening of ST elevation inferiorly
+and of the ST depression in the precordial leads. Accordingly,
+there is increased reciprocal ST depression in aVL. This is
+now clearly a hyperacute Occlusion MI.
+The artery is actively re-occluding without any pain!
+5 minutes later we record a right sided ECG:
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 3/16
+--- Страница 4 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+Limb leads are not placed differently in a right sided ECG
+(only precordial leads are reversed). The limb leads now show
+pseudonormalization of the inferior T-waves [re-occlusion
+results in the previously inverted reperfusion T-waves
+becoming upright (“pseudonormalizing”)].
+V4-6 are now V4R, V5R, V6R on the right chest.
+Comment on right sided ECGs: all leads for Right sided ECG
+are reversed: [V1 = V2R to the right of the sternum; V2 = V2R
+to the left of the sternum, etc.] Q-waves are normal in right
+chest leads because they are opposite of the electrically
+dominant LV. Note the slight ST elevation in V4R, V5R, and
+V6R highly suggestive of RV infarction.
+= = =
+Grauer: Did YOU recognize the “technical
+misadventure” in the recording of the right-sided ECG?
+(Please check out Figures-2, -3, and -4 in my
+ADDENDUM at the bottom of My Comment below for
+illustration of what happened! ).
+= = =
+With the progression of ECG changes and concerning
+history, even without chest pain at this moment, patient was
+fortunately taken to the catheterization lab.
+Angiogram:
+90% distal LM
+90% ostial proximal LAD
+Subtotal occlusion of LADD1 and LADD2
+Subtotal occlusion of OM-1
+70-80% mid and distal RCA
+OM-1 was the probable culprit. Since the proximal RCA was
+not involved, the ST Elevation in right leads is probably a false
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 4/16
+--- Страница 5 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+positive.
+Echo:
+Estimated LV ejection fraction lower limits of normal-51%.
+Regional wall motion abnormalities : mid-apical inferior and
+inferior. Septal walls are dyskinetic, and likely aneurysmal.
+Normal right ventricular size and function. (This verifies that
+RV MI is very unlikely).
+Management
+Due to severe multi-vessel disease including proximal LAD. A
+temporizing intra-aortic balloon pump was placed while a
+CABG was planned for the next day to augment coronary
+perfusion pressure and allow for safer induction of anesthesia
+the next day.
+No percutaneous intervention was done on the OM1 culprit.
+We see this frequently: when the patient needs CABG, no
+intervention is done on the culprit, even if there is poor flow.
+Iʼm not sure why this is.
+First hs troponin I returned at 3443 ng/L. Next trop was not
+measured until 6 hours later and was 2987 ng/L. I suspect it
+rose a bit and then fell, the peak occurring sometime in the
+interval.
+EmilyʼsReminders & Take-Aways:
+Do not let the resolution of chest pain alone dissuade
+you from activating Cath Lab–the ECG is
+crucial! Especially when ECG is concerning or prior
+history is highly suggestive of coronary occlusion.
+Itʼs estimated that over 20% of heart attacks are silent
+[1]. Although a “silent MI” is one that is not discovered
+until a later physician visit, it highlights the fact that
+cardiac ischemia can be completely asymptomatic.
+Waiting for a patient to tell you about their recurrence
+of chest pain is dangerous.
+Repeat ECGs save lives!
+Queen of Hearts can differentiate active acute
+occlusive myocardial infarctions from reperfused OMI.
+Reference:
+[1] Tsao CW, Aday AW, Almarzooq ZI, et al. Heart Disease and
+Stroke Statistics—2023 Update: A Report From the American
+Heart Association. Circulation. 2023;147:e93–e621.
+MoreLearning Points from Smith:
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 5/16
+--- Страница 6 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+1. Any patient with OMI that is reperfused can have re-
+occlusion at any time.
+2. Re-occlusion is not always accompanied by chest pain
+3. These patients, in my opinion, should go for emergent
+angiogram. They are “Transient STEMI” or “Transient
+OMI“
+4. Transient STEMI was studied by Lemkes, randomizing to
+emergent vs. delayed intervention. Mortality was the
+same, but many patients in the delayed group had re-
+occlusion and needed to go the the cath lab emergently
+in the middle of the night.
+5. See these cases to illustrate that, if you do not go
+emergently, the patient may re-occlude painlessly. You
+should therefore use continuous ST segment monitoring.
+See this case: Why we need continuous 12-lead ST
+segment monitoring in Wellensʼ syndrome. Here is the
+initial ECG of this case, recorded after resolution of
+prehospital chest pain:
+Screenshot
+More cases discussing Continuous 12-lead ST Segment
+Monitoring.
+= = =
+======================================
+MY Comment, by KEN GRAUER, MD
+(12/7/2025):
+Dr. Smith asks the important question in todayʼs case as to
+whether emergent cardiac catheterization is needed in a
+patient who has just had an MI — but who is now pain-free
+and showing reperfusion T waves on ECG?
+= = =
+How Do You Know?
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 6/16
+--- Страница 7 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+How do you know if the MI that this patient has just had is
+“complete” — or, was momentarily complete, but is now
+ongoing?
+The simple answer to the above question is, You donʼt
+know … which fortunately in todayʼs case was quickly
+addressed by repeating the ECG immediately after
+contacting a naysaying consultant.
+But what if the repeat ECG failed to show any change?
+The answer is that we simply donʼt know if or when a
+recent OMI may spontaneously reocclude …
+An important hint in todayʼs history that this acute MI
+might still be ongoing — is that this patientʼs symptoms
+have been “stuttering”over the past 2 days. This is
+because a common reason for “stuttering symptoms”
+are ongoing episodes of spontaneous reperfusion that
+are punctuated by episodes of transient spontaneous
+reocclusion. Eventually, the final state of the “culprit”
+artery will be reached — but we have no idea if this final
+state will be a patent or totally occluded “culprit” artery.
+= = =
+What Do Todayʼs ECGs Show?
+For clarity and ease of comparison in Figure-1 — Iʼve put the
+initial ECG and the repeat ECG together.
+ECG #1 — shows sinus rhythm with obvious indication of
+inferior MI. Each of the 3 inferior leads (II,III,aVF) show
+large Q waves, but with residual ST elevation — and with
+terminal T wave inversion in leads III and aVF(BLUE
+arrows in Figure-1).
+Confirmation of infarction is forthcoming from the ST
+segment flattening with slight ST depression in lead aVL
+— with terminal T wave positivity (nearly the mirror-
+image opposite picture in lead aVL of the ST-T wave in
+lead III).
+The taller-than-expected T wave in lead V2, and ever-
+so-slight ST depression in this lead are consistent with
+posterior MI. As is the case for the 3 limb lead BLUE
+arrows — this further supports the impression of infero-
+posteroOMI, now with reperfusion T waves.
+= = =
+PEARL: Note that despite evidence of posterior OMI —
+the ST segment in lead V1 is not at all depressed. This
+suggests that “something else” must be attenuating the
+amount of ST depression that we would normally expect
+to see in lead V1 as a result of posterior OMI — with this
+“something else” most likely being acute RV MI (which
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 7/16
+--- Страница 8 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+in association with acute/recent inferior MI, strongly
+suggests the proximal RCAas the “culprit” artery).
+NOTE: The other possibility for explaining the
+unanticipated straightening of the ST segment in lead V1
+— could be that there is multi-vessel disease with
+difficult-to-predict collateralization patterns (which we
+would only be able to verify via cardiac cath) — and
+which cardiac cath on this patient subsequently showed!
+= = =
+Figure-1: Comparison between the first 2 ECGs in todayʼs
+case.
+= = =
+What Does ECG #2 Show?
+Lead-by-lead comparison in Figure-1 between the repeat
+ECG and the initial ECG, shows that within the space of a few
+minutes — there have been “dynamic“ ST-T wave changes.
+The heart rate is faster.
+ST elevation is greater in each of the inferior leads. The
+ST-T waves in leads III and aVF are now hyperacute!
+Reciprocal ST depression is much more prominent in
+high-lateral leads I and aVL.
+There has been a dramatic change in shape and
+increase in the amount of ST segment depression in
+leads V2,V3,V4.
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 8/16
+--- Страница 9 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+Bottom Line: It is likely that the “culprit” artery had
+spontaneously reopened at the time ECG #1 was
+recorded — but has now spontaneously reclosed. This
+patientʼs infero-postero MI is ongoing! It is because
+there is no way to accurately predict if or when
+spontaneous reclosure might occur — that optimal
+management of acute OMI most often entails prompt
+cardiac cath with PCI, even if the patient has become
+pain-free and reperfusion T waves have developed.
+= = =
+= = =
+ADDENDUM 12/8/2025 :
+* ( )
+The 3rd ECG recorded in todayʼs case (shown above in Dr.
+Smithʼs discussion) — was with right-sided leads. In Figure-2
+below — Iʼve put this 3rd ECG together with ECG #2 to
+facilitate assessment of these right-sided leads, which are
+used to determine if there is also RV infarction.
+QUESTION — Did you see the “technical misadventure”
+that occurred with the recording of the right-sided leads
+in Figure-2?
+= = =
+Figure-2: Comparison between the 2nd and 3rd ECGs
+recorded in todayʼs case. Do you see the “technical
+misadventure” in ECG #3?
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 9/16
+--- Страница 10 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+= = =
+= = =
+ANSWER:
+Limb leads should not be switched when recording a right-
+sided ECG! (Only the chest leads are reversed).
+Note in Figure-2 — that the limb leads look very
+different in ECG #3 compared to how they looked in ECG
+#2(ie, Lead I shows an all-negative QRS in ECG #3 —
+and an all-positive QRS in lead aVR!). This is because in
+addition to reversing the chest leads — the technician
+mistakenly also switched the LA and RA electrodes!
+ECG #3 was recorded 5 minutes after ECG #2. The
+reason the LA and RA electrodes should not be switched
+when recording right-sided leads — is that we still want
+to be able to compare the limb leads with this ECG done
+5 minutes later.
+= = =
+In Figures-3 and -4 below — I correct for the LA-RA reversal
+that was mistakenly done when the technician recorded right-
+sided leads. I then compare ECG #2 with what the right-sided
+ECG should have looked like.
+= = =
+Figure-3: I show the effect of LA-RA lead reversal on the limb
+leads — and correct for this in ECG #3b.
+= = =
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 10/16
+--- Страница 11 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+Figure-4: What comparison between ECG #2 and a right-
+sided ECG should have looked like if the LA and RA
+electrodes were not switched.
+The right-sided ECG in todayʼs case was recorded ~5
+minutes after ECG #2. After correcting for LA-RA
+reversal — we can see that there has essentially been no
+change during these 5 minutes in the appearance of the
+limb leads.
+As noted above in Dr. Smithʼs discussion — right-sided
+leads do show slight ST elevation in leads V4R,V5R and
+V6R — but given cath and Echo findings, OM-1 was the
+probable “culprit” artery in todayʼs case (and this right-
+sided ST elevation is most probably a false positive).
+= = =
+= = =
+Steve Smith onDecember 7, 2025
+RE-OCCLUSION RE-OCCLUSION THAT IS PAINLESS
+SILENT MYOCARDIAL INFARCTION
+ST SEGMENT MONITORING-CONTINUOUS TRANSIENT OMI
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+4 patients with chest See Inflated
+pain, LVH, and Hyperacute T-waves
+elevated troponin: deflate after
+thrombolytics
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 11/16
+--- Страница 12 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+which has Occlusion
+MI?
+SEARCH
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 12/16
+--- Страница 13 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 13/16
+--- Страница 14 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 14/16
+--- Страница 15 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Steve Smith onDecember 9, 2025
+See Inflated Hyperacute T-waves deflate after
+thrombolytics
+This was sent to me with no information (until later). The conventional
+computer algorithm says “Early Repolarization” The…
+Steve Smith onDecember 11, 2025
+When should you get a CT scan on a STEMI patient to
+rule out aortic dissection?
+Answer: Almost Never 2 cases Case 1: This was sent to me by a
+reader whose partner managed the case: This was a 55 yo female
+non-smoker with a…
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 15/16
+--- Страница 16 ---
+22/01/2026, 15:18 Chest pain, resolved. Reperfusion T-waves. Should the patient go emergently to the cath lab? - Dr. Smith’s ECG Blog
+Magnus Nossen onDecember 13, 2025
+Electrophysiology: Wide Complex Tachycardia in a 70-
+something
+Written by Magnus Nossen A 70-year-old man experienced sudden
+onset of palpitations and nausea while at rest. He immediately called
+EMS. Upon…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/chest-pain-resolved-reperfusion-t-waves-should-the-patient-go-emergently-to-the-cath-lab/ 16/16

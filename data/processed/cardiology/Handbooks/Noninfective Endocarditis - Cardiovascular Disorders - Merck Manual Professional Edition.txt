@@ -1,0 +1,122 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Noninfective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:35:38.807834",
+  "file_size_bytes": 191251,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Noninfective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:45 Noninfective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Noninfective Endocarditis
+(Nonbacterial Thrombotic Endocarditis)
+By Guy P. Armstrong, MD, Waitemata District Health Board and Waitemata Cardiology, Auckland
+Reviewed By Brenda L. Tesini, MD, University of Rochester School of Medicine and Dentistry
+Reviewed/Revised Jul 2024
+Noninfective endocarditis refers to formation of sterile platelet and fibrin
+thrombi on cardiac valves and adjacent endocardium in response to trauma,
+circulating immune complexes, vasculitis, or a hypercoagulable state.
+Symptoms are those of systemic arterial embolism. Diagnosis is by
+echocardiography and negative blood cultures. Treatment consists of
+anticoagulants.
+Endocarditis usually refers to infection of the endocardium (ie, infective endocarditis). The term can also
+include noninfective endocarditis, in which sterile platelet and fibrin thrombi form on cardiac valves and
+adjacent endocardium. Noninfective endocarditis sometimes leads to infective endocarditis. Both can
+result in embolization and impaired cardiac function.
+Noninfective endocarditis is rare and the diagnosis usually made at autopsy (1). Clinical diagnosis is
+based on a constellation of clinical findings rather than a single definitive test result.
+General reference
+1. Hurrell H, Roberts-Thomson R, Prendergast BD: Non-infective endocarditis. Heart 106(13):1023–
+1029, 2020. doi: 10.1136/heartjnl-2019-315204
+Etiology of Noninfective Endocarditis
+Vegetations are not caused by infection. They may be clinically undetectable or become a nidus for
+infection (leading to infective endocarditis), produce emboli, or cause valvular dysfunction. Valve
+destruction is uncommon.
+Catheters passed through the right side of the heart may injure the tricuspid and pulmonic valves,
+resulting in platelet and fibrin attachment at the site of injury. In disorders such as systemic lupus
+erythematosus (SLE), circulating immune complexes may result in friable platelet and fibrin vegetations
+along a valve leaflet closure (Libman-Sacks lesions). These lesions do not usually cause significant
+https://www.merckmanuals.com/professional/cardiovascular-disorders/endocarditis/noninfective-endocarditis 1/4
+--- Страница 2 ---
+22/01/2026, 14:45 Noninfective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+Overview of Infective and Noni...
+VIDEO
+valvular obstruction or regurgitation. Antiphospholipid syndrome (lupus anticoagulants, recurrent
+venous thrombosis, stroke, spontaneous abortions, livedo reticularis) also can lead to sterile
+endocardial vegetations and systemic emboli. Rarely, granulomatosis with polyangiitis, HIV infection, or
+COVID-19 leads to noninfective endocarditis.
+Marantic endocarditis
+In patients with chronic wasting diseases, disseminated intravascular coagulation, mucin-producing
+metastatic carcinomas (eg, of lung, stomach, or pancreas), or chronic infections (eg, tuberculosis,
+pneumonia, osteomyelitis), large thrombotic vegetations may form on valves and produce significant
+emboli to the brain, kidneys, spleen, mesentery, extremities, and coronary arteries. These vegetations
+tend to form on congenitally abnormal cardiac valves or those damaged by rheumatic fever. Half of
+patients with disseminated intravascular coagulation have noninfective endocarditis, suggesting a
+relationship between the conditions.
+Symptoms and Signs of Noninfective Endocarditis
+Vegetations themselves rarely cause symptoms unless their size and location cause valvular
+dysfunction, sometimes leading to dyspnea and/or palpitations. Symptoms result from embolization
+and depend on the organ affected (eg, brain, kidneys, spleen, digits). Fever and a heart murmur are
+sometimes present.
+Diagnosis of Noninfective Endocarditis
+Blood cultures
+Echocardiography
+https://www.merckmanuals.com/professional/cardiovascular-disorders/endocarditis/noninfective-endocarditis 2/4
+--- Страница 3 ---
+22/01/2026, 14:45 Noninfective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+Noninfective endocarditis should be suspected when patients who are chronically ill develop symptoms
+suggesting arterial embolism. Serial blood cultures and echocardiography should be done. Negative
+blood cultures and the presence of valvular vegetations (but not atrial myxoma) suggest the diagnosis.
+Examination of embolic fragments after embolectomy can help make the diagnosis.
+Differentiation from culture-negative infective endocarditis may be difficult but is important.
+Anticoagulation is often needed in noninfective endocarditis but is avoided in infective endocarditis
+unless there is a pre-existing requirement such as a mechanical valve. Assays for hypercoagulability,
+antinuclear antibodies, and antiphospholipid syndrome should be done to evaluate for causes of true
+noninfective endocarditis.
+Brain imaging is done to help guide treatment.
+Treatment of Noninfective Endocarditis
+Anticoagulation
+Management of the underlying condition
+Rarely surgery
+Unless brain imaging finds a lesion prone to hemorrhagic transformation, treatment consists of
+indefinite anticoagulation with heparin (either intravenous unfractionated or subcutaneous low
+molecular weight) (1). Direct oral anticoagulants (DOACs) and warfarin are not regarded as effective,
+although no comparative trials have been undertaken in this rare condition (2).
+Predisposing disorders should be treated whenever possible.
+Cardiac surgery (eg. vegetation excision, valve replacement) may be considered in cases where there is
+significant valvular dysfunction causing hemodynamic instability or recurrent embolic events despite
+optimal medical therapy.
+Treatment references
+1. Whitlock RP, Sun JC, Fremes SE, Rubens FD, Teoh KH. Antithrombotic and thrombolytic therapy
+for valvular disease: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American
+College of Chest Physicians Evidence-Based Clinical Practice Guidelines. Chest 2012;141(2
+Suppl):e576S-e600S. doi:10.1378/chest.11-2305
+2. Zmaili M, Alzubi J, Lo Presti Vega S, Ababneh E, Xu B. Non-bacterial thrombotic endocarditis: A
+state-of-the-art contemporary review. Prog Cardiovasc Dis 2022;74:99-110.
+doi:10.1016/j.pcad.2022.10.009
+Prognosis for Noninfective Endocarditis
+Prognosis is generally poor, more because of the seriousness of predisposing disorders than the cardiac
+lesion.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/endocarditis/noninfective-endocarditis 3/4
+--- Страница 4 ---
+22/01/2026, 14:45 Noninfective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+Key Points
+Noninfective endocarditis is much less common than infective endocarditis.
+Sterile vegetations form on heart valves in response to factors such as trauma,
+circulating immune complexes, vasculitis, or a hypercoagulable state.
+The sterile vegetations can embolize or become infected but rarely impair valvular or
+cardiac function.
+Evaluation is with echocardiography and exclusion of infective endocarditis using blood
+cultures.
+Prognosis depends mainly on the underlying disorder, which is often a serious illness.
+Treatment is usually with anticoagulation.
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/endocarditis/noninfective-endocarditis 4/4

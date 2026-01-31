@@ -1,0 +1,439 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:35:51.647344",
+  "file_size_bytes": 1364766,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Cardiovascular Examination
+By Jessica I. Gupta, MD, University of Michigan Health;
+Michael J. Shea, MD, Michigan Medicine at the University of Michigan
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Apr 2025
+Complete examination of all systems is essential to detect peripheral and systemic effects of cardiac
+disorders and evidence of noncardiac disorders that might affect the heart (1). Examination includes the
+following:
+General appearance
+Vital sign measurement
+Pulse palpation and auscultation
+Vein observation
+Chest inspection and palpation
+Cardiac percussion, palpation, and auscultation
+Lung examination, including percussion, palpation, and auscultation
+Extremity and abdomen examination
+Cardiac auscultation is discussed in a separate topic. Despite the ever-increasing use of cardiac imaging,
+bedside auscultation remains useful as it is always available and can be repeated as often as desired
+without cost.
+Examination also includes the collection of other patient data.
+General reference
+1. Fang JC, O'Gara PT: History and Physical Examination: An Evidence-Based Approach. In Libby P,
+Bonoow RO, Mann DL, et al (eds): Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine,
+12th ed. Philadelphia, Elsevier, 2022, pp 123-140.
+Vital Signs
+Vital signs include
+Blood pressure
+Heart rate and rhythm
+Respiratory rate
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 1/14
+--- Страница 2 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+Temperature
+Peripheral oxygen saturation (SpO2)
+Weight and height provide additional important data.
+Blood pressure (BP) is measured in both arms and, for suspected congenital cardiac disorders or
+peripheral vascular disorders, in both legs. The bladder of an appropriately sized cuff encircles 80% of
+the limb’s circumference, and the bladder’s width is 40% of the circumference. When measured by
+auscultation, the first sound heard as the mercury column falls is systolic pressure; disappearance of
+the sound is diastolic pressure (fifth-phase Korotkoff sound). Up to a 15 mm Hg pressure differential
+between the right and left arms is normal; a greater differential suggests a vascular abnormality (eg,
+dissecting thoracic aorta) or a peripheral vascular disorder. Leg pressure is usually 15 to 20 mm Hg
+higher than arm pressure due to normal pulse amplification (1). In many clinical settings, blood pressure
+is measured using an automated device (2). To obtain an accurate blood pressure measurement, the
+patient should
+Be seated in a chair (not on the examination table) for > 5 minutes, feet on floor, back
+supported
+Have the limb supported at heart level with no clothing covering the area of cuff placement
+Abstain from exercising, consuming caffeine, or using tobacco for at least 30 minutes
+before the measurement is taken
+Blood Pressure Measurement
+IMAGE
+JIM VARNEY/SCIENCE PHOTO LIBRARY
+Heart rate and rhythm are assessed by palpating the carotid or radial pulse, by using a pulse oximeter
+or automated blood pressure cuff with that function, or, if arrhythmia is suspected, by cardiac
+auscultation; some heartbeats during arrhythmias may be audible but do not generate a palpable pulse.
+Heart rate normally varies with respiration (respiratory sinus arrhythmia), increasing in inspiration due
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 2/14
+--- Страница 3 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+to changes in venous return and vagal nerve tone; this effect is more pronounced in the children,
+adolescents, and healthy young adults.
+Respiratory rate, if abnormal, may indicate cardiac decompensation or a primary lung disorder. The
+rate increases in patients with heart failure or anxiety and decreases or becomes intermittent in
+patients who are moribund. Shallow, rapid respirations may indicate pleuritic pain.
+Temperature may be elevated by acute rheumatic fever or cardiac infection (eg, endocarditis). After a
+myocardial infarction, low grade fever is very common. Other causes are sought only if fever persists >
+72 hours.
+Weight is collected at each clinic visit with the patient on a standing scale and, ideally, while wearing a
+similar amount of clothing. In patients with heart failure, weight gain may indicate hypervolemia, while
+weight loss may indicate cardiac cachexia (unintentional, non-edematous weight loss of > 5% within the
+last 12 months—3). History and additional findings from the physical examination (jugular veins, lung
+and extremity examinations) are required to determine whether weight changes are related to changes
+in volume status and/or amount of muscle or fat.
+Peripheral arterial oxygen saturation (SpO2) (pulse oximetry) measures the oxygen saturation of
+hemoglobin in arterial blood and serves as a rapid, noninvasive estimation of tissue oxygenation. Pulse
+oximetry is obtained by using a probe attached to a finger or earlobe. SpO2 ≥ 95% is considered normal,
+whereas values < 95% suggest hypoxemia. Baseline oxygen saturation is lower in many patients with
+chronic obstructive pulmonary disease (COPD); in these patients, when supplemental oxygen is used,
+the target SpO2 is typically 88 to 92%. When hypoxemia is present, potential cardiac etiologies include
+pulmonary edema in patients with heart failure and right-to-left intracardiac shunts (a patent foramen
+ovale in patients with pulmonary hypertension and cyanotic congenital heart disease such as tetralogy
+of Fallot).
+Ankle-brachial index (ABI)
+The ankle-brachial index (ABI) is the ratio of systolic blood pressure (BP) in the ankle to that in the arm.
+With the patient recumbent, the ankle blood pressure is measured in both the dorsalis pedis and
+posterior tibial artery, and the arm blood pressure is measured in both arms at the brachial artery. The
+index is calculated for each lower extremity by dividing the higher of the dorsalis pedis or posterior
+tibial pressure in that extremity by the higher of the 2 brachial artery systolic pressures. This ratio is
+normally > 1. A Doppler probe may be used to measure blood pressure at the ankle if the pedal pulses
+are not easily palpable.
+A low (≤ 0.90) ankle-brachial index suggests peripheral arterial disease, which can be classified as mild
+(index 0.71 to 0.90), moderate (0.41 to 0.70), or severe (≤ 0.40). A high index (> 1.30) may indicate
+noncompressible leg vessels, as may occur in conditions that are associated with blood vessel
+calcification (eg, diabetes, end-stage renal disease, Mönckeberg arteriosclerosis). A high index may
+suggest that further vascular studies are needed (toe-brachial index or arterial duplex studies).
+Orthostatic changes
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 3/14
+--- Страница 4 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+Blood pressure and heart rate are measured with the patient supine, seated, and standing; a 1-minute
+interval is needed between each change in position. Orthostatic hypotension is typically defined as a
+decrease in systolic blood pressure of > 20 mm Hg or diastolic blood pressure > 10 mm Hg within 3
+minutes of standing; the difference in blood pressure tends to be a little greater in older patients due to
+loss of vascular elasticity (4). The patient should be asked about symptoms of cerebral hypoperfusion,
+including lightheadedness or vision changes. However, the sensitivity of these measurements to detect
+hypovolemia (eg, secondary to blood loss) is low.
+Causes of abnormal orthostatic vital signs include hypovolemia, baroreflex dysfunction (eg, due to
+neurodegenerative disorders such as autonomic neuropathies, peripheral neuropathies, older age) and,
+less commonly, valvular disease (eg, aortic stenosis), heart failure, or arrhythmias. Certain medications
+(eg, diuretics, vasodilators) can also contribute to abnormal orthostatic vital signs (5, 6).
+Additionally, heart rate changes may be helpful to diagnosis various conditions. For example, an
+increase upon standing of ≥ 30 beats per minute (≥ 40 beats per minute in adolescents) compared to
+supine or sitting can indicate hypovolemia or postural orthostatic tachycardia syndrome (7).
+Pulsus paradoxus
+Normally during inspiration, systolic arterial blood pressure can decrease as much as 10 mm Hg. An
+exaggeration of this normal response with a greater decrease in systolic blood pressure or weakening of
+the pulse during inspiration is considered pulsus paradoxus. Pulsus paradoxus occurs in
+Cardiac tamponade (commonly)
+Constrictive pericarditis
+Restrictive cardiomyopathy
+Chronic obstructive pulmonary disease (occasionally)
+Severe asthma
+Severe pulmonary embolism
+Hypovolemic shock (rarely)
+During inspiration, negative intrathoracic decreases LV preload and increased LV afterload, thus
+decreasing cardiac output and blood pressure. This mechanism (and the drop in systolic BP) is
+exaggerated in disorders that cause high negative intrathoracic pressure (eg, asthma) or that also
+restrict RV filling (eg, cardiac tamponade, cardiomyopathy) or outflow (eg, pulmonary embolism) (8).
+Pulsus paradoxus is quantified by inflating a BP cuff to just above systolic BP and deflating it very slowly
+(eg, ≤ 2 mm Hg/heartbeat). The pressure is noted when Korotkoff sounds are first heard (at first, only
+during expiration) and when Korotkoff sounds are heard continuously. The difference between the
+pressures is the “amount” of pulsus paradoxus, and a difference of > 10 mm Hg is considered abnormal.
+Vital signs references
+1. Sheppard JP, Albasri A, Franssen M, et al: Defining the relationship between arm and leg blood
+pressure readings: a systematic review and meta-analysis. J Hypertens 37(4):660–670, 2019.
+doi:10.1097/HJH.0000000000001958
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 4/14
+--- Страница 5 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+2. Whelton PK, Carey RM, Aronow WS, et al: 2017
+ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention,
+Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the
+American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines. Circulation 138(17):e484–e594, 2018. doi:10.1161/CIR.0000000000000596
+3. Lena A, Ebner N, Anker MS: Cardiac cachexia. Eur Heart J Suppl 21 (Suppl L): L24–L27, 2019.
+4. Shen WK, Sheldon RS, Benditt DG, et al: 2017 ACC/AHA/HRS Guideline for the Evaluation and
+Management of Patients With Syncope: A Report of the American College of Cardiology/American
+Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society
+[published correction appears in Circulation 2017 Oct 17;136(16):e271-e272. doi:
+10.1161/CIR.0000000000000537]. Circulation 136(5):e60–e122, 2017.
+doi:10.1161/CIR.0000000000000499
+5. Fedorowski A, Ricci F, Hamrefors V, et al: Orthostatic Hypotension: Management of a Complex,
+But Common, Medical Problem [published correction appears in Circ Arrhythm Electrophysiol 2023
+Aug;16(8):478. doi: 10.1161/HAE.0000000000000088]. Circ Arrhythm Electrophysiol 15(3):e010573,
+2023. doi:10.1161/CIRCEP.121.010573
+6. Wieling W, Kaufmann H, Claydon VE, et al: Diagnosis and treatment of orthostatic
+hypotension. Lancet Neurol 21(8):735–746, 2022. doi:10.1016/S1474-4422(22)00169-7
+7. Mar PL, Raj SR: Postural Orthostatic Tachycardia Syndrome: Mechanisms and New
+Therapies. Annu Rev Med 71:235-248, 2020. doi:10.1146/annurev-med-041818-011630
+8. Spodick DH: The normal and diseased pericardium: current concepts of pericardial physiology,
+diagnosis and treatment. J Am Coll Cardiol 1(1):240–251, 1983. doi:10.1016/s0735-1097(83)80025-4
+Pulses
+Peripheral pulses
+Major peripheral pulses in the arms and legs are palpated for symmetry and volume (intensity).
+Elasticity of the arterial wall is noted. Absence of pulses may suggest an arterial disorder (eg,
+atherosclerosis) or systemic embolism. Peripheral pulses may be difficult to feel in patients with obesity
+or in those who are muscular. In disorders with a rapid runoff of arterial blood (eg, arteriovenous
+communication, aortic regurgitation), the pulse has a rapid upstroke, then collapses. The pulse is rapid
+and bounding in hyperthyroidism and hypermetabolic states; it is slow and sluggish in hypothyroidism.
+If pulses are asymmetric, auscultation over peripheral vessels may detect a bruit due to stenosis.
+Carotid pulses
+Observation, palpation, and auscultation of both carotid pulses may suggest a specific disorder (see
+table Carotid Pulse Amplitude and Associated Disorders). Aging and arteriosclerosis lead to vessel
+rigidity, which tends to eliminate the characteristic findings. In very young children, the carotid pulse
+may be normal, even when severe aortic stenosis is present.
+Auscultation over the carotid arteries can distinguish bruits from cardiac murmurs. Murmurs originate
+in the heart or great vessels and are usually louder over the upper precordium and diminish toward the
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 5/14
+--- Страница 6 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+neck. Bruits are higher-pitched, are heard only over the arteries, and seem more superficial. An arterial
+bruit must be distinguished from a venous hum. Unlike an arterial bruit, a venous hum is usually
+continuous, heard best with the patient sitting or standing, and is eliminated by compression of the
+ipsilateral internal jugular vein.
+TABLE
+Carotid Pulse Amplitude and Associated Disorders
+Carotid Pulse Amplitude Associated Disorder
+Bifid (double-peaked) with normal or Combined aortic stenosis and aortic
+delayed rise regurgitation
+Disorders with a rapid rise and fall of
+pressure (eg, patent ductus arteriosus)
+Bounding and prominent Hypermetabolic states with increased
+stroke volume
+Hypertension
+Diminished unilaterally or bilaterally, Extracranial carotid stenosis due to
+often with a systolic bruit atherosclerosis
+Bifid with a rapid rise Hypertrophic cardiomyopathy
+Jerky, with full expansion followed by
+Aortic regurgitation
+sudden collapse (Corrigan’s or water-
+hammer pulse)
+Aortic stenosis (obstructing left
+Low in amplitude and volume with a
+ventricular outflow)
+delayed peak
+Shock
+Veins
+Peripheral veins
+The peripheral veins are observed for varicosities, arteriovenous malformations (AVMs), and shunts,
+and for overlying inflammation and tenderness due to thrombophlebitis. An AVM or a shunt produces a
+continuous murmur (heard on auscultation) and often a palpable thrill (because resistance is always
+lower in the vein than in the artery during systole and diastole).
+Neck veins
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 6/14
+--- Страница 7 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+The neck veins are examined to estimate venous wave height and waveform. Height is proportional to
+right atrial pressure, and waveform reflects events in the cardiac cycle; both are best observed in the
+internal jugular vein.
+The jugular veins are usually examined with the patient reclining at 45°. The top of the venous column is
+normally just above the clavicles (upper limit of normal: 4 cm above the sternal notch in a vertical plane)
+(1). The venous column is elevated in right heart failure, intravascular volume overload, cardiac
+tamponade, constrictive pericarditis, tricuspid stenosis, tricuspid regurgitation, superior vena cava
+obstruction, or reduced compliance of the right ventricle. If such conditions are severe, the venous
+column can extend to jaw level, and its top can be detected only when the patient sits upright or stands.
+The venous column is low in hypovolemia.
+Jugular Venous Distention
+IMAGE
+DR P. MARAZZI/SCIENCE PHOTO LIBRARY
+Normally, the venous column can be briefly elevated by firm hand pressure on the abdomen
+(hepatojugular or abdominojugular reflux); the column falls back in a few seconds (maximum 3
+respiratory cycles or 15 seconds) despite continued abdominal pressure (because a compliant RV
+increases its stroke volume via the Frank-Starling mechanism). However, the column remains elevated
+(> 3 cm) during abdominal pressure in disorders that cause a dilated and poorly compliant RV or in
+obstruction of RV filling by tricuspid stenosis or right atrial tumor.
+Normally, the venous column falls slightly during inspiration as lowered intrathoracic pressure draws
+blood from the periphery into the vena cava. A rise in the venous column during inspiration (Kussmaul
+sign) occurs typically in chronic constrictive pericarditis, right ventricular myocardial infarction, and
+chronic obstructive pulmonary disease (COPD), and can also occur in heart failure and tricuspid
+stenosis.
+Jugular vein waves (see figure Normal Jugular Vein Waves) can usually be discerned clinically but are
+better seen on the screen during central venous pressure monitoring (2).
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 7/14
+--- Страница 8 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+Normal Jugular Vein Waves
+The a wave is caused by right atrial contraction (systole) and is followed by the x descent, which
+is caused by atrial relaxation. The c wave, an interruption of the x descent, is caused by the
+transmitted carotid pulse; it is seldom discerned clinically. The v wave is caused by right atrial
+filling during ventricular systole (tricuspid valve is closed). The y descent is caused by rapid filling
+of the right ventricle during ventricular diastole before atrial contraction.
+The a waves are increased in pulmonary hypertension and tricuspid valve stenosis. Giant a waves
+(Cannon waves) occur in atrioventricular dissociation when the atrium contracts while the tricuspid
+valve is closed. The a waves disappear in atrial fibrillation and are accentuated when RV compliance is
+poor (eg, in pulmonary hypertension or pulmonic stenosis). The v waves are very prominent in tricuspid
+regurgitation. The x descent is steep in cardiac tamponade. When RV compliance is poor, the y descent
+is very abrupt because the elevated column of venous blood rushes into the RV when the tricuspid valve
+opens, only to be stopped abruptly by the rigid RV wall (in restrictive cardiomyopathy) or the
+pericardium (in constrictive pericarditis).
+Veins references
+1. Sinisalo J, Rapola J, Rossinen J, Kupari M: Simplifying the estimation of jugular venous
+pressure. Am J Cardiol 100(12):1779–1781, 2007. doi:10.1016/j.amjcard.2007.07.030
+2. Devine PJ, Sullenberger LE, Bellin DA, Atwood JE: Jugular venous pulse: window into the right
+heart. South Med J 100(10):1022–1004, 2007. doi:10.1097/SMJ.0b013e318073c89c
+Chest Inspection and Palpation
+Chest contour and any visible cardiac impulses are inspected. The precordium is palpated for pulsations
+(determining apical impulse and thus cardiac situs) and thrills.
+Inspection
+Chest wall deformities may occur in a number of disorders.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 8/14
+--- Страница 9 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+Pectus carinatum (a prominent birdlike sternum) may be associated with Marfan syndrome (which
+may be accompanied by aortic root or mitral valve disease) or Noonan syndrome (which may be
+accompanied by pulmonic stenosis, atrial septal defects, or hypertrophic cardiomyopathy). Rarely, a
+localized upper chest bulge indicates aortic aneurysm due to syphilis.
+Pectus excavatum (depressed sternum) with a narrow anteroposterior chest diameter and an
+abnormally straight thoracic spine may be associated with hereditary disorders involving congenital
+cardiac defects (eg, Turner syndrome, Noonan syndrome) and sometimes Marfan syndrome.
+Pectus Excavatum and Pectus Carinatum
+IMAGE
+DR P. MARAZZI / SCIENCE PHOTO LIBRARY
+Shield chest is a broad chest with widely spaced nipples, often associated with Turner syndrome.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 9/14
+--- Страница 10 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+"Shield" Chest in Turner Syndrome
+IMAGE
+BY PERMISSION OF THE PUBLISHER. FROM SHULMAN D, BERCU B: ATLAS OF CLINICAL
+ENDOCRINOLOGY: NEUROENDOCRINOLOGY AND PITUITARY DISEASE. EDITED BY S KORENMAN
+(SERIES EDITOR) AND ME MOLITCH. PHILADELPHIA, CURRENT MEDICINE, 2000.
+Palpation
+The patient lays at approximately a 30 to 45° angle. Approaching the patient from the right side, the
+clinician systematically palpates the precordium.
+The apical impulse in healthy individuals should be palpable between the fourth and fifth intercostal
+space just medial to the midclavicular line and cover an area < 2 to 3 cm in diameter.
+A central precordial heave, also called a parasternal heave or lift, is a palpable lifting sensation under
+the sternum and anterior chest wall to the left of the sternum; it suggests significant right ventricular
+hypertrophy or dilation. Occasionally, in congenital disorders that cause severe RV hypertrophy, the
+precordium visibly bulges asymmetrically to the left of the sternum.
+A sustained thrust at the apex (easily differentiated from the less focal, somewhat diffuse precordial
+heave of RV hypertrophy) suggests LV hypertrophy.
+Abnormal focal systolic impulses in the precordium can sometimes be felt in patients with a dyskinetic
+ventricular aneurysm. An abnormal diffuse systolic impulse lifts the precordium in patients with severe
+mitral regurgitation. The lift occurs because the left atrium expands, causing anterior cardiac
+displacement. A diffuse and inferolaterally displaced apical impulse is found when the LV is dilated and
+hypertrophied (eg, in mitral regurgitation).
+Thrills are a palpable buzzing sensation present with particularly loud murmurs. Their location suggests
+the cause (see table Location of Thrills and Associated Disorder).
+TABLE
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 10/14
+--- Страница 11 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+Location of Thrills and Associated Disorder
+Location of Thrill Associated Disorder
+Over the base of the heart at the second
+intercostal space, just to the right of the Aortic stenosis
+sternum, during systole
+At the apex during systole Mitral regurgitation
+To the left of the sternum at the second
+Pulmonic stenosis
+intercostal space
+To the left of the sternum at the fourth Small muscular ventricular septal defect
+intercostal space (Roger disease)
+A sharp impulse at the second intercostal space to the left of the sternum may result from exaggerated
+pulmonic valve closure in pulmonary hypertension. A similar early systolic impulse at the cardiac apex
+may represent closure of a stenotic mitral valve; opening of the stenotic valve sometimes can be felt at
+the beginning of diastole. These findings coincide with an augmented first heart sound (S1) and an
+opening snap of mitral stenosis, heard on auscultation.
+Lung Examination
+The lungs are examined for signs of pleural effusion and pulmonary edema, which may occur with
+cardiac disease such as heart failure. The lung examination includes percussion, palpation, and
+auscultation (1).
+Percussion is the primary physical maneuver used to detect the presence and level of pleural effusion.
+Finding areas of dullness during percussion signifies underlying fluid or, less commonly, consolidation.
+Palpation includes tactile fremitus (vibration of the chest wall felt while a patient is speaking); fremitus
+is decreased in pleural effusion and pneumothorax and increased in pulmonary consolidation (eg, lobar
+pneumonias).
+Auscultation of the lungs is an important component of the examination of patients with suspected
+cardiac disease.
+The character and volume of breath sounds are useful in differentiating cardiac from pulmonary
+disorders. Adventitious sounds are abnormal sounds, such as crackles, rhonchi, wheezes, and stridor.
+Crackles (previously called rales) and wheezes are abnormal lung sounds that may occur in heart failure
+as well as non-cardiac diseases.
+Crackles are discontinuous adventitious breath sounds. Fine crackles are short high-
+pitched sounds; coarse crackles are longer-lasting low-pitched sounds. Crackles have been
+compared to the sound of crinkling plastic wrap and can be simulated by rubbing strands of
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 11/14
+--- Страница 12 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+hair together between 2 fingers near one’s ear. They occur most commonly with atelectasis,
+alveolar filling processes (eg, pulmonary edema in heart failure), and interstitial lung
+disease (eg, pulmonary fibrosis); they signify opening of collapsed airways or alveoli.
+Wheezes are whistling, musical breath sounds that are worse during expiration than
+inspiration. Wheezing can be a physical finding or a symptom and is usually associated with
+dyspnea. Wheezes occur most commonly with asthma but can also occur in cardiac disease
+such as heart failure, or when posterior structures such as the left atrium or pulmonary
+artery branches become dilated and compress the airways.
+AUDIO
+Crackles
+AUDIO
+Wheezing
+Lung examination reference
+1. Mootz WC, Matuschak GM: Chapter 14. Conduct and Interpretation of the Basic Chest
+Examination. In Lechner AJ, Matuschak GM, Brink DS (eds): Respiratory: An Integrated Approach to
+Disease. New York, McGraw-Hill, 2012.
+Abdominal and Extremity Examination
+The abdomen and extremities are examined for signs of fluid overload, which may occur with heart
+failure as well as noncardiac disorders (eg, renal, hepatic, lymphatic).
+Abdomen
+In the abdomen, significant fluid overload manifests as ascites. Marked ascites causes visible abdominal
+distention, which is tense and nontender to palpation, with shifting dullness on abdominal percussion
+and a fluid wave. The liver may be distended and slightly tender, with a hepatojugular reflux present.
+Extremities
+In the extremities (primarily the legs), fluid overload is manifest as edema, which is swelling of soft
+tissues due to increased interstitial fluid. Edema may be visible on inspection, but modest amounts of
+edema in patients who are very obese or muscular may be difficult to recognize visually. Thus,
+extremities are palpated for presence and degree of pitting (visible and palpable depressions caused by
+pressure from the examiner’s fingers, which displaces the interstitial fluid). The area of edema is
+examined for extent, symmetry (ie, comparing both extremities), warmth, erythema, and tenderness.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 12/14
+--- Страница 13 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+With significant fluid overload, edema may also be present over the sacrum, genitals, or both. Pitting
+edema is graded on a scale of 1 to 4, but there is no agreed-upon definition for these grades.
+Tenderness, erythema, or both, particularly when unilateral, suggests an inflammatory cause (eg,
+cellulitis or thrombophlebitis). Nonpitting edema is more suggestive of lymphatic or vascular
+obstruction than fluid overload.
+Point-of-Care Ultrasound (POCUS)
+(See also Echocardiography.)
+Cardiac point-of-care ultrasound (POCUS), also called focused cardiac ultrasound (FoCUS), is a
+complement to the physical examination that uses small, inexpensive, portable ultrasound devices
+operated by the treating clinician at the bedside. Both 2-dimensional and color Doppler techniques can
+be used. A brief, focused ultrasound examination can improve detection of various cardiac anomalies
+and confirm findings from physical examination or sometimes make a diagnosis in the absence of
+physical findings. Common uses include identification of (1, 2, 3):
+Left ventricular systolic dysfunction (with global or regional wall motion abnormality)
+Left ventricular regional wall motion abnormality (with reduced or normal systolic function)
+Elevated left heart filling pressures (enlarged left atrium)
+Valvular abnormalities
+Pulmonary edema (vertical B-lines in the lung fields)
+Pleural effusion
+Systemic venous congestion (dilated inferior vena cava)
+Pericardial effusion and cardiac tamponade
+Adequate training in doing brief ultrasound examinations is essential to ensure high image quality and
+accurate interpretation (2). Importantly, POCUS should be used to augment rather than replace the
+physical examination; neither does it replace complete echocardiography when that is indicated.
+Point-of-care ultrasound references
+1. Kimura BJ: Point-of-care cardiac ultrasound techniques in the physical examination: better at the
+bedside. Heart 103:987–994, 2017. doi: 10.1136/heartjnl-2016-309915
+2. Spencer KT, Kimura BJ, Korcarz CE, et al: Focused Cardiac Ultrasound: Recommendations from
+the American Society of Echocardiography. J Am Soc Echocardiogr 26:567–581, 2013. doi:
+10.1016/j.echo.2013.04.001
+3. Kirkpatrick JN, Panebianco N, Díaz-Gómez JL, et al: Recommendations for Cardiac Point-of-Care
+Ultrasound Nomenclature. J Am Soc Echocardiogr July 11:S0894-7317(24)00222-0, 2024
+doi:10.1016/j.echo.2024.05.001
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 13/14
+--- Страница 14 ---
+22/01/2026, 13:47 Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+https://www.merckmanuals.com/professional/cardiovascular-disorders/approach-to-the-cardiac-patient/cardiovascular-examination#Vital-Signs_v928695 14/14

@@ -1,0 +1,72 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Normal Tracing - ECGpedia.html",
+  "converted_date": "2026-01-31T14:51:23.095209",
+  "file_size_bytes": 139559,
+  "original_format": "html",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Normal Tracing - ECGpedia.html"
+}
+
+=== СОДЕРЖАНИЕ ===
+Normal Tracing - ECGpedia
+Normal Tracing
+From ECGpedia
+(Redirected from Normal tracing)
+Jump to navigation
+Jump to search
+Author(s)
+J.S.S.G. de Jong
+Moderator
+T.T. Keller
+Supervisor
+some notes about authorship
+A normal ECG
+Characteristics of a normal ECG
+Rhythm: sinus
+Rate: 60-100 bpm
+Conduction:
+PQ interval 120-200ms
+QRS width 60-100ms
+QTc interval 390-450ms (use the QTc calculator for this)
+Heart axis: between -30 and +90 degrees
+P wave morphology:
+The maximal height of the P wave is 2.5 mm in leads II and / or III
+The p wave is positive in II and AVF, and biphasic in V1
+The p wave duration is usually shorter than 0.12 seconds
+QRS morphology:
+No pathological Q waves
+No left or right ventricular hypertrophy
+No microvoltage
+Normal R wave propagation. (R waves increase in amplitude from V1-V5)
+ST morphology
+No ST elevation or depression
+T waves should be concordant with the QRS complex
+The ECG should not have changed from the previous ECG
+Retrieved from "https://en.ecgpedia.org/index.php?title=Normal_Tracing&oldid=13889"
+Navigation menu
+Personal tools
+Log in
+Namespaces
+PageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main PageFrequently Asked QuestionsDisclaimersContactBenefactorsHow to improve this website
+The ECG course
+IntroductionBasicsRhythmRateConduction (PQ,QRS,QT)Heart axisP wave morphologyQRS morphologyST morphology
+The ECG textbook
+Normal tracingTechnical ProblemsSinus rhythmsArrhythmias:- supraventricular- junctional- ventricular- genetic- ectopic beatsAV ConductionIntraventricular ConductionMyocardial InfarctionQRS axis and voltageChamber HypertrophyRepolarizationClinical DisordersElectrolyte DisordersPacemaker
+Cases and Examples
+Cases and ExamplesGuess the CulpritRhythm Puzzles
+Tools
+What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage informationCite this page
+This page was last edited on 13 December 2011, at 23:17.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+Privacy policy
+About ECGpedia
+Disclaimers

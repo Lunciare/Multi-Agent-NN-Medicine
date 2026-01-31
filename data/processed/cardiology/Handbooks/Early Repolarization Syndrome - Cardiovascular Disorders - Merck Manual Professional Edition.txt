@@ -1,0 +1,119 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Early Repolarization Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:22.335869",
+  "file_size_bytes": 174348,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Early Repolarization Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:40 Early Repolarization Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Early Repolarization Syndrome
+By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Jun 2024 | Modified Aug 2024
+Early repolarization syndrome is a genetic disorder of cardiomyocyte ion
+channel function (channelopathy). Patients are predisposed to polymorphic
+ventricular tachycardia (VT) and ventricular fibrillation (VF). Diagnosis is by ECG.
+Some patients require an implantable cardioverter defibrillator (ICD).
+(See also Overview of Arrhythmias and Overview of Channelopathies.)
+Early repolarization refers to ECG findings typically including J-point elevation ≥ 0.1 mV, often with a
+slurred or notched terminal QRS complex, followed by ST-segment elevation in ≥ 2 contiguous leads
+other than V1 to V3. This ECG pattern is not uncommon, as it occurs in about 5% to 10% of the
+population (1, 2, 3), especially in males, younger patients, and athletes. Most people with this early
+repolarization ECG pattern do not manifest arrhythmias. However, early repolarization is substantially
+more common in survivors of apparently idiopathic ventricular fibrillation (VF) (1, 2, 3). Early
+repolarization syndrome refers to people with early repolarization in inferior or lateral leads (predicting
+higher risk of arrhythmias) on ECG who also have had symptomatic ventricular arrhythmias (4).
+Early repolarization syndrome appears to result from mutations that produce a
+Gain of function of outward potassium current channels OR
+Loss of function of inward sodium or calcium current channels
+These ion channel changes magnify the normal small transmural voltage gradients during the plateau
+phase of the action potential. These gradients produce a J-wave and J-point elevation on the ECG and
+predispose to polymorphic ventricular tachycardia which can degenerate into ventricular fibrillation in
+the absence of other causes of early repolarization (eg, hyperthermia or hypothermia, hypocalcemia,
+hyperkalemia). The ECG changes are similar to those of the Brugada syndrome but appear in the
+inferior or lateral leads in the early repolarization syndrome rather than in the right precordial leads of
+the Brugada syndrome. This and other similarities has led to Brugada syndrome and early
+repolarization syndrome being grouped as J-wave syndromes (4). Prior to the VT/VF, the early
+repolarization pattern may become more exaggerated and the VT/VF may be precipitated by an episode
+of myocardial ischemia. -
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/early-repolarization-syndrome 1/3
+--- Страница 2 ---
+22/01/2026, 14:40 Early Repolarization Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+Early repolarization syndrome appears to be inheritable, but disease-specific gene mutations are rarely
+identified, suggesting that the disorder is often polygenic.
+The ventricular arrhythmias may cause palpitations and/or cardiac arrest. Syncope may occur but is
+uncommon because VT that occurs with early repolarization syndrome rarely self-terminates (unlike
+with some other disorders that cause VT in which syncope is more common).
+General references
+1. Haïssaguerre M, Derval N, Sacher F, et al: Sudden cardiac arrest associated with early
+repolarization. N Engl J Med 358(19):2016–2023, 2008. doi: 10.1056/NEJMoa071968
+2. Rosso R, Kogan E, Belhassen B, et al: J-point elevation in survivors of primary ventricular
+fibrillation and matched control subjects: incidence and clinical significance. J Am Coll Cardiol
+52(15):1231–1238, 2008. doi: 10.1016/j.jacc.2008.07.010
+3. Tikkanen JT, Anttonen O, Junttila MJ, et al: Long-term outcome associated with early
+repolarization on electrocardiography. N Engl J Med 361(26):2529–2537, 2009. doi:
+10.1056/NEJMoa0907589
+4. Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference
+report: Emerging concepts and gaps in knowledge. Heart Rhythm 13(10):e295–324, 2016. doi:
+10.1016/j.hrthm.2016.05.024
+Diagnosis of Early Repolarization Syndrome
+Characteristic clinical and ECG manifestations
+Clinical screening of first-degree family members
+Diagnosis should be considered in patients who have had polymorphic ventricular tachycardia,
+ventricular fibrillation, or sudden cardiac arrest (or a family history of those events) in the absence of
+structural heart disease and who also have ECG changes showing an inferior and/or lateral early
+repolarization pattern. The typical ECG finding of early repolarization is J-point elevation of ≥ 1 mm (≥ 0.1
+mV) followed by ST segment elevation in ≥ 2 contiguous inferior and/or lateral leads. A probabilistic
+diagnosis scoring system (the Shanghai Early Repolarization Syndrome Score System) for the early
+repolarization syndrome has been proposed (1).
+Because specific gene defects are seldom identified, genetic testing is not typically recommended for
+patients or family members. However, first-degree family members should be evaluated clinically and
+with an ECG.
+Diagnosis reference
+1. Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference
+report: Emerging concepts and gaps in knowledge. Heart Rhythm 13(10):e295–324, 2016. doi:
+10.1016/j.hrthm.2016.05.024
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/early-repolarization-syndrome 2/3
+--- Страница 3 ---
+22/01/2026, 14:40 Early Repolarization Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+Treatment of Early Repolarization Syndrome
+Implantable cardioverter-defibrillator (ICD) if symptomatic
+For patients who are asymptomaticbut have the early repolarization ECG pattern and no family
+history of sudden death, no treatment is recommended because such patients are at very low risk.
+Patients who have had cardiac arrest or who have demonstrated VF or polymorphic VT are at high
+risk and have a class I indication for an ICD (1). An ICD may be considered for certain patients with the
+early repolarization ECG pattern and certain other high-risk features (2).
+When frequent ICD discharges need to be suppressed, quinidine, which blocks the outward potassium
+current that may be increased in early repolarization syndrome, may be efficacious. IV isoproterenol
+may be useful in patients who have multiple episodes of ventricular arrhythmias in quick succession
+(electrical storm).
+Treatment references
+1. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management
+of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of
+the American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. Circulation 138(13):e272–e391, 2018. doi:
+10.1161/CIR.0000000000000549
+2. Priori SG, Wilde AA, Horie M, et al: HRS/EHRA/APHRS expert consensus statement on the
+diagnosis and management of patients with inherited primary arrhythmia syndromes: document
+endorsed by HRS, EHRA, and APHRS in May 2013 and by ACCF, AHA, PACES, and AEPC in June 2013.
+Heart Rhythm 10:1932–1963, 2013. doi: 10.1016/j.hrthm.2013.05.014
+Key Points
+Early repolarization syndrome is genetic and predisposes to polymorphic ventricular
+tachycardia (VT), ventricular fibrillation (VF), and sudden death.
+Consider the diagnosis in patients who have had unexplained polymorphic ventricular
+tachycardia, ventricular fibrillation, or sudden cardiac arrest and early repolarization in the
+inferior or lateral leads on ECG.
+Place an ICD in patients who have had cardiac arrest, ventricular fibrillation, or polymorphic
+ventricular tachycardia.
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/early-repolarization-syndrome 3/3

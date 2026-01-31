@@ -1,0 +1,537 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "What is this rhythm_ And what should we do about it_ - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:38:07.767661",
+  "file_size_bytes": 15495048,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/What is this rhythm_ And what should we do about it_ - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  What is this rhythm? And what should we do about it?
+Hans Helseth onApril 30, 2025
+What is this rhythm? And
+what should we do about it?
+This was written by Hans Helseth, with Ken Grauer, and a bit of help
+from Smith
+Without any patient information, how might you interpret this rhythm?
+ 
+This is a supraventricular rhythm. There is a regular narrow
+complex tachycardia at a rate of 118 BPM with a normal axis.
+Below is a lengthy discussion of the diagnosis of this rhythm. But
+we in Emergency Medicine donʼt always need to know the
+diagnosis, just what to do. For that see the very end of the
+discussion.
+Atrial activity may not be immediately apparent, but close attention
+the inferior leads reveals negative P waves hidden within the ST
+segments. In V1, small high frequency upright P waves are also
+visible. We can surmise that these are P waves, and not part of the
+ST-T complex, because of their high frequency. T waves usually
+have smoother ascents and descents, while P waves have a shorter
+duration and appear “sharper” on the EKG.
+
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 1/15
+--- Страница 2 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+The negativity of the P waves in inferior leads suggests that the
+atria are being depolarized by a wavefront moving towards the base
+of the heart (from inferior to superior; ironically, the “base” of the
+heart is the superior portion!). This can only happen in a low atrial
+rhythm or through retrograde conduction from the ventricles through
+the AV node or an accessory pathway. The interval between the QRS
+complex and the negative P wave, called the RP interval, is roughly
+120 ms.
+This rhythm is a short RP tachycardia. The diagnostic differential
+includes:
+Low atrial tachycardia
+Junctional Tachycardia
+Orthodromic atrioventricular reciprocating tachycardia (AVRT)
+Slow-fast AV nodal reentrant tachycardia (AVNRT)
+Low atrial tachycardia with a long first-degree AV block is a
+possible explanation for this tachycardia. An automatic or reentrant
+atrial focus close to the AV node may be firing at a rate of 118 BPM
+and meeting a very slow AV node with a PR interval of about 360 ms.
+An automatic tachycardic focus at the AV junction could also cause
+this EKG pattern. A junctional tachycardia sends an impulse from the
+AV node or his bundle simultaneously to the atria in a retrograde
+fashion (causing the P waves in inferior leads to be negative) and to
+the ventricles through the bundle branches.
+Orthodromic AVRT is another cause of short RP tachycardia. This is
+an accessory pathway-dependent reentrant arrhythmia in which a
+depolarization wavefront passes down into the ventricles via the AV
+node and his-purkinje system. The wavefront then travels back into
+the atria via the accessory pathway and the reentrant circuit
+continues.
+A fourth explanation is AVNRT. Some patients are born with “dual
+AV nodal physiology” meaning that the AV node can excite the
+ventricles via a slow pathway and a fast pathway. The slow pathway
+conducts depolarization wavefronts slowly and has a short refractory
+period, while the fast pathway conducts depolarization wavefronts
+quickly but has a long refractory period. The pathways are connected
+proximally and distally. The most common clinical manifestation of
+dual AV nodal physiology is slow-fast AVNRT, often simply referred to
+as SVT or PSVT:
+During sinus rhythm, the fast pathway excites the ventricles
+and the slow pathway meets the fast pathway during its
+refractory period (Figure 1, Panel A).
+If a depolarization wavefront (typically from a premature
+extrasystole) reaches the AV node at a time where the fast
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 2/15
+--- Страница 3 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+pathway is refractory and the slow pathway is not, it travels
+down the slow pathway alone (Figure 1, Panel B).
+The depolarization wavefront then meets the fast pathway,
+which has now recovered from its refractory period, at the
+distal connection. The arrival of the depolarization wavefront at
+this junction sends one wavefront to the ventricles through the
+his-purkinje system and one wavefront towards the atria in a
+retrograde fashion via the fast pathway (Figure 1, Panel C).
+When this wavefront reaches the slow pathway at the proximal
+junction, if the slow pathway has recovered from its refractory
+period, it activates the atria retrogradely and the slow pathway
+is once again able to propagate the impulse towards the
+ventricles, creating a cycle of reentry at the AV node (Figure 1,
+Panel D).
+Figure 1: Initiation and propagation of “slow-fast” AVNRT, which was
+formerly called “PSVT”. (With permission from Grauer K, Cavallaro D:
+ACLS [3rd Edition – 1993]).
+This is called “slow-fast” AVNRT because the antegrade limb is the
+slow pathway and the retrograde limb is the fast pathway. “Fast-
+slow” AVNRT is also possible, but it is much less common. Fast-slow
+AVNRT is a “long RP” tachycardia, meaning that it manifests with a
+negative P wave right before the QRS complex as opposed to right
+after, so we can rule out fast-slow AVNRT as an explanation for this
+rhythm.
+_________________________________________________
+Dr. Smith sent this EKG into a group chat with no patient
+information. My immediate response was “AVNRT”. This was the first
+rhythm that came to my mind because it is the most common of the
+four listed above. Dr. Smith considered AVNRT, but also considered
+junctional tachycardia. He mentioned that the rate is quite slow for
+AVNRT.
+Normally AVNRT has a rate of around 150+ BPM. However, patients
+with a slow pathway that conducts extremely slowly can have lower
+rates with AVNRT. 118 BPM is slow for AVNRT, but it is not unheard of.
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 3/15
+--- Страница 4 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+Here is an example I saw recently of AVNRT confirmed by EP study at
+just 99 BPM:
+Here is a case series of AVNRT under 110 BPM:
+A case series of very slow atrioventricular nodal
+reentrant tachycardia resembling junctional
+tachycardia
+Still, junctional tachycardia, while rarer in adults, is more likely to
+present with a rate of 118 BPM. Read more about junctional
+tachycardia in adults:
+Clinical and electrophysiologic characterization of automatic junctional
+tachycardia in adults
+Dr. Grauer, below, favors orthodromic AVRT as the rhythm
+depicted by todayʼs tracing. He cites the relatively longer RP interval
+as indicative of AVRT. In 1979, Benditt et al. studied 65 patients with
+AVRT and found that none had RP intervals of 70 ms or less during
+SVT. Patients with AVNRT had shorter RP intervals on average with
+values above and below 70 ms. Read here:
+Ventriculoatrial Intervals: Diagnostic Use in
+Paroxysmal Supraventricular Tachycardia
+See Dr. Grauerʼs comment below for his full analysis of todayʼs
+rhythm and extra input on junctional tachycardia.
+Is it possible to know this rhythm with absolute certainty? No. But
+there are things to consider in trying to rule in or out different
+arrhythmia types:
+How does the rhythm start? Reentrant rhythms like AVNRT,
+AVRT, and some atrial tachycardias are usually initiated by a
+premature extrasystole. Automatic rhythms like some atrial
+tachycardias and junctional tachycardia usually begin with a
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 4/15
+--- Страница 5 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+“warm-up” period, wherein the automatic focus speeds up to a
+sustained rate rather than starting suddenly at full speed.
+How does the rhythm behave? Rate variability and slight
+irregularity is a sign of an automatic rhythm. Reentrant rhythms
+tend to be regular and do not change much with rate. Episodes
+of automatic rhythms may terminate quickly, whereas reentrant
+rhythms are usually more permanent once theyʼre initiated.
+How does the rhythm terminate? In order for a reentrant
+rhythm to terminate, the circuit through which it propagates
+needs to be interrupted. Many times, this happens when a
+premature beat enters the excitable gap (the part of the
+reentrant circuit with excitable tissue immediately before the
+head of the depolarization wavefront). This causes two
+depolarization wavefronts to collide, which terminates the
+rhythm. Automatic rhythms more often slow down or stop
+abruptly, allowing the sinus node to regain control of the heart.
+Who is the patient? Junctional tachycardia is more common in
+young children. Adults very rarely have this arrhythmia. AVRT
+and AVNRT can happen in both adults and children, so patient
+history is very important. Does the patient have a known history
+of WPW syndrome or known dual AV nodal physiology? Atrial
+tachycardia is more common in “sicker” patients and is usually
+concomitant with another non-cardiac pathology (sepsis,
+respiratory distress, etc.).
+How to manage? –Try adenosine.
+In managing a patient with the above EKG, adenosine administration
+can be a useful diagnostic-therapeutic maneuver.
+Usually, patients with AVRT and AVNRT will convert to sinus rhythm
+after adenosine administration.
+Patients with an automatic atrial tachycardia will show P waves with
+no ventricular response for a brief period after adenosine
+administration. These patients will not convert to sinus rhythm, and
+usually require management of an underlying pathology to correct
+their arrhythmia.
+Some atrial tachycardias respond to adenosine. If it does, then you
+will think that you treated AVNRT or AVRT. But this is rare.
+Junctional Tachycardia is also an automatic rhythm and will not
+terminate with adenosine. If there is no termination, one should
+provisionally diagnose this very rare adult problem and look for the
+underlying condition that is causing it and treat than (myocarditis,
+infections, medications, drugs, electrolytes, etc.)
+===================================
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 5/15
+--- Страница 6 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+MY Comment, by KEN GRAUER, MD (4/30/2025):
+===================================
+Today’s case is what I call, “A WhoDunnit?”. By this, I mean that the 1st
+question addressed by Hans Helseth and Dr. Smith on seeing the ECG
+that I’ve reproduced in Figure-1 — was to determine the likely etiology of
+the rhythm (ie, Who dunnit?) — with the implication that assessment and
+treatment of the patient may differ depending on the answer.
+Hans favored AVNRT
+(AtrioVentricular Nodal Reentrant Tachycardia).
+Dr. Smith questioned the diagnosis of AVNRT because of a
+relatively slower rate than is usually seen with AVNRT (with the
+usual rate range cited for AVNRT being between 140-280/minute).
+As a result — Dr. Smith considered JT (Junctional Tachycardia).
+QUESTION:
+How would you describe the rhythm in Figure-1?
+— HINT: Do you see signs of atrial activity?
+Figure-1: I’ve reproduced the ECG debated on by Hans Helseth and
+Dr. Smith.
+ANSWER:
+As always — I favor the Ps, Qs, 3R Approach, as the most time-
+efficient way to assess arrhythmias (See My Comment in the January 26,
+2023 post for more on the Ps,Qs,3Rs). Applying this system to the rhythm
+in Figure-1:
+Sinus P waves are not present (because there is no upright P wave
+in lead II ). That said — atrial activity is present, in the form
+of retrograde P waves (See colored arrows in Figure-2).
+The QRS complex is narrow (because the QRS is not more than
+half a large box in any of the 12 leads = a QRS ≤0.10 second).
+The rhythm is Regular — at a ventricular Rate of ~115/minute.
+The 3rd R relates to the question of whether atrial activity is (or is
+not) Related to neighboring QRS complexes.
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 6/15
+--- Страница 7 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+As I note just above — retrograde P waves are present.
+We know this — because retrograde P waves are negative in the
+inferior leads (BLUE arrows in Figure-2) — and they are positive in
+leads aVR, aVL and in lead V1 (PINK arrows in Figure-2).
+And, these retrograde P waves are Related to the QRS complex
+that precedes them with a constant RP’ interval (ie, the distance
+from the preceding R wave to each retrograde P wave is constant).
+My Description of the Rhythm in Figure-1:
+By the Ps,Qs,3R Approach — We’ve described the rhythm in Figure-1 as
+a regular SVT rhythm at ~115/minute without sinus P waves. Instead
+— there is 1:1 retrograde conduction with constant RP’ interval. This
+description suggests the following differential diagnosis:
+A reentry SVT rhythm (either AVNRT or orthodromic AVRT).
+JT (Junctional Tachycardia).
+NOTE: I review in detail in My Comment at the bottom of the page in
+the March 6, 2020 post of Dr. Smith’s ECG Blog “My Take” on the ECG
+diagnosis of regular SVT rhythms (including assessment of the relative
+length of the RP’ interval). “Armed” with the material in My Comment in
+that March 6, 2020 post — I was able to quickly narrow down my
+differential diagnosis of the rhythm in Figure-1 as follows:
+Sinus tachycardia is ruled out by lack of an upright, conducting P
+wave in lead II.
+AFlutter is ruled out because the heart rate of ~115/minute is
+significantly slower than would be expected for untreated 2:1
+AFlutter (that typically manifests a ventricular rate close to
+~150/minute [~135-170/minute range] ) — and — there is no sign of
+2:1 AV conduction, as would be expected with AFlutter.
+While not impossible — sustained 1:1 ATach is an uncommon
+rhythm, that would seem less likely to produce negative P waves in
+the inferior leads with such a long PR interval.
+The usual slow-fast form of AVNRT generally does not manifest
+the moderately long RP’ interval that we see in Figure-2 (in which
+retrograde P waves are seen to occur past the mid-point of the ST
+segment). Instead — retrograde P waves with AVNRT are typically
+either hidden within the QRS complex or occur immediately after the
+QRS, simulating a pseudo-S wave in the inferior leads.
+Junctional Tachycardia (JT ) — is very uncommon in adults (See
+below). When JT does occur in adults — in those rare instances in
+which it manifests retrograde P waves seen after the QRS, the RP’
+interval will almost always be shorter than that seen in Figure-
+2 (ie, with an RP’ interval seen immediately after the QRS — and
+not past the middle of the ST segment).
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 7/15
+--- Страница 8 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+Bottom Line: The above considerations left me
+with orthodromic AVRT as the most likely etiology for the rhythm
+in Figure-2 (ie, with the reason for the longer RP’ interval with
+orthodromic AVRT being the longer distance reentry impulses must
+travel to complete a reentry circuit that includes the AP
+[Accessory Pathway], which is located outside of the AV node).
+But What About the Relatively Slow Rate of this Regular SVT?
+As per Dr. Smith — the rate of the regular SVT rhythm in Figure-2 is
+only ~115/minute — whereas the usually cited range for AVNRT
+is between 140-280/minute (Hafeez & Armstrong — StatPearls, 2023).
+While true that AVNRT usually manifests a significantly faster rate
+than 115/minute — there are exceptions in which AVNRT may
+manifest rates even below the 115/minute of today’s case (Higuchi,
+Scheinman et al — J Cardiovasc Electrophys 33(6): 1177-1182,
+2022).
+As in today’s case — when the rate of AVNRT is significantly slower
+than usual for this reentry SVT rhythm — the rhythm may simulate
+JT.
+The mechanism that may account for AVNRT occasionally occurring
+at a slower-than-expected rate — is if conduction time over
+the slower AV nodal pathway is long, and its effective refractory
+period is short (compared to the ERP of the faster pathway).
+Figure-1: I’ve labeled the “WhoDunnit” ECG debated on by Hans
+Helseth and Dr. Smith.
+How Common is Junctional Tachycardia?
+The answer to this question is multifaceted — and more complex than one
+might think. Starting out with some Definitions:
+Sinus rhythm in adults is defined when there are sinus P waves at a
+heart rate between 60-99/minute in adults.
+The normal AV nodal “escape” rate in adults is between 40-
+60/minute (and typically between ~50-80/minute in children).
+An accelerated Junctional Rhythm in adults is defined as a
+junctional rhythm that is faster than the normal “escape”
+rate (ie, over 60/minute) — but less than 100/minute.
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 8/15
+--- Страница 9 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+JT (Junctional Tachycardia) — is defined as a junctional rhythm that
+is ≥100/minute.
+WHO Gets Junctional Tachycardia?
+True JT is generally considered to be an automatic arrhythmia that
+arises from the distal AV Node. This distinguishes JT from AVNRT and
+AVRT — which are both reentrant forms of SVT.
+Junctional Ectopic Tachycardia (JET ) — is almost exclusively
+seen in infants and children. There is both a congenital form
+(CJET) — and a post-operative form (POJET), with this latter form
+usually occurring within 72 hours after operation for correction of
+congenital heart defects — and usually being self-limited within
+several days of its onset.
+CJET is much less common than POJECT — with early recognition
+of this congenital form essential because of its high morbidity and
+mortality, as well as the difficulty with effective treatment.
+NOTE: Beyond the pediatric age — true JT is not common in
+adults (Ashraf & Goyal — StatPearls, 2023).
+The Semantics of JT vs Accelerated Junctional Rhythms:
+Up until my recent reading — I had essentially used rate (by the definitions
+that I cite above) for classification of junctional rhythms. My recent review
+of the literature (especially from Tchou et al — J Am Coll Cardiol EP 9(3):
+425-441, 2023) — suggests a different approach:
+True automatic Junctional Tachycardia (ie, JET, as above) — is
+primarily a pediatric arrhythmia.
+Most of what has previously been classified as JT in adults —
+probably was either slower-than-expected AVNRT or on rare
+occasions, infra-atrial reentrant tachycardias (ie, in which the His or
+hemibranches serve as part of the reentrant circuit).
+Rather than an automatic, paroxysmal rhythm —
+most faster junctional rhythms in adults as best thought of
+as accelerated junctional rhythms, in that they are non-
+paroxysmal, and typically the result of “something else” (ie, sepsis,
+electrolyte disturbance, acid-base disorder, or otherwise “sick
+patient” — Digoxin toxicity — post-operative state). These rhythms
+typically resolve if the “something else” can be identified and
+treated.
+While not strictly limited to heart rates of ≤100/minute —
+these faster junctional rhythms are generally not nearly as fast
+as true paroxysmal, automatic JT (ie, I still look for “something else”
+if I encounter a junctional rhythm up to ~110-120/minute — with best
+treatment often being treatment of the underlying disorder rather
+than rate-slowing medication).
+Although rare in adults — true paroxysmal JT is important to rule
+out in problematic regular SVT cases that are referred to EP
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 9/15
+--- Страница 10 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+Cardiology, because longterm treatment is different than treatment
+of AVNRT and AVRT (ie, paroxysmal JT is much less likely than
+reentry SVTs to respond to ablation — and it carries a much higher
+risk of AV block if ablation is attempted).
+================================
+Learning Points:
+The mechanism of JT is increased automaticity arising from the AV
+Node. This differs from the reentry mechanism associated with
+AVNRT and AVRT. This difference in mechanism influences
+therapeutic decision-making.
+True paroxysmal ectopic junctional tachycardia (ie, JET) — is
+essentially a pediatric rhythm. In infants and young children — JET
+may be congenital, but it most commonly occurs as a self-limited
+arrhythmia in the post-operative state following surgery for
+congenital heart disease.
+Accelerated junctional rhythms may occur in adults — but they
+are not common. Think of some underlying cause if seen — with the
+“good news” that much of the time accelerated junctional rhythms
+will resolve if their cause is identified and treated.
+Rather than artificial distinction by a rate over or under 100/minute
+between “accelerated” junctional rhythms vs junctional “tachycardia”
+— I favor the following concept: i) True paroxysmal JT in adults is
+rare (and capable EP cardiologists will identify those rare cases
+among the regular SVTs referred to them); and, ii) Almost all of
+the faster junctional rhythm cases I have seen up to rates of
+~120/minute — will be the result of “something else” — with BEST
+initial management typically consisting of trying to find and “fix”
+that something else causing this rhythm.
+Although the usual rate of reentry SVT rhythms is ≥140/minute —
+on occasional, AVNRT or AVRT may be seen with heart rates of
+110/minute or less.
+Hans Helseth onApril 30, 2025
+ATRIAL TACHYCARDIA AVNRT AV NODAL RE-ENTRANT TACHYCARDIA
+AVRT: AV RECIPROCATING TACHYCARDIA (THROUGH ACCESSORY PATHWAY)
+JUNCTIONAL TACHYCARDIA NARROW COMPLEX TACHYCARDIA
+RETROGRADE P-WAVES
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+HEART Score Zero. Do we need serial
+Computer Normal ECGs for this case of
+ECG. Troponin chest pain?
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 10/15
+--- Страница 11 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+Undetectable. Speckle
+Tracking Echo normal.
+Write a Comment
+SEARCH
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 11/15
+--- Страница 12 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 12/15
+--- Страница 13 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 13/15
+--- Страница 14 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Steve Smith onMay 2, 2025
+Do we need serial ECGs for this case of chest pain?
+From Drew Williams A 40-something patient called 911 for 30 minutes
+of left sided chest pain radiating to right arm/shoulder (Smith aside:…
+Hans Helseth onMay 4, 2025
+Chest pain. Is this EKG completely Normal? First hs
+troponin T = 32 ng/L. Management? Diagnosis?
+This was contributed by Hans Helseth (he will start medical school
+soon). With edits and additions by Smith and Grauer. A 75 year old…
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 14/15
+--- Страница 15 ---
+22/01/2026, 15:26 What is this rhythm? And what should we do about it? - Dr. Smith’s ECG Blog
+Steve Smith onMay 6, 2025
+Seizure and Tachycardia
+This was written by one of our fantastic Emergency Medicine 3rd
+year residents, Emily Ferrari: A young man presented with AMS and
+seizure like…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 15/15

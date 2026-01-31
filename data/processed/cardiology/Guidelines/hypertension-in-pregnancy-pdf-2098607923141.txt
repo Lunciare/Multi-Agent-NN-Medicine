@@ -1,0 +1,1024 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "hypertension-in-pregnancy-pdf-2098607923141.pdf",
+  "converted_date": "2026-01-31T14:49:52.343693",
+  "file_size_bytes": 208359,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/hypertension-in-pregnancy-pdf-2098607923141.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+Hypertension in pregnancy
+Quality standard
+Published: 16 July 2013
+Last updated: 23 July 2019
+www.nice.org.uk/guidance/qs35
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+--- Страница 2 ---
+Hypertension in pregnancy (QS35)
+Contents
+Quality statements ..................................................................................................................... 5
+Quality statement 1: Pre-pregnancy advice for women with treated hypertension ............ 7
+Quality statement .................................................................................................................................. 7
+Rationale ................................................................................................................................................ 7
+Quality measures ................................................................................................................................... 7
+What the quality statement means for different audiences .............................................................. 8
+Source guidance .................................................................................................................................... 8
+Definitions of terms used in this quality statement ........................................................................... 9
+Equality and diversity considerations ................................................................................................. 10
+Quality statement 2: Antenatal assessment of pre-eclampsia risk ....................................... 11
+Quality statement .................................................................................................................................. 11
+Rationale ................................................................................................................................................ 11
+Quality measures ................................................................................................................................... 11
+What the quality statement means for different audiences .............................................................. 13
+Source guidance .................................................................................................................................... 13
+Definitions of terms used in this quality statement ........................................................................... 13
+Quality statement 3: Antenatal blood pressure targets .......................................................... 16
+Quality statement .................................................................................................................................. 16
+Rationale ................................................................................................................................................ 16
+Quality measures ................................................................................................................................... 16
+What the quality statement means for different audiences .............................................................. 17
+Source guidance .................................................................................................................................... 17
+Quality statement 4: Assessing women with severe hypertension in pregnancy ............... 18
+Quality statement .................................................................................................................................. 18
+Rationale ................................................................................................................................................ 18
+Quality measures ................................................................................................................................... 18
+What the quality statement means for different audiences .............................................................. 19
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
+conditions#notice-of-rights). 42
+--- Страница 3 ---
+Hypertension in pregnancy (QS35)
+Source guidance .................................................................................................................................... 20
+Definitions of terms used in this quality statement ........................................................................... 20
+Quality statement 5: Admission to hospital for women with pre-eclampsia ........................ 22
+Quality statement .................................................................................................................................. 22
+Rationale ................................................................................................................................................ 22
+Quality measures ................................................................................................................................... 22
+What the quality statement means for different audiences .............................................................. 23
+Source guidance .................................................................................................................................... 24
+Definitions of terms used in this quality statement ........................................................................... 24
+Quality statement 6: Timing of birth for women with pre-eclampsia .................................... 27
+Quality statement .................................................................................................................................. 27
+Rationale ................................................................................................................................................ 27
+Quality measures ................................................................................................................................... 27
+What the quality statement means for different audiences .............................................................. 28
+Source guidance .................................................................................................................................... 29
+Definitions of terms used in this quality statement ........................................................................... 29
+Quality statement 7: Transfer of information about ongoing management .......................... 31
+Quality statement .................................................................................................................................. 31
+Rationale ................................................................................................................................................ 31
+Quality measures ................................................................................................................................... 31
+What the quality statement means for different audiences .............................................................. 32
+Source guidance .................................................................................................................................... 32
+Definitions of terms used in this quality statement ........................................................................... 33
+Quality statement 8: Communicating information about future risks ................................... 35
+Quality statement .................................................................................................................................. 35
+Rationale ................................................................................................................................................ 35
+Quality measures ................................................................................................................................... 35
+Source guidance .................................................................................................................................... 36
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
+conditions#notice-of-rights). 42
+--- Страница 4 ---
+Hypertension in pregnancy (QS35)
+What the quality statement means for different audiences .............................................................. 36
+Definitions of terms used in this quality statement ........................................................................... 37
+Equality and diversity considerations ................................................................................................. 38
+Update information .................................................................................................................... 39
+About this quality standard ....................................................................................................... 40
+Resource impact .................................................................................................................................... 41
+Diversity, equality and language .......................................................................................................... 41
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
+conditions#notice-of-rights). 42
+--- Страница 5 ---
+Hypertension in pregnancy (QS35)
+This standard is based on NG133 and NG201.
+This standard should be read in conjunction with QS22, QS28, QS32, QS3, QS37,
+QS15, QS46, QS60, QS105, QS135 and QS192.
+Quality statements
+Quality statement 2 updates and replaces quality statement 7: risk assessment – pre-
+eclampsia in NICE's quality standard on antenatal care.
+Statement 1 Women of childbearing potential with treated hypertension are given
+information annually about safe antihypertensive treatment during pregnancy.
+Statement 2 Pregnant women at increased risk of pre-eclampsia at the booking
+appointment are offered a prescription of 75 mg to 150 mg of aspirin to take daily from
+12 weeks until birth.
+Although this use is common in UK clinical practice, in August 2021, this was an off-label
+use of aspirin. See NICE's information on prescribing medicines.
+Statement 3 Pregnant women taking antihypertensive medication have a blood pressure
+target of 135/85 mmHg or less.
+Statement 4 Pregnant women with severe hypertension are admitted for a full assessment,
+carried out by a healthcare professional trained in managing hypertension in pregnancy.
+Statement 5 Women with pre-eclampsia who have severe hypertension or are at a high
+risk of adverse events, or if there are any clinical concerns are admitted to hospital and
+monitored.
+Statement 6 Women with pre-eclampsia have a senior obstetrician involved in any
+decisions about the timing of birth.
+Statement 7 Women who have had hypertension in pregnancy have a plan for ongoing
+antihypertensive management included in their postnatal care plan, which is
+communicated to their GP when they are transferred to community care after the birth.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
+conditions#notice-of-rights). 42
+--- Страница 6 ---
+Hypertension in pregnancy (QS35)
+Statement 8 Women who have had gestational hypertension or pre-eclampsia discuss
+future pregnancy and lifetime cardiovascular risks during a medical review at their 6 to 8
+week postnatal medical check.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
+conditions#notice-of-rights). 42
+--- Страница 7 ---
+Hypertension in pregnancy (QS35)
+Quality statement 1: Pre-pregnancy advice
+for women with treated hypertension
+Quality statement
+Women of childbearing potential with treated hypertension are given information annually
+about safe antihypertensive treatment during pregnancy.
+Rationale
+Information can be provided to women who may become pregnant about safe
+antihypertensive treatment during pregnancy as part of an annual review of hypertension
+care. Women should be informed about potential risks, including the risk of congenital
+abnormalities, linked to particular antihypertensive drugs. This should enable women to
+arrange a discussion with the healthcare professional responsible for managing their
+hypertension about alternative antihypertensive treatments if they are planning pregnancy
+or become pregnant.
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured and
+can be adapted and used flexibly.
+Structure
+Evidence of local arrangements to ensure that women of childbearing potential with
+treated hypertension are given information annually about safe antihypertensive treatment
+during pregnancy.
+Data source: Local data collection.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
+conditions#notice-of-rights). 42
+--- Страница 8 ---
+Hypertension in pregnancy (QS35)
+Process
+Proportion of women who have had treated hypertension for 12 months or longer who
+received information about safe antihypertensive treatment during pregnancy in the past
+12 months.
+Numerator – the number of women in the denominator who received information about
+safe antihypertensive treatment during pregnancy in the past 12 months.
+Denominator – the number of women of childbearing potential who have had treated
+hypertension for 12 months or longer.
+Data source: Local data collection.
+What the quality statement means for different
+audiences
+Service providers ensure that systems are in place to give women of childbearing
+potential with treated hypertension information annually about safe antihypertensive
+treatment in pregnancy.
+Healthcare professionals give information annually to women of childbearing potential
+with treated hypertension about safe antihypertensive treatment in pregnancy.
+Commissioners ensure they commission services that give information annually to women
+of childbearing potential with treated hypertension about safe antihypertensive treatment
+in pregnancy.
+Women who are having treatment for hypertension (high blood pressure) and who may
+become pregnant are given information annually about safe treatment for high blood
+pressure during pregnancy.
+Source guidance
+Hypertension in pregnancy: diagnosis and management. NICE guideline NG133 (2019),
+recommendations 1.3.2, 1.3.4 and 1.3.5
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
+conditions#notice-of-rights). 42
+--- Страница 9 ---
+Hypertension in pregnancy (QS35)
+[The 12-month timeframe is not derived from the NICE guideline on hypertension in
+pregnancy. It is considered a practical timeframe to enable stakeholders to measure
+performance]
+Definitions of terms used in this quality statement
+Safe antihypertensive treatment
+Women taking angiotensin-converting enzyme (ACE) inhibitors or angiotensin II receptor
+blockers (ARBs) should be provided with information to advise that there is an increased
+risk of congenital abnormalities if these drugs are taken during pregnancy, and discuss
+alternative antihypertensive treatment with the healthcare professional responsible for
+managing their hypertension, if they are planning pregnancy. The Medicines and
+Healthcare products Regulatory Agency (MHRA) drug safety update on ACE inhibitors and
+angiotensin II receptor antagonists: not for use in pregnancy states 'Use in women who are
+planning pregnancy should be avoided unless absolutely necessary, in which case the
+potential risks and benefits should be discussed'. If ACE inhibitors or ARBs are being taken
+for other conditions such as renal disease, alternative treatment should be discussed with
+the healthcare professional responsible for managing their condition.
+Women taking thiazide or thiazide-like diuretics should be provided with information to
+advise that: there may be an increased risk of congenital abnormality and neonatal
+complications if these drugs are taken during pregnancy, and to discuss alternative
+antihypertensive treatment with the healthcare professional responsible for managing their
+hypertension, if they are planning pregnancy.
+Women who take antihypertensive treatments other than ACE inhibitors, ARBs or thiazide
+or thiazide-like diuretics should be provided with information to advise that the limited
+evidence available has not shown an increased risk of congenital malformation with such
+treatments. [NICE's guideline on hypertension in pregnancy, recommendations 1.3.2 to
+1.3.5]
+Treated hypertension
+Hypertension that is treated with 1 or more antihypertensive drug. [Adapted from NICE's
+full guideline on hypertension in pregnancy]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
+conditions#notice-of-rights). 42
+--- Страница 10 ---
+Hypertension in pregnancy (QS35)
+Annual review
+Women with childbearing potential are given information annually about safe
+antihypertensive treatment during pregnancy. [Expert opinion]
+Equality and diversity considerations
+'Childbearing potential' should be determined for women on an individual basis. Access to
+information about safe antihypertensive treatment during pregnancy should not be
+determined solely by age, because childbearing potential is also dependent on factors
+other than age.
+Where information is provided, there must be equal access to information for all women,
+including those with additional needs, such as physical or learning disabilities, and those
+who do not speak or read English. Women receiving information should have access to an
+interpreter or advocate if needed.
+For women with additional needs related to a disability, impairment or sensory loss,
+information should be provided as set out in NHS England's Accessible Information
+Standard or the equivalent standards for the devolved nations.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
+conditions#notice-of-rights). 42
+--- Страница 11 ---
+Hypertension in pregnancy (QS35)
+Quality statement 2: Antenatal assessment
+of pre-eclampsia risk
+This quality statement updates and replaces quality statement 7: risk assessment – pre-
+eclampsia in NICE's quality standard on antenatal care.
+Quality statement
+Pregnant women at increased risk of pre-eclampsia at the booking appointment are
+offered a prescription of 75 mg to 150 mg of aspirin to take daily from 12 weeks until birth.
+Although this use is common in UK clinical practice, in August 2021, this was an off-label
+use of aspirin. See NICE's information on prescribing medicines.
+Rationale
+Aspirin prophylaxis, unless contraindicated, reduces the occurrence of pre-eclampsia,
+preterm birth and fetal and neonatal mortality in women at increased risk of developing
+the condition (if they have 1 high risk factor or more than 1 moderate risk factor for pre-
+eclampsia).
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured and
+can be adapted and used flexibly.
+Structure
+a) Evidence of local arrangements to ensure that pregnant women have their risk factors
+for pre-eclampsia identified and recorded at the booking appointment.
+Data source: Local data collection.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
+conditions#notice-of-rights). 42
+--- Страница 12 ---
+Hypertension in pregnancy (QS35)
+b) Evidence of local arrangements to ensure that pregnant women at increased risk of pre-
+eclampsia at the booking appointment are offered a prescription of 75 mg to 150 mg of
+aspirin (unless contraindicated) to take daily from 12 weeks until birth.
+Data source: Local data collection.
+Process
+a) Proportion of pregnant women who have their risk factors for pre-eclampsia identified
+and recorded at the booking appointment.
+Numerator – the number of women in the denominator whose risk factors for pre-
+eclampsia are identified and recorded.
+Denominator – the number of pregnant women attending a booking appointment.
+Data source: The Maternity Services Data Set collects data on the following risk factors at
+the booking appointment: hypertension, renal disease, diabetes, autoimmune disease and
+obstetric diagnoses from previous pregnancies including 'severe pre-eclampsia requiring
+preterm birth', 'eclampsia' and 'gestational hypertension'.
+b) Proportion of pregnant women at increased risk of pre-eclampsia at the booking
+appointment who are offered a prescription of 75 mg to 150 mg of aspirin (unless
+contraindicated) to take daily from 12 weeks until birth.
+Numerator – the number of women in the denominator offered a prescription of 75 mg to
+150 mg of aspirin to take daily from 12 weeks until birth.
+Denominator – the number of pregnant women at increased risk of pre-eclampsia and
+without contraindications to aspirin at the booking appointment.
+Data source: Local data collection.
+Outcome
+Incidence of pre-eclampsia in women at increased risk of developing pre-eclampsia.
+Data source: The Maternity Services Data Set collects data on obstetric conditions
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
+conditions#notice-of-rights). 42
+--- Страница 13 ---
+Hypertension in pregnancy (QS35)
+diagnosed in the current pregnancy, including severe pre-eclampsia, severe pre-eclampsia
+requiring preterm birth and eclampsia.
+What the quality statement means for different
+audiences
+Service providers ensure that systems are in place to offer pregnant women at increased
+risk of pre-eclampsia at the booking appointment a prescription of 75 mg to 150 mg of
+aspirin (unless contraindicated) to take daily from 12 weeks until birth.
+Healthcare professionals offer pregnant women at increased risk of pre-eclampsia at the
+booking appointment a prescription of 75 mg to 150 mg of aspirin (unless contraindicated)
+to take daily from 12 weeks until birth.
+Commissioners ensure they commission services that offer pregnant women at increased
+risk of pre-eclampsia at the booking appointment a prescription of 75 mg to 150 mg of
+aspirin (unless contraindicated) to take daily from 12 weeks until birth.
+Pregnant women who have a higher risk of developing pre-eclampsia (a pregnancy-
+related rise in blood pressure with protein in the urine that happens in some pregnancies)
+are offered a prescription of aspirin (unless this is unsuitable) to take every day from
+12 weeks of pregnancy until their baby is born.
+Source guidance
+• Antenatal care. NICE guideline NG201 (2021), recommendation 1.2.23
+• Hypertension in pregnancy: diagnosis and management. NICE guideline NG133 (2019),
+recommendations 1.1.2 and 1.1.3
+Definitions of terms used in this quality statement
+Increased risk of pre-eclampsia
+Women are at an increased risk of pre-eclampsia if they have 1 high risk factor or more
+than 1 moderate risk factor for pre-eclampsia.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
+conditions#notice-of-rights). 42
+--- Страница 14 ---
+Hypertension in pregnancy (QS35)
+High risk factors include:
+• hypertensive disease in a previous pregnancy
+• chronic kidney disease
+• autoimmune disease, such as systemic lupus erythematosus or antiphospholipid
+syndrome
+• type 1 or type 2 diabetes
+• chronic hypertension.
+Moderate risk factors include:
+• first pregnancy
+• age 40 years or older
+• pregnancy interval of more than 10 years
+• body mass index (BMI) of 35 kg/m2 or more at first visit
+• family history of pre-eclampsia
+• multi-fetal pregnancy.
+[NICE's full guideline on hypertension in pregnancy]
+Pre-eclampsia
+New hypertension (over 140 mmHg systolic or over 90 mmHg diastolic) presenting after
+20 weeks of pregnancy and the coexistence of 1 or more of the following new-onset
+conditions:
+• proteinuria (urine protein:creatinine ratio 30 mg/mmol or more, or albumin:creatinine
+ratio of 8 mg/mmol or more, or at least 1 g/litre [2+] on dipstick testing) or
+• other maternal organ dysfunction:
+－ renal insufficiency (creatinine 90 micromol/litre or more, 1.02 mg/100ml or more)
+－ liver involvement (elevated transaminases [alanine aminotransferase or aspartate
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
+conditions#notice-of-rights). 42
+--- Страница 15 ---
+Hypertension in pregnancy (QS35)
+aminotransferase over 40 IU/litre] with or without right upper quadrant or
+epigastric abdominal pain)
+－ neurological complications such as eclampsia, altered mental status, blindness,
+stroke, clonus, severe headaches or persistent visual scotomata
+－ haematological complications such as thrombocytopenia (platelet count below
+150,000/microlitre), disseminated intravascular coagulation or haemolysis
+• uteroplacental dysfunction such as fetal growth restriction, abnormal umbilical artery
+doppler waveform analysis, or stillbirth.
+[NICE's guideline on hypertension in pregnancy, terms used in this guideline]
+Booking appointment
+The first antenatal appointment. [NICE's guideline on antenatal care, recommendation
+1.2.23]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
+conditions#notice-of-rights). 42
+--- Страница 16 ---
+Hypertension in pregnancy (QS35)
+Quality statement 3: Antenatal blood
+pressure targets
+Quality statement
+Pregnant women taking antihypertensive medication have a blood pressure target of 135/
+85 mmHg or less.
+Rationale
+Antihypertensive treatment should aim to lower blood pressure from the moderate or
+severe range, while avoiding excessive reductions that may affect fetal growth.
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured and
+can be adapted and used flexibly.
+Structure
+Evidence of local arrangements to ensure that pregnant women taking antihypertensive
+medication have a blood pressure target of 135/85 mmHg or less.
+Data source:Local data collection.
+Outcome
+Rate of pregnant women with hypertension who maintain their target blood pressure
+throughout their pregnancy.
+Data source: Local data collection.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
+conditions#notice-of-rights). 42
+--- Страница 17 ---
+Hypertension in pregnancy (QS35)
+What the quality statement means for different
+audiences
+Service providers ensure that there are local arrangements to set target blood pressure
+for pregnant women taking antihypertensive medication to 135/85 mmHg or less, and to
+maintain this blood pressure throughout their pregnancy.
+Healthcare professionals set target blood pressure for pregnant women taking
+antihypertensive medication to 135/85 mmHg or less, and ensure that this blood pressure
+is maintained throughout pregnancy.
+Commissioners ensure they commission services that set target blood pressure for
+pregnant women taking antihypertensive medication to 135/85 mmHg or less, and ensure
+that this blood pressure is maintained throughout pregnancy.
+Pregnant women taking medication for hypertension (high blood pressure) have a blood
+pressure target of 135/85 mmHg or less.
+Source guidance
+Hypertension in pregnancy: diagnosis and management. NICE guideline NG133 (2019),
+recommendations 1.3.7 to 1.3.9, 1.4.3 and 1.5.5
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
+conditions#notice-of-rights). 42
+--- Страница 18 ---
+Hypertension in pregnancy (QS35)
+Quality statement 4: Assessing women
+with severe hypertension in pregnancy
+Quality statement
+Pregnant women with severe hypertension are admitted for a full assessment, carried out
+by a healthcare professional trained in managing hypertension in pregnancy.
+Rationale
+Effective and safe control of severe hypertension is the most important aspect of critical
+care management, because the main causes of maternal death and severe maternal
+morbidity (including stroke) are the consequence of poorly controlled hypertension.
+Women with severe hypertension in pregnancy should be referred from primary care or
+emergency departments as soon as possible to receive assessment from healthcare
+professionals with expertise in managing hypertensive disorders. This is essential to
+ensure early identification of pre-eclampsia and the provision of critical care where it is
+needed.
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured and
+can be adapted and used flexibly.
+Structure
+Evidence of local arrangements for pregnant women with severe hypertension to be
+admitted for a full assessment, carried out by a healthcare professional trained in
+managing hypertensive disorders in pregnancy.
+Data source: Local data collection.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
+conditions#notice-of-rights). 42
+--- Страница 19 ---
+Hypertension in pregnancy (QS35)
+Process
+Proportion of women with severe hypertension who are admitted for a full assessment,
+carried out by a healthcare professional trained in managing hypertensive disorders in
+pregnancy.
+Numerator – the number of women in the denominator who are admitted for a full
+assessment, carried out by a healthcare professional trained in managing hypertensive
+disorders in pregnancy.
+Denominator – the number of pregnant women with severe hypertension.
+Data source: Local data collection.
+Outcome
+Number of women with severe hypertension in pregnancy who have a stroke.
+Data source: Local data collection.
+What the quality statement means for different
+audiences
+Service providers ensure that there are local arrangements for pregnant women with
+severe hypertension to be admitted for a full assessment, carried out by a healthcare
+professional trained in managing hypertensive disorders in pregnancy.
+Healthcare professionals admit pregnant women with severe hypertension for a full
+assessment, carried out by a healthcare professional trained in managing hypertensive
+disorders in pregnancy.
+Commissioners ensure they commission services that admit pregnant women with severe
+hypertension for a full assessment, carried out by a healthcare professional trained in
+managing hypertensive disorders in pregnancy.
+Pregnant women with severe hypertension (high blood pressure) are admitted to hospital
+for a full assessment, carried out by a healthcare professional trained in managing high
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
+conditions#notice-of-rights). 42
+--- Страница 20 ---
+Hypertension in pregnancy (QS35)
+blood pressure and related conditions in pregnancy.
+Source guidance
+Hypertension in pregnancy: diagnosis and management. NICE guideline NG133 (2019),
+recommendations 1.4.1 and 1.4.3
+Definitions of terms used in this quality statement
+Severe hypertension
+Blood pressure over 160 mmHg systolic, or over 110 mmHg diastolic. [NICE's guideline on
+hypertension in pregnancy, terms used in this guideline]
+Full assessment
+This should include blood pressure measurements, proteinuria testing and blood tests in
+accordance with those set out for severe gestational hypertension and pre-eclampsia with
+severe hypertension in the NICE guideline on hypertension in pregnancy. [NICE's guideline
+on hypertension in pregnancy, recommendation 1.4.3, table 1]
+Hypertension in pregnancy
+This definition includes chronic hypertension (present at the booking visit or before
+20 weeks of pregnancy; this could include pre-existing hypertension), gestational
+hypertension (new hypertension presenting after 20 weeks without proteinuria) and pre-
+eclampsia (new hypertension presenting after 20 weeks of pregnancy and the coexistence
+of 1 or more of the following new-onset conditions):
+• proteinuria (urine protein:creatinine ratio 30 mg/mmol or more, or albumin:creatinine
+ratio of 8 mg/mmol or more, or at least 1 g/litre [2+] on dipstick testing) or
+• other maternal organ dysfunction:
+－ renal insufficiency (creatinine 90 micromol/litre or more, 1.02 mg/100 ml or more)
+－ liver involvement (elevated transaminases [alanine aminotransferase or aspartate
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
+conditions#notice-of-rights). 42
+--- Страница 21 ---
+Hypertension in pregnancy (QS35)
+aminotransferase over 40 IU/litre] with or without right upper quadrant or
+epigastric abdominal pain)
+－ neurological complications such as eclampsia, altered mental status, blindness,
+stroke, clonus, severe headaches or persistent visual scotomata
+－ haematological complications such as thrombocytopenia (platelet count below
+150,000/microlitre), disseminated intravascular coagulation or haemolysis
+• uteroplacental dysfunction such as fetal growth restriction, abnormal umbilical artery
+doppler waveform analysis, or stillbirth.
+[NICE's guideline on hypertension in pregnancy, terms used in this guideline]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
+conditions#notice-of-rights). 42
+--- Страница 22 ---
+Hypertension in pregnancy (QS35)
+Quality statement 5: Admission to hospital
+for women with pre-eclampsia
+Quality statement
+Women with pre-eclampsia who have severe hypertension or are at a high risk of adverse
+events, or if there are any clinical concerns, are admitted to hospital and monitored.
+Rationale
+Women with pre-eclampsia who have severe hypertension or are at a high risk of adverse
+events, or if there are any clinical concerns for the wellbeing of the woman or baby, should
+be admitted to hospital to enable their condition to be fully assessed and its progress
+monitored. High-quality care should include an integrated package of care for these
+women that includes admission and monitoring. Some women may need to stay in hospital
+until after the birth of their baby. For other women, monitoring may be possible if pre-
+eclampsia is stable and if the woman has access to monitoring services, and can be
+readmitted to hospital if her clinical condition deteriorates.
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured and
+can be adapted and used flexibly.
+Structure
+a) Evidence of local arrangements to ensure that women with pre-eclampsia who have
+severe hypertension or are at a high risk of adverse events, or if there are any clinical
+concerns, are admitted to hospital.
+Data source: Local data collection.
+b) Evidence of local arrangements for women with pre-eclampsia who have severe
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
+conditions#notice-of-rights). 42
+--- Страница 23 ---
+Hypertension in pregnancy (QS35)
+hypertension or are at a high risk of adverse events or if there are any clinical concerns, to
+receive an integrated package of care that includes monitoring of their condition.
+Data source: Local data collection.
+Process
+The proportion of women with pre-eclampsia who have severe hypertension or are at a
+high risk of adverse events, or if there are any clinical concerns, who are admitted to
+hospital and monitored.
+Numerator – the number of women in the denominator who are admitted to hospital and
+monitored.
+Denominator – the number of women with pre-eclampsia who have severe hypertension or
+are at a high risk of adverse events, or if there are any clinical concerns.
+Data source: Local data collection.
+What the quality statement means for different
+audiences
+Service providers ensure that local arrangements are in place for women with pre-
+eclampsia who have severe hypertension or are at a high risk of adverse events, or if there
+are any clinical concerns for the wellbeing of the woman or baby, to be admitted to
+hospital and for their condition to be monitored.
+Healthcare professionals admit women with pre-eclampsia who have severe hypertension
+or are at a high risk of adverse events, or if they have any clinical concerns for the
+wellbeing of the woman or baby, to hospital and monitor their condition.
+Commissioners ensure they commission services that admit women with pre-eclampsia
+who have severe hypertension or are at a high risk of adverse events, or if there are any
+clinical concerns for the wellbeing of the woman or baby, to hospital and monitor their
+condition.
+Women with pre-eclampsia (a pregnancy-related rise in blood pressure with protein in the
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
+conditions#notice-of-rights). 42
+--- Страница 24 ---
+Hypertension in pregnancy (QS35)
+urine that happens in some pregnancies) are admitted to hospital if they have very high
+blood pressure or a high risk of complications, or if their healthcare professional has
+concerns about the wellbeing of the mother or baby. The women have their condition
+monitored while in hospital and in the community if they go home before their baby is
+born.
+Source guidance
+Hypertension in pregnancy: diagnosis and management. NICE guideline NG133 (2019),
+recommendations 1.5.2 and 1.5.5
+Definitions of terms used in this quality statement
+Pre-eclampsia
+New hypertension (over 140 mmHg systolic or over 90 mmHg diastolic) presenting after
+20 weeks of pregnancy and the coexistence of 1 or more of the following new-onset
+conditions:
+• proteinuria (urine protein:creatinine ratio 30 mg/mmol or more, or albumin:creatinine
+ratio of 8 mg/mmol or more, or at least 1 g/litre [2+] on dipstick testing) or
+• other maternal organ dysfunction:
+－ renal insufficiency (creatinine 90 micromol/litre or more, 1.02 mg/100 ml or more)
+－ liver involvement (elevated transaminases [alanine aminotransferase or aspartate
+aminotransferase over 40 IU/litre] with or without right upper quadrant or
+epigastric abdominal pain)
+－ neurological complications such as eclampsia, altered mental status, blindness,
+stroke, clonus, severe headaches or persistent visual scotomata
+－ haematological complications such as thrombocytopenia (platelet count below
+150,000/microlitre), disseminated intravascular coagulation or haemolysis
+• uteroplacental dysfunction such as fetal growth restriction, abnormal umbilical artery
+doppler waveform analysis, or stillbirth.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
+conditions#notice-of-rights). 42
+--- Страница 25 ---
+Hypertension in pregnancy (QS35)
+[NICE's guideline on hypertension in pregnancy, terms used in this guideline]
+Severe hypertension
+Blood pressure over 160 mmHg systolic or over 110 mmHg diastolic. [NICE's guideline on
+hypertension in pregnancy, terms used in this guideline]
+High risk of adverse events
+High risk of adverse events suggested by the fullPIERS or PREP-S risk prediction models.
+[NICE's guideline on hypertension in pregnancy, recommendation 1.5.5, table 2]
+Clinical concerns
+Concerns for the wellbeing of the woman or baby that could include any of the following:
+• sustained systolic blood pressure of 160 mmHg or higher
+• any maternal biochemical or haematological investigations that cause concern, for
+example, a new and persistent:
+－ rise in creatinine (90 micromol/litre or more, 1 mg/100 ml or more) or
+－ rise in alanine transaminase (over 70 IU/litre, or twice upper limit of normal range)
+or
+－ fall in platelet count (under 150,000/microlitre)
+• signs of impending eclampsia
+• signs of impending pulmonary oedema
+• other signs of severe pre-eclampsia
+• suspected fetal compromise
+• any other clinical signs that cause concern.
+[NICE's guideline on hypertension in pregnancy, recommendation 1.5.2]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
+conditions#notice-of-rights). 42
+--- Страница 26 ---
+Hypertension in pregnancy (QS35)
+Admitted to hospital and monitored
+Monitoring should include blood pressure measurements, proteinuria testing, blood tests
+and fetal assessments in accordance with those set out in the NICE guideline for
+hypertension in pregnancy. [NICE's guideline on hypertension in pregnancy,
+recommendation 1.5.5, table 2]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
+conditions#notice-of-rights). 42
+--- Страница 27 ---
+Hypertension in pregnancy (QS35)
+Quality statement 6: Timing of birth for
+women with pre-eclampsia
+Quality statement
+Women with pre-eclampsia have a senior obstetrician involved in any decisions about the
+timing of birth.
+Rationale
+Some women who have pre-eclampsia with mild or moderate hypertension will progress to
+severe pre-eclampsia, which is associated with serious adverse outcomes. Because the
+progress of the condition differs between women, a senior obstetrician should be involved
+in any decisions about the timing of birth.
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured and
+can be adapted and used flexibly.
+Structure
+Evidence of local arrangements to ensure that women with pre-eclampsia have a senior
+obstetrician involved in decisions about the timing of birth.
+Data source: Local data collection.
+Process
+Proportion of women with pre-eclampsia who have given birth who had a senior
+obstetrician involved in decisions about the timing of birth.
+Numerator – the number of women in the denominator who had a senior obstetrician
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
+conditions#notice-of-rights). 42
+--- Страница 28 ---
+Hypertension in pregnancy (QS35)
+involved in decisions about the timing of birth.
+Denominator – the number of women who have given birth who had pre-eclampsia.
+Data source: Local data collection.
+Outcome
+a) Number of maternal deaths of women with pre-eclampsia.
+Data source: Local data collection. The 2019 and 2016 Confidential Enquiries into Maternal
+Deaths and Morbidity reported on deaths from pre-eclampsia and related causes.
+b) Number of fetal deaths for women with pre-eclampsia.
+Data source: Local data collection.
+c) Number of admissions of women with pre-eclampsia to intensive care units (ICU).
+Data source: Local data collection.
+d) Number of admissions of babies born to women with pre-eclampsia to neonatal
+intensive care units (NICU).
+Data source: Local data collection.
+What the quality statement means for different
+audiences
+Service providers ensure that there are local arrangements in place for women with pre-
+eclampsia to have a senior obstetrician involved in decisions about the timing of birth.
+Healthcare professionals ensure that women with pre-eclampsia have a senior
+obstetrician involved in decisions about the timing of birth.
+Commissioners ensure they commission services that assign a senior obstetrician to
+women with pre-eclampsia.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
+conditions#notice-of-rights). 42
+--- Страница 29 ---
+Hypertension in pregnancy (QS35)
+Women with pre-eclampsia (a pregnancy-related rise in blood pressure with protein in the
+urine that happens in some pregnancies) have a senior specialist (called an obstetrician)
+involved in decisions about the timing of birth.
+Source guidance
+Hypertension in pregnancy: diagnosis and management. NICE guideline NG133 (2019),
+recommendation 1.5.8
+Definitions of terms used in this quality statement
+Pre-eclampsia
+New hypertension (over 140 mmHg systolic or over 90 mmHg diastolic) presenting after
+20 weeks of pregnancy and the coexistence of 1 or more of the following new-onset
+conditions:
+• proteinuria (urine protein:creatinine ratio 30 mg/mmol or more, or albumin:creatinine
+ratio of 8 mg/mmol or more, or at least 1 g/litre [2+] on dipstick testing) or
+• other maternal organ dysfunction:
+－ renal insufficiency (creatinine 90 micromol/litre or more, 1.02 mg/100 ml or more)
+－ liver involvement (elevated transaminases [alanine aminotransferase or aspartate
+aminotransferase over 40 IU/litre] with or without right upper quadrant or
+epigastric abdominal pain)
+－ neurological complications such as eclampsia, altered mental status, blindness,
+stroke, clonus, severe headaches or persistent visual scotomata
+－ haematological complications such as thrombocytopenia (platelet count below
+150,000/microlitre), disseminated intravascular coagulation or haemolysis
+• uteroplacental dysfunction such as fetal growth restriction, abnormal umbilical artery
+doppler waveform analysis, or stillbirth.
+[NICE's guideline on hypertension in pregnancy, terms used in this guideline]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
+conditions#notice-of-rights). 42
+--- Страница 30 ---
+Hypertension in pregnancy (QS35)
+Timing of birth
+For indications for timing of birth, see NICE's guideline on hypertension in pregnancy,
+recommendations 1.5.7 to 1.5.12
+Severe pre-eclampsia
+Pre-eclampsia with severe hypertension that does not respond to treatment or is
+associated with ongoing or recurrent severe headaches, visual scotomata, nausea or
+vomiting, epigastric pain, oliguria and severe hypertension, as well as progressive
+deterioration in laboratory blood tests such as rising creatinine or liver transaminases or
+falling platelet count, or failure of fetal growth or abnormal doppler findings. [NICE's
+guideline on hypertension in pregnancy, terms used in this guideline]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
+conditions#notice-of-rights). 42
+--- Страница 31 ---
+Hypertension in pregnancy (QS35)
+Quality statement 7: Transfer of
+information about ongoing management
+Quality statement
+Women who have had hypertension in pregnancy have a plan for ongoing antihypertensive
+management included in their postnatal care plan, which is communicated to their GP
+when they are transferred to community care after the birth.
+Rationale
+There are particular risks to women who have had hypertension in pregnancy (such as the
+risk of stroke) in the immediate postnatal period. The development of an individualised
+care plan for women who have had hypertension in pregnancy before they are transferred
+to community care should support ongoing antihypertensive management and enable risks
+to be monitored and addressed, including variations in blood pressure.
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured and
+can be adapted and used flexibly.
+Structure
+Evidence of local arrangements to communicate a plan for ongoing antihypertensive
+management for women who had hypertension in pregnancy to their GP when they are
+transferred to community care after the birth.
+Data source: Local data collection.
+Process
+The proportion of women with hypertension in pregnancy for whom a plan for ongoing
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of
+conditions#notice-of-rights). 42
+--- Страница 32 ---
+Hypertension in pregnancy (QS35)
+antihypertensive management is communicated to their GP when they are transferred to
+community care after the birth.
+Numerator – the number of women in the denominator for whom a plan for ongoing
+antihypertensive management is communicated to their GP when they are transferred to
+community care after the birth.
+Denominator – the number of women who have given birth who had hypertension in
+pregnancy.
+Data source: Local data collection.
+What the quality statement means for different
+audiences
+Service providers ensure that local arrangements are in place to communicate a plan for
+ongoing antihypertensive management to GPs of women who had hypertension in
+pregnancy when they are transferred to community care after the birth.
+Healthcare professionals communicate a plan for ongoing antihypertensive management
+to GPs of women who had hypertension in pregnancy when they are transferred to
+community care after the birth.
+Commissioners ensure they commission services that communicate a plan for ongoing
+antihypertensive management to GPs of women who had hypertension in pregnancy when
+they are transferred to community care after the birth.
+Women who had hypertension (high blood pressure) in pregnancy have a plan for
+continuing management of their blood pressure, which is communicated to their GP when
+they go home after their baby is born.
+Source guidance
+Hypertension in pregnancy: diagnosis and management. NICE guideline NG133 (2019),
+recommendations 1.3.20, 1.4.14, 1.5.20 and 1.10.2
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 32 of
+conditions#notice-of-rights). 42
+--- Страница 33 ---
+Hypertension in pregnancy (QS35)
+Definitions of terms used in this quality statement
+Hypertension in pregnancy
+This definition includes chronic hypertension (present at the booking visit or before
+20 weeks of pregnancy; this could include pre-existing hypertension), gestational
+hypertension (new hypertension presenting after 20 weeks without proteinuria) and pre-
+eclampsia (new hypertension presenting after 20 weeks of pregnancy and the coexistence
+of 1 or more of the following new-onset conditions):
+• proteinuria (urine protein:creatinine ratio 30 mg/mmol or more, or albumin:creatinine
+ratio of 8 mg/mmol or more, or at least 1 g/litre [2+] on dipstick testing) or
+• other maternal organ dysfunction:
+－ renal insufficiency (creatinine 90 micromol/litre or more, 1.02 mg/100 ml or more)
+－ liver involvement (elevated transaminases [alanine aminotransferase or aspartate
+aminotransferase over 40 IU/litre] with or without right upper quadrant or
+epigastric abdominal pain)
+－ neurological complications such as eclampsia, altered mental status, blindness,
+stroke, clonus, severe headaches or persistent visual scotomata
+－ haematological complications such as thrombocytopenia (platelet count below
+150,000/microlitre), disseminated intravascular coagulation or haemolysis
+• uteroplacental dysfunction such as fetal growth restriction, abnormal umbilical artery
+doppler waveform analysis, or stillbirth.
+[NICE's guideline on hypertension in pregnancy, terms used in this guideline]
+A plan for ongoing hypertensive management
+This should include information about postpartum management, including a plan for
+ongoing management. A care plan should be written for women with gestational
+hypertension or pre-eclampsia who have given birth and are being transferred to
+community care that includes all of the following:
+• who will provide follow-up care, including medical review if needed
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 33 of
+conditions#notice-of-rights). 42
+--- Страница 34 ---
+Hypertension in pregnancy (QS35)
+• frequency of blood pressure monitoring needed
+• thresholds for reducing or stopping treatment
+• indications for referral to primary care for blood pressure review
+• self-monitoring for symptoms.
+[NICE's guideline on hypertension in pregnancy, recommendation 1.5.20]
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 34 of
+conditions#notice-of-rights). 42
+--- Страница 35 ---
+Hypertension in pregnancy (QS35)
+Quality statement 8: Communicating
+information about future risks
+Quality statement
+Women who have had gestational hypertension or pre-eclampsia discuss future pregnancy
+and lifetime cardiovascular risks during a medical review at their 6- to 8-week postnatal
+medical check.
+Rationale
+The long-term risks for women who have had hypertension in pregnancy include
+developing high blood pressure and an increased lifetime cardiovascular risk. Increased
+awareness and surveillance may lead to earlier intervention, such as antihypertensive
+treatment, with likely benefits for the woman. Women should be made aware of risks in
+future pregnancies resulting from hypertension in a previous pregnancy.
+Quality measures
+The following measures can be used to assess the quality of care or service provision
+specified in the statement. They are examples of how the statement can be measured and
+can be adapted and used flexibly.
+Structure
+Evidence of local arrangements for all women who have had gestational hypertension or
+pre-eclampsia to have a discussion about future related risks during the medical review at
+their 6 to 8 week postnatal medical check.
+Data source: Local data collection.
+Process
+The proportion of women who have had gestational hypertension or pre-eclampsia who
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 35 of
+conditions#notice-of-rights). 42
+--- Страница 36 ---
+Hypertension in pregnancy (QS35)
+have a discussion about future related risks during the medical review at their 6 to 8 week
+postnatal medical check.
+Numerator – the number of women in the denominator who have a discussion about future
+related risks.
+Denominator – the number of women who have had gestational hypertension or pre-
+eclampsia who have a medical review at their 6 to 8 week postnatal check.
+Data source: Local data collection.
+Source guidance
+Hypertension in pregnancy: diagnosis and management. NICE guideline NG133 (2019),
+recommendations 1.4.16, 1.5.22, 1.10.1 and 1.10.2
+What the quality statement means for different
+audiences
+Service providers ensure that local arrangements are in place for all women who have had
+gestational hypertension or pre-eclampsia to have a discussion about future related risks
+during the medical review at their 6 to 8 week postnatal medical check.
+Healthcare professionals discuss future related risks with all women who have had
+gestational hypertension or pre-eclampsia during the medical review at their 6 to 8 week
+postnatal medical check.
+Commissioners ensure that they commission services that discuss future related risks
+with all women who have had gestational hypertension or pre-eclampsia during the
+medical review at their 6 to 8 week postnatal medical check.
+Women who have had gestational hypertension (new high blood pressure starting after
+20 weeks of pregnancy) or pre-eclampsia (a pregnancy-related rise in blood pressure
+with protein in the urine that happens in some pregnancies) have an appointment with
+their GP or specialist 6 to 8 weeks after they have had their baby, at which they discuss
+their risk of having problems with their blood pressure or pregnancies in the future.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 36 of
+conditions#notice-of-rights). 42
+--- Страница 37 ---
+Hypertension in pregnancy (QS35)
+Definitions of terms used in this quality statement
+Gestational hypertension
+New hypertension presenting after 20 weeks of pregnancy without significant proteinuria.
+[NICE's guideline on hypertension in pregnancy, terms used in this guideline]
+Pre-eclampsia
+New hypertension (over 140 mmHg systolic or over 90 mmHg diastolic) presenting after
+20 weeks of pregnancy and the coexistence of 1 or more of the following new-onset
+conditions:
+• proteinuria (urine protein:creatinine ratio 30 mg/mmol or more, or albumin:creatinine
+ratio of 8 mg/mmol or more, or at least 1 g/litre [2+] on dipstick testing) or
+• other maternal organ dysfunction:
+－ renal insufficiency (creatinine 90 micromol/litre or more, 1.02 mg/100 ml or more)
+－ liver involvement (elevated transaminases [alanine aminotransferase or aspartate
+aminotransferase over 40 IU/litre] with or without right upper quadrant or
+epigastric abdominal pain)
+－ neurological complications such as eclampsia, altered mental status, blindness,
+stroke, clonus, severe headaches or persistent visual scotomata
+－ haematological complications such as thrombocytopenia (platelet count below
+150,000/microlitre), disseminated intravascular coagulation or haemolysis
+• uteroplacental dysfunction such as fetal growth restriction, abnormal umbilical artery
+doppler waveform analysis, or stillbirth.
+[NICE's guideline on hypertension in pregnancy, terms used in this guideline]
+Future pregnancy and lifetime cardiovascular risk
+Women who have had gestational hypertension or pre-eclampsia should be told that these
+conditions are associated with an increased risk of developing high blood pressure and its
+complications in later life.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 37 of
+conditions#notice-of-rights). 42
+--- Страница 38 ---
+Hypertension in pregnancy (QS35)
+Women who have had gestational hypertension should be told that the risk of developing:
+• gestational hypertension in a future pregnancy is approximately 1 in 7 (between 11%
+and 15%)
+• pre-eclampsia in a future pregnancy is approximately 1 in 14 (7%).
+Women who have had pre-eclampsia should be told that the risk of developing:
+• gestational hypertension in a future pregnancy is up to 1 in 8 (between 6% and 12%)
+• pre-eclampsia in a future pregnancy is up to about 1 in 6 (16%)
+• pre-eclampsia in a future pregnancy is about 1 in 3 (33%) if their pre-eclampsia led to
+birth between 28 and 34 weeks.
+[NICE's guideline on hypertension in pregnancy, recommendation 1.10.1 (table 5)]
+Medical review
+Women who have had gestational hypertension or pre-eclampsia should be offered a
+medical review by a GP or specialist at their postnatal check, which takes place 6 to
+8 weeks after birth. [NICE's guideline on hypertension in pregnancy, recommendation
+1.5.22]
+Equality and diversity considerations
+Where information is provided, there must be equal access to it for all women, including
+those with additional needs, such as physical or learning disabilities, and those who do not
+speak or read English. Women receiving information should have access to an interpreter
+or advocate if needed.
+For women with additional needs related to a disability, impairment or sensory loss,
+information should be provided as set out in NHS England's Accessible Information
+Standard or the equivalent standards for the devolved nations.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 38 of
+conditions#notice-of-rights). 42
+--- Страница 39 ---
+Hypertension in pregnancy (QS35)
+Update information
+July 2019: Changes have been made to align this quality standard with the NICE guideline
+on hypertension in pregnancy. Statement 2 has been amended to reflect the
+recommended dose of aspirin for pregnant women at increased risk of pre-eclampsia. The
+blood pressure target in statement 3 was changed for pregnant women taking
+antihypertensive medication, in line with the updated guideline. In statement 5 the criteria
+for hospital admission and frequency of monitoring were changed. In statement 6 the
+involvement of a senior obstetrician in decisions on the timing of birth for women with pre-
+eclampsia was highlighted. References and links to source guidance have also been
+updated.
+Minor changes since publication
+August 2021: Recommendation numbers, references and links to source guidance have
+been updated to align statement 2 with the updated NICE guideline on antenatal care.
+Data sources and references have been updated throughout.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 39 of
+conditions#notice-of-rights). 42
+--- Страница 40 ---
+Hypertension in pregnancy (QS35)
+About this quality standard
+NICE quality standards describe high-priority areas for quality improvement in a defined
+care or service area. Each standard consists of a prioritised set of specific, concise and
+measurable statements. NICE quality standards draw on existing NICE or NICE-accredited
+guidance that provides an underpinning, comprehensive set of recommendations, and are
+designed to support the measurement of improvement.
+Expected levels of achievement for quality measures are not specified. Quality standards
+are intended to drive up the quality of care, and so achievement levels of 100% should be
+aspired to (or 0% if the quality statement states that something should not be done).
+However, this may not always be appropriate in practice. Taking account of safety, shared
+decision-making, choice and professional judgement, desired levels of achievement should
+be defined locally.
+Information about how NICE quality standards are developed is available from the NICE
+website.
+Information about the topic expert group members is available from the webpage for this
+quality standard.
+This quality standard has been included in the NICE Pathways on antenatal care and
+hypertension in pregnancy which bring together everything we have said on a topic in an
+interactive flowchart.
+NICE has produced a quality standard service improvement template to help providers
+make an initial assessment of their service compared with a selection of quality
+statements. This tool is updated monthly to include new quality standards.
+NICE guidance and quality standards apply in England and Wales. Decisions on how they
+apply in Scotland and Northern Ireland are made by the Scottish government and Northern
+Ireland Executive. NICE quality standards may include references to organisations or
+people responsible for commissioning or providing care that may be relevant only to
+England.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 40 of
+conditions#notice-of-rights). 42
+--- Страница 41 ---
+Hypertension in pregnancy (QS35)
+Resource impact
+NICE quality standards should be achievable by local services. The potential resource
+impact is considered by the quality standards advisory committee, drawing on resource
+impact work for the source guidance. Organisations are encouraged to use the resource
+impact statement for NICE's guideline on antenatal care to help estimate local costs.
+Diversity, equality and language
+Equality issues were considered during development and equality assessments for this
+quality standard are available. Any specific issues identified during development of the
+quality statements are highlighted in each statement.
+Commissioners and providers should aim to achieve the quality standard in their local
+context, in light of their duties to have due regard to the need to eliminate unlawful
+discrimination, advance equality of opportunity and foster good relations. Nothing in this
+quality standard should be interpreted in a way that would be inconsistent with
+compliance with those duties.
+ISBN: 978-1-4731-0211-8
+Endorsing organisation
+This quality standard has been endorsed by NHS England, as required by the Health and
+Social Care Act (2012)
+Supporting organisations
+Many organisations share NICE's commitment to quality improvement using evidence-
+based guidance. The following supporting organisations have recognised the benefit of
+the quality standard in improving care for patients, carers, service users and members of
+the public. They have agreed to work with NICE to ensure that those commissioning or
+providing services are made aware of and encouraged to use the quality standard.
+• Action on Pre-eclampsia
+• British Cardiovascular Society
+• British and Irish Hypertension Society
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 41 of
+conditions#notice-of-rights). 42
+--- Страница 42 ---
+Hypertension in pregnancy (QS35)
+• Royal College of General Practitioners (RCGP)
+• Royal College of Midwives
+• Royal College of Nursing (RCN)
+• Royal College of Radiologists
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 42 of
+conditions#notice-of-rights). 42

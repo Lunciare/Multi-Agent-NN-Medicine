@@ -1,0 +1,1662 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "heart-valve-disease-presenting-in-adults-investigation-and-management-pdf-66143721453253.pdf",
+  "converted_date": "2026-01-31T14:44:47.428113",
+  "file_size_bytes": 333617,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/heart-valve-disease-presenting-in-adults-investigation-and-management-pdf-66143721453253.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+Heart valve disease
+presenting in adults:
+investigation and
+management
+NICE guideline
+Published: 17 November 2021
+www.nice.org.uk/guidance/ng208
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+--- Страница 2 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Your responsibility
+The recommendations in this guideline represent the view of NICE, arrived at after careful
+consideration of the evidence available. When exercising their judgement, professionals
+and practitioners are expected to take this guideline fully into account, alongside the
+individual needs, preferences and values of their patients or the people using their service.
+It is not mandatory to apply the recommendations, and the guideline does not override the
+responsibility to make decisions appropriate to the circumstances of the individual, in
+consultation with them and their families and carers or guardian.
+All problems (adverse events) related to a medicine or medical device used for treatment
+or in a procedure should be reported to the Medicines and Healthcare products Regulatory
+Agency using the Yellow Card Scheme.
+Local commissioners and providers of healthcare have a responsibility to enable the
+guideline to be applied when individual professionals and people using services wish to
+use it. They should do so in the context of local and national priorities for funding and
+developing services, and in light of their duties to have due regard to the need to eliminate
+unlawful discrimination, to advance equality of opportunity and to reduce health
+inequalities. Nothing in this guideline should be interpreted in a way that would be
+inconsistent with complying with those duties.
+Commissioners and providers have a responsibility to promote an environmentally
+sustainable health and care system and should assess and reduce the environmental
+impact of implementing NICE recommendations wherever possible.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
+conditions#notice-of-rights). 60
+--- Страница 3 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Contents
+Overview ...................................................................................................................................... 5
+Who is it for? ........................................................................................................................................... 5
+Recommendations ....................................................................................................................... 6
+1.1 Referral for echocardiography and specialist assessment ........................................................... 6
+1.2 Pharmacological management ........................................................................................................ 10
+1.3 Indications for interventions ............................................................................................................ 10
+1.4 Monitoring when there is no current need for intervention ......................................................... 13
+1.5 Interventions ..................................................................................................................................... 14
+1.6 Repeat intervention .......................................................................................................................... 18
+1.7 Anticoagulation and antiplatelet therapy ....................................................................................... 19
+1.8 Monitoring after an intervention ..................................................................................................... 19
+1.9 Information and advice ....................................................................................................................20
+Terms used in this guideline .................................................................................................................. 21
+Recommendations for research .................................................................................................24
+Key recommendations for research .....................................................................................................24
+Other recommendations for research ..................................................................................................26
+Rationale and impact ...................................................................................................................29
+Referral for echocardiography ..............................................................................................................29
+Referral for urgent specialist assessment or urgent echocardiography ...........................................30
+Referral to a specialist after echocardiography .................................................................................. 31
+Information, referral and specialist assessment for pregnant women and women considering
+pregnancy ...............................................................................................................................................32
+Pharmacological management to improve prognosis .........................................................................33
+Pharmacological management of heart failure in heart valve disease .............................................34
+Indications for interventions ..................................................................................................................35
+Indications for interventions for adults with aortic stenosis ..............................................................35
+Indications for intervention for adults with aortic regurgitation ........................................................38
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
+conditions#notice-of-rights). 60
+--- Страница 4 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Indications for intervention for adults with mitral regurgitation ........................................................39
+Monitoring when there is no current need for intervention ...............................................................40
+Decisions about interventions .............................................................................................................. 41
+Interventions for aortic valve disease ..................................................................................................42
+Interventions for mitral stenosis ...........................................................................................................45
+Interventions for mitral regurgitation ....................................................................................................46
+Interventions for tricuspid regurgitation ..............................................................................................50
+Repeat intervention ................................................................................................................................50
+Anticoagulation and antiplatelet therapy .............................................................................................52
+Monitoring after an intervention ...........................................................................................................54
+Information and advice ..........................................................................................................................54
+Context .........................................................................................................................................57
+Finding more information and committee details .....................................................................59
+Update information .....................................................................................................................60
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
+conditions#notice-of-rights). 60
+--- Страница 5 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+This guideline partially replaces CG187.
+Overview
+This guideline covers investigation and management of heart valve disease presenting in
+adults. It aims to improve quality of life and survival for people with heart valve disease
+through timely diagnosis and appropriate intervention.
+For NHS England and NHS Improvement's position on transcatheter aortic valve
+implantation for people at low or intermediate surgical risk, see the implementation
+strategy for transcatheter aortic valve implantation.
+Who is it for?
+• Healthcare professionals
+• Commissioners and providers
+• People with heart valve disease, their families and carers
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
+conditions#notice-of-rights). 60
+--- Страница 6 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Recommendations
+People have the right to be involved in discussions and make informed decisions
+about their care, as described in NICE's information on making decisions about your
+care.
+Making decisions using NICE guidelines explains how we use words to show the
+strength (or certainty) of our recommendations, and has information about
+prescribing medicines (including off-label use), professional guidelines, standards
+and laws (including on consent and mental capacity), and safeguarding.
+1.1 Referral for echocardiography and specialist
+assessment
+Referral for echocardiography
+1.1.1 Consider an echocardiogram for adults with a murmur and no other signs or
+symptoms if valve disease is suspected based on:
+• the nature of the murmur
+• family history
+• age (especially if over 75), or
+• medical history (for example, a history of atrial fibrillation).
+1.1.2 Offer an echocardiogram to adults with a murmur if valve disease is suspected
+(based on the nature of the murmur, family history, age or medical history) and
+they have:
+• signs (such as peripheral oedema) or symptoms (such as angina or
+breathlessness) or an abnormal ECG, or
+• an ejection systolic murmur with a reduced second heart sound but no other
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
+conditions#notice-of-rights). 60
+--- Страница 7 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+signs or symptoms.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on referral for
+echocardiography.
+Full details of the evidence and the committee's discussion are in evidence review A:
+symptoms and signs indicating need for echocardiography or direct referral to a
+specialist.
+Referral for urgent specialist assessment or urgent
+echocardiography
+1.1.3 If valve disease is suspected (based on the nature of the murmur, family history,
+age or medical history):
+• Offer urgent (within 2 weeks) specialist assessment that includes
+echocardiogram or if not available an urgent echocardiogram alone to adults
+with a systolic murmur and exertional syncope.
+• Consider urgent (within 2 weeks) specialist assessment that includes
+echocardiogram for adults with a murmur and severe symptoms (angina or
+breathlessness on minimal exertion or at rest) thought to be related to
+valvular heart disease.
+1.1.4 For guidance on referral and assessment for adults with murmur and non-
+exertional syncope, follow the recommendations in the NICE guideline on
+transient loss of consciousness ('blackouts') in over 16s.
+1.1.5 For guidance on referral and assessment for adults with breathlessness but no
+murmur, follow the recommendations in the NICE guideline on chronic heart
+failure in adults.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
+conditions#notice-of-rights). 60
+--- Страница 8 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on referral for urgent
+specialist assessment or urgent echocardiography.
+Full details of the evidence and the committee's discussion are in evidence review A:
+symptoms and signs indicating need for echocardiography or direct referral to a
+specialist.
+Referral to a specialist after echocardiography
+1.1.6 Be aware that mild valve disease is common and rarely progresses to become
+clinically significant.
+1.1.7 Offer referral to a specialist to:
+• adults with moderate or severe valve disease of any type
+• adults with bicuspid aortic valve disease of any severity (including mild valve
+disease).
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on referral to a
+specialist after echocardiography.
+Full details of the evidence and the committee's discussion are in evidence review B:
+indications for referral to a specialist following echocardiography.
+Information, referral and specialist assessment for pregnant
+women and women considering pregnancy
+1.1.8 Be aware that most women with valve disease can have a pregnancy without
+complications.
+1.1.9 Offer advice on the implications of treatment choices on any future pregnancy to
+women who need heart valve intervention.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
+conditions#notice-of-rights). 60
+--- Страница 9 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+1.1.10 Offer advice on family planning to women with severe valve disease, particularly
+aortic and mitral stenosis.
+1.1.11 Refer pregnant women or women who are considering a pregnancy to a
+cardiologist with expertise in the care of pregnant women, if they have any of the
+following:
+• moderate or severe valve disease
+• bicuspid aortic valve disease of any severity (including mild disease) and
+associated aortopathy
+• a prosthetic valve.
+Refer whether they have symptoms or not.
+1.1.12 Consider seeking specialist advice on the choice of replacement valve if heart
+valve replacement surgery is being considered for women of childbearing
+potential.
+1.1.13 For guidance on intrapartum care, follow the recommendations on heart disease
+in the NICE guideline on intrapartum care for women with existing medical
+conditions or obstetric complications and their babies.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on information,
+referral and specialist assessment for pregnant women and women considering a
+pregnancy.
+Full details of the evidence and the committee's discussion are in evidence review A:
+symptoms and signs indicating need for echocardiography or direct referral to a
+specialist.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
+conditions#notice-of-rights). 60
+--- Страница 10 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+1.2 Pharmacological management
+Management of heart failure in people with valve disease
+1.2.1 Consider a beta-blocker for adults with moderate to severe mitral stenosis and
+heart failure.
+1.2.2 When adults with heart valve conditions and heart failure also have left
+ventricular dysfunction, refer to the NICE guideline on chronic heart failure in
+adults.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see rationale and impact section on pharmacological
+management of heart failure in heart valve disease.
+Full details of the evidence and the committee's discussion are in evidence review C:
+pharmacological management.
+1.3 Indications for interventions
+1.3.1 Offer an intervention to adults with symptomatic severe heart valve disease.
+For a short explanation of why the committee made this recommendation and how it
+might affect practice, see the rationale and impact section on indications for
+interventions.
+Full details of the evidence and the committee's discussion are in evidence review H:
+transcatheter intervention, surgery or conservative management in heart valve
+disease.
+Aortic stenosis
+1.3.2 Consider referring adults with asymptomatic severe aortic stenosis for
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
+conditions#notice-of-rights). 60
+--- Страница 11 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+intervention, if suitable, if they have any of the following:
+• Vmax (peak aortic jet velocity) more than 5 m/s on echocardiography
+• aortic valve area less than 0.6 cm2 on echocardiography
+• left ventricular ejection fraction (LVEF) less than 55%
+• B-type natriuretic peptide (BNP) or N-terminal proBNP (NT-proBNP) level
+more than twice the upper limit of normal
+• symptoms unmasked on exercise testing.
+1.3.3 Consider referring adults with symptomatic low-gradient aortic stenosis with
+LVEF less than 50% for intervention if during dobutamine stress
+echocardiography the aortic stenosis is shown to be severe by:
+• a mean gradient across the aortic valve that increases to more than
+40 mmHg and
+• an aortic valve area that remains less than 1 cm2.
+1.3.4 Consider measuring aortic valve calcium score on cardiac CT if the severity of
+symptomatic aortic stenosis is uncertain.
+1.3.5 Offer enhanced follow up (for example, more frequent reviews) and further
+assessment (for example, stress echocardiography) to monitor the need for
+intervention if mid-wall fibrosis is detected on cardiac MRI in adults with severe
+aortic stenosis.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
+conditions#notice-of-rights). 60
+--- Страница 12 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on indications for
+interventions for adults with aortic stenosis.
+Full details of the evidence and the committee's discussion are in:
+• evidence review D: indications for intervention
+• evidence review E: stress testing and stress echocardiography in determining
+need for intervention
+• evidence review F: CT and MRI indications for intervention.
+Aortic regurgitation
+1.3.6 Consider referring adults with asymptomatic severe aortic regurgitation for
+intervention, if suitable, if they have either of the following:
+• LVEF less than 55% or
+• end systolic diameter (ESD) of more than 50 mm or end systolic diameter
+index (ESDI) more than 24 mm/m2 on echocardiography.
+For a short explanation of why the committee made this recommendation and how it
+might affect practice, see the rationale and impact section on indications for
+interventions for adults with aortic regurgitation.
+Full details of the evidence and the committee's discussion are in evidence review D:
+indications for intervention.
+Mitral regurgitation
+1.3.7 Consider referring adults with asymptomatic severe primary mitral regurgitation
+for intervention, if suitable, if they have any of the following:
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
+conditions#notice-of-rights). 60
+--- Страница 13 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+• LVEF less than 60%
+• ESD more than 45 mm or ESDI more than 22 mm/m2 on echocardiography or
+• an increase of systolic pulmonary artery pressure to more than 60 mmHg on
+exercise testing.
+When making decisions about referral for surgery, take into account the
+suitability of the valve for repair and the presence of atrial fibrillation or
+systolic pulmonary artery pressure of more than 50 mmHg on
+echocardiography at rest.
+For a short explanation of why the committee made this recommendation and how it
+might affect practice, see the rationale and impact section on indications for
+intervention for adults with mitral regurgitation.
+Full details of the evidence and the committee's discussion are in evidence review D:
+indications for intervention and evidence review E: stress testing and stress
+echocardiography in determining need for intervention.
+1.4 Monitoring when there is no current need for
+intervention
+1.4.1 Offer clinical review every 6 to 12 months, with an echocardiogram, to adults with
+asymptomatic severe valve disease if an intervention is suitable but not currently
+needed. Base the frequency of the review on echocardiography findings and
+shared decision making with the patient.
+1.4.2 Consider echocardiographic assessment every 3 to 5 years for adults with mild
+aortic or mitral stenosis.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
+conditions#notice-of-rights). 60
+--- Страница 14 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on monitoring where
+there is no current need for intervention.
+Full details of the evidence and the committee's discussion are in evidence review G:
+monitoring of people with heart valve disease and no current indication for
+intervention.
+1.5 Interventions
+See the recommendations on indications for interventions.
+Decisions about interventions
+1.5.1 Discuss the possible benefits and risks of interventions with adults who have an
+indication for valve intervention. Include in the discussion:
+• the benefits to quality of life (both in the short and long term)
+• prosthetic valve durability
+• the risks associated with the procedures
+• the type of access for surgery (median sternotomy, minimally invasive
+surgery or, for people at high surgical risk, transcatheter)
+• the possible need for other cardiac procedures in the future.
+Follow the recommendations in the NICE guidelines on shared decision
+making and patient experience in adult NHS services and base decisions on
+the type of intervention on patient characteristics and preferences.
+1.5.2 When surgery is agreed, base the decision on the type of surgery (median
+sternotomy or minimally invasive surgery) on patient characteristics and
+preferences. If minimally invasive surgery is the agreed option and is not available
+locally, refer the person to another centre.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
+conditions#notice-of-rights). 60
+--- Страница 15 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on decisions about
+interventions.
+Full details of the evidence and the committee's discussion are in evidence review H:
+transcatheter intervention, surgery or conservative management in heart valve
+disease.
+Aortic valve disease
+For NHS England and NHS Improvement's position on transcatheter aortic valve
+implantation for people at low or intermediate surgical risk, see the implementation
+strategy for transcatheter aortic valve implantation.
+1.5.3 Offer surgery, if suitable (by median sternotomy or minimally invasive surgery), as
+first-line intervention for adults with severe aortic stenosis, aortic regurgitation or
+mixed aortic valve disease and an indication for surgery who are at low or
+intermediate surgical risk. TAVI is not cost effective for people at low or
+intermediate surgical risk at the current list price.
+1.5.4 Offer TAVI, if suitable, to adults with non-bicuspid severe aortic stenosis who are
+at high surgical risk or if surgery is unsuitable.
+1.5.5 See the recommendations on using TAVI in the NICE interventional procedures
+guidance on transcatheter aortic valve implantation for aortic stenosis, including
+entering the details of all people undergoing TAVI into the UK TAVI registry. See
+also the NICE interventional procedures guidance on sutureless aortic valve
+replacement in aortic stenosis and balloon valvuloplasty for aortic valve stenosis.
+See NHS England's clinical commissioning policy on transcatheter aortic valve implantation
+for aortic stenosis.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
+conditions#notice-of-rights). 60
+--- Страница 16 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on interventions for
+aortic valve disease.
+Full details of the evidence and the committee's discussion are in evidence review H:
+transcatheter intervention, surgery or conservative management in heart valve
+disease.
+Mitral stenosis
+1.5.6 Consider transcatheter valvotomy for adults with rheumatic severe mitral
+stenosis, if the valve is suitable for this procedure.
+1.5.7 Offer surgical mitral valve replacement to adults with rheumatic severe mitral
+stenosis if transcatheter valvotomy is unsuitable.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on interventions for
+mitral stenosis.
+Full details of the evidence and the committee's discussion are in evidence review H:
+transcatheter intervention, surgery or conservative management in heart valve
+disease.
+Mitral regurgitation
+Primary mitral regurgitation
+1.5.8 Offer surgical mitral valve repair (by median sternotomy or minimally invasive
+surgery) to adults with severe primary mitral regurgitation and an indication for
+repair, if surgery is suitable.
+1.5.9 Offer surgical mitral valve replacement (by median sternotomy or minimally
+invasive surgery) to adults with severe primary mitral regurgitation and an
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
+conditions#notice-of-rights). 60
+--- Страница 17 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+indication for surgery, if the valve is not suitable for repair and surgery is suitable.
+1.5.10 Consider transcatheter edge-to-edge repair, if suitable, for adults with severe
+primary mitral regurgitation and symptoms, if surgery is unsuitable.
+See NHS England's clinical commissioning policy on percutaneous mitral valve leaflet
+repair for primary degenerative mitral regurgitation in adults and the NICE interventional
+procedures guidance on percutaneous mitral valve leaflet repair for mitral regurgitation
+and thoracoscopically assisted mitral valve surgery.
+Secondary mitral regurgitation
+1.5.11 Consider surgical mitral valve repair (by median sternotomy or minimally invasive
+surgery) for adults with severe secondary mitral regurgitation who are having
+cardiac surgery for another indication, if surgery is suitable.
+1.5.12 Consider surgical mitral valve replacement (by median sternotomy or minimally
+invasive surgery) for adults with severe secondary mitral regurgitation who are
+having cardiac surgery for another indication, if the valve is not suitable for repair
+and surgery is suitable.
+1.5.13 Offer medical management to adults with heart failure and severe secondary
+mitral regurgitation, if surgery is unsuitable.
+1.5.14 Consider transcatheter mitral edge-to-edge repair for adults with heart failure
+and severe secondary mitral regurgitation, if surgery is unsuitable and they
+remain symptomatic on medical management.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on interventions for
+mitral regurgitation.
+Full details of the evidence and the committee's discussion are in evidence review H:
+transcatheter intervention, surgery or conservative management in heart valve
+disease.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
+conditions#notice-of-rights). 60
+--- Страница 18 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Tricuspid regurgitation
+1.5.15 Consider surgical tricuspid valve repair at the time of mitral valve surgery when
+tricuspid regurgitation is moderate or severe.
+1.5.16 Consider surgical tricuspid valve repair at the time of aortic valve surgery when
+tricuspid regurgitation is severe.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on interventions for
+tricuspid regurgitation.
+Full details of the evidence and the committee's discussion are in evidence review H:
+transcatheter intervention, surgery or conservative management in heart valve
+disease.
+1.6 Repeat intervention
+1.6.1 Consider transcatheter or redo surgical intervention for adults with severe aortic
+degeneration of a biological prosthetic valve and symptoms. Take into account
+the following factors to inform a shared decision about the choice of intervention:
+• the short- and long-term benefits
+• type of valve dysfunction and prosthesis
+• the risks associated with the procedure
+• the possible need for other cardiac procedures in the future.
+See the NICE interventional procedures guidance on using transapical
+transcatheter mitral valve-in-valve implantation for a failed surgically
+implanted mitral valve bioprosthesis, transapical transcatheter mitral valve-
+in-ring implantation after failed annuloplasty for mitral valve repair and valve-
+in-valve TAVI for aortic bioprosthetic dysfunction.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
+conditions#notice-of-rights). 60
+--- Страница 19 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+For a short explanation of why the committee made this recommendation and how it
+might affect practice, see rationale and impact section on repeat intervention.
+Full details of the evidence and the committee's discussion are in evidence review I:
+repeat intervention for failure of biological or repaired valves.
+1.7 Anticoagulation and antiplatelet therapy
+1.7.1 Do not offer anticoagulation after surgical biological valve replacement unless
+there are other indications for anticoagulation.
+1.7.2 Consider aspirin, or clopidogrel if aspirin is not tolerated, after TAVI.
+1.7.3 If people have other indications for anticoagulation or antiplatelet therapy, follow
+the recommendations in the NICE guidelines on atrial fibrillation and acute
+coronary syndromes.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on anticoagulation
+and antiplatelet therapy.
+Full details of the evidence and the committee's discussion are in evidence review J:
+anticoagulant and/or antiplatelet therapy for biological prosthetic valves and after
+valve repair.
+1.8 Monitoring after an intervention
+1.8.1 Base decisions on the frequency and type of monitoring for adults who have had
+an intervention (valve repair or replacement) for valve disease on:
+• durability of the prosthetic valve or durability of the repair
+• the presence of another condition, including other heart disease
+• residual valve abnormality or consequences of the procedure, for example,
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
+conditions#notice-of-rights). 60
+--- Страница 20 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+paravalvular leak
+• concerns about abnormal function of the prosthetic valve
+• the patient's wishes.
+Advise people and their family members or carers (as appropriate) to seek
+advice if the heart condition deteriorates.
+For a short explanation of why the committee made this recommendation and how it
+might affect practice, see the rationale and impact section on monitoring after an
+intervention.
+Full details of the evidence and the committee's discussion are in evidence review K:
+monitoring in people with repaired or replaced heart valves.
+1.9 Information and advice
+1.9.1 Follow the NICE guideline on shared decision making and the recommendations
+in the NICE guideline on patient experience in adult NHS services on:
+• involvement of family members and carers
+• communication
+• information
+• tailoring healthcare services.
+1.9.2 Consider providing a point of contact for accessing specialist advice between
+appointments.
+1.9.3 Be aware of the psychological impact on the person receiving a diagnosis of
+valve disease, whether or not they have symptoms. Consider the person's needs
+for additional information and support.
+1.9.4 Provide information and advice to adults with valve disease about:
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
+conditions#notice-of-rights). 60
+--- Страница 21 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+• the expected progression and prognosis of their condition, including the
+likely length of an asymptomatic stage
+• any need for intervention, including the type of intervention
+• pregnancy, if appropriate
+• the possible effects of other conditions on long-term outcomes
+• rehabilitation and long-term outcomes
+• palliative care, if appropriate, including how to access this.
+1.9.5 Provide information and support to young adults about transition from paediatric
+to adult services, in line with the NICE guideline on transition from children's to
+adults' services for young people using health or social care services.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on information and
+advice.
+Full details of the evidence and the committee's discussion are in evidence review L:
+information and advice.
+Terms used in this guideline
+This section defines terms that have been used in a particular way for this guideline.
+Degenerated
+Degenerated covers progressive degeneration and does not include failure of the valve
+due to endocarditis or thrombosis.
+Risk of surgery
+This is calculated using EuroSCORE II. People have low surgical risk if they score less than
+4%, intermediate risk if they score between 4% and 8% and high risk if they score more
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
+conditions#notice-of-rights). 60
+--- Страница 22 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+than 8%.
+Severe valve disease
+Severity of valve disease is defined in line with the British Society of Echocardiography
+guidelines on the assessment of aortic stenosis, the tricuspid and pulmonary valves, and
+mitral valve disease.
+Specialist assessment and advice
+This could include assessment and advice from a cardiologist with expertise in heart valve
+disease, a multidisciplinary team or a heart valve clinic.
+Suitability for transcatheter aortic valve implantation
+Suitability for transcatheter aortic valve implantation (TAVI) depends on:
+• an appropriate access for inserting the TAVI catheter
+• the morphology of the valve, aortic root and ascending aorta
+• the degree and distribution of calcium in the aortic valve.
+It is an option for:
+• All people expected to have an unacceptably high risk of mortality or morbidity as a
+result of surgery (for example, because of a risk of infection in people who are
+immunosuppressed). See also the definition of high risk of surgery according to
+EuroSCORE II.
+• All people expected to have unacceptably strenuous and prolonged recovery from
+surgery and an extended need for rehabilitation because of frailty, reduced mobility, or
+musculoskeletal conditions.
+• All people with low life expectancy, either because of their age or because they have
+life-limiting comorbidities.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
+conditions#notice-of-rights). 60
+--- Страница 23 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Suitability for transcatheter edge-to-edge repair
+Suitability for transcatheter edge-to-edge repair depends on:
+• the morphology of the person's valve
+• the feasibility of using transoesophageal echocardiography to guide the procedure
+• the person's fitness for general anaesthesia.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
+conditions#notice-of-rights). 60
+--- Страница 24 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Recommendations for research
+The guideline committee has made the following recommendations for research.
+Key recommendations for research
+1 Monitoring when there is no current need for intervention
+What is the most clinically and cost-effective monitoring (type and frequency of test) for
+adults with asymptomatic mild or moderate heart valve disease (aortic stenosis, aortic
+regurgitation, mitral stenosis, mitral regurgitation and tricuspid regurgitation) and no
+current need for intervention?
+For a short explanation of why the committee made the recommendation for research,
+see the rationale section on monitoring where there is no current need for
+intervention.
+Full details of the evidence and the committee's discussion are in evidence review G:
+monitoring of people with heart valve disease and no current indication for
+intervention.
+2 Interventions for tricuspid regurgitation
+What is the most clinically and cost-effective management strategy for adults with
+tricuspid regurgitation?
+For a short explanation of why the committee made the recommendation for research,
+see the rationale section on interventions for tricuspid regurgitation.
+Full details of the evidence and the committee's discussion are in evidence review H:
+transcatheter intervention, surgery or conservative management in heart valve
+disease.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
+conditions#notice-of-rights). 60
+--- Страница 25 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+3 Interventions for a failed valve
+What is the clinical and cost effectiveness of transcatheter intervention compared with
+surgical redo intervention for adults with failing biological prosthetic tricuspid valves or
+failing repaired native tricuspid valves when either procedure is suitable?
+For a short explanation of why the committee made the recommendation for research,
+see the rationale section on repeat intervention.
+Full details of the evidence and the committee's discussion are in evidence review I:
+repeat intervention for failure of biological or repaired valves.
+4 Monitoring after an intervention
+What is the most clinically and cost-effective timing, nature and frequency of follow up for
+different types of valve interventions, including repair and replacement with tissue or
+mechanical valves?
+For a short explanation of why the committee made the recommendation for research,
+see rationale section on monitoring after an intervention.
+Full details of the evidence and the committee's discussion are in evidence review K:
+monitoring in people with repaired or replaced heart valves.
+5 Information and advice
+What are the information and advice needs of all adult age groups with heart valve disease
+of all severities and stages?
+For a short explanation of why the committee made the recommendation for research,
+see the rationale section on information and advice.
+Full details of the evidence and the committee's discussion are in evidence review L:
+information and advice.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
+conditions#notice-of-rights). 60
+--- Страница 26 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Other recommendations for research
+6 Indications for interventions – stress testing or
+echocardiography
+What is the prognostic value of severe mitral regurgitation unmasked on exercise
+echocardiography in adults with symptomatic non-severe mitral regurgitation at rest?
+What is the prognostic value of parameters observed on exercise stress testing and
+exercise stress echocardiography in asymptomatic severe aortic regurgitation?
+7 Indications for interventions – CT or MRI
+In adults with aortic or primary mitral regurgitation in whom the need for intervention is
+unclear after echocardiography, what is the prognostic value and cost effectiveness of
+cardiac MRI to assess the severity of valvular regurgitation?
+In adults with aortic or mitral regurgitation in whom the need for intervention is unclear
+after echocardiography, what is the prognostic value and cost effectiveness of left
+ventricular ejection fraction (LVEF) measured on cardiac MRI to assess the need for
+intervention?
+In adults with asymptomatic severe aortic stenosis what is the prognostic value and cost
+effectiveness of LVEF measured on cardiac MRI to assess the need for intervention?
+In adults with asymptomatic severe tricuspid regurgitation what is the prognostic value
+and cost effectiveness of cardiac MRI for assessment of the right ventricle to assess the
+need for intervention?
+8 Indications for interventions – global longitudinal strain
+In adults with severe heart valve disease what is the prognostic value and cost
+effectiveness of global longitudinal strain to assess the need for intervention?
+In adults with asymptomatic, severe aortic regurgitation or mitral regurgitation what is the
+prognostic value and cost effectiveness of B-type natriuretic peptide (BNP) to assess the
+need for intervention?
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
+conditions#notice-of-rights). 60
+--- Страница 27 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+9 Pharmacological management for adults with heart valve
+disease
+What is the clinical and cost effectiveness of ACE inhibitors, angiotensin II receptor
+antagonists, beta-blockers and diuretics for adults with severe aortic stenosis?
+What is the clinical and cost effectiveness of ACE inhibitors, angiotensin II receptor
+antagonists, beta-blockers and calcium channel blockers, including compared with
+placebo, for adults with aortic regurgitation?
+What is the clinical and cost effectiveness of ACE inhibitors, angiotensin II receptor
+antagonists, beta-blockers and diuretics for adults with primary severe mitral
+regurgitation?
+What is the clinical and cost effectiveness of beta-blockers for adults over 75 years with
+non-rheumatic/calcific mitral stenosis, in both sinus rhythm and atrial fibrillation?
+What is the clinical and cost effectiveness of pharmacological management of heart failure
+for adults with heart failure and severe aortic stenosis, severe aortic regurgitation or
+severe mitral regurgitation?
+10 Monitoring when there is no current need for intervention
+What is the most clinically and cost-effective monitoring strategy (type and frequency of
+test) for adults with asymptomatic severe heart valve disease (aortic regurgitation, mitral
+stenosis, mitral regurgitation or tricuspid regurgitation) and no current indication for
+intervention?
+What is the most clinically and cost-effective monitoring strategy (type and frequency of
+test) for adults with symptomatic moderate heart valve disease (aortic stenosis, aortic
+regurgitation, mitral stenosis, mitral regurgitation and tricuspid regurgitation) and no
+current indication for intervention?
+11 Interventions
+What is the most clinically and cost-effective management strategy for adults with calcific
+mitral stenosis and an indication for intervention?
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
+conditions#notice-of-rights). 60
+--- Страница 28 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+12 Anticoagulation and antiplatelet therapy
+What is the clinical and cost effectiveness of single or dual antiplatelet therapies or
+anticoagulants compared with placebo after transcatheter or surgical valve replacement
+(implantation) with biological prosthesis and after valve repair?
+In adults with biological valve replacement, what effect does anticoagulation or antiplatelet
+therapy have on long-term valve function and outcomes?
+13 Repeat interventions
+What is the clinical and cost effectiveness of transcatheter intervention compared with
+surgical redo intervention for adults with failing biological prosthetic aortic valves when
+either procedure is suitable?
+What is the clinical and cost effectiveness of transcatheter intervention compared with
+surgical redo intervention for adults with failing biological prosthetic mitral valves when
+either procedure is suitable?
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
+conditions#notice-of-rights). 60
+--- Страница 29 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Rationale and impact
+These sections briefly explain why the committee made the recommendations and how
+they might affect practice.
+Referral for echocardiography
+Recommendations 1.1.1 and 1.1.2
+Why the committee made the recommendations
+Murmur alone
+Limited evidence showed that murmur is an indicator of valve disease. But the evidence
+also showed that a substantial proportion of people with a murmur do not have valve
+disease confirmed by a reference test. The committee agreed that 'innocent' murmurs can
+occur, particularly during the teenage and young adult years and in pregnancy. These are
+difficult to differentiate from pathological murmurs by clinical examination alone. The
+evidence was not strong enough to recommend that everyone with a murmur should be
+referred for echocardiography. The committee agreed that this would be a change in
+practice, would increase pressure on echocardiography services and would offer uncertain
+benefit. However, when the nature of the murmur, family history, age or medical history
+suggest possible valve disease, echocardiography should be considered to establish a
+diagnosis.
+Systolic murmur with a reduced second heart sound
+Evidence suggested that the presence of a systolic heart murmur plus a reduced second
+heart sound had good specificity for aortic stenosis confirmed by echocardiography. The
+recommendation specifies ejection systolic murmur because this, combined with a
+reduced second heart sound, is a classic indicator of aortic stenosis and is most often
+present in severe aortic stenosis. Although this was based on only a few studies, the
+committee agreed that people with these features should be referred for
+echocardiography. Because of the limited evidence identified, this recommendation was
+limited to those in whom heart valve disease was considered a possible explanation of
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
+conditions#notice-of-rights). 60
+--- Страница 30 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+these signs based on the nature of the murmur, family history, age or medical history.
+Murmur with other symptoms or signs
+Studies showed that echocardiography detected valve disease in a higher proportion of
+people with murmur plus other signs and symptoms (abnormal ECG, angina,
+breathlessness, peripheral oedema) than in people with murmur alone. That is, murmur
+plus other signs or symptoms had a higher specificity for echocardiography confirmed
+valve disease. Again, this was based on a few studies only, so the committee agreed that
+the nature of the murmur, family history, age or medical history should also suggest valve
+disease as a possibility.
+How the recommendations might affect practice
+The recommendations reflect current practice.
+Return to recommendations
+Referral for urgent specialist assessment or urgent
+echocardiography
+Recommendations 1.1.3 to 1.1.5
+Why the committee made the recommendations
+Evidence showed that more cases of severe valve disease were picked up when a murmur
+plus other signs or symptoms were present. The committee agreed that mild and
+moderate valve disease does not usually present with these symptoms and using these
+criteria for referral would not result in unnecessary referral for urgent specialist
+assessment or echocardiography in most cases.
+People with exertional syncope and a systolic murmur need an urgent diagnosis because
+exertional syncope caused by aortic stenosis has a high risk of a poor outcome. The
+diagnosis must be made quickly to allow appropriate management, which would likely
+include intervention if severe aortic stenosis is confirmed. Depending on local availability,
+an echocardiogram may be faster than direct specialist referral, which would include
+echocardiography, so the committee agreed to recommend either for this group. The
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
+conditions#notice-of-rights). 60
+--- Страница 31 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+committee agreed that the assessment or echocardiogram should be done within 2 weeks.
+For people with severe symptoms (New York Heart Association classification III to IV or
+perceived by the person as severe) and a murmur, but without exertional syncope, the
+committee agreed that urgent specialist assessment within 2 weeks, which would include
+echocardiography, should be considered.
+How the recommendations might affect practice
+The recommendations reflect current practice.
+Return to recommendations
+Referral to a specialist after echocardiography
+Recommendations 1.1.6 and 1.1.7
+Why the committee made the recommendations
+Across the included studies, moderate and severe valve disease was consistently
+associated with more adverse outcomes than 'mild' or 'mild and moderate' valve disease.
+Despite limited evidence for each specific type of valve disease, the committee agreed
+that specialist referral should be offered to those with moderate or severe disease. This is
+consistent with current practice.
+The evidence could not be used to recommend that people with mild valve disease should
+never be referred to a specialist, because outcomes were not compared with those
+without valve disease. However, the committee stressed that patients and healthcare
+professionals should be aware that mild valve disease is very common in people over 70, it
+seldom causes symptoms and does not progress in most cases. The committee
+recommended that people with bicuspid aortic valve disease of any severity (including
+mild disease) should be offered specialist referral because its progression is different to
+other types of valve disease, it can be associated with aortopathy and in practice is
+usually referred.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of
+conditions#notice-of-rights). 60
+--- Страница 32 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+How the recommendations might affect practice
+The committee agreed that it is current practice for everyone with moderate or severe
+valve disease to be referred to a specialist, regardless of the type of disease and whether
+it is primary or secondary. The recommendation on moderate and severe valve disease
+would therefore not lead to a change in practice.
+For mild valve disease, there is currently variation in specialist referral, with some
+unnecessary referrals being made. Although the recommendation does not preclude
+referral for this group, it may reassure individuals with mild valve disease, reduce the
+number of unnecessary referrals and be cost saving. The recommendations covering
+bicuspid aortic valve disease were considered to reflect current practice.
+Return to recommendations
+Information, referral and specialist assessment for
+pregnant women and women considering
+pregnancy
+Recommendations 1.1.8 to 1.1.13
+Why the committee made the recommendations
+The committee recognised that the proportion of pregnant women with valve disease is
+small compared with the number of women with valve disease who may be considering
+pregnancy. These women need to carefully consider the impact of treatment on any future
+pregnancy and should be given advice before making a treatment decision. This should
+include advice on contraception and planned pregnancy for women with severe valve
+disease, and consideration of the type of valve they receive if surgery is performed. It may
+be appropriate for their clinician to seek specialist advice to inform this decision from a
+cardiologist with expertise in the care of pregnant women. The committee noted that
+healthcare professionals without specialist expertise may inappropriately advise women
+against becoming pregnant. They agreed that some women with valve disease who may
+wish to become pregnant or who are pregnant should be referred to a cardiologist with
+specialist expertise. The committee highlighted that only women with moderate or severe
+disease on echocardiography, bicuspid aortic valve disease with associated aortopathy or
+prosthetic valves need referral. Women with mild disease, for example, aortic regurgitation
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 32 of
+conditions#notice-of-rights). 60
+--- Страница 33 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+or mitral valve prolapse without regurgitation, do not need a referral. The committee
+acknowledged that an ejection systolic flow murmur is present in most pregnant women
+and is not a cause for concern. They also noted that there is no official subspecialty or
+national accreditation for cardiologists with a specialist interest in pregnancy.
+How the recommendations might affect practice
+The committee acknowledged that it is not current practice to refer women who are
+considering pregnancy to a cardiologist with specialist expertise. Although moderate or
+severe heart valve disease is relatively rare in women of childbearing age, they still
+represent an important group of patients. Healthcare centres offering specialised support
+to women considering pregnancy are not widespread, so the committee expect a
+moderate change in practice in those centres.
+Return to recommendations
+Pharmacological management to improve
+prognosis
+Why the committee made the recommendations
+There was no evidence that pharmacological management can slow the progression of
+heart valve disease, only evidence that statins improve prognosis in aortic stenosis. The
+evidence showed that statins reduced cardiac mortality compared with placebo for adults
+with aortic stenosis. The committee agreed that this benefit is because of an improvement
+in overall cardiovascular health rather than a direct effect on the aortic stenosis.
+Therefore, no recommendation was made and statins should be used in line with the NICE
+guideline on cardiovascular disease: risk assessment and reduction, including lipid
+modification.
+There was not enough evidence for the committee to make recommendations on
+pharmacological management of other conditions (for example, systemic hypertension) in
+people who also have heart valve disease.
+The committee decided to make recommendations for research to inform pharmacological
+management using common treatments (ACE inhibitors, angiotensin II receptor
+antagonists, beta-blockers, calcium channel blockers and diuretics) in adults with aortic
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 33 of
+conditions#notice-of-rights). 60
+--- Страница 34 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+stenosis, aortic regurgitation or mitral regurgitation. These are important areas of
+uncertainty in current UK clinical practice.
+How the recommendations might affect practice
+The recommendation reflects current practice, so the committee agreed there is unlikely
+to be a significant resource impact.
+Pharmacological management of heart failure in
+heart valve disease
+Recommendations 1.2.1 and 1.2.2
+Why the committee made the recommendation
+Some evidence showed that beta-blockers reduced hospital stay for heart failure and
+increased exercise tolerance compared with usual care in adults with mitral stenosis. As
+with all other indications for beta-blockers, some adults with mitral stenosis stopped
+beta-blockers because of adverse events (weakness, dizziness and shortness of breath).
+But the committee agreed that in their experience these medicines offer overall benefit for
+people with moderate to severe mitral stenosis and heart failure.
+The studies included younger people than in UK clinical practice, with mitral stenosis often
+being because of rheumatic fever. Patients also had atrial fibrillation. The committee
+agreed to make a recommendation for research to inform future use of beta-blockers for
+older adults with non-rheumatic calcific mitral stenosis, which is currently more common in
+the UK than rheumatic mitral stenosis, in sinus rhythm or atrial fibrillation.
+Although a recommendation to consider beta-blockers in people with moderate to severe
+mitral stenosis and heart failure was made, there was not enough evidence for the
+committee to make recommendations on the use of beta-blockers in other types of heart
+valve disease. Similarly, there was not enough evidence to make recommendations on
+other drugs for the management of heart failure in heart valve disease. They agreed to
+make a recommendation for research on the pharmacological management of heart failure
+in adults with severe aortic stenosis, aortic regurgitation, and mitral regurgitation.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 34 of
+conditions#notice-of-rights). 60
+--- Страница 35 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+How the recommendation might affect practice
+The recommendation reflects current practice, so the committee agreed there is unlikely
+to be a significant resource impact.
+Return to recommendations
+Indications for interventions
+Recommendation 1.3.1
+Why the committee made the recommendation
+Severe symptomatic heart valve disease has a poor prognosis and there is no treatment
+for the symptoms other than an intervention on the valve. Because of this, the committee
+recommended that an intervention should be offered to this group. The evidence to
+support this recommendation is discussed under the different types of valve disease in the
+section on intervention.
+How the recommendation might affect practice
+The recommendation reflects current practice.
+Return to the recommendation
+Indications for interventions for adults with aortic
+stenosis
+Recommendations 1.3.2 to 1.3.5
+Why the committee made the recommendations
+Echocardiography
+A peak aortic jet velocity more than 5 m/s was a risk factor for increased mortality
+(all-cause and cardiac or cardiovascular) and sudden death in people with asymptomatic
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 35 of
+conditions#notice-of-rights). 60
+--- Страница 36 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+severe aortic stenosis who had not had a valve intervention. An aortic valve area less than
+0.6 cm2 was also associated with increased all-cause mortality, both before and after
+valve intervention in adults with asymptomatic severe aortic stenosis.
+A left ventricular ejection fraction (LVEF) less than 55% was the best marker of early
+myocardial decompensation, being linked to increased mortality in adults with
+asymptomatic severe aortic stenosis.
+Raised B-type natriuretic peptide (BNP), particularly when 2 to 3 times the normal level,
+was a risk factor for all-cause mortality, before and after valve intervention, for people with
+asymptomatic severe aortic stenosis and a preserved ejection fraction. The committee
+agreed that this would also apply to N-terminal proBNP (NT-proBNP), which is more widely
+used currently in the UK than BNP.
+Some of these indicators were broadly in line with current practice and the experience of
+the committee. In addition, the evidence for increased mortality was strong, including for
+BNP. Therefore, the committee agreed that these indicators of poorer prognosis should
+prompt a discussion about the possible need for referral for intervention in people with
+asymptomatic severe aortic stenosis. Recommendations were limited to considering
+referral because the evidence was low to very low quality.
+There was some evidence of increased mortality in people with asymptomatic severe
+aortic stenosis and a global longitudinal strain less than 14.7% or 15%, even when ejection
+fraction was preserved. However, there is some concern about reproducibility of
+measurements. The committee agreed that further research in this area would help to
+inform future guidance, so they made a recommendation for research.
+Stress testing and stress echocardiography
+Despite limitations in the quality of the evidence, the committee agreed that there was
+enough to show that symptoms revealed during exercise testing predict a poor outcome in
+people with asymptomatic severe aortic stenosis. They noted that some people may not
+report symptoms because they have adapted, for example, by reducing their activity.
+Exercise testing may therefore reveal these symptoms, which is an indication for
+intervention.
+There was evidence from 2 studies, but with limitations, that no increase in valve area on
+dobutamine stress testing was associated with worse outcome in symptomatic low-flow
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 36 of
+conditions#notice-of-rights). 60
+--- Страница 37 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+low-gradient aortic stenosis. Point estimates and confidence intervals from both studies
+were consistent with this being a risk factor for poor outcome. Severe aortic stenosis is
+suggested if a person with low-gradient aortic stenosis has an LVEF less than 50% and a
+valve area less than 1 cm2 at rest. Based on the evidence and the committee's experience,
+this can be confirmed on dobutamine stress testing if their valve area stays below 1 cm2
+and their mean gradient rises above 40 mmHg. This would therefore be an indication for
+intervention.
+Cardiac MRI and cardiac CT
+The evidence showed that a higher aortic valve calcium score measured by cardiac CT
+indicates a worse prognosis for people with aortic stenosis. This could be because it is an
+index of the severity of aortic stenosis or because it is a marker of more widespread
+vascular disease. This was supported by the knowledge and experience of the committee,
+who noted that a more calcified aortic valve is associated with more severe aortic
+stenosis. However, the mechanism of aortic stenosis in bicuspid aortic valves or in
+rheumatic disease is different, and cardiac CT would not be as relevant for monitoring
+valve calcium.
+Most of the evidence suggested that myocardial fibrosis was associated with increased
+risk of a poor outcome in severe aortic stenosis. This was in line with the committee's
+experience that myocardial fibrosis in general, not only in aortic stenosis, is associated
+with a worse prognosis. Furthermore, myocardial fibrosis in people with severe aortic
+stenosis indicates early decompensation and the possible need for early intervention to
+stop progression, because mid-wall fibrosis cannot be reversed or improved by
+intervention. The committee agreed that follow up should be enhanced and further
+assessment should be offered in those with mid-wall fibrosis to check for symptoms and
+enable earlier aortic valve intervention to improve prognosis.
+How the recommendations might affect practice
+These recommendations largely reflect current best practice, although there is local
+variation and not all healthcare professionals will know that all of these thresholds should
+lead to referral for intervention.
+However, the threshold of LVEF less than 55% does represent a change from current
+practice, because some centres use a threshold of less than 50%. However, for most
+adults this will mean earlier rather than additional intervention, with subsequent
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 37 of
+conditions#notice-of-rights). 60
+--- Страница 38 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+improvement in survival and quality of life.
+Cardiac MRI is not currently used by all centres to assess aortic stenosis. The
+recommendation to consider enhanced follow up and further assessment if mid-wall
+fibrosis is detected by cardiac MRI should not mean a change in practice because it will be
+implemented only when cardiac MRI data is available.
+Return to recommendations
+Indications for intervention for adults with aortic
+regurgitation
+Recommendation 1.3.6
+Why the committee made the recommendation
+Echocardiography
+The committee agreed that it is established practice to consider intervention for people
+with severe aortic regurgitation and reduced cardiac function. Severity is defined in line
+with British Society of Echocardiography guidelines. People with aortic regurgitation are
+often younger than people with other types of valve disease and benefit from timely
+intervention.
+Evidence showed that when LVEF was less than 55%, the risk of cardiovascular mortality
+or heart failure after intervention was higher. End systolic diameter index (ESDI) is also a
+measure of systolic dysfunction. Evidence showed an increased risk of left ventricular
+systolic dysfunction or death when ESDI was more than 24 mm/m2. The committee agreed
+that either of these 2 indicators of early myocardial decompensation should prompt
+discussion of possible intervention for asymptomatic severe aortic regurgitation.
+Recommendations were limited because of the evidence included being low to very low
+quality.
+There was not enough evidence to include BNP level as an indicator for referral for
+intervention for people with asymptomatic severe aortic regurgitation. The committee
+agreed to make a recommendation for research to inform future practice.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 38 of
+conditions#notice-of-rights). 60
+--- Страница 39 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Stress testing and stress echocardiography
+No evidence was identified for stress testing and stress echocardiography in adults with
+asymptomatic severe aortic regurgitation. The committee agreed that further research
+could answer questions about when to intervene in this population. Therefore, they made
+a recommendation for research to identify prognostic factors in this population on stress
+testing.
+How the recommendation might affect practice
+The recommendation is in line with current practice.
+Return to recommendation
+Indications for intervention for adults with mitral
+regurgitation
+Recommendation 1.3.7
+Why the committee made the recommendation
+Echocardiography
+Evidence showed that an LVEF less than 60% was a risk factor for increased cardiac
+mortality after intervention for asymptomatic severe mitral regurgitation. An ESDI greater
+than 22 mm/m2 was associated with onset of symptoms, left ventricular dysfunction, or
+death without intervention. This is broadly equivalent to the non-indexed ESD threshold of
+45 mm used in current practice. The committee agreed that either of these indicators of
+early myocardial decompensation should prompt consideration of an intervention for
+people with asymptomatic severe mitral regurgitation. Recommendations were limited to
+considering an intervention because the evidence was low to very low quality. The
+evidence on valve morphology, atrial fibrillation and pulmonary hypertension was not
+robust enough to include these as independent indicators for referral for intervention.
+However, the evidence suggested that these were associated with increased mortality, so
+the committee agreed their presence should be considered when discussing the
+possibility of intervention.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 39 of
+conditions#notice-of-rights). 60
+--- Страница 40 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+There was not enough evidence to include BNP level as an indicator for referral for
+intervention for people with asymptomatic severe mitral regurgitation. The committee
+agreed to make a recommendation for research to inform future practice.
+Stress testing and stress echocardiography
+Evidence from 2 studies showed that an increase of systolic pulmonary artery pressure
+(SPAP) to more than 60 mmHg on exercise was associated with worse outcomes in people
+with mitral regurgitation (asymptomatic or asymptomatic/mildly symptomatic, moderate or
+severe). This agreed with the committee's experience. Although there is limited evidence
+that in severe mitral regurgitation, intervening before symptoms develop results in better
+outcomes, the committee agreed that this may be better. Evidence from 1 study showed
+that SPAP above 60 mmHg on exercise was associated with symptoms developing during
+follow up.
+There was not enough evidence for the committee to make a recommendation about
+symptomatic non-severe mitral regurgitation. The single small study identified suggested
+that an increase in effective regurgitant orifice area of 13 mm2 or more on exercise may
+indicate a worse outcome for this group. But the committee were not confident in this
+result and so made a recommendation for research to inform future practice.
+How the recommendation might affect practice
+The recommendation largely reflects current best practice, although there is local variation
+and not all healthcare professionals will know that all of these thresholds should lead to
+referral for intervention.
+Return to recommendation
+Monitoring when there is no current need for
+intervention
+Recommendations 1.4.1 and 1.4.2
+Why the committee made the recommendations
+A single study from the US suggested that regular monitoring for people with severe
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 40 of
+conditions#notice-of-rights). 60
+--- Страница 41 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+asymptomatic aortic stenosis reduced all-cause mortality and hospital admission for heart
+failure. However, the study had limitations, including lack of applicability to UK clinical
+practice.
+The committee discussed that although frequency of monitoring currently varies in the UK,
+it is usually every 6 to 12 months. Some adults find 6-monthly monitoring reassuring. For
+others this leads to anxiety and they would prefer less frequent monitoring (for example,
+every 12 months). The committee agreed that the exact frequency of monitoring within the
+6-month to 12-month timeframe should be determined by echocardiography results and
+shared decision making with the patient. Monitoring less often than every 12 months
+would be likely to lead to negative outcomes for the patient because valve changes in this
+group occur over months rather than years. However, monitoring less often than every
+12 months may be suitable for a minority of patients who have demonstrated stability over
+several years. The recommendation covers all types of asymptomatic severe valve
+disease.
+In line with current practice, echocardiographic assessment every 3 to 5 years should be
+considered for adults with mild aortic or mitral stenosis. This would help to identify people
+with asymptomatic disease that has become more severe and for whom intervention may
+be appropriate.
+How the recommendations might affect practice
+The recommendations are in line with current practice.
+Return to recommendations
+Decisions about interventions
+Recommendations 1.5.1 and 1.5.2
+Why the committee made the recommendations
+The committee highlighted the importance of shared decision making when discussing
+interventions. This is to ensure that treatment options are fully explored, along with their
+risks and benefits. Specifically, the committee highlighted valve durability, the risks
+associated with the procedure, and the possible need for other cardiac procedures in the
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 41 of
+conditions#notice-of-rights). 60
+--- Страница 42 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+future.
+The committee agreed that in their clinical experience there was no difference between
+minimally invasive and standard surgery replacement in terms of outcomes when done by
+those with expertise in minimally invasive surgery. The decision should be based on
+patient characteristics and preferences. A lack of expertise in minimally invasive surgery
+locally should not be used as a reason for not performing a minimally invasive procedure.
+Adults should be referred to a centre where this expertise is available if the procedure is
+agreed as most suitable. The evidence to support this recommendation is reported under
+the different types of valve disease.
+How the recommendations might affect practice
+The recommendations are expected to have a very small impact on current practice.
+Minimally invasive surgery will not be suitable for many patients. Those for whom it is
+suitable may still decide to have standard surgery after considering the possible benefits
+and risks of both options.
+Return to recommendations
+Interventions for aortic valve disease
+Recommendations 1.5.3 to 1.5.5
+Why the committee made the recommendations
+Aortic stenosis when surgery is suitable
+Evidence from 8 randomised controlled trials (RCTs) showed no large or clear differences
+for most outcomes between transcatheter aortic valve implantation (TAVI) and surgery for
+adults with non-bicuspid aortic stenosis, including mortality outcomes and quality of life.
+However, a benefit of TAVI was identified for major bleeding and atrial fibrillation at
+30 days, and length of hospital stay after the intervention. Absolute effects for other
+outcomes also suggested a benefit, but there was more uncertainty based on the
+confidence intervals. A harm of TAVI was identified for pacemaker implantation at 30 days.
+Although absolute effects also suggested a possible harm of TAVI in terms of mortality and
+rehospitalisation, the direction and size of the effect was much more uncertain for these
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 42 of
+conditions#notice-of-rights). 60
+--- Страница 43 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+outcomes and no clear difference between the 2 groups could be identified.
+Only 1 study reported data beyond 5 years, but only for all-cause mortality. The health
+economic model developed as part of the guideline looked for cost effectiveness over a
+lifetime. Therefore, it included evidence about the impact of complications in the long
+term, beyond 5 years, given the longer life expectancy for younger people with lower
+surgical risk. The results of the health economic model showed that TAVI at current prices
+was cost effective for people at high risk of surgery but not for people at low or
+intermediate risk. The committee agreed that if surgery is an option, it should be offered to
+those with severe aortic stenosis who are low or intermediate risk. Although all of the
+evidence identified was for non-bicuspid aortic stenosis, it was agreed that the
+recommendation should also apply to bicuspid aortic stenosis, because suitability of
+surgery does not depend on the type of aortic stenosis. TAVI is also considered to be more
+difficult in bicuspid aortic stenosis.
+Aortic stenosis when surgery is unsuitable
+Evidence showed benefits for TAVI for people with inoperable non-bicuspid severe aortic
+stenosis compared with pharmacological management at 1 to 5 years. These included
+benefits in all-cause mortality, cardiac mortality, need for another intervention during
+follow up, and hospital admission. However, at 30 days TAVI was associated with
+increased mortality, stroke or transient ischaemic attack, major bleeding, and major
+vascular complications. The committee noted that TAVI is the only intervention available
+for some people with symptomatic severe aortic stenosis. They agreed that
+pharmacological management is not sufficient to help symptoms in severe aortic stenosis
+and for some aortic stenosis can be fatal without an intervention. TAVI can improve
+outcomes in many cases. Two UK-based studies indicated that TAVI offers a good balance
+of benefits and costs in adults who cannot have surgery. The committee agreed to
+recommend TAVI, if suitable, for those with non-bicuspid severe aortic stenosis if surgery
+is unsuitable. TAVI is the only option for this group and was deemed cost effective in this
+population.
+All of the evidence identified was for non-bicuspid aortic stenosis. TAVI is considered to
+be more difficult for bicuspid aortic stenosis and the committee could not extrapolate the
+evidence to cover this population.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 43 of
+conditions#notice-of-rights). 60
+--- Страница 44 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Invasiveness of surgery
+Evidence was identified from 14 RCTs comparing minimally invasive surgery for aortic
+valve replacement with standard surgery by median sternotomy across different aortic
+valve disease populations. Some harms of minimally invasive surgery were observed, and
+1 health economic study suggested that minimally invasive surgery was less cost effective
+than median sternotomy. However, the RCTs were small and a small number of events
+were observed for many outcomes. The health economic study was limited for the same
+reasons because it was based on 1 of the RCTs and was limited to a 12-month time-
+horizon. Although the committee agreed it is likely there would not be a large difference in
+outcomes after 12 months, this may be too short to draw conclusions about cost
+effectiveness over a lifetime. The committee highlighted that in their experience there was
+no difference between minimally invasive surgery and median sternotomy when done by
+those with expertise. The committee were also aware of certain advantages of minimally
+invasive surgery, for example, smaller incisions. The committee agreed not to limit the use
+of minimally invasive surgery and to recommend a choice with the decision based on
+patient characteristics and preferences. A lack of expertise in minimally invasive surgery
+locally should not be used as a reason for not performing a minimally invasive procedure
+and adults should be referred to a centre where there is expertise if this procedure is
+agreed as most suitable.
+Despite no direct evidence for bicuspid aortic stenosis, aortic regurgitation (bicuspid or
+non-bicuspid) and mixed aortic valve disease (aortic stenosis and regurgitation in the
+same person), the committee agreed that the type of aortic valve disease would not affect
+decisions about the invasiveness of surgery and the evidence could be extrapolated to
+any aortic valve disease.
+How the recommendations might affect practice
+TAVI for non-bicuspid aortic stenosis when surgery is unsuitable
+The committee agreed that the use of TAVI is increasing, particularly when surgery is
+unsuitable and there are no other options for interventional procedures. It would be rare
+not to perform TAVI in these circumstances, but palliative care with pharmacological
+management is sometimes agreed. Therefore, the committee considered that the
+recommendation would represent a minimal change in practice and would not increase the
+number of TAVI procedures.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 44 of
+conditions#notice-of-rights). 60
+--- Страница 45 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Surgery for aortic stenosis when this is suitable
+The committee agreed that TAVI is usually reserved for when surgery is unsuitable or
+carries high risks of mortality. But data from the UK TAVI registry suggests that in recent
+years the procedure has been expanded to groups of people with lower surgical risk. The
+recommendation to offer TAVI to those with high surgical risk should have a moderate
+impact, as only 1.9% of surgeries are currently done in this group.
+The recommendation to offer surgery instead of TAVI to those with intermediate and low
+surgical risk should increase the number of surgeries and reduce TAVIs in this group. This
+will ultimately improve NHS efficiency.
+Minimally invasive surgery or median sternotomy for aortic valve disease
+Data suggests that between 5% and 10% of surgical isolated aortic valve replacements are
+done by minimally invasive surgery. If the recommendation leads to an increase in the
+number of aortic valve replacements being done by minimally invasive surgery, this could
+represent an important change in practice. There may be no increase in the short term, as
+more training in these procedures will be needed, but only in the long term when more
+centres will have the expertise and capacity of offering minimally invasive surgery.
+Return to recommendations
+Interventions for mitral stenosis
+Recommendations 1.5.6 and 1.5.7
+Why the committee made the recommendations
+Evidence from 7 RCTs comparing transcatheter valvotomy with surgical valvotomy (either
+by minimally invasive or standard surgery) in people with rheumatic severe mitral stenosis
+demonstrated very few differences in outcomes. The committee agreed that surgical
+valvotomy is no longer commonly used in practice because similar results can be achieved
+with the transcatheter procedure, with less trauma and scarring and at a lower cost to the
+NHS. The evidence was limited by small studies, often with only a small number of events,
+and most outcomes being graded as very low quality. The committee agreed that
+transcatheter valvotomy could be considered for adults with rheumatic severe mitral
+stenosis who need an intervention and for whom this procedure would be suitable.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 45 of
+conditions#notice-of-rights). 60
+--- Страница 46 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+No evidence was identified for mitral valve replacement in those with rheumatic mitral
+stenosis when transcatheter valvotomy is not suitable. The committee agreed this it was
+important to make a recommendation for these people. Although no evidence was
+included, the condition would likely deteriorate without an intervention.
+It was not appropriate to extrapolate evidence from rheumatic mitral stenosis to calcific
+mitral stenosis because they are 2 very different pathologies. Because there was no
+evidence included for calcific mitral stenosis, the committee made a recommendation for
+research to inform future practice.
+How the recommendations might affect practice
+The recommendations are in line with current practice.
+Return to the recommendations
+Interventions for mitral regurgitation
+Recommendations 1.5.8 to 1.5.14
+Why the committee made the recommendations
+Repair or replacement when surgery is suitable
+Evidence from 3 RCTs demonstrated few differences between surgical repair and surgical
+replacement in those with severe mitral regurgitation. (One study included both primary
+and secondary mitral regurgitation; the other 2 studies covered secondary mitral
+regurgitation only). The largest effect was for the need for reintervention for secondary
+mitral regurgitation, with fewer repeat interventions needed in the replacement group.
+Overall, the included evidence was limited; all studies were very small, with very few
+events reported for most outcomes and substantial uncertainty in the effects reported.
+Most outcomes were graded as very low quality. The lack of stronger evidence is likely to
+be because surgical repair has been preferred to replacement in mitral valve surgery for
+the past few decades. This was based on observational evidence and because
+randomising to repair or replacement in people for whom repair is suitable was thought to
+be unethical. Based on these limitations, the committee made recommendations reflecting
+current practice for those with severe mitral regurgitation requiring an intervention, with
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 46 of
+conditions#notice-of-rights). 60
+--- Страница 47 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+surgical repair recommended in those for whom it is suitable and replacement when repair
+is not suitable.
+The committee noted that there are differences in the aetiology and treatment of primary
+and secondary mitral regurgitation. Although valve intervention is the next step for primary
+mitral regurgitation and an indication for intervention, for secondary mitral regurgitation
+the underlying heart failure is usually treated first. Therefore, the committee recommended
+that an intervention should be offered for severe primary mitral regurgitation and
+considered for secondary mitral regurgitation after optimisation of medical management.
+Invasiveness of surgery
+Evidence from 5 RCTs comparing minimally invasive surgery with median sternotomy for
+mitral regurgitation or mixed/unclear mitral valve disease demonstrated few differences.
+The studies were limited by small participant numbers and a small number of events for
+many reported outcomes. There was substantial uncertainty for most reported outcomes,
+a lack of long-term data for many outcomes, and most outcomes were graded as low or
+very low quality. Overall, when any larger differences were observed (for example, length
+of stay), these were for a benefit of minimally invasive procedures. A single health
+economic study suggested the cost of minimally invasive surgery was less per person than
+median sternotomy. However, the committee did not consider the included evidence to be
+strong enough to support recommending 1 type of surgery over the other. They agreed
+that median sternotomy and minimally invasive surgery should be options for those with
+mitral regurgitation requiring mitral valve surgery, with the decision being based on patient
+characteristics and patient preferences. A lack of expertise in minimally invasive surgery
+locally should not be used as a reason for not performing a minimally invasive procedure
+and patients should be referred to a centre where there is expertise if this procedure is
+agreed as most suitable.
+Transcatheter mitral valve repair in primary mitral regurgitation when surgery
+is unsuitable
+No clinical evidence was identified comparing transcatheter mitral valve repair with
+medical management for primary mitral regurgitation when surgery is not suitable. The
+committee noted that the lack of evidence may be because it is well established that
+medical management does not improve outcomes and transcatheter mitral valve repair is
+useful when surgery cannot be performed. One health economic study, based on a
+non-randomised registry, reported that transcatheter repair was cost effective compared
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 47 of
+conditions#notice-of-rights). 60
+--- Страница 48 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+with medical management in those with severe mitral regurgitation when surgery was not
+suitable. This study had limitations because it included people with secondary mitral
+regurgitation and used data from a prospective, single-arm registry with a control group
+obtained retrospectively. A second Japanese study on a mixed population with secondary
+and primary mitral regurgitation found transcatheter repair with the MitraClip device to be
+cost effective. This study had some limitations too as the relative treatment effects were
+informed from a propensity score matching study rather than an RCT.
+A health economic model developed as part of this guideline did not find MitraClip to be
+cost effective for adults with secondary mitral regurgitation. However, the committee
+agreed that it was plausible that MitraClip would offer more benefits for people with
+primary mitral regurgitation because they are likely to have less residual disease affecting
+quality of life after the intervention. The committee agreed to recommend that
+transcatheter mitral valve repair should be considered for primary severe mitral
+regurgitation with symptoms when surgery is unsuitable.
+Transcatheter mitral valve repair in secondary mitral regurgitation when
+surgery is unsuitable
+Evidence was included from 3 RCTs comparing transcatheter mitral valve repair with
+medical management for secondary mitral regurgitation. Two of these were clearly in a
+population in which surgery was not suitable and covered the use of the MitraClip device;
+the third study covered a Carillon device rather than MitraClip and the population was
+unclear. Outcomes from all 3 studies were pooled if possible, in the clinical review, but the
+health economic modelling was limited to the population in which surgery was not suitable.
+The clinical review highlighted uncertainty in the results for 3 outcomes (all-cause
+mortality, cardiac mortality and onset/exacerbation of heart failure at 1 to 3 years or 2 to
+3 years). Some studies demonstrated a benefit of transcatheter repair, some a harm (lack
+of benefit) and some no difference. One UK health economic study based on the results of
+the COAPT trial, which enrolled people with very severe secondary mitral regurgitation
+deemed inoperable, found that transcatheter edge-to-edge repair with MitraClip device
+had an incremental cost per quality-adjusted life year (QALY) of about £30,000.
+A health economic model was developed as part of the guideline to investigate the cost
+effectiveness of using the MitraClip device when surgery is not suitable. The model
+demonstrated that transcatheter mitral valve repair had a low chance of being cost
+effective at £20,000 per QALY gained, with an incremental cost-effectiveness ratio of
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 48 of
+conditions#notice-of-rights). 60
+--- Страница 49 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+£30,000 per QALY gained. These results are in line with the UK study identified in the
+literature review. The health economic model was largely based on results from the COAPT
+trial, which covered transcatheter mitral valve repair in severe secondary mitral
+regurgitation. This trial demonstrated substantial benefits over medical management alone
+when surgery was unsuitable. However, it was not considered to be cost effective at the
+current list price. For this reason, edge-to-edge mitral valve repair was not recommended
+over medical management.
+How the recommendations might affect practice
+Repair or replacement when surgery is suitable
+Edge-to-edge repair is not widely available in the NHS. Therefore, this recommendation
+may lead to a change in practice and increase the amount of percutaneous mitral
+intervention in those for whom it is suitable.
+Invasiveness of surgery
+The recommendations are in line with current practice.
+Transcatheter mitral valve repair in primary mitral regurgitation when surgery
+is unsuitable
+Transcatheter mitral valve repair is rarely done for primary mitral regurgitation when an
+intervention is needed and surgery is unsuitable, so the recommendation may lead to a
+change in practice. This procedure has only recently been commissioned by the NHS and
+its use is likely to increase now based on this commissioning. The recommendation is
+unlikely to increase use much beyond this.
+Transcatheter mitral valve repair in secondary mitral regurgitation when
+surgery is unsuitable
+Transcatheter mitral valve repair is not currently used for secondary mitral regurgitation
+because it has not been commissioned by the NHS for this. The recommendation is
+unlikely to lead to a change in practice.
+Return to recommendations
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 49 of
+conditions#notice-of-rights). 60
+--- Страница 50 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Interventions for tricuspid regurgitation
+Recommendations 1.5.15 and 1.5.16
+Why the committee made these recommendations
+A single RCT was identified comparing transcatheter repair plus optimal medical
+management with optimal medical management alone in people with severe, symptomatic
+tricuspid regurgitation and a high surgical risk score. Patients with associated tricuspid
+regurgitation have worse prognosis after mitral valve intervention than those with mild or
+no tricuspid regurgitation. There is strong evidence that secondary functional tricuspid
+regurgitation that is severe does not improve after fixing the mitral lesion. Moderate
+tricuspid regurgitation does remain stable in a few patients after mitral correction.
+However, in a significant number, it does not improve and may get worse. Tricuspid
+annuloplasty by an experienced surgeon (at the time of mitral surgery) is a quick
+procedure that reduces the amount of tricuspid regurgitation and may improve prognosis.
+Patients with associated tricuspid regurgitation have a worse prognosis after aortic valve
+intervention than those with mild or no tricuspid regurgitation. There is strong evidence
+(but not reviewed here) that secondary functional tricuspid regurgitation that is severe
+does not improve after fixing the left-sided lesion. Tricuspid annuloplasty by an
+experienced surgeon is a quick procedure that does reduce the amount of tricuspid
+regurgitation and may improve prognosis of these patients.
+The committee made a recommendation for research to inform future guidance.
+How the recommendations might affect practice
+These recommendations are in line with current practice.
+Return to recommendations
+Repeat intervention
+Recommendation 1.6.1
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 50 of
+conditions#notice-of-rights). 60
+--- Страница 51 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Why the committee made the recommendation
+No evidence was identified comparing surgery with medical management for people with
+failing biological prosthetic aortic valves. However, the committee agreed that surgery
+should be considered in this group because their condition may deteriorate if left without
+intervention on medical management.
+Similarly, no evidence was identified comparing transcatheter repeat intervention with
+medical management when surgery is unsuitable for people with failing biological
+prosthetic aortic valves. However, the committee agreed that repeat transcatheter
+intervention should be considered in this group because their condition may deteriorate if
+left without intervention on medical management.
+For people who can have surgery, there were no RCTs comparing transcatheter
+intervention with surgery for repeat intervention and the only included studies were
+non-randomised. The committee were not able to base recommendations on this because
+of the limitations with non-randomised evidence. Therefore, they recommended that a
+shared decision should be based on short- and longer-term benefits, the type of valve
+dysfunction and prosthesis, the risks associated with the procedure and the possible need
+for other cardiac procedures. The term 'degenerated' refers to progressive degeneration
+and does not include failure of the valve due to endocarditis or thrombosis. The
+recommendation was limited to those with symptoms because this was considered to be
+an indication for repeat intervention.
+The committee also made recommendations for research for repeat intervention for failing
+biological prosthetic aortic, mitral and tricuspid valves because the only available evidence
+was non-randomised.
+How the recommendation might affect practice
+When both transcatheter and surgical procedures are options for repeat intervention, the
+choice of procedure is usually based on individual patient characteristics although surgery
+may be done more often. When surgery is not an option, transcatheter intervention is used
+as the only alternative to medical management. The recommendation will therefore not
+represent a change in practice.
+Return to recommendation
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 51 of
+conditions#notice-of-rights). 60
+--- Страница 52 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Anticoagulation and antiplatelet therapy
+Recommendations 1.7.1 to 1.7.3
+Why the committee made the recommendations
+Anticoagulant and antiplatelet treatment after surgical biological valve
+replacement
+Evidence from a population without atrial fibrillation demonstrated an increased risk of
+major bleeding with vitamin K antagonist compared with single antiplatelet therapy
+(aspirin). No clear reduction in mortality or thromboembolic events was observed with
+vitamin K antagonist. Therefore, the committee agreed that anticoagulation should not be
+offered after surgical biological valve replacement unless there are other indications for
+anticoagulation. This covers both vitamin K antagonists and direct-acting oral
+anticoagulants (DOACs) because there was no evidence to show that DOACs are safe. One
+small study in people with atrial fibrillation suggested there may be no clear differences in
+outcomes between DOACs and vitamin K antagonists, and it is not common practice to use
+DOACs for this group. The committee agreed that if there is already an indication for
+anticoagulation or antiplatelet therapy, for example, because of atrial fibrillation, the
+existing NICE guidelines for these indications should be followed.
+Despite 1 study demonstrating a potential reduction in arterial thromboembolic events and
+vascular mortality with combined anticoagulant and antiplatelet therapy compared with
+anticoagulant therapy alone after surgical biological valve replacement, there was
+uncertainty around this result. This uncertainty, combined with further study limitations,
+including issues with the target international normalised ratio used and the selective
+population, meant that the study could not be used to inform general recommendations for
+surgical biological valve replacement.
+There was a lack of evidence comparing anticoagulant or antiplatelet therapy with no
+treatment after surgical biological valve replacement, so the committee made a
+recommendation for research. They made another recommendation for research to
+investigate the long-term effect of anticoagulant or antithrombotic therapy on valve
+function and outcomes after biological valve replacement because no long-term data was
+available.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 52 of
+conditions#notice-of-rights). 60
+--- Страница 53 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Single antiplatelet therapy after TAVI
+Evidence from 4 studies demonstrated a clinically important benefit of single antiplatelet
+therapy (aspirin) compared with dual antiplatelet therapy in reducing major and minor
+bleeding in the short-to-medium term. Based on this, the committee agreed that single
+rather than dual antiplatelet therapy should be considered after TAVI. As aspirin is used in
+practice, and this was used in all of the studies, aspirin was recommended, with
+clopidogrel specified as the alternative if aspirin was not tolerated.
+The committee were also aware of observational evidence that antiplatelets reduced the
+risk of valve thrombosis and improved valve durability over the long term. There was also
+evidence from 1 study demonstrating harms of DOACs compared with single antiplatelet
+therapy for most reported outcomes, including mortality, bleeding and withdrawal because
+of adverse events. This further supported the recommendation for single antiplatelet
+therapy. Because of the lack of evidence comparing anticoagulant and antiplatelet therapy
+with no treatment after TAVI, the committee made a recommendation for research.
+Valve repair
+No evidence was identified comparing different anticoagulant and antiplatelet treatments
+in adults who have had valve repair. The committee made a recommendation for research
+comparing anticoagulant and antiplatelet treatments with placebo after valve repair.
+How the recommendations might affect practice
+Anticoagulant and antiplatelet treatment after surgical biological valve
+replacement
+Practice is currently variable, with some centres offering vitamin K antagonists after
+surgical biological valve replacement. Therefore, the recommendation will lead to a change
+in practice in some centres.
+Single antiplatelet therapy after TAVI
+It is unusual for people not to receive at least single antiplatelet therapy after TAVI and
+many people receive dual antiplatelet therapy. The recommendation was not thought to
+represent a change in practice in terms of the number of people who receive some form of
+antiplatelet therapy after a transcatheter procedure.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 53 of
+conditions#notice-of-rights). 60
+--- Страница 54 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Return to recommendations
+Monitoring after an intervention
+Recommendation 1.8.1
+Why the committee made the recommendation
+No evidence was found for the frequency of monitoring after an intervention for valve
+disease. Current practice is variable and depends on patient factors, such as
+comorbidities, other cardiac disease or previous heart surgery, as well as the type of
+procedure performed (repair or replacement). Follow up also depends on the type of valve
+used for a replacement. The committee agreed that mechanical valves have good
+durability with a low risk of failure. In contrast, biological valves have lower durability with
+deterioration possible within 10 years. The committee noted that, although practice varies,
+mechanical valves may be monitored over the first 12 months and then only checked if
+problems develop. Monitoring is usually more frequent for biological valves – with some
+centres offering annual follow up starting from the year of the operation and others
+starting annual follow up after 5 years. Any concerns about abnormal valve function may
+also affect the frequency of monitoring, with more frequent follow up if there are concerns.
+The committee agreed that frequency of follow up should be discussed with the patient.
+Some people find more frequent monitoring reassuring whereas for others this leads to
+increased anxiety. People should be encouraged to seek advice if they feel that their
+condition has deteriorated. There is a higher risk of endocarditis in replacement valves and
+people should be encouraged to report symptoms.
+How the recommendation might affect practice
+The recommendation reflects current practice, which is variable and depends on various
+factors, such as valve durability and patient comorbidities and preferences.
+Return to recommendation
+Information and advice
+Recommendations 1.9.1 to 1.9.5
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 54 of
+conditions#notice-of-rights). 60
+--- Страница 55 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Why the committee made the recommendations
+Clear and consistent evidence outlined the negative impact of symptoms of valve disease
+and loss of control that led to feelings of despair and insecurity. In this context, a single
+point of contact for some people may increase the hope and security afforded between
+appointments.
+The committee also agreed that it was useful to list areas of information and advice that
+are important to people with valve disease to ensure that their expectations accurately
+match the likely course of their condition. Having this information will be beneficial for
+planning, reducing anxiety and supporting shared decision making. This may include
+relevant information for patients and carers (when appropriate) about the possibility of
+delirium after valve surgery, in line with the NICE guideline on delirium.
+From the evidence and their experience, the committee noted the psychological impact of
+valve disease on a person, whether or not the person currently has symptoms. They
+agreed that clinicians should be aware of the potential psychological impact of receiving a
+diagnosis of heart valve disease and consider providing additional advice and support.
+The committee stressed the importance of individualised care and shared decision making
+and referenced the relevant NICE guidelines. Specific advice and support at the point of
+transition from paediatric to adult services was also agreed to be important to ensure
+young adults are given appropriate information on the likely progression of their valve
+disease and referrals to adult valve clinics.
+The committee noted the limitations of the available evidence, which was mostly from
+those being considered for TAVI. These people typically have more complex comorbidities,
+and their older age means that their hopes and fears are different from those of younger
+adults. Therefore, the committee made a recommendation for research on the information
+and advice needs of all adult age groups with valve disease of all severities and stages.
+Studies should include patient-reported outcomes and experiences of decision aids.
+How the recommendations might affect practice
+Currently not all adults with valve disease have a point of contact between appointments
+or psychological support, and so these recommendations will need a change by some
+providers.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 55 of
+conditions#notice-of-rights). 60
+--- Страница 56 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Return to recommendations
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 56 of
+conditions#notice-of-rights). 60
+--- Страница 57 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Context
+The heart has 4 valves (aortic, mitral, tricuspid and pulmonary) that control blood flow.
+In heart valve disease, valve function can be impaired by:
+• stenosis, a narrowing or stiffening of the valve, which restricts its opening and
+obstructs the forward flow of blood
+• regurgitation, failure of the valve to close completely, which allows blood to flow
+backward.
+There can be stenosis and regurgitation of the same valve (mixed valve disease) or
+disease may affect more than one valve (multiple valve disease).
+Mitral and tricuspid heart valve disease can be primary or secondary. Primary disease
+affects the valve structure, whereas secondary disease results from enlargement or
+dysfunction of the heart chambers (atria or ventricles) with otherwise normal mitral or
+tricuspid valve structure.
+Heart valve disease can be congenital or acquired. Acquired valve degeneration is
+currently the main cause of heart valve disease, leading to the most common types of
+heart valve disease, as for example calcific aortic stenosis and myxomatous or calcific
+degeneration of the mitral valve.
+Secondary heart valve disease can be classified as:
+• ventricular-secondary mitral or tricuspid regurgitation
+• atrial-secondary mitral or tricuspid regurgitation.
+Among people aged 65 years or over the prevalence of asymptomatic heart valve disease
+may be more than 50%, whereas the prevalence of clinically significant heart valve disease
+is around 11%. It is predicted that for people over 65, the prevalence of heart valve disease
+will increase, from 1.5 million people currently to more than 3 million in 2046.
+People with heart valve disease may have no symptoms or may have symptoms that can
+depend on the affected valve. Associated heart rhythm problems, such as atrial fibrillation
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 57 of
+conditions#notice-of-rights). 60
+--- Страница 58 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+or heart block, may cause palpitations and breathlessness, or dizziness and
+light-headedness, respectively. Untreated severe disease can lead to valvular heart failure,
+with symptoms including breathlessness, reduced exercise capacity, tiredness and swollen
+ankles. Heart valves stiffen as part of the ageing process, making dysfunction more likely
+in older people. We hope that this guideline will raise awareness of heart valve disease and
+improve diagnosis and management.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 58 of
+conditions#notice-of-rights). 60
+--- Страница 59 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Finding more information and committee
+details
+To find NICE guidance on related topics, including guidance in development, see the NICE
+topic page on cardiovascular conditions.
+For full details of the evidence and the guideline committee's discussions, see the
+evidence reviews. You can also find information about how the guideline was developed,
+including details of the committee.
+NICE has produced tools and resources to help you put this guideline into practice. For
+general help and advice on putting our guidelines into practice, see resources to help you
+put NICE guidance into practice.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 59 of
+conditions#notice-of-rights). 60
+--- Страница 60 ---
+Heart valve disease presenting in adults: investigation and management (NG208)
+Update information
+Minor changes since publication
+December 2021: We updated the entry on severe valve disease in 'terms used in this
+guideline' with links to the current guidance from the British Society of Echocardiography.
+ISBN: 978-1-4731-4301-2
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 60 of
+conditions#notice-of-rights). 60

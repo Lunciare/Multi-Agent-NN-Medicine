@@ -1,0 +1,3527 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "eurheartj_40_3_237.pdf",
+  "converted_date": "2026-01-31T14:51:16.016280",
+  "file_size_bytes": 2906502,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/eurheartj_40_3_237.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+EXPERT CONSENSUS DOCUMENT
+EuropeanHeartJournal(2019)40,237–269
+doi:10.1093/eurheartj/ehy462
+Fourth universal definition of myocardial
+infarction (2018)
+Kristian Thygesen* (Denmark), Joseph S. Alpert* (USA), Allan S. Jaffe (USA),
+Bernard R. Chaitman (USA), Jeroen J. Bax (The Netherlands), David A. Morrow
+(USA), Harvey D. White* (New Zealand): the Executive Group on behalf of the Joint
+European Societyof Cardiology (ESC)/American College of Cardiology (ACC)/
+American Heart Association (AHA)/World Heart Federation (WHF) Task Force for
+the Universal Definition of Myocardial Infarction
+Authors/Task Force Members/Chairpersons: Kristian Thygesen* (Denmark), Joseph
+S. Alpert* (USA), Allan S. Jaffe (USA), Bernard R. Chaitman (USA), Jeroen J. Bax
+(The Netherlands), David A. Morrow (USA), Harvey D. White* (New Zealand),
+Hans Mickley (Denmark), Filippo Crea (Italy), Frans Van de Werf (Belgium), Chiara
+Bucciarelli-Ducci (UK), Hugo A. Katus (Germany), Fausto J. Pinto (Portugal), Elliott
+M. Antman (USA), Christian W. Hamm (Germany), Raffaele De Caterina (Italy),
+James L. Januzzi Jr (USA), Fred S. Apple (USA), Maria Angeles Alonso Garcia
+(Spain), S. Richard Underwood (UK), John M. Canty Jr (USA), Alexander R. Lyon
+(UK), P. J. Devereaux (Canada), Jose Luis Zamorano (Spain), Bertil Lindahl
+(Sweden), William S. Weintraub (USA), L. Kristin Newby (USA), Renu Virmani
+(USA), Pascal Vranckx (Belgium), Don Cutlip (USA), Raymond J. Gibbons (USA),
+Sidney C. Smith (USA), Dan Atar (Norway), Russell V. Luepker (USA), Rose Marie
+Robertson (USA), Robert O. Bonow (USA), P. Gabriel Steg (France), Patrick T.
+O’Gara (USA), Keith A. A. Fox (UK)
+*Correspondingauthors.KristianThygesen,DepartmentofCardiology,AarhusUniversityHospital,PalleJuul-JensensBoulevard,DK-8200AarhusN,Denmark.Tel:þ45
+78452262,Fax:þ4578452260,Email:kthygesen@oncable.dk;kristhyg@rm.dk.JosephS.Alpert,DepartmentofMedicine,UniversityofArizonaCollegeofMedicine,1501N.
+CampbellAve.,P.O.Box245037,TucsonAZ85724-5037,USA.Tel:þ15206262763,Email:jalpert@email.arizona.edu.HarveyD.White,GreenLaneCardiovascularService,
+AucklandCityHospital,PrivateBag92024,1030Auckland,NewZealand.Tel:þ6496309992,Fax:006496309915,Email:harveyw@adhb.govt.nz.
+ThecontentofthisESC/ACC/AHA/WHFExpertConsensusDocumenthasbeenpublishedforpersonalandeducationaluseonly.Nocommercialuseisauthorized.Nopartof
+theESC/ACC/AHA/WHFExpertConsensusDocumentmaybetranslatedorreproducedinanyformwithoutwrittenpermissionfromtheESCorACCorAHAorWHF.
+PermissioncanbeobtaineduponsubmissionofawrittenrequesttoOxfordUniversityPress,thepublisheroftheEuropeanHeartJournalandthepartyauthorizedtohandle
+suchpermissionsonbehalfoftheESC,ACC,AHAandWHF(journals.permissions@oxfordjournals.org).
+Disclaimer.TheESC/ACC/AHA/WHFExpertConsensusDocumentrepresentstheviewsoftheESC,ACC,AHA,andWHFandwasproducedaftercarefulconsiderationof
+thescientificandmedicalknowledgeandtheevidenceavailableatthetimeoftheirpublication.TheESC,ACC,AHA,andWHFarenotresponsibleintheeventofanycontra-
+diction,discrepancy,and/orambiguitybetweentheESC/ACC/AHA/WHFExpertConsensusDocumentandanyotherofficialrecommendationsorExpertConsensusDocument
+issuedbytherelevantpublichealthauthorities,inparticularinrelationtogooduseofhealthcareortherapeuticstrategies.HealthprofessionalsareencouragedtotaketheESC/
+ACC/AHA/WHFExpertConsensusDocumentfullyintoaccountwhenexercisingtheirclinicaljudgment,aswellasinthedeterminationandtheimplementationofpreventive,
+diagnostic,ortherapeuticmedicalstrategies;however,theESC/ACC/AHA/WHFExpertConsensusDocumentdoesnotoverride,inanywaywhatsoever,theindividualresponsi-
+bilityofhealthprofessionalstomakeappropriateandaccuratedecisionsinconsiderationofeachpatient’shealthconditionandinconsultationwiththatpatientand,where
+appropriateand/ornecessary,thepatient’scaregiver.NordoestheESC/ACC/AHA/WHFExpertConsensusDocumentexempthealthprofessionalsfromtakingintofulland
+carefulconsiderationtherelevantofficialupdatedrecommendationsorExpertConsensusDocumentsissuedbythecompetentpublichealthauthorities,inordertomanage
+eachpatient’scaseinlightofthescientificallyaccepteddatapursuanttotheirrespectiveethicalandprofessionalobligations.Itisalsothehealthprofessional’sresponsibilityto
+verifytheapplicablerulesandregulationsrelatingtodrugsandmedicaldevicesatthetimeofprescription.
+Thisarticlehasbeenco-publishedinEuropeanHeartJournal,JournaloftheAmericanCollegeofCardiology,Circulation,andGlobalHeart.Allrightsreserved.
+VC 2018EuropeanSocietyofCardiology,AmericanCollegeofCardiology,AmericanHeartAssociation,Inc.,andWorldHeartFoundation.Thearticlesareidenticalexceptfor
+minorstylisticandspellingdifferencesinkeepingwitheachjournal’sstyle.Anycitationcanbeusedwhencitingthisarticle.
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 2 ---
+238 Expertconsensusdocument
+DocumentReviewers:DavidHasdai(CPGReviewCo-ordinator)(Israel),VictorAboyans(France),
+StephanAchenbach(Germany),StefanAgewall(Norway),ThomasAlexander(India),AlvaroAvezum
+(Brazil),EmanueleBarbato(Italy),Jean-PierreBassand(France),EricBates(USA),JohnA.Bittl(USA),
+Gu¨enterBreithardt(Germany),He´ctorBueno(Spain),RaffaeleBugiardini(Italy),MauricioG.Cohen
+(USA),GeorgeDangas(USA),JamesA.deLemos(USA),VictoriaDelgado(Netherlands),Gerasimos
+Filippatos(Greece),EdwardFry(USA),ChristopherB.Granger(USA),SigrunHalvorsen(Norway),Mark
+A.Hlatky(USA),BorjaIbanez(Spain),StefanJames(Sweden),AdnanKastrati(Germany),Christophe
+Leclercq(France),KennethW.Mahaffey(USA),LaxmiMehta(USA),ChristianMu¨ller(Switzerland),
+CarloPatrono(Italy),MassimoFrancescoPiepoli(Italy),DanielPin~eiro(Argentina),MarcoRoffi
+(Switzerland),AndreaRubboli(Italy),SaminSharma(USA),IainA.Simpson(UK),MichaelTendera
+(Poland),MarcoValgimigli(Switzerland),AllardC.vanderWal(Netherlands),StephanWindecker
+(Switzerland)
+ThedisclosureformsofallexpertsinvolvedinthedevelopmentofthisExpertConsensusDocumentare
+availableontheESCwebsitewww.escardio.org/guidelines
+Onlinepublish-ahead-of-print25August2018
+...................................................................................................................................................................................................
+Keywords ExpertConsensusDocument • Myocardialinfarction • Type1MI • Type2MI • Type3MI • Type4a
+MI • Type4bMI • Type4cMI • Type5MI • Cardiactroponin • Highsensitivitycardiactroponin •
+Myocardialinjury • Priormyocardialinfarction • Silentmyocardialinfarction • Recurrentmyocardial
+infarction • Re-infarction • Cardiacproceduralmyocardialinjury • Takotsubosyndrome • Myocardialinfarc-
+tionwithnon-obstructivecoronaryarteries(MINOCA)
+.
+.
+Table of contents .. 12Myocardialinfarctionassociatedwithcoronaryarterybypass
+.
+.. grafting(type5myocardialinfarction).............................. 251
+.
+Abbreviationsandacronyms ...................................... 239 .. 13Otherdefinitionsofmyocardialinfarctionrelatedtopercutaneous
+.
+1WhatisnewintheUniversalDefinitionofMyocardial .. coronaryinterventionorcoronaryarterybypassgrafting ........... 252
+.
+Infarction? ........................................................ 240 .. 14Recurrentmyocardialinfarction ................................ 252
+.
+2Universaldefinitionsofmyocardialinjuryandmyocardial .. 15Re-infarction .................................................. 252
+.
+infarction:summary............................................... 241 .. 16Myocardialinjuryandinfarctionassociatedwithcardiac
+.
+3Introduction .................................................... 242 .. proceduresotherthanrevascularization ........................... 252
+.
+4Pathologicalcharacteristicsofmyocardialischaemiaand .. 17Myocardialinjuryandinfarctionassociatedwith
+.
+infarction......................................................... 243 .. non-cardiacprocedures........................................... 252 .
+5Biomarkerdetectionofmyocardialinjuryandinfarction .......... 243 .. 18Myocardialinjuryorinfarctionassociatedwithheartfailure ...... 253
+.
+.
+6Clinicalpresentationsofmyocardialinfarction.................... 245 . 19Takotsubosyndrome .......................................... 253
+.
+.
+7Clinicalclassificationofmyocardialinfarction ..................... 245 . 20Myocardialinfarctionwithnon-obstructivecoronaryarteries .... 254
+.
+.
+7.1Myocardialinfarctiontype1 ................................. 245 . 21Myocardialinjuryand/orinfarctionassociatedwith
+.
+.
+7.2Myocardialinfarctiontype2 ................................. 246 . kidneydisease .................................................... 254
+.
+.
+7.3Myocardialinfarctiontype2andmyocardialinjury............ 248 . 22Myocardialinjuryand/orinfarctionincriticallyillpatients ........ 254
+.
+.
+7.4MyocardialInfarctiontype3................................. 248 . 23Biochemicalapproachfordiagnosingmyocardialinjury
+.
+.
+8Coronaryprocedure-relatedmyocardialinjury................... 249 . andinfarction..................................................... 254
+.
+.
+9Myocardialinfarctionassociatedwithpercutaneouscoronary . 24Analyticalissuesofcardiactroponins ........................... 256
+.
+.
+intervention(type4amyocardialinfarction)........................ 250 . 25The99thpercentileupperreferencelimit....................... 256
+.
+.
+10Stent/scaffoldthrombosisassociatedwithpercutaneous . 26Operationalizingcriteriaformyocardialinjuryandinfarction..... 256
+.
+.
+coronaryintervention(type4bmyocardialinfarction) .............. 251 .. 27Electrocardiographicdetectionofmyocardialinfarction ......... 257
+.
+11Restenosisassociatedwithpercutaneouscoronaryintervention .. 28Applicationofsupplementalelectrocardiogramleads............ 258
+.
+(type4cmyocardialinfarction) .................................... 251 . 29Electrocardiographicdetectionofmyocardialinjury ............. 259
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 3 ---
+Expertconsensusdocument 239
+.
+30Priororsilent/unrecognizedmyocardialinfarction............... 259 .. cTnI CardiactroponinI
+.
+31Conditionsthatconfoundtheelectrocardiographicdiagnosis .. cTnT CardiactroponinT
+.
+ofmyocardialinfarction ........................................... 259 .. CT Computedtomography
+.
+32Conductiondisturbancesandpacemakers ...................... 260 .. CV Coefficientofvariation
+.
+33Atrialfibrillation ............................................... 260 .. EF Ejectionfraction
+.
+34Imagingtechniques............................................. 260 .. ECG Electrocardiogramorelectrocardiographic
+.
+34.1Echocardiography ......................................... 260 .. HF Heartfailure
+.
+34.2Radionuclideimaging ...................................... 261 .. hs-cTn High-sensitivitycardiactroponin
+.
+34.3Cardiacmagneticresonanceimaging ....................... 261 .. IFCC InternationalFederationofClinicalChemistryand
+.
+34.4Computedtomographiccoronaryangiography ............. 262 .. LaboratoryMedicine
+.
+35Applyingimaginginacutemyocardialinfarction ................. 262 .. ISFC InternationalSocietyandFederationofCardiology
+.
+36Applyingimaginginlatepresentationofmyocardialinfarction.... 262 .. LAD Leftanteriordescendingartery
+.
+37Regulatoryperspectiveonmyocardialinfarctionin .. LBBB Leftbundlebranchblock;
+.
+clinicaltrials ...................................................... 262 .. LoD Limitofdetection
+.
+38Silent/unrecognizedmyocardialinfarctioninepidemiological .. LGE Lategadoliniumenhancement
+.
+studiesandqualityprogrammes ................................... 263 .. LGE-CMR Lategadoliniumenhancementcardiacmagnetic
+.
+39Individualandpublicimplicationsofthemyocardial .. resonance
+.
+infarctiondefinition ............................................... 263 .. LV Leftventricular
+.
+40Globalperspectivesofthedefinitionofmyocardialinfarction .... 263 ... LVH Leftventricularhypertrophy
+41UsingtheUniversalDefinitionofMyocardialInfarctioninthe ... MI Myocardialinfarction
+healthcaresystem ................................................ 263 ... MINOCA Myocardialinfarctionwithnon-obstructivecoronary
+42Appendix ..................................................... 264 ... arteries
+.
+43Acknowledgements............................................ 264 .. MONICA MONItoringoftrendsanddeterminantsin
+.
+44References .................................................... 264 .. CArdiovasculardisease
+.
+.. MPS Myocardialperfusionscintigraphy
+.
+.. NHLBI NationalHeart,Lung,andBloodInstitute
+.
+Abbreviations and acronyms .. NSTEMI Non-ST-elevationmyocardialinfarction
+.
+.. PET Positronemissiontomography
+.
+ACC AmericanCollegeofCardiology .. PCI Percutaneouscoronaryintervention
+.
+ACS Acutecoronarysyndrome .. POC Pointofcare
+.
+AHA AmericanHeartAssociation .. RBBB Rightbundlebranchblock
+.
+ARC-2 AcademicResearchConsortium-2 .. SPECT Singlephotonemissioncomputedtomography
+.
+AUC Areaunderthecurve .. STEMI ST-elevationmyocardialinfarction
+.
+CAD Coronaryarterydisease .. ST-T ST-segment–Twave
+.
+CABG Coronaryarterybypassgrafting .. TIMI ThrombolysisinMyocardialInfarction
+.
+CKD Chronickidneydisease .. TTS Takotsubosyndrome
+.
+CK-MB CreatinekinaseMBisoform .. UDMI UniversalDefinitionofMyocardialInfarction
+.
+CMR Cardiacmagneticresonance .. URL Upperreferencelimit
+.
+.
+CTCA Computedtomographiccoronaryangiography . WHF WorldHeartFederation .
+.
+cTn Cardiactroponin . WHO WorldHealthOrganization
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 4 ---
+240 Expertconsensusdocument
+1 What is new in the Universal Definition of Myocardial Infarction?
+What’s new in the universal definition of myocardial infarction?
+New concepts
+(cid:129) Differentiation of myocardial infarction from myocardial injury.
+(cid:129) Highlighting peri-procedural myocardial injury after cardiac and non-cardiac procedures as discrete from myocardial infarction.
+(cid:129) Consideration of electrical remodelling (cardiac memory) in assessing repolarization abnormalities with tachyarrhythmia, pacing, and
+rate-related conduction disturbances.
+(cid:129) Use of cardiovascular magnetic resonance to define aetiology of myocardial injury.
+(cid:129) Use of computed tomographic coronary angiography in suspected myocardial infarction.
+Updated concepts
+(cid:129) Type 1 myocardial infarction: Emphasis on the causal relationship of plaque disruption with coronary athero-thrombosis; new Figure 3.
+(cid:129) Type 2 myocardial infarction: Settings with oxygen demand and supply imbalance unrelated to acute coronary athero-thrombosis;
+new Figures 4 and 5.
+(cid:129) Type 2 myocardial infarction: Relevance of presence or absence of coronary artery disease to prognosis and therapy.
+(cid:129) Differentiation of myocardial injury from type 2 myocardial infarction; new Figure 6.
+(cid:129) Type 3 myocardial infarction: Clarify why type 3 myocardial infarction is a useful category to differentiate from sudden cardiac death.
+(cid:129) Types 4–5 myocardial infarction: Emphasis on distinction between procedure-related myocardial injury and procedure-related
+myocardial infarction.
+(cid:129) Cardiac troponin: Analytical issues for cardiac troponins; new Figure 7.
+(cid:129) Emphasis on the benefits of high-sensitivity cardiac troponin assays.
+(cid:129) Considerations relevant to the use of rapid rule-out and rule-in protocols for myocardial injury and myocardial infarction.
+(cid:129) Issues related to specific diagnostic change ('delta') criteria for the use of cardiac troponins to detect or exclude acute myocardial
+injury.
+(cid:129) Consideration of new non-rate-related right bundle branch block with specific repolarization patterns.
+(cid:129) ST-segment elevation in lead aVR with specific repolarization patterns, as a STEMI equivalent.
+(cid:129) ECG detection of myocardial ischaemia in patients with an implantable cardiac defibrillator or a pacemaker.
+(cid:129) Enhanced role of imaging including cardiac magnetic resonance imaging for the diagnosis of myocardial infarction; new Figure 8.
+New sections
+(cid:129) Takotsubo syndrome.
+(cid:129) MINOCA.
+(cid:129) Chronic kidney disease.
+(cid:129) Atrial fibrillation.
+(cid:129) Regulatory perspective on myocardial infarction.
+(cid:129) Silent or unrecognized myocardial infarction.
+ECG=electrocardiogram;MINOCA=myocardialinfarctionwithnon-obstructivecoronaryarteries;STEMI=ST-elevationmyocardialinfarction.
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 5 ---
+Expertconsensusdocument 241
+2 Universal definitions of myocardial injury and myocardial infarction:
+summary
+Universal definitions of myocardial injury and myocardial infarction
+Criteria for myocardial injury
+The term myocardial injury should be used when there is evidence of elevated cardiac troponin values (cTn) with at least one value above
+the 99th percentile upper reference limit (URL). The myocardial injury is considered acute if there is a rise and/or fall of cTn values.
+Criteria for acute myocardial infarction (types 1, 2 and 3 MI)
+The term acute myocardial infarction should be used when there is acute myocardial injury with clinical evidence of acute myocardial
+ischaemia and with detection of a rise and/or fall of cTn values with at least one value above the 99th percentile URL and at least one of
+the following:
+(cid:129) Symptoms of myocardial ischaemia;
+(cid:129) New ischaemic ECG changes;
+(cid:129) Development of pathological Q waves;
+(cid:129) Imaging evidence of new loss of viable myocardium or new regional wall motion abnormality in a pattern consistent with an
+ischaemic aetiology;
+(cid:129) Identification of a coronary thrombus by angiography or autopsy (not for types 2 or 3 MIs).
+Post-mortem demonstration of acute athero-thrombosis in the artery supplying the infarcted myocardium meets criteria for type 1 MI.
+Evidence of an imbalance between myocardial oxygen supply and demand unrelated to acute athero-thrombosis meets criteria for type 2 MI.
+Cardiac death in patients with symptoms suggestive of myocardial ischaemia and presumed new ischaemic ECG changes before cTn
+values become available or abnormal meets criteria for type 3 MI.
+Criteria for coronary procedure-related myocardial infarction (types 4 and 5 MI)
+Percutaneous coronary intervention (PCI) related MI is termed type 4a MI.
+Coronary artery bypass grafting (CABG) related MI is termed type 5 MI.
+Coronary procedure-related MI ≤ 48 hours after the index procedure is arbitrarily defined by an elevation of cTn values > 5 times for
+type 4a MI and > 10 times for type 5 MI of the 99th percentile URL in patients with normal baseline values. Patients with elevated
+pre-procedural cTn values, in whom the pre-procedural cTn level are stable (≤ 20% variation) or falling, must meet the criteria for
+a > 5 or > 10 fold increase and manifest a change from the baseline value of > 20%. In addition with at least one of the following:
+(cid:129) New ischaemic ECG changes (this criterion is related to type 4a MI only);
+(cid:129) Development of new pathological Q waves;
+(cid:129) Imaging evidence of loss of viable myocardium that is presumed to be new and in a pattern consistent with an ischaemic aetiology;
+(cid:129) Angiographic findings consistent with a procedural flow-limiting complication such as coronary dissection, occlusion of a major
+epicardial artery or graft, side-branch occlusion-thrombus, disruption of collateral flow or distal embolization.
+Isolated development of new pathological Q waves meets the type 4a MI or type 5 MI criteria with either revascularization procedure if
+cTn values are elevated and rising but less than the pre-specified thresholds for PCI and CABG.
+Other types of 4 MI include type 4b MI stent thrombosis and type 4c MI restenosis that both meet type 1 MI criteria.
+Post-mortem demonstration of a procedure-related thrombus meets the type 4a MI criteria or type 4b MI criteria if associated with a stent.
+Criteria for prior or silent/unrecognized myocardial infarction
+Any one of the following criteria meets the diagnosis for prior or silent/unrecognized MI:
+(cid:129) Abnormal Q waves with or without symptoms in the absence of non-ischaemic causes.
+(cid:129) Imaging evidence of loss of viable myocardium in a pattern consistent with ischaemic aetiology.
+(cid:129) Patho-anatomical findings of a prior MI.
+CABG=coronaryarterybypassgrafting;cTn=cardiactroponin;ECG=electrocardiogram;MI=myocardialinfarction;PCI=percutaneouscoronaryintervention;URL=
+upperreferencelimit.
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 6 ---
+242 Expertconsensusdocument
+.
+3 Introduction .. Cardiology(ACC) collaborated to redefineMIusinga biochemical
+.
+.
+. andclinicalapproach,andreportedthatmyocardialinjurydetected
+.
+Inthelate19thcentury,post-mortemexaminationsdemonstrateda .. byabnormalbiomarkersinthesettingofacutemyocardialischaemia
+.
+possible relationship between thrombotic occlusion of a coronary .. shouldbe labelledasMI.9 Theprinciplewasfurther refined by the
+.
+arteryandmyocardialinfarction(MI).1However,itwasnotuntilthe .. Global MI Task Force, leading to the Universal Definition of
+.
+beginning of the 20th century that the first clinical descriptions .. Myocardial Infarction Consensus Document in 2007, introducing a
+.
+appeareddescribingaconnectionbetweentheformationofathrom- .. novel MI classification system with five subcategories.10 This docu-
+.
+businacoronaryarteryanditsassociatedclinicalfeatures.2,3Despite .. ment, endorsed by the ESC, the ACC), the American Heart
+.
+.
+theselandmarkobservations,considerabletimeelapsedbeforegen- . Association (AHA), and the World Heart Federation (WHF), was
+.
+eralclinicalacceptanceofthisentitywasachieved,inpartduetoone .. adopted bytheWHO.11The developmentofevenmore sensitive
+.
+.
+autopsystudy that showed no thrombi in thecoronary arteries of . assaysformarkersofmyocardialinjurymadefurtherrevisionofthe
+.
+31%ofdeceasedpatientswithanMI.4Theclinicalentitywasreferred ... documentnecessary,particularlyforpatientswhoundergocoronary
+.
+toascoronarythrombosis,althoughuseoftheterm‘MI’ultimately .. proceduresorcardiacsurgery.Asaresult,theJointESC/ACC/AHA/
+.
+prevailed. Over the years, several different definitions of MI have .. WHF Task Force produced the Third Universal Definition of
+.
+beenused, leading to controversy and confusion. Hence,a general .. MyocardialInfarctionConsensusDocumentin2012.12
+.
+andworldwidedefinitionforMIwasneeded.Thisoccurredforthe .. Studieshaveshownthatmyocardialinjury,definedbyanelevated
+.
+first time in the 1950–70s, when working groups from the World .. cardiactroponin(cTn)value,isfrequentlyencounteredclinicallyandis
+.
+Health Organization (WHO) established a primarily electrocardio- .. associatedwithanadverseprognosis.13,14Althoughmyocardialinjury
+.
+graphic (ECG)-based definition of MI intended for epidemiological .. isaprerequisiteforthediagnosisofMI,itisalsoanentityinitself.To
+.
+use.5Theoriginaldescription,withminormodifications,isstillusedin .. establishadiagnosisofMI,criteriainadditiontoabnormalbiomarkers
+.
+epidemiologicalsurveys(Figure1).6–8 .. arerequired.Non-ischaemicmyocardialinjurymayarisesecondaryto
+.
+Withthe introductionofmoresensitive cardiacbiomarkers,the .. many cardiac conditions such as myocarditis, or may be associated
+.
+EuropeanSocietyofCardiology(ESC)andtheAmericanCollegeof .. with non-cardiac conditions such as renal failure.15 Therefore, for
+Epidemiological Approach Clinical Approach
+ESC ACC Third
+Re- UDMI
+definition Definition
+First Fifth ISFC WHO Fourth
+UDMI
+WHO WHO WHO MONICA UDMI
+Definition
+Definition Definition Definition Definition Definition
+1950 1960 1970 1980 1990 2000 2010 2020
+AHA - ESC - WHF - NHLBI
+Clinical and
+epidemiological definition
+Figure 1 Historyofdocumentsonthedefinitionofmyocardialinfarction.ACC=AmericanCollegeofCardiology;AHA=AmericanHeart
+Association;ESC=EuropeanSocietyofCardiology;ISFC=InternationalSocietyandFederationofCardiology;MONICA=MONItoringoftrends
+and determinants in CArdiovascular disease; NHLBI = National Heart, Lung, and Blood Institute; UDMI = Universal Definition of Myocardial
+Infarction;WHF=WorldHeartFederation;WHO=WorldHealthOrganization.
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 7 ---
+Expertconsensusdocument 243
+.
+.
+patientswithincreasedcTnvalues,cliniciansmustdistinguishwhether . reportedtooccurfollowinginjurytonon-cardiactissues.Thesitua-
+.
+.
+patientshavesufferedanon-ischaemicmyocardialinjuryoroneofthe . tionismorecomplexforcTnT.Biochemicaldataindicatethatinjured
+.
+.
+MIsubtypes.Ifthereisnoevidencetosupportthepresenceofmyo- . skeletal muscle expresses proteins that are detected by the cTnT
+.
+.
+cardial ischaemia, a diagnosis of myocardial injury should be made. . assay, leading to some situations where elevations of cTnT could
+.
+Thisdiagnosiscanbechangedifsubsequentevaluationindicatescrite- .. emanatefromskeletalmuscle.23–27Recentdatasuggestthatthefre-
+.
+.
+ria for MI. The current Fourth Universal Definition of Myocardial . quencyofsuchelevationsintheabsenceofischaemicheartdisease
+.
+InfarctionConsensusDocumentreflectstheseconsiderationsthrough .. maybehigherthanoriginallythought.28,29cTnIandcTnTarethepre-
+.
+adheringtotheclinicalapproachofthedefinitionofMI. .. ferred biomarkers for the evaluation of myocardial injury,12,21,22,30
+.
+.
+. and high-sensitivity (hs)-cTn assays are recommended for routine
+.
+.
+.. clinical use.22 Other biomarkers, e.g. creatine kinase MB isoform
+.
+Clinical criteria for MI .. (CK-MB), are less sensitive and less specific.31 Myocardial injury is
+.
+TheclinicaldefinitionofMIdenotesthepresenceofacutemyo-
+... defined as being present when blood levels of cTn are increased
+cardialinjurydetectedbyabnormalcardiacbiomarkersintheset-
+... abovethe99thpercentileupperreferencelimit(URL).12,21,22,30The
+tingofevidenceofacutemyocardialischaemia.
+... injurymaybeacute,asevidencedbyanewlydetecteddynamicrising
+.. and/orfallingpatternofcTnvaluesabovethe99thpercentileURL,
+Criteria for myocardial injury
+Detection of an elevated cTn value above the 99th percentile
+4 Pathological characteristics of
+URL is defined as myocardial injury. The injury is considered
+myocardial ischaemia and acuteifthereisariseand/orfallofcTnvalues.
+infarction
+MIisdefinedpathologicallyasmyocardialcelldeathduetoprolonged
+ischaemia. Diminished cellular glycogen, and relaxed myofibrils and orchronic,inthesettingofpersistentlyelevatedcTnlevels.
+sarcolemmaldisruption,arethefirstultrastructuralchangesandare Although elevated cTn values reflect injury to myocardial cells,
+seen as early as 10–15 min after the onset of ischaemia.16 theydonotindicatetheunderlyingpathophysiologicalmechanisms,
+Mitochondrial abnormalities are observed as early as 10 min after andcanarisefollowingpreload-inducedmechanicalstretchorphys-
+coronaryocclusionbyelectronmicroscopyandareprogressive.17It iological stresses in otherwise normal hearts.32–34 Various causes
+can take hoursbeforemyocytenecrosiscan be identified bypost- havebeensuggestedforthereleaseofstructuralproteinsfromthe
+mortemexaminationinhumans;thisisincontrasttoanimalmodels, myocardium,includingnormalturnoverofmyocardialcells,apopto-
+inwhichbiochemicalevidenceofmyocardialcelldeathduetoapop- sis, cellular release of cTn degradation products, increased cellular
+tosiscanbedetectedwithin10minofinducedmyocardialischaemia wallpermeability,theformationandreleaseofmembranousblebs,
+in association with myocyte death.15 Experimentally, necrosis pro- andmyocytenecrosis.27,35Yet,itisnotclinicallypossibletodistin-
+gressesfromthesubendocardiumtothesubepicardiumoverseveral guishwhichincreasesofcTnlevelsareduetowhichmechanisms.36
+hours. The time course may be prolonged by increased collateral However, regardless of the mechanism, acute myocardial injury,
+flow,reduceddeterminantsofmyocardialoxygenconsumption,and whenassociatedwitharisingand/orfallingpatternofcTnvalueswith
+intermittent occlusion/reperfusion, which can precondition the atleastonevalueabovethe99thpercentileURLandcausedbymyo-
+heart.18Timelyimplementationofreperfusiontherapy,whenappro- cardialischaemia,isdesignated asanacute MI.12,21,22,30Histological
+priate,reducesischaemicinjuryofthemyocardium.19,20
+evidenceofmyocardialinjurywithmyocytedeathcanbedetectedin
+clinical conditions associated with non-ischaemic mechanisms of
+myocardialinjuryaswell37,38(Figure2).
+5 Biomarker detection of
+Myocardialischaemicornon-ischaemicconditionsassociatedwith
+myocardial injury and infarction increasedcTnvaluesarepresentedinTable1.Thecomplexityofclin-
+ical circumstances may sometimes make it difficult to discriminate
+CardiactroponinI(cTnI)andT(cTnT)arecomponentsofthecon- specificindividualmechanism(s)ofmyocardialinjury.Inthissituation,
+tractileapparatusofmyocardialcellsandareexpressedalmostexclu- themultifactorialcontributionsresultinginmyocardialinjuryshould
+sively in the heart.21,22 Increases in cTnI values have not been bedescribedinthepatientrecord.
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 8 ---
+244 Expertconsensusdocument
+No myocardial injurya
+Increased cTn =
+Hypoxaemia myocardial injuryb Anaemia
+Clinical evidence
+of acute ischaemic
+Hypotension/ myocardial Ventricular
+shock injury = tachyarrhythmia
+myocardial
+infarctionc
+Kidney Heart
+disease failure
+Figure2Spectrumofmyocardialinjury,rangingfromnoinjurytomyocardialinfarction.Variousclinicalentitiesmayinvolvethesemyocardialcate-
+gories,e.g.ventriculartachyarrhythmia,heartfailure,kidneydisease,hypotension/shock,hypoxaemia,andanaemia.cTn=cardiactroponin;URL=
+upperreferencelimit.aNomyocardialinjury=cTnvalues<_99thpercentileURLornotdetectable.bMyocardialinjury=cTnvalues>99thpercentile
+URL.cMyocardialinfarction=clinicalevidenceofmyocardialischaemiaandariseand/orfallofcTnvalues>99thpercentileURL.
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 9 ---
+Expertconsensusdocument 245
+.
+.
+. rest,oranischaemicequivalentsuchasdyspnoeaorfatigue.Often,
+.
+Table1 Reasonsfortheelevationofcardiactroponin .
+. thediscomfortisdiffuse;notlocalized,norpositional,noraffectedby
+valuesbecauseofmyocardialinjury ..
+.. movementoftheregion.However,thesesymptomsarenotspecific
+.
+.. for myocardial ischaemia and can be observed in other conditions
+.
+Myocardial injury related to acute myocardial ischaemia .. suchasgastrointestinal,neurological,pulmonary,ormusculoskeletal
+.
+.. complaints.MImayoccurwithatypicalsymptomssuchaspalpitations
+Atherosclerotic plaque disruption with thrombosis. ... orcardiacarrest,orevenwithoutsymptoms.12Verybriefepisodes
+.
+Myocardial injury related to acute myocardial ischaemia .. ofischaemiatooshorttocausenecrosiscanalsocausecTnrelease
+.
+because of oxygen supply/demand imbalance .. andelevations.Theinvolvedmyocytescansubsequentlydiedueto
+.
+.. apoptosis.42
+Reduced myocardial perfusion, e.g. .
+(cid:129) Coronary artery spasm, microvascular dysfunction
+... If myocardial ischaemia is present clinically or detected by ECG
+(cid:129) Coronary embolism .. changestogetherwithmyocardialinjury,manifestedbyarisingand/
+.
+(cid:129) Coronary artery dissection .. orfallingpatternofcTnvalues,adiagnosisofacuteMIisappropriate.
+.
+(cid:129) Sustained bradyarrhythmia .. Ifmyocardialischaemiaisnotpresentclinically,thenelevatedcTnlev-
+(cid:129) Hypotension or shock ..
+. elsmaybeindicativeofacutemyocardialinjuryifthepatternofvalues
+(cid:129) Respiratory failure .
+.
+(cid:129) Severe anaemia .. isrisingand/orfalling,orrelatedtomorechronicongoinginjuryifthe
+.. pattern is unchanging.14 Similar considerations are relevant when
+.
+Increased myocardial oxygen demand, e.g. .
+. evaluatingeventsthatarepotentiallyrelatedtoproceduresthatmay
+(cid:129) Sustained tachyarrhythmia ..
+. causemyocardialinjuryand/orMI.Additionalevaluationsmayleadto
+(cid:129) Severe hypertension with or without left ventricular .
+.
+hypertrophy .. aneedfortheinitialdiagnosistoberevised.
+.
+. Patientswithsuspectedacutecoronarysyndrome(ACS)thatare
+.
+Other causes of myocardial injury .
+. ruledoutforMIwithnormalcardiacbiomarkervalues(<_99thper-
+.
+.
+Cardiac conditions, e.g. .. centile URL) may have unstable angina or an alternative diagnosis.
+.
+(cid:129) Heart failure .. Thesepatientsshouldbeevaluatedandtreatedaccordingly.11,43
+.
+(cid:129) Myocarditis .
+.
+(cid:129) Cardiomyopathy (any type) ..
+.
+(cid:129) Takotsubo syndrome .
+. 7 Clinical classification of
+(cid:129) Coronary revascularization procedure ..
+.
+(cid:129) Cardiac procedure other than revascularization . myocardial infarction
+.
+(cid:129) Catheter ablation ..
+.
+(cid:129) Defibrillator shocks .
+(cid:129) Cardiac contusion
+... Forthesakeofimmediatetreatmentstrategiessuchasreperfusion
+.. therapy,itisusualpracticetodesignateMIinpatientswithchestdis-
+.
+Systemic conditions, e.g. .. comfort or other ischaemic symptoms, who develop new ST-
+(cid:129) Sepsis, infectious disease ...
+segmentelevations in two contiguous leads ornew bundlebranch
+(cid:129) Chronic kidney disease .
+(cid:129) Stroke, subarachnoid haemorrhage
+... blockswithischaemicrepolarizationpatternsasanST-elevationMI
+(cid:129) Pulmonary embolism, pulmonary hypertension .. (STEMI)(see section27). In contrast, patientswithout ST-segment .
+(cid:129) Infiltrative diseases, e.g. amyloidosis, sarcoidosis .. elevationatpresentationareusuallydesignatednon-ST-elevationMI
+.
+(cid:129) Chemotherapeutic agents .. (NSTEMI).ThecategoriesofpatientswithSTEMI,NSTEMI,orunsta- .
+(cid:129) Critically ill patients .
+. bleanginaarecustomarilyincludedintheconceptofACS.Inaddition
+(cid:129) Strenuous exercise ..
+. tothesecategories,MImaybeclassifiedintovarioustypesbasedon
+.
+. . pathological,clinical,andprognosticdifferences,alongwithdifferent
+.
+Foramorecomprehensivelisting,see39–41 .. treatmentstrategies.
+.
+.
+.
+.
+.
+.. 7.1 Myocardial infarction type 1
+6 Clinical presentations of ..
+. MIcausedbyatherothromboticcoronaryarterydisease(CAD)and
+.
+.
+myocardial infarction .. usuallyprecipitatedbyatheroscleroticplaquedisruption(ruptureor
+.
+.. erosion)isdesignatedasatype1MI.Therelativeburdenofathero-
+.
+Onsetofmyocardialischaemiaistheinitialstepinthedevelopment .. sclerosisandthrombosisintheculpritlesionvariesgreatly,andthe
+.
+of MI and results from an imbalance between oxygen supply and .. dynamicthromboticcomponentmayleadtodistalcoronaryemboli-
+.
+demand.Myocardialischaemiainaclinicalsettingcanmostoftenbe .. zation resulting in myocyte necrosis.44,45 Plaque rupture may
+.
+identified from the patient’s history and from the ECG. Possible .. not only be complicated by intraluminal thrombosis but also by
+.
+ischaemic symptoms include various combinations of chest, upper .. haemorrhage into the plaque through the disrupted surface
+.
+extremity,mandibular,orepigastricdiscomfortduringexertionorat . (Figure3).44,45
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 10 ---
+246 Expertconsensusdocument
+Myocardial Infarction Type 1
+Plaque rupture/erosion with
+occlusive thrombus
+Plaque rupture/erosion with
+non-occlusive thrombus
+Figure3Myocardialinfarctiontype1.
+.
+Criteria for type 1 MI ... demandhasbeenclassifiedastype2MI.10,12Bydefinition,acuteathe-
+.
+. rothrombotic plaque disruption is not a feature of type 2 MI. In
+Detection of a rise and/or fall of cTn values with at least one ..
+. patients with stable known or presumed CAD, an acute stressor
+valueabovethe99thpercentileURLandwithatleastoneofthe ..
+. suchasanacutegastrointestinalbleedwithaprecipitousdropinhae-
+following: ..
+. moglobin,orasustainedtachyarrhythmiawithclinicalmanifestations
+.
+.
+• Symptomsofacutemyocardialischaemia; . ofmyocardialischaemia,mayresultinmyocardialinjuryandatype2
+.
+.
+• NewischaemicECGchanges; .. MI.Theseeffectsareduetoinsufficientbloodflowtotheischaemic
+• DevelopmentofpathologicalQwaves; ... myocardium to meet the increased myocardial oxygen demand of
+• Imaging evidence of new loss of viable myocardium or new ... thestressor.Ischaemicthresholdsmayvarysubstantiallyinindividual
+regionalwallmotionabnormalityinapatternconsistentwith ... patientsdependingonthemagnitudeofthestressor,thepresenceof
+anischaemicaetiology; ... non-cardiac comorbidities, and the extent of underlying CAD and
+• Identificationofa coronarythrombusbyangiographyinclud- ...
+cardiacstructuralabnormalities.
+ingintracoronaryimagingorbyautopsy.a ...
+Studieshaveshownvariableoccurrencesoftype2MIdepending
+.
+.. oncriteriausedfordiagnosis.Somereportsrelyonspecificpredeter-
+.
+cTn=cardiactroponin;ECG=electrocardiogram;URL=upper .. minedoxygenmismatchcriteria,48,49whereasothersapplymorelib-
+.
+referencelimit. .. eralcriteria.Most studiesshow a higher frequencyof type 2 MI in
+.
+aPost-mortemdemonstrationofanatherothrombusintheartery .. women.Theshort-andlong-termmortalityratesforpatientswith
+.
+supplyingtheinfarctedmyocardium,oramacroscopicallylargecir- .. type2MIaregenerallyhigherthanfortype1MIpatientsinmostbut
+.
+cumscribed area of necrosis with or without intramyocardial hae- .. not all studies due to an increased prevalence of comorbid con-
+.
+morrhage,meetsthetype1MIcriteriaregardlessofcTnvalues. .. ditions.49–57Coronaryatherosclerosisisacommonfindingintype2
+.
+.
+. MI patients selected for coronary angiography. In general, these
+.
+ItisessentialtointegratetheECGfindingswiththeaimofclassify- .. patients have a worse prognosis than those without CAD.54–57
+.
+ingtype1MIintoSTEMIorNSTEMIinordertoestablishtheappro- .. Prospective evaluations oftheimportance ofCAD with type 2 MI
+.
+priatetreatmentaccordingtocurrentGuidelines.46,47 .. usingconsistentdefinitionsandapproachesareneeded.
+.
+.
+. IthasbeenshownthatthefrequencyofST-segmentelevationin
+.
+7.2 Myocardial infarction type 2 .. type2MIvariesfrom3–24%.53Insomecases,coronaryembolism
+.
+.
+Thepathophysiologicalmechanismleadingto ischaemicmyocardial .. causedbythrombi,calciumorvegetationfromtheatriaorventricles,
+.
+injury in the context of a mismatch between oxygen supply and . or acute aortic dissection may result in a type 2 MI. Spontaneous
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 11 ---
+Expertconsensusdocument 247
+.
+.
+coronaryarterydissectionwithorwithoutintramuralhaematomais . hypertrophy.Inpatientswhoundergotimelycoronaryangiography,
+.
+.
+anothernon-atheroscleroticconditionthatmayoccur,especiallyin . descriptionofarupturedplaquewiththrombusintheinfarct-related
+.
+.
+youngwomen.Itisdefinedasspontaneousdissectionofthecoronary . arterymaybehelpfulinmakingthedistinctionbetweentype2MIvs.
+.
+.
+arterywallwithaccumulationofbloodwithinthefalselumen,which .. type1MI,butangiographyisnotalwaysdefinitive,clinicallyindicated,
+.
+cancompressthetruelumentovaryingdegrees(Figure4).58 .. orrequiredtoestablishthediagnosisoftype2MI.
+.
+Alloftheclinicalinformationavailableshouldbeconsideredindis-
+tinguishingtype1MIfromtype2MI.Thecontextandmechanismsof
+type 2 MI should be considered when establishing this diagnosis Criteria for type 2 MI
+(Figure5).Themyocardialoxygensupply/demandimbalanceattribut- Detectionofariseand/orfallofcTnvalueswithatleastonevalue
+able to acute myocardial ischaemia may be multifactorial, related above the 99th percentile URL, and evidence of an imbalance
+eitherto:reducedmyocardialperfusionduetofixedcoronaryathe- betweenmyocardialoxygensupplyanddemandunrelatedtoacute
+rosclerosiswithoutplaquerupture,coronaryarteryspasm,coronary coronaryathero-thrombosis,requiringatleastoneofthefollowing:
+microvascular dysfunction (which includes endothelial dysfunction,
+• Symptomsofacutemyocardialischaemia;
+smoothmusclecelldysfunction,andthedysregulationofsympathetic
+• NewischaemicECGchanges;
+innervation),coronaryembolism,coronaryarterydissectionwithor
+• DevelopmentofpathologicalQwaves;
+without intramural haematoma, or other mechanisms that reduce
+• Imaging evidence of new loss of viable myocardium or new
+oxygen supply such as severe bradyarrhythmia, respiratory failure
+regionalwallmotionabnormalityinapatternconsistentwith
+withseverehypoxaemia,severeanaemia,andhypotension/shock;or
+anischaemicaetiology.
+to increased myocardial oxygen demand due to sustained tachyar-
+rhythmia or severe hypertension with or without left ventricular
+Myocardial Infarction Type 2
+Atherosclerosis and oxygen
+supply/demand imbalance
+Vasospasm or coronary
+microvascular dysfunction
+Non-atherosclerotic
+coronary dissection
+Oxygen supply/demand
+imbalance alone
+Figure4Myocardialinfarctiontype2.
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 12 ---
+248 Expertconsensusdocument
+Secondary to another illness or process
+Context
+Main reason leading to clinical presentation (e.g. chest pain)
+Fixed coronary atherosclerosis
+Type 2 Coronary spasm
+myocardial Coronary microvascular dysfunction
+infarction
+Coronary embolism
+Coronary artery dissection +/-
+Intramural haematoma
+Oxygen supply Sustained tachyarrhythmia
+Mechanisms and demand
+Severe hypertension +/- imbalancea
+Left ventricular hypertrophy
+Severe bradyarrhythmia
+Respiratory failure
+Severe anaemia
+aIschaemic thresholds vary substantially in
+relation to the magnitude of the stressor and the
+Hypotension/Shock
+extent of underlying cardiac disease.
+Figure 5 Frameworkfortype2myocardialinfarctionconsideringtheclinicalcontextandpathophysiologicalmechanismsattributabletoacute
+myocardialischaemia.TheillustrationaboveismodifiedfromJanuzziandSandoval.59
+.
+.
+It appears advisable in the acute setting to treat the underlying . Type2MIandnon-ischaemicmyocardialinjurymaycoexist.Itshould
+.
+.
+ischaemicimbalanceofoxygensupplyanddemand.Thistreatment . berecognizedthatsomediseaseentitiesmaybeonbothsidesofthe
+.
+.
+mayincludevolumeadjustment,bloodpressuremanagement,admin- . diagram, e. g. acute heart failure that may occur in the context of
+.
+.
+istrationofbloodproducts,heart-ratecontrol,andrespiratorysup- . acute myocardial ischaemia. Nevertheless, abnormal cTn values in
+.
+. port.47,48 Depending on the clinical situation, coronary evaluations . thesettingofacuteand/orchronicheartfailureareoftenbettercate-
+.
+.
+maybeindicatedtoassessthelikelihoodofCAD.Ifitispresent,the .. gorizedasamyocardialinjurycondition.Fewstudieshavecompared
+.
+MIGuidelinesmaybeappliedinaccordancewiththeECGfindingsof .. theincidenceandclinicalfeaturesoftype2MIvs.myocardialinjury
+.
+STEMIorNSTEMI.46,47However,ifCAD isabsent,the benefitsof .. withoutacutemyocardialischaemia.
+.
+cardiovascular risk reduction strategies with type 2 MI remain ..
+.
+uncertain. .. 7.4 Myocardial infarction type 3
+.
+.
+.
+. Thedetectionofcardiacbiomarkersinthebloodisfundamentalfor
+. 7.3 Myocardial infarction type 2 and .. establishingthediagnosisofMI.10,12However,patientscanmanifesta
+.
+myocardial injury ..
+typicalpresentationofmyocardialischaemia/infarction,includingpre-
+.
+.
+Type2MIandmyocardialinjuryarefrequentlyencounteredinclini- . sumednewischaemicECGchangesorventricularfibrillation,anddie
+.
+.
+cal practice and both are related to a poor outcome.13,14,49,51,56 .. beforeitispossibletoobtainbloodforcardiacbiomarkerdetermina-
+.
+Aconceptualmodeltofacilitatetheclinicaldistinctionbetweenacute .. tion;orthepatientmaysuccumbsoonaftertheonsetofsymptoms
+.
+ischaemicmyocardialinjurywithorwithoutanacuteatherothrom- .. beforeanelevationofbiomarkervalueshasoccurred.Suchpatients
+.
+boticevent(type1ortype2MI)vs.conditionswithoutacuteischae- .. are designated as having a type 3 MI, when suspicion for an acute
+.
+mic myocardial injury is displayed in Figure 6. Acute MI requires a .. myocardialischaemiceventishigh,evenwhencardiacbiomarkerevi-
+.
+rising and/or falling pattern of cTn values. Acute myocardial injury .. denceofMIislacking.10,12Thiscategoryallowstheseparationoffatal
+.
+mayalsomanifestsuchapatternbutiftheinjuryisrelatedtostruc- .. MIeventsfromthemuchlargergroupofsuddendeathepisodesthat
+.
+tural heart disease, the cTn values may be stable and unchanging. . may be cardiac (non-ischaemic) or non-cardiac in origin. When a
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 13 ---
+Expertconsensusdocument 249
+Elevated Cardiac Troponin Value(s) >99th percentile URL
+Troponin rise and/or fall Troponin level stablea
+With Without
+acute ischaemiab acute ischaemiab
+Acute Acute Chronic
+myocardial infarction myocardial injury myocardial injury
+Oxygen supply
+Atherosclerosis
+and demand
++ thrombosis
+imbalance
+Type 1 MI: triggers Type 2 MI: examples Examples Examples
+(cid:129) Plaque rupture (cid:129) Severe hypertension (cid:129) Acute heart failure (cid:129) Structural heart disease
+(cid:129) Plaque erosion (cid:129) Sustained tachyarrhythmia (cid:129) Myocarditis (cid:129) Chronic kidney disease
+Figure6 Amodelforinterpretingmyocardialinjury.Ischaemicthresholdsvarysubstantiallyinrelationtothemagnitudeofthestressorandthe
+extentofunderlyingcardiacdisease.MI=myocardialinfarction;URL=upperreferencelimit.aStabledenotes<_20%variationoftroponinvaluesin
+theappropriateclinicalcontext.bIschaemiadenotessignsand/orsymptomsofclinicalmyocardialischaemia.
+.
+. type3MIisdiagnosedandasubsequentautopsyrevealsrecentevi- .. 8 Coronary procedure-related
+.
+denceofanMI,withafreshorrecentthrombusintheinfarct-related .. myocardial injury
+.
+artery,thetype3MIshouldbereclassifiedtoatype1MI.Original ..
+.
+investigationsaddressingtheincidenceoftype3MIaresparse,buta ...
+Cardiacproceduralmyocardialinjuryrelatedtocoronaryrevasculari-
+study showed an annual incidence below 10/100000 person-years ...
+zation procedures, whether percutaneous coronary intervention
+andafrequencyof3–4%amongalltypesofMI.60 ...
+(PCI)orcoronaryarterybypassgrafting(CABG),maybetemporally
+.
+.. related to the procedure itself, reflecting periprocedural issues, or
+.
+Criteria for type 3 MI .. mayoccurlaterreflectingcomplicationsofadevice,suchasearlyor
+.
+Patients who suffer cardiac death, with symptoms suggestive of
+... latestentthrombosisorin-stentrestenosisforPCI,orgraftocclusion
+.
+myocardial ischaemia accompanied by presumed new ischaemic .. orstenosiswithCABG.Lategadoliniumenhancement(LGE)cardiac
+.
+ECGchangesorventricularfibrillation,butdiebeforebloodsam- .. magneticresonance(CMR)allowsassessmentofproceduralmyocar-
+ples for biomarkers can be obtained,or before increases incar-
+... dialinjury.61–63WhenquantifyingproceduralinjuryusingLGE-CMR
+.
+diac biomarkers can be identified, or MI is detected by autopsy .. before and shortly after PCI or CABG, it was found that 32% of
+examination.
+... patientshadevidenceofproceduralmyocardialinjury.63Furthermore,
+.
+. ithasbeenshownthatpatientswithelevationofcTnIvaluesafterPCI
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 14 ---
+250 Expertconsensusdocument
+.
+.
+or after CABG have evidence of procedural myocardial injury on . normal baseline values or, in patients with elevated pre-procedure
+.
+CMRimaging.61,62Forthatreason,increasedcTnvaluesdetectedfol- .. cTninwhomthecTnlevelsarestable(<_20%variation)orfalling,the
+.
+.
+lowingacoronaryrevascularizationproceduremayreflectprocedural . post-procedurecTnmustrise>20%toanabsolutevaluemorethan
+.
+.
+myocardialinjury.Ofimportance,ifthebaselinevaluebeforethepro- .. fivetimesthe99thpercentileURL.Inaddition,thereshouldbeevi-
+.
+cedureisabovethe99thpercentileURL,itisessentialthatcTnlevels .. denceofnewmyocardialischaemia,eitherfromECGchanges,imag-
+.
+arestablepriortotheevaluationinordertoreliablyestablishthepres- .. ing evidence, or from procedure-related complications associated
+.
+enceofacuteproceduralmyocardialinjury.Itisnotpossibletodeter- .. with reduced coronary blood flow such as coronary dissection,
+.
+mine,wheninterveninginapatientwithanacuteMIeventresultingin .. occlusion of a major epicardial artery or a side branch occlusion/
+.
+anincreasedcTnlevel,howmuchofanygivenincreaseisrelatedto .. thrombus,disruptionofcollateral flow, slow floworno-reflow,or
+.
+theMIandhowmuchisduetotheprocedure. .. distalembolization.Theuseofhs-cTnassaystodiagnosetype4aMI
+.
+.. (andtype5MI)isanareaofactiveresearch.Manyhs-cTnassaysare
+.
+.. available,whichhavewidedynamicranges.Differentcriteriamaybe
+.
+Criteria for cardiac procedural myocar- .. required fordifferentassays.However,ithasrecentlybeenshown
+.
+dial injury .. thattheoptimalhs-cTnTthresholdstopredictcardiovascularevents
+.
+.. at30daysand1yearwereveryclosetothefive-foldincreasesug-
+Cardiac procedural myocardial injury is arbitrarily defined by ..
+. gested by the Third Universal Definition of Myocardial infarc-
+increases of cTn values (>99th percentile URL) in patients with ...
+tion.12,66,67Thesecriteriaarethereforeretainedbecauseofalackof
+normal baseline values (<_99th percentile URL) or a rise of cTn ..
+. new scientific evidence that identifies superior criteria for defining
+values>20%ofthebaselinevaluewhenitisabovethe99thper- ..
+. thisMIsubtype.Othercriteriathatmeetthedefinitionoftype4aMI,
+centileURLbutitisstableorfalling. ..
+. regardless of hs-cTn or cTn values, are the development of new
+.
+.
+. pathological Q waves or autopsy evidence of recent procedure-
+.
+.
+. relatedthrombusintheculpritartery.
+.
+AlargeproportionofpatientshaveabnormalvaluesofcTnafter ..
+.
+PCI,rangingfrom(cid:2)20–40%instableCADto40–50%inMI.64The ..
+.
+occurrenceofproceduralmyocardialinjurycanbedetectedbythe
+measurement of cTn before the procedure and repeated 3–6 h
+Criteria for PCI-related MI (cid:3) 48 h
+later. Wherethesecondvalue isrising,furthersampling should be
+performed to documentthepeakcTnvalue.Increasinglevelsafter after the index procedure
+the procedure can only be attributed with certainty to procedural (type 4a MI)
+myocardial injury when the pre-procedural cTn values are normal
+Coronaryintervention-relatedMIisarbitrarilydefinedbyanele-
+(<_99thpercentileURL),oriftheyarestableorfalling.Forpatients
+vation of cTn values more than five times the 99th percentile
+thatpresentwithanACSandundergoapromptcoronaryrevascula-
+URLinpatientswithnormalbaselinevalues.Inpatientswithele-
+rizationprocedureresultinginonlyasinglepre-proceduralbaseline
+vated pre-procedure cTn in whom the cTn level are stable
+valuethatisnormalormildlyelevated,followedbysubsequentpost-
+(<_20%variation)orfalling,thepost-procedurecTnmustriseby
+procedural values that continue to increase, the post-procedural
+>20%.However,theabsolutepost-proceduralvaluemuststillbe
+increaseshouldbeattributedtotheindexevent.Recentdatacorrob-
+atleastfivetimesthe99thpercentileURL.Inaddition,oneofthe orate the importance of elevated pre-procedure cTn values as a
+followingelementsisrequired:
+prognosticmarkerinpatientsthathavevaluesthatriseafterthepro-
+cedure.65Todiagnoseproceduralmyocardialinjuryintheclinicalset-
+• NewischaemicECGchanges;
+tingofonlyasinglepre-proceduralcTnvalue,thecardiacTnvalues • DevelopmentofnewpathologicalQwaves;a
+wouldneedtobestableorfallingpost-procedure,followedbyasub- • Imaging evidence of new loss of viable myocardium or new
+sequent increase that exceeds the 99th percentile URL, and if the regionalwallmotionabnormalityinapatternconsistentwith
+value has not returned to baseline, the increase should be > 20% anischaemicaetiology;
+withanabsolutevalue>the99thpercentileURL. • Angiographicfindingsconsistentwithaproceduralflow-limit-
+ing complication such as coronary dissection, occlusion of a
+majorepicardialarteryoraside branchocclusion/thrombus,
+9 Myocardial infarction associated
+disruptionofcollateralflow,ordistalembolization.b
+with percutaneous coronary
+aIsolated development of new pathological Q waves meets the
+intervention (type 4a myocardial
+type 4a MI criteria if cTn values are elevated and rising but less
+infarction) thanfivetimesthe99thpercentileURL.
+bPost-mortem demonstration of a procedure-related thrombus
+Stand-alonepost-proceduralincreasesofcTnvaluesaresufficientto in the culprit artery, or a macroscopically large circumscribed
+establishadiagnosisofproceduralmyocardialinjurybutnotforthe area of necrosis with or without intra-myocardial haemorrhage
+diagnosisoftype4aMI.Type4aMIrequiresanelevationofcTnval- meetsthetype4aMIcriteria.
+uesgreaterthanfivetimesthe99thpercentileURLinpatientswith
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 15 ---
+Expertconsensusdocument 251
+.
+10 Stent/scaffold thrombosis .. especiallycTnappearrobustforthedetectionofproceduralmyocar-
+.
+.
+. dialinjuryandalso,inthepresenceofnewmyocardialischaemia,for
+associated with percutaneous .
+.
+. thedetectionoftype5MI,aspecificcut-offvalueforallprocedures
+.
+coronary intervention (type 4b .
+. andallcTnassaysisdifficulttodefine.However,inordertoensure
+.
+.
+myocardial infarction) .. consistencywiththeanalogousstandardsoftheprecedingdefinition
+.
+. oftype5MI12andbecauseofthelackofnewscientificevidencethat
+.
+.
+AsubcategoryofPCI-relatedMIisstent/scaffoldthrombosis,type4b .. identifiessuperiorcriteriafordefiningthisMIsubtype,itissuggested
+.
+MI,asdocumentedbyangiographyorautopsyusingthesamecriteria .. thatacTnvalue>10timesthe99thpercentileURLisappliedasthe
+.
+utilizedfortype1MI.Itisimportanttoindicatethetimeoftheoccur- .. cut-offpointduringthefirst48hfollowingCABG,occurringfroma
+.
+renceofthestent/scaffoldthrombosisinrelationtothetimingofthe .. normal baseline cTn value (<_ 99th percentile URL), for diagnosing
+.
+PCI procedure. The following temporal categories are suggested: .. type5MI.Itisimportantthatthepost-proceduralelevationofcTn
+.
+acute,0–24h;subacute,>24hto30days;late,>30daysto1year; .. valuesisaccompaniedbyECG,angiographic,orimagingevidenceof
+.
+andverylate>1yearafterstent/scaffoldimplantation.68 .. new myocardial ischaemia/new loss of myocardial viability.71 The
+.
+.. highercut-offofMIafterCABGthanafterPCI(10timesvs.5times
+.
+.. the 99th percentile URL) has been arbitrarily selected due to the
+.
+11 Restenosis associated with .. occurrence of more unavoidable myocardial injury during surgery
+.
+.. thanduringPCI.
+percutaneous coronary .
+.. It should be recognized that ST-segment deviation and T wave
+.
+intervention (type 4c myocardial .. changes are commonafter CABGdue to epicardialinjury,and are
+.
+.
+infarction) .. not reliable indicators of myocardial ischaemia in this setting.
+.
+. However,ST-segmentelevationwithreciprocalST-segmentdepres-
+.
+.
+. sionorotherspecificECGpatternsmaybeamorereliablefindingof
+OccasionallyMIoccursand—atangiography,in-stentrestenosis,or .
+.
+. apotentialischaemicevent.
+restenosis following balloon angioplasty in the infarct territory—is .
+the only angiographic explanation since no other culprit lesion or
+thrombuscanbeidentified.ThisPCI-relatedMItypeisdesignatedas
+Criteria for CABG-related MI (cid:3) 48 h
+type4cMI,definedasfocalordiffuserestenosis,oracomplexlesion
+after the index procedure (type 5 MI)
+associatedwithariseand/orfallofcTnvaluesabovethe99thpercen-
+tileURLapplying,thesamecriteriautilizedfortype1MI. CABG-relatedMIisarbitrarilydefinedaselevationofcTnvalues
+>10timesthe99thpercentileURLinpatientswithnormalbase-
+line cTn values. In patients with elevated pre-procedure cTn in
+12 Myocardial infarction whomcTnlevelsarestable(<_20%variation)orfalling,thepost-
+procedurecTnmustriseby>20%.However,theabsolutepost-
+associated with coronary artery
+procedural value still must be > 10 times the 99th percentile
+bypass grafting (type 5 myocardial
+URL.Inaddition,oneofthefollowingelementsisrequired:
+infarction)
+• DevelopmentofnewpathologicalQwaves;a
+• Angiographicdocumentednewgraftocclusionornewnative
+Numerousfactorscanleadtoproceduralmyocardialinjuryduringa coronaryarteryocclusion;
+CABGprocedure.Manyofthemarerelatedtothedetailsofthecar- • Imaging evidence of new loss of viable myocardium or new
+diac preservation, the extent of the direct traumatic injury to the regionalwallmotionabnormalityinapatternconsistentwith
+myocardium,aswellasanypotentialischaemicinjury.Forthatrea- anischaemicaetiology.
+son,increasesincTnvaluesshouldbeexpectedafterallCABGpro- aIsolated development of new pathological Q waves meets the
+cedures,69,70whichneedtobetakenintoaccountwhencomparing
+type 5 MI criteria if cTn values are elevated and rising but < 10
+theextentofproceduralmyocardialinjuryaftercardiacsurgerywith timesthe99thpercentileURL.
+thatassociatedwithlessinvasiveapproaches.Dependingonwhether
+it is off-pump or on-pump surgery, procedural myocardial injury is
+observed among 32–44% of CABG patients when quantified by Marked isolated elevation of cTn values within the 48 h post-
+LGE-CMR.61,63 The area under the curve (AUC) and routine cTn operativeperiod,evenintheabsenceofECG/angiographicorother
+samplinghasdemonstratedanexcellentlinearrelationshipwiththe imaging evidence of MI, indicates prognostically significant cardiac
+massofthenewinjuryasdefinedbyLGE-CMR.AUCforCK-MBis procedural myocardial injury.72 The presence of significant proce-
+alsogood,althoughclearlyinferiortocTnI.69However,theserela- duralmyocardialinjuryinpatientswithoperativeproblems(e.g.diffi-
+tionshipsvarydependingonthenatureoftheprocedure,thenature cultycomingoffbypass,technicallydifficultanastomosesinaheavily
+ofthecardioplegia,andthespecificassayusedtomeasurecTn.Very calcified aorta, of perioperative evidence of myocardial ischaemia,
+high cTn values are most often associated with coronary artery- etc.)shouldpromptclinicalreviewoftheprocedureand/orconsider-
+related events.61,63,69 Thus, although cardiac biomarkers and ationofadditionaldiagnostictestingforpossibletype5MI.
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 16 ---
+252 Expertconsensusdocument
+.
+13 Other definitions of myocardial .. isrecommended.Asecondsampleshouldbeobtained3–6hlateror
+.
+.
+infarction related to percutaneous .. earlierwithmoresensitivecTnassays.IfthecTnconcentrationisele-
+.
+. vated,butstableordecreasingatthetimeofsuspectedre-infarction,
+.
+coronary intervention or coronary .
+. thediagnosisofre-infarctionrequiresa> 20% increaseofthecTn
+.
+artery bypass grafting ... valueinthesecondsample.74IftheinitialcTnconcentrationisnor-
+.. mal,thecriteriafornewacuteMIapply.12
+.
+.
+ThereisnouniversalconsensusonthecTnorhs-cTncut-offpoints ..
+.
+thatclearlydistinguishcardiacproceduralmyocardialinjuryfromMI. ..
+.
+Thedistinctionismadeonthebasisofaninjurycreatedbyaflow- .. 16 Myocardial injury and
+.
+.
+limiting complication during the procedure that results in sufficient .. infarction associated with cardiac
+.
+myocardialischaemiatogenerateaprocedure-relatedMI.Thesizeof .
+.. procedures other than
+theinsultwilldeterminethemagnitudeofthecTnrelease.Various .
+.
+. groups have used multiples of the 99th percentile URL and set . revascularization
+.
+thresholds to diagnose periprocedural MIs for clinical trials.68,73 ..
+.
+.
+Unlessastandardassayisusedforallanalyses,giventheheterogene- .. Cardiac procedures such as transcatheter valve interventions may
+.
+ity of cTn assays, this approach could lead to very different values .. cause myocardialinjury, bothby direct trauma to themyocardium
+. depending on the assay used locally. The Academic Research .. andbycreatingregionalischaemiasecondarytocoronaryobstruc-
+.
+Consortium-2(ARC-2) suggests apost-proceduralcTnvalue >_ 35 .. tion or embolization. Ablation of arrhythmias involves controlled
+.
+timesthe 99thpercentileURLforbothPCIand CABGinpatients .. proceduralmyocardialinjurybyapplicationofwarmingorcoolingof
+.
+that have a normal baseline cTn value orin patients with elevated .. the tissue. The extent of procedural myocardial injury can be
+.
+pre-procedurecTnvaluesinwhomthecTnlevelsarestableorfalling. .. assessedbyserialcTnmeasurements.IncreasesofcTnvaluesinthis
+.
+ARC-2proposesthatoneancillarycriterionberequiredinaddition .. contextshouldbeconsideredasaproceduralmyocardialinjuryand
+.
+tothe>_35cTnrisetofulfillthedefinitionofperiproceduralMI.The .. not labelled as anMI unless the biomarker criteria and one of the
+.
+ancillarycriteriaareoneormoreofthefollowing:newsignificantQ .. ancillarycriteriaforacutemyocardialischaemialistedfortype5MI
+.
+waves (or equivalent),flow-limitingangiographic complications in a .. arepresent.75,76
+.
+majorepicardialvesselor>1.5mmdiameterbranch,orasubstantial ..
+.
+newlossofviablemyocardiumonechocardiographyrelatedtothe ..
+.
+procedure.68 Furthermore, ARC-2 has defined stand-alone criteria .. 17 Myocardial injury and
+.
+forsignificantproceduralmyocardialinjuryiftheriseincTnis>_70 ..
+. infarction associated with
+timesthe99thpercentileURL(wherethebaselineislowerthanthe ..
+.
+URL,elevatedandstable,orfalling).68 .. non-cardiac procedures
+.
+.
+.
+.
+.. PerioperativeMIisoneofthemostimportantcomplicationsinmajor
+.
+14 Recurrent myocardial .. non-cardiacsurgery and it is associated with a poorprognosis.77,78
+.
+infarction .. Most patients who have a perioperative MI will not experience
+.
+.. ischaemicsymptoms dueto anaesthesia, sedation, or pain relieving
+.
+IncidentMIisdefinedastheindividual’sfirstMI.WhenfeaturesofMI
+... medications. Nevertheless, asymptomatic perioperative MI is as
+occurinthefirst28daysafteranincidentevent,thesecondeventis
+... strongly associated with 30 day mortality as symptomatic MI.77,78
+.
+notcountedasanewMIforepidemiologicalpurposes.Ifcharacteris- .. Knowledge about hs-cTn values at baseline can help to identify
+.
+ticsofMIoccurafter28daysfollowinganincidentMI,itisconsidered .. patientshavingchroniccTnelevationbeforesurgery,aswellasthose
+tobearecurrentMI.11 ... atincreasedriskduringandaftertheprocedure.79,80Measurementof
+.
+. hs-cTn in post-operative samples reveals that as many as 35% of
+.
+.
+. patientshavelevelsabovethe99thpercentileURL,and17%havean
+.
+.
+15 Re-infarction . elevationandarisingpatternofvaluesindicativeofevolvingmyocar-
+.
+.. dialinjury.81Thosewitharisingpatternofelevatedhs-cTnvaluesare
+.
+Thetermre-infarctionisusedclinicallyforanacuteMIthatoccurs .. atparticularrisk;thegreatertherise,thegreatertherisk.82,83
+.
+within28daysofanincidentorrecurrentMI.11TheECGdiagnosisof .. ThepathophysiologicalmechanismofperioperativeMIissubject
+.
+.
+suspectedre-infarctionfollowingtheinitialMImaybeconfoundedby . todebate.Itisrecognizedthattheperioperativeperiodischaracter-
+.
+.
+theinitialevolutionaryECGchanges.Re-infarctionshouldbeconsid- . izedbyincreasedcardiacmetabolicdemandthatmayleadtoMIin
+.
+.
+eredwhenST-elevation>_1mmrecursornewpathognomonicQ .. patientswithotherwisestableCAD.84,85Thus,anangiographicinves-
+.
+wavesappearinatleasttwocontiguousleads,particularlywhenasso- .. tigationhasidentifieddemandmyocardialischaemiaasthepredomi-
+.
+ciatedwithischaemic symptoms.However,re-elevationoftheST- .. nant aetiology of perioperative MI,84,85 which together with a rise
+.
+segment can also be seen in threatened myocardial rupture or in .. and/orfallofcTnvaluesindicatestype2MI.However,otherangio-
+.
+cases of pericarditis, and should lead to additional diagnostic .. graphicstudieshavedetectedcoronaryplaquerupturein(cid:2)50–60%
+.
+evaluation. .. ofpatientswithperioperativeMI,86,87whichqualifiesastype1MI.On
+.
+Inpatientswherere-infarctionissuspectedfromclinicalsignsor .. the other hand, perioperative myocardial injury without ancillary
+.
+symptomsfollowingtheinitialMI,animmediatemeasurementofcTn . ischaemicevidenceindicativeofMIisacommoncomplicationafter
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 17 ---
+Expertconsensusdocument 253
+.
+non-cardiac surgery that is associated with substantial short- and .. CMR—isoftenrequiredtobetterunderstandthecauseofdeviant
+.
+long-termmortalityonalevelwithperioperativeMI.83 .. cTnvalues.
+.
+Post-operativecTnsurveillanceisrecommendedforhigh-riskindi- ..
+.
+viduals.Inordertoproperlyinterprettheaetiologyofelevatedpost- ..
+.
+operativevalues,abaselinepre-operativevalueisnecessarytodeter- .. 19 Takotsubo syndrome
+.
+.
+mine whether the increase is acute or more chronic. However, a .
+.
+.
+diagnosisofMIstillrequires,inadditiontoanincreaseofcTnvalues, .. Takotsubosyndrome(TTS)canmimicMIandisfoundin(cid:2)1–2%of
+.
+evidenceofmyocardialischaemiathatmaybeevidentfromtheperi- .. patients presenting with suspected STEMI.90 The onset of TTS is
+.
+and post-operative period, e.g. ST-segment changes on telemetry/ .. often triggered by intense emotional or physical stresses, such as
+.
+ECG, repeated episodes of hypoxia, hypotension, tachycardia, or .. bereavement. Over 90% of patients are post-menopausal women.
+.
+imagingevidenceofMI.Intheabsenceofevidenceforacutemyocar- .. Cardiovascularcomplicationsoccurin(cid:2)50%ofpatientspresenting
+.
+dialischaemia,adiagnosisofacutemyocardialinjuryismoreappro- .. withTTS,andtheinpatientmortalityissimilartoSTEMI(4–5%)due
+.
+priate. Ongoing research suggests the possibility that interventions .. tocardiogenicshock,ventricularrupture,ormalignantarrhythmias.90
+.
+maybehelpfulinthisclinicalsituation. .. TTS usually presents similar to ACS. ST-segment elevation is fre-
+.
+.
+. quent(44%),butthe extentofthe ST-segment elevationisusually
+.
+.
+. widespreadacrossthelateralandprecordialleads,beyondthatofa
+18 Myocardial injury or infarction ..
+. singlecoronaryarterydistribution.ST-segmentdepressionoccursin
+.
+associated with heart failure .. <10%ofpatientsandafter12–24h,deep,symmetricTwaveinver-
+.
+.. sionandQTcprolongationaretypicallyobserved.91,92
+.
+.
+Dependingontheassayused,detectabletoclearlyelevatedcTnval- . There are usually transient elevations in cTn levels (> 95% of
+.
+.
+uesbeingindicativeofmyocardialinjurymaybeseeninpatientswith . cases),butthepeakcTnvaluesobservedaremodest,andcontrast
+.
+.
+heartfailure(HF),bothwithreducedejectionfraction(EF)andwith . withthelargeterritoryofECGchangesorleftventricular(LV)dys-
+.
+preservedEF.88Usinghs-cTnassays,measurablehs-cTnconcentra- .. function.TheriseandfallincTnlevelssupportanacutemyocardial
+.
+.
+tionsmaybepresentinnearlyallpatientswithHF,withasignificant . injury,secondarytothehighcatecholaminesurgesthatareknownto
+.
+.
+percentageexceedingthe99thpercentileURL,particularlyinthose . triggercTnreleasefromcardiomyocytes.Coronaryvasospasm,high
+.
+.
+patientswithmoresevereHFsyndromes,suchasinacutelydecom- .. myocardialstrainhypercontractility,orhighventricularafterloadmay
+.
+pensatedHF.87 .. alsocontributetomyocardialischaemia.ThediagnosisofTTSshould
+.
+Beyond type1 MI,multiplemechanisms have been proposedto .. besuspectedwhentheclinicalmanifestationsandECGabnormalities
+.
+explainmeasurabletopathologicallyelevatedcTnconcentrationsin .. areoutofproportiontothedegreeofelevationofcTnvalues,and
+.
+patients with HF.88,89 For example, type 2 MI may result from .. whenthedistributionoftheLVwallmotionabnormalitiesdoesnot
+.
+increased transmural pressure, small-vessel coronary obstruction, .. correlatewithasinglecoronaryarterydistribution.However,coro-
+.
+endothelialdysfunction,anaemia,orhypotension.Besidestype1MI .. nary angiographyand ventriculography are often needed tosecure
+.
+or type 2 MI, cardiomyocyte apoptosis and autophagy due to wall .. thediagnosis.
+.
+stretchhavebeenexperimentallydemonstrated.Directcellulartox- .. Inmostcases,thecoronaryarteriesareangiographicallynormal,
+.
+icityrelatedtoinflammation,circulatingneurohormones,andinfiltra- .. andwhereCADispresent((cid:2)15%cases)itisnotsufficienttoexplain
+.
+tive processes may present with HF and abnormal cTn .. theobservedpatternofregionalwallmotionabnormalities.Leftven-
+.
+.
+measurementsindicatingmyocardialinjury.Finally,exocytosisofthe . triculography during catheterization and/or echocardiography may .
+.
+earlyreleasablecytosolictroponinpoolintothebloodstreamfrom . showavarietyofLVregionalwallmotionabnormalitiesincludingapi-
+.
+.
+stressedcardiomyocyteshasalsobeensuggestedasacauseofele- . cal(82%ofpatients),mid-ventricular(14.6%),basal(2.2%),orfocal
+.
+vatedcTnvalues.89 .. (1.5%)akinesisorhypokinesisinacircumferentialpatterninvolving
+.
+.
+InthecontextofanacutelydecompensatedHFpresentation,cTn . more than one coronary artery territory. Evidence of myocardial
+.
+.
+shouldalwaysbepromptlymeasuredandtheECGrecorded,with . oedema is often seen on CMR imaging duringtheacutephase but
+.
+.
+thegoalofidentifyingorexcludingmyocardialischaemiaasthepre- . LGEisusuallyabsent.TherecoverytimeforLVfunctionvariesfrom
+. cipitant. In this setting, elevated cTn values should be interpreted .. hourstoseveralweeks.93Cardiacfunctionmaynotreturntonormal,
+.
+.
+withahighlevelofsuspicionfortype1MIifasignificantriseand/or . withpersistingabnormalitiesofdiastolicfunction,myocardialreserve
+.
+.
+fallofthemarkerisseen,especiallyifitisaccompaniedbychestdis- . during exercise, or rhythm disturbances at long-term follow-up in
+.
+.
+comfortorothersymptomssuggestiveofmyocardialischaemia,and/ . 10–15% of patients. In the absence of recovery of regional wall
+.
+.
+orifnewischaemicECGchangesorlossofmyocardialfunctionon .. motion abnormalities, LGE-CMR is recommended to exclude MI
+.
+non-invasive testing are found. Shortness of breath, the cardinal .. withspontaneousrecanalization.
+.
+symptomofacutelydecompensatedHF,maybeanischaemicequiva- .. ThedistinctionbetweenMIandTTScanbechallenging,particu-
+.
+lent, but in the absence of corroborating evidence for a coronary .. larly when concurrent CAD is present (15% in the International
+.
+mechanism,cautionisadvisedinitsinterpretation.Coronaryartery .. TakotsuboRegistry).91Twoadditionalfeaturesthatarehelpfulindis-
+.
+anatomymaybeknownandthisknowledgemaybeusedtointerpret .. tinguishing TTS from acute MI are QTc prolongation > 500 ms
+.
+abnormalcTnresults.However,furtherinformation—suchasrenal .. during the acute phase and the recovery of LV function over
+.
+function, myocardial perfusion studies, coronary angiography, or . 2–4 weeks. There are rare cases described where MI and TTS
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 18 ---
+254 Expertconsensusdocument
+.
+.
+coexist,e.g.MI-inducedTTSorTTSwithsecondaryplaquerupture, . DiagnosingMIinpatientswithCKDandelevatedcTnlevelsmay
+.
+.
+butthisoccurswheretheacuteregionalwallmotionabnormalities . bedifficultifsymptomsorECGchangesindicatingmyocardialischae-
+.
+.
+aremoreextensivethantheculpritcoronaryarteryterritory,andful- . miaareabsent.However,studiessuggestthatserialchangesincTn
+.
+filthepatternanddefinitionofTTS.94 .. levelsareequallyeffectiveindiagnosingMIinpatientswithCKDand
+.
+.. inthosewithnormalrenalfunction.106IfthelevelofelevatedcTnval-
+.
+.
+. uesisunchanging,andthetimingoftheeventmakesarisingand/or
+.
+.
+20 Myocardial infarction with
+... fallingpatternunlikely,theelevatedlevel,evenifsubstantial,islikelya
+.. reflectionofchronicmyocardialinjury.Thisdoesnotimplythatthese
+non-obstructive coronary arteries ... patientsarefreeofCAD,sincerenaldysfunctionandCADarecorre-
+.
+.. lated.However,ifarisingand/orfallingpatternispresentthenthe
+.
+ItisincreasinglyrecognizedthatthereisagroupofMIpatientswith .. aetiologyoftheabnormalcTnvaluescouldbeacutevolumeover-
+.
+no angiographic obstructive CAD (>_ 50% diameter stenosis in a .. load,congestiveHF,orMI.Ifarisingandfallingpatternisseen,andit
+.
+majorepicardialvessel),andthetermmyocardialinfarctionwithnon- .. is accompanied by ischaemic symptoms, new ischaemic ECG
+.
+obstructive coronary arteries (MINOCA) has been coined for this .. changes,orlossofviablemyocardiumonimaging,adiagnosisofacute
+entity.95,96ThediagnosisofMINOCA,likethediagnosisofMI,indi- ...
+MIislikely.Therearenodatatosuggestthatdifferentcriteriaforthe
+.
+catesthatthereisanischaemicmechanismresponsibleforthemyo- .. cTndecisionlevelsareneededforthesepatients.Attimes,additional
+.
+cyteinjury(i.e.non-ischaemiccausessuchasmyocarditishavebeen .. imagingstudiesmaybenecessarytodeterminetheappropriatediag-
+.
+excluded).Furthermore,thediagnosisofMINOCAnecessitatesthat .. nosis.ItshouldbenotedthatifCKDpatientspresentlateafterthe
+. obstructiveCADhasnotbeeninadvertentlyoverlooked(e.g.sponta- .. onsetofchestpain,itmaybedifficulttoobserveariseand/orfallof
+.
+neous coronary artery dissection). The prevalence of MINOCA is .. cTnvaluesintheshort-term,particularlywhenthebaselinevalueis
+.
+estimatedtobe6–8%amongpatientsdiagnosedwithMIandmore .. elevated. Such a situation should not obviate the diagnosis of MI
+.
+commoninwomenthanmen,aswellasinpatientspresentingwith .. whentheclinicalevidenceisstrong.
+.
+NSTEMI compared with those presenting with STEMI.96–98 ..
+.
+Atheroscleroticplaquedisruptionandcoronarythrombosismaybe ..
+.
+acauseofMINOCA,i.e.type1MI.However,coronaryspasmand .. 22 Myocardial injury and/or
+.
+spontaneouscoronarydissectionmaybeinvolvedaswell,i.e.type2 ..
+. infarction in critically ill patients
+MI, along with other possible causes. Additional coronary imaging ..
+.
+andfunctionaltestingmethodsmaybeusefultoelucidatethemecha- ..
+. ElevationsofcTnvaluesarecommoninpatientsintheintensivecare
+nismsofischaemiainMINOCA.46 ..
+.. unit and are associated with adverse prognosis regardless of the
+.
+.. underlying disease state.107,108 Some elevation of cTn values may
+.
+.. reflecttype2MIduetounderlyingCADandincreasedmyocardial
+.
+21 Myocardial injury and/or .. oxygendemand,109whereasinotherpatients,type1MImayoccur
+.
+infarction associated with kidney
+.. because of plaque disruption leading to thrombosis in a coronary
+.
+.. artery. However,other patients mayhave elevated cTnvaluesand
+disease ...
+marked decreases in EF due to sepsis caused by endotoxin, with
+.
+.. myocardialfunctionrecoveringcompletelywithnormalEFoncethe
+.
+Manypatientswithchronickidneydisease(CKD)haveelevationof .. sepsisistreated.Itisfrequentlychallengingforthecliniciancaringfor
+cTn values.99,100 With hs-cTn assays, the majority of patients with ...
+acriticallyillpatientwithaseveresingleorganormultiorganpatho-
+.
+end-stagerenaldiseasewillhaveelevationofhs-cTnvaluesabovethe .. logicalconditiontodecideonaplanofactionwhenthepatienthas
+99thpercentileURL.99,101Thisisparticularlythe caseforhs-cTnT, ... elevatedcTnvalues.Ifandwhenthepatientrecoversfromthecritical
+which is more often elevated compared with hs-cTnI.99,102 It has .. . illness, clinical judgement should be employed to decide whether,
+.
+beenshownusinghs-cTnassaysthatrenaldysfunctioniscommonly .
+. andtowhatextent,furtherevaluationforCADorstructuralheart
+associatedwithcardiovascularabnormalities.102–104Inautopsystud- ...
+diseaseisindicated.110
+.
+ies,elevationofcTnvalueswasinvariablyassociatedwithevidenceof .
+.
+myocardial injury.15 Recently, a minor effect on renal clearance of ..
+.
+.
+cTn has been shown when levels are low, but not in response to .. 23 Biochemical approach for
+.
+acute episodes of myocardial injury.105 The mechanisms include ..
+. diagnosing myocardial injury and
+increased ventricular pressure, small-vessel coronary obstruction, ..
+.
+anaemia,hypotension,andpossiblydirecttoxiceffectsonthemyo- .. infarction
+.
+cardiumassociatedwiththeuraemicstate.89Cardiomyocyteapopto- ..
+.
+sisandautophagyduetoacutewallstretchhavebeendemonstrated .. cTnI and cTnT are the preferred biomarkers recommended to
+.
+experimentally.18Thus,baselineelevationofcTnvaluesiscommon, .. bothruleinandruleoutmyocardialinjury,andthustodefineMIand
+.
+and because they reflect myocardial injury, such elevation is highly .. eachspecificsubtypeofMI.12,22,23,31Detectionofariseand/orfallof
+.
+prognosticovertime.99 . cTnvaluesisessential,andakeyearlycomponentalongwithother
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 19 ---
+Expertconsensusdocument 255
+Very early
+sampling Early sampling Later sampling Very late sampling
+Rising cTn values
+from below to
+>99th percentile
+Delta is
+detectable
+cTn values
+>99th percentile
+Delta may not
+be seen over a Acute
+short period cTn values myocardial
+Cardiac >99th percentile infarction
+Troponin Declining delta
+Chronic
+(cTn) myocardial
+injury
+Low
+cTn
+values
+Hard to
+detect
+delta
+99th
+percentile
+URL
+Time from onset of symptoms (hours)
+Figure7 Illustrationofearlycardiactroponinkineticsinpatientsafteracutemyocardialinjuryincludingacutemyocardialinfarction.Thetimingof
+biomarkerreleaseintothecirculationisdependentonbloodflowandhowsoonaftertheonsetofsymptomssamplesareobtained.Thus,theability
+toconsidersmallchangesasdiagnosticcanbeproblematic.Inaddition,manycomorbiditiesincreasecTnvaluesand,inparticular,hs-cTnvalues,so
+thatelevationscanbepresentatbaselineeveninthosewithmyocardialinfarctionwhopresentearlyaftertheonsetofsymptoms.ChangesincTn
+valuesordeltascanbeusedtodefineacutecomparedwithchronicevents,andtheabilitytodetecttheseisindicatedinthefigure.IncreasedcTnval-
+uescanoftenbedetectedfordaysafteranacuteevent.cTn=cardiactroponin;URL=upperreferencelimit.
+.
+.
+elementsoftheclinicalevaluationtoestablishthediagnosisofacute .. deviationaroundthemeasurementoftheindividualassayatrelevant
+.
+MI. Criteria for determining a pathological rise between two serial .. values.12,22 For hs-cTn assays, biological variation also needs to be
+.
+cTnvaluesareassay-dependentandcontinuetoevolve.Anidealized .. considered.Inmoststudies,conjointanalyticaland biologicalvaria-
+.
+view of troponin kinetics in patients with acute MI is shown in .. tionisintherangeof50–60%.
+.
+Figure7. .. Forthatreason,thispercentagehasbeensuggestedforusewhen
+.
+It should be appreciated that because biomarker release is sub- .. initial baseline values are <_ the 99th percentile URL.23,31,113
+.
+stantiallydependentonbloodflow,111,112thereissignificantvariabil- .. However, for individuals withaninitial value greater thanthe 99th
+.
+ityinthetimetopeakvalue(velocity),thetimewhenanormalvalue .. percentileURL,alesserdegreeofchangeduringserialmeasurements
+.
+maybecomegreaterthanthe99thpercentileURL,orwhenachang- .. is necessary to achieve improved clinical sensitivity (as compared
+.
+.
+ingpatternofvaluescanbeobserved.Theabilitytodefineachanging . withindividualswithinitialvalues<_the99thpercentileURL).Thus,
+.
+.
+patternwillalsodependontiming.Forexample,aroundpeakvalues, . anexpertconsensusgrouphasrecommendedserialchanges>20%
+.
+itmaybedifficulttoobserveachangingpatternofvalues.Similarly, .. beusedinthissituation.22Absolutechangesareassaydependentbut
+.
+thedownslopeofthetime–concentrationcurveismuchslowerthan .. appearsuperiortorelativepercentchangeswithhs-cTnassays,114
+.
+.
+theupslope.Theseissuesneedtobetakenintoaccountwhendefin- . andinsomestudiesthisisespeciallythecasewhentheinitialvalueis
+.
+ing whether or not a changing pattern is present. In addition, it is .. increased.115Theuseofafixedabsolutevaluechangecriteriatrans-
+.
+.
+important to makesurethata given changeis greater thancanbe . latesintoasmallerpercentageorrelativechangeasabsolutevalues
+.
+.
+anticipatedbyvariabilityalone.ThisisdefinedforconventionalcTn . rise,andthereforeprovidesgreatersensitivity.Theuseofachanging
+.
+.
+assaysasachangegreaterthanorequaltothreetimesthestandard . pattern is important in allowing clinicians to differentiate an acute
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 20 ---
+256 Expertconsensusdocument
+.
+fromachroniccTnincreaseabovethe99thpercentileURL.113–115 .. be difficult to observe over short periods of time in those who
+.
+.
+Usingcriterialessthanconjointanalyticalandbiologicalvariationwill . present earlyafter the onset ofsymptoms of acute MI, those who
+.
+reducetheclinicalspecificityofhs-cTnassays.113,116Animprecision .. present late and are on the downslope of the time-concentration
+.
+.
+of<_10%coefficientofvariation(CV)atthe99thpercentileURLis . curve,andthosewhohavevaluesnearpeakwheretheymaybetran-
+.
+also mandatory for hs-cTn assays.31 The use of non-hs-cTn assays .. sitioningfromarisingtoafallingpattern.113,123
+.
+.
+thatdonothaveimprecision(<_10%CVatthe99thpercentileURL) .
+.
+.
+makesthedeterminationofasignificantserialchangemoredifficult .
+.
+. 25 The 99th percentile upper
+butdoesnotcausefalsepositiveresults.AssayswithCVsbetween .
+.
+.
+10–20%areacceptableforclinicaluse.However,assayswithCVs> .. reference limit
+.
+20%atthe99thpercentileURLshouldnotbeused.117 ..
+.
+IfacTnassayisnotavailable,thebestalternativeisCK-MBmeas- .. The99thpercentileURLisdesignatedasthedecisionlevelforthe
+.
+ured by a mass assay. As with cTn, an increased CK-MB value is .. presenceofmyocardialinjuryandmustbedeterminedforeachspe-
+.
+definedasameasurementabovethe99thpercentileURL,whichis .. cificassaywithqualitycontrolmaterialsusedattheURLtovalidate
+.
+designatedasthedecisionlevelforthediagnosisofMI.Sex-specific .. appropriate assay imprecision. The cTn assay 99th percentile URL
+.
+CK-MBvaluesshouldbeemployed.118 .. values used in clinical practice and research can be found both in
+.
+.. manufacturers’ package inserts, in peer-reviewed publications, and
+.
+.. onthe IFCC website.118–120Cliniciansshouldbe awarethatforall
+24 Analytical issues of cardiac ...
+cTnassays,includinghs-cTnassays,thereisstillnoexpertopinionor
+.
+troponins .. consensus about specific criteria for how the 99th percentile URL
+.
+.. shouldbedefined.124WeendorseIFCCguidelinesonthetechnical
+.
+.
+Theanalyticalsensitivity[limitofdetection(LoD)]ofcTnIandcTnT . issuesrelatedtohs-cTnassays,includinghowstudiesshouldbecon-
+.
+assaysvaries10-fold.31,119Becauseassaysarenotstandardized,values .. figuredtodetermine99thpercentileURLs.119Theguidelinesinclude
+.
+.
+from one assay cannot be directly compared with those from . theclinicalorsurrogatebiomarkerscreeningthatmaybeneededto
+.
+.
+anotherassay.Furthermore,valuesmaybedifferentbetweenassay . better define the 99th percentile URL and the statistical methods
+.
+generations120 and changes can even occur when the same assay .. that can be applied, but do not include a requirement for cardiac
+.
+reagents are measured on different instruments.121 Thus, clinicians .. imaging.119Screeningofapparentlyhealthysubjectswithimaginghas
+.
+.
+mustlearnabouttheirlocalassayandshouldlookforreliableinfor- .. beenshowntolowertheobserved99thpercentileURLvalue,butis
+.
+mation, e.g. available on the International Federation of Clinical .. not a practical standard for the in vitro diagnostic industry to
+.
+Chemistry and Laboratory Medicine (IFCC) website (http://www. .. use.124,125Thus,thereisthepossibilityoffalsenegativevaluesusing
+.
+ifcc.org/executive-board-and-council/eb-task-forces/task-force-on-cli .. the manufacturer’s reported 99th percentile URL values. hs-cTn
+.
+nical-applications-of-cardiac-bio-markers-tf-cb/), when they have .. assays demonstrate shifts to higher values for the 99th percentile
+.
+questionsconcerninganalyticalissues.Thecurrentguidelinesaccom- .. URL in association with comorbidities and age over > 60
+.
+modate all assays, whether hs-cTn, contemporary (conventional) .. years.101,125–127 However,atpresent, age-dependent cut-off points
+.
+cTn,orpointof care (POC) cTn.Whilehs-cTnassaysare ableto .. arenotrecommendedforclinicaluse.Cliniciansshouldrelyinstead
+.
+measure relativelylow values and document small increases above .. onchangingvaluesduringserialmeasurementsofcTnforthediagno-
+.
+the99thpercentileURL,manycontemporaryandPOCcTnassays .. sisofacutemyocardialinjury,includingMI.Significantlylowervalues
+. maynotdetectsmallincreasingvalueswithinthereferenceinterval .. areobservedamongwomencomparedwithmen,andthereforesex-
+.
+orslightlyabovethe99thpercentileURL,leadingtosubstantialdiffer- .. specific 99th percentile URLs are recommended for hs-cTn
+.
+encesinthefrequencyofeventsbasedsolelyonthecTnassayused. .. assays.31,118–120 For some hs-cTn assays, sex-specific cut-off values .
+Thesedifferencesareamplifiedwhenmultiplesofthe99thpercentile .. havebeenreportedtoimprovediagnosticandprognosticinforma- .
+URLareused.Atpresent,IFCCguidelinessupporttheconceptthat .. tioninpatientswithpossibleacuteMI.128,129However,thereiscon-
+.
+.
+hs-cTn assays are differentiated from contemporary or POC cTn . troversy as to whether this approach provides valuable additional
+.
+assaysbytheirabilitytomeasurecTnvaluesabovetheassay’sLoDin .. informationforallhs-cTnassays.130
+.
+>_50%ofhealthyindividuals.31,118,119,122Thisprovidesaroughesti- ..
+.
+.
+mateofassaysensitivity.ItisrecommendedthatvaluesforcTnassays .
+.. 26 Operationalizing criteria for
+bereportedaswholenumbersinnanogramsperlitretoavoidinter- .
+.
+.
+pretationproblemsassociatedwithmultiplezerosanddecimalpoints . myocardial injury and infarction
+.
+that can often result in confusion.31 Clinicians should avoid mixing ..
+.
+.
+theunitsfromcontemporaryassayswiththosefromhs-cTnassays. . BloodsamplesforthemeasurementofcTnshouldbedrawnonfirst
+.
+.
+Allassays,includingcTnassays,havesomeanalyticalproblemsresult- .. assessment(designatedas0h)andrepeated3–6hlater,orearlier
+.
+inginfalsepositiveandfalsenegativeresults,buttheseareuncom- .. withhs-cTnassays.Thesamplingintervalwillimpacttheclinicalcut-
+.
+mon (< 0.5%).22 These problems are less common with hs-cTn .. offatbaselineandwhatisdeterminedtobeapathologicalriseand/or
+.
+assays.23 .. fallofthebiomarker.Samplingbeyond6hmayberequirediffurther
+.
+Conjoint biological and analytical variation of hs-cTn assays is in .. ischaemic episodes occur, or in high-risk patients. To establish the
+.
+therangeof50–60%.123Whenvaluesareelevated,analyticalvaria- .. diagnosisofanacuteMI,ariseand/orfallincTnvalueswithatleast
+.
+tionislessandavalueof20%canbeusedtodeterminethatvalues .. onevalueabovethe99thpercentileURLisrequired,coupledwitha
+.
+arestableintheproperclinicalcontext.Forexample,changesmay . highclinicaland/orECGlikelihoodofmyocardialischaemia.hs-cTn
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 21 ---
+Expertconsensusdocument 257
+.
+.
+assaysshortenthetimetodiagnosisinmanypatientstowithin3hof . can be marked but do not change acutely during serial sampling.
+.
+.
+onsetofsymptoms,buttherearestillsomepatientswhomayrulein . However,afallingpatternmaytakelongertobeobservedinpatients
+.
+late (at 6 h).131 Furthermore,somepatientswith acute myocardial .. with a high pre-test risk of MI who present late after symptom
+.
+injurypresentinglateaftertheonsetofacuteMI(>12–18h)and .. onset.146ThesepatientswhohavecTnvaluesonthedownslopeof
+.
+.
+who are on the downslope of the time-concentration curve may . thetime–concentrationcurvehaveaslowdeclineinvalues(Figure7).
+.
+.
+require longer periods of time for a changing pattern to be . Thus,detectingachangingpatternovershortperiodsoftimemaybe
+.
+detected.131Inaddition,itshouldbenotedthatwiththeimplementa- .. difficult.117Dependingontheextentofmyocardialinjury,cTnvalues
+.
+.
+tionofcTnandhs-cTnassays,thefrequencyofunstableanginawill . may remain above the 99th percentile URL for a longer period of
+.
+.
+decreaseandthediagnosisofNSTEMIwillincrease.132,133Themagni- .. time.22,23 An increased cTn value above the 99th percentile URL,
+.
+tudeofthesechangesusinghs-cTnassayshavebeenreportedinthe .. withorwithoutadynamicchangeofvalues,orintheabsenceofclini-
+.
+range of 18–30%.134 Assuming proper timing of symptoms, acute .. calevidenceofischaemia,shouldpromptasearchforotherdiagno-
+.
+ischaemiashouldresultinachangeinhs-cTn;however,theremaybe .. sesassociatedwithmyocardialinjury,asshowninTable1.
+.
+patients in whom it is difficult to ascertain the timing of symptom ..
+.
+onset.Thus,despitetypicalchestdiscomfort,thesepatientsmayhave ..
+. 27 Electrocardiographic detection
+hs-cTnvaluesthatarenotelevated.Otherpatientswithsymptoms ..
+.
+suggestiveofunstableanginamayhaveincreasedhs-cTnvaluesasa .. of myocardial infarction
+.
+resultofstructuralheart disease with orwithout acutemyocardial ..
+.
+ischaemia.Thislattergroupmaybeparticularlydifficulttodistinguish .. TheECGisanintegralpartofthediagnosticworkupofpatientswith
+.
+frompatientspresentingwithlateNSTEMIwithaslowdeclineintro- .. suspectedMI,andshouldbeacquiredandinterpretedpromptly(i.e.
+.
+poninvaluesthatcanbeobservedinlatepresenters.131Finally,some .. target within 10 min) after first medical contact.47,147 Pre-hospital
+.
+.
+patients maymanifesta changingpatternoftroponinvalues witha . ECGsreducethetimetodiagnosisandtreatment,andcanfacilitate
+.
+.
+magnitudethatdoesnotexceedthedeltasuggestedfordiagnosisor . thetriageofSTEMIpatientstohospitalswithPCIcapabilityifwithin
+.
+who fail to manifest a value greater than the 99th percentile URL. .. therecommendedtimeinterval(120minfromSTEMIdiagnosis).46,148
+.
+.
+Thisisagroupofpatientsthatdeservesclosescrutinybecausethey . Acutemyocardialischaemiaisoftenassociatedwithdynamicchanges
+.
+.
+maybeathighrisk.Thetriageofthesepatientscanonlybeaccom- . inECGwaveformandserialECGacquisitioncanprovidecriticalinfor-
+.
+.
+plishedbasedonclinicalevaluation. . mation,particularlyiftheECGatinitialpresentationisnon-diagnostic.
+.
+.
+Strategiesemployingeitherverylowlevelsofhs-cTnonpresenta- .. Recording several standard ECGs with fixed electrode positions at
+.
+tionorthelackofanychangeandpersistentlynormalhs-cTnvalues .. 15–30minintervalsfortheinitial1–2h,ortheuseofcontinuous
+.
+over a 1–2 h period after presentation have been advocated to .. computer-assisted 12-lead ECG recording (if available) to detect
+.
+excludeacutemyocardialinjury,andMIaswell.Asinglesamplerule .. dynamic ECG changes, is reasonable for patients with persistent or
+.
+out strategyusing a verylow value (in many casestheLoD ofthe .. recurrentsymptomsoraninitialnon-diagnosticECG.149Serialorcon-
+.
+assay) has high sensitivity for myocardial injury and therefore high .. tinuousECGrecordingsmaybehelpfulindeterminingreperfusionor
+.
+negativepredictivevaluetoexcludeMI.135Thisstrategyshouldnot .. reocclusionstatus.Reperfusionisusuallyassociatedwithalargeand
+.
+beusedinthosewhopresentearly,i.e.<2haftertheonsetofchest .. promptreductioninST-segmentelevation.
+.
+discomfort. Some studies indicate that the single sample approach .. MoreprofoundST-segmentshiftsorTwaveinversionsinvolving
+.
+provides optimal sensitivity and negative predictive accuracy in .. multiple leads/territories are associated with a greater degree of
+. patientsotherwiseatlowriskandthosewithanormalECG.136–138 .. myocardial ischaemia, and a worse prognosis. For example, ST-
+.
+However,oneconcernaboutveryshortruleoutperiodsisthatthe .. segmentdepression>_ 1mminsixleads,whichmaybeassociated
+.
+precisionoftheassaysmaynotpermitsmalldifferencestobedistin- ... with ST-segment elevation in leads aVR or lead V 1 and haemody-
+guished.139–142Thesecriteriahavenot,andshouldnot,beappliedto .. namiccompromise,issuggestiveevidenceofmultivesseldiseaseor .
+patientswithhs-cTnelevations. .. left main disease. Pathologic Q waves increase the prognostic risk.
+.
+Theclinicalspecificityandpositivepredictivevalueofsuch1–2h .. OtherECGsignsassociatedwithacutemyocardialischaemiainclude
+.
+.
+sampling approaches for ruling in MI are limited by the substantial . cardiacarrhythmias,intraventricularbundlebranchblocks,atrioven-
+.
+.
+proportionofindividualswhomeettheproposedbiomarkercriteria . tricularconductiondelays,andlossofprecordialRwaveamplitude,a
+.
+withdiagnosesotherthanMI.136,141Thus,theuseofarapidrulein/ .. lessspecificfinding.TheECGbyitselfisofteninsufficienttodiagnose
+.
+.
+out MI protocol does not absolve the clinician from considering . acutemyocardialischaemiaorinfarction,sinceSTdeviationmaybe
+.
+othercausesofacutemyocardialinjury.142Inaddition,consideringa .. observedinotherconditions,suchasacutepericarditis,LVhypertro-
+.
+.
+broader population of patients—inclusive of those who present . phy(LVH),leftbundlebranchblock(LBBB),Brugadasyndrome,TTS,
+.
+.
+atypically,thosewithend-stagerenaldisease,andthecriticallyill— . andearlyrepolarizationpatterns.150ApriorECGisoftenhelpfulin
+.
+thecut-offpointstobeusedwilllikelyneedtobealtered.139Such ... distinguishinganewfromachronicfinding,butshouldnotdelaythe
+.
+patientshavebeenexcludedfromthemajorityofemergencydepart- .. decisionfortreatment.
+.
+mentevaluationstudies.108,136,142 .. Prolonged new convex ST-segment elevation, particularly when
+.
+Thedemonstrationofarisingand/orfallingpatternisneededto .. associated with reciprocal ST-segment depression, usually reflects
+.
+distinguish acute injury from chronic conditions associated with .. acute coronary occlusion and results in myocardial injury with
+.
+structuralheartdiseasethatcanhavechronicincreasesofcTnvalues. .. necrosis. Reciprocal changes can help to differentiate STEMI from
+.
+Forexample,patientswithrenalfailure99,143,144orLVhypertrophy145 .. pericarditisorearlyrepolarizationchanges.Asincardiomyopathy,Q
+.
+canhavesignificantchronicincreasesincTnvalues.Theseincreases . wavesmayalsooccurdue tomyocardialfibrosisinthe absenceof
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 22 ---
+258 Expertconsensusdocument
+.
+CAD.Someoftheearliermanifestationsofmyocardialischaemiaare .. onsetoftheQRSservingasthereferencepoint.Inpatientswitha
+.
+.
+typical T wave and ST-segment changes. Increased hyperacute T . stablebaseline,theTPsegment(isoelectricinterval)isamoreaccu-
+.
+.
+waveamplitude,withprominentsymmetricalTwavesinatleasttwo . ratemethodtoassessthemagnitudeofST-segmentshift,andindis-
+.
+.
+contiguousleads,isanearlysignthatmayprecedetheelevationof . tinguishing pericarditis (PTa depression) from acute myocardial
+.
+.
+theST-segment.Ingeneral,thedevelopmentofnewQwavesindi- . ischaemia. Tachycardia and baselineshift are common in theacute
+.
+.
+catesmyocardialnecrosis,whichstartsminutes/hoursafterthemyo- . setting and can make this determination difficult. Therefore, QRS
+.
+.
+cardialinsult.TransientQwavesmaybeobservedduringanepisode . onsetisrecommendedasthereferencepointforJ-pointdetermina-
+.
+.
+ofacuteischaemiaor(rarely)duringacuteMIwithsuccessfulreper- . tion(Figure8).
+.
+.
+fusion.Table2listsST-segment–Twave(ST-T)criteriasuggestiveof . New,orpresumednew,J-pointelevation>_ 1mm(1mm=0.1
+.
+.
+acute myocardial ischaemia that may or may not lead to MI. The . mV) is required in all leads other than V and V as an ischaemic
+. 2 3
+.
+J-point(junctionbetweenQRSterminationandST-segmentonset)is . response.In healthymenunderage 40,J-pointelevationcanbeas
+.
+.
+used todetermine themagnitude ofthe ST-segmentshiftwiththe . muchas2.5mminleadsV orV ,butitdecreaseswithincreasing
+. 2 3
+.
+.. age.Sexdifferencesrequiredifferentcut-offpointsforwomen,since
+.
+... J-pointelevationinhealthywomeninleadsV 2andV 3islessthanin
+.. men.5ThecriteriainTable2requirethattheSTshiftbepresentin
+.
+.. twoormorecontiguousleads.Forexample,>_2mmofST-elevation
+.
+... in lead V
+2
+and >_ 1 mm in lead V
+1
+would meet the criteria oftwo
+1 .. abnormalcontiguous leads in a man>_40years old. However, >_ 1
+.
+... mmand<2mmofST-elevation,seenonlyinleadsV 2–V 3inmen(or
+.. <1.5mminwomen),mayrepresentanormalfinding.
+.
+2 ... It should be noted that lesser degrees of ST displacement or T
+.. waveinversionthanthosedescribedinTable2canalsorepresentan
+.
+.. acutemyocardialischaemicresponse.Inpatientswithknownorhigh
+.
+.
+. likelihoodofCAD,theclinicalpresentationiscriticaltoenhancethe
+.
+Figure 8 Electrocardiogram example of ST-segment elevation. .. specificityofthesefindings.
+.
+TheinitialonsetoftheQwaveshownbyarrow1servesasthe .. Absence of ST-elevation in the precordial leads, tall, prominent,
+.
+referencepointandarrow2showstheonsetoftheST-segmentor .
+. symmetricalTwavesintheprecordialleads,upslopingST-segment
+J-point.Thedifferencebetweenthetwoidentifiesthemagnitudeof ..
+. depression>1mmattheJ-pointintheprecordialleads,andinmost
+displacement.Measurementsofbotharrowsshouldbemadefrom ..
+. casesST-segmentelevation(>1mm)inleadaVRorthesymmetrical,
+thetopoftheelectrocardiogramlinetracing. ..
+. oftendeep(>2mm),Twaveinversionsintheanteriorprecordial
+.
+.
+. leads are associated with significant left anterior descending artery
+.
+.. (LAD) occlusion.151–153 ST-elevation in lead aVR > 1 mm may
+.
+.
+. accompany anterior or inferior STEMI, and is associated with
+.
+Table2 Electrocardiographicmanifestationssugges- .. increased 30daymortalityin patients with acute MI.154 Pulmonary
+.
+tiveofacutemyocardialischaemia(intheabsenceof .
+leftventricularhypertrophyandbundlebranchblock)
+... embolism, intracranial processes, electrolyte abnormalities, hypo-
+.. thermia,orperimyocarditismayalsoresultinST-Tabnormalitiesand
+.
+.. shouldbeconsideredinthedifferentialdiagnosis.
+.
+ST-elevation .. TheECGdiagnosisofatrialinfarctionshouldbesuspectedinthe
+.
+.. contextofventricularinfarction(particularlywhentherightventricle
+N the ew
+c
+S utT -- pe ole inv ta
+:
+t ≥io 1n
+m
+a mt t h ine
+a
+J ll- p leo ain dt
+s
+i on
+t
+t hw eo
+r
+tc ho an nt i lg eu ao du
+s
+s
+V
+le –a Vds
+w
+w hi eth
+re
+....
+isinvolved)ifsmall,transientelevationsandreciprocaldepressionsof
+the following cut-points apply: ≥2mm in men ≥402 ye3 ars; ... thePR(PTa)segmentarenotedassociatedwithchangesinconfigura-
+≥2.5 mm in men <40 years, or ≥1.5 mm in women regardless .. tionofthePwave.
+.
+of age.a .. .
+.
+. ST-depression and T wave changes .
+.
+.
+. 28 Application of supplemental
+New horizontal or downsloping ST-depression ≥0.5 mm ..
+in two contiguous leads and/or T inversion >1 mm in two .. electrocardiogram leads
+.
+contiguous leads with prominent R wave or R/S ratio >1. ..
+.
+.
+.. Supplemental leads, as well as serial ECG recordings, should be
+.
+aWhen the magnitudes of J-point elevation inleads V2and V3 areregistered .. deployed with a very low threshold in patients who present with
+.
+from a prior electrocardiogram,new J-point elevation >_ 1 mm (ascompared .. ischaemicchestpainandanon-diagnosticinitialECG.155,156ECGevi-
+withtheearlierelectrocardiogram)shouldbeconsideredanischaemicresponse. ...
+denceofmyocardialischaemiainthedistributionofaleftcircumflex
+Forbundlebranchblock,seesectionbelow. .
+. artery is often overlooked. Isolated ST-segment depression >_ 0.5
+8102
+FHW/AHA/CCA/CSE©
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 23 ---
+Expertconsensusdocument 259
+mm in leads V –V may indicate left circumflex occlusion and can
+1 3 Table3 Electrocardiographicchangesassociatedwith
+bestbecapturedusingposteriorleadsatthefifthintercostalspace
+priormyocardialinfarction(intheabsenceofleftven-
+(V 7attheleftposterioraxillaryline,V 8attheleftmid-scapularline, tricularhypertrophyandleftbundlebranchblock)
+and V at the left paraspinal border). Recording of these leads is
+9
+strongly recommended in patients with high clinical suspicion of
+acute circumflex occlusion (e.g. initial ECG non-diagnostic or ST- Any Q wave in leads V–V >0.02 s or QS complex in leads
+2 3
+segmentdepressioninleadsV 1–V 3).156Acut-offpointof0.5mmST- V 2–V 3.
+elevationisrecommendedinleadsV 7–V 9;specificityisincreasedata Q wave ≥0.03 s and ≥1 mm deep or QS complex in leads I,
+cut-offpoint>_1mmST-elevationandthiscut-offpointshouldbe II, aVL, aVF or V–V in any two leads of a contiguous lead
+4 6
+usedinmen<40yearsold.ST-segmentdepressioninleadsV –V grouping (I, aVL; V–V; II, III, aVF).a
+1 3 1 6
+may be suggestive of inferobasal myocardial ischaemia (previously
+R wave >0.04 s in V–V and R/S >1 with a concordant
+1 2
+termedposteriorinfarction),especiallywhentheterminalTwaveis
+positive T wave in absence of conduction defect.
+positive(ST-elevationequivalent);however,thisisnon-specific.
+Inpatientswithinferiorandsuspectedrightventricularinfarction,
+leadsaVRorV mayexhibitST-segmentelevation>_1mm.Theearly
+aThesamecriteriaareusedforsupplementalleadsV7–V9.s=seconds.
+1
+recordingofrightprecordialleadsV RandV Rshouldbeperformed,
+3 4
+sinceST-elevation>_0.5mm(>_1mminmen<30yearsold)pro-
+videssupportivecriteriaforthediagnosis.157Changesinrightprecor-
+dialleadsmaybetransient,andanabsenceofECGchangesinleads ...
+AsymptomaticpatientswhodevelopnewQwavecriteriaforMI
+V 3RandV 4Rdoesnotexcluderightventricularinfarction.Myocardial ...
+detectedduringroutineECGfollow-up,orrevealevidenceofMIby
+imagingcanbehelpfulinthisclinicalsetting. ..
+. cardiacimagingthatcannotbedirectlyattributedtoaninterimcoro-
+.
+.
+. nary revascularization procedure or an ACS admission, should be
+.
+.
+29 Electrocardiographic detection .. termed‘silentorunrecognizedMI’.InstudieswhereserialECGanaly-
+.
+. sis was applied, silent or unrecognized Q wave MI accounted for
+.
+of myocardial injury .
+. 9–37% of all non-fatal MI events and was associated with a signifi-
+.
+.. cantlyincreasedmortalityrisk.163,164Improperleadplacement,QRS
+.
+ItisnotpossibletoinitiallydistinguishECGmanifestationsofacuteor .
+. abnormalities,ortechnicalerrors(e.g.leadreversal)mayresultinthe
+.
+chronicmyocardialinjuryfromacutemyocardialischaemia.Rapidly .
+. appearanceofnewQwavesorQScomplexes,ascomparedwitha
+.
+developingdynamicECGchangesthattemporallymatchtheclinical .
+. priortracing.Thus,thediagnosisofanewsilentQwaveMIshouldbe
+.
+presentationmaybehelpfulindiagnosingasymptomaticpatientwith ..
+confirmedbyarepeatECGrecordingwithcorrectleadplacement,
+.
+elevatedcTnvaluesashavingacutemyocardialischaemiaresultingin ..
+focusedquestioningaboutpotentialinterimischaemicsymptoms,or
+.
+MI.However,ECGabnormalitiesarealsocommoninpatientswho ...
+byanimagingstudy.Imagingtechniquesareusefulifthereisabnormal
+havemyocardialinjury,e.g.myocarditisorTTS.158–160 ...
+myocardialmotion,thickening,orthinningintheregionofinterest,
+.
+.. buttheabsenceofthesedoesnotexcludeMI.165
+.
+30 Prior or silent/unrecognized
+myocardial infarction Criteria for prior or silent/unrecognized
+MI
+QwavecriteriaassociatedwithMIandanincreasedrelativeriskof
+deathareillustratedinTable3,andarecontainedinQwavecoding Anyoneofthefollowingcriteriameetsthediagnosisforprioror
+algorithmssuchastheMinnesotaCodeandtheWHOMONItoring silent/unrecognizedMI:
+of trends and determinants in CArdiovascular disease (MONICA)
+• PathologicalQwavesasdescribedinTable3,withorwithout
+code.11,161,162
+symptoms,intheabsenceofnon-ischaemiccauses;
+The specificity of the ECG diagnosis for MI is greatest when Q • Imaging evidence of loss of viable myocardium in a pattern
+wavesoccurinseveralleadsorleadgroupings,orare>0.04s.When consistentwithischaemicaetiology;
+theQwavesareassociatedwithSTdeviationsorTwavechangesin • PathologicalfindingsofapriorMI.
+thesameleads,thelikelihoodofMIisincreased;forexample,minor
+Qwaves>_0.02sand<0.03sthatare>_1mmdeeparesuggestive
+of prior MI if accompanied by inverted T waves in the same lead
+group.Non-invasiveimagingtechniquesalsoprovideimportantsup- 31 Conditions that confound the
+portiveevidenceofpriorMI.Intheabsenceofnon-ischaemiccauses,
+electrocardiographic diagnosis of
+regionalmyocardialthinning,scarorreducedwallmotionshownby
+echocardiography,myocardialperfusionscintigraphy(MPS)withsin- myocardial infarction
+gle photon emission computed tomography (SPECT) or positron
+emissiontomography(PET),ormagneticresonanceimagingprovide AQScomplexinleadV isnormal.AQwave<0.03sand<0.25of
+1
+strong evidence for prior MI, particularly when ECG criteria are theRwaveamplitudeinleadIIIisnormalifthefrontalQRSaxisis
+equivocal. between -30(cid:4) and 0(cid:4). A Q wave mayalsobe normal in aVL if the
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 24 ---
+260 Expertconsensusdocument
+.
+.
+frontalQRSaxisisbetween60–90(cid:4).SeptalQwavesaresmall,non- .. depressionshouldnotautomaticallybeclassifiedastype2MIwithout
+.
+pathologicalQwaves<0.03sand<0.25oftheR-waveamplitudein .. additionalinformation.Inthisclinicalsetting,signsofovertischaemic
+.
+leads I, aVL, aVF, and V 4–V 6. Pre-excitation, cardiomyopathy, TTS, ... symptoms,thetimingofsymptomsrelativetoatrialfibrillationonset,
+cardiacamyloidosis,LBBB,leftanteriorhemiblock,LVH,rightventric- .. achangingpatternofcTn,andimagingand/orangiographicfindings
+.
+ularhypertrophy,myocarditis,acutecorpulmonale,orhyperkalae- .. maybehelpfulinestablishingthediagnosis.However,intheabsence
+.
+mia may be associated with Q waves or QS complexes in the .. ofevidenceformyocardialischaemia,the aetiologyoftheelevated
+.
+absence of MI. Clinicians should be aware of confounders to the .. cTnvaluesshouldbeattributedtomyocardialinjury.
+.
+ECGdiagnosisofmyocardialischaemia,sinceST-Twaveabnormal- ..
+.
+itiesarecommonlyobservedwithdifferentpathologicalcardiaccon- ..
+.
+ditions,suchaspre-excitation,pericarditis,andcardiomyopathy. .. 34 Imaging techniques
+.
+.
+.
+.
+.. Non-invasiveimagingplaysmanyrolesinpatientswithknownorsus-
+.
+32 Conduction disturbances and .. pectedMI,butthissectionconcernsonlyitsroleinthediagnosisand
+.
+pacemakers
+... characterizationofmyocardialinjuryandMI.Theunderlyingrationale
+.. isthatregionalmyocardialhypoperfusionandischaemialeadtoacas-
+.
+.. cadeofeventsincludingmyocardialdysfunction,celldeath,andheal-
+ThediagnosisofMIismoredifficultinthepresenceofconduction .
+.. ing by fibrosis. Important imaging parameters are therefore
+disturbances, related in part to ST-T wave changes caused by the .
+.
+. myocardialperfusion,myocyteviability,myocardialthickness,thick-
+conductiondisturbanceandthefactthattheconductiondisturbance . .
+itself may be heart-rate dependent.166,167 Comparison to a pre- .. eningandmotion,andtheeffectsofmyocytelossonthekineticsof
+.
+. paramagneticorradio-opaquecontrastagentsindicatingmyocardial
+admission ECG may be helpful in determining if the conduction .
+.
+. fibrosisorscar.
+defectorST-Twavechangesarenew,aslongasitdoesnotdelay .
+.
+. Commonly used imaging techniques in acute and prior MI are
+timetotreatment.Ischaemicsymptoms,andpresumednewLBBBor ..
+. echocardiography, MPS using SPECT or PET, CMR, and possibly
+rightbundlebranchblock(RBBB)thatisnotrate-related,areassoci- ...
+computed tomography (CT).173 There is considerable overlap in
+atedwithanadverseprognosis.InpatientswithLBBB,ST-segment ..
+. their capabilities and each of the techniques can assess myocardial
+elevation>_1mmconcordantwiththeQRScomplexinanyleadmay ..
+. viability,perfusion,andfunctiontoagreaterorlesserextent.Only
+beanindicatorofacutemyocardialischaemia.Similarfindingscanbe ..
+. theradionuclidetechniquesprovideadirectassessmentofmyocyte
+usefulindetectingECGevidenceforacutemyocardialischaemiain ..
+patientswithrightventricularpacedrhythms.167RecordinganECG
+... viability because of the inherent properties of the tracers used.
+tracewiththepacemakertemporarilyswitchedoffmayalsobeuseful
+... Othertechniquesprovideindirectassessmentsofmyocardialviabil-
+inpatientswhoarenotpacemakerdependent,butcarefulinterpreta-
+... ity,suchasthecontractileresponsetodobutaminebyechocardiog-
+tion of repolarization is needed due to the possible presence of
+... raphy,orincreasedextracellularspacesecondarytomyocytelossby
+stimulation-inducedchanges(electricalmemory).TheECGdiagnosis
+... CMRorCT.
+.
+ofacutemyocardialischaemiainpatientswithbiventricularpacingis ..
+.. 34.1 Echocardiography
+more difficult. In patients with RBBB, new or presumed new ST- .
+.
+segmentelevation>_1mm,orST-segmentorTwaveabnormalities .. Thestrengthofechocardiographyisthecombinedassessmentofcar-
+.
+(excluding leads V –V ) (Table 2), may indicate acute myocardial .. diacstructureandfunction,inparticularmyocardialthickness,thick- 1 4 .
+ischaemia. New, or presumed new, RBBB without associated ST- .. ening/thinning, and motion. Regional wall motion abnormalities .
+.
+segmentorTwavechangesisassociatedwiththrombolysisinmyo- . inducedbyischaemiacanbe detectedbyechocardiographyalmost
+.
+.
+cardialinfarction(TIMI)0–2flowinasmanyas66%ofpatients(com- . immediately after onset when > 20% transmural myocardial thick-
+.
+paredwith>90%inthosewithST-segmentorTwavechanges).168 .. nessisaffected.174–176Theseabnormalities,whennewandwithout
+.
+. . alternative aetiology, support the diagnosis of MI when cTn values
+.
+.
+. show a rising and/or falling pattern. Echocardiography also allows
+.
+.
+33 Atrial fibrillation . detectionofnon-coronarycardiacpathologiesknowntocausechest
+. .
+. pain,e.g.acutepericarditis,severeaorticstenosis,andhypertrophic
+.
+.
+Inpatientswithatrialfibrillationandrapidventricularrateorparoxys- . cardiomyopathyamongothers.Thetechniqueisusefulindiagnosing
+.
+.
+malsupraventriculartachycardia,ST-segmentdepressionorTwave . mechanical complications in patients with MI and haemodynamic
+.
+inversion mayoccur in theabsence ofCAD.169,170 The causes are .. compromise(shock),orotherpotentiallyfatalentitiessuchasacute
+.
+.
+notcompletelyunderstood.Cardiacmemory,anelectricalremodel- . aorticdissectionormassivepulmonaryembolismwheretheclinical
+.
+.
+lingphenomenoncharacterizedbymarkeddiffuseTwaveinversions .. presentationmightbesimilartothatseenwithacuteMI.
+.
+followingperiodsofabnormalventricularactivation,whichmayalso .. Intravenousechocardiographiccontrastagentscanimprovevisual-
+.
+becausedbytransientrate-relatedconductiondisturbancesorpac- .. izationoftheendocardialborder,andcanbeusedtoassessmyocar-
+.
+ing,mayexplainthesefindings.Insomepatients,thetachycardiamay .. dial perfusion and microvascular obstruction. Tissue Doppler and
+.
+resultinaninsufficientincreaseincoronaryflowtomatchmyocardial .. strainimagingpermitthequantificationofglobalandregionalfunc-
+.
+oxygendemand,resultingincellularhypoxiaandabnormalrepolari- .. tion.177,178 Intravascularechocardiographic contrastagentsthatare
+.
+zation.171,172Forthesereasons,apatientwithnew-onsetatrialfibril- .. targeted at specific molecular processes have been developed, but
+.
+lation, elevated baseline cTn concentration, and new ST-segment . thesetechniqueshavenotyetbeenappliedinthesettingofMI.179
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 25 ---
+Expertconsensusdocument 261
+.
+.
+34.2 Radionuclide imaging . meta-iodobenzylguanidine,181 imaging of matrix metalloproteinase
+.
+.
+Several radionuclide tracers allow viable myocytes to be imaged
+.. activation in ventricular remodelling,182,183 and the assessment of
+.
+directly,includingtheSPECTtracers201TIchloride,99mTcsestamibi, .. myocardialmetabolism.184
+.
+andtetrofosmin,andthePETtracers18F2-fluorodeoxyglucoseand ..
+.
+. 34.3 Cardiac magnetic resonance
+82Rb.173Astrengthoftheradionuclidetechniquesisthattheyarethe .
+.
+only commonly available methods for assessing viability directly,
+... imaging
+.
+althoughtherelativelylowresolutionoftheimageslimitsthemfor .. ThehightissuecontrastandresolutionofCMRprovidesanaccurate
+.
+detectingthesmallestareasofMI.Phantomstudiessuggestthatmyo- .. assessmentofmyocardialstructureandfunction.Althoughlesscom-
+.
+cytelossaslittleas4%ofthemyocardiumcanbedetected,corre- .. monlyusedintheacutesetting,ithassimilarcapabilitiestoechocar-
+.
+sponding to 5–10 g of muscle.180 ECG-gated imaging provides a .. diographyinsuspectedMI.Paramagneticcontrastagentscanbeused
+.
+reliableassessmentofmyocardialmotion,thickening,andglobalfunc- .. toassessmyocardialperfusionandtheincreaseinextracellularspace
+.
+tion.Evolvingradionuclidetechniquesrelevanttotheassessmentof .. that is associated with the fibrosis of prior MI (detected by LGE-
+.
+MI include imaging of sympathetic innervation using 123I-labelled . CMR). These techniques have been used in the setting of acute
+ISCHAEMIC
+Transmural Subendocardial Focal Subendocardial
+NON-ISCHAEMIC
+Subepicardial Mid-wall Insertion points
+Figure 9 Post-contrastcardiacmagneticresonanceimages.Thegadolinium-basedcontrastswashoutslowlyfrommyocardiumwithincreased
+extracellularspacesuchasfibrosis,thusenhancingareasofscarring(whitearrows).Thedifferentpatternsofscarringaredividedintoischaemicand
+non-ischaemic.Typically,anischaemicscar/fibrosis(upperpanel)extendsfromthesubendocardiumtotheepicardium(subendocardial,non-trans-
+muralscarvs.transmuralscar).Conversely,anon-ischaemicfibrosis/scarcanbeencounteredattheepicardium,inthemid-wall,orattheinsertion
+pointsoftherightventricle(lowerpanel).
+8102
+FHW/AHA/CCA/CSE©
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 26 ---
+262 Expertconsensusdocument
+.
+MI185,186 and localized delay in contrast enhancement is able to .. beexcluded,andunlessanewabnormalityisdetectedorcanbepre-
+.
+.
+detectevensmallareasofsubendocardialMI,thoughttobeaslittle . sumedtohaveariseninthesettingofotherfeaturesofacuteMI.
+.
+as1g.187CMRalsohastheabilitytoidentifythepresenceandextent .. InthesettingofacuteMI,CMRcanalsobeusedtoassessthepres-
+.
+.
+ofmyocardialoedema/inflammation,allowingthedistinctionofacute . enceandextentofmyocardiumatrisk(myocardialoedema),myo-
+.
+.
+vs. chronic myocardial injury. The patterns of LGE when reflecting . cardial salvage, microvascular obstruction, intramyocardial
+.
+.
+ischaemicandnon-ischaemicmyocardialinjuryareshowninFigure9. . haemorrhage,and infarctsize, all markersofmyocardial injurythat
+.
+The gadolinium-based contrasts wash out slowly from myocar- .. haveprognosticvalue.190InpatientswithpossibleacuteMIbutunob-
+.
+.
+diumwithincreasedextracellularspacesuchasfibrosis,thusenhanc- . structed coronary arteries, CMR can help to diagnose alternative
+.
+.
+ingareasofscarring(whitearrows).Thedifferentpatternsofscarring .. conditionssuchasmyocarditis,TTS,embolicinfarction,orMIwith
+.
+aredividedintoischaemicandnon-ischaemic.Typically,anischaemic .. spontaneousrecanalization.189
+.
+scar/fibrosis(upperpanel)extendsfromthesubendocardiumtothe ..
+.
+epicardium (subendocardial, non-transmural scar vs. transmural ..
+scar).Conversely,anon-ischaemicfibrosis/scarcanbeencountered
+... 36 Applying imaging in late
+.
+attheepicardium,inthemid-wall,orattheinsertionpointsofthe .. presentation of myocardial
+.
+rightventricle(lowerpanel). ..
+. infarction
+.
+.
+.
+. 34.4 Computed tomographic coronary .
+. InthecaseoflatepresentationaftersuspectedMI,thepresenceofa
+.
+angiography ... regional abnormality of myocardial motion, thickening, thinning, or
+.
+InfarctedmyocardiumisinitiallyvisibleasafocalareaofdecreasedLV .. scarintheabsenceofanon-ischaemiccauseprovidessupportiveevi-
+.
+myocardial enhancement, but later imaging shows hyper- .. denceofpastMI.TheresolutionandspecificityofCMRforthedetec-
+.
+enhancementaswithLGE-CMR.188Thisfindingisclinicallyrelevant .. tion of myocardial scarring has made this a valuable technique. In
+.
+becausecontrast-enhancedCTmaybeperformedforsuspectedpul- .. particular, the ability to distinguish between subendocardial and
+.
+monaryembolismandaorticdissection,conditionswithclinicalfea- .. otherpatternsofscarshelpstodifferentiatebetweenischaemicheart
+.
+turesthatoverlapwiththoseofacuteMI,butthetechniqueisnot .. disease and other myocardial pathologies. Imaging techniques are
+.
+used routinely. Similarly, CT assessment of myocardial perfusion is .. alsousefulforriskstratificationafteradefinitivediagnosisofMI.
+.
+technicallyfeasiblebutnotwidelyapplied.189CTcoronaryangiogra- ..
+.
+.
+phy(CTCA)maybeusedtodiagnoseCADinpatientswithanACS .
+.. 37 Regulatory perspective on
+intheemergencydepartmentorchestpainunit,particularlyinlow- .
+.
+tointermediate-riskpatientswithnormalcTnatpresentation.189–193 .. myocardial infarction in clinical
+.
+.
+Theonlyrandomizedtrialinthesepatientsthatincludedbothhs-cTn .
+. trials
+.
+andCTCAfoundthatimaging did notreduce the lengthofstayin .
+.
+.
+hospital, but it did decrease subsequent outpatient testing and .
+.. Indruganddevicedevelopmentprogrammes,MImaybeanentrycri-
+costs.189AdiagnosisofMIcannotbeestablishedbasedonaCTCA .
+.. terionorbeusedasanefficacyendpoint,commonlyasacomponent
+scanalone. ...
+of theprimary endpoint, aswellasa safetyendpointofinterestin
+.
+.. drugdevelopmentprogrammes.195,196AuniversaldefinitionofMIis
+. .. ofgreatbenefitforclinicalstudies,sinceitwillallowastandardized
+35 Applying imaging in acute .
+.. approachformeaningfulinterpretationandcomparisonacrossdiffer-
+.
+myocardial infarction .. enttrials,orthepoolingofresultsforthedetectionofsafetysignals. .
+.
+. FortheharmonizationoftheMIdefinitionitisimportanttostandard- .
+.
+ImagingtechniquescanbeusefulinthediagnosisofacuteMIbecause . ize the reporting of MI events by clinical events committees. This
+.
+.
+of the ability to detect wall motion abnormalities or loss of viable . wouldallowamoreoptimalcomparisonofMIratesamongdrugand
+.
+.
+myocardium in the presence of elevated cardiac biomarker values. . devicetrials.
+.
+.
+Demonstrationofnewlossofmyocardialviabilityintheabsenceof . OnecannotpresumethatvaluesfromonecTnassayareequiva-
+.
+.
+non-ischaemiccausessupportsthediagnosisofMI.Normalfunction . lenttothoseofanother.Thesedifferencesareamplifiedwhenmulti-
+.
+.
+practically excludes significant MI, but a small MI cannot be ruled . plesofthevaluesareused.Thiscouldaffectresults,especiallyintrials
+.
+out.194Thus,imagingtechniquesareusefulforearlytriageanddis- .. thatcomparestrategiessuchasPCIandCABG.Theuseofonesingle
+.
+.
+chargeofpatientswithsuspectedMI.However,ifbiomarkershave . assay and/or a central core laboratory within a trial could help to
+.
+.
+beenmeasured atappropriate timesand are normal,this excludes . decreasethisvariability,andmightbeparticularlyrelevantindecreas-
+.
+.
+acuteMIandtakesprecedenceovertheimagingcriteria. .. ingvariabilityintrialsofadrugorinterventioninwhichcTnconcen-
+.
+Abnormal regional myocardial motion and thickening may be .. trationisaprincipalsafetyendpoint.However,theuniformuseofa
+.
+causedbyacuteMI,orbyoneormoreofseveralotherconditions .. singleassayisgenerallynotfeasibleintrialswithfollow-uppost-dis-
+.
+includingprior infarction,acuteischaemia,stunning, orhibernation. .. charge,sincerecurrentischaemiceventsmayoccurindifferenthos-
+.
+Non-ischaemicconditionssuchascardiomyopathy,andinflammatory .. pitals using different cTn assays. In clinical trials, a standardized
+.
+orinfiltrativediseases,canalsoleadtoregionallossofviablemyocar- .. approachtoestablishthe99thpercentileURLforaparticularassay
+.
+dium or functional abnormality. Therefore, the positive predictive .. shouldbeestablished.Oneapproachinlargemulticentretrialsisto
+.
+valueofimagingforacuteMIisnothighunlesstheseconditionscan . use the manufacturer’s recommended 99th percentile URL for a
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 27 ---
+Expertconsensusdocument 263
+.
+.
+particularassaytoreducesite-to-sitevariabilityintheselectionofthe . respecttopsychologicalstatus,lifeandhealthinsurance,andprofes-
+.
+.
+MIdecisioncut-offpoint. . sionalcareer,aswellasdrivingandpilotlicences.Thediagnosisisalso
+.
+.
+Multiplesforhs-cTnvs.conventionalcTncouldhavemarkedlydif- . associatedwithsocietalimplicationswithregardstodiagnosis-related
+.
+.
+ferentprognosticimplications.The assaytypesshouldbe reported . coding, hospital reimbursement, public health statistics, sick leave,
+.
+.
+whenpossible.Multiplesofthe99thpercentileURLshouldbeindi- . and disability attestation. In order to meet these challenges, physi-
+.
+.
+catedandreported,bothforthosewithcardiacproceduralmyocar- . ciansmustbeadequatelyinformedofthediagnosticcriteria.Hence,
+.
+.
+dialinjuryandthosediagnosedwithtypes4aand5MI.Cumulative . educationalmaterialswillneedtobecreatedandtreatmentguide-
+.
+.
+frequency distribution of peak cTn measurements for MI endpoint . linesmustbeappropriatelyadapted.
+.
+.
+assessmentsbytreatment groupshouldalso be provided.Thiswill ..
+.
+facilitatethecomparisonoftrialsandmeta-analyses. ..
+.
+. 40 Global perspectives of the
+.
+.
+.
+. definition of myocardial infarction
+.
+38 Silent/unrecognized . .
+.
+.
+myocardial infarction in .. Cardiovasculardiseaseisaglobalhealthproblemandprevalenceis
+.
+.. increasing in the developing world. Understanding the burden and
+epidemiological studies and .
+.. effectsofCADinpopulationsisofcriticalimportance.Changingclini-
+. quality programmes .. caldefinitions,criteria,andbiomarkersaddchallengestoourunder-
+.
+.. standingandabilitytoimprovethehealthofthepublic.Forclinicians,
+.
+ECG monitoring for unrecognized or silent Q wave MI is usually .. thedefinitionofMIhasimportantandimmediatetherapeuticimplica-
+.
+acquired annually in epidemiological studies and clinical trials that .. tions.Forepidemiologists,thedataareoftenretrospective,soconsis-
+.
+assess cardiovascular endpoints. These events are associated with .. tentcasedefinitionsarecriticalforcomparisonsandtrendanalysis.
+.
+adverseoutcomes.197Thereisnofirmconsensusonhowfrequently .. Thestandardsdescribedinthisreportaresuitableforepidemiology
+.
+tomonitorforECGevidenceofsilentQwaveMIorwhethersurveil- .. studiesandforinternationalclassificationofdiseases.199However,to
+.
+lance for silent MI events should be routinely implemented. Serial .. analysetrendsovertime,itisimportanttohaveconsistentdefinitions
+.
+monitoringofpatientswhohavehadasymptomaticQwaveMIevent .. and to quantify adjustments when biomarkers or other diagnostic
+.
+revealed Q wave regressionin a substantial number ofpatients.198 .. methodschange,200consideringthattheadventofcTnhasdramati-
+.
+.
+AnannualECGisreasonableinclinicaltrialstomonitorforsilentQ . cally increased the number of diagnosable MIs for
+.
+waveMIeventsifthestudypopulationisexpectedtohaveanaccel- .. epidemiologists.11,201
+.
+.
+erated rate of atherosclerotic events. The review should consider . Incountrieswithlimitedeconomicresources,cardiacbiomarkers
+.
+.
+the baseline tracing, interim event ECG tracings, and protocol- . andimagingtechniquesmaynotbeavailableexceptinafewcentres,
+.
+.
+mandatedannualtracings,alongwiththereviewofimagingstudiesif . andeventheoptionofECGrecordingsmaybelacking.TheWHO
+.
+.
+available. .. recommends the use of the ESC/ACC/AHA/WHF Universal
+.
+.. DefinitionofMIincountrieswithoutresourceconstraints,butrec-
+.
+.. ommendsmoreflexiblestandardsinresource-constrainedlocations.
+.
+39 Individual and public .. Thus,whentheonlyinformationavailableistheclinicalhistoryand
+.
+implications of the myocardial .. ECG, and when data on cardiac biomarkers are not available or .
+.. incomplete,thediagnosisofMIcanbeconfirmedbythedevelopment
+infarction definition ... ofpathologicalQwaves.11
+.
+. .
+.
+RevisionofthedefinitionofMIhasanumberofimplicationsforindi- . .
+.
+viduals,healthprofessionals,andsocietyatlarge.Atentativeorfinal . 41 Using the Universal Definition
+.
+.
+diagnosisisthebasisforadviceaboutfurtherdiagnostictesting,life- .
+.. of Myocardial Infarction in the
+stylechanges,treatment,andprognosisforthepatient.Theaggregate .
+.
+.
+ofpatientswithaparticulardiagnosisisthebasisforhealthcareplan- . healthcare system
+.
+.
+ning,andpolicyandresourceallocation. .
+.
+.
+Oneofthegoalsofgoodclinicalpracticeistoreachadefinitive . ArrivingatadiagnosisofMIusingthecriteriasetforthinthisdocu-
+.
+.
+andspecificdiagnosis,whichissupportedbycurrentscientificknowl- . ment requires the integration of clinical findings, patterns on the
+.
+.
+edge.TheapproachtothedefinitionofmyocardialinjuryandMIout- . ECG,laboratorydata,observationsfromimagingprocedures,andon
+.
+.
+lined in this document meets this goal. In general, the conceptual . occasionpathologicalfindings,allviewedinthecontextofthetime
+.
+.
+meaningofthetermmyocardialinfarctionhasnotchanged,although .. horizon over which the suspected event unfolds. Contemporary
+.
+newsensitivemethodshavebeendevelopedtodiagnosethisentity. .. healthcaresystemsareincreasinglyusingelectronicmedicalrecords
+.
+Thus, the diagnosis of an acute MI is a clinical diagnosis based on .. where medical information is entered, curated, and available for
+.
+patient symptoms, ECG changes, and highly sensitive biochemical .. retrieval at a later date. This evolution offers the advantages of a
+.
+markers, as well as information gleaned from various imaging .. modernelectronicdatabasethatisusefulforavarietyofpurposes,
+.
+techniques. .. includingscientificdiscoveryandqualityimprovementinclinicalcare,
+.
+ItshouldbeappreciatedthattheuniversaldefinitionofMImaybe .. butcarrieswithitthechallengesofsiftingthroughvariablelocations
+.
+associated with consequences for patients and their families with . andformatswherekeydataelementsforconfirmingadiagnosisofMI
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 28 ---
+264 Expertconsensusdocument
+.
+.
+arelocated.Also,useoftheelectronicmedicalrecordasanepide- . Society of Cardiology, Alexey Yakovlev; San Marino: San Marino
+.
+.
+miologicalandresearchtoolofthefutureislikelytorequireefforts . SocietyofCardiology,MarcoZavatta;Serbia:CardiologySocietyof
+.
+.
+toverifytheaccuracyofanacuteMIdiagnosis,ratherthanaccepting . Serbia, Milan Nedeljkovic; Slovenia: Slovenian Society of
+.
+.
+the coded diagnoses used for administrative and billing purposes. . Cardiology, Peter Radsel; Spain: Spanish Society of Cardiology,
+.
+.
+SuchanefforttocreateacomputablephenotypeofMI(furthercate- . AlessandroSionis;Sweden:SwedishSocietyofCardiology,Tomas
+.
+.
+gorizedastypes1–5MI)willrequireinputfrominformaticiansand . Jemberg; Switzerland: Swiss Society of Cardiology, Christian
+.
+.
+expertsinimplementationsciencetotranslatetherecommendations . Mu¨ller;Tunisia:TunisianSocietyofCardiologyandCardio-Vascular
+.
+.
+from this Universal Definition of MI into the routine practice of . Surgery,Leila Abid; Turkey: TurkishSociety ofCardiology,Adnan
+.
+.
+healthcaredeliveryanddocumentation. .. Abaci; Ukraine: Ukrainian Association of Cardiology, Alexandr
+.
+Giventheevolutionofbiomarkerassaysusedtosupportthediag- .. Parkhomenko; United Kingdom: British Cardiovascular Society,
+.
+nosisofMI,itisimportantthataconsistentapproachbeusedinthe .. SimonCorbett.
+.
+construction of the computable phenotype of MI so as to reliably ..
+. ApprovedbytheACCClinicalPolicyApprovalCommittee.
+make comparisons across institutions and track epidemiological ..
+.
+trends. Ideally, the information provided should include the assay .. Approved by the AHA Science Advisory and Coordinating
+.
+usedtomakethediagnosisofMI,the99thpercentileoftheURL,and .. Committee.
+.
+thefullsequenceofvaluesobtainedtodiscernariseandfallinbio- ..
+. ApprovedbytheWHFBoard.
+markerlevels.196 ..
+.
+.
+.
+.
+.
+.. 43 Acknowledgements
+42 Appendix ..
+.. WeareindebtedtoKarenA.Hicksforvaluableadvice.
+.
+.
+.
+Approved by the ESC Committee for Practice Guidelines .
+. 44 References
+.
+(CPG)onbehalfoftheESCBoard2016–2018. .
+.. 1. HammerA.EinFallvonthrombotischemVerschlusseeinerderKranzarteriendes
+.
+ESCNationalCardiacSocietiesactivelyinvolvedinthereview .. Herzens.WienMedWschr1878;28:97–102.
+. 2. Obraztzow VP, Straschesko ND. Zur Kenntnis der Thrombose der
+process of the Fourth Universal Definition of Myocardial ... KoronararteriendesHerzens.ZKlinMed1910;71:116–132.
+Infarction: .. 3. HerrickJB.Clinicalfeaturesofsuddenobstructionofthecoronaryarteries.JAMA
+.
+. 1912;59:2015–2022.
+.
+Algeria: Algerian Society of Cardiology, Mohamed Chettibi; .. 4. FriedbergCK,HornH.Acutemyocardialinfarctionnotduetocoronaryartery
+Armenia: Armenian Cardiologists Association, Hamlet
+... occlusion.JAMA1939;112:1675–1679.
+. 5. World Health Organization. Working Group on the Establishment of Ischemic
+Hayrapetyan;Austria:AustrianSocietyofCardiology,FranzXaver .. Heart Disease Registers. Report of the Fifth Working Group, Copenhagen. In:
+.
+Roithinger; Azerbaijan: Azerbaijan Society of Cardiology, Farid .. ReportNo.Eur8201(5).Geneva:WorldHealthOrganization;1971.
+Aliyev; Belarus: Belorussian Scientific Society of Cardiologists,
+... 6. Report of the Joint International Society and Federation of Cardiology/World
+. Health Organization task force on standardization of clinical nomenclature.
+Volha Sujayeva; Belgium: Belgian Society of Cardiology, Marc J. .. Nomenclature and criteria for diagnosis of ischemic heart disease. Circulation
+.
+Claeys;BosniaandHerzegovina:AssociationofCardiologistsof .. 1979;59:607–609.
+Bosnia and Herzegovina, Elnur Smaji(cid:2)c; Czech Republic: Czech
+... 7. Tunstall-PedoeH,KuulasmaaK,AmouyelP,ArveilerD,RajakangasAM,PajakA.
+. Myocardial infarction and coronary deaths in the World Health Organization
+Society of Cardiology, Petr Kala; Denmark: Danish Society of ... MONICAProject.Registrationprocedures,eventrates,andcase-fatalityratesin
+Cardiology, Kasper Karmak Iversen; Egypt: Egyptian Society of .. 38populationsfrom21countriesinfourcontinents.Circulation1994;90:583–612.
+.
+Cardiology,EhabElHefny;Estonia:EstonianSocietyofCardiology, .. 8. Luepker RV, Apple FS, Christenson RH, Crow RS, Fortmann SP, Goff D,
+. GoldbergRJ,HandMM,JaffeAS,JulianDG,LevyD,ManolioT,MendisS,Mensah
+.
+Toomas Marandi; Finland: Finnish Cardiac Society, Pekka Porela; .. G,PajakA,PrineasRJ,ReddyKS,RogerVL,RosamondWD,ShaharE,Sharrett
+The Former Yugoslav Republic of Macedonia: Macedonian .. AR,SorlieP,Tunstall-PedoeH.Casedefinitionsforacutecoronaryheartdisease .
+. inepidemiologyandclinicalresearchstudies:AstatementfromtheAHACouncil
+FYRSocietyofCardiology,SlobodanAntov;France:FrenchSociety .
+. on Epidemiology and Prevention; AHA Statistics Committee; World Heart
+.
+ofCardiology,MartineGilard;Germany:GermanCardiacSociety, .. Federation Council on Epidemiology and Prevention; the European Society of
+StefanBlankenberg;Greece:HellenicSocietyofCardiology,Periklis .. CardiologyWorkingGrouponEpidemiologyandPrevention;CentersforDisease
+.
+. Control and Prevention; and the National Heart, Lung, and Blood Institute.
+Davlouros; Iceland: Icelandic Society of Cardiology, Thorarinn .
+.. Circulation2003;108:2543–2549.
+Gudnason;Israel:IsraelHeartSociety,RonnyAlcalai;Italy:Italian .. 9. The Joint European Society of Cardiology/American College of Cardiology
+.
+FederationofCardiology,FurioColivicchi;Kosovo:KosovoSociety . Committee.Myocardialinfarctionredefined—aconsensusdocumentoftheJoint
+.
+. EuropeanSocietyofCardiology/AmericanCollegeofCardiologyCommitteefor
+of Cardiology, Shpend Elezi; Kyrgyzstan: Kyrgyz Society of .
+.. the Redefinition of Myocardial Infarction. Eur Heart J 2000;21:1502–1513; J Am
+Cardiology,GulmiraBaitova,Latvia:LatvianSocietyofCardiology, .. CollCardiol2000;36:959–969.
+.
+Ilja Zakke; Lithuania: Lithuanian Society of Cardiology, Olivija . 10. Thygesen K, Alpert JS, White HD; Joint ESC/ACC/AHA/WHF Task Force for
+.
+. the Redefinition of Myocardial Infarction. Universal definition of myocardial
+Gustiene; Luxembourg: Luxembourg Society of Cardiology, Jean ...
+infarction.EurHeartJ2007;28:2525–2538;Circulation2007;116:2634–2653;JAm
+Beissel; Malta: Maltese Cardiac Society, Philip Dingli; Moldova: .. CollCardiol2007;50:2173–2195.
+.
+MoldavianSocietyofCardiology,AurelGrosu;TheNetherlands: .. 11. MendisS,ThygesenK,KuulasmaaK,GiampaoliS,M€aho¨nenM,NguBlackettK,
+Netherlands Society of Cardiology, Peter Damman; Norway:
+.... L suis lh tae tn iog nL; foW rrr eit vin isg iog nro ou fp Won Hb Oeh da elf fio nif tit oh ne opa fr mtic yi op ca at rin dg iae lx inp fe ar rt cs tio of nt .h WeW orlH dO Hec ao ltn h-
+Norwegian Society of Cardiology, Vibeke Juliebø; Poland: Polish .. Organizationdefinitionofmyocardialinfarction:2008-09revision.IntJEpidemiol
+.
+Cardiac Society, Jacek Legutko; Portugal: Portuguese Society of .. 2011;40:139–146.
+Cardiology, Jo€ao Morais; Romania: Romanian Society of
+.... 12. GTh ry og ue psen onK, tA hl eper Jot inJS t,Ja Ef Sfe C/A AS C, CSi /m Ao Ho An /s WM HL F,C Tha ai st kma Fn oB rcR e,W foh rite thH eD U;W nivr eit ri sn ag
+l
+Cardiology, Gabriel Tatu-Chitoiu; Russian Federation: Russian . Definition of Myocardial Infarction. Third universal definition of myocardial
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 29 ---
+Expertconsensusdocument 265
+.
+.
+infarction. Eur Heart J 2012;33:2551–2567; Circulation 2012;126:2020–2035; . 33. TurerAT,AddoTA,MartinJL,SabatineMS,LewisGD,GersztenRE,KeeleyEC,
+.
+JAmCollCardiol2012;60:1581–1598. . CigarroaJE,LangeRA,HillisLD,deLemosJA.Myocardialischemiainducedby
+.
+13. SarkisianL,SaabyL,PoulsenTS,GerkeO,JangaardN,HosbondS,Diederichsen .. rapid atrial pacing causes troponin T release detectable by a highly sensitive
+ACP,ThygesenK,MickleyH.Clinicalcharacteristicsandoutcomesofpatients .. assay: Insights from a coronary sinus sampling study. J Am Coll Cardiol
+.
+with myocardialinfarction,myocardialinjury,andnonelevated troponins. Am J . 2011;57:2398–2405.
+.
+Med2016;129:446e.5–446e.21. .. 34. Siriwardena M, Campbell V, Richards AM, Pemberton CJ. Cardiac biomarker
+14. SarkisianL,SaabyL,PoulsenTS,GerkeO,HosbondS,JangaardN,Diederichsen .. responses to dobutamine stress echocardiography in healthy volunteers and
+.
+ACP,ThygesenK,MickleyH.Prognosticimpactofmyocardialinjuryrelatedto . patientswithcoronaryarterydisease.ClinChem2012;58:1492–1494.
+.
+variouscardiacandnoncardiacconditions.AmJMed2016;129:506–514. . 35. WhiteHD.Pathobiologyoftroponinelevations:Doelevationsoccurwithmyo-
+.
+15. OoiDS,IsotaloPA,VeinotJP.Correlationofantemortemserumcreatinekinase, .. cardialischemiaaswellasnecrosis?JAmCollCardiol2011;57:2406–2408.
+creatinekinase-MB,troponinI,andtroponinTwithcardiacpathology.ClinChem .. 36. JaffeAS,WuAH.Troponinrelease—reversibleorirreversibleinjury?Shouldwe
+.
+2000;46:338–344. . care?ClinChem2012;58:148–150.
+.
+16. JenningsRB,GanoteCE.Structuralchangesinmyocardiumduringacuteische- . 37. EggersKM,LindahlB.Applicationofcardiactroponinincardiovasculardiseases
+.
+mia.CircRes1974;35:156–172. .. otherthanacutecoronarysyndrome.ClinChem2017;63:223–235.
+.
+17. Virmani R, Forman MB, Kolodgie FD. Myocardial reperfusion injury. . 38. GiannitsisE,KatusHA.Cardiactroponinlevelelevationsnotrelated toacute
+.
+Histopathologicaleffectsofperfluorochemical.Circulation1990;81:IV57–IV68. . coronarysyndromes.NatRevCardiol2013;10:623–634.
+.
+18. ReimerKA,JenningsRB,TatumAH.Pathobiologyofacutemyocardialischemia: .. 39. AgewallS,GiannitsisE,JernbergT,KatusH.Troponinelevationincoronaryvs.
+Metabolic,functionalandultrastructuralstudies.AmJCardiol1983;52:72A–81A. .. non-coronarydisease.EurHeartJ2011;32:404–411.
+.
+19. Ib(cid:2)a~nezB,HeuschG,OvizeM,VandeWerfF.Evolvingtherapiesformyocardial . 40. KelleyWE,JanuzziJL,ChristensonRH.Increasesofcardiactroponinincondi-
+.
+ischemia/reperfusioninjury.JAmCollCardiol2015;65:1454–1471. . tions other than acute coronary syndrome and heart failure. Clin Chem
+.
+20. MontecuccoF,CarboneF,SchindlerTH.PathophysiologyofST-segmenteleva- .. 2009;55:2098–2112.
+tion myocardial infarction: Novel mechanisms and treatments. Eur Heart J .. 41. JeremiasA,GibsonCM.Alternativecausesforelevatedcardiactroponinlevels
+.
+2016;37:1268–1283. . when acute coronary syndromes are excluded. Ann Intern Med
+.
+21. Thygesen K, Mair J, Katus H, Plebani M, Venge P, Collinson P, Lindahl B, .. 2005;142:786–791.
+GiannitsisE,HasinY,GalvaniM,TubaroM,AlpertJS,BiasucciLM,KoenigW, .. 42. WeilBR,YoungRF,ShenX,SuzukiG,QuJ,MalhotraS,CantyJMJr.Briefmyo-
+.
+MuellerCH,HuberK,HammC,JaffeAS;TheStudyGrouponBiomarkersin . cardialischemiaproducescardiactroponinIreleaseandfocalmyocyteapoptosis
+.
+Cardiology of the ESC Working Group on Acute Cardiac Care. . in the absence of pathological infarction in swine. JACC Basic Transl Sci
+.
+Recommendationsfortheuseofcardiactroponinmeasurementinacutecardiac .. 2017;2:105–114.
+care.EurHeartJ2010;31:2197–2204. .. 43. BraunwaldE,MorrowDA.Unstableangina:Isittimeforarequiem?Circulation
+.
+22. ThygesenK,MairJ,GiannitsisE,MuellerC,LindahlB,BlankenbergS,HuberK, . 2013;127:2452–2457.
+.
+Plebani M, Biasucci LM.Tubaro M, Collinson P,Venge P,Hasin Y, Galvani M, . 44. BentzonJF,OtsukaF,VirmaniR,FalkE.Mechanismsofplaqueformationand
+.
+KoenigW,HammC,AlpertJS,KatusH,JaffeAS;StudyGrouponBiomarkersin .. rupture.CircRes2014;114:1852–1866.
+.
+Cardiology of the ESC Working Group on Acute Cardiac Care. How to use . 45. FalkE,NakanoM,BentzonJF,FinnAV,VirmaniR.Updateonacutecoronary
+.
+high-sensitivity cardiac troponins in acute cardiac care. Eur Heart J . syndromes:Thepathologists’view.EurHeartJ2013;34:719–728.
+.
+2012;33:2252–2257. .. 46. IbanezB,JamesS,AgewallS,AntunesMJ,Bucciarelli-DucciC,BuenoH,Caforio
+23. RittooD,JonesA,LeckyB,NeithercutD.ElevationofcardiactroponinT,but .. ALP,CreaF,GoudevenosJA,HalvorsenS,HindricksG,KastratiA,LenzenMJ,
+.
+notcardiactroponinI,inpatientswithneuromusculardiseases:Implicationsfor . PrescottE,RoffiM,ValgimigliM,VarenhorstC,VranckxP,Widimsk(cid:2)yP.2017
+.
+thediagnosisofmyocardialinfarction.JAmCollCardiol2014;63:2411–2420. . ESCGuidelinesforthemanagement ofacutemyocardialinfarctioninpatients
+.
+24. JaffeAS,VasileVC,MiloneM,SaengerAK,OlsonKN,AppleFS.Diseasedskele- .. presentingwithST-segmentelevation.EurHeartJ2018;39:119–177.
+talmuscle:Anoncardiacsourceofincreasedcirculatingconcentrationsofcar- .. 47. RoffiM,PatronoC,ColletJP,MuellerC,ValgimigliM,AndreottiF,BaxJJ,Borger
+.
+diactroponinT.JAmCollCardiol2011;58:1819–1824. . MA, Brotons C, Chew DP, Gencer B, Hasenfuss G, Kjeldsen K, Lancellotti P,
+.
+25. WensSCA,SchaafGJ,MichelsM,KruijshaarME,vanGestelTJM,In‘tGroenS, .. Landmesser U,daMehilli J,Mukherjee D,StoreyRF,Windecker S.2015 ESC
+Pijnenburg J, Dekkers DHW, Demmers JAA, Verdijk LB, Brusse E, van Schaik .. Guidelines for the managementof acute coronary syndromesin patients pre-
+.
+RHN,vanderPloegAT,vanDoornPA,PijnappelWWMP.Elevatedplasmacar- . sentingwithoutpersistentST-segmentelevation.EurHeartJ2016;37:267–315.
+.
+diactroponinTlevelscausedbyskeletalmuscledamageinPompedisease.Circ . 48. SaabyL,PoulsenTS,HosbondS,LarsenTB,PyndtDiederichsenAC,HallasJ,
+.
+CardiovascGenet2016;9:6–13. .. Thygesen K, Mickley H. Classification of myocardial infarction: Frequency and
+26. Mair J, Lindahl B, Mu¨ller C, Giannitsis E, Huber K, Mo¨ckel M, Plebani M, .. featuresoftype2myocardialinfarction.AmJMed2013;126:789–797.
+.
+ThygesenK,JaffeAS.Whattodowhenyouquestioncardiactroponinvalues. . 49. CedielG,Gonzalez-del-HoyoM,CarrasquerA,SanchezR,Boque´C,Bardaj(cid:2)ıA.
+. Eur Heart J Acute Cardiovasc Care; doi: 10.1177/2048872617708973. Published . Outcomeswithtype2myocardialinfarctioncomparedwithnon-ischemicmyo-
+.
+onlineaheadofprint1May2017. .. cardialinjury.Heart2017;103:616–622.
+27. MairJ,LindahlB,HammarstenO,Mu¨llerC,GiannitsisE,HuberK,Mo¨ckelM, .. 50. BaronT,HambraeusK,Sundstro¨mJ,ErlingeD,JernbergT,LindahlB;TOTAL-
+.
+Plebani M, ThygesenK, Jaffe AS; European Society of Cardiology (ESC) Study . AMI study group. Type 2 myocardial infarction in clinical practice. Heart .
+Group on Biomarkers in Cardiology of the Acute Cardiovascular Care .. 2015;101:101–106.
+Association (ACCA). How is cardiac troponin released from injured myocar- .. 51. ShahAS,McAllisterDA,MillsR,LeeKK,ChurchhouseAM,FlemingKM,Layden
+. dium? Eur Heart J Acute Cardiovasc Care; doi: 10.1177/2048872617748553. . E,AnandA,FersiaO,JoshiNV,WalkerS,JaffeAS,FoxKA,NewbyDE,Mills
+.
+Publishedaheadofprint1December2017. . NL.Sensitivetroponinassayandtheclassificationofmyocardialinfarction.AmJ
+.
+28. VestergaardKR,JespersenCB,ArnadottirA,SoletormosG,SchouM,Steffensen .. Med2015;128:493–501.
+R,GoetzeJP,KjollerE,IversenKK.Prevalenceandsignificanceoftroponineleva- .. 52. GuptaS,VaidyaSR,AroraS,BahekarA,DevarapallySR.Type2versustype1
+.
+tionsinpatientswithoutacutecoronarydisease.IntJCardiol2016;222:819–825. . myocardialinfarction:Acomparisonofclinicalcharacteristicsandoutcomeswith
+.
+29. Schmid J, Liesinger L, Birner-Gruenberger R, Stojakovic T, Scharnagl H, . ameta-analysisofobservationalstudies.CardiovascDiagnTher2017;7:348–358.
+.
+DieplingerB,AsslaberM,RadlR,BeerM,PolacinM,MairJ,SzolarD,Berghold .. 53. SandovalY,ThygesenK.Myocardialinfarctiontype2andmyocardialinjury.Clin
+.
+A,QuasthoffS,BinderJS.RainerPP.ElevatedcardiactroponinTinskeletalmyo- . Chem2017;63:101–107.
+.
+pathies.JAmCardiolColl2018;71:1540–1549. . 54. Saaby L, Poulsen TS, Diederichsen ACP, Hosbond S, Larsen TB, Schmidt H,
+.
+30.AppleFS,JaffeAS,CollinsonP,MockelM,Ordonez-LlanosJ,LindahlB,HollanderJ, .. GerkeO,HallasJ,ThygesenK,MickleyH.Mortalityrateintype2myocardial
+PlebaniM,ThanM,ChanMH;onbehalfoftheInternationalFederationofClinical .. infarction: Observations from an unselected hospital cohort. Am J Med
+.
+Chemistry (IFCC) Task Force on Clinical Applications of Cardiac Bio-Markers. . 2014;127:295–302.
+.
+IFCCeducationalmaterialsonselectedanalyticalandclinicalapplicationsofhigh . 55. Lambrecht S, Sarkisian L, Saaby L, Poulsen TS, Gerke O, Hosbond S,
+.
+sensitivitycardiactroponinassays.ClinBiochem2015;48:201–203. .. DiederichsenACP,ThygesenK,MickleyH.Differentcausesofdeathinpatients
+31. Goodman SG, Steg PG, Eagle KA, Fox KA, Lo(cid:2)pez-Sendo(cid:2)n J, Montalescot G, .. with myocardial infarction type 1, type 2 and myocardial injury. Am J Med
+.
+BudajA,KennellyBM,GoreJM,AllegroneJ,GrangerCB,GurfinkelEP;GRACE . 2018;131:548–554.
+.
+Investigators.Thediagnosticandprognosticimpactoftheredefinitionofacute .. 56. ChapmanAR,ShahASV,LeeKK,AnandA,FrancisO,AdamsonP,McAllister
+myocardial infarction: Lessons from the Global Registry of Acute Coronary .. DA, Strachan F, Newby DE, Mills NL. Long term outcomes in patients with
+.
+Events(GRACE).AmHeartJ2006;151:654–660. . type 2 myocardial infarction and myocardial injury. Circulation 2018;137:
+.
+32. WeilBR,SuzukiG,YoungRF,IyerV,CantyJMJr.Troponinreleaseandreversi- . 1236–1245.
+.
+ble left ventricular dysfunction following transient pressure overload: Stress- .. 57. NeumannJT,So¨rensenNA,Ru¨bsamenN,OjedaF,RenneT,QaderiV,Teltrop
+inducedmyocardialstunning.JAmCardiolColl2018;71:2906–2916. . E,KramerS,QuantiusL,ZellerT,KarakasM,BlankenbergS,WestermannD.
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 30 ---
+266 Expertconsensusdocument
+.
+.
+Discriminationofpatients withtype2myocardialinfarction.EurHeart J2017; . YusufS;POISE(PeriOperativeISchemicEvaluation)Investigators.Characteristics
+.
+38:3514–3520. . and short-term prognosis of perioperative myocardial infarction in patients
+.
+58. SawJ,ManciniGB,HumphriesKH.Contemporaryreviewonspontaneouscoro- .. undergoing noncardiac surgery: A cohort study. Ann Intern Med
+naryarterydissection.JAmCollCardiol2016;68:297–312. .. 2011;154:523–528.
+.
+59. Januzzi JL, Sandoval Y. The many faces of type 2 myocardial infarction. J Am . 78. TheVascularEventsinNoncardiacSurgeryPatientsCohortEvaluation(VISION)
+.
+CardiolColl2017;70:1569–1572. .. StudyInvestigators.Associationbetweenpostoperativetroponinlevelsand30-
+60. Jangaard N, Sarkisian L, Saaby L, Mikkelsen S, Lassen AM, Marcussen N, .. day mortality among patients undergoing noncardiac surgery. JAMA
+.
+ThomsenJL,DiederichsenA,ThygesenK,MickleyH.Incidence,frequencyand . 2012;307:2295–2304.
+.
+clinical characteristics of type 3 myocardial infarction in clinical practice. Am J . 79. NageleP,BrownF,GageBF,GibsonDW,MillerJP,JaffeAS,AppleFS,Scott
+.
+Med2017;130:862.e9–862.e14. .. MG.High-sensitivitycardiactroponinTinpredictionanddiagnosisofmyocardial
+61. SelvanayagamJB,PetersenSE,FrancisJM,RobsonMD,KardosA,NeubauerS, .. infarction and long-term mortality after noncardiac surgery. Am Heart J
+.
+TaggartDP.Effectsofoff-pumpversuson-pumpcoronarysurgeryonreversible . 2013;166:325–332.
+.
+andirreversiblemyocardialinjury:Arandomizedtrialusingcardiovascularmag- . 80. WeberM,LuchnerA,ManfredS,MuellerC,LiebetrauC,SchlittA,Apostolovic
+.
+neticresonanceimagingandbiochemicalmarkers.Circulation2004;109:345–350. .. S,JankovicR,BankovicD,JovicM,MitrovicV,NefH,MollmannH,HammCW.
+.
+62. Selvanayagam JB, Porto I, Channon K, Petersen SE, Francis JM, Neubauer S, . Incrementalvalueofhigh-sensitivetroponinTinadditiontotherevisedcardiac
+.
+Banning AP. Troponin elevation after percutaneous coronary intervention . index for perioperative risk stratification in non-cardiac surgery. Eur Heart J
+.
+directlyrepresentstheextentofirreversiblemyocardialinjury:Insightsfromcar- .. 2013;34:853–862.
+diovascularmagneticresonanceimaging.Circulation2005;111:1027–1032. .. 81. Kavsak PA, Walsh M, Srinathan S, Thorlacius L, Buse GL, Botto F, Pettit S,
+.
+63. RahimiK,BanningAP,ChengAS,PeggTJ,KaramitsosTD,ChannonKM,Darby . McQueenMJ,HillSA,ThomasS,MrkobradaM,Alonso-CoelloP,BerwangerO,
+.
+S, Taggart DP, Neubauer S, Selvanayagam JB. Prognostic value of coronary . Biccard BM, Cembrowski G, Chan MT, Chow CK, de Miguel A, Garcia M,
+.
+revascularisation-relatedmyocardialinjury:Acardiacmagneticresonanceimaging .. GrahamMM,JackaMJ,KuehJH,LiSC,LitLC,Mart(cid:2)ınez-Br(cid:2)uC,NaidooP,Nagele
+study.Heart2009;95:1937–1943. .. P,PearseRM,RodsethRN,SesslerDI,SigamaniA,SzczeklikW,TiboniM,Villar
+.
+64. TricociP.Consensusorcontroversy?:Evolutionofcriteriaformyocardialinfarc- . JC,WangCY,XavierD,DevereauxPJ.HighsensitivitytroponinTconcentra-
+.
+tionafterpercutaneouscoronaryintervention.ClinChem2017;63:82–90. .. tionsinpatientsundergoingnoncardiacsurgery:Aprospectivecohortstudy.Clin
+65. NdrepepaG,ColleranR,BraunS,CasseseS,HieberJ,FusaroM,KufnerS,OttI, .. Biochem2011;44:1021–1024.
+.
+Byrne RA, Husser O, Hengstenberg C, Laugwitz KL, Schunkert H, Kastrati A. . 82. Devereaux PJ, Biccard BM, Sigamani A, Xavier D, Chan MTV, Srinathan SK,
+.
+High-sensitivitytroponinTandmortalityafterelectivepercutaneouscoronary . Walsh M, Abraham V, Pearse R, Wang CY, Sessler DI, Kurz A, Szczeklik W,
+.
+intervention.JAmCollCardiol2016;68:2259–2268. .. Berwanger O, Villar JC, Malaga G, Garg AX, Chow CK, Ackland G, Patel A,
+66. ZeitouniM,SilvainJ,GuedeneyP,KerneisM,YanY,OvertchoukP,Barthelemy .. Borges FK, Belley-Cote EP, Duceppe E, Spence J, Tandon V, Williams C,
+.
+O,Hauguel-MoreauM,ChoussatR,HelftG,LeFeuvreC,ColletJP,Montalescot . SapsfordRJ,PolanczykCA,TiboniM,Alonso-CoelloP,FaruquiA,Heels-Ansdell
+.
+G; ACTION Study Group. Periprocedural myocardial infarction and injury in . D, Lamy A, Whitlock R, LeManach Y, Roshanov PS, McGillion M, Kavsak P,
+.
+electivecoronarystenting.EurHeartJ2018;39:1100–1109. .. McQueenMJ,ThabaneL,RodsethRN,BuseGAL,BhandariM,GaruttiI,Jacka
+.
+67. ThygesenK,JaffeAS.Theprognosticimpactofperiproceduralmyocardialinfarc- . MJ,Schu¨nemannHJ,CortesOL,CoriatP,DvirnikN,BottoF,PettitS,JaffeAS,
+.
+tionandinjury.EurHeartJ2018;39:1110–1112. . Guyatt GH. Association of postoperative high-sensitivity troponin levels with
+.
+68. Garcia-Garcia HM, McFadden EP, Farb A, Mehran R, Stone GW, Spertus J, .. myocardial injury and 30-day mortality among patients undergoing noncardiac
+Onuma Y, Morel MA, van Es GA, Zuckerman B, Fearon WF, Taggart D, .. surgery.JAMA2017;317:1642–1651.
+.
+Kappetein AP, Krucoff MW, Vranckx P, Windecker S, Cutlip D, Serruys PW. . 83. Puelacher C, Lurati Buse G, Seeberger D, Sazgary L, Marbot S, Lampart A,
+.
+Standardizedendpointdefinitionsforcoronaryinterventiontrials:TheAcademic . EspinolaJ,KindlerC,HammererA,SeebergerE,StrebelI,WildiK,Twerenbold
+.
+ResearchConsortium-2ConsensusDocument.EurHeartJ2018;39:2192–2207; .. R,duFaydeLavallazJ,SteinerL,GurkeL,BreidthardtT,RentschK,BuserA,
+Circulation2018;137:2635–2650. .. GualandroDM,OsswaldS,MuellerC.Perioperativemyocardialinjuryafternon-
+.
+69. PeggTJ,MaunsellZ,KaramitsosTD,TaylorRP,JamesT,FrancisJM,TaggartDP, . cardiac surgery: Incidence, mortality, and characterization. Circulation
+.
+White H, Neubauer S, Selvanayagam JB. Utility of cardiac biomarkers for the .. 2018;137:1221–1232.
+diagnosisoftypeVmyocardialinfarctionaftercoronaryarterybypassgrafting: .. 84. DuvallWL,SealoveB,PungotiC,KatzD,MorenoP,KimM.Angiographicinves-
+.
+InsightsfromserialcardiacMRI.Heart2011;97:810–816. . tigationofthepathophysiology ofperioperative myocardialinfarction.Catheter
+.
+70. Jørgensen PH, Nybo M, Jensen MK, Mortensen PE, Poulsen TS, Diederichsen . CardiovascInterv2012;80:768–776.
+.
+ACP,MickleyH.Optimalcut-offvalueforcardiactroponinIinrulingouttype5 .. 85. LandesbergG,BeattieWS,MosseriM,JaffeAS,AlpertJS.Perioperativemyocar-
+myocardialinfarction.InteractCardiovascThoracSurg2014;18:544–550. .. dialinfarction.Circulation2009;119:2936–2944.
+.
+71. WangTK,StewartRA,RamanathanT,KangN,GambleG,WhiteHD.Diagnosis . 86. HansonI,KahnJ,DixonS,GoldsteinJ.Angiographicandclinicalcharacteristics
+. ofMIafterCABGwithhigh-sensitivitytroponinTandnewECGorechocardio- . oftype1versustype2perioperativemyocardialinfarction.CatheterCardiovasc
+.
+gramchanges:Relationshipwithmortalityandvalidationoftheuniversaldefini- .. Interv2013;82:622–628.
+tionofMI.EurHeartJAcuteCardiovascCare2013;2:323–333. .. 87. Gualandro DM, Campos CA, Calderaro D, Yu PC, Marques AC, Pastana AF,
+.
+72. ThielmannM,SharmaV,Al-AttarN,BulluckH,BisleriG,BungeJJH,CzernyM, . Lemos PA, Caramelli B. Coronary plaque rupture in patients with myocardial .
+FerdinandyP,FreyUH,HeuschG,HolfeldJ,KleinbongardP,KunstG,LangI, .. infarction after noncardiac surgery: Frequent and dangerous. Atherosclerosis
+LentiniS,MadonnaR,MeybohmP,MunerettoC,ObadiaJF,PerrinoC,Prunier .. 2012;222:191–195.
+. F,SluijterJPG,VanLaakeLW,Sousa-UvaM,HausenloyDJ.ESCJointWorking . 88. KociolRD,PangPS,GheorghiadeM,FonarowGC,O’ConnorCM,FelkerGM.
+.
+Groups on Cardiovascular Surgery and the Cellular Biology of the Heart . Troponinelevationinheartfailureprevalence,mechanisms,andclinicalimplica-
+.
+PositionPaper:Peri-operativemyocardialinjuryandinfarctioninpatientsunder- .. tions.JAmCollCardiol2010;56:1071–1078.
+goingcoronaryarterybypassgraftsurgery.EurHeartJ2017;38:2392–2411. .. 89. JanuzziJLJr,FilippatosG,NieminenM,GheorghiadeM.Troponinelevationin
+.
+73. MoussaID,KleinLW,ShahB,MehranR,MackMJ,BrilakisES,ReillyJP,Zoghbi . patients with heart failure: on behalf of the third Universal Definition of
+.
+G,HolperE,StoneGW.Considerationofanewdefinitionofclinicallyrelevant . Myocardial Infarction Global Task Force: Heart Failure Section. Eur Heart J
+.
+myocardial infarction after coronary revascularization: An expert consensus .. 2012;33:2265–2271.
+.
+document from the Society for Cardiovascular Angiography and Interventions . 90. Lyon AR, Bossone E, Schneider B, Sechtem U, Citro R, Underwood SR,
+.
+(SCAI).JAmCollCardiol2013;62:1563–1570. . Sheppard MN, Figtree GA, Parodi G, Akashi YJ, Ruschitzka F, Filippatos G,
+.
+74. AppleFS,MurakamiMM.CardiactroponinandcreatinekinaseMBmonitoring .. MebazaaA,OmerovicE.CurrentstateofknowledgeonTakotsubosyndrome:A
+duringin-hospitalmyocardialreinfarction.ClinChem2005;51:460–463. .. PositionStatementfromtheTaskforceonTakotsuboSyndromeoftheHeartFailure
+.
+75. Sinning JM, Hammerstingl C, Schueler R, Neugebauer A, Keul S, Ghanem A, . AssociationoftheEuropeanSocietyofCardiology.EurJHeartFail2016;18:8–27.
+.
+Mellert F, Schiller W, Mu¨ller C, Vasa-Nicotera M, Zur B, Welz A, Grube E, . 91. Templin C, Ghadri JR, Diekmann J, Napp LC, Bataiosu DR, Jaguszewski M,
+.
+NickenigG,WernerN.Theprognosticvalueofacuteandchronictroponinele- .. Cammann VL, Sarcon A, Geyer V, Neumann CA, Seifert B, Hellermann J,
+vation after transcatheter aortic valve implantation. EuroIntervention .. SchwyzerM,EisenhardtK,JeneweinJ,FrankeJ,KatusHA,BurgdorfC,Schunkert
+.
+2016;11:1522–1529. . H, Moeller C, Thiele H, Bauersachs J, Tscho¨pe C, Schultheiss HP, Laney CA,
+.
+76. Wang TKM, Stewart RAH, Ramanathan T, Choi D, Gamble G, Ruygrok PN, .. RajanL,MichelsG,PfisterR,UkenaC,Bo¨hmM,ErbelR,CuneoA,KuckKH,
+White HD. Diagnosis of myocardial infarction and prognostic utility of high- .. Jacobshagen C, Hasenfuss G, Karakas M, Koenig W, Rottbauer W, Said SM,
+.
+sensitivitytroponinTafterisolatedaorticvalvereplacement.ClinTrialsRegulSci . Braun-DullaeusRC,CuculiF,BanningA,FischerTA,VasankariT,AiraksinenKE,
+.
+Cardiol2016;16:1–5. . FijalkowskiM,RynkiewiczA,PawlakM,OpolskiG,DworakowskiR,MacCarthy
+.
+77. DevereauxPJ,XavierD,PogueJ,GuyattG,SigamaniA,GaruttiI,LeslieK,Rao- .. P,KaiserC,OsswaldS,GaliutoL,CreaF,DichtlW,FranzWM,EmpenK,Felix
+MelaciniP,ChrolaviciusS,YangH,MacdonaldC,AvezumA,LanthierL,HuW, . SB,DelmasC,LairezO,ErneP,BaxJJ,FordI,RuschitzkaF,PrasadA,Lu¨scher
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 31 ---
+Expertconsensusdocument 267
+.
+.
+TF.Clinicalfeaturesandoutcomesoftakotsubo(stress)cardiomyopathy.NEngl . 112.StarnbergK,JeppssonA,LindahlB,HammarstenO.RevisionofthetroponinT
+.
+JMed2015;373:929–938. . release mechanism from damaged human myocardium. Clin Chem
+.
+92. MedeirosK,O’ConnorMJ,BaicuCF,FitzgibbonsTP,ShawP,TigheDA,ZileMR, .. 2014;60:1098–1104.
+Aurigemma GP. Systolic and diastolic mechanics in stress cardiomyopathy. .. 113.Jaffe AS, Moeckel M, Giannitsis E, Huber K, Mair J, Mueller C, Plebani M,
+.
+Circulation2014;129:1659–1667. . ThygesenK,LindahlB.InsearchfortheHolyGrail:Suggestionsforstudiesto
+.
+93. SharkeySW,LesserJR,ZenovichAG,MaronMS,LindbergJ,LongeTF,Maron .. definedeltachangestodiagnoseorexcludeacutemyocardialinfarction:Aposi-
+BJ.Acuteandreversiblecardiomyopathyprovokedbystressinwomenfromthe .. tionpaperfromthestudygrouponbiomarkersoftheAcuteCardiovascular
+.
+UnitedStates.Circulation2005;111:472–479. . CareAssociation.EurHeartJAcuteCardiovascCare2014;3:313–316.
+.
+94. Redfors B, Ra˚munddal T, Shao Y, Omerovic E. Takotsubo triggered by acute . 114.Reichlin T, Irfan A, Twerenbold R, Reiter M, Hochholzer W, Burkhalter H,
+.
+myocardial infarction: A common but overlooked syndrome? J Geriatr Cardiol .. BassettiS,SteuerS,WinklerK,PeterF,MeissnerJ,HaafP,PotockiM,Drexler
+2014;11:171–173. .. B,OsswaldS,MuellerC.Utilityofabsoluteandrelativechangesincardiactro-
+.
+95. AgewallS,Beltrame JF,Reynolds HR,NiessnerA,Rosano G,CaforioAL, De . ponin concentrations in the early diagnosis of acute myocardial infarction.
+.
+Caterina R, Zimarino M, Roffi M, Kjeldsen K, Atar D, Kaski JC, Sechtem U, . Circulation2011;124:136–145.
+.
+TornvallP;WorkingGrouponCardiovascularPharmacotherapy.ESCWorking .. 115.MuellerM,BienerM,VafaieM,DoerrS,KellerT,BlankenbergS,KatusHA,
+.
+Group positionpaperon myocardial infarction with non-obstructive coronary . GiannitsisE.Absoluteandrelativekineticchangesofhigh-sensitivitycardiactro-
+.
+arteries.EurHeartJ2017;38:143–153. . poninTinacutecoronarysyndromeandinpatientswithincreasedtroponinin
+.
+96. LindahlB,BaronT,ErlingeD,HadziosmanovicN,Nordenskjo¨ldAM,GardA, .. theabsenceofacutecoronarysyndrome.ClinChem2012;58:209–218.
+JernbergT.Medicaltherapyforsecondarypreventionandlong-termoutcomein .. 116.KellerT,ZellerT,OjedaF,TzikasS,LillpoppL,SinningC,WildP,Genth-Zotz
+.
+patientswithmyocardialinfarctionwithnonobstructivecoronaryarterydisease. . S,WarnholtzA,GiannitsisE,MockelM,BickelC,PeetzD,LacknerK,BaldusS,
+.
+Circulation2017;135:1481–1489. . MunzelT,BlankenbergS.SerialchangesinhighlysensitivetroponinIassayand
+.
+97. Pasupathy S, Air T, Dreyer RP, Tavella R, Beltrame JF. Systematic review of .. earlydiagnosisofmyocardialinfarction.JAMA2011;306:2684–2693.
+patientspresentingwithsuspectedmyocardialinfarctionandnonobstructivecor- .. 117.Jaffe AS, Apple FS, Morrow DA, Lindahl B, Katus HA. Being rational about
+.
+onaryarteries.Circulation2015;131:861–870. . (im)precision:AstatementfromtheBiochemistry SubcommitteeoftheJoint
+.
+98. Smilowitz NR, Mahajan AM, Roe MT, Hellkamp AS, Chiswell K, Gulati M, .. EuropeanSocietyofCardiology/American College ofCardiologyFoundation/
+ReynoldsHR.Mortalityofmyocardialinfarctionbysex,age,andobstructivecor- .. AmericanHeartAssociation/WorldHeartFederationTaskforceforthedefini-
+.
+onaryarterydiseasestatusintheACTIONRegistry-GWTG(AcuteCoronary . tionofmyocardialinfarction.ClinChem2010;56:941–943.
+.
+Treatment and Intervention Outcomes Network Registry-Get With the . 118.SandovalY,AppleFS.Theglobalneedtodefinenormality:The99thpercentile
+.
+Guidelines).CircCardiovascQualOutcomes2017;10:e003443. .. valueofcardiactroponin.ClinChem2013;60:455–462.
+99. Jacobs LH, van de Kerkhof J, Mingels AM, Kleijnen VW, van der Sande FM, .. 119.AppleFS,SandovalY,JaffeAS,Ordonez-LlanosJ;IFCCTaskForceonClinical
+.
+WodzigWK,KoomanJP,vanDieijen-VisserMP.Haemodialysispatientslongitu- . ApplicationsofCardiacBio-Markers.Cardiactroponinassays:Guidetounder-
+.
+dinally assessedby highlysensitivecardiactroponinTandcommercial cardiac . standing analytical characteristics and their impact on clinical care. Clin Chem
+.
+troponinTandcardiactroponinIassays.AnnClinBiochem2009;46:283–290. .. 2017;63:73–81.
+.
+100. UngerED,DubinRF,DeoR,DaruwallaV,FriedmanJL,MedinaC,BeussinkL, . 120.GiannitsisE,KurzK,HallermayerK,JarauschJ,JaffeAS,KatusHA.Analytical
+.
+FreedBH,ShahSJ.Associationofchronickidneydiseasewithabnormalcardiac . validation of a high-sensitivity cardiac troponin T assay. Clin Chem
+.
+mechanicsandadverseoutcomesinpatientswithheartfailureandpreserved .. 2010;56:254–261.
+ejectionfraction.EurJHeartFail2016;18:103–112. .. 121.FrankensteinL, WuAHB, HallermayerK, WiansFH, Giannitsis E,Katus HA.
+.
+101. Twerenbold R, Wildi K, Jaeger C, Gimenez MR, Reiter M, Reichlin T, . Biologicalvariationandreferencechangevalueofhigh-sensitivitytroponinTin
+.
+Walukiewicz A, Gugala M, Krivoshei L, Marti N, Moreno Weidmann Z, . healthyindividualsduringshortandintermediatefollow-upperiods.ClinChem
+.
+HillingerP,PuelacherC,RentschK,HoneggerU,SchumacherC,ZurbriggenF, .. 2011;57:1068–1071.
+FreeseM,StelzigC,CampodarveI,BassettiS,OsswaldS,MuellerC.Optimal .. 122.AppleFS,LerR,MurakamiMM.Determinationof19cardiactroponinIandT
+.
+cutofflevelsofmoresensitivecardiactroponinassaysfortheearlydiagnosisof . assay 99th percentile values from a common presumably healthy population.
+.
+myocardial infarction in patients with renal dysfunction. Circulation .. ClinChem2012;58:1574–1581.
+2015;131:2041–2050. .. 123.WuAHB,ChristensonRH,GreeneDN,JaffeAS,KavsakPA,Ordonez-LlanosJ,
+.
+102. deFilippiC,SeligerSL,KelleyW,DuhSH,HiseM,ChristensonRH,WolfM, . AppleFS.Clinicallaboratorypracticerecommendationsfortheuseofcardiac
+.
+Gaggin H, Januzzi J.Interpreting cardiac troponin results from high-sensitivity . troponininacutecoronarysyndrome:ExpertopinionfromtheAcademyofthe
+.
+assaysinchronickidneydiseasewithoutacutecoronarysyndrome.ClinChem .. American Association for Clinical Chemistry and the Task Force on Clinical
+2012;58:1342–1351. .. ApplicationsofCardiacBio-MarkersoftheInternationalFederationofClinical
+.
+103. MichosED,WilsonLM,YehHC,BergerZ,Suarez-CuervoC,StacySR,Bass . ChemistryandLaboratoryMedicine.ClinChem2018;64:645–655.
+. EB.Prognosticvalueofcardiactroponininpatientswithchronickidneydisease . 124.CollinsonPO,HeungYM,GazeD,BoaF,SeniorR,ChristensonR,AppleFS.
+.
+withoutsuspectedacutecoronarysyndrome:Asystematicreviewandmeta- .. Influenceofpopulationselectiononthe99thpercentilereferencevalueforcar-
+analysis.AnnInternMed2014;161:491–501. .. diactroponinassays.ClinChem2012;58:219–225.
+.
+104. Parikh RH,SeligerSL,deFilippi CR.Useandinterpretationofhighsensitivity . 125.McKie PM, Heublein DM, Scott CG, Gantzer ML, Mehta RA, Rodeheffer RJ, .
+cardiac troponins in patients with chronic kidney disease with and without .. RedfieldMM,BurnettJCJr,JaffeAS.Defininghigh-sensitivitycardiactroponin
+acutemyocardialinfarction.ClinBiochem2015;48:247–253. .. concentrationsinthecommunity.ClinChem2013;59:1099–1107.
+. 105. Friden V, Starnberg K, Muslimovic A, Ricksten SE, Bjurman C, Forsgard N, . 126.Olivieri F, Galeazzi R, Giavarina D, Testa R, Abbatecola AM, Ceka A,
+.
+WickmanA,HammarstenO.ClearanceofcardiactroponinTwithandwithout . Tamburrini P, Busco F, Lazzarini R, Monti D, Franceschi C, Procopio AD,
+.
+kidneyfunction.ClinBiochem2017;50:468–474. .. AntonicelliR.Aged-relatedincreaseofhighsensitivetroponinTanditsimplica-
+106. StacySR,Suarez-CuervoC,BergerZ,WilsonLM,YehHC,BassEB,Michos .. tioninacutemyocardialinfarctiondiagnosisofelderlypatients.MechAgeingDev
+.
+ED. Role of troponin in patients with chronic kidney disease and suspected . 2012;133:300–305.
+.
+acute coronary syndrome: A systematic review. Ann Intern Med . 127.ReiterM,TwerenboldR,ReichlinT,HaafP,PeterF,MeissnerJ,HochholzerW,
+.
+2014;161:502–512. .. Stelzig C, Freese M, Heinisch C, Breidthardt T, Freidank H, Winkler K,
+.
+107. GuestTM,RamanathanAV,TuteurPG,SchechtmanKB,LadensonJH,JaffeAS. . CampodarveI,GeaJ,MuellerC.Earlydiagnosisofacutemyocardialinfarction
+.
+Myocardialinjuryincriticallyillmedicalpatients:Asurprisinglyfrequentcompli- . in the elderly using more sensitive cardiac troponin assays. Eur Heart J
+.
+cation.JAMA1995;273:1945–1949. .. 2011;32:1379–1389.
+108.BabuinL,VasileVC,RioPerezJA,AlegriaJR,ChaiHS,AfessaB,JaffeAS.Elevated .. 128.ShahAS,GriffithsM,LeeKK,McAllisterDA,HunterAL,FerryAV,Cruikshank
+.
+cardiactroponinisanindependentriskfactorforshort-andlong-termmortality . A,ReidA,StoddartM,StrachanF,WalkerS,CollinsonPO,AppleFS,GrayAJ,
+.
+inmedicalintensivecareunitpatients.CritCareMed2008;36:759–765. . FoxKA,NewbyDE,MillsNL.Highsensitivitycardiactroponinandtheunder-
+.
+109. Landesberg G, Vesselov Y, Einav S, Goodman S, Sprung CL, Weissman C. .. diagnosis of myocardial infarction in women: Prospective cohort study. BMJ
+Myocardial ischemia, cardiac troponin, and long-term survival of high-cardiac .. 2015;350:g7873.
+.
+riskcriticallyillintensivecareunitpatients.CritCareMed2005;33:1281–1287. . 129.EggersKM,JohnstonN,JamesS,LindahlB,VengeP.CardiactroponinIlevelsin
+.
+110. ThygesenK,AlpertJS,JaffeAS,WhiteHD.Diagnosticapplicationoftheuniver- .. patients with non-ST-elevation acute coronary syndrome-the importance of
+saldefinitionofmyocardialinfarctionintheintensivecareunit.CurrOpinCrit .. gender.AmHeartJ2014;168:317.e1–324.e1.
+.
+Care2008;14:543–548. . 130.BalmelliC, MeuneC,TwerenboldR,ReichlinT,Rieder S,DrexlerB,Rubini
+.
+111. VatnerSF,BaigH,MandersWT,MarokoPR.Theeffectsofcoronaryartery . MG,MosimannT,ReiterM,HaafP,MuellerM,ErnstS,BallarinoP,AlafifyAA,
+.
+reperfusion on myocardial infarct size calculated from creatine kinase. J Clin .. ZellwegerC,WildiK,MoehringB,VilaplanaC,BernhardD,MerkS,Ebmeyer
+Invest1978;61:1048–1056. . S, Freidank H, Osswald S, Mueller C. Comparison of the performances of
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 32 ---
+268 Expertconsensusdocument
+.
+.
+cardiactroponins,includingsensitiveassays,andcopeptininthediagnosticof . guidelineforthemanagementofpatientswithnon-ST-elevationacutecoronary
+.
+acutemyocardialinfarctionandlong-termprognosisbetweenwomenandmen. . syndromes.JAmCollCardiol2014;64:e139–e228.
+.
+AmHeartJ2013;166:30–37. .. 148.Bagai A, Jollis JG, Dauerman HL, Peng SA, Rokos IC, Bates ER, French WJ,
+131. BjurmanC,LarssonM,JohansonP,PetzoldM,LindahlB,FuML,Hammarsten .. GrangerCB,RoeMT.EmergencydepartmentbypassforST-segment-elevation
+.
+O.SmallchangesintroponinTlevelsarecommoninpatientswithnon-STseg- . myocardialinfarctionpatients identifiedwith aprehospitalelectrocardiogram.
+.
+mentelevationmyocardialinfarctionandarelinkedtohighermortality.JAm .. Circulation2013;128:352–359.
+CollCardiol2013;62:1231–1238. .. 149.SciricaBM,Morrow DA,BudajA,DalbyAJ, MohanaveluS,Qin J,Aroesty J,
+.
+132. D’SouzaM,SarkisianL,SaabyL,PoulsenTS,GerkeO,LarsenTB,Diederichsen . HedgepethCM,StonePH,BraunwaldE.Ischemiadetectedoncontinuouselec-
+.
+ACP,JangaardN,DiederichsenSZ,HosbondS,HoveJ,ThygesenK,MickleyH. . trocardiography after acute coronary syndrome. J Am Coll Cardiol
+.
+Diagnosisofunstableanginapectorishasdeclinedmarkedlywiththeadventof .. 2009;53:1411–1421.
+moresensitivetroponinassays.AmJMed2015;128:852–860. .. 150.WangK,AsingerRW,MarriottHJ.ST-segmentelevationinconditionsother
+.
+133. ReichlinT,TwerenboldR,ReiterM,SteuerS,BassettiS,BalmelliC,WinklerK, . thanacutemyocardialinfarction.NEnglJMed2003;349:2128–2135.
+.
+KurzS,StelzigC,FreeseM,DrexlerB,HaafP,ZellwegerC,OsswaldS,Mueller . 151.deWinterRJ,VeroudenNJW,WellensHJJ,WildeAAM.AnewECGsignof
+.
+C.Introductionofhigh-sensitivitytroponinassays:Impactonmyocardialinfarc- .. proximalLADocclusion.NEnglJMed2008;359:2071–2073.
+.
+tionincidenceandprognosis.AmJMed2012;125:1205–1213. . 152.deWinterRW,AdamsR,VeroudenNJW,deWinterRJ.Precordialjunctional
+.
+134. SandovalY,AppleFS,SmithSW.High-sensitivitycardiactroponinassaysand . ST-segment depression with tall symmetric T-waves signifying proximal LAD
+.
+unstableangina.EurHeartJAcuteCardiovascCare2018;7:120–128. .. occlusion,casereportsofSTEMIequivalence.JElectrocardiol2016;49:76–80.
+135. MorrowDA.Clinician’sguidetoearlyrule-outstrategieswithhigh-sensitivity .. 153.deZwaanC,B€arFWHM,WellensHJJ.Characteristicelectrocardiographicpat-
+.
+cardiactroponin.Circulation2017;135:1612–1616. . ternindicatingacriticalstenosishighinleftanteriordescendingcoronaryartery
+.
+136. Twerenbold R, BoeddinghausJ, Nestelberger T,Wildi K,Rubini Gimenez M, . in patients admitted because of impending myocardial infarction. Am Heart J
+.
+Badertscher P, Mueller C. Clinical use of high-sensitivity cardiac troponin in .. 1982;103:730–736.
+patients with suspected myocardial infarction. J Am Coll Cardiol .. 154.WongCK,GaoW,StewartRA,BenatarJ,FrenchJK,AylwardPE,WhiteHD;
+.
+2017;70:996–1012. . HERO-2Investigators.aVRSTelevation:AnimportantbutneglectedsigninST
+.
+137. CullenL,MuellerC,ParsonageWA,WildiK,GreensladeJH,TwerenboldR, .. elevationacutemyocardialinfarction.EurHeartJ2010;31:1845–1853.
+AldousS,MellerB,TateJR,ReichlinT,HammettCJ,ZellwegerC,UngererJPJ, .. 155.Matetzky S, Freimark D, Feinberg MS, Novikov I, Rath S, Rabinowitz B,
+.
+RubiniGimenezM,TroughtonR,MurrayK,BrownAFT,MuellerM,GeorgeP, . KaplinskyE,HodH.AcutemyocardialinfarctionwithisolatedST-segmentele-
+.
+MosimannT,FlawsDF,ReiterM,LamannaA,HaafP,PembertonCJ,Richards .. vation in posterior chest leads V7-9: “Hidden” ST-segment elevations revealing
+AM,ChuK,ReidCM,PeacockWF,JaffeAS,FlorkowskiC,DeelyJM,ThanM. .. acuteposteriorinfarction.JAmCollCardiol1999;34:748–753.
+Validationofhigh-sensitivitytroponinIina2-hourdiagnosticstrategytoassess .. 156.WongCK,WhiteHD.Patientswithcircumflexocclusionsmissoutonreperfu-
+.
+30-dayoutcomesinemergencydepartmentpatientswithpossibleacutecoro- . sion:Howtorecognizeandmanagethem.CurrOpinCardiol2012;27:327–330.
+.
+narysyndrome.JAmCollCardiol2013;62:1242–1249. . 157.Lopez-Sendon J, Coma-Canella I, Alcasena S, Seoane J, Gamallo C.
+.
+138. PickeringJW,ThanMP,CullenL,AldousS,TerAvestE,BodyR,CarltonEW, .. Electrocardiographicfindingsinacuterightventricularinfarction:Sensitivityand
+.
+Collinson P, Dupuy AM, Ekelund U, Eggers KM, Florkowski CM, Freund Y, .. specificityofelectrocardiographicalterationsinrightprecordialleadsV4R,V3R,
+GeorgeP,GoodacreS,GreensladeJH,JaffeAS,LordSJ,MokhtariA,MuellerC, .. V1,V2andV3.JAmCollCardiol1985;6:1273–1279.
+MunroA,MustaphaS,ParsonageW,PeacockWF,PembertonC,RichardsAM, .. 158.DeluigiCC,OngP,HillS,WagnerA,KispertE,KlingelK,KandolfR,Sechtem
+SanchisJ,StaubLP,TroughtonR,TwerenboldR,WildiK,YoungJ.Rapidrule- .. U,MahrholdtH.ECGfindingsincomparisontocardiovascularMRimagingin
+.
+outofacutemyocardialinfarctionwithasinglehigh-sensitivitycardiactroponin . viralmyocarditis.IntJCardiol2013;165:100–106.
+.
+Tmeasurementbelowthelimitofdetection:Acollaborativemeta-analysis.Ann . 159.BiaginiE,PazziC,OlivottoI,MusumeciB,LimongelliG,BorianiG,PacileoG,
+.
+InternMed2017;166:715–724. .. Mastromarino V, Reggiani MLB, Lorenzini M, Lai F, Berardini A, Mingardi F,
+139. MuellerC,GiannitsisE,Mo¨ckelM,HuberK,MairJ,PlebaniM,ThygesenK,Jaffe .. RosminiS,RescinitiE,BorghiC,AutoreC,CecchiF,RapezziC.Usefulnessof
+.
+AS,LindahlB;BiomarkerStudyGroupoftheESCAcuteCardiovascularCare . electrocardiographicpatternsatpresentationtopredictlong-termriskofcar-
+.
+Association. Rapid ruleout of acute myocardial infarction:Novel biomarker- .. diac death in patients with hypertrophic cardiomyopathy. Am J Cardiol
+basedstrategies.EurHeartJAcuteCardiovascCare2017;6:218–222. .. 2016;118:432–439.
+.
+140. BoeddinghausJ,NestelbergerT,TwerenboldR,WildiK,BadertscherP,CupaJ, . 160.GuerraF,RrapajE,PongettiG,FabbrizioliA,PelizzoniV,GianniniI,AschieriD,
+.
+Burge T, Machler P, CorbiereS, Grimm K, Rubini Gimenez M, Puelacher C, . CostantiniC,CapucciA.Differencesandsimilaritiesofrepolarizationpatterns
+.
+ShresthaS,FloresWidmerD,Fuhrmann J,HillingerP,Sabti Z,HoneggerU, .. duringhospitalizationfortakotsubocardiomyopathyandacutecoronarysyn-
+Schaerli N, Kozhuharov N, Rentsch K, Miro O, Lopez Barbeito B, Martin- .. drome.AmJCardiol2013;112:1720–1724.
+.
+SanchezFJ,Rodriguez-AdradaE,MorawiecB,KaweckiD,GanovskaE,Parenica . 161.Savage RM, WagnerGS, Ideker RE, Podolsky SA, Hackel DB.Correlationof
+. J,LohrmannJ,KloosW,BuserA,GeigyN,KellerDI,OsswaldS,ReichlinT, . postmortem anatomic findings with electrocardiographic changes in patients
+.
+MullerC.Directcomparisonof4veryearlyrule-outstrategiesforacutemyo- .. withmyocardialinfarction:Retrospectivestudyofpatientswithtypicalanterior
+cardial infarction using high-sensitivity cardiac troponin I. Circulation .. andposteriorinfarcts.Circulation1977;55:279–285.
+.
+2017;135:1597–1611. . 162.HoranLG,FlowersNC,JohnsonJC.SignificanceofthediagnosticQwaveof .
+141. Mo¨ckel M, Giannitsis E, Mueller C, Huber K, Jaffe AS, Mair J, Plebani M, .. myocardialinfarction.Circulation1971;43:428–436.
+Thygesen K, Lindahl B; Biomarker Study Group of the European Society of .. 163.ChaitmanBR,HardisonRM,AdlerD,GebhartS,GroganM,OcampoS,Sopko
+. CardiologyAcuteCardiovascularCareAssociation.Rule-inofacutemyocardial . G, Ramires JA, Schneider D, Frye RL; Bypass Angioplasty Revascularization
+.
+infarction:Focusontroponin.EurHeartJAcuteCardiovascCare2017;6:212–217. . Investigation 2 Diabetes (BARI 2D) Study Group. The Bypass Angioplasty
+.
+142. JaffeAS,WhiteH.Ruling-inmyocardialinjuryandruling-outmyocardialinfarc- .. Revascularization Investigation 2 Diabetes randomized trial of different treat-
+tion with the European Society of Cardiology (ESC) 1-hour algorithm. .. mentstrategiesintype2diabetesmellituswithstableischemicheartdisease.
+.
+Circulation2016;134:1542–1545. . Circulation2009;120:2529–2540.
+.
+143. Sandoval Y, Herzog CA, Love SA, Cao J, Hu Y, Wu AHB, Gilbertson D, .. 164.Burgess DC, Hunt D, Zannino D, Williamson E, Davis TME, Laakso M,
+Brunelli SM,YoungA,Ler R,AppleFS. Prognostic valueofserial changesin .. KesaniemiYA,ZhangJ,SyRW,LehtoS,MannS,KeechAC.Incidenceandpre-
+.
+high-sensitivitycardiactroponinIandTover3monthsusingreferencechange . dictorsofsilentmyocardialinfarctionintype2diabetesandtheeffectoffenofi-
+.
+valuesinhemodialysispatients.ClinChem2016;62:631–638. . brate: An analysis from the Fenofibrate Intervention and Event Lowering in
+.
+144. DeFilippi CF, Herzog CA. Interpreting cardiac biomarkers in the setting of .. Diabetes(FIELD)study.EurHeartJ2010;31:92–99.
+chronickidneydisease.ClinChem2017;63:59–65. .. 165.KwongRY,SattarH,WuH,VorobiofG,GandlaV,SteelK,SiuS,BrownKA.
+.
+145. NeelandIJ,DraznerMH,BerryJD,AyersCR,deFilippiC,SeligerSL,NambiV, . Incidenceandprognosticimplicationofunrecognizedmyocardialscarcharac-
+.
+McGuireDK,OmlandT,deLemosJA.Biomarkersofchroniccardiacinjuryand . terizedbycardiacmagneticresonanceindiabeticpatientswithoutclinicalevi-
+.
+hemodynamicstressidentifyamalignantphenotypeofleftventricularhypertro- .. denceofmyocardialinfarction.Circulation2008;118:1011–1020.
+phyinthegeneralpopulation.JAmCollCardiol2013;61:187–195. .. 166.SgarbossaEB,PinskySL,BarbagelataA,UnderwoodDA,GatesKB,TopolEJ,
+.
+146. Biner M, Mueller M, Vafaie M, Jaffe AS, Widera C, Katus HA, Giannitsis E. . Califf RM, Wagner GS; GUSTO-1 (Global Utilization of Streptokinase and
+.
+Diagnosticperformanceofrising,falling,orrisingandfallingkineticchangesof .. Tissue Plasminogen Activator for Occluded Coronary Arteries) Investigators.
+high-sensitivitycardiactroponinTinanunselectedemergencydepartmentpop- .. Electrocardiographic diagnosis of evolving acute myocardial infarction in the
+.
+ulation.EurHeartJAcuteCardiovascCare2013;2:314–322. . presenceofleftbundlebranchblock.NEnglJMed1996;334:481–487.
+.
+147. AmsterdamEA,WengerNK,BrindisRG,CaseyDEJr,GaniatsTG,HolmesDR . 167.CaiQ,MehtaN,SgarbossaEB,PinskiSL,WagnerGS,CaliffRM,BarbagelataA.
+.
+Jr,JaffeAS,JneidH,KellyRF,KontosMC,LevineGN,LiebsonPR,Mukherjee .. Theleftbundle-branchblockpuzzleinthe2013ST-elevationmyocardialinfarc-
+D, Peterson ED, Sabatine MS, Smalling RW, Zieman SJ. 2014 AHA/ACC . tion guideline: From falsely declaring emergency to denying reperfusion in a
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 33 ---
+Expertconsensusdocument 269
+.
+high-riskpopulation.AretheSgarbossaCriteriareadyforprimetime?AmHeartJ .. 188.SchuleriKH,GeorgeRT,LardoAC.Assessmentofcoronarybloodflowwith
+.
+2013;166:409–413. . computed tomography and magnetic resonance imaging. J Nucl Cardiol
+.
+168.WidimskyP,Roh(cid:2)acF,St(cid:2)asekJ,KalaP,RokytaR,KuzmanovB,JaklM,PoloczekM, . 2010;17:582–590.
+.
+KanovskyJ,BernatI,HlinomazO,Belohl(cid:2)avekJ,Kr(cid:2)alA,Mr(cid:2)azekV,GrigorovV, .. 189.DedicA,LubbersMM,SchaapJ,LammersJ,LamfersEJ,RensingBJ,BraamRL,
+Djambazov S, Petr R, Knot J, B(cid:2)ılkov(cid:2)a D, Fischerov(cid:2)a M, Vondr(cid:2)ak K, Maly M, .. NathoeHM,PostJC,NielenT,BeelenD,leCocqd’ArmandvilleMC,RoodPP,
+.
+Lorencov(cid:2)aA.Primaryangioplastyinacutemyocardialinfarctionwithrightbundle . Schultz CJ, Moelker A, Ouhlous M, Boersma E, Nieman K. Coronary CT
+.
+branchblock:Shouldnewonsetrightbundlebranchblockbeaddedtofuture .. angiography for suspected ACS in the era of high-sensitivity troponins:
+guidelinesasanindicationforreperfusiontherapy?EurHeartJ2012;33:86–95. .. Randomizedmulticenterstudy.JAmCollCardiol2016;67:16–26.
+.
+169. Brandt RR, Hammill SC, Higano ST. Electrocardiographic diagnosis of acute . 190.Eitel I, de Waha S, Wo¨hrle J, Fuernau G, Lurz P, Pauschinger M, Desch S,
+.
+myocardialinfarctionduringventricularpacing.Circulation1998;97:2274–2275. . Schuler G, Thiele H. Comprehensive prognosis assessment by CMR imaging
+.
+170. Pradhan R, Chaudhary A, Donato AA. Predictive accuracy of ST depression .. after ST-segment elevation myocardial infarction. J Am Coll Cardiol
+duringrapidatrialfibrillationonthe presenceof obstructive coronaryartery .. 2014;64:1217–1226.
+.
+disease.AmJEmergMed2012;30:1042–1047. . 191.HoffmannU,TruongQA,SchoenfeldDA,ChouET,WoodardPK,Nagurney
+.
+171.AndroulakisA,AznaouridisKA,AggeliCJ,RoussakisGN,MichaelidesAP,Kartalis .. JT,PopeJH,HauserTH,WhiteCS,WeinerSG,KalanjianS,MullinsME,Mikati
+AN,StougiannosPN,DilaverisPE,MisovoulosPI,StefanadisCI,KallikazarosIE. .. I,PeacockWF,ZakroyskyP,HaydenD,GoehlerA,LeeH,GazelleGS,Wiviott
+.
+TransientST-segmentdepressionduringparoxysmsofatrialfibrillationinother- . SD,FlegJL,UdelsonJE;ROMICAT-IIInvestigators.CoronaryCTangiography
+.
+wisenormalindividuals.JAmCollCardiol2007;50:1909–1911. . versusstandardevaluationinacutechestpain.NEnglJMed2012;367:299–308. .
+172. VakilK,GandhiS,AbidiKS,TholakanahalliV,SharmaA,ZaharovaM,Madlon- .. 192.Puchner SB, Liu T, Mayrhofer T, Truong QA, Lee H, Fleg JL, Nagurney JT,
+Kay R. Deep T-wave inversions: Cardiac ischemia or memory? J Cardiovasc Dis .. UdelsonJE,HoffmannU,FerencikM.High-riskplaquedetectedoncoronary
+.
+2014;2:116–119. . CTangiographypredictsacutecoronarysyndromesindependentofsignificant
+.
+173. Stillman AE, Oudkerk M, Bluemke D, Bremerich J, Esteves FP, Garcia EV, . stenosis in acute chest pain: Results from the ROMICAT-II trial. J Am Coll
+.
+GutberletM,HundleyWG,Jerosch-HeroldM,KuijpersD,KwongRK,NagelE, .. Cardiol2014;64:684–692.
+Lerakis S, Oshinski J, Paul JF, Underwood R, Wintersperger BJ, Rees MR. .. 193.FerencikM,LiuT,MayrhoferT,PuchnerSB,LuMT,Maurovich-HorvatP,Pope
+.
+Assessment of acute myocardial infarction: Current status and recommenda- . JH, Truong QA, Udelson JE, Peacock WF, White CS, Woodard PK, Fleg JL,
+.
+tions from the North American Society for Cardiovascular Imaging and the .. NagurneyJT,JanuzziJL,HoffmannU.hs-TroponinIfollowedbyCTangiogra-
+EuropeanSocietyofCardiacRadiology.IntJCardiovascImaging2011;27:7–24. .. phyimprovesacutecoronarysyndromeriskstratificationaccuracyandwork-
+.
+174. Scirica BM. Acute coronary syndrome: Emerging tools for diagnosis and risk . upinacutechestpainpatients:ResultsfromROMICATIITrial.JACCCardiovasc
+.
+assessment.JAmCollCardiol2010;55:1403–1415. . Imaging2015;8:1272–1281.
+.
+175. KontosMC,DiercksDB,KirkJD.Emergencydepartmentandoffice-basedeval- .. 194.Amsterdam EA, Kirk JD, Bluemke DA, Diercks D, Farkouh ME, Garvey JL,
+uationofpatientswithchestpain.MayoClinProc2010;85:284–299. .. KontosMC,McCordJ,MillerTD,MoriseA,NewbyLK,RubergFL,ScordoKA,
+.
+176. LewisWR.Echocardiographyintheevaluationofpatientsinchestpainunits. . Thompson PD. Testing of low-risk patients presenting to the emergency
+.
+CardiolClin2005;23:531–539. . departmentwithchestpain:AscientificstatementfromtheAmericanHeart
+.
+177. FlachskampfFA,SchmidM,RostC,AchenbachS,deMariaAN,DanielWG. .. Association.Circulation2010;122:1756–1776.
+.
+Cardiacimagingaftermyocardialinfarction.EurHeartJ2011;32:272–283. . 195.EuropeanMedicinesAgency/CommitteeforMedicinalProductsforHumanUse
+.
+178. Zamorano J, Wallbridge DR, Ge J, Drozd J, Nesser J, Erbel R. Non-invasive . (CHMP). Reflection paper on assessment of cardiovascular safety profile of
+.
+assessment of cardiac physiology by tissue Doppler echocardiography. Eur .. medical products. EMA/CHMP/50549/2015. http://www.ema.europa.eu/docs/
+HeartJ1997;18:330–339. .. en_GB/document_library/Scientific_guideline/2016/03/WC500203804.pdf (25
+.
+179. KaulS,MillerJG,GrayburnPA,HashimotoS,HibberdM,HollandMR,Houle . Feb2016).
+.
+HC,KleinAL,KnollP,LangRM,LindnerJR,McCullochML,MetzS,Mor-AviV, . 196.HicksKA,MahaffeyKW,MehranR,NissenSE,WiviottSD,DunnB,Solomon
+.
+PearlmanAS,PellikkaPA,DeMarsPlambeckN,PraterD,PorterTR,SahnDJ, .. SD,MarlerJR,TeerlinkJR,FarbA,MorrowDA,TargumSL,SilaCA,HaiMTT,
+ThomasJD,ThomeniusKE,WeissmanNJ.Asuggestedroadmapforcardiovas- .. Jaff MR, Joffe HV, Cutlip DE, Desai AS, Lewis EF, Gibson CM, Landray MJ,
+.
+cular ultrasound research for the future. J Am Soc Echocardiogr . Lincoff AM, White CJ, Brooks SS, Rosenfield K, Domanski MJ, Lansky AJ,
+.
+2011;24:455–464. .. McMurray JJV, Tcheng JE, Steinhubl SR, Burton P, Mauri L, O’Connor CM,
+180. O’ConnorMK,HammellT,GibbonsRJ.Invitrovalidationofasimpletomo- .. PfefferMA,HungHMJ,StockbridgeNL,ChaitmanBR,TempleRJ;Standardized
+.
+graphic technique for estimation of percentage myocardium at risk using . DataCollectionforCardiovascularTrialsInitiative(SCTI).2017Cardiovascular
+.
+methoxyisobutyl isonitrile technetium 99m (sestamibi). Eur J Nucl Med . andstrokeendpointdefinitionsforclinicaltrials.Circulation2018;137:961–972;
+.
+1990;17:69–76. .. JAmCollCardiol2018;71:1021–1034.
+181. Carrio I, Cowie MR, Yamazaki J, Udelson J, Camici PG. Cardiac sympathetic .. 197.LeeningMJ,Elias-SmaleSE,FelixJF,KorsJA,DeckersJW,HofmanA,Stricker
+.
+imagingwithmIBGinheartfailure.JACCCardiovascImaging2010;3:92–100. . BH, Witteman JC. Unrecognised myocardial infarction and long-term risk of
+. 182. Nahrendorf M, Sosnovik DE, French BA, Swirski FK, Bengel F, Sadeghi MM, . heartfailureintheelderly:TheRotterdamStudy.Heart2010;96:1458–1462.
+.
+LindnerJR,WuJC,KraitchmanDL,FayadZA,SinusasAJ.Multimodalitycardio- .. 198.Karnegis JN, Matts J, Tuna N. Development and evolution of electrocardio-
+vascularmolecularimaging,PartII.CircCardiovascImaging2009;2:56–70. .. graphicMinnesotaQ-QScodesinpatientswithacutemyocardialinfarction.Am .
+183. Kramer CM, Sinusas AJ, Sosnovik DE, French BA, Bengel FM. Multimodality . HeartJ1985;110:452–459.
+.
+imagingofmyocardialinjuryandremodelling.JNuclMed2010;51:107S–121S. .. 199.GoyalA,GluckmanTJ,TchengJE.What’sinaName?TheNewICD-10(10th
+184. Taegtmeyer H. Tracing cardiac metabolism in vivo: One substrate at a time. .. Revision of the International Statistical Classification of Diseases and Related
+.
+JNuclMed2010;51:80S–87S. . Health Problems) codes and type 2 myocardial infarction. Circulation
+.
+185. KimHW,Faraneh-FarA,KimRJ.Cardiovascularmagneticresonanceinpatients . 2017;136:1180–1182.
+.
+withmyocardialinfarction.JAmCollCardiol2009;55:1–16. .. 200.Rosamond W, Chambless L, Heiss G, Mosley T, Coresh J, Whitsel E,
+186. Beek AM, van Rossum AC. Cardiovascular magnetic resonance imaging in .. WagenknechtL,NiH,FolsomA.Twenty-twoyeartrendsinincidenceofmyo-
+.
+patientswithacutemyocardialinfarction.Heart2010;96:237–243. . cardialinfarction,CHDmortality,andcase-fatalityin4UScommunities,1987-
+.
+187. LoccaD,Bucciarelli-DucciC,FerranteG,LaMannaA,KeenanNG,GrassoA, . 2008.Circulation2012;125:1848–1857.
+.
+BarlisP,delFuriaF,PrasadSK,KaskiJC,PennellDJ,diMarioC.Newuniversal .. 201.LuepkerR,DuvalS,JacobsD,SmithL,BergerA.Theeffectofchangingdiag-
+.
+definitionofmyocardialinfarctionapplicableaftercomplexpercutaneouscoro- . nostic algorithms on acute myocardial infarction rates. Ann Epidemiol
+.
+naryinterventions?JACCCardiovascInterv2010;3:950–958. . 2011;21:824–829.
+Downloaded
+from
+https://academic.oup.com/eurheartj/article/40/3/237/5079081
+by
+guest
+on
+22
+January
+2026
+--- Страница 34 ---
+Delivering to 20+ European Countries.
+To deliver the best
+patient care, you
+FREE CASE ANY LITTMANN® CARD IV
+need the tools add code at the checkout to apply
+FREECASE
+to match.
+SHOP NOW
+™
+Littmann® Cardiology IV
+& Littmann® CORE Digital
+Stethoscopes
+LITTMANN
+RATING
+9/10
+Keep your tools safe
+with laser engraving.
+LITTMANN
+RATING
+10+
+♥☺♫★♠
+FREE CASE ANY LITTMANN® CORE
+add code at the checkout to apply
+FREECASE
+SHOP NOW

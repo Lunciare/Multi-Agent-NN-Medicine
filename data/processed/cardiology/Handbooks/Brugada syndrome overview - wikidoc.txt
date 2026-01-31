@@ -1,0 +1,176 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Brugada syndrome overview - wikidoc.pdf",
+  "converted_date": "2026-01-31T14:36:16.475912",
+  "file_size_bytes": 283328,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Brugada syndrome overview - wikidoc.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 16:24 Brugada syndrome overview - wikidoc
+Search WikiDoc
+Search Try Exact Match
+Brugada syndrome overview
+Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailto:charlesmichaelgibson@gmail.com)
+Overview
+Brugada syndrome is a genetic disease that is characterized by abnormal electrocardiogram (EKG)
+findings and an increased risk of sudden cardiac death in young adults, and occasionally in
+children and infants. Brugada syndrome is a condition that causes a disruption of the heart's
+normal rhythm. Specifically, this disorder can lead to uncoordinated electrical activity in the
+heart's lower chambers (ventricles), an abnormality called ventricular arrhythmia. If untreated, the
+irregular heartbeats can cause fainting (syncope), seizures, difficulty breathing, or sudden death.
+These complications typically occur when an affected person is resting or asleep.
+Historical Perspective
+Brugada syndorme was potentially first seen on EKG in survivors of cardiac arrest in 1989, but it
+was not until 1992 that the Brugada brothers recognized it as a distinct clinical entity which could
+cause sudden death by ventricular fibrillation.
+Classification
+There are three electrocardiographic patterns associated with Brugada syndrome: Type I, Type II
+and Type III. The diagnosis of Brugada syndrome is based upon the presence of Type I EKG
+changes. Patients with Type II or Type III Brugada patterns can convert to a Type I Brugada
+pattern following the administration of sodium channel blockers such as ajmaline and flecainide.
+Pathophysiology
+Approximately 20% of persons with Brugada syndome have a mutation in the gene SCN5A. This
+gene encodes for the sodium ion channel. The mutation is inherited in an autosomal dominant
+pattern, and is more commonly seen in males. Brugada syndrome has also been shown to result
+from defects in a calcium channel.
+Differentiating Brugada syndrome from other Diseases
+Brugada syndrome should be differentiated from other cardiac disorders, electrolyte disturbances,
+and drug intoxication syndromes. The condition which most similarly presents to Brugada
+syndrome is arrhythmogenic right ventricular dysplasia, as they both cause sudden cardiac death
+in children. Brugada syndrome can be differentiated from arrhythmogenic right ventricular
+dysplasia by the genetic counterpart of SCN5A, the lack of structural abnormalities within the
+heart, the association with polymorphic ventricular tachycardia during sleep, and EKG changes
+that are enhanced by vagotonic agents.
+Epidemiology and Demographics
+Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
+https://www.wikidoc.org/index.php/Brugada_syndrome_overview 1/4
+--- Страница 2 ---
+22/01/2026, 16:24 Brugada syndrome overview - wikidoc
+Insofar as Brugada syndrome is a relatively newly recognized syndrome, its incidence and
+prevalence continues to increase. Brugada syndrome is quite common in Southeast Asia where it is
+endemic, and affects 500 out of every 100,000 individuals. It is the second leading cause of death
+after car accidents among young people in these countries. It has been estimated that Brugada
+syndrome accounts for 4% of all sudden cardiac deaths and 20% of sudden cardiac deaths among
+patients with structurally normal hearts. It is 8-10 times more common in men.
+Risk Factors
+The EKG changes of Brugada syndrome can vary over time, depending on the autonomic balance
+and the administration of antiarrhythmic drugs. Adrenergic stimulation decreases the ST segment
+elevation, while vagal stimulation worsens it. During sleep, there is heightened vagal tone, and the
+pattern may be exacerbated at that time (as is the risk of sudden cardiac death at that time). The
+administration of class Ia, Ic and III drugs increases the ST segment elevation, as does fever. The
+impact of exercise depends upon when the EKG is obtained: during exercise the ST segment
+elevation may decrease but may increase later after exercise when the body temperature has risen.
+Similar to early repolarization variant, when the heart rate decreases, the ST segment elevation
+increases and when the heart rate increases the ST segment elevation decreases. While Brugada
+syndrome is often associated with polymorphic VT which may be self terminating, in the presence
+of autonomic imbalance, hypokalemia, fever or exacerbating drugs sustained ventricular
+fibrillation and sudden cardiac death may result.[1]
+Screening
+Relatives of patients with Brugada syndrome can be screened for the syndrome by obtaining an
+EKG, although the diagnostic pattern may be concealed. Genetic testing can also be used to
+support the diagnosis of Brugada syndrome and to detect relatives at risk.[1] Unfortunately, despite
+the association of the Brugada syndrome with the SCN5A genotype, there is unfortunately no
+association between the results of genetic testing and clinical prognosis.
+Natural History, Complications and Prognosis
+Brugada syndrome usually becomes apparent in adulthood, although it may present in infants and
+children as sudden cardiac death. The mean age of sudden death in patients with Brugada
+syndrome is 40 years old. The Brugada patient may develop atrial arrhythmias and abnormalities
+in atrial conduction, and these abnormalities are associated with inducibility of ventricular
+fibrillation. Implantation of a cardiac defibrillator AICD can improve prognosis for some.
+Diagnosis
+Diagnostic Criteria
+The diagnosis of brugada syndrome is based upon electrocardiographic and clinical criteria. Only
+the Type I Brugada pattern qualifies as part of the diagnostic criteria for Brugada syndrome. Other
+rhythm abnormalities and family history are also taken into account when making the diagnosis of
+Brugada syndrome.
+History and Symptoms
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Brugada_syndrome_overview 2/4
+--- Страница 3 ---
+22/01/2026, 16:24 Brugada syndrome overview - wikidoc
+Patients with Brugada syndrome will sometimes have a family history of sudden cardiac death and
+a personal history of of arrhythmias. If patients are symptomatic they often have symptoms of
+syncope, seizures, agonal breathing, difficulty breathing, and patients may even present with
+sudden death. These symptoms most often come on either at rest or during sleep.
+Physical Examination
+Insofar as Brugada syndrome is not associated with any structural heart disease, there are
+generally no abnormalities on physical examination. Vagal maneuvers such as carotid sinus
+massage may increase vagal tone and may unmask the presence of a Type I Brugada pattern. In a
+patient who has experienced recent symptoms such as syncope, it is important to check the
+temperature in so far as fever may trigger a self terminating or sustained episode of ventricular
+tachycardia / ventricular fibrillation. The presence of fever is also a target of antipyretic therapy.
+Laboratory Findings
+Hypokalemia and hyperkalemia can both trigger either sustained or nonsustained episodes of
+ventricular tachycardia / ventricular fibrillation and serum electrolytes should therefore be
+checked. Both alcohol and cocaine intoxication can be associated with either sustained or
+nonsustained episodes of ventricular tachycardia/ventricular fibrillation and a toxicology screen
+should be ordered if there is a clinical suspicion. Likewise, tricyclic antidepressants can be
+associated with exacerbations of the syndrome, and levels of these agents should also be checked if
+there is a clinical suspicion.
+Electrocardiogram
+There are three electrocardiographic patterns associated with Brugada syndrome: Type I, Type II
+and Type III. The diagnosis of Brugada syndrome is based upon the presence of Type I EKG
+changes. Patients with Type II or Type III Brugada patterns can convert to a Type I Brugada
+pattern following the administration of sodium channel blockers such as ajmaline and flecainide.
+Type 1 Brugada syndrome may always be present on the EKG, or it may be elicited by the
+administration of particular drugs (e.g., Class IC antiarrythmic drugs that blocks sodium channels
+such as ajmaline, flecainide) or it may be unmasked by various triggers or risk factors.
+Chest X Ray
+Insofar as Brugada syndrome is not associated with structural abnormalities of the heart, there are
+no associated abnormalities on the chest x-ray.
+Echocardiography or Ultrasound
+There is ongoing controversy as to whether there are structural abnormalities among patients with
+Brugada syndrome. There was one small study of 11 patients with Brugada syndrome that
+demonstrated a rapid swinging motion shifting towards the right ventricle of the basal segment of
+the intraventricular septum and early systole in 73% (8/11) of patients with Brugada syndrome.
+None of the control patients demonstrated this abnormality.[2]
+Electrophysiologic Studies
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Brugada_syndrome_overview 3/4
+--- Страница 4 ---
+22/01/2026, 16:24 Brugada syndrome overview - wikidoc
+Patients who are inducible at the time electrophysiologic study have an eightfold increased risk of
+aborted sudden cardiac death compared with those patients who are not inducible.[3] Some groups
+have advocated that programmed electrical stimulation (PES) be performed to induce ventricular
+fibrillation for risk assessment in Brugada patients [4][5] Other groups have not reproduced the
+predictive value of these tests,[6][7] so the value of programmed electrical stimulation (PES) and
+inducibility remains controversial.
+Genetic Testing
+Despite the association of the Brugada syndrome with the SCN5A genotype, there is unfortunately
+no association between the results of genetic testing and clinical prognosis. Genetic testing can be
+used to support the diagnosis of Brugada syndrome and to detect relatives at risk.[1]
+Treatment
+Implantation of a cardiac defibrillator is the only proven method of treatment in Brugada
+syndrome.Patients with aborted sudden cardiac death are at high risk for recurrence and should
+undergo AICD implantation, and do not require an electrophysiologic study to assess inducibility.
+Patients with symptoms (either syncope, seizures or nocturnal agonal respirations) should undergo
+implantation of a defibrillator if no other cause of their symptoms can be identified. Asymptomatic
+patients should undergo electrophysiologic testing, and if VT / VF can be induced, they should
+undergo implantation of an ICD. Asymptomatic patients who cannot be induced should followed-
+up closely. Patients who are asymptomatic with no family history of Brugada syndrome can be
+followed-up closely.
+Drugs to Avoid
+There are certain drugs that should be avoided in patients with Brugada syndrome. These drugs
+include ajmaline, flecainide, pilsicainide, procainamide, and propafenone. These drugs are all
+sodium blocking antiarrhythmics which are either in the IA class or IC class.
+Drugs to Preferably Avoid
+Drugs which are not contraindicated in Brugada syndrome, but which should be avoided, are
+amiodarone, cibenzoline, disopyramide, lidocaine, propanolol, and verapamil. These agents are all
+antiarrhythmics. Topical lidocaine used for anesthesia is thought to be safe when used in persons
+with Brugada syndrome.
+References
+Template:WH Template:WS CME Category::Cardiology
+Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
+Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
+Physical Examination | Lab Tests | Drugs
+Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
+There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
+Licensing | Disclaimers | Avoid Plagiarism | Policies
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Brugada_syndrome_overview 4/4

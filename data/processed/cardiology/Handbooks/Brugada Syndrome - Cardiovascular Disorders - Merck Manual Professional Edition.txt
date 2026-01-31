@@ -1,0 +1,185 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Brugada Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:39.628606",
+  "file_size_bytes": 218056,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Brugada Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:40 Brugada Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Brugada Syndrome
+By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Jun 2024 | Modified Aug 2024
+Brugada syndrome is an inherited channelopathy, characterized by large J-
+waves and coved ST elevation with associated T-wave inversion in leads V1-V3,
+that causes an increased risk of ventricular tachycardia (VT) and ventricular
+fibrillation (VF), leading to syncope and sudden death. Diagnosis is by ECG and
+often provocative electrodiagnostic testing and/or genetic testing. Treatment is
+with an implanted cardioverter-defibrillator. Family members should be
+screened.
+(See also Overview of Arrhythmias and Overview of Channelopathies.)
+Overall the incidence of Brugada syndrome is approximately 5 in 10,000 (1) but shows wide variation
+with ethnicity and, consequently geographical region, being highest is Southeast Asia (37 in 10,000), the
+Middle East (18/10,000), and the rest of Asia (17 in 10,000) and much lower in Europe (1/10,000) and
+North America (0.5/10,000) (1). The majority of patients with clinically apparent Brugada syndrome are
+male (85%) (1).
+General reference
+1. Vutthikraivit W, Rattanawong P, Putthapiban P, et al: Worldwide Prevalence of Brugada
+Syndrome: A Systematic Review and Meta-Analysis. Acta Cardiol Sin 34(3):267–277, 2018. doi:
+0.6515/ACS.201805_34(3).20180302B
+Pathophysiology of Brugada Syndrome
+Brugada syndrome results from mutations that
+Decrease inward sodium or calcium currents OR
+Increase early outward potassium currents
+These abnormalities lead to early loss of the action potential plateau, particularly in the epicardial cells
+of the right ventricular outflow tract that produce characteristic right precordial ECG changes and a
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/brugada-syndrome 1/6
+--- Страница 2 ---
+22/01/2026, 14:40 Brugada Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+propensity to ventricular tachyarrhythmias. Although different mutations have been reported, most are
+in the SCN5A gene, producing a loss-of-function of the inward sodium current (1).
+Typically, patients have no structural heart disease. Nevertheless, relationships with other genetic and
+acquired structural heart diseases are increasingly being recognized, as are overlap syndromes with
+long QT syndrome type 3, with the early repolarization syndrome, and with arrhythmogenic right
+ventricular cardiomyopathy (ARVC).
+Pathophysiology reference
+1. Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference
+report: Emerging concepts and gaps in knowledge. Heart Rhythm 13(10):e295–324, 2016. doi:
+10.1016/j.hrthm.2016.05.024
+Symptoms and Signs of Brugada Syndrome
+In some patients, Brugada syndrome has no clinical expression. However, in many patients it leads to
+syncope or sudden cardiac death due to polymorphic ventricular tachycardia and ventricular fibrillation.
+Ventricular arrhythmias can cause sudden death during sleep. About 10% of patients develop atrial
+tachyarrhythmias, predominantly atrial fibrillation (1), and some even present with atrial fibrillation (2).
+Events occur more often at night and are not usually related to exercise. Events may also be brought on
+by fever and by certain medications, including sodium channel blockers, beta-blockers, certain
+antidepressants and antipsychotics, lithium, alcohol, and cocaine (3).
+Symptoms and signs references
+1. Giustetto C, Cerrato N, Gribaudo E, et al: Atrial fibrillation in a large population with Brugada
+electrocardiographic pattern: prevalence, management, and correlation with prognosis. Heart
+Rhythm 11(2):259–265, 2014. doi: 10.1016/j.hrthm.2013.10.043
+2. Rodríguez-Mañero M, Namdar M, Sarkozy A, et al: Prevalence, clinical characteristics and
+management of atrial fibrillation in patients with Brugada syndrome. Am J Cardiol 111(3):362–367,
+2013. doi:10.1016/j.amjcard.2012.10.012
+3. Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference
+report: Emerging concepts and gaps in knowledge. Heart Rhythm 13(10):e295–324, 2016. doi:
+10.1016/j.hrthm.2016.05.024
+Diagnosis of Brugada Syndrome
+Electrocardiography (ECG)
+Family history
+Provocative testing to induce characteristic ECG changes
+Genetic testing
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/brugada-syndrome 2/6
+--- Страница 3 ---
+22/01/2026, 14:40 Brugada Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+Diagnosis should be considered in patients with unexplained cardiac arrest or syncope or a family
+history of such when the affected people do not have structural heart disease.
+Initial diagnosis of Brugada syndrome is based on a characteristic ECG pattern, the type 1 Brugada ECG
+pattern (see figure Type 1 Brugada ECG Pattern). The type 1 Brugada ECG pattern has prominent ST
+elevation in V1 and V2 (sometimes involving V3) that causes the QRS complex in these leads to resemble
+right bundle branch block. The ST segment is coved and descends to an inverted T-wave. Only a
+spontaneous type 1 pattern is considered diagnostic for Brugada syndrome according to the Shanghai
+Brugada syndrome score (1).
+Lesser degrees of these patterns (type 2 and type 3 Brugada ECG patterns) are not considered
+diagnostic. The type 2 and type 3 patterns may change to a type 1 pattern spontaneously, with fever, or
+in response to medications. The latter is the basis of a challenge diagnostic test usually using IV
+ajmaline, procainamide, flecainide or pilsicainide. Scores have been developed to aid in diagnosing
+Brugada syndrome in borderline cases (1). In such cases, the diagnosis of Brugada syndrome is
+considered possible. Application of clinical, family history, and genetic criteria is the required to
+establish the diagnosis (1).
+The role of electrophysiologic testing is currently debated. Inducible ventricular tachycardia or
+ventricular fibrillation with programmed ventricular stimulation limited to 2 extra stimuli received a
+class IIa indication for patients who are asymptomatic with a spontaneous type 1 Brugada ECG pattern
+for risk stratification (2) but is not part of the Shanghai diagnostic scoring system (1). Genetic testing is
+usually recommended but has a yield of approximately 20% (3).
+The diagnosis of Brugada syndrome includes considering, and ruling out, other disorders that produce
+similar cardiac findings, including hypothermia, hypocalcemia, right bundle branch block,
+arrhythmogenic right ventricular cardiomyopathy, acute pulmonary embolism, and left anterior
+descending coronary artery of conus branch of the right coronary artery occlusion (1).
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/brugada-syndrome 3/6
+--- Страница 4 ---
+22/01/2026, 14:40 Brugada Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+Type 1 Brugada ECG Pattern
+Prominent J-point elevation to a coved ST segment, leading to an inverted T-wave in leads V
+1
+and V .
+2
+Diagnosis references
+1. Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference
+report: Emerging concepts and gaps in knowledge. Heart Rhythm 13(10):e295–324, 2016. doi:
+10.1016/j.hrthm.2016.05.024
+2. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for
+Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac
+Death: A Report of the American College of Cardiology/American Heart Association Task Force on
+Clinical Practice Guidelines and the Heart Rhythm Society. Circulation 138(13):e272–e391, 2018.
+doi: 10.1161/CIR.0000000000000549
+3. Wilde AAM, Semsarian C, Márquez MF, et al: European Heart Rhythm Association (EHRA)/Heart
+Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm
+Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac diseases. J
+Arrhythm 38(4):491–553, 2022. doi: 10.1002/joa3.12717
+Treatment of Brugada Syndrome
+Implantable cardioverter-defibrillator
+Screening of family members
+Patients with a spontaneous or provoked type 1 Brugada syndrome ECG pattern and recent
+unexplained syncope, sustained VT, or cardiac arrest should typically have an implantable cardioverter-
+defibrillator (ICD) (1).
+When frequent ICD discharges need to be suppressed, quinidine, which blocks the transient outward
+potassium current that may be increased in Brugada syndrome, may be efficacious. IV isoproterenol has
+also been used if the cause of the frequently recurrent arrhythmias appears transient and reversible (2).
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/brugada-syndrome 4/6
+--- Страница 5 ---
+22/01/2026, 14:40 Brugada Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+In patients refractory to such therapy, catheter ablation of the arrhythmogenic substrate may be
+considered (3).
+Best treatment of Brugada syndrome in patients diagnosed based on ECG changes and family history
+but who do not have syncope or arrhythmia is unclear, although they do have increased risk of sudden
+death. Scoring systems have been developed to aid in determining if an ICD is appropriate therapy in
+such patients (4).
+Treatment references
+1. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for
+Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac
+Death: A Report of the American College of Cardiology/American Heart Association Task Force on
+Clinical Practice Guidelines and the Heart Rhythm Society. Circulation 138(13):e272–e391, 2018.
+doi: 10.1161/CIR.0000000000000549
+2. Brodie OT, Michowitz Y, Belhassen B: Pharmacological Therapy in Brugada Syndrome. Arrhythm
+Electrophysiol Rev 7(2):135–142, 2018. doi: 10.15420/aer.2018.21.2
+3. Antzelevitch C, Yan GX, Ackerman MJ, et al: J-Wave syndromes expert consensus conference
+report: Emerging concepts and gaps in knowledge. Heart Rhythm 13(10):e295–324, 2016. doi:
+10.1016/j.hrthm.2016.05.024
+4. Rattanawong P, Mattanapojanat N, Mead-Harvey C, et al: Predicting arrhythmic event score in
+Brugada syndrome: Worldwide pooled analysis with internal and external validation. Heart Rhythm
+20:1358–1367, 2023. doi: 10.1002/joa3.12822
+Prevention of Brugada Syndrome Arrhythmias
+It is important to avoid factors that can trigger arrhythmias. Patients should monitor their temperature
+during infectious illness and take antipyretic therapy for fever. When possible, clinicians should stop any
+predisposing medications and prescribe alternatives. Patients should avoid substances, particularly
+cocaine and excessive alcohol, that are arrhythmogenic in Brugada syndrome (for an up-to-date list, see
+www.brugadadrugs.org).
+Key Points
+Brugada syndrome is a genetic disorder causing characteristic ECG changes and an
+increased risk of ventricular arrhythmias causing syncope and sometimes sudden cardiac
+death at a relatively young age.
+Risk factors for symptomatic arrhythmias include fever and numerous medications and
+other substances (eg, alcohol, cocaine).
+Diagnosis is by ECG, sometimes with provocative testing.
+An implantable cardioverter-defibrillator may be required.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/brugada-syndrome 5/6
+--- Страница 6 ---
+22/01/2026, 14:40 Brugada Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+More Information
+The following English-language resource may be useful. Please note that THE MANUAL is not
+responsible for the content of this resource.
+www.brugadadrugs.org: Aims to provide up-to-date information on safe medication use in
+Brugada syndrome
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/brugada-syndrome 6/6

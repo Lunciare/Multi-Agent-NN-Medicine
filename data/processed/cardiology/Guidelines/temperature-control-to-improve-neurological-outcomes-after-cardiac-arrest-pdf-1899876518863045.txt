@@ -1,0 +1,174 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "temperature-control-to-improve-neurological-outcomes-after-cardiac-arrest-pdf-1899876518863045.pdf",
+  "converted_date": "2026-01-31T14:46:20.738790",
+  "file_size_bytes": 69987,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/temperature-control-to-improve-neurological-outcomes-after-cardiac-arrest-pdf-1899876518863045.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+Temperature control to improve
+neurological outcomes after
+cardiac arrest
+Interventional procedures guidance
+Published: 23 January 2024
+www.nice.org.uk/guidance/ipg782
+Your responsibility
+This guidance represents the view of NICE, arrived at after careful consideration of the
+evidence available. When exercising their judgement, healthcare professionals are
+expected to take this guidance fully into account, and specifically any special
+arrangements relating to the introduction of new interventional procedures. The guidance
+does not override the individual responsibility of healthcare professionals to make
+decisions appropriate to the circumstances of the individual patient, in consultation with
+the patient and/or guardian or carer.
+All problems (adverse events) related to a medicine or medical device used for treatment
+or in a procedure should be reported to the Medicines and Healthcare products Regulatory
+Agency using the Yellow Card Scheme.
+Commissioners and/or providers have a responsibility to implement the guidance, in their
+local context, in light of their duties to have due regard to the need to eliminate unlawful
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 1
+conditions#notice-of-rights). of 6
+--- Страница 2 ---
+Temperature control to improve neurological outcomes after cardiac arrest (IPG782)
+discrimination, advance equality of opportunity, and foster good relations. Nothing in this
+guidance should be interpreted in a way that would be inconsistent with compliance with
+those duties. Providers should ensure that governance structures are in place to review,
+authorise and monitor the introduction of new devices and procedures.
+Commissioners and providers have a responsibility to promote an environmentally
+sustainable health and care system and should assess and reduce the environmental
+impact of implementing NICE recommendations wherever possible.
+This guidance replaces IPG386.
+1 Recommendations
+To prevent fever
+1.1 Use temperature control as an option to prevent fever and improve neurological
+outcomes after cardiac arrest with standard arrangements in place for clinical
+governance, consent and audit.
+1.2 For auditing the outcomes of this procedure, the main efficacy and safety
+outcomes identified in this guidance can be entered into NICE's interventional
+procedure outcomes audit tool (for use at local discretion).
+To induce therapeutic hypothermia
+1.3 More research is needed on temperature control to induce therapeutic
+hypothermia (a temperature of less than 36°C) to improve neurological outcomes
+after cardiac arrest.
+1.4 This procedure should only be done as part of a formal research study and a
+research ethics committee needs to have approved its use.
+1.5 More research, in the form of randomised controlled trials, is needed on:
+• patient selection
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2
+conditions#notice-of-rights). of 6
+--- Страница 3 ---
+Temperature control to improve neurological outcomes after cardiac arrest (IPG782)
+• timing of the intervention
+• degree and duration of temperature control
+• neurological outcomes
+• survival.
+Why the committee made these recommendations
+Clinical trial evidence suggests that, if core body temperature is controlled to prevent fever
+after cardiac arrest, there may be improved neurological outcomes (less brain injury).
+There are no safety concerns with fever prevention. So, it can be used with standard
+arrangements. But more research is needed on whether the improved neurological
+outcomes are directly related to the procedure.
+Some clinical trial evidence suggests that there is less brain injury when the body's core
+temperature is cooled to below 36°C (therapeutic hypothermia) after cardiac arrest. But
+other clinical trial evidence suggests that there is no reduction in brain injury. In some
+trials, the procedure was delayed. So, the importance of how long after cardiac arrest
+cooling is started is uncertain.
+Evidence on the safety of therapeutic hypothermia suggests that it is potentially harmful.
+People who have this procedure are also more likely to have an abnormal heart rhythm.
+More research is needed on safety and long-term outcomes of therapeutic hypothermia
+after cardiac arrest, so it should be used only in research.
+2 The condition, current treatments and
+procedure
+The condition
+2.1 Cardiac arrest is when normal blood circulation suddenly stops because the heart
+fails to contract effectively. The underlying abnormal cardiac rhythms most
+commonly associated with cardiac arrest are:
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3
+conditions#notice-of-rights). of 6
+--- Страница 4 ---
+Temperature control to improve neurological outcomes after cardiac arrest (IPG782)
+• ventricular fibrillation (VF)
+• asystole
+• pulseless electrical activity
+• pulseless ventricular tachycardia (VT).
+Cardiac arrest leads to loss of consciousness, respiratory failure and,
+ultimately, death.
+Current treatments
+2.2 Treatment for cardiac arrest includes immediate cardiopulmonary resuscitation to
+restore the circulation and prevent subsequent brain injury. Defibrillation may be
+used to treat VF and pulseless VT rhythms. Standard care may also include
+mechanical ventilation and drugs such as adrenaline and amiodarone.
+Resuscitation Council UK's 2021 resuscitation guidelines contain guidance on
+basic and advanced life support.
+The procedure
+2.3 After cardiac arrest, people in a coma who have a return of spontaneous
+circulation (ROSC) can have their core body temperature actively controlled. This
+is done to:
+• prevent fever (by maintaining a core temperature between 36.5°C and
+37.5°C), or
+• induce therapeutic hypothermia (by cooling to a core temperature typically
+between 32°C and 36°C).
+2.4 The aim is to reduce brain injury and improve neurological outcomes. The exact
+mechanism by which cooling may protect against brain injury is unclear. Possible
+mechanisms include reductions in metabolic demand, release of excitatory
+neurotransmitters and inflammation after ischaemia.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4
+conditions#notice-of-rights). of 6
+--- Страница 5 ---
+Temperature control to improve neurological outcomes after cardiac arrest (IPG782)
+2.5 Temperature control is done using either:
+• surface techniques (for example, heat exchange cooling pads, cooling
+blankets and ice packs), or
+• internal techniques (for example, an endovascular cooling device).
+Core body temperature is monitored using a temperature probe (such as a
+bladder, rectal or nasopharyngeal temperature probe) and is controlled to a
+preset point determined by the clinician.
+2.6 If therapeutic hypothermia is induced, controlled rewarming is usually done over
+several hours. In addition, people who have had cardiac arrest generally have
+standard critical care measures, and may need intravenous sedation and muscle
+relaxants, to prevent shivering.
+3 Committee considerations
+The evidence
+3.1 NICE did a rapid review of the published literature on the efficacy and safety of
+this procedure. This comprised a comprehensive literature search and detailed
+review of the evidence from 9 sources, which was discussed by the committee.
+The evidence included 8 systematic reviews and meta-analyses and
+1 randomised controlled trial (RCT). It is presented in the summary of key
+evidence section in the interventional procedures overview. Other relevant
+literature is in the appendix of the overview.
+3.2 The professional experts and the committee considered the key efficacy
+outcomes to be:
+• survival
+• reduction in long-term neurological disability
+• independent living
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5
+conditions#notice-of-rights). of 6
+--- Страница 6 ---
+Temperature control to improve neurological outcomes after cardiac arrest (IPG782)
+• quality of life
+• reduction in length of critical care and hospital stay.
+3.3 The professional experts and the committee considered the key safety outcomes
+to be:
+• arrhythmias
+• shivering
+• pneumonia
+• sepsis
+• skin damage.
+3.4 Patient commentary was sought but none was received.
+Committee comments
+3.5 There are several available technologies for controlling temperature after cardiac
+arrest.
+3.6 Using large volumes of intravenous saline to induce therapeutic hypothermia
+before admission to hospital can cause side effects such as pulmonary oedema.
+3.7 The committee was informed that additional RCTs comparing temperature control
+for fever prevention with no intervention are unlikely to be done.
+ISBN: 978-1-4731-5686-9
+Endorsing organisation
+This guidance has been endorsed by Healthcare Improvement Scotland.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6
+conditions#notice-of-rights). of 6

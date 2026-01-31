@@ -1,0 +1,252 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Junctional tachycardias - PMC.pdf",
+  "converted_date": "2026-01-31T14:36:30.160292",
+  "file_size_bytes": 1230529,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Junctional tachycardias - PMC.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database
+does not imply endorsement of, or agreement with, the contents by NLM or the National
+Institutes of Health.
+Learn more: PMC Disclaimer | PMC Copyright Notice
+BMJ. 2002 Mar 16;324(7338):662–665. doi: 10.1136/bmj.324.7338.662
+Junctional tachycardias
+Demas Esberger, Sallyann Jones, Francis Morris
+Article notes Copyright and License information
+PMCID: PMC1122581 PMID: 11895828
+Any tachyarrhythmia arising from the atria or the atrioventricular junction is a supraventricular
+tachycardia. In clinical practice, however, the term supraventricular tachycardia is reserved for atrial
+tachycardias and arrhythmias arising from the region of the atrioventricular junction as a result of a
+re-entry mechanism (junctional tachycardias). The most common junctional tachycardias are
+atrioventricular nodal re-entrant tachycardia and atrioventricular re-entrant tachycardia.
+Atrioventricular nodal re-entrant tachycardia
+This is the most common cause of paroxysmal regular narrow complex tachycardia. Affected
+individuals are usually young and healthy with no organic heart disease.
+Mechanism
+In atrioventricular nodal re-entrant tachycardia there are two functionally and anatomically different
+distinct pathways in the atrioventricular node, with different conduction velocities and different
+refractory periods. They share a final common pathway through the lower part of the atrioventricular
+node and bundle of His. One pathway is relatively fast and has a long refractory period; the other
+pathway is slow with a short refractory period. In sinus rhythm the atrial impulse is conducted
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 1/14
+--- Страница 2 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+through the fast pathway and depolarises the ventricles. The impulse also travels down the slow
+pathway but terminates because the final common pathway is refractory.
+The slow pathway has a short refractory period and recovers first. An atrioventricular nodal re-
+entrant tachycardia is initiated, for example, if a premature atrial beat occurs at the critical moment
+when the fast pathway is still refractory. The impulse is conducted through the slow pathway and is
+then propagated in a retrograde fashion up the fast pathway, which has by now recovered from its
+refractory period. Thus a re-entry through the circuit is created.
+This type of “slow-fast” re-entry circuit is found in 90% of patients with atrioventricular nodal re-
+entrant tachycardia. Most of the rest have a fast-slow circuit, in which the re-entrant tachycardia is
+initiated by a premature ventricular contraction, and the impulse travels retrogradely up the slow
+pathway. This uncommon form of atrioventricular nodal re-entrant tachycardia is often sustained for
+very long periods and is then known as permanent junctional re-entrant tachycardia and is
+recognised by a long RP1 interval.
+Electrocardiographic findings
+During sinus rhythm the electrocardiogram is normal. During the tachycardia the rhythm is regular,
+with narrow QRS complexes and a rate of 130-250 beats/min. Atrial conduction proceeds in a
+retrograde fashion producing inverted P waves in leads II, III, and aVF. However, since atrial and
+ventricular depolarisation often occurs simultaneously, the P waves are frequently buried in the QRS
+complex and may be totally obscured. A P wave may be seen distorting the last part of the QRS
+complex giving rise to a “pseudo” S wave in the inferior leads and a “pseudo” R wave in V1.
+Fast-slow atrioventricular nodal re-entrant tachycardia is known as long RP1
+tachycardia, and it may be difficult to distinguish from an atrial tachycardia
+In the relatively uncommon fast-slow atrioventricular nodal re-entrant tachycardia, atrial
+depolarisation lags behind depolarisation of the ventricles, and inverted P waves may follow the T
+wave and precede the next QRS complex.
+Clinical presentation
+Episodes of atrioventricular nodal re-entrant tachycardia may begin at any age. They tend to start
+and stop abruptly and can occur spontaneously or be precipitated by simple movements. They can
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 2/14
+--- Страница 3 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+last a few seconds, several hours, or days. The frequency of episodes can vary between several a day,
+or one episode in a lifetime. Most patients have only mild symptoms, such as palpitations or the
+sensation that their heart is beating rapidly. More severe symptoms include dizziness, dyspnoea,
+weakness, neck pulsation, and central chest pain. Some patients report polyuria.
+Symptoms are commonest in patients with a very rapid heart rate and pre-existing
+heart disease
+Atrioventricular re-entrant tachycardia
+Atrioventricular re-entrant tachycardias occur as a result of an anatomically distinct atrioventricular
+connection. This accessory conduction pathway allows the atrial impulse to bypass the
+atrioventricular node and activate the ventricles prematurely (ventricular pre-excitation). The
+presence of the accessory pathway allows a re-entry circuit to form and paroxysmal atrioventricular
+re-entrant tachycardias to occur.
+The commonest kind of atrioventricular re-entrant tachycardia occurs as part of the
+Wolff-Parkinson-White syndrome
+Wolff-Parkinson-White syndrome
+In this syndrome an accessory pathway (the bundle of Kent) connects the atria directly to the
+ventricles. It results from a failure of complete separation of the atria and ventricles during fetal
+development.
+The pathway can be situated anywhere around the groove between the atria and ventricles, and in
+10% of cases more than one accessory pathway exists. The accessory pathway allows the formation of
+a re-entry circuit, which may give rise to either a narrow or a broad complex tachycardia, depending
+on whether the atrioventricular node or the accessory pathway is used for antegrade conduction.
+Electrocardiographic features
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 3/14
+--- Страница 4 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+In sinus rhythm the atrial impulse conducts over the accessory pathway without the delay
+encountered with atrioventricular nodal conduction. It is transmitted rapidly to the ventricular
+myocardium, and consequently the PR interval is short. However, because the impulse enters non-
+specialised myocardium, ventricular depolarisation progresses slowly at first, distorting the early part
+of the R wave and producing the characteristic delta wave on the electrocardiogram. This slow
+depolarisation is then rapidly overtaken by depolarisation propagated by the normal conduction
+system, and the rest of the QRS complex appears relatively normal.
+Classification of Wolff-Parkinson-White syndrome
+Type A (dominant R wave in V1 lead) may be confused with:
+Right bundle branch block
+Right ventricular hypertrophy
+Posterior myocardial infarction
+Type B (negative QRS complex in V1 lead) may be confused with:
+Left bundle branch block
+Anterior myocardial infarction
+Commonly, the accessory pathway is concealed—that is, it is capable of conducting only in a
+retrograde fashion, from ventricles to atria. During sinus rhythm pre-excitation does not occur and
+the electrocardiogram is normal.
+Traditionally the Wolff-Parkinson-White syndrome has been classified into two types according to the
+electrocardiographic morphology of the precordial leads. In type A, the delta wave and QRS complex
+are predominantly upright in the precordial leads. The dominant R wave in lead V1 may be
+misinterpreted as right bundle branch block. In type B, the delta wave and QRS complex are
+predominantly negative in leads V1 and V2 and positive in the other precordial leads, resembling left
+bundle branch block.
+Mechanism of tachycardia formation
+Orthodromic atrioventricular re-entrant tachycardias account for most tachycardias in the Wolff-
+Parkinson-White syndrome. A premature atrial impulse is conducted down the atrioventricular node
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 4/14
+--- Страница 5 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+to the ventricles and then in a retrograde fashion via the accessory pathway back to the atria. The
+impulse then circles repeatedly between the atria and ventricles, producing a narrow complex
+tachycardia. Since atrial depolarisation lags behind ventricular depolarisation, P waves follow the
+QRS complexes. The delta wave is not observed during the tachycardia, and the QRS complex is of
+normal duration. The rate is usually 140-250 beats/min.
+Antidromic atrioventricular re-entrant tachycardia is relatively uncommon, occurring in about 10% of
+patients with the Wolff-Parkinson-White syndrome. The accessory pathway allows antegrade
+conduction, and thus the impulse is conducted from the atria to the ventricles via the accessory
+pathway. Depolarisation is propagated through non-specialised myocardium, and the resulting QRS
+complex is broad and bizarre. The impulse then travels in a retrograde fashion via the
+atrioventricular node back to the atria.
+Orthodromic atrioventricular re-entrant tachycardia occurs with antegrade conduction
+through the atrioventricular nodeAntidromic atrioventricular re-entrant tachycardia
+occurs with retrograde conduction through the atrioventricular node
+Atrial fibrillation
+In patients without an accessory pathway the atrioventricular node protects the ventricles from the
+rapid atrial activity that occurs during atrial fibrillation. In the Wolff-Parkinson-White syndrome the
+atrial impulses can be conducted via the accessory pathway, causing ventricular pre-excitation and
+producing broad QRS complexes with delta waves. Occasionally an impulse will be conducted via the
+atrioventricular node and produce a normal QRS complex. The electrocardiogram has a characteristic
+appearance, showing a rapid, completely irregular broad complex tachycardia but with occasional
+narrow complexes.
+In some patients the accessory pathway allows very rapid conduction, and consequently
+very fast ventricular rates (in excess of 300 beats/min) may be seen, with the
+associated risk of deterioration into ventricular fibrillation
+Clinical presentation
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 5/14
+--- Страница 6 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+The Wolff-Parkinson-White syndrome is sometimes an incidental electrocardiographic finding, but
+often patients present with tachyarrhythmias. Episodes tend to be more common in young people but
+may come and go through life. Patients may first present when they are old.
+When rapid arrhythmias occur in association with atrial fibrillation, patients may present with heart
+failure or hypotension. Drugs that block the atrioventricular node—for example, digoxin, verapamil,
+and adenosine—may be dangerous in this situation and should be avoided. These drugs decrease the
+refractoriness of accessory connections and increase the frequency of conduction, resulting in a rapid
+ventricular response, which may precipitate ventricular fibrillation.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 6/14
+--- Страница 7 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+Figure.
+Open in a new tab
+Mechanism of atrioventricular nodal re-entrant tachycardia showing the slow and fast
+conduction routes and the final common pathway through the lower part of the
+atrioventricular node and bundle of His
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 7/14
+🔍
+--- Страница 8 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+Figure.
+Open in a new tab
+A premature atrial impulse finds the fast pathway refractory, allowing conduction only down
+the slow pathway (left). By the time the impulse reaches the His bundle, the fast pathway
+may have recovered, allowing retrograde conduction back up to the atria—the resultant
+“circus movement” gives rise to slow-fast atrioventricular nodal re-entrant tachycardia
+(right)
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 8/14
+🔍
+--- Страница 9 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+Figure.
+Open in a new tab
+An atrioventricular nodal re-entrant tachycardia
+Figure.
+Open in a new tab
+Termination of atrioventricular nodal re-entrant tachycardia
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 9/14
+🔍
+🔍
+--- Страница 10 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+Figure.
+Open in a new tab
+In the Wolff-Parkinson-White syndrome the bundle of Kent provides a separate electrical
+conduit between the atria and the ventricles
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 10/14
+🔍
+--- Страница 11 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+Figure.
+Open in a new tab
+In sinus rhythm conduction over the accessory pathway gives rise to a short PR interval and
+a delta wave
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 11/14
+🔍
+--- Страница 12 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+Figure.
+Open in a new tab
+Wolff-Parkinson-White, type A and type B, characterised by morphology of the recording
+from leads V1 to V6
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 12/14
+🔍
+--- Страница 13 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+Figure.
+Open in a new tab
+Mechanisms for orthodromic (left) and antidromic (right) atrioventricular re-entrant
+tachycardia
+Figure.
+Open in a new tab
+Orthodromic atrioventricular re-entrant tachycardia (left) showing clearly visible inverted P
+waves following the QRS complex, and antidromic atrioventricular re-entrant tachycardia
+(right) in the Wolff-Parkinson-White syndrome showing broad complexes
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 13/14
+🔍
+🔍
+--- Страница 14 ---
+22/01/2026, 15:09 Junctional tachycardias - PMC
+Figure.
+Open in a new tab
+Atrial fibrillation in the Wolff-Parkinson-White syndrome
+Footnotes
+Demas Esberger is consultant in accident and emergency medicine and Sallyann Jones is specialist
+registrar in accident and emergency medicine at the Queen's Medical Centre, Nottingham.
+The ABC of clinical electrocardiography is edited by Francis Morris, consultant in emergency
+medicine at the Northern General Hospital, Sheffield; June Edhouse, consultant in emergency
+medicine, Stepping Hill Hospital, Stockport; William J Brady, associate professor, programme
+director, and vice chair, department of emergency medicine, University of Virginia, Charlottesville,
+VA, USA; and John Camm, professor of clinical cardiology, St George's Hospital Medical School,
+London. The series will be published as a book in the summer.
+Articles from BMJ : British Medical Journal are provided here courtesy of BMJ Publishing Group
+https://pmc.ncbi.nlm.nih.gov/articles/PMC1122581/ 14/14
+🔍

@@ -1,0 +1,1359 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "subarachnoid-haemorrhage-caused-by-a-ruptured-aneurysm-diagnosis-and-management-pdf-66143842385605.pdf",
+  "converted_date": "2026-01-31T14:51:17.636572",
+  "file_size_bytes": 253536,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/subarachnoid-haemorrhage-caused-by-a-ruptured-aneurysm-diagnosis-and-management-pdf-66143842385605.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+Subarachnoid haemorrhage
+caused by a ruptured
+aneurysm: diagnosis and
+management
+NICE guideline
+Published: 23 November 2022
+www.nice.org.uk/guidance/ng228
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+--- Страница 2 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Your responsibility
+The recommendations in this guideline represent the view of NICE, arrived at after careful
+consideration of the evidence available. When exercising their judgement, professionals
+and practitioners are expected to take this guideline fully into account, alongside the
+individual needs, preferences and values of their patients or the people using their service.
+It is not mandatory to apply the recommendations, and the guideline does not override the
+responsibility to make decisions appropriate to the circumstances of the individual, in
+consultation with them and their families and carers or guardian.
+All problems (adverse events) related to a medicine or medical device used for treatment
+or in a procedure should be reported to the Medicines and Healthcare products Regulatory
+Agency using the Yellow Card Scheme.
+Local commissioners and providers of healthcare have a responsibility to enable the
+guideline to be applied when individual professionals and people using services wish to
+use it. They should do so in the context of local and national priorities for funding and
+developing services, and in light of their duties to have due regard to the need to eliminate
+unlawful discrimination, to advance equality of opportunity and to reduce health
+inequalities. Nothing in this guideline should be interpreted in a way that would be
+inconsistent with complying with those duties.
+Commissioners and providers have a responsibility to promote an environmentally
+sustainable health and care system and should assess and reduce the environmental
+impact of implementing NICE recommendations wherever possible.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
+conditions#notice-of-rights). 49
+--- Страница 3 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Contents
+Overview .................................................................................................................................... 5
+Who is it for? ........................................................................................................................................ 5
+Recommendations ..................................................................................................................... 6
+1.1 Assessment and diagnosis ............................................................................................................ 6
+1.2 Managing a confirmed aneurysmal subarachnoid haemorrhage ............................................. 11
+1.3 Monitoring and managing complications .................................................................................... 13
+1.4 Follow-up care ............................................................................................................................... 15
+1.5 Information and support ............................................................................................................... 20
+Terms used in this guideline ............................................................................................................... 22
+Recommendations for research ............................................................................................... 24
+Key recommendations for research .................................................................................................. 24
+Other recommendations for research ............................................................................................... 25
+Rationale and impact ................................................................................................................. 29
+Assessment and referral for diagnostic investigation ..................................................................... 29
+Pain relief and neurological assessment ........................................................................................... 30
+Diagnosing a subarachnoid haemorrhage ........................................................................................ 31
+Detecting an aneurysm ....................................................................................................................... 32
+Medical management ......................................................................................................................... 33
+Managing the culprit aneurysm ......................................................................................................... 35
+Monitoring and investigating for deterioration ................................................................................. 37
+Hydrocephalus ..................................................................................................................................... 38
+Intracranial hypertension .................................................................................................................... 39
+Delayed cerebral ischaemia ............................................................................................................... 40
+Follow-up care plan ............................................................................................................................. 41
+Follow-up neuroimaging ..................................................................................................................... 41
+Managing non-culprit (unruptured) aneurysms ............................................................................... 42
+Managing other conditions after discharge from hospital .............................................................. 42
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
+conditions#notice-of-rights). 49
+--- Страница 4 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Investigations to detect aneurysms in relatives ............................................................................... 44
+Information and support ..................................................................................................................... 45
+Context ....................................................................................................................................... 47
+Finding more information and committee details ................................................................... 48
+Update information ................................................................................................................... 49
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
+conditions#notice-of-rights). 49
+--- Страница 5 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Overview
+This guideline covers diagnosing and treating an aneurysmal (caused by a ruptured
+aneurysm) subarachnoid haemorrhage and its complications. It provides recommendations
+to improve diagnosis and ensure that the most effective treatments are offered. It includes
+guidance on follow-up care and information for people (aged 16 and over) who have had
+an aneurysmal subarachnoid haemorrhage, their families and carers.
+Who is it for?
+• Healthcare professionals
+• Commissioners and providers of healthcare services for people with a suspected or
+confirmed subarachnoid haemorrhage caused by a ruptured aneurysm
+• People with an aneurysmal subarachnoid haemorrhage, their families and carers
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
+conditions#notice-of-rights). 49
+--- Страница 6 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Recommendations
+People have the right to be involved in discussions and make informed decisions
+about their care, as described in NICE's information on making decisions about your
+care.
+Making decisions using NICE guidelines explains how we use words to show the
+strength (or certainty) of our recommendations, and has information about
+prescribing medicines (including off-label use), professional guidelines, standards
+and laws (including on consent and mental capacity), and safeguarding.
+1.1 Assessment and diagnosis
+NICE has also produced a visual summary of the recommendations on diagnosis.
+Assessment and referral for diagnostic investigations
+Initial assessment
+1.1.1 Be aware that urgent investigation to confirm a diagnosis of subarachnoid
+haemorrhage facilitates early treatment to prevent rebleeding from a ruptured
+aneurysm and minimises disability and death.
+1.1.2 When carrying out an initial assessment in a person who presents with
+unexplained acute severe headache:
+• have a high index of suspicion for subarachnoid haemorrhage
+• take a careful history to establish the rate of onset and time to peak intensity
+of the headache.
+1.1.3 Bear in mind that:
+• A 'thunderclap' headache (a sudden severe headache, typically peaking in
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
+conditions#notice-of-rights). 49
+--- Страница 7 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+intensity within 1 to 5 minutes) is a red-flag symptom of subarachnoid
+haemorrhage.
+• Thunderclap headache is associated with other conditions or causes such as
+migraine, cough, coitus or exertion. Most people with a thunderclap
+headache do not have a subarachnoid haemorrhage, but this should not
+deter further investigation if subarachnoid haemorrhage is suspected.
+• People with subarachnoid haemorrhage can present with a range of non-
+specific symptoms and signs and are at greater risk of a diagnosis being
+missed. Other symptoms and signs of subarachnoid haemorrhage include,
+but are not limited to:
+－ neck pain or stiffness
+－ photophobia
+－ nausea and vomiting
+－ new symptoms or signs of altered brain function (such as reduced
+consciousness, seizure or focal neurological deficit)
+－ limited or painful neck flexion on examination.
+1.1.4 If a person with a possible subarachnoid haemorrhage finds it difficult to describe
+their symptoms, for example because of a learning disability, language problem or
+altered consciousness, ask anyone who witnessed the onset of symptoms for a
+description (without delaying referral).
+1.1.5 Refer people with suspected subarachnoid haemorrhage seen outside of acute
+hospital settings to an emergency department immediately for further
+assessment.
+1.1.6 Ensure that people with suspected subarachnoid haemorrhage seen in acute
+hospital settings such as emergency departments are reviewed urgently by a
+senior clinical decision-maker to assess the person and think about alternative
+diagnoses.
+1.1.7 Refer the person for an urgent non-contrast CT head scan if review in secondary
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
+conditions#notice-of-rights). 49
+--- Страница 8 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+care by a senior clinical decision-maker confirms unexplained thunderclap
+headache, or other signs and symptoms that suggest subarachnoid
+haemorrhage. Be aware that the diagnostic accuracy of CT head scans is highest
+within 6 hours of symptom onset.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on assessment and
+referral for diagnostic investigations.
+Full details of the evidence and the committee's discussion are in evidence review A:
+symptoms and signs and evidence review B: diagnostic accuracy of investigations.
+Pain relief and neurological assessment
+1.1.8 Ensure that people with a suspected or confirmed subarachnoid haemorrhage are
+given effective pain relief, including opioid analgesia if needed. Document
+administration of opioid analgesia in the person's healthcare record.
+1.1.9 When conducting a neurological assessment, check the person's care record and
+if opioid analgesia has been given, take into account its sedating and pupillary
+effects.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on pain relief and
+neurological assessment.
+Full details of the evidence and the committee's discussion are in evidence review D:
+medical management strategies.
+Diagnosing a subarachnoid haemorrhage
+1.1.10 Diagnose a subarachnoid haemorrhage if the non-contrast CT head scan shows
+blood in the subarachnoid space.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
+conditions#notice-of-rights). 49
+--- Страница 9 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+1.1.11 If a CT head scan done within 6 hours of symptom onset and reported and
+documented by a radiologist shows no evidence of a subarachnoid haemorrhage:
+• do not routinely offer a lumbar puncture
+• think about alternative diagnoses and discuss with a senior clinical decision-
+maker
+• seek advice from a specialist.
+1.1.12 If a CT head scan done more than 6 hours after symptom onset shows no
+evidence of a subarachnoid haemorrhage, consider a lumbar puncture.
+1.1.13 Allow at least 12 hours after symptom onset before doing a lumbar puncture to
+diagnose a subarachnoid haemorrhage.
+1.1.14 Diagnose a subarachnoid haemorrhage if the lumbar puncture sample shows
+evidence of elevated bilirubin (xanthochromia) on spectrophotometry.
+1.1.15 Think about alternative diagnoses if the lumbar puncture sample shows no
+evidence of elevated bilirubin (xanthochromia) on spectrophotometry.
+Referral and transfer to a specialist neurosurgical centre
+1.1.16 Urgently discuss with a specialist neurosurgical centre the need for transfer of
+care of a person with a diagnosis of subarachnoid haemorrhage to a specialist
+neurosurgical centre.
+1.1.17 Do not use a subarachnoid haemorrhage severity score in isolation to determine
+the need for, or timing of, transfer of care to a specialist neurosurgical centre. Be
+aware that the risk of rebleeding is highest within 24 hours of the onset of
+symptoms.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
+conditions#notice-of-rights). 49
+--- Страница 10 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on diagnosing a
+subarachnoid haemorrhage.
+Full details of the evidence and the committee's discussion are in evidence review B:
+diagnostic accuracy of investigations and evidence review C: severity scoring
+systems.
+Detecting an aneurysm
+1.1.18 Offer CT angiography of the head without delay to people with a confirmed
+diagnosis of subarachnoid haemorrhage to identify the cause of the bleeding and
+to guide treatment.
+1.1.19 Diagnose an aneurysmal subarachnoid haemorrhage if:
+• CT angiography of the head shows an intracranial arterial aneurysm and
+• the pattern of subarachnoid blood is compatible with aneurysm rupture.
+1.1.20 Seek specialist opinion without delay from an interventional neuroradiologist and
+neurosurgeon if:
+• CT angiography of the head shows an intracranial arterial aneurysm and
+• the pattern of subarachnoid blood is not compatible with aneurysm rupture.
+1.1.21 If CT angiography of the head does not identify the cause of the subarachnoid
+haemorrhage and an aneurysm is still suspected, consider digital subtraction
+angiography (DSA), or magnetic resonance angiography (MRA) if DSA is
+contraindicated.
+1.1.22 Diagnose an aneurysmal subarachnoid haemorrhage if:
+• DSA or MRA shows an intracranial arterial aneurysm and
+• the pattern of subarachnoid blood is compatible with aneurysm rupture.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
+conditions#notice-of-rights). 49
+--- Страница 11 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+1.1.23 Think about other diagnoses if DSA or MRA does not show an intracranial arterial
+aneurysm.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on detecting an
+aneurysm.
+Full details of the evidence and the committee's discussion are in evidence review K:
+diagnostic imaging strategies.
+1.2 Managing a confirmed aneurysmal subarachnoid
+haemorrhage
+Medical management
+Nimodipine
+1.2.1 Consider enteral nimodipine for people with a confirmed subarachnoid
+haemorrhage.
+1.2.2 Only use intravenous nimodipine within a specialist setting and if enteral
+treatment is not suitable.
+Reducing the risk of venous thromboembolism
+1.2.3 Manage the risk of venous thromboembolism in people with an aneurysmal
+subarachnoid haemorrhage in line with the NICE guideline on venous
+thromboembolism in over 16s.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
+conditions#notice-of-rights). 49
+--- Страница 12 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on medical
+management.
+Full details of the evidence and the committee's discussion are in evidence review D:
+medical management strategies.
+Managing the culprit aneurysm
+1.2.4 An interventional neuroradiologist and a neurosurgeon should discuss the options
+for managing the culprit aneurysm, taking into account the person's clinical
+condition, the characteristics of the aneurysm, and the amount and location of
+subarachnoid blood. They should document a proposed treatment plan based on
+the following options:
+• endovascular coiling
+• neurosurgical clipping
+• no interventional procedure, with monitoring to check for clinical
+improvement and reassess the options for treatment.
+1.2.5 Do not use a subarachnoid haemorrhage severity score in isolation to determine
+the suitability of any management option.
+1.2.6 If interventional treatment to secure the aneurysm is an option, offer:
+• endovascular coiling or
+• neurosurgical clipping if endovascular coiling is not suitable.
+1.2.7 Discuss the proposed treatment plan and any alternative options with the person,
+and their family or carers if appropriate, then agree and document a final
+treatment plan (see recommendations 1.5.5 to 1.5.7).
+1.2.8 If interventional treatment is planned, ensure that it is carried out at the earliest
+opportunity to prevent rebleeding. Be aware that the risk of rebleeding is highest
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
+conditions#notice-of-rights). 49
+--- Страница 13 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+within 24 hours of the onset of symptoms.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on managing the
+culprit aneurysm.
+Full details of the evidence and the committee's discussion are in evidence review L:
+interventions to prevent rebleeding, evidence review C: severity scoring systems and
+evidence review M: timing of interventions to prevent rebleeding.
+Other NICE guidance on endovascular procedures for culprit aneurysms
+• NICE interventional procedures guidance on endovascular insertion of an intrasaccular
+wire-mesh blood-flow disruption device for intracranial aneurysms
+• NICE interventional procedures guidance on coil embolisation of ruptured intracranial
+aneurysms.
+1.3 Monitoring and managing complications
+Monitoring and investigating for deterioration
+Transcranial doppler monitoring for deterioration
+1.3.1 Do not use transcranial doppler monitoring to guide clinical management of an
+aneurysmal subarachnoid haemorrhage except in the context of clinical research.
+Unexplained neurological deterioration
+1.3.2 For people with unexplained neurological deterioration after a subarachnoid
+haemorrhage, offer a non-contrast CT head scan as the first diagnostic
+investigation to determine the cause.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
+conditions#notice-of-rights). 49
+--- Страница 14 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on monitoring and
+investigating for deterioration.
+Full details of the evidence and the committee's discussion are in evidence review E:
+monitoring for raised intracranial pressure and vasospasm.
+Hydrocephalus
+1.3.3 Base a diagnosis of acute or chronic hydrocephalus on the person's symptoms
+and signs, and on a comparison of current and previous CT or other brain
+imaging.
+Acute hydrocephalus
+1.3.4 Consider drainage or diversion of cerebrospinal fluid for people with neurological
+deterioration caused by acute hydrocephalus.
+Chronic hydrocephalus
+1.3.5 For people with persistent or progressive symptoms and a clinical diagnosis of
+chronic hydrocephalus, consider drainage or permanent diversion of
+cerebrospinal fluid. If there is uncertainty about the likely benefit of permanent
+diversion, consider a trial of temporary drainage to assess the need for
+permanent diversion.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on hydrocephalus.
+Full details of the evidence and the committee's discussion are in evidence review G:
+detecting hydrocephalus and evidence review H: managing hydrocephalus.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
+conditions#notice-of-rights). 49
+--- Страница 15 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Delayed cerebral ischaemia
+1.3.6 Ensure euvolaemia (normal blood volume) in people with delayed cerebral
+ischaemia after an aneurysmal subarachnoid haemorrhage and consider
+treatment with a vasopressor if symptoms persist. Bear in mind that clinical
+improvement from vasopressor treatment may be temporary.
+For a short explanation of why the committee made this recommendation and how it
+might affect practice, see the rationale and impact section on delayed cerebral
+ischaemia.
+Full details of the evidence and the committee's discussion are in evidence review F:
+management of delayed cerebral ischaemia.
+1.4 Follow-up care
+Follow-up care plan
+1.4.1 Agree and document a plan for follow-up care with the person after their
+aneurysmal subarachnoid haemorrhage. Give a paper copy of the plan to the
+person (and their family or carers if appropriate) and include details of who to
+contact at the specialist centre for ongoing advice and support.
+1.4.2 Include the follow-up care plan in the person's medical record and discharge
+correspondence.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on follow-up care
+plan.
+Full details of the evidence and the committee's discussion are in evidence review S:
+patient information.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
+conditions#notice-of-rights). 49
+--- Страница 16 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Rehabilitation
+1.4.3 Offer rehabilitation after aneurysmal subarachnoid haemorrhage in line with the
+NICE guidelines on stroke rehabilitation in adults and rehabilitation after critical
+illness in adults.
+Follow-up neuroimaging
+1.4.4 Consider follow-up neuroimaging for people who have had an aneurysmal
+subarachnoid haemorrhage, taking into account the extent of their recovery and
+the suitability of further imaging. Base the choice of imaging modality, and the
+frequency and duration of imaging follow-up, on the:
+• type and outcome of any neurointervention or neurosurgery on the initial
+aneurysm
+• presence of any non-culprit aneurysms
+• estimated risk of further bleeding
+• risks of planned investigations and any subsequent interventions
+• person's preference.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on follow-up
+neuroimaging.
+Full details of the evidence and the committee's discussion are in evidence review O:
+imaging strategies for follow-up.
+Managing non-culprit (unruptured) aneurysms
+1.4.5 A multidisciplinary team (MDT) that includes an interventional neuroradiologist
+and a neurosurgeon should evaluate the options for managing non-culprit
+(unruptured) aneurysms, including:
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
+conditions#notice-of-rights). 49
+--- Страница 17 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+• endovascular coiling
+• neurosurgical clipping
+• conservative management and follow-up monitoring.
+1.4.6 When evaluating the options for managing a non-culprit aneurysm, the MDT
+should take into account:
+• the size and location of the aneurysm
+• the estimated lifetime risk of the aneurysm rupturing
+• the estimated risk of each treatment option
+• any comorbidities
+• the person's preferences.
+1.4.7 Discuss the proposed management plan and any alternative options with the
+person (and their family or carers as appropriate). Base the discussion on the
+factors listed in recommendation 1.4.6. Agree and document a final management
+plan.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on managing non-
+culprit (unruptured) aneurysms.
+Full details of the evidence and the committee's discussion are in evidence review P:
+non-culprit aneurysms.
+Other NICE guidance on endovascular procedures for non-culprit (unruptured)
+aneurysms
+• NICE medical technologies guidance on Pipeline Flex embolisation device with Shield
+Technology for the treatment of complex intracranial aneurysms
+• NICE interventional procedures guidance on endovascular insertion of an intrasaccular
+wire-mesh blood-flow disruption device for intracranial aneurysms
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
+conditions#notice-of-rights). 49
+--- Страница 18 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+• NICE interventional procedures guidance on coil embolisation of unruptured
+intracranial aneurysms.
+Managing other conditions after discharge from hospital
+Hypertension
+1.4.8 Manage blood pressure in people aged 18 and over who have had an aneurysmal
+subarachnoid haemorrhage in line with the NICE guideline on hypertension in
+adults.
+Conditions treated with an antiplatelet or anticoagulant
+1.4.9 Do not withhold treatment with antiplatelets or anticoagulants solely on the basis
+of an aneurysmal subarachnoid haemorrhage if the culprit aneurysm has been
+secured by coiling or clipping.
+1.4.10 Balance the risks and benefits of treatment with an antiplatelet or anticoagulant,
+taking into account specialist assessment of the risk of a future subarachnoid
+haemorrhage.
+Smoking
+1.4.11 Encourage people who smoke to stop, and consider smoking cessation support
+as set out in the recommendations on stop-smoking interventions in the NICE
+guideline on tobacco.
+Headaches
+1.4.12 Assess, diagnose and manage headaches in people who have had an aneurysmal
+subarachnoid haemorrhage in line with the NICE guideline on headaches in over
+12s.
+1.4.13 Be aware that headaches in people with a history of aneurysmal subarachnoid
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
+conditions#notice-of-rights). 49
+--- Страница 19 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+haemorrhage:
+• are common and generally benign
+• may be due to chronic hydrocephalus if the person has additional symptoms
+or signs such as gait disturbance, incontinence, incoordination or cognitive
+impairment.
+Seizures
+1.4.14 Manage seizures in people who have recovered from an aneurysmal
+subarachnoid haemorrhage in line with the NICE guideline on epilepsies in
+children, young people and adults.
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on managing other
+conditions after discharge from hospital.
+Full details of the evidence and the committee's discussion are in evidence review Q:
+long-term medicines for reducing the risk of subsequent subarachnoid haemorrhage
+and evidence review R: long-term medication for managing the consequences of
+subarachnoid haemorrhage.
+Investigations to detect aneurysms in relatives
+1.4.15 Explain to people (and their families if appropriate) who have had an aneurysmal
+subarachnoid haemorrhage and are concerned about possible aneurysms in their
+relatives that:
+• routine testing to check for aneurysms in relatives has not been shown to
+save lives or prevent aneurysmal subarachnoid haemorrhages
+• testing for relatives is based on an assessment of the relative's own risk
+• testing is usually limited to people with at least 2 first-degree relatives
+(father, mother, sister or brother) who have had an aneurysmal subarachnoid
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
+conditions#notice-of-rights). 49
+--- Страница 20 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+haemorrhage.
+Tell people where they can find more information about testing for relatives,
+such as the NHS webpage on diagnosis of brain aneurysm.
+For a short explanation of why the committee made this recommendation and how it
+might affect practice, see the rationale and impact section on investigations to detect
+aneurysms in relatives.
+Full details of the evidence and the committee's discussion are evidence review T:
+investigating relatives of people with aneurysmal subarachnoid haemorrhage.
+1.5 Information and support
+1.5.1 Follow the recommendations in the section on enabling patients to actively
+participate in their care in the NICE guideline on patient experience in adult NHS
+services, including:
+• establishing the most effective way of communicating with the person and
+providing information in a format that is accessible to them
+• avoiding jargon, using words the person will understand and explaining
+unfamiliar words.
+1.5.2 When making decisions with people about their treatment and care, follow the
+NICE guideline on shared decision making.
+1.5.3 When supporting people who may lack capacity to make decisions about their
+treatment and care, follow the NICE guideline on decision making and mental
+capacity.
+1.5.4 Adapt written and verbal information about aneurysmal subarachnoid
+haemorrhage to the needs and preferences of the person (and their family or
+carers if appropriate).
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
+conditions#notice-of-rights). 49
+--- Страница 21 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+At diagnosis
+1.5.5 Explain to the person (and their family or carers if appropriate) what an
+aneurysmal subarachnoid haemorrhage is and what the treatment options are,
+including their benefits and risks.
+During the hospital stay
+1.5.6 Give the person (and their family or carers if appropriate) information about
+complications that can happen after an aneurysmal subarachnoid haemorrhage,
+such as:
+• a build-up of fluid on the brain (hydrocephalus)
+• a reduced supply of blood to the brain (delayed cerebral ischaemia)
+• speech or communication difficulties
+• physical disabilities
+• seizures.
+1.5.7 Tell the person (and their family or carers if appropriate) that common symptoms
+reported by people who have had a subarachnoid haemorrhage include:
+• headaches, fatigue and sleep disturbances
+• anxiety, low moods and increased irritability
+• problems with memory and cognitive function
+• changes to smell, taste, hearing or vision.
+1.5.8 Give people who wish to receive it (and their family or carers if appropriate)
+information about their estimated future risk of another subarachnoid
+haemorrhage. Base the information on specialist assessment by the MDT of the
+person's medical circumstances, including:
+• the effectiveness of the treatment of the ruptured aneurysm
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
+conditions#notice-of-rights). 49
+--- Страница 22 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+• the presence and growth of additional aneurysms
+• their smoking status.
+1.5.9 Give the person advice on returning to their usual activities including work,
+exercise, driving and sexual activity.
+At discharge
+1.5.10 Check that the person has been given advice about wound care and medicines, a
+copy of their follow-up care plan and details of who to contact at their specialist
+centre if they have questions or concerns. Give them details of local and national
+support groups.
+At follow-up
+1.5.11 Discuss the person's return to their usual activities (see recommendation 1.5.9).
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on information and
+support.
+Full details of the evidence and the committee's discussion are in evidence review S:
+patient information and evidence review N: risk of subsequent subarachnoid
+haemorrhage.
+Terms used in this guideline
+This section defines terms that have been used in a particular way for this guideline.
+Senior clinical decision-maker
+A clinician with the necessary training and experience to assess people with suspected
+subarachnoid haemorrhage, confirm subarachnoid haemorrhage symptoms and signs, and
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
+conditions#notice-of-rights). 49
+--- Страница 23 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+refer people for further investigation. This may be a consultant, a staff-grade, associate-
+specialist or specialty doctor, or a doctor in a training grade who has been delegated to do
+this because they have the necessary competencies.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
+conditions#notice-of-rights). 49
+--- Страница 24 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Recommendations for research
+The guideline committee has made the following recommendations for research.
+Key recommendations for research
+1 Timing of CT head scans
+What is the relative accuracy of CT head scans at different time intervals, for example
+12 hours or 24 hours after symptom onset, to diagnose subarachnoid haemorrhage?
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on diagnosing a subarachnoid haemorrhage.
+Full details of the evidence and the committee's discussion are in evidence review B:
+diagnostic accuracy of investigations.
+2 Predictors of death and disability
+What variables predict death or disability for people with aneurysmal subarachnoid
+haemorrhage?
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on diagnosing a subarachnoid haemorrhage.
+Full details of the evidence and the committee's discussion are in evidence review C:
+severity scoring systems.
+3 Nimodipine
+What is the clinical and cost effectiveness of nimodipine in the management of aneurysmal
+subarachnoid haemorrhage?
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
+conditions#notice-of-rights). 49
+--- Страница 25 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on nimodipine.
+Full details of the evidence and the committee's discussion are in evidence review D:
+medical management strategies.
+4 Novel endovascular interventions
+What is the clinical and cost effectiveness of novel endovascular techniques and devices
+such as coated coils, endoluminal flow diverters and intrasaccular devices to treat
+aneurysmal subarachnoid haemorrhage?
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on managing the culprit aneurysm.
+Full details of the evidence and the committee's discussion are in evidence review L:
+interventions to prevent re-bleeding.
+5 Risk stratification tool to estimate risk of recurrence
+What is the utility of a risk stratification tool to estimate the risk of subsequent aneurysmal
+subarachnoid haemorrhage?
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on information and support.
+Full details of the evidence and the committee's discussion are in evidence review N:
+risk of subsequent subarachnoid haemorrhage.
+Other recommendations for research
+6 Interventions for aneurysmal subarachnoid haemorrhage in
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
+conditions#notice-of-rights). 49
+--- Страница 26 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+people with major neurological deficit
+What is the outcome of intervention to prevent rebleeding in people who present with or
+rapidly develop severe neurological deficits as a consequence of acute aneurysmal
+subarachnoid haemorrhage?
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on managing the culprit aneurysm.
+Full details of the evidence and the committee's discussion are in evidence review L:
+interventions to prevent re-bleeding.
+7 Managing acute hydrocephalus
+What is the most clinically and cost-effective method of cerebrospinal fluid drainage or
+diversion (for example shunt surgery, external ventricular drain surgery or lumbar drain) for
+symptomatic acute hydrocephalus?
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on hydrocephalus.
+Full details of the evidence and the committee's discussion are in evidence review H:
+managing hydrocephalus.
+8 Transcranial doppler monitoring
+What is the clinical and cost effectiveness of routine transcranial doppler monitoring to
+guide clinical management of aneurysmal subarachnoid haemorrhage?
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on monitoring and investigating for deterioration.
+Full details of the evidence and the committee's discussion are in evidence review E:
+monitoring for raised intracranial pressure and vasospasm.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
+conditions#notice-of-rights). 49
+--- Страница 27 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+9 Intracranial hypertension
+What is the impact of routine monitoring of intracranial hypertension on subsequent
+management and outcome in people with aneurysmal subarachnoid haemorrhage who are
+unconscious or ventilated on an intensive care unit?
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on intracranial hypertension.
+Full details of the evidence and the committee's discussion are in evidence review I:
+detecting intracranial hypertension and evidence review J: managing intracranial
+hypertension.
+10 Intra-arterial therapies to manage delayed cerebral ischaemia
+What is the impact of intra-arterial therapies to manage delayed cerebral ischaemia on
+outcome in people with aneurysmal subarachnoid haemorrhage?
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on delayed cerebral ischaemia.
+Full details of the evidence and the committee's discussion are in evidence review F:
+management of delayed cerebral ischaemia.
+11 Vasopressors to manage delayed cerebral ischaemia
+What is the clinical and cost effectiveness of vasopressors to manage delayed cerebral
+ischaemia in people with aneurysmal subarachnoid haemorrhage?
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on delayed cerebral ischaemia.
+Full details of the evidence and the committee's discussion are in evidence review F:
+management of delayed cerebral ischaemia.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
+conditions#notice-of-rights). 49
+--- Страница 28 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+12 Blood pressure targets
+What is the clinical and cost effectiveness of a lower blood pressure treatment target
+relative to the standard blood pressure treatment target for people with aneurysmal
+subarachnoid haemorrhage?
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on managing other conditions after discharge from
+hospital.
+Full details of the evidence and the committee's discussion are in evidence review Q:
+long-term medicines for reducing the risk of subsequent subarachnoid haemorrhage.
+13 Investigations for relatives
+What is the clinical and cost effectiveness of investigations to detect intracranial arterial
+aneurysms in first-degree relatives of people who have had an aneurysmal subarachnoid
+haemorrhage?
+For a short explanation of why the committee made this recommendation for
+research, see the rationale section on investigations to detect aneurysms in relatives.
+Full details of the evidence and the committee's discussion are in evidence review T:
+investigating relatives of people with aneurysmal subarachnoid haemorrhage.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
+conditions#notice-of-rights). 49
+--- Страница 29 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Rationale and impact
+These sections briefly explain why the committee made the recommendations and how
+they might affect practice.
+Assessment and referral for diagnostic
+investigation
+Recommendations 1.1.1 to 1.1.7
+Why the committee made the recommendations
+People with a suspected subarachnoid haemorrhage can present with a wide range of
+symptoms and signs. There was little evidence to indicate which symptoms or signs
+specifically point to a diagnosis of subarachnoid haemorrhage. The committee agreed that
+the consequences of a missed diagnosis may be severe and include disability and death.
+Urgent investigation is required to confirm a diagnosis of subarachnoid haemorrhage and
+facilitate early treatment to prevent rebleeding from the ruptured aneurysm. Clinicians
+should therefore be alert to the possibility of subarachnoid haemorrhage in people
+presenting with unexplained acute severe headache, reduced consciousness, seizure,
+focal neurological deficit or other suggestive symptoms. Some people present with non-
+specific symptoms, such as nausea and vomiting, photophobia, or neck pain or stiffness.
+In these cases, a diagnosis of subarachnoid haemorrhage is more likely to be missed.
+The committee's experience indicated that a 'thunderclap' headache is a presenting
+symptom in most people with a subarachnoid haemorrhage. However, they noted that this
+type of headache is a common presentation in emergency departments and around 10% of
+people who present with this symptom have a diagnosis of subarachnoid haemorrhage
+confirmed; the majority are diagnosed with other conditions, for example, migraine. The
+committee agreed that other symptoms and signs are also commonly seen in people with
+a subarachnoid haemorrhage. These can be used, together with clinical judgement, to
+support clinical assessment and guide decisions on further diagnostic investigations. The
+committee noted that these symptoms and signs of subarachnoid haemorrhage can also
+be caused by a number of other conditions. Therefore, a senior clinician should confirm
+the assessment of subarachnoid haemorrhage and arrange immediate referral for further
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
+conditions#notice-of-rights). 49
+--- Страница 30 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+investigation.
+There is good evidence showing that non-contrast CT head scans carried out within
+6 hours of symptom onset are highly accurate and can be used to rule out a diagnosis of
+subarachnoid haemorrhage, therefore avoiding the need for further investigation with a
+lumbar puncture. CT head scans done more than 6 hours after symptom onset are less
+accurate (see the section on diagnosing a subarachnoid haemorrhage for more
+information).
+Evidence on decision tools, including the Ottawa Subarachnoid Haemorrhage Rule for
+Headache Evaluation, showed that these tools have a high level of accuracy in ruling out
+subarachnoid haemorrhage, but are less accurate at ruling it in, with a large number of
+false-positive identifications. Although these tools are beneficial in ensuring that no cases
+are missed, over-reliance on them risks harm from unnecessary imaging and invasive
+investigations. The committee noted that the tools use a broad range of symptoms and
+signs that are not specific to subarachnoid haemorrhage.
+How the recommendations might affect practice
+The recommendations may be useful for non-specialist clinicians, but are not expected to
+lead to significant changes in practice. Non-contrast CT head scans are the usual first-line
+investigation for suspected subarachnoid haemorrhage, and this is not expected to
+change.
+Return to recommendations
+Pain relief and neurological assessment
+Recommendations 1.1.8 and 1.1.9
+Why the committee made the recommendations
+Although there was limited evidence on the use of specific analgesia or sedation, the
+committee agreed that pain in adults with aneurysmal subarachnoid haemorrhage should
+be managed with analgesics in line with standard clinical practice. Headache is usually
+treated with simple analgesics such as paracetamol, escalating to opioids as needed. The
+committee agreed that the sedative and pupillary effect of opioid analgesics should be
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
+conditions#notice-of-rights). 49
+--- Страница 31 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+taken into account when doing a neurological assessment, but should not preclude their
+use.
+How the recommendations might affect practice
+The recommendations generally reflect current practice and are not likely to result in
+changes.
+Return to recommendations
+Diagnosing a subarachnoid haemorrhage
+Recommendations 1.1.10 to 1.1.17
+Why the committee made the recommendations
+The committee looked at evidence on non-contrast CT head scans, lumbar puncture and
+MRI. In the studies, the CT scans were reviewed by either a general radiologist or a
+neuroradiologist. There was good evidence showing that CT head scans done within
+6 hours of symptom onset have a high diagnostic accuracy. Taking into account the
+invasive risks of lumbar puncture, the difficulty of monitoring patients during MRI and the
+costs of both procedures, the committee concluded that these procedures should not be
+routinely offered if a CT head scan, done within 6 hours of symptom onset and reported
+and documented by an appropriately experienced radiologist, shows no evidence of a
+subarachnoid haemorrhage. In these circumstances alternative diagnoses should be
+considered and advice sought from a specialist, for example in neurosurgery,
+neuroradiology, neurology or stroke medicine.
+If the CT head scan is done more than 6 hours after symptom onset, the evidence showed
+that diagnostic accuracy is reduced and false-negative results are more likely. The
+committee therefore agreed that further investigation with a lumbar puncture should be
+considered if a CT head scan done more than 6 hours after ictus does not confirm the
+diagnosis of subarachnoid haemorrhage.
+When a lumbar puncture is indicated, the committee agreed that it should be done at least
+12 hours after symptom onset, when bilirubin formation is sufficient to be detected
+reliably. The committee considered that the diagnostic accuracy of earlier lumbar puncture
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of
+conditions#notice-of-rights). 49
+--- Страница 32 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+(to detect blood in the cerebrospinal fluid) is likely to be low because it can take several
+hours for blood to appear in the lumbar subarachnoid sac.
+There was limited evidence on the relative accuracy of non-contrast CT head scanning at
+various time intervals greater than 6 hours after symptom onset, so the committee made a
+recommendation for research on timing of CT head scans.
+Referral and transfer to a specialist neurosurgical centre
+If subarachnoid haemorrhage is diagnosed, the committee noted that an urgent decision is
+needed on whether to transfer the person to specialist care. The committee decided to
+make a consensus recommendation to stress the importance of an urgent discussion with
+a specialist neurosurgical centre.
+Although evidence on a number of severity scores showed an association with morbidity
+and mortality, there was inconsistency across the scores and the evidence was not
+sufficient to recommend the use of any score on its own. The committee agreed that,
+although severity scoring can be a useful clinical descriptor, decisions on transfer should
+be based on a holistic patient assessment rather than a severity score on its own, to avoid
+inappropriate withholding of specialist neurosurgical care from people whose score
+indicates a poor clinical condition.
+The committee noted that evidence to support the prognostic accuracy of the severity
+scores was weak and made a recommendation for research on predictors of death and
+disability.
+How the recommendations might affect practice
+Centres that routinely perform lumbar puncture after a negative CT head scan may see a
+reduction in the use of lumbar puncture in people with an early negative CT head scan.
+Reliance on severity scoring to determine transfer to specialist centres may reduce,
+leading to more people appropriately being transferred for treatment.
+Return to recommendations
+Detecting an aneurysm
+Recommendations 1.1.18 to 1.1.23
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 32 of
+conditions#notice-of-rights). 49
+--- Страница 33 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Why the committee made the recommendations
+Evidence showed that CT angiography has a high level of accuracy in identifying
+aneurysms causing subarachnoid haemorrhage but evidence for the diagnostic accuracy
+of magnetic resonance angiography (MRA) was less compelling. CT angiography is the
+quickest to perform, is non-invasive, does not usually necessitate sedation or general
+anaesthesia and is available in most centres. MRA and DSA are more complex and time-
+consuming procedures that need specialist input and have a higher risk of complications.
+DSA is regarded as the 'gold standard' investigation and is currently commonly carried out
+when CT angiography is negative but there is a high suspicion of aneurysmal
+subarachnoid haemorrhage, whereas the complexities involved in obtaining high-quality
+MRA images make this less beneficial. The committee agreed that DSA should be reserved
+for instances when CT angiography has not detected a suspected aneurysm.
+How the recommendations might affect practice
+The recommendations largely reflect current practice and are not expected to lead to
+changes.
+Return to recommendations
+Medical management
+Recommendations 1.2.1 to 1.2.3
+Why the committee made the recommendations
+Nimodipine
+Although limited evidence showed some reductions in mortality, rebleeding, disability and
+delayed cerebral ischaemia with nimodipine, most of the evidence available was graded as
+low or very low quality, predominately due to imprecision of outcome data, and risk of bias.
+There was a high risk of uncertainty around a number of outcomes due to significant
+statistical imprecision around the summary effect estimates, with wide confidence
+intervals crossing the thresholds for clinical significance.
+The committee noted that the studies in the evidence review were conducted in the
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 33 of
+conditions#notice-of-rights). 49
+--- Страница 34 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+1980s, with a lack of more recent evidence. In most of the studies, nimodipine was
+commenced up to 96 hours after ictus and continued for up to 3 weeks before
+neurosurgical management. Therefore, the committee had reservations about the
+applicability of this evidence to current practice, in which people with aneurysmal
+subarachnoid haemorrhage are frequently treated by endovascular coiling within 48 hours
+of ictus. The committee could not be sure that the benefits from nimodipine are
+maintained with current treatments to secure the ruptured aneurysm, but they agreed
+that, without evidence of significant harms, a recommendation to consider nimodipine was
+appropriate in the acute management of aneurysmal subarachnoid haemorrhage.
+The committee noted that the use of nimodipine is entrenched in clinical practice and was
+surprised at the lack of more compelling contemporary evidence for the use of enteral
+nimodipine in the management of aneurysmal subarachnoid haemorrhage. The lack of
+recent evidence influenced their decision to make a weak recommendation for the use of
+nimodipine. The committee also made a recommendation for research on nimodipine to
+determine its place in current practice.
+Most of the evidence related to the use of oral nimodipine but some was drawn from
+studies that included intravenous nimodipine. The committee were aware that intravenous
+nimodipine has a high cost and were uncertain whether it is likely to be cost effective in
+patients who are unconscious or ventilated, or unable to swallow. The committee were
+also aware that some clinicians recommend administration of crushed nimodipine tablets
+to these patients via a nasogastric tube to avoid the need to use intravenous nimodipine.
+The committee noted that intravenous nimodipine may be useful for patients in whom poor
+absorption of the drug is suspected. Based on these observations and their experience,
+the committee agreed that intravenous nimodipine should be reserved for patients in
+whom enteral administration is not suitable.
+Reducing the risk of venous thromboembolism
+The committee noted that NICE's guideline on reducing the risk of hospital-acquired
+venous thromboembolism (VTE) includes assessment of bleeding risk and alternatives to
+pharmacological VTE prophylaxis, and is therefore suitable for people admitted to hospital
+with a subarachnoid haemorrhage before their aneurysm is secured and after it is secured.
+Short-course tranexamic acid
+Evidence on tranexamic acid in the management of aneurysmal subarachnoid
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 34 of
+conditions#notice-of-rights). 49
+--- Страница 35 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+haemorrhage was mixed, and most was from small studies from the 1970s and 1980s.
+Some of the evidence suggested that short courses of intravenous tranexamic acid
+started immediately after diagnosis and before a planned intervention (endovascular
+coiling or neurosurgical clipping) reduce the risks of rebleeding. However, there was no
+evidence showing that they reduce death or disability.
+The committee were aware that short-course tranexamic acid is occasionally used in
+current practice if interventional treatment to secure the aneurysm is suitable but not
+available within a short time frame. However, the committee agreed that the administration
+of tranexamic acid should not delay interventional treatment to secure the aneurysm.
+How the recommendations might affect practice
+Nimodipine
+The recommendation is not expected to substantially change the current practice of giving
+nimodipine after an aneurysmal subarachnoid haemorrhage.
+Reducing the risk of venous thromboembolism
+The recommendation is not expected to change current practice.
+Return to recommendations
+Managing the culprit aneurysm
+Recommendations 1.2.4 to 1.2.8
+Why the committee made the recommendations
+The committee noted that around half of people who survive an aneurysmal subarachnoid
+haemorrhage will have a second bleed from the culprit aneurysm within weeks, and the
+mortality from a second bleed can exceed 50%. Interventional treatment with
+endovascular coiling or neurosurgical clipping, if suitable, can secure the aneurysm and
+prevent rebleeding.
+The committee acknowledged that interventional treatment is not suitable for some people
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 35 of
+conditions#notice-of-rights). 49
+--- Страница 36 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+who have a major neurological deficit after an aneurysmal subarachnoid haemorrhage, and
+that the costs of long-term nursing care or rehabilitation can be considerable. Very little
+evidence was found for this group, so the committee made a recommendation for research
+on interventions for aneurysmal subarachnoid haemorrhage in people with major
+neurological deficit.
+Severity scoring systems might help clinicians identify people for whom intervention is
+likely to be justified, but none of the severity scoring systems currently in use reliably
+predicts morbidity and mortality in people with aneurysmal subarachnoid haemorrhage. In
+addition, the committee agreed that clinical state and severity score can vary over time,
+especially soon after symptom onset. Decisions on clinical management should therefore
+be based on a holistic patient assessment rather than solely on a severity score. Factors
+that should be considered by clinicians and discussed with the patient include:
+neurological status, performance status and comorbidities.
+The evidence was not sufficient to determine the clinical effectiveness of endovascular
+coiling compared with neurosurgical clipping, although a small amount of evidence
+suggested that endovascular coiling might be more beneficial. Endovascular coiling is less
+invasive and potentially safer, so the committee agreed that it should be offered as the
+first option, taking factors such as aneurysm characteristics and the amount and location
+of subarachnoid blood into account. The committee agreed that neurosurgical clipping
+should be considered if endovascular coiling is not a suitable treatment option. They
+stressed that any procedure to secure the aneurysm should be performed without delay to
+minimise the risk of rebleeding.
+Newer, more expensive interventional technologies are being used but there is little
+evidence on their effectiveness, so the committee made a recommendation for research
+on novel endovascular interventions.
+How the recommendations might affect practice
+Endovascular coiling accounts for around 75% of interventions done in current practice
+and the recommendation is not expected to change this. Most interventions are carried
+out within 48 hours of admission. However, this may vary according to the availability of
+interventional neuroradiologists and vascular neurosurgeons, and the capacity of
+neurosurgical centres. For people admitted during weekends, endovascular coiling should
+be available from the same interventional neuroradiology teams who will provide
+thrombectomy for stroke, in line with the recommendations on thrombectomy in the NICE
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 36 of
+conditions#notice-of-rights). 49
+--- Страница 37 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+guideline on stroke and transient ischaemic attack in over 16s. However, provision of
+neurosurgical clipping during weekends may necessitate changes to services such as the
+setting up of appropriate networks.
+Return to recommendations
+Monitoring and investigating for deterioration
+Recommendations 1.3.1 and 1.3.2
+Why the committee made the recommendations
+There was no evidence on the routine use of direct intracranial pressure monitoring for
+raised intracranial pressure. Very limited evidence from 1 study on transcranial doppler
+monitoring for vasospasm suggested an increase in mortality, morbidity and length of
+hospital stay compared with no transcranial doppler monitoring. The committee agreed
+that these outcomes were unlikely to be directly caused by the transcranial doppler
+monitoring. However, they were concerned that such monitoring might influence
+subsequent decisions, for example about investigations or interventions, and so indirectly
+affect outcomes. They therefore agreed that transcranial doppler monitoring should only
+be used in the context of clinical research. The committee noted that there is increasing
+enthusiasm for the use of this modality and made a recommendation for research on
+transcranial doppler monitoring.
+There was no evidence on the investigation of unexplained neurological deterioration in
+people with aneurysmal subarachnoid haemorrhage. The committee agreed that in current
+practice unexplained neurological deterioration is initially investigated with a non-contrast
+CT scan, which can indicate the cause of deterioration including ventricular enlargement
+suggestive of hydrocephalus, cerebral ischaemia, intracranial haematoma or evidence of
+rebleeding.
+How the recommendations might affect practice
+In current practice the use of transcranial doppler monitoring varies widely. The
+recommendation is likely to stop this type of monitoring in centres that use it in routine
+practice. CT head scans are used to investigate unexplained neurological deterioration in
+current practice and the recommendation will not affect this.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 37 of
+conditions#notice-of-rights). 49
+--- Страница 38 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Return to recommendations
+Hydrocephalus
+Recommendations 1.3.3 to 1.3.5
+Why the committee made the recommendations
+Acute hydrocephalus
+There was no evidence on diagnosing acute hydrocephalus. Based on their experience,
+the committee agreed that hydrocephalus is suspected on the basis of symptoms and
+signs of raised intracranial pressure such as an altered level of consciousness or
+neurological deterioration, and that the diagnosis should be confirmed by comparing a CT
+head scan with previous CT or other head scans to show an increase in the size of the
+ventricular system. The committee agreed that MRI offers no advantage over CT for
+diagnosing hydrocephalus in people with aneurysmal subarachnoid haemorrhage, is more
+expensive and is a difficult procedure for people who are unwell.
+The committee noted that acute hydrocephalus can lead to severe disability or death if not
+treated promptly by drainage or diversion of cerebrospinal fluid. There was no evidence on
+the effectiveness of different techniques for drainage or diversion in acute hydrocephalus.
+The committee agreed that either drainage or diversion could be considered. They also
+made a recommendation for research on managing acute hydrocephalus.
+Chronic hydrocephalus
+There was little evidence to inform recommendations on diagnosing and managing chronic
+hydrocephalus. Based on their experience, the committee agreed that chronic
+hydrocephalus is uncommon and typically presents several weeks or months after an
+aneurysmal subarachnoid haemorrhage, with reduced consciousness, gait disturbance or
+other neurological symptoms. As with acute hydrocephalus, the committee agreed that
+chronic hydrocephalus is suspected based on symptoms and signs and a diagnosis should
+be confirmed based on a comparison of current CT head scans with previous CT or other
+head scans.
+In current clinical practice most people with persisting or progressive symptoms and
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 38 of
+conditions#notice-of-rights). 49
+--- Страница 39 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+radiological evidence of ventricular dilatation are offered drainage of cerebrospinal fluid,
+which improves symptoms in the majority. If the likelihood of symptom improvement is
+uncertain, some clinicians advocate a trial of temporary drainage, for example, serial
+lumbar punctures, before considering permanent diversion of cerebrospinal fluid. The
+committee agreed with this approach.
+The committee discussed making a recommendation for research on chronic
+hydrocephalus but concluded that research in this area might not be feasible within a
+reasonable time frame and have little impact on clinical practice.
+How the recommendations might affect practice
+The recommendations reflect current practice.
+Return to recommendations
+Intracranial hypertension
+Recommendation for research
+Why the committee did not make a recommendation
+There was little evidence on diagnosing and treating intracranial hypertension. The
+committee agreed that the diagnostic accuracies of transcranial doppler and ultrasound
+measurement of optic nerve sheath diameter are too low for reliable detection of
+intracranial hypertension when compared with direct intracranial pressure measurement.
+The committee also acknowledged that there is no evidence that interventions to lower
+intracranial pressure improve clinical outcome.
+The committee agreed that raised intracranial pressure is common in people with
+aneurysmal subarachnoid haemorrhage, but intracranial hypertension that impedes blood
+flow to the brain and contributes to brain injury is generally only seen in the most severely
+ill. These people are usually unconscious or need ventilation in an intensive care unit. They
+are a heterogeneous population and management varies widely, with some clinicians
+advocating routine monitoring of intracranial pressure to guide intervention (such as
+drainage of cerebrospinal fluid, hypertonic saline or vasopressor therapy) to lower
+intracranial pressure and maintain cerebral perfusion. Other clinicians favour management
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 39 of
+conditions#notice-of-rights). 49
+--- Страница 40 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+without intracranial pressure monitoring.
+Intracranial pressure can be monitored by inserting an intracranial pressure bolt or using
+an external ventricular drain inserted to manage acute hydrocephalus. The committee
+acknowledged that insertion of a pressure bolt is associated with risk, and monitoring of
+intracranial pressure will only improve outcome if it leads to effective intervention.
+The committee debated the variation in current practice and were not able to reach a
+consensus on the role of interventions to diagnose and treat intracranial hypertension, and
+so they made a recommendation for research.
+Return to recommendation for research
+Delayed cerebral ischaemia
+Recommendation 1.3.6
+Why the committee made the recommendation
+There was very little evidence on delayed cerebral ischaemia so the committee based the
+recommendation on their clinical experience. They noted that current practice for
+managing delayed cerebral ischaemia is to maintain cerebral blood flow to prevent or limit
+cerebral infarction. Intravenous fluid is usually given to ensure euvolemia and if symptoms
+persist a vasopressor is administered to raise systemic blood pressure. The committee
+agreed with this approach, but added that the improvements seen after these measures
+may be temporary, and there was no evidence of impact on longer-term outcomes.
+Treatment for people whose condition is not improved by vasopressor therapy varies
+widely. Some clinicians recommend cerebral angiography and intra-arterial therapies,
+including intra-arterial vasodilators and angioplasty. However, the committee were unable
+to reach a consensus on the use of intra-arterial therapies. They made recommendations
+for research on intra-arterial therapies to manage delayed cerebral ischaemia and
+vasopressors to manage delayed cerebral ischaemia.
+How the recommendation might affect practice
+The recommendation reflects current practice.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 40 of
+conditions#notice-of-rights). 49
+--- Страница 41 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Return to recommendation
+Follow-up care plan
+Recommendations 1.4.1 and 1.4.2
+Why the committee made the recommendations
+Evidence from surveys and interviews with people who had an aneurysmal subarachnoid
+haemorrhage showed that those who did not receive clear information about their medical
+care after discharge felt anxious and 'abandoned'. Those who were given this information,
+together with details of who to contact for ongoing advice, said they felt more supported.
+The committee agreed that the follow-up care plan should be included in the person's
+medical record and discharge correspondence.
+How the recommendations might affect practice
+The amount and quality of information given to people about follow-up care after an
+aneurysmal subarachnoid haemorrhage varies. This recommendation can be expected to
+improve the provision of this information.
+Return to recommendations
+Follow-up neuroimaging
+Recommendation 1.4.4
+Why the committee made the recommendation
+No clinical evidence was found on follow-up neuroimaging. Based on their knowledge and
+experience, the committee agreed that there is a risk of aneurysm recurrence, progression
+of non-culprit aneurysms and formation of new aneurysms. They agreed that follow-up
+imaging should be considered, based on the person's clinical situation and risk factors.
+How the recommendation might affect practice
+The recommendation reflects current practice.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 41 of
+conditions#notice-of-rights). 49
+--- Страница 42 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Return to recommendation
+Managing non-culprit (unruptured) aneurysms
+Recommendations 1.4.5 to 1.4.7
+Why the committee made the recommendations
+There was not enough good evidence to enable the committee to recommend a preferred
+management option for non-culprit aneurysms, although they agreed that the risk of a
+non-culprit aneurysm rupturing is higher in people who have had an aneurysmal
+subarachnoid haemorrhage than those who have not. Based on their experience, the
+committee agreed that the overall probability of a non-culprit aneurysm rupturing is low, so
+interventional treatment of all non-culprit aneurysms is unlikely to be a cost-effective
+strategy. They agreed that conservative management usually includes monitoring of the
+aneurysm with MRA to detect changes in the aneurysm's size or shape. The committee
+were in agreement that the frequency of monitoring should be based on a balance
+between the risks of aneurysm rupture and the risks of interventional treatment, and take
+into account multidisciplinary team, neuroradiological and neurosurgical opinion, and the
+person's preferences.
+The committee's experience was that people with unruptured aneurysms who are offered
+conservative management are often anxious about the possibility of a future rupture. They
+therefore recommended that all treatment options be discussed with the person.
+How the recommendations might affect practice
+Current management of unruptured aneurysms varies. The recommendations are not
+expected to lead to substantial changes in practice.
+Return to recommendations
+Managing other conditions after discharge from
+hospital
+Recommendations 1.4.8 to 1.4.14
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 42 of
+conditions#notice-of-rights). 49
+--- Страница 43 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Why the committee made the recommendations
+Hypertension
+Uncontrolled hypertension is recognised to be a risk factor for aneurysmal subarachnoid
+haemorrhage and may pose a greater risk to people with a history of this type of stroke.
+The committee agreed that blood pressure should be controlled in line with the NICE
+guideline on hypertension in adults.
+There was no evidence on long-term blood pressure control specifically for people with a
+history of aneurysmal subarachnoid haemorrhage, so the committee made a
+recommendation for research on blood pressure targets.
+Conditions treated with an antiplatelet or anticoagulant
+There was little evidence about the effect of an antiplatelet or anticoagulant on the risk of
+recurrent intracranial bleeding. The committee agreed that, in their experience, these
+medicines are safe for people with a secured aneurysm following an aneurysmal
+subarachnoid haemorrhage. For people with a higher risk of recurrence, specialist advice
+should be sought to judge the balance between the risk of recurrent or new intracranial
+bleeding and the risk of athero-embolic events.
+Smoking
+The committee noted that smoking can be a risk factor for an initial subarachnoid
+haemorrhage. They agreed that smoking cessation interventions, in addition to benefiting
+general health, may also reduce the risk of recurrent subarachnoid haemorrhage.
+Headaches
+The committee agreed, based on their experience, that people who develop headaches
+after recovering from an aneurysmal subarachnoid haemorrhage can become anxious and
+worry that their headache indicates new aneurysmal bleeding or a complication of the
+treatment they had for their aneurysm. This can lead to morbidity, multiple presentations
+to healthcare professionals and unnecessary investigations. There was no evidence on
+specific long-term medicines to relieve headaches as a consequence of subarachnoid
+haemorrhage. The committee agreed that headache should be assessed, diagnosed and
+managed in line with NICE's guideline on headaches in over 12s.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 43 of
+conditions#notice-of-rights). 49
+--- Страница 44 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+The committee agreed, based on their experience, that headaches are common and
+generally benign in people who have had a subarachnoid haemorrhage, but in some
+people may indicate chronic hydrocephalus.
+Seizures
+The committee agreed that people who have had an aneurysmal subarachnoid
+haemorrhage have an increased risk of seizures and epilepsy. There was no evidence on
+the use of long-term antiseizure medicines to prevent or relieve seizures in this population.
+They agreed that seizures after an aneurysmal subarachnoid haemorrhage should be
+treated in line with NICE's guidance on diagnosing and managing epilepsies.
+How the recommendations might affect practice
+The recommendations on hypertension, smoking, headaches and seizures are not
+expected to change practice. The recommendations on managing conditions treated with
+antiplatelets or anticoagulants may reduce delays in prescribing these medicines for
+people who have had a successfully treated aneurysmal subarachnoid haemorrhage.
+Although specialist input may be needed, this is not expected to have a large impact on
+services.
+Return to recommendations
+Investigations to detect aneurysms in relatives
+Recommendation 1.4.15
+Why the committee made the recommendation
+No evidence was found on investigating relatives for intracranial aneurysms. The
+committee recognised that first-degree relatives of people who have had an aneurysmal
+subarachnoid haemorrhage are at higher risk of intracranial arterial aneurysm than the
+general population. The committee agreed that investigating for aneurysms in first-degree
+relatives may produce health benefits but could also lead to harm, including unnecessary
+anxiety and a consequent increase in visits to GPs and emergency departments. Moreover,
+the optimal timing and frequency of investigations to detect and monitor intracranial
+aneurysms in first-degree relatives is unknown.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 44 of
+conditions#notice-of-rights). 49
+--- Страница 45 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+The committee were aware that the NHS does not currently support routine screening for
+intracranial arterial aneurysms in relatives and any change in NHS policy could have a
+significant resource impact.
+The committee acknowledged that in current practice investigation is typically only
+recommended for people thought to have a significant risk of having a brain aneurysm that
+could rupture at some point in the future, and this would usually only apply to people with
+2 or more first-degree relatives who have had an aneurysmal subarachnoid haemorrhage.
+This reflects the advice given on the NHS website on screening for brain aneurysms.
+The committee agreed that the lack of evidence for routine testing of relatives and current
+practice on testing should be explained to people who have had a subarachnoid
+haemorrhage, and their families as appropriate. Given the importance of this issue and the
+lack of evidence, the committee made a recommendation for research on investigations
+for relatives.
+How the recommendation might affect practice
+The recommendation is not expected to lead to a change in practice.
+Return to recommendation
+Information and support
+Recommendations 1.5.1 to 1.5.11
+Why the committee made the recommendations
+Evidence from studies using surveys and interviews with people who have had an
+aneurysmal subarachnoid haemorrhage showed that they value information that is clear,
+concise and tailored to their own needs. Participants in the studies highlighted how
+difficult it was to remember information given to them verbally at the time of hospital
+admission and the need to have this information in a written form that they can take home
+at discharge. They also stressed the importance of information about their medical care
+and what to expect after discharge, including common symptoms, possible complications
+and where they can get advice and support.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 45 of
+conditions#notice-of-rights). 49
+--- Страница 46 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+The committee used their experience to agree topics that should be included, as a
+minimum, in the information given. They highlighted the importance of ease of access to
+information for people throughout their care pathway.
+In the committee's experience, some people want information about the risk of recurrence
+of subarachnoid haemorrhage and some do not. They agreed that discussions should
+include the effect of individual variables on the person's risk of recurrence. The committee
+discussed the lack of a validated risk tool to inform estimates of individual risk and made a
+recommendation for research on a risk stratification tool to estimate risk of recurrence.
+How the recommendations might affect practice
+The content, delivery and quality of information given to people with aneurysmal
+subarachnoid haemorrhage varies widely. The recommendations are expected to
+encourage discussion that is tailored to the person's preferences.
+Return to recommendations
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 46 of
+conditions#notice-of-rights). 49
+--- Страница 47 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Context
+Subarachnoid haemorrhage is a bleed into the fluid-filled subarachnoid space around the
+brain and spinal cord. Spontaneous subarachnoid haemorrhage accounts for 5% of all
+strokes and is estimated to occur in 2 to 20 people per 100,000 per year. In around 80% of
+people, the bleed arises from rupture of an intracranial arterial aneurysm. Aneurysmal
+subarachnoid haemorrhage is slightly more common in women than men, and can occur
+across a wide range of ages with a median age at presentation between 50 and 60.
+The main symptom of subarachnoid haemorrhage is a sudden and severe 'thunderclap'
+headache but there may also be neck stiffness, altered consciousness or seizures. The
+condition is more easily diagnosed in people presenting with severe symptoms,
+unconsciousness or sudden onset acute headache but some people with subarachnoid
+haemorrhage present with less severe or non-specific symptoms and signs. A high index
+of suspicion and holistic clinical assessment are therefore required to avoid missed
+diagnoses.
+Urgent investigation to confirm a diagnosis of subarachnoid haemorrhage facilitates
+treatment to prevent rebleeding from the ruptured aneurysm and reduces disability and
+death. Although outcomes for people with subarachnoid haemorrhage have slowly
+improved, the risk of death remains high and those who survive are often severely
+disabled. This guideline aims to improve the speed and accuracy of diagnosis and the
+effectiveness of treatment. It provides recommendations based on current evidence
+covering initial assessment, diagnostic investigations, treatment options, management of
+complications and follow-up care. It also identifies areas where evidence is lacking and
+recommends research to help inform future guidance.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 47 of
+conditions#notice-of-rights). 49
+--- Страница 48 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Finding more information and committee
+details
+To find NICE guidance on related topics, including guidance in development, see the NICE
+topic page on cranial aneurysms.
+For full details of the evidence and the guideline committee's discussions, see the
+evidence reviews. You can also find information about how the guideline was developed,
+including details of the committee.
+NICE has produced tools and resources to help you put this guideline into practice. For
+general help and advice on putting our guidelines into practice, see resources to help you
+put NICE guidance into practice.
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 48 of
+conditions#notice-of-rights). 49
+--- Страница 49 ---
+Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
+(NG228)
+Update information
+Minor changes since publication
+September 2023: We amended recommendation 1.1.11 to add that any alternative
+diagnoses should be discussed with a senior clinical decision-maker.
+ISBN: 978-1-4731-4815-4
+© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 49 of
+conditions#notice-of-rights). 49

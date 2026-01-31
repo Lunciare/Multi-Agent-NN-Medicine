@@ -1,0 +1,238 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "A sick elderly patient with nonspecific symptoms - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:37:58.192590",
+  "file_size_bytes": 12246754,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/A sick elderly patient with nonspecific symptoms - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:25 A sick elderly patient with nonspecific symptoms - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  A sick elderly patient with nonspecific symptoms
+Pendell Meyers onMay 28, 2025
+A sick elderly patient with
+nonspecific symptoms
+Written by Pendell Meyers
+An elderly woman summoned EMS for generalized weakness and
+multiple vague complaints. She was confused and ill appearing.
+Here is her EMS ECG:
+What do you think?
+ 
+
+https://drsmithsecgblog.com/a-sick-elderly-patient-with-nonspecific/ 1/10
+--- Страница 2 ---
+22/01/2026, 15:25 A sick elderly patient with nonspecific symptoms - Dr. Smith’s ECG Blog
+Without other ECGs (below), the rhythm differential could include
+junctional/ventricular escape, or ventricular paced rhythm (with small
+or filtered-out pacing spikes), or other rhythms.
+Most importantly, the QRS duration is greater than 200 msec. The
+computerized QRSd is 218 msec.
+When over 200 msec, even during ventricular pacing, there is only a
+small list of possibilities:
+1) preexisting severe cardiomyopathy (with preexisting QRSd greater
+than 200)
+2) acute hyperkalemia, and/or acute sodium channel blockade.
+No common bundle branch block pattern or paced rhythm should be
+able to cause a QRS duration greater than 200 msec. We should
+assume hyperK and/or sodium channel blockade until proven
+otherwise, and indeed the T waves have a peaked hyperkalemic
+morphology in many leads.
+Here is her ECG on arrival at the ED:
+Now we can see pacer spikes, with the same QRS morphology as
+the first ECG, meaning the first ECG was also paced.
+An old ECG was available in the EMR from one month ago:
+https://drsmithsecgblog.com/a-sick-elderly-patient-with-nonspecific/ 2/10
+--- Страница 3 ---
+22/01/2026, 15:25 A sick elderly patient with nonspecific symptoms - Dr. Smith’s ECG Blog
+Also ventricular paced rhythm. Computer QRS duration 186 msec.
+Similar QRS morphology to the current ECGs, other than the
+absence of acutely superimposed hyperkalemic findings.
+So, at baseline 1 month ago, she has a paced rhythm with QRS
+duration 186 msec (on the wider end of the bell curve for baseline
+paced rhythms). Today, something (likely hyperkalemia) has caused
+additional QRS widening.
+Potassium returned at 7.4 mEq/L.
+The QRS duration improved with hyperkalemia treatment (ECG
+unavailable).
+She was diagnosed with rhabdomyolysis and acute renal failure. Final
+outcome is not available.
+Key point for learners:
+When the QRS duration exceeds 200 msec, and is not known to be so
+at baseline, you should assume severe hyperkalemia and/or sodium
+channel blockade toxicity until proven otherwise.
+Other related cases:
+A patient with cardiac arrest, ROSC, and right bundle branch block
+(RBBB).
+https://drsmithsecgblog.com/a-sick-elderly-patient-with-nonspecific/ 3/10
+--- Страница 4 ---
+22/01/2026, 15:25 A sick elderly patient with nonspecific symptoms - Dr. Smith’s ECG Blog
+An elderly patient with syncope, dyspnea, and weakness, but no Chest Pain,
+and mild hyperkalemia
+Is This a Simple Paced Rhythm?
+NO.
+the K is 6.8 and it results in a paced sine wave
+Is This a Simple Right Bundle Branch Block?
+Here is a case of RBBB with a K of 7.9 and QRS duration of 194 ms.
+Is this just right bundle branch block?
+https://drsmithsecgblog.com/a-sick-elderly-patient-with-nonspecific/ 4/10
+--- Страница 5 ---
+22/01/2026, 15:25 A sick elderly patient with nonspecific symptoms - Dr. Smith’s ECG Blog
+This ECG was texted to me with the text:
+“There is a history of RBBB but we do not have an image to compare this with. I interpret as RBBB with atrial fib. Anything else?”
+Hyperkalemia in the setting of Left Bundle Branch Block
+A dialysis patient presented with vomiting. He has known baseline left bundle branch
+block. Here is his initial ECG:
+There is left bundle branch block, with a QRS duration of 220 ms according to the computer analysis.
+Weakness and Dyspnea with a Sine Wave. It’s not what you think! (not
+hyperK!)
+Pendell Meyers onMay 28, 2025
+https://drsmithsecgblog.com/a-sick-elderly-patient-with-nonspecific/ 5/10
+--- Страница 6 ---
+22/01/2026, 15:25 A sick elderly patient with nonspecific symptoms - Dr. Smith’s ECG Blog
+HYPERK HYPERKALEMIA SODIUM CHANNEL BLOCKADE
+WIDE QRS
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+What happens when a If you saw this EKG
+clinic does not have completely isolated
+troponin testing for from clinical context,
+chest pain patients? how would you
+Stress testing? interpret it?
+Write a Comment
+SEARCH
+https://drsmithsecgblog.com/a-sick-elderly-patient-with-nonspecific/ 6/10
+--- Страница 7 ---
+22/01/2026, 15:25 A sick elderly patient with nonspecific symptoms - Dr. Smith’s ECG Blog
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/a-sick-elderly-patient-with-nonspecific/ 7/10
+--- Страница 8 ---
+22/01/2026, 15:25 A sick elderly patient with nonspecific symptoms - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/a-sick-elderly-patient-with-nonspecific/ 8/10
+--- Страница 9 ---
+22/01/2026, 15:25 A sick elderly patient with nonspecific symptoms - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Willy Frick onMay 30, 2025
+If you saw this EKG completely isolated from clinical
+context, how would you interpret it?
+Written by Willy Frick This blog has repeatedly made the point that
+ECGs must always be interpreted in clinical context. But…
+Steve Smith onJune 2, 2025
+Should you record posterior leads? Should you give
+thrombolytics for chest pain with this ECG (if PCI not
+available)?
+This was sent by Kirk Lufkin and was diagnosed by a Physician
+Assistant who works with him by the name of Danielle Hutcheson.
+They…
+https://drsmithsecgblog.com/a-sick-elderly-patient-with-nonspecific/ 9/10
+--- Страница 10 ---
+22/01/2026, 15:25 A sick elderly patient with nonspecific symptoms - Dr. Smith’s ECG Blog
+Steve Smith onJune 3, 2025
+Patient with Heart Transplant has ventricular fibrillation
+arrest — resuscitated
+2635859 A middle-aged male Immediate post-resuscitation. We
+were aware that ST Elevation can be a result of the low flow state in
+cardiac…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/a-sick-elderly-patient-with-nonspecific/ 10/10

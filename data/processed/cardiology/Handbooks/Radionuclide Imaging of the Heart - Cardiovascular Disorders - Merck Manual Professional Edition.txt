@@ -1,0 +1,228 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:59.007404",
+  "file_size_bytes": 570121,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:01 Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Radionuclide Imaging of the Heart
+By Thomas Cascino, MD, MSc, Michigan Medicine, University of Michigan;
+Michael J. Shea, MD, Michigan Medicine at the University of Michigan
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Dec 2023
+Radionuclide imaging uses a special detector (gamma camera) to create an image following injection of
+radioactive material. This test is done to evaluate
+Cardiac valvular disorders
+Cardiomyopathy
+Congenital cardiac disorders
+Coronary artery disease (CAD)
+Other cardiac disorders
+Radionuclide imaging can expose patients to similar amounts of radiation than do comparable
+computed tomography (CT) studies. However, because the radioactive material is retained in the patient
+briefly, sophisticated radiation alarms (eg, in airports) may be triggered by the patient for several days
+after such testing
+Single-Photon Emission Computed Tomography (SPECT)
+https://www.merckmanuals.com/professional/cardiovascular-disorders/cardiovascular-tests-and-procedures/radionuclide-imaging-of-the-heart 1/7
+--- Страница 2 ---
+22/01/2026, 14:01 Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
+SPECT in Recent-Onset Angina
+IMAGE
+IMAGE PROVIDED BY JAMES R. CORBETT, MD.
+Planar techniques, which produce a 2-dimensional image, are rarely used; SPECT, which uses a rotating
+camera system and tomographic reconstruction to produce a 3-dimensional image, is more common in
+the United States. With multihead SPECT systems, imaging can often be completed in ≤ 10 minutes.
+Visual comparison of stress and delayed images can be supplemented by quantitative displays. With
+SPECT, the following can be identified:
+Inferior and posterior abnormalities
+Small areas of infarction
+Vessels responsible for infarction
+The mass of infarcted and viable myocardium can be quantified, helping determine prognosis.
+Myocardial Perfusion Imaging
+In myocardial perfusion imaging, IV radionuclides are taken up by cardiac tissues in rough proportion to
+perfusion; thus, areas of decreased uptake represent areas of relative or absolute ischemia.
+Attenuation of myocardial activity by overlying soft tissue may cause false-positive results. Attenuation
+by breast tissue in women is especially common. Attenuation by the diaphragm and abdominal
+contents may produce spurious inferior wall defects in both sexes but is more common among men.
+99m
+Attenuation is more likely with technetium-99m ( Tc) than with radioactive thallium 201 (Tl-201).
+Indications
+Myocardial perfusion imaging is used with stress testing to
+Evaluate patients with chest pain of uncertain origin
+https://www.merckmanuals.com/professional/cardiovascular-disorders/cardiovascular-tests-and-procedures/radionuclide-imaging-of-the-heart 2/7
+--- Страница 3 ---
+22/01/2026, 14:01 Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
+Determine the functional significance of coronary artery stenosis seen on angiography
+Determine the functional significance of collateral vessels seen on angiography
+Evaluate the success of reperfusion interventions (eg, coronary artery bypass grafting
+[CABG], percutaneous intervention, thrombolysis)
+Estimate prognosis after myocardial infarction
+Nuclear Medicine Stress Test
+IMAGE
+LIVING ART ENTERPRISES/SCIENCE PHOTO LIBRARY
+After acute myocardial infarction, myocardial perfusion imaging can help estimate prognosis because it
+can show extent of the perfusion abnormality due to acute myocardial infarction, extent of scarring due
+to previous infarcts, and residual peri-infarct or other areas of reversible ischemia.
+Protocols and imaging agents
+Various protocols are used depending on the imaging agent, which include
+Radioactive thallium-201 (Tl-201)
+Technetium-99m (Tc-99m) markers (sestamibi, tetrofosmin, and teboroxime)
+Iodine-123 (I-123)–labeled fatty acids
+I-123 metaiodobenzylguanidine (MIBG)
+Radioactive thallium-201 (Tl-201), which acts as a potassium analog, was the original tracer used in
+stress testing. It is injected at peak stress and imaged with SPECT, followed 4 hours later by injection of
+half the original dose during rest and by repeat SPECT. The goal of this protocol is to evaluate reversible
+perfusion defects that may warrant intervention. After stress testing, the perfusion imbalance between
+normal coronary arteries and those distal to a stenosis appears as a relative decrease in Tl-201 uptake
+in the areas perfused by the stenosed arteries. Sensitivity of stress testing with Tl-201 for coronary
+artery disease is similar whether imaging is done after exercise stress or pharmacologic stress. The use
+https://www.merckmanuals.com/professional/cardiovascular-disorders/cardiovascular-tests-and-procedures/radionuclide-imaging-of-the-heart 3/7
+--- Страница 4 ---
+22/01/2026, 14:01 Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
+of Tl-201 has declined recently in favor of agents with improved image quality and lower radiation
+doses.
+Several technetium-99m (Tc-99m) myocardial perfusion markers have been developed because the
+imaging characteristics of Tl-201 are not ideal for the gamma camera. Markers include sestamibi
+(commonly used), tetrofosmin, and teboroxime (see table Technetium-99m Myocardial Perfusion
+Markers). Protocols include 2-day stress-rest, 1-day rest-stress, and 1-day stress-rest. Some protocols
+use dual isotopes (Tl-201 and Tc-99m), although this approach is expensive. With either of these
+markers, sensitivity is about 90%, and specificity is about 71% to detect coronary artery disease.
+For 2-day protocols, imaging at rest may be omitted if the initial stress test shows no evidence of
+abnormal perfusion. When higher doses of Tc-99m (> 30 millicurie) are used, first-transit function
+studies (with ventriculography) may be used with perfusion imaging.
+Other radionuclides include iodine-123 (I-123)–labeled fatty acids, which produces cold spots where
+myocardium is ischemic; gallium citrate-67 (Ga-67), which accumulates in sites of active inflammation
+(eg, in acute inflammatory cardiomyopathy); and I-123 metaiodobenzylguanidine, a neurotransmitter
+analog taken up and stored in neurons of the sympathetic nervous system and used in research to
+evaluate heart failure, diabetes, pheochromocytoma, certain arrhythmias, and arrhythmogenic right
+ventricular dysplasia.
+TABLE
+Technetium-99m (Tc-99) Myocardial Perfusion Markers
+Marker Characteristics
+Tc-99m sestamibi Myocardial uptake is slower than that
+with thallium, but there is little
+myocardial washout, allowing timing
+flexibility; patients with acute symptoms
+can be injected with sestamibi
+immediately and imaged several hours
+later.
+Uptake depends more on blood flow
+than on viable myocardium; viable
+regions with low blood flow may be
+misclassified as scar.
+Studies may be done on a single or on
+separate days, with a low initial dose
+during stress followed by a much higher
+dose at rest.
+With electrocardiography (ECG)-gated
+imaging, ventricular wall motion, wall
+https://www.merckmanuals.com/professional/cardiovascular-disorders/cardiovascular-tests-and-procedures/radionuclide-imaging-of-the-heart 4/7
+--- Страница 5 ---
+22/01/2026, 14:01 Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
+Marker Characteristics
+thickening, and ejection fraction can be
+estimated.
+Characteristics are similar to those of
+Tc-99m tetrofosmin
+sestamibi.
+First-pass extraction from the
+myocardium is high, with rapid washout;
+half of peak myocardial activity is gone
+by 10 minutes.
+Because of its rapid dynamics, use with
+treadmill exercise is difficult.
+Tc-99m teboroxime
+Studies suggest that stress-redistribution
+testing may be completed within 15
+minutes of pharmacologic stress.
+Coronary artery disease may be
+detectable by analyzing myocardial
+washout of the tracer after injection at
+rest without the need for stress.
+Infarct Avid Imaging
+Infarct avid imaging uses radiolabeled markers that accumulate in areas of damaged myocardium, such
+as Tc-99m pyrophosphate and antimyosin (indium-111 [In-111]–labeled antibodies to cardiac myosin).
+Images usually become positive 12 to 24 hours after acute myocardial infarction and remain positive for
+about 1 week; they may remain positive if myocardial necrosis continues post-myocardial infarction or if
+aneurysms develop. This technique is rarely used now because other diagnostic tests for myocardial
+infarction (eg, biomarkers) are more readily available and less expensive and because it provides no
+prognostic information other than infarct size.
+Tc-99m pyrophosphate is now being used similarly to evaluate cardiac involvement in transthyretin
+amyloidosis (a type of amyloidosis in which sheets of misfolded transthyretin protein can accumulate in
+tissues, including the heart). Transthyretin amyloid deposits in the myocardium are particularly avid for
+Tc-99m pyrophosphate. Absent serum and urine manifestations of a light chain amyloidosis (which also
+can infiltrate the myocardium and result in a positive scan) or a recent infarct, a high ratio of uptake in
+the myocardium is specific for transthyretin cardiac amyloidosis and can eliminate the need for
+myocardial biopsy.
+Radionuclide Ventriculography
+https://www.merckmanuals.com/professional/cardiovascular-disorders/cardiovascular-tests-and-procedures/radionuclide-imaging-of-the-heart 5/7
+--- Страница 6 ---
+22/01/2026, 14:01 Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
+Radionuclide ventriculography is used to evaluate ventricular function. It is useful for measuring resting
+and exercise ejection fraction in coronary artery disease, valvular heart disease, and congenital heart
+disease. Some clinicians prefer it for serial assessment of ventricular function in patients taking
+cardiotoxic cancer chemotherapy (eg, anthracyclines). However, radionuclide ventriculography has been
+largely replaced by echocardiography, which is less expensive, does not require radiation exposure, and
+theoretically can measure ejection fractions as accurately.
+Tc-99m–labeled red blood cells are injected intravenously. Left ventricular (LV) and right ventricular (RV)
+function can be evaluated by
+First-transit studies (a type of beat-to-beat evaluation)
+Gated (electrocardiography [ECG]-synchronized) blood pool imaging done over several
+minutes (multiple-gated acquisition [MUGA])
+Either study can be done during rest or after exercise. First-transit studies are rapid and relatively easy,
+but MUGA provides better images and is more widely used.
+In first-transit studies, 8 to 10 cardiac cycles are imaged as the marker mixes with blood and passes
+through the central circulation. First-transit studies are ideal for assessing RV function and intracardiac
+shunts.
+In MUGA, imaging is synchronized with the R wave of the ECG. Multiple images are taken of short,
+sequential portions of each cardiac cycle for 5 to 10 minutes. Computer analysis generates an average
+blood pool configuration for each portion of the cardiac cycle and synthesizes the configurations into a
+continuous cinematic loop resembling a beating heart.
+MUGA can quantitate numerous indexes of ventricular function, including regional wall motion, ejection
+fraction (EF); ratio of stroke volume to end-diastolic volume, ejection and filling rates, LV volume, and
+indexes of relative volume overload (eg, LV:RV stroke volume ratios). EF is used most commonly.
+MUGA during rest has virtually no risk. It is used for serially evaluating RV and LV function in various
+disorders (eg, valvular heart disorders); for monitoring patients taking potentially cardiotoxic drugs (eg,
+doxorubicin); and for assessing the effects of angioplasty, coronary artery bypass grafting (CABG),
+thrombolysis, and other procedures in patients with CAD or myocardial infarction. Arrhythmias are a
+relative contraindication because there may be few normal cardiac cycles.
+Left ventriculography
+MUGA is useful for detecting left ventricular aneurysms; sensitivity and specificity are > 90% for typical
+anterior or anteroapical true aneurysms. Conventional gated blood pool imaging shows inferoposterior
+LV aneurysms less well than it shows anterior and lateral aneurysms; additional views are required.
+Gated SPECT imaging takes longer (about 20 to 25 minutes with a multihead camera) than a single
+planar gated view (5 to 10 minutes) but shows all portions of the ventricles.
+Right ventriculography
+https://www.merckmanuals.com/professional/cardiovascular-disorders/cardiovascular-tests-and-procedures/radionuclide-imaging-of-the-heart 6/7
+--- Страница 7 ---
+22/01/2026, 14:01 Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
+MUGA is used to assess right ventricular function in patients who have a lung disorder or an inferior left
+ventricular infarct that may involve the RV. Normally, right ventricular ejection fraction (40 to 55% with
+most techniques) is lower than left ventricular ejection fraction. RVEF is low in many patients with
+pulmonary hypertension and in patients with RV infarction or cardiomyopathy affecting the RV.
+Idiopathic cardiomyopathy is usually characterized by biventricular dysfunction, unlike typical coronary
+artery disease, which usually causes more left ventricular than right ventricular dysfunction.
+Valve assessment
+MUGA can be used with rest-stress protocols to assess valvular disorders that result in left ventricular
+volume overload. In aortic regurgitation, a reduction in resting EF or no increase in EF with exercise is a
+sign of deteriorating cardiac function and may indicate a need for valvular repair. MUGA also can be
+used to calculate the regurgitant fraction in regurgitation of any valve. Normally, the stroke volume of
+the 2 ventricles is equal. However, in patients with left-sided valvular regurgitation, LV stroke volume
+exceeds that of the right ventricle by an amount proportional to the regurgitant fraction. Thus, if the RV
+is normal, the regurgitant fraction of the LV can be calculated from the LV:RV stroke volume ratio.
+Shunt assessment
+With MUGA and commercially available computer programs, size of a congenital shunt can be
+quantified by the stroke volume ratio or, during the first transit of the marker, by the ratio of abnormal
+early pulmonary recirculation of radioactivity to total pulmonary radioactivity.
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/cardiovascular-tests-and-procedures/radionuclide-imaging-of-the-heart 7/7

@@ -1,0 +1,468 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Restenosis - wikidoc.pdf",
+  "converted_date": "2026-01-31T14:36:52.102059",
+  "file_size_bytes": 434948,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Restenosis - wikidoc.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 16:10 Restenosis - wikidoc
+Search WikiDoc
+Search Try Exact Match
+Restenosis
+Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailto:charlesmichaelgibson@gmail.com),
+Associate Editor(s)-In-Chief:: Bhaskar Purushottam, M.D. [2] (mailto:bpurushottam@gmail.c
+om)
+Overview
+Restenosis literally means the reoccurrence of stenosis. This is usually restenosis of an artery, or
+other blood vessel, but possibly any hollow organ that has been "unblocked". This term is common
+in vascular surgery, cardiac surgery, interventional radiology, or interventional cardiology
+following angioplasty, all branches of medicine that frequently treat stenotic lesions. In simple
+words, coronary restenosis can be considered as the reduction in the lumen diameter after a
+percutaneous coronary intervention (PCI), which induces iatrogenic arterial injury and results in
+neointimal tissue proliferation.[1] It can be defined based on angiography or as clinical restenosis.
+By angiography, the term 'Binary Angiographic Re-stenosis' is defined as > 50% luminal narrowing
+at follow-up angiography.[2] However, the most widely accepted and relevant definition would be a
+'Clinical Re-stenosis', which is defined as need for a repeat target lesion revascularization (TLR)
+due to symptomatic coronary ischemia from the previously intervened vessel (proposed by the
+Academic Research Consortium). Therefore, this definition needs angiographic narrowing as well
+as clinical correlation. If the lesion does not meet angiographic criteria, but meets the criteria for a
+physiologically significant lesion by fractional flow reserve (FFR) or anatomically by intravascular
+ultrasound (IVUS) with the appropriate clinical context, it is still considered 'Clinical Re-stenosis'.
+PCI has evolved significantly from plain balloon angioplasty to the development of biodegradable
+stents in the last few decades. Currently, almost all coronary interventions use a bare metal stent
+(BMS) or more so a drug eluting stent (DES). Hence, the discussion in the following paragraphs
+will focus on in-stent re-stenosis of drug eluting and bare metal stents.
+Coronary Restenosis
+There are probably several mechanisms that lead to restenosis. An important one is the
+inflammatory response, which induces tissue proliferation around an angioplasty site.
+Cardiologists have tried a number of approaches to decrease the risk of restenosis. Stenting is
+becoming more commonplace; replacing balloon angioplasty. During the stenting procedure, a
+metal mesh (stent) is deployed against the wall of the artery revascularizing the artery. Other
+approaches include local radiotherapy and the use of immunosuppressive drugs, coated onto the
+stenting mesh. Analogues of rapamycin, such as tacrolimus (FK-506), sirolimus and more so
+everolimus, normally used as immunosuppressants but recently discovered to also inhibit the
+proliferation of vascular smooth muscle cells, have appeared to be quite effective in preventing
+restenosis in clinical trials. Antisense knockdown of c-myc, a protein critical for progression of cell
+replication, is another approach to inhibit cell proliferation in the artery wall and has been through
+preliminary clinical trials using Morpholino oligos.
+Histopathology and Molecular Mechanisms
+Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
+https://www.wikidoc.org/index.php/Restenosis 1/10
+--- Страница 2 ---
+22/01/2026, 16:10 Restenosis - wikidoc
+Restenosis can considered a local vascular manifestation of the general biological response to
+arterial wall injury. Following vessel wall injury with endothelium damage, the exposure of tunica
+media to the flowing blood results in platelet adhesion to the media's collagen via the Von
+Williebrand factor. This results in platelet activation, which is followed by aggregation and soon
+evolving into a vicious cycle, which feeds and nurtures itself till a clot is formed from the
+coagulation cascade (which is activated from the tissue thromboplastin released from the media
+following vessel wall injury) and fibrin. Basically, this phenomenon can be considered synonymous
+to hemostasis. Activated platelets express adhesion molecules, to which circulating leukocytes
+attach and begin the process of leukocyte migration. Also during this process, several chemotactic
+factors are released and multiple adhesion molecules are expressed by various activated
+inflammatory cells in the vicinity of the inflammation, which cause chemotaxis of leukocytes to the
+core of the inflammation. Growth factors, cytokines and adhesion molecules released and
+expressed by platelets, leukocytes and other inflammatory cells, result in the migration of vascular
+smooth muscle cells from the media and proliferation with resultant neo-intima formation [3] [4]
+[5]. Hence, neo-intima consists of vascular smooth muscle cells, macrophages and extracellular
+matrix, which has formed over several weeks.
+When reading through the above process, we realize that plaque rupture and stent thrombosis uses
+the same tools of inflammation mentioned above. The phenomenon of stent thrombosis and acute
+coronary syndrome can be thought of as an acute phenomenon, evolving in minutes to a couple of
+hours. Thus, depending on several factors (which favor acute thrombosis) the above mentioned
+process can evolve very quickly resulting in thrombosis of the coronary vessel. This process can
+then follow any of the pathways:
+• the patient seeks immediate help and the percutaneous coronary intervention can open up the
+vessel and prevent progression of the acute coronary syndrome
+• the patient fails to seek help and can die from a massive myocardial infarction
+• sometimes, without seeking help, the patient lives through this coronary thrombosis and the
+clot becomes organised and recanalised.
+In more simple words, coronary restenosis can be thought of as a sub-acute to chronic vascular
+inflammatory response to iatrogenic controlled injury; while stent thrombosis is an acute vascular
+response resulting in acute thrombosis and a high propensity to cause sudden death or significant
+morbidity.
+In balloon angioplasty, the lumen size is increased from its baseline diseased state through the
+dilatation of the balloon at the site of the diseased region. However, the elastic recoil (of the
+artery), negative remodeling, contraction and finally neo-intima formation, results in restenosis.
+Also, to be noted is the fact that there is a 30% risk of abrupt closure of the vessel from acute
+thrombosis from plain balloon angioplasty as it is a form of vascular injury too (iatrogenic
+controlled injury). Based on individual clinical and angiographic characteristics, some patients
+develop this fatal complication, while others do not.
+In stent implantation, the lumen size is increased from its baseline diseased state and has a better
+patency than plain balloon angioplasty, as the stent scaffold holds the vessel open; therefore the
+component of elastic recoil and negative remodeling is reduced significantly. Thus the restenosis
+rates are lower in BMS when compared to plain balloon angioplasty, as the elastic recoil and
+negative remodeling is virtually eliminated. Hence, the final lumen size is greater and neo-intima
+formation does not materialize into clinical restenosis as seen to occur more commonly with
+balloon angioplasty. Similarly, it is well known that DES has a lower re-stenosis rate than BMS as
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+the DES have the added advantage of releasing anti-stenotic drug which can retard the neo-intima
+https://www.wikidoc.org/index.php/Restenosis 2/10
+--- Страница 3 ---
+22/01/2026, 16:10 Restenosis - wikidoc
+formation. Rapamycin, an immunosuppresant agent approved by the FDA, inhibits both rat and
+human vascular smooth muscle proliferation and migration in vitro. A study investigated (1)
+whether rapamycin administration could reduce neointimal thickening in a porcine model of
+restenosis post-PTCA and (2) the mechanism by which rapamycin inhibits VSMCs in vivo. It was
+found that rapamycin administration significantly reduced the arterial proliferative response after
+PTCA in the pig by increasing the level of the CDKI p27(kip1) and inhibition of the pRb
+phosphorylation within the vessel wall. Therefore, pharmacological interventions that elevate
+CDKI in the vessel wall and target cyclin-dependent kinase activity may have a therapeutic role in
+the treatment of restenosis after angioplasty in humans[6]. These common pathways finally act on
+the cell cycle and result in vascular smooth muscle cell proliferation. Given that the anti-stenotic
+drug of DES act at the level of the cell cycle, they are thus the most effective strategy available to
+prevent coronary restenosis after a percutaneous coronary intervention.
+Once again, there are several other factors involved in re-stenosis of BMS and DES (as discussed
+below).
+Coronary re-stenosis can be considered in two different settings of a percutaneous coronary
+intervention:
+• In pure balloon angioplasty (in the absence of stenting)- Following balloon angioplasty, there is
+injury to the vessel wall, which triggers the expected inflammatory response from the vessel
+wall. Hence, there is elastic recoil, negative remodelling (reduction in lumen size due to the
+healing process) or contraction, thrombus at the site of injury (i.e., release of prothrombotic
+thromboplastin like material from the vessel wall, exposure of the collagen of the media),
+smooth muscle proliferation and migration and excessive extracellular matrix production.
+• With stenting- Stenting prevents elastic recoil and negative remodelling. However, neointimal
+formation progresses and causes re-stenosis, which is reduced with antistenotic drugs.
+Restenosis in patients after stent implantation is caused predominantly by neointimal
+hyperplasia. However neointima formation in plain balloon angioplasty has a minor role.[7] [8]
+Through immunohistochemical identification, it has been shown that there is a steady
+accumulation of macrophages within stented segments (with clustering of macrophages around
+stent struts), where as there virtually no accumulation within balloon-injured segments of pure
+balloon angioplasty.[9] [10]
+The porcine model of in-stent restenosis (ISR) has demonstrated the formation of a thick
+neointima in 28 days-which may be the reason as to why the earlier DES released their antistenotic
+drug by the end of 30 days. However, it is well known that the peak period of ISR development in
+humans is approximately 3 to 6 months-hence the newer DES are aiming to release the drug for an
+extended period. Interestingly, in these porcine models they found a positive correlation between
+the inflammatory infiltrate, degree of arterial injury and extent of stent strut penetration into the
+vessel wall with the neointimal thickness. Interestingly, in a rat model of carotid artery dilatation
+the gate-keeper step in initiating vascular smooth muscle cell proliferation from tunica media to
+intima is the rupture of internal elastic lamina.[11] [8]
+The above mentioned responses and time periods were in porcine models with near normal
+coronaries and this may not be the case in humans who have had balloon angioplasty, BMS and
+DES for atherosclerotic lesions. The inflammatory response in DES is very different in terms of cell
+composition and timing, when compared to balloon angioplasty and BMS and also among the
+different DES. These differences could be explained by the presence of various forms of polymer
+among DES. For example, the inflammatory response (predominantly giant cell infiltrates) to
+Sirolimus DES has been shown to persist beyond 180 days and up to 2 years. In contrast, the
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+inflammatory response to BMS and the second generation Everolimus DES (which has a more
+https://www.wikidoc.org/index.php/Restenosis 3/10
+--- Страница 4 ---
+22/01/2026, 16:10 Restenosis - wikidoc
+biocompatible polymer) has been limited to 90 days and 12 months, respectively. Evidence of such
+persistence of inflammatory response has been found in autopsy cases and from thrombus
+aspirates taken from patients during percutaneous coronary intervention for late stent thrombosis.
+As mentioned earlier, the neointima consists of the hyperplastic vascular smooth muscle cells and
+the extracellular protein rich matrix. The current evidence points to the fact that these smooth
+muscle cells are of luminal origin, however, there is data that indicates that they can be of
+adventitial origin too.[12] [13] The later stages of restenosis is contributed predominantly by the
+deposition of extracellular matrix.[14] [15]
+After reviewing the existing evidence, it seems that migration and proliferation of vascular smooth
+muscle cells form the major final common pathway for restenosis. In the presence of growth
+factors and cytokines, these vascular smooth cells undergo a phenotypic modulation from a
+contractile state to a synthetic phenotype. Hence, most of the molecular research in the past few
+years has been focused on understanding the common pathways that multiple receptors employ to
+transmit mitogenic signals from the cell membrane to the nucleus of the vascular smooth cells after
+arterial injury.[16] [17] The three common pathways which result in pathological mitosis of the
+vascular smooth cells are:
+• Ras-raf mitogen activated protein kinase
+• Cyclic adenosine monophosphate-protein kinase dependent signalling
+• Cyclin dependent kinase complexes
+Several rat models have shown that alteration of these pathways can worsen or prevent neo initmal
+formation.[18]
+Pathophysiology
+In this section we will discuss the etiological and various pathophysiological factors, which lead to
+restenosis.
+DES predominantly consist of 3 elements:
+• Scaffold or the stent platform, which forms the skeleton of the stent (this made of stainless
+steel or cobalt chromium).
+• The antistenotic drug (such as paclitaxel, everolimus, etc).
+• The polymer or the carrier on which the drug is mounted.
+Unlike, the DES the BMS consist only the scaffold or the platform.
+The pathophysiology seems to be the interplay of clinical characteristics, biological factors,
+mechanical factors, technical factors and finally de-novo lesions which arise within the stent itself.
+The various pathophysiological factors are discussed as follows:
+• Biological and Genetic Factors:
+• Drug Resistance: Recent studies have revealed a genetic basis for drug resistance.[19]
+Depending on the penetrance and expressivity of these mutations, the sensitivity to these
+drugs vary. This resistance can be the result of inherited genetic mutations or acquired
+following the exposure of a cytotoxic drug.[20] [21]
+• Genetic Factors Affecting the Inflammatory Response: Polymorphism of glycoprotein IIIa
+and a mutant form of methylenetetrahydrofolate reductase appear to increase the risk of
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ISR.[22] Interestingly, allele 2 of interleukin IL-1ra gene appears to be protective. However,
+https://www.wikidoc.org/index.php/Restenosis 4/10
+--- Страница 5 ---
+22/01/2026, 16:10 Restenosis - wikidoc
+these are just some of the genetic factors which have been identified in the causation of ISR.
+Hence, there remains the possibility of complex multigenic abnormalities (interplay of
+multiple variant forms of genes and environmental factors), which can play a significant role
+in ISR. These identified and yet to be identified genetic factors may explain as to why some
+patients develop ISR and some don’t despite identical clinical factors and stent
+characteristics.
+• Hypersensitivity: The implantation of these stents is recognized as foreign antigens and
+hence a hypersensitivity reaction [23] can be triggered, which can lead to ISR. As mentioned
+earlier, the DES has 3 components and the BMS has only the scaffold, which can all
+contribute towards this hypersensitivity reaction.
+•
+•
+• Stent Platform: The stent platforms of the BMS and first generation DES (paclitaxel and
+sirolimus) is made up of 316L stainless steel, which contains more nickel and
+molybdenum than the second generation DES, where the scaffold is made up of cobalt
+chromium. This nickel and molybdenum are known to trigger these hypersensitivity
+reactions.[24] Interestingly, to date, no prospective studies have confirmed this
+association.
+•
+•
+• Polymer: The durable polymer which remains covering the stent after releasing the anti-
+stenotic drug has known to cause hypersensitivity and is suspected as the culprit for
+stent thrombosis and progressive or late re-stenosis.
+•
+•
+• Matrix Metalloproteinases: Circulating matrix metalloproteinase(MMP) have been
+associated with ISR as they play significant roles in migration of vascular smooth cells
+and matrix remodelling during healing post-stenting. Elevated levels of MMP-9 at
+baseline and MMP-2 and MMP-9 levels 24 hours post-percutaneous coronary
+intervention have proven to be strongly associated with the development of ISR following
+DES implantation. On the contrary, low and near normal levels of MMP-2 and MMP-9
+were associated with a lack of a significant re-stenotic response.
+•
+•
+• Genetic factors: As mentioned above can play a significant role in the inflammatory
+response, which can result in ISR.
+• B) Arterial Factors:
+• Wall Shear Stress: The laminar flow of blood is a well known phenomenon, where the
+blood flows the fastest at the vessel center (or at the carina of a bifurcation) and slowest
+when it flows closest to the vessel wall (or at the ostium of a bifurcation). Hence, regions of
+low shear stress lead to accumulation of biological mediators, which promote atherosclerosis
+or neointimal formation. Adapting this principle would mean that a divider or the formation of
+a new carina should reduce the incidence of ISR. Kim at al demonstrated reduced
+occurrence of ISR by 'shotgun stenting' (i.e., simultaneous V-stenting with the formation of a
+new carina in the left main stem or other suitably sized vessels) but conversely, Stinus et al
+demonstrated increased target lesion revascularization rate with V-stenting when compared
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Restenosis 5/10
+--- Страница 6 ---
+22/01/2026, 16:10 Restenosis - wikidoc
+with the 'Crush' technique. This disparity can have a couple of explanations: 1) lesion
+location 2) post stent lumen size 3) reference lumen size 4) exposure of the new carina
+(formed by stent struts) for thrombus formation.
+The presence of patchy areas of low shear stress within stented segments, secondary to local
+geometric factors (such as angulation or curvature) can predispose towards increased neointimal
+formation and hence ISR. This was demonstrated by Papafaklis et al on 6 month follow-up with
+BMS and Paclitaxel DES. However, this was not seen with Sirolimus DES. This difference can be
+explained by the differing pharmacological mode of action and shorter drug-release kinetics.
+•
+• Progression of Atherosclerosis within a Stented Segment: If the necrotic plaque within the
+stent progresses or if a lipid core plaque at the stent edge is not covered completely, then
+these lesions can progress to cause ISR or even thrombus formation.
+•
+• "Thrombostenosis" Phenomenon: Oikawa et al was the first to describe the intriguing
+theory in which chronic thrombus formation may play an integral role in the development of
+ISR.
+•
+• Vessel Remodelling: The implantation of DES in vessels that have already undergone
+positive remodelling secondary to large plaque burden ("Glagov" phenomenon) have an
+increased risk for ISR.
+• Stent Factors:
+• Polymer Release Characteristics: In one the earlier trials involving Paclitaxel, they found
+that the duration of the drug release had a far greater impact on the inhibition of neointimal
+proliferation than the actual drug dose delivered. Several molecular biological studies have
+indicated that the genetic mechanisms responsible for the inflammatory proliferative
+response remain potentially active for a period of 21 days after vessel wall injury. These
+polymer release kinetics could explain some of the disparities in the ISR among different
+DES. It seems clear that when the antistenotic drug is delivered at a set threshold dose for a
+sustained prolonged period of time may be required to control the inflammatory proliferative
+response and hence reduce the occurrence of ISR.
+•
+• Non-uniform Drug Distribution:
+• Ideally, the anti-stenotic drug should be delivered in a homogeneous fashion to the
+vessel wall (i.e., transmural and circumferential). However, due to local blood flow
+alterations (secondary to atherosclerotic plaque and calcified lesions), non-compliant
+vessels (i.e., calcified, tortuous), strut overlap, stent design, stent gap, vessel curvature,
+bifurcation lesions, ostial lesions, stent fracture and polymer damage can result in focal
+areas of the vessel receiving sub-optimal anti-stenotic drug.
+•
+•
+• Stent delivery in calcified lesions can result in stripping of the polymer base.
+•
+•
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Restenosis 6/10
+--- Страница 7 ---
+22/01/2026, 16:10 Restenosis - wikidoc
+• Finally, individual variations in metal to artery ratio and variability in drug elution can all
+contribute to stent re-stenosis.
+•
+• Strut Thickness: Thicker stent struts have been associated with increased risk of ISR with
+BMS and smaller vessels. This could be explained by the fact that the thinner stent strut
+would have a lesser dose of foreign body exposure to the vessel wall, hence reducing the
+intensity of the inflammatory proliferative response.
+•
+• On- and Off-Label Use: The STENT group is the largest, multicenter, prospective registry
+involving >15,000 patients, evaluating the late outcomes associated with DES implantation
+in the United States showed an almost 2 fold increase in target vessel revascularization
+(TVR) at 9 months for off-label use (ostial, left main stem, chronic total occlusions,
+saphenous venous graft, small or large vessels, multivessel, ST-elevation myocardial
+infarction, ISR lesions) when compared to on-label use (short de novo lesions measuring
+>2.5mm and <3.5mm for Sirolimus DES or <3.75mm for Paclitaxel DES). Also, when looking
+at the SYNTAX study, there were higher TVR rates in patients with highly complex 3-vessel
+or left main disease who underwent DES (which was an off-label use of DES). When
+analyzing the list of off-label uses, it seems that these patients have complex coronary
+lesions (with a higher SYNTAX score), more sicker and have more comorbidities which could
+easily influence TVR.
+•
+• Polymer Disruption, Peeling and Crackling: This can result in exposure of bare-metal
+areas, which has been demonstrated in bench studies involving both first and second
+generation DES using light or scanning electron microscopy. It is plausible that this bare
+metal exposure and stent regions in the absence of anti-stenotic drug can form a nidus for
+inflammatory and proliferative response. Seen more so in stent implantation in tortuous
+calcified lesions.
+• Mechanical Factors:
+• Stent Underexpansion: When the stent is deployed and it is not well expanded, it results in
+a vessel lumen size whose stent cross-sectional area is significantly smaller that of the
+reference lumen size or other cross-sectional areas within the stent, despite good apposition
+of the stent struts against the vessel wall. If the minimum stent area is smaller than the
+reference lumen size to begin with, then the same amount of neointimal formation would be
+of greater significance than in a scenario where the minimum stent area was larger. An
+excellent expansion is considered if the minimal cross-sectional area in the stent is >90% of
+the average reference cross-sectional area.
+•
+• Stent Malapposition: In malapposition, the stent struts are not apposed to the vessel wall
+(blood occupies the space between the stent struts and vessel wall). It is commonly seen
+with undersized stents, tortuous arteries and non-homogeneity in the reference arterial
+lumen diameter within the treated segment.
+•
+• Stent Fracture: It is defined as complete or partial separation of a stent, which was
+contiguous on initial implantation. This commonly happens with non-uniform stent expansion
+in region with both very compliant and resilient vessel walls. IVUS is an accurate imaging
+modality to recognize this abnormality. Partial stent fracture is defined as the absence of
+atleast one third or 120 degrees of stent struts for at least 1 frame. Complete stent fracture is
+defined Caosok tiehse h eclpo ums dpelleivteer oaubr sseervniccees. Boyf usstinegn otu sr tsreurvtisce ws, yitohui ang rtehee to s otuer nustee odf csoeokgimes.ent for at least 1
+https://www.wikidoc.org/index.php/Restenosis 7/10
+--- Страница 8 ---
+22/01/2026, 16:10 Restenosis - wikidoc
+frame. There have been various classification systems to represent the severity of stent
+fracture. The incidence of DES fracture has been reported from 1% to 8%. In fact, in the only
+randomized controlled trial reporting the incidence and outcomes of stent fracture in DES
+(LONG-DES II study), where they had a follow-up angiography, a 14% incidence of
+restenosis was observed.
+There are 2 important mechanisms for stent fracture. Firstly, with excessive movements during
+myocardial contraction, significant tension is exerted at hinge points where the myocardial
+contractility forces act in opposing direction and result in fracture. Secondly, when a stent has a
+closed cell design (as seen with Sirolimus DES), the stent cannot dissipate the myocardial
+contractility pressures and hence the stent itself succumbs to this force and results in a fracture.
+Hence, with these principle mechanisms in mind; long stents, right coronary artery lesions,
+excessive tortuosity, angulation and torsion of the vessel, overlapping stents, saphenous vein graft
+lesions, tight calcified lesions that have been vigorously post dilated and expanded, myocardial
+bridges' sites and closed cell design stents (such as Sirolimus DES) predispose towards stent
+fracture.
+•
+• Technical Factors:
+• Barotrauma/Geographical Miss (GM): When a stent is deployed and if its fails to cover
+the sites of balloon injury or the atherosclerotic in its entirety, then these missed sites can
+become a nidus for re-stenosis. GM can be classified as longitudinal or axial.
+Longitudinal GM was defined as injured or diseased stenotic segment, which was not
+fully covered by the DES. Whereas, axial GM was defined as inadequate or overzealous
+sizing of the balloon, which results in effects similar to stent
+underexpansion/malapposition and uncontrolled vessel wall injury (increasing the
+stimulus for inflammation and proliferative response, respectively. Hence, the presence
+of injured or diseased segment not covered by the stent or balloon-artery ratio <0.9 or
+>1.3 was noted to have an increased association with target vessel revascularization and
+myocardial infarction at 1 year.
+•
+•
+• Stent Gap: It is simply defined as a discontinuous coverage between 2 stents. A gap
+between 2 stents exposes the site of balloon injury as well the lack of anti-stenotic drug
+distribution (if it is in between 2 DES) will clearly increase the risk for re-stenosis
+•
+•
+• DES Deployment in a Clot-Laden Segment: Logically, it seems that there is significant
+reduction in penetrance of anti-stenotic drug in regions, where the DES is deployed in
+clot-laden arterial segment. However, with the widespread use of glycoprotein-IIb/IIIa
+inhibitors, potent P2Y12 receptor antagonists and aspiration thrombectomy, these
+concerns do not translate into clinical events. This is demonstrated in a recent meta-
+analysis of 13 trials (n=7244) has shown significant benefits of DES over BMS in
+reducing TVR and recurrent MI (at the end of one year) in STEMI patients.
+Clinical Presentation
+In-stent restenosis (ISR) can be clinically silent, but majority of them present with recurrent
+symptoms of angina. The incidence of recurrent angina pectoris after a percutaneous coronary
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+intervention (PCI) was reported in the past to be around 50% with a wide range. This number may
+https://www.wikidoc.org/index.php/Restenosis 8/10
+--- Страница 9 ---
+22/01/2026, 16:10 Restenosis - wikidoc
+have reduced as most the PCIs end up in a DES as opposed to a BMS. The positive predictive value
+of symptoms indicating a significant stenosis is as low as 60%. ISR is often thought to be a benign
+phenomenon since the process of neointimal formation and proliferation is of gradual onset and
+progressive in nature. Given the pathophysiology of coronary re-stenosis, it is thought that re-
+stenosis is a rare cause of acute myocardial infarction or death. However, there are several reports
+which have shown that ISR can present as an acute coronary syndrome. 26% to 53% and 3.5% to
+20% of BMS ISR can present as unstable angina and myocardial infarction, respectively. Similarly,
+16% to 66% and 1% to 20% of DES ISR can present as unstable angina and myocardial infarction,
+respectively. A highly stenotic ISR lesion can lead to an non-occlusive thrombus, which can result
+in an acute coronary syndrome. Also, patients with clinically silent re-stenosis can be identified on
+coronary cineangiograms when neighbouring plaques undergo rupture or intimal tear and present
+as an acute coronary syndrome. Sometimes, local plaque rupture or intimal tear can initiate an
+inflammatory process which can promote thrombosis of neighbouring stenotic lesions. Thus, it is
+important to thoroughly evaluate the patient as coronary re-stenosis can present as an acute
+coronary syndrome.
+BMS ISR has been reported to occur usually after five and half months after stent implantation.
+The time frame for DES ISR presentation is not well-known with one study reporting a mean time
+duration of 12 months. Delayed restenosis is known to occur especially with DES. There have been
+reports, using intravascular ultrasound that have shown neointimal proliferation to occur even at 4
+years after stent implantation. The exact reasons as to why this delayed neointimal proliferation
+occurs is not well known. Some of the suspected pathophysiological mechanisms are delayed
+healing response, persistent biological reaction caused by the drug present in the polymer, or a
+hypersensitivity reaction to the polymer and a possible a genetic predisposition. This eludes to the
+fact that the clinician should entertain the possibility of coronary re-stenosis in patients who
+present with recurrent angina about 2 years after the stent implantation.
+Among the clinical predictors of coronary re-stenosis, diabetes mellitus continues to be a strong
+clinical predictor. In a study conducted by Singh et al., they found that patients with treated
+diabetes mellitus had a 45% higher risk of restenosis compared with nondiabetics. Interestingly, in
+their study they found that current smokers have less restenosis. This smoker's paradox has been
+described in the past. Some of the other predictors are increasing age, female sex and chronic renal
+disease and patients on hemodialysis. Angiographic and other predictors are listed under the other
+sections.
+ACCF/AHA/SCAI 2011 Guideline for Percutaneous Coronary
+[25]
+Intervention: Restenosis (DO NOT EDIT)
+Class I
+"1. Patients who develop clinical restenosis after balloon angioplasty should be treated with bare metal stent (BMS)
+or drug eluting stent (DES) if anatomic factors are appropriate and if the patient is able to comply with and tolerate
+dual antiplatelet therapy (DAPT).[26] (Level of Evidence: B)"
+"2. Patients who develop clinical restenosis after bare metal stent (BMS) should be treated with drug eluting stent
+(DES) if anatomic factors are appropriate and the patient is able to comply with and tolerate dual antiplatelet
+therapy (DAPT).[27][28][29](Level of Evidence: A)"
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Restenosis 9/10
+--- Страница 10 ---
+22/01/2026, 16:10 Restenosis - wikidoc
+Class III (No Benefit)
+"1. Patients who develop clinical restenosis after drug eluting stent (DES) may be considered for repeat PCI with
+balloon angioplasty, bare metal stent (BMS), or drug eluting stent (DES) containing the same drug or an alternative
+antiproliferative drug if anatomic factors are appropriate and the patient is able to comply with and tolerate dual
+antiplatelet therapy (DAPT).[1] (Level of Evidence: C)"
+Class IIa
+"1. IVUS is reasonable to determine the mechanism of stent restenosis.[1] (Level of Evidence: C)"
+Related Chapters
+• Drug-eluting stent
+References
+Template:WH Template:WS
+Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
+Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
+Physical Examination | Lab Tests | Drugs
+Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
+There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
+Licensing | Disclaimers | Avoid Plagiarism | Policies
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Restenosis 10/10

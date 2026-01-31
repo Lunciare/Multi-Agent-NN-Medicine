@@ -1,0 +1,366 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Chest (or abdominal_) pain and ECG artifact. - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:37:42.994095",
+  "file_size_bytes": 17891949,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/Chest (or abdominal_) pain and ECG artifact. - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  Chest (or abdominal?) pain and ECG artifact.
+Steve Smith onNovember 23, 2024
+Chest (or abdominal?) pain
+and ECG artifact.
+An elderly woman presented with one day of chest and right arm
+pain, and also abdominal pain. There was associated tingling and
+numbness in the right hand and generalized weakness, worse on the
+right side.
+A triage ECG was recorded:
+Smith: there is widespread artifact, except in lead III. Since lead III is
+not artifactual, one can deduce that the artifact is caused by
+movement of the right arm electrode, so that electrode should
+be moved and the ECG re-recorded. This makes it difficult to
+assess.
+But one can see that there is some ST depression in lead III,
+which should always make you think that it is reciprocal to 
+some, often minimal, STE in aVL (of high lateral OMI). Thus,
+aVL, I, and V2 must be scrutinized, but they are distorted by
+artifact.
+
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 1/13
+--- Страница 2 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+This is extremely easy to overlook, unless there is a high
+suspicion of OMI.
+Single limb lead electrode artifact is explained here, in a
+case of Arterial Pulse Tapping Artifact (APTA): Bizarre
+(Hyperacute??) T-waves
+Clinical course: The provider recognized artifact, but did not
+see anything worrisome and regrets not ordering another.
+Labs, including troponins, were ordered and the patient needed be
+placed in the waiting room pending a bed.
+When the provider next looked up lab results, it was noticed that the
+first troponin was 45,000 ng/L. This is then a large MI, but it is
+subacute.
+There was a previous ECG available for review:
+This shows baseline STE in inferior leads, including lead III.
+At the time is was recorded, there was no a myocardial infarction; this
+was baseline STE (normal variant)
+This previous ECG confirms that the STD in lead III is very abnormal
+Due to the very high troponin, the patient was brought to the critical
+care area and another ECG was recorded:
+Sinus rhythm with PVCs
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 2/13
+--- Страница 3 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+There is inferior STD with STE and a coved ST segment in
+aVL. There is STE in V5-6. There are new Q-waves in aVL,
+V5-6.
+It is diagnostic of OMI, but this is SUBACUTE OMI
+I sent this ECG to my “EKG Nerdz” friends, without any clinical info at
+all and they answered “OMI”
+The Queen said: “STEMI-Equivalent with High Confidence:”
+Notice she sees findings in both normal beats and PVCs.
+There was some question of whether the patient was having
+abdominal pathology, and she also had a history of aortic pathology,
+so a chest abd/pelvic with aorta angiogram was ordered.
+If this were ACUTE (vs. SUBACUTE) OMI, that would result in an
+undesirable delay.
+But this is clearly a subacute MI, with most of the damage done. How
+do I know?
+1) Very high initial troponin of 45,000 ng/L
+2) A full day of chest pain
+3) Q-waves on the ECG, with some T-wave inversion
+Here is one frame of the CT scan which includes the heart:
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 3/13
+--- Страница 4 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+Can you spot the infarct?
+Here is an arrow pointing to it:
+The Cath Lab was activated.
+Angiogram:
+100% occluded ramus intermedius. The ramus is an occasional
+artery between the circumflex and the LAD, and often takes the place
+of a large first diagonal, and has the same distribution.
+It was opened and stented.
+Here are the troponins:
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 4/13
+--- Страница 5 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+Echo:
+Normal LV size and hyperdynamic systolic function with an estimated EF of
+77%.
+Regional wall motion abnormality–mid anterior akinesis.
+Compared to TTE from 7/3/24: the anterior regional wall motion abnormality is
+new and is consistent with ischemia/infarction in the LAD territory
+===================================
+MY Comment, by KEN GRAUER, MD (11/23/2024):
+===================================
+There are several insightful aspects of today’s case.
+Marked artifact in the initial ECG (TOP tracing in Figure-1) —
+makes assessment of the limb leads difficult — since lead III (within
+the BLUE rectangle) is the only undistorted lead. But in a patient
+with CP (Chest Pain) — the T wave in this single undistorted limb
+lead clearly looks to be hyperacute (disproportionately “bulky”
+considering modest size of the QRS in this lead).
+I next looked at leads V2,V3,V4 for sign of posterior OMI — since
+CP + hyperacute T wave in lead III + suggestion of posterior
+OMI would be enough to greatly enhance my confidence of acute
+OMI in this initial tracing. Unfortunately — artifact distortion of the
+the ST segments in these 3 chest leads prevents drawing any
+conclusions. But, in this patient with CP — ECG #1 needs to be
+immediately repeated!
+As per Dr. Smith — the fact that artifact in ECG #1 is maximal
+in leads I and II (with lead III undistorted) — points to the RA
+extremity as the “culprit” (See My Comment in the December 5,
+2022 post of Dr. Smith’s ECG Blog for review on how to determine
+the “culprit” extremity within seconds).
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 5/13
+--- Страница 6 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+Figure-1: Comparison between the initial ECG and the
+repeat ECG in today’s case.
+The 2nd ECG:
+Assessment of the next ECG in today’s case (BOTTOM tracing in Figure-
+1) — provides its own set of insightful observations:
+Overall — the artifact is decidedly less in ECG #2. That said — Note
+how the “culprit” extremity has changed! Here limb lead artifact is
+maximal in leads I, III and aVL — with lead II no more than
+minimally affected. Note also that instead of the artifact distorting
+the entire recording of 5/6 limb leads (as it did in ECG #1) — the
+artifact distortion in ECG #2 is primarily of the baseline! This
+localizes the source of artifact to the LA electrode (rather than
+pointing to a tremulous RA extremity — as was the case in ECG
+#1, in which large amplitude artifactual deflections were seen
+throughout in the affected limb lead recordings).
+Although the artifact in ECG #2 should also prompt repeating the ECG —
+we nevertheless can draw important conclusions from this 2nd tracing.
+The rhythm is ventricular bigeminy (each of the even-numbered
+beats in ECG #2 is a PVC).
+That every-other-beat in ECG #2 is a PVC (and not a PAC
+conducted with RBBB aberration) — can be established by the fact
+that underlying sinus P waves continue throughout the
+tracing (YELLOW arrows in the long lead II rhythm strip showing
+on-time sinus P waves producing subtle distortion of the
+beginning of the ST segment of each PVC). In addition,
+the direction of the initial deflection in 4 of the chest leads
+is different for sinus beats and the PVCs (whereas sinus beats
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 6/13
+--- Страница 7 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+#9,11,13 in leads V1-thru-V4 all manifest an initial R wave —
+beas #8,10,12 all manifest an initial negative deflection).
+PEARL: As we have occasionally seen in other cases in Dr.
+Smithʼs ECG Blog — it is the PVCs (and not the sinus-
+conducted beats)that provide more incriminating
+evidence of an ongoing acute event.
+Consider lead aVL (within the PURPLE rectangle) — in which the
+most markedly abnormal ST elevation is seen in beats #4 and #6
+(with the tricky aspect of beat #4 being the lead change marker that
+hides the QRS of beat #4).
+Lead I appears to show abnormal ST elevation in both sinus beats
+and the PVC in this lead — although artifact make assessment
+difficult in this lead.
+But BLUE arrows in lateral chest leads V5 and V6 show what
+appears to be disproportionately elevated J-point ST elevation in the
+PVC ( = beat #12).
+================================
+Links to Examplesof ARTIFACT:
+Artifact is a reality of clinical practice — so comfort in
+assessing tracings with artifact is essential. What follows
+below is my expanding list of technical “misadventures” —
+most from Dr. Smithʼs ECG Blog — some from other
+sources (NOTE:As I did not previously keep track of these —
+there are additional examples of artifact sprinkled through Dr.
+Smithʼs ECG Blog that I have not yet included here … ).
+The November 8, 2024 post — artifact complicating OMI
+assessment.
+The June 15, 2024 post ( = Today’s case by Dr. Frick) —
+re Telemetry artifact that simulates PMVT.
+The May 18, 2024 post — re the effect of baseline artifact.
+The January 15, 2024 post — for an OMI despite lots
+of artifact!
+The September 15, 2023 post — for PTA (Pulse-Tap
+Artifact).
+The April 6, 2023 post —
+excessive baseline artifact misdiagnosed as AFib (instead
+of sinus rhythm with AV Wenckebach — as in Figure-4 in
+this post).
+The March 17, 2023 post — for PTA.
+The January 17, 2023 post — for PTA.
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 7/13
+--- Страница 8 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+The October 21, 2022 post — for “artifactual VT”.
+The November 10, 2020 post — for PTA.
+The October 17, 2020 post — for a 70-year old woman
+with “Artifactual VT“.
+The September 27, 2019 post — for the Rowlands &
+Moore article with the above-noted formulas for recognizing
+the “culprit” extremity.
+The September 22, 2019 post — intermittent ST-T wave
+artifact.
+The August 26, 2019 post — baseline artifact.
+The January 30, 2018 post — for PTA.
+Brief review by Tom Bouthillet on some common causes of
+artifact.
+Additional review of ECG artifacts by Pérez-Riera et al (Ann
+Noninvasic Electrocardiol 23:e12494, 2018)
+VT Artifact — by Knight et al: NEJM 341:1270-1274, 1999.
+Artifact simulating VFib — CLICK HERE.
+More VT-VFib artifact — CLICK HERE.
+Artifact simulating AFlutter — CLICK HERE.
+Parkinsonian Tremor vs AFlutter — CLICK HERE.
+Left Leg artifact — CLICK HERE.
+Should the cath lab be activated? — CLICK HERE.
+Left Arm artifact — CLICK HERE.
+More PMVT vs Torsades artifact — CLICK HERE.
+Steve Smith onNovember 23, 2024
+ARTERIAL PULSE TAPPING ARTIFACT ARTIFACT CT SCAN
+SUBACUTE MI
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+A woman in her 40s Coronary Angiography
+with acute chest pain Guide by Willy Frick --
+and shortness of Everything you ever
+breath wanted to know about
+the Cath Lab
+Write a Comment
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 8/13
+--- Страница 9 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+SEARCH
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 9/13
+--- Страница 10 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 10/13
+--- Страница 11 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 11/13
+--- Страница 12 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Willy Frick onNovember 25, 2024
+Coronary Angiography Guide by Willy Frick —
+Everything you ever wanted to know about the Cath Lab
+Introductory Angiography Guide To find the guide later, go to the
+banner at the top of the blog: This blog is dedicated to improving…
+Steve Smith onNovember 27, 2024
+What makes a T-wave Hyperacute? And: 30 Examples
+of Hyperacute T-waves, 10 in each of 3 myocardial
+territories.
+Pendell and I and the geniuses at Powerful Medical (Producers of the
+PMCardio Queen of Hearts OMI AI app) are working on an
+objective,…
+Willy Frick onNovember 29, 2024
+Recent MI at another facility. Now back in the ER with
+chest pain
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 12/13
+--- Страница 13 ---
+22/01/2026, 15:31 Chest (or abdominal?) pain and ECG artifact. - Dr. Smith’s ECG Blog
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/chest-or-abdominal-pain-and-ecg-artifact/ 13/13

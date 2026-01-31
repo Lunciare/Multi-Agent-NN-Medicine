@@ -1,0 +1,427 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:35:46.375360",
+  "file_size_bytes": 808505,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:52 Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Aortic Stenosis
+By Guy P. Armstrong, MD, Waitemata District Health Board and Waitemata Cardiology, Auckland
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Jun 2025
+Aortic stenosis (AS) is narrowing or restricted opening of the aortic valve,
+obstructing blood flow from the left ventricle to the aorta during systole.
+Causes include a congenital bicuspid valve, idiopathic degenerative sclerosis
+with calcification, and rheumatic fever. Untreated AS progresses to become
+symptomatic with one or more of the classic triad of syncope, angina, and
+exertional dyspnea; heart failure and arrhythmias may develop. A crescendo-
+decrescendo ejection murmur is characteristic. Diagnosis is by physical
+examination and echocardiography. Asymptomatic AS in adults usually requires
+no treatment. Once symptoms develop, surgical or percutaneous valve
+replacement is required. For severe or symptomatic AS in children, balloon
+valvuloplasty may be effective, but surgery is often required.
+(See also Overview of Cardiac Valvular Disorders.)
+Etiology of Aortic Stenosis
+In older patients, the most common precursor to aortic stenosis is:
+Aortic sclerosis
+Aortic sclerosis is the deposition of calcium on the aortic valve leaflets, seen in 25 to 45% of adults over
+age 65 (1, 2). The cause of aortic sclerosis and stenosis is not yet known but is mediated by an
+inflammatory process similar to but distinct from atherosclerosis. Genetic, anatomic, fluid dynamic, and
+environmental risk factors include hypertension, smoking, high cholesterol, and presence of a bicuspid
+valve. Lipid deposition and inflammation initially lead to thickening of aortic valve structures by fibrosis
+and calcification without causing significant obstruction. Aortic sclerosis progresses to severe aortic
+stenosis in approximately 10% of patients within 5 years (3).
+Lipoprotein (a) is implicated in the pathogenesis of both aortic stenosis and atherosclerosis. Elevated
+lipoprotein (a) levels also predict faster hemodynamic progression of AS.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis 1/12
+--- Страница 2 ---
+22/01/2026, 14:52 Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+Patients with psoriasis are also at increased risk for atherosclerosis, and more recently, psoriasis has
+been tied to an increased risk of aortic stenosis.
+In patients < 70 years, the most common cause of aortic stenosis is:
+A congenital bicuspid aortic valve
+Congenital aortic valve disease, including bicuspid aortic valve and aortic stenosis, occurs in 0.5 to 2% of
+people and affects more males (4); it is associated with coarctation and progressive dilatation of the
+ascending aorta, causing aortic dissection. Aortic stenosis in neonates can also accompany hypoplastic
+left heart syndrome and its variants.
+In medically underserved countries, the most common cause of aortic stenosis in all age groups is:
+Rheumatic fever
+Supravalvular AS caused by a discrete congenital membrane or narrowing of the sinotubular junction
+or ascending aorta is uncommon. Supravalvular AS can be a component of Williams syndrome, a
+microdeletion syndrome of chromosome 7 associated with a characteristic facial appearance (high and
+broad forehead, hypertelorism, strabismus, upturned nose, long philtrum, wide mouth, dental
+abnormalities, puffy cheeks, micrognathia, low-set ears) and neonatal hypercalcemia.
+Subvalvular AS caused by a congenital membrane or fibrous ring just beneath the aortic valve is
+uncommon. Hypertrophic cardiomyopathy can have dynamic obstruction of the left ventricular outflow
+tract.
+Etiology references
+1. Ferreira-González I, Pinar-Sopena J, Ribera A, et al. Prevalence of calcific aortic valve disease in
+the elderly and associated risk factors: a population-based study in a Mediterranean area. Eur J
+Prev Cardiol 2013;20(6):1022-1030. doi:10.1177/2047487312451238
+2. Stewart BF, Siscovick D, Lind BK, et al. Clinical factors associated with calcific aortic valve disease.
+Cardiovascular Health Study. J Am Coll Cardiol 1997;29(3):630-634. doi:10.1016/s0735-
+1097(96)00563-3
+3. Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of
+Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of
+Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation
+143(5):e35–e71, 2021. doi: 10.1161/CIR.0000000000000932
+4. Siu SC, Silversides CK. Bicuspid aortic valve disease. J Am Coll Cardiol 2010;55(25):2789-2800.
+doi:10.1016/j.jacc.2009.12.068
+Pathophysiology of Aortic Stenosis
+Aortic stenosis causes an increased pressure load on the left ventricle (LV), resulting in compensatory
+hypertrophy without cavity enlargement (concentric hypertrophy). In early disease stages, there is an
+increased pressure gradient from the high-pressure LV to the lower pressure aorta. With time, the
+ventricle can no longer compensate and begins to fail, with secondary LV cavity enlargement, reduced
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis 2/12
+--- Страница 3 ---
+22/01/2026, 14:52 Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+ejection fraction (EF), decreased cardiac output, and a misleadingly low gradient across the aortic valve
+(low-gradient severe AS) as the LV can no longer generate as high of a systolic pressure.
+Aortic regurgitation accompanies aortic stenosis in approximately 7% of patients (1), and about half of
+patients with severe AS also have mitral annular calcification (2, 3), which may lead to mitral
+regurgitation.
+Patients with other disorders that also cause LV enlargement and reduced EF (eg, myocardial infarction,
+intrinsic cardiomyopathy) may generate insufficient flow to fully open a sclerotic valve and have an
+apparently small valve area even when their AS is not particularly severe (pseudo-severe AS). Pseudo-
+severe AS must be differentiated from low-gradient severe AS because only patients with low-gradient
+severe AS benefit from valve replacement.
+Aortic Stenosis
+IMAGE
+MONICA SCHROEDER / SCIENCE PHOTO LIBRARY
+Elevated shear stress across the stenosed aortic valve degrades von Willebrand factor multimers. The
+resulting coagulopathy may cause gastrointestinal bleeding in patients with angiodysplasia (Heyde
+syndrome). The syndrome typically resolves following successful aortic valve replacement (4).
+Pathophysiology references
+1. Nedadur R, Belzile D, Farrell A, Tsang W. Mixed aortic stenosis and regurgitation: a clinical
+conundrum. Heart 2023;109(4):264-275. Published 2023 Jan 27. doi:10.1136/heartjnl-2021-320501
+2. Abramowitz Y, Kazuno Y, Chakravarty T, et al. Concomitant mitral annular calcification and
+severe aortic stenosis: prevalence, characteristics and outcome following transcatheter aortic valve
+replacement. Eur Heart J 2017;38(16):1194-1203. doi:10.1093/eurheartj/ehw594
+3. Mejean S, Bouvier E, Bataille V, et al. Mitral Annular Calcium and Mitral Stenosis Determined by
+Multidetector Computed Tomography in Patients Referred for Aortic Stenosis. Am J Cardiol
+2016;118(8):1251-1257. doi:10.1016/j.amjcard.2016.07.044
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis 3/12
+--- Страница 4 ---
+22/01/2026, 14:52 Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+4. Goltstein LCMJ, Rooijakkers MJP, Hoeks M, et al. Effectiveness of aortic valve replacement in
+Heyde syndrome: a meta-analysis. Eur Heart J 2023;44(33):3168-3177.
+doi:10.1093/eurheartj/ehad340
+Symptoms and Signs of Aortic Stenosis
+Congenital aortic stenosis, if not severe at birth, is usually asymptomatic until symptoms develop
+insidiously in childhood or early adulthood. In both congenital and non-congenital AS, progressive
+untreated aortic stenosis ultimately results in exertional syncope, angina, and dyspnea (SAD triad).
+Other symptoms and signs may include those of heart failure and arrhythmias, including ventricular
+fibrillation leading to sudden death.
+Exertional syncope occurs because cardiac output cannot increase enough to meet the demands of
+physical activity. Nonexertional syncope may result from altered baroreceptor responses or ventricular
+tachycardia. Exertional angina pectoris affects many patients, caused by coronary artery atherosclerosis
+or by hypertrophy-induced ischemia and altered coronary flow dynamics (even without atherosclerosis).
+There are no visible signs of aortic stenosis. Palpable signs include carotid and peripheral pulses that
+are reduced in amplitude and slow rising (pulsus parvus et tardus) and an apical impulse that is
+sustained (thrusts with the first heart sound [S1] and relaxes with the second heart sound [S2]) because
+of left ventricular hypertrophy. The LV impulse may become displaced when systolic dysfunction
+develops. A palpable fourth heart sound (S4), felt best at the apex, and a systolic thrill, corresponding
+with the murmur of AS and felt best at the left upper sternal border, are occasionally present in severe
+cases. Systolic blood pressure may be high even when AS is severe but ultimately falls when the LV fails.
+On auscultation, S1 is normal and S2 is single because aortic valve closing is delayed and merges with
+the pulmonic (P2) component of S2. The aortic component may also be soft. Paradoxical splitting of S2
+may be heard. A normally split S2 is the only physical finding that reliably excludes severe AS. An S4 may
+be audible. An ejection click may also be audible early after S1 in patients with congenital bicuspid AS
+when valve leaflets are stiff but not completely immobile. The click does not change with dynamic
+maneuvers.
+The hallmark finding is a crescendo-decrescendo ejection murmur, heard best with the diaphragm of
+the stethoscope at the right and left upper sternal borders when a patient who is sitting upright leans
+forward. The murmur typically radiates to the right clavicle and both carotid arteries (left often louder
+than right) and has a harsh or grating quality.
+In older patients, vibration of the unfused cusps of calcified aortic valve leaflets may transmit a louder,
+more high-pitched, “cooing” or musical sound to the cardiac apex, with softening or absence of the
+murmur parasternally (Gallavardin phenomenon), thereby mimicking mitral regurgitation. The murmur
+is soft when stenosis is less severe, grows louder as stenosis progresses, and becomes longer and peaks
+in volume later in systole (ie, crescendo phase becomes longer and decrescendo phase becomes
+shorter) as stenosis becomes more severe. As LV contractility decreases in critical AS, the murmur
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis 4/12
+--- Страница 5 ---
+22/01/2026, 14:52 Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+becomes softer and shorter. The intensity of the murmur may therefore be misleading in these
+circumstances.
+AUDIO
+Aortic Stenosis Murmur
+AUDIO
+The murmur of aortic stenosis typically increases with maneuvers that increase LV volume and
+contractility (eg, leg-raising, squatting, Valsalva release, after a ventricular premature beat) and
+decreases with maneuvers that decrease LV volume (Valsalva maneuver) or increase afterload
+(isometric handgrip). These dynamic maneuvers have the opposite effect on the murmur of
+hypertrophic cardiomyopathy, which can otherwise resemble that of AS. The murmur of mitral
+regurgitation due to prolapse of the posterior leaflet may also mimic AS.
+Diagnosis of Aortic Stenosis
+Echocardiography
+Diagnosis of aortic stenosis is suspected clinically and confirmed by echocardiography. Two-dimensional
+transthoracic echocardiography is used to identify a stenotic aortic valve and possible causes, to
+quantify LV hypertrophy and degree of systolic dysfunction, and to detect coexisting valvular heart
+disorders (aortic regurgitation, mitral valve disorders) and complications (eg, endocarditis). Doppler
+echocardiography is used to quantify degree of stenosis by measuring jet velocity, transvalvular systolic
+pressure gradient, and aortic valve area.
+Severity of aortic stenosis is characterized echocardiographically as (1):
+Mild: Peak aortic jet velocity 2.5 to 2.9 m/second, mean gradient 10 to 20 mm Hg, or valve
+2
+area 1.5 to 2.0 cm
+Moderate: Peak aortic jet velocity 3 to 4 m/second, mean gradient 20 to 40 mm Hg, or valve
+2
+area 1.0 to 1.5 cm
+Severe: Peak aortic jet velocity > 4 m/second, mean gradient > 40 mm Hg, or valve area <
+2
+1.0 cm
+Very severe: Peak aortic jet velocity > 5 m/second or mean gradient > 60 mm Hg
+Clinical judgment and critical review of the data are used to resolve any discordance among these
+parameters (eg, moderate valve area but severe mean gradient). When LV function is normal, peak
+velocity is preferred as it is significantly more reproducible than valve area (2). Quantification of aortic
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis 5/12
+--- Страница 6 ---
+22/01/2026, 14:52 Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+valve stenosis is least accurate when LV volume or systolic function is reduced, or when systemic
+hypertension is present.
+Aortic Stenosis
+VIDEO
+The gradient may be overestimated when aortic regurgitation is present. The gradient may under-
+represent severity when the stroke volume is low, eg, in patients with systemic hypertension or LV
+systolic dysfunction (low-gradient AS with reduced EF) or a small, hypertrophied LV (low-gradient AS with
+normal EF—see table Types of Severe Aortic Stenosis).
+Sometimes LV systolic dysfunction results in low ventricular pressure that is inadequate to open
+nonstenotic valve leaflets, causing echocardiographic appearance of low valve area in the absence of
+stenosis (pseudo-stenosis). Differentiation of pseudo-stenosis from low-gradient AS can be aided by
+calculation of the ratio of outflow tract to aortic velocity (Doppler velocity index [DVI]). A DVI value < 0.25
+suggests true severe stenosis.
+Assessment of the degree of valve calcification by computed tomography (CT) can help determine the
+severity of AS. Severe AS is likely when the valvular calcium score is > 2000 Agatston units (AU) (men)
+and > 1300 AU (women). It is very likely when the calcium score is > 3000 AU(men) and > 1600 AU
+(women). Low-dose dobutamine stress echocardiography distinguishes low-gradient AS from pseudo-
+stenosis.
+TABLE
+Types of Severe Aortic Stenosis
+Severe AS
+Vmax Valve area LV EF Other
+type
+2
+High gradient ≥ 4.0 m/second ≤ 1.0 cm ≥ 50% —
+(asymptomatic
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis 6/12
+--- Страница 7 ---
+22/01/2026, 14:52 Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+Severe AS
+Vmax Valve area LV EF Other
+type
+or
+symptomatic)
+Distinguish
+from pseudo-
+stenosis with
+Low-flow, low- low-dose
+2
+gradient with < 4.0 m/second ≤ 1.0 cm < 50% dobutamine
+reduced EF echocardiograp
+hy, valve area <
+2
+1.0 cm , Vmax
+> 4.0 m/second
+Distinguish
+from non-
+Low-flow, low- severe AS by
+≥ 50% with
+gradient with stroke volume
+small
+2
+normal EF < 4.0 m/second ≤ 1.0 cm index < 35
+hypertrophied
+2
+(paradoxical mL/m
+LV
+low-flow AS) measured
+when patient is
+normotensive
+AS = aortic stenosis; DVI = Doppler velocity index, the ratio of LV outflow tract to aortic
+velocity; LV EF = left ventricular ejection fraction; Vmax = peak forward velocity across the
+aortic valve.
+Data from Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the
+Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the
+American College of Cardiology/American Heart Association Joint Committee on Clinical
+Practice Guidelines. Circulation 143(5):e35–e71, 2021. doi: 10.1161/CIR.0000000000000932
+Cardiac catheterization is performed prior to intervention to determine whether coronary artery
+disease (CAD) is the cause of angina and, occasionally, to resolve inconsistent clinical and
+echocardiographic estimates of AS severity.
+An ECG and chest radiograph are obtained.
+ECG typically shows changes of LV hypertrophy with or without an ischemic ST- and T-wave pattern.
+Chest radiograph findings may include calcification of the aortic cusps (seen on the lateral projection
+or on fluoroscopy) and evidence of heart failure. Heart size may be normal or only mildly enlarged.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis 7/12
+--- Страница 8 ---
+22/01/2026, 14:52 Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+In asymptomatic patients with severe aortic stenosis, closely supervised exercise ECG testing is
+recommended in an attempt to elicit symptoms of angina, dyspnea, or hypotension—any of these
+symptoms, when due to the AS, is an indication for intervention. Failure to normally increase blood
+pressure and development of ST-segment depression are less predictive of adverse prognosis. Exercise
+testing is contraindicated in symptomatic patients.
+Phonocardiographic Characteristics of Heart Murmurs
+Diagnosis references
+1. Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of
+Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of
+Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation
+143(5):e35–e71, 2021. doi: 10.1161/CIR.0000000000000932
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis 8/12
+--- Страница 9 ---
+22/01/2026, 14:52 Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+2. Manna D, Eliasson M, Bech-Hanssen O, Lindow T. Reproducibility of Echocardiographic
+Measures of Aortic Stenosis Severity and its Impact on Grading of Severity. J Am Soc Echocardiogr
+37(3):370–372.e2, 2024. doi:10.1016/j.echo.2023.11.006
+Treatment of Aortic Stenosis
+Sometimes aortic valve replacement
+Nothing has been proved to slow the progression of aortic stenosis (1). Statins have been ineffective (2).
+Medications that can cause hypotension (eg, nitrates) should be used cautiously, although nitroprusside
+has been used as a temporizing measure to reduce afterload in patients with decompensated heart
+failure in the hours before valve replacement.
+Patients who develop heart failure but are too high risk for valve intervention benefit from cautious
+treatment with digoxin, diuretics, and angiotensin-converting enzyme (ACE) inhibitors.
+Indications for intervention
+The benefits of intervention do not outweigh the risks until patients develop symptoms and/or meet
+certain echocardiographic criteria. Thus, patients should have periodic clinical evaluations, including
+echocardiography and sometimes exercise testing, to determine the optimal time for valve replacement
+(1). Valve replacement is recommended when aortic stenosis is severe and there is any one of the
+following:
+Symptoms
+Exercise testing causing symptoms or showing reduced effort tolerance or a fall in blood
+pressure ≥ 10 mm Hg below baseline)
+LV EF < 50%
+In addition, if surgical risk is low, then surgery may also be considered in asymptomatic patients with
+severe AS if there is any one of:
+Very severe AS (aortic velocity > 5 m/second)
+Brain (B-type) natriuretic peptide (BNP) is > 3 times normal
+Severe pulmonary hypertension without other explanation
+Decline in EF to < 60%
+Severe valve calcification with rapid progression of stenosis (reduction in aortic valve area ≥
+0.3 m/second/year)
+Evidence also supports surgical intervention in asymptomatic but severe AS.
+When cardiac surgery is being performed for other reasons, concomitant aortic valve surgery is
+indicated regardless of symptoms if the AS is moderate or greater.
+Choice of intervention
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis 9/12
+--- Страница 10 ---
+22/01/2026, 14:52 Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+Transcatheter balloon valvuloplasty is used primarily in children and very young adults with
+congenital AS.
+In older patients who are not candidates for surgery, balloon valvuloplasty has been used as a bridge
+to valve replacement, but this procedure has a high complication rate and provides only temporary
+relief. Transcatheter valve implantation, which can be performed with similar procedural risk even in
+sick, high-risk patients, is more common.
+Surgical aortic valve replacement (SAVR) usually involves replacement with a mechanical or
+bioprosthetic valve. In younger patients, the patient’s own pulmonary valve can be used, with a
+bioprosthesis then used to replace the pulmonary valve (Ross procedure). The advantage of the Ross
+procedure rather than SAVR to replace the aortic valve only is increased durability of the procedure. The
+valve exposed to systemic pressure is the patient's own pulmonary valve, and this lasts longer than
+other replacement valves. The bioprosthesis in the pulmonary position tends to also last a relatively
+long time.
+Transcatheter (percutaneous) aortic valve implantation (TAVI) (sometimes called transcatheter
+aortic valve replacement, or TAVR) is a less invasive method of aortic valve replacement.
+TAVI valves are constructed differently than SAVR valves; TAVI valves are inserted through an artery in a
+collapsed configuration to the aortic valve site and are then deployed/expanded to replace the stenotic
+aortic valve.
+The choice is between the up-front risk and morbidity of SAVR versus the unknown durability of TAVI
+valves beyond 10 years, although durability studies ranging up to 10 years suggest a structural valve
+degeneration rate < 10% within that time frame (3, 4, 5). Guidelines to inform shared decision-making
+suggest SAVR for patients < 65 years; TAVI is preferred for patients whose arteries are suitable for the
+transfemoral approach and who are > 80 years or who have a life expectancy of < 10 years. In patients
+aged 65 to 80 years whose arteries are suitable for transfemoral TAVI, the decision regarding SAVR or
+TAVI is determined based on individual patient characteristics (1). If the patient’s arteries are not suited
+to the transfemoral route, then SAVR is preferred as long as surgical risk is not prohibitive.
+In patients with a life expectancy of < 1 year even with a successful procedure, intervention is not
+recommended.
+Compared with SAVR, transfemoral TAVI has lower short-term mortality and less risk of stroke, major
+bleeding, and atrial fibrillation. TAVI also requires a shorter hospital stay, causes less pain, and permits
+more rapid return to activity; however, it also increases vascular complications and paravalvular
+regurgitation and increases the need for permanent pacemaker implantation and early repeat valve
+intervention. Indications for TAVI will expand as research includes younger and less symptomatic
+patients, although trials should be interpreted with caution due to potential flaws in methodology (6, 7).
+Preoperative evaluation for CAD is indicated so that coronary artery bypass grafting (CABG) and valve
+replacement, if indicated, can be performed during the same procedure.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis 10/12
+--- Страница 11 ---
+22/01/2026, 14:52 Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+An aortic bioprosthetic valve requires anticoagulation for 3 to 6 months postoperatively, but a
+mechanical valve requires lifetime anticoagulation using warfarin. Long-term non-vitamin K oral
+anticoagulants or warfarin can be considered in patients with a bioprosthetic valve and atrial fibrillation
+(see also Anticoagulation for patients with a prosthetic cardiac valve or native valve disease).
+Treatment references
+1. Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of
+Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of
+Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation
+143(5):e35–e71, 2021. doi: 10.1161/CIR.0000000000000932
+2. Thiago L, Tsuji SR, Nyong J, et al: Statins for aortic valve stenosis. Cochrane Database Syst Rev
+9(9):CD009571, 2016. doi:10.1002/14651858.CD009571.pub2
+3. Ali N, Hildick-Smith D, Parker J, et al: Long-term durability of self-expanding and balloon-
+expandable transcatheter aortic valve prostheses: UK TAVI registry. Catheter Cardiovasc Interv
+101(5):932–942, 2023. doi:10.1002/ccd.30627
+4. Blackman DJ, Saraf S, MacCarthy PA, et al: Long-Term Durability of Transcatheter Aortic Valve
+Prostheses. J Am Coll Cardiol 73(5):537–545, 2019. doi:10.1016/j.jacc.2018.10.078
+5. Carrabba N, Migliorini A, Fumagalli C, et al: Long-Term Durability of Transcatheter Aortic Valve
+Implantation With Self-Expandable Valve System (from a Real-World Registry). Am J Cardiol
+143:104–110, 2021. doi:10.1016/j.amjcard.2020.12.032
+6. Généreux P, Schwartz A, Oldemeyer JB, et al: Transcatheter Aortic-Valve Replacement for
+Asymptomatic Severe Aortic Stenosis. N Engl J Med 392(3):217–227, 2025.
+doi:10.1056/NEJMoa2405880
+7. Rajkumar CA, Nijjer SS, Cole GD, Al-Lamee R, Francis DP: 'Faith Healing' and 'Subtraction Anxiety'
+in Unblinded Trials of Procedures: Lessons from DEFER and FAME-2 for End Points in the ISCHEMIA
+Trial [published correction appears in Circ Cardiovasc Qual Outcomes. 2018 Apr;11(4):e000038.
+doi: 10.1161/HCQ.0000000000000038.. Title corrected]. Circ Cardiovasc Qual Outcomes
+11(3):e004665., 2018 doi:10.1161/CIRCOUTCOMES.118.004665
+Prognosis for Aortic Stenosis
+Aortic stenosis progresses faster as severity increases, but the wide variability in progression rates
+requires regular surveillance, particularly in sedentary older patients. In such patients, flow may become
+significantly compromised without triggering symptoms.
+Asymptomatic patients with severe AS and normal systolic function should be reevaluated every 6
+months because up to 11% may have a fall in LVEF after one year(1). The risk of surgery outweighs the
+survival benefit in asymptomatic patients, but with the onset of symptoms the mean survival drops to 3
+years (2), and prompt valve replacement is indicated to relieve symptoms and improve survival. Risk of
+surgery increases for patients who require simultaneous CABG and for those with depressed systolic LV
+function.
+In patients with severe AS, approximately 13% of deaths occur suddenly (3), so patients with severe AS
+should be advised to limit physical exertion.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis 11/12
+--- Страница 12 ---
+22/01/2026, 14:52 Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+Prognosis references
+1. Minamino-Muta E, Kato T, Morimoto T, et al. Decline in Left Ventricular Ejection Fraction During
+Follow-Up in Patients With Severe Aortic Stenosis. JACC Cardiovasc Interv 2019;12(24):2499-2511.
+doi:10.1016/j.jcin.2019.09.015
+2. Carabello BA. Introduction to aortic stenosis. Circ Res 2013;113(2):179-185.
+doi:10.1161/CIRCRESAHA.113.300156
+3. Minamino-Muta E, Kato T, Morimoto T, et al. Causes of Death in Patients with Severe Aortic
+Stenosis: An Observational study. Sci Rep 2017;7(1):14723. Published 2017 Nov 7.
+doi:10.1038/s41598-017-15316-6
+Key Points
+The most common cause of aortic stenosis (AS) is bicuspid aortic valve in patients < 70
+years and aortic sclerosis in older patients.
+Untreated AS ultimately results in exertional syncope, angina, and dyspnea; sudden
+death may occur.
+Typical heart sounds are a crescendo-decrescendo ejection murmur that increases with
+maneuvers that increase left ventricular (LV) volume and contractility (eg, leg-raising,
+squatting, Valsalva release) and decreases with maneuvers that decrease LV volume
+(Valsalva maneuver) or increase afterload (isometric handgrip).
+Nitrates may cause dangerous hypotension and should be used with caution for angina
+in patients with AS.
+Exercise testing is useful for risk stratification and determining the need for surgery for
+patients without clear symptoms.
+Valve replacement is indicated once symptoms begin or LV dysfunction occurs.
+Surgical or transcatheter aortic valve replacement are options for many patients, but
+long-term safety data are still accumulating for transcatheter aortic valve replacement
+(especially in low-risk patients).
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/aortic-stenosis 12/12

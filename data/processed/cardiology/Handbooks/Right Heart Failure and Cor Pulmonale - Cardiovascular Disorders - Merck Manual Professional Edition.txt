@@ -1,0 +1,235 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:55.146312",
+  "file_size_bytes": 491370,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:46 Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Right Heart Failure and Cor Pulmonale
+By Nowell M. Fine, MD, SM, Libin Cardiovascular Institute, Cumming School of Medicine, University of Calgary
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Oct 2025
+Right heart failure is defined by the clinical syndrome of systemic venous
+congestion with or without low cardiac output, secondary to right ventricular
+dysfunction. The most common cause of right heart failure is increased
+afterload caused by left heart failure. Cor pulmonale is right ventricular (RV)
+enlargement and eventual failure secondary to a lung disorder that causes
+pulmonary artery hypertension. Findings include peripheral edema, neck vein
+distention, hepatomegaly, and a parasternal lift. Diagnosis of right heart failure
+is clinical and by echocardiography and cardiac MRI. Treatment is directed at
+the cause.
+Pathophysiology of Right Heart Failure
+Right heart or right ventricular (RV) failure is the failure of the right side of the heart to pump blood
+adequately through the pulmonary vasculature at a normal central venous pressure. Right heart failure
+often involves right ventricle systolic dysfunction, dilation, or both. In the case of right heart failure
+secondary to left heart failure, elevated left heart filling pressure is transmitted retrograde through the
+pulmonary vasculature, resulting in pulmonary hypertension and right ventricular pressure overload,
+which can be exacerbated by the development of tricuspid valve regurgitation. Tricuspid regurgitation is
+typically functional in the setting of either right ventricular enlargement, or right atrial enlargement,
+often exacerbated by the presence of atrial fibrillation. Sleep apnea is common in patients with chronic
+heart failure, particularly central sleep apnea. The presence of both central and obstructive sleep apnea
+can exacerbate right heart failure.
+Cor Pulmonale
+Cor pulmonale is right heart failure caused by pulmonary hypertension secondary to lung disease,
+which can include:
+Loss of capillary beds (eg, due to bullous changes in chronic obstructive pulmonary disease
+[COPD] or thrombosis in pulmonary embolism)
+Vasoconstriction caused by hypoxia, hypercapnia, or both
+https://www.merckmanuals.com/professional/cardiovascular-disorders/heart-failure/right-heart-failure-and-cor-pulmonale 1/7
+--- Страница 2 ---
+22/01/2026, 14:46 Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
+Increased alveolar pressure (eg, in COPD, during mechanical ventilation)
+Medial hypertrophy in arterioles (often a response to pulmonary hypertension due to other
+mechanisms)
+Pulmonary hypertension increases afterload on the RV, resulting in a cascade of events that is similar to
+what occurs in LV failure, including elevated end-diastolic and central venous pressure and ventricular
+hypertrophy and dilation. Demands on the RV may be intensified by increased blood viscosity due to
+hypoxia-induced polycythemia. Rarely, RV failure affects the LV if a dysfunctional septum bulges into the
+LV, interfering with filling and thus causing diastolic dysfunction.
+Cor pulmonale results from a disorder of the lung or its vasculature; it does not refer to right ventricular
+(RV) enlargement secondary to left ventricular (LV) failure, a congenital heart disorder (eg, ventricular
+septal defect), or an acquired valvular disorder. Cor pulmonale is usually chronic but may be acute and
+reversible. Primary pulmonary hypertension (ie, not caused by a pulmonary or cardiac disorder) is
+discussed elsewhere.
+Etiology of Right Heart Failure and Cor Pulmonale
+The most common cause of right heart failure is left heart failure (1). Isolated right heart failure can be
+caused by right-sided congenital or acquired valvular disease, right-sided myocardial infarction,
+restrictive cardiomyopathy, pericardial disease, right-heart specific cardiomyopathy such as
+arrhythmogenic right ventricular cardiomyopathy, or obstructive sleep apnea.
+Cor pulmonale
+Acute cor pulmonale has few causes. Chronic cor pulmonale is usually caused by COPD, but there are
+several less common causes (see table Causes of Cor Pulmonale). In patients with COPD, an acute
+exacerbation or pulmonary infection may trigger RV overload. In chronic cor pulmonale, risk of venous
+thromboembolism is increased.
+TABLE
+Causes of Cor Pulmonale
+Acuity Condition
+Massive pulmonary embolization
+Acute
+Injury due to mechanical ventilation
+(most commonly in patients with ARDS)
+Chronic COPD*
+Extensive loss of lung tissue due to
+surgery or trauma
+Chronic, unresolved pulmonary emboli
+https://www.merckmanuals.com/professional/cardiovascular-disorders/heart-failure/right-heart-failure-and-cor-pulmonale 2/7
+--- Страница 3 ---
+22/01/2026, 14:46 Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
+Acuity Condition
+Pulmonary veno-occlusive disorders
+Systemic sclerosis
+Pulmonary interstitial fibrosis
+Kyphoscoliosis
+Obesity with alveolar hypoventilation
+Neuromuscular disorders involving
+respiratory muscles
+Idiopathic alveolar hypotension
+* COPD is the most common cause of chronic cor pulmonale.
+ARDS = acute respiratory distress syndrome; COPD = chronic obstructive pulmonary
+disease.
+Etiology reference
+1. Ezekowitz JA, O'Meara E, McDonald MA, et al. 2017 Comprehensive Update of the Canadian
+Cardiovascular Society Guidelines for the Management of Heart Failure. Can J Cardiol.
+2017;33(11):1342-1433. doi:10.1016/j.cjca.2017.08.022
+Symptoms and Signs of Right Heart Failure and Cor Pulmonale
+In RV failure, the most common symptoms are peripheral edema and fatigue. Sometimes patients feel
+a sensation of fullness in the abdomen or neck. Hepatic congestion can cause right upper quadrant
+abdominal discomfort, and stomach and intestinal congestion can cause early satiety, anorexia, and
+abdominal bloating.
+Less specific heart failure symptoms include cool peripheries, postural light-headedness, nocturia, and
+decreased daytime micturition. Skeletal muscle wasting can occur in severe biventricular failure and
+may reflect some disuse but also increased catabolism associated with increased cytokine production.
+Significant weight loss (cardiac cachexia) is an ominous sign associated with high mortality.
+In older adults, presenting concerns may be atypical, such as confusion, delirium, falls, sudden
+functional decline, nocturnal urinary incontinence, or sleep disturbance. Coexisting cognitive
+impairment and depression may also influence assessment and therapeutic interventions and may be
+worsened by the HF.
+Signs of RV failure include:
+https://www.merckmanuals.com/professional/cardiovascular-disorders/heart-failure/right-heart-failure-and-cor-pulmonale 3/7
+--- Страница 4 ---
+22/01/2026, 14:46 Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
+Nontender peripheral pitting edema (digital pressure leaves visible and palpable imprints,
+sometimes quite deep) in the feet and ankles
+Enlarged and sometimes pulsatile liver palpable below the right costal margin
+Abdominal swelling and ascites
+Visible elevation of the jugular venous pressure, sometimes with large a or v waves that are
+visible even when the patient is seated or standing (see figure Normal Jugular Vein Waves)
+In severe cases of heart failure, peripheral edema can extend to the thighs or even the sacrum, scrotum,
+lower abdominal wall, and occasionally even higher. Severe edema in multiple areas is termed anasarca.
+Edema may be asymmetric if patients lie predominantly on one side.
+Large v waves in the jugular veins are usually indicative of significant tricuspid regurgitation which is
+often present in RV failure. A paradoxical increase in the jugular venous pressure during inspiration
+(Kussmaul sign) is indicative of impaired right ventricular filling and can occur in severe RV failure as well
+as restrictive cardiomyopathy, constrictive pericarditis, and severe tricuspid regurgitation.
+With hepatic congestion, the liver may be palpably enlarged or tender, and hepatojugular or abdominal-
+jugular reflux may be detected (see Approach to the Cardiac Patient). Precordial palpation may detect
+the left parasternal lift of RV enlargement, and auscultation may detect the murmur of tricuspid
+regurgitation or the RV third heart sound (S3) along the left sternal border; both findings are augmented
+upon inspiration.
+Cor pulmonale
+Cor pulmonale is initially asymptomatic, although patients usually have significant symptoms (eg,
+dyspnea, exertional fatigue) due to the underlying lung disorder. Later, as RV pressures increase,
+physical signs commonly include a left parasternal systolic lift, a loud pulmonic component of the
+second heart sound (S2), and murmurs of functional tricuspid and pulmonic insufficiency
+(regurgitation). Later, an RV gallop rhythm (S3 and fourth [S4] heart sounds) augmented during
+inspiration, distended jugular veins (with a dominant a wave unless tricuspid regurgitation is present),
+hepatomegaly, and lower-extremity edema may occur.
+Diagnosis of Right Heart Failure and Cor Pulmonale
+Clinical suspicion
+Echocardiography and cardiac MRI
+Electrocardiogram
+Measurement of natriuretic peptide levels
+Sometimes right heart catheterization
+Right heart failure is a clinical diagnosis, composed of supportive symptoms and physical examination
+findings. Cardiac imaging, particularly echocardiography and cardiac MRI, is used to confirm right
+ventricular dysfunction, including dilatation and impaired systolic function. Both imaging modalities can
+https://www.merckmanuals.com/professional/cardiovascular-disorders/heart-failure/right-heart-failure-and-cor-pulmonale 4/7
+--- Страница 5 ---
+22/01/2026, 14:46 Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
+identify previously undiagnosed structural, functional, and congenital abnormalities. Right atrial
+enlargement and functional tricuspid valve regurgitation are also supportive findings.
+Echocardiography can assess RV systolic pressure but is often technically limited by the lung disorder;
+Cardiac MRI can quantitatively assess RV size and function. Right heart catheterization may be required
+for confirmation. Electrocardiography can identify arrhythmia as well as subtle findings of right ventricle
+hypertrophy and dilation and right atrial or ventricular dilation. Measurement of brain (B-type)
+natriuretic peptide (BNP) or N-terminal-pro-BNP (NT-pro-BNP) levels can support the diagnosis of heart
+failure as well as track clinical response over time.
+Cor pulmonale
+Cor pulmonale should be suspected in all patients with one of its causes. Chest radiograph shows RV
+and proximal pulmonary artery enlargement with distal arterial attenuation. ECG evidence of RV
+hypertrophy (eg, right axis deviation, QR wave in lead V1, and dominant R wave in leads V1 to V3)
+correlates well with degree of pulmonary hypertension. However, because pulmonary hyperinflation
+and bullae in COPD cause realignment of the heart, physical examination, radiographs, and ECG may be
+relatively insensitive.
+Cor Pulmonale (Echocardiogram)
+IMAGE
+© SPRINGER SCIENCE+BUSINESS MEDIA
+Treatment of Right Heart Failure and Cor Pulmonale
+Treatment of cause
+Treatment of right heart failure consists of identifying and treating the underlying cause. When the
+cause is left heart failure, guideline-directed treatment strategies for left heart failure apply. Pulmonary
+arterial hypertension, congenital heart disease, acquired valvular disease, pericardial disease,
+cardiomyopathy, and other causes are treated per standard of care.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/heart-failure/right-heart-failure-and-cor-pulmonale 5/7
+--- Страница 6 ---
+22/01/2026, 14:46 Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
+In patients with acute or critical illness, careful attention to preload, as well as afterload and contractility
+are the main approaches (1). Cautious diuresis, inotropic support with agents such as milrinone, and
+pulmonary vasodilation (in the absence of contraindications) may be helpful.
+Symptoms may be managed with loop diuretics. Otherwise, there are no evidence-based targeted
+pharmacologic or other forms of therapies (2).
+If peripheral edema is present chronically, diuretics may seem appropriate, but they should be used
+cautiously because small decreases in preload may result in hypotension. Pulmonary vasodilators (eg,
+hydralazine, calcium channel blockers, nitrous oxide, prostacyclin analogs, phosphodiesterase
+inhibitors), although beneficial in select Group 1 (primary) pulmonary arterial hypertension patients, are
+generally not effective for other causes of cor pulmonale. Intravenous or inhaled agents are sometimes
+used in the acute setting in the absence of left heart dysfunction. Bosentan, an endothelin receptor
+blocker, also may benefit patients with primary pulmonary hypertension, but its use is not well studied
+in cor pulmonale. Digoxin may be used empirically, however evidence is lacking in the absence of LV
+dysfunction.
+Arrhythmias should also be managed.
+See Medications for Heart Failure for more detailed information on specific medication classes.
+Cor pulmonale
+Treatment of cor pulmonale is difficult; it focuses on the cause (see table Causes of Heart Failure),
+particularly alleviation or moderation of hypoxia. Early identification and treatment are important
+before structural changes become irreversible.
+Pulmonary arterial hypertension-specific therapies, including pulmonary vasodilators, are not typically
+indicated for cor pulmonale due to chronic lung disease, although they may play a role in severe cases
+(3).
+Treatment references
+1. Houston BA, Brittain EL, Tedford RJ. Right Ventricular Failure. N Engl J Med. 2023;388(12):1111-
+1125. doi:10.1056/NEJMra2207410
+2. Ezekowitz JA, O'Meara E, McDonald MA, et al. 2017 Comprehensive Update of the Canadian
+Cardiovascular Society Guidelines for the Management of Heart Failure. Can J Cardiol.
+2017;33(11):1342-1433. doi:10.1016/j.cjca.2017.08.022
+3. Blanco I, Hernández-González F, García A, Torres-Castro R, Barberà JA. Management of
+Pulmonary Hypertension Associated with Chronic Lung Disease. Semin Respir Crit Care Med.
+2023;44(6):826-839. doi:10.1055/s-0043-1770121
+Key Points
+https://www.merckmanuals.com/professional/cardiovascular-disorders/heart-failure/right-heart-failure-and-cor-pulmonale 6/7
+--- Страница 7 ---
+22/01/2026, 14:46 Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
+Diagnosis usually requires echocardiography or radionuclide imaging, and sometimes
+right heart catheterization.
+Early identification and treatment of the cause are important before cardiac structural
+changes become irreversible.
+Loop diuretics are used cautiously for patients with symptoms or peripheral edema.
+Cor pulmonale is RV enlargement and eventually failure secondary to a lung disorder
+that causes pulmonary artery hypertension.
+Cor pulmonale itself is usually asymptomatic but common physical findings include a
+left parasternal systolic lift, a loud pulmonic component of S2, functional tricuspid and
+pulmonic regurgitation murmurs, and later, distended jugular veins, hepatomegaly, and
+lower-extremity edema.
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/heart-failure/right-heart-failure-and-cor-pulmonale 7/7

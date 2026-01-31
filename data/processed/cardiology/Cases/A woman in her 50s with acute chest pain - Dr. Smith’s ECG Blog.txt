@@ -1,0 +1,447 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:37:38.561631",
+  "file_size_bytes": 8561316,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  A woman in her 50s with acute chest pain
+Pendell Meyers onJune 15, 2025
+A woman in her 50s with
+acute chest pain
+Written by Pendell Meyers
+A woman in her 50s with no significant past medical history
+e xperienced acute anterior chest pain that woke her from sleep and
+radiated to her back. She described it as “stabbing”, 8/10, constant,
+and associated with nausea. She denied preceding symptoms or
+recent illnesses.
+Here is her triage ECG during active pain:
+What do you think?
+
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 1/17
+--- Страница 2 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+This ECG was recorded 30 minutes later with ongoing pain:
+Queen of Hearts says no signs of STEMI or Equivalent for both:
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 2/17
+--- Страница 3 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+NewPMcardio for Individuals App 3.0 now includes the latest
+Queen of Hearts model and AI explainability (blue
+heatmaps)! Download now for iOS or Android. (Drs. Smith and
+Meyers are shareholders in Powerful Medical.)
+The physician was worried about possible acute coronary occlusion,
+and activated the cath lab.
+The angiogram showed no significant coronary disease:
+First troponin I was 10 ng/L.
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 3/17
+--- Страница 4 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+Second troponin was 23 ng/L. None further were measured during
+this hospitalization.
+Echocardiogram showed normal EF, no wall motion abnormalities, no
+pericardial effusion.
+_____
+There is a lot of data now to show that the Queen reduces false
+positives by a lot.
+1. Decreased prehospital false positives (retrospectively) by 58%.
+2. Midwest STEMI Consortium: decreased false positives by 33%
+(presented at ACC Quality Summit San Antonio 2024)
+3. Willy Frick, from St. Louis University, presented at Heart Rhythm
+Society: 1 month of chest pain in the ED. 528 chest pain patients, 14
+with culprits lesions. Queen detected 11/14 with zero false positives.
+Cardiologist detected 6/14 with 3 false positives.
+4. Macherey-Meyer S. Presented at German Society of Cardiology. 1770 chest
+pain patients. 56 OMI. Specificity 0.967. Negative predictive value 98.4% and
+Positive predictive value was 34.1%. Subgroup analysis of patients ruled-out
+following 0/1h hs-cTnT algorithm identified misclassification as false-positive in
+1% of ECGs by AI model. Specificity and accuracy both were 0.989 (95% CI:
+0.983-0.994, see table 2). Negative predictive value was 100% (95% CI: 100-
+100).
+There is more unpublished work which shows dramatic decreases in false
+positive using the PMCardio Queen of Hearts AI Model.
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 4/17
+--- Страница 5 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+_______
+Here is the ECG the next day:
+(QoH gets this one wrong, calls it STEMI/OMI, understandably
+based on the STE in III with STD in aVL.)
+She was given colchicine and discharged.
+She returned with similar symptoms about 1 month later.
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 5/17
+--- Страница 6 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+Repeat echocardiogram at this visit revealed a small pericardial
+effusion.
+Cardiac MRI was read as:
+Acute pericarditis with signs of early constrictive physiology. The
+pericardium is diffusely thickened. There is diffuse late gadolinium
+enhancement of the parietal and visceral pericardial layers consistent
+with pericardial inflammation. There is a small circumferential
+pericardial effusion. There are no signs of tamponade physiology.
+There is ventricular interdependence as demonstrated by mild septal
+bounce, and the IVC is dilated to 2.9 cm with less than 50% collapse
+with inspiration – these findings suggest early constrictive
+physiology. There is no myocardial LGE to suggest inflammation,
+infiltration, or infarction of the LV myocardium.
+Two troponins were drawn, both less than 6 ng/L.
+She was given an extended course of colchicine and ibuprofen.
+Rheumatologic and infectious workups were negative.
+This ECGs was recorded on day 4 of the hospitalization:
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 6/17
+--- Страница 7 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+This ECG was recorded on day 6 of hospitalization:
+Her diagnosis was recurrent idiopathic pericarditis. She was
+discharged.
+Here is her ECG 6 months later, at an outpatient visit with no active
+symptoms:
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 7/17
+--- Страница 8 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+The “four stages of pericarditis on ECG” are typically taught
+as:
+Stage 1: wide spread STE and PR depression
+Stage 2: ST segment return to baseline with T wave flattening
+Stage 3: T wave inversion
+Stage 4: Normalization
+Of course, these stages may not follow a typical time course, may not
+have serial ECGs timed correctly to catch each stage, etc.
+However, this patient seems to fulfill the classic sequence as shown
+in her second admission.
+Please understand that actual pericarditis is incredibly rare compared
+to normal variant baseline ST elevation.
+And please be careful: the harm of one delayed diagnosis of OMI,
+incorrectly diagnosed as pericarditis, far outweighs the benefit of
+quickly making many true positive diagnoses of pericarditis. OMI is
+common, while pericarditis is rare. As Dr. Smith says, “you diagnose
+percarditis at your peril!”
+See these cases if you donʼt understand how dangerous it can be:
+You Diagnose Pericarditis at your Peril (at the Patient’s Peril!)
+Watch what happens when “pericarditis” and morphine cloud your judgment
+24 yo woman with chest pain the morning after binge drinking: Is it Pericarditis?
+“Pericarditis” strikes again
+See our other cases involving pericarditis here:
+A young woman in her early 20s with syncope
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 8/17
+--- Страница 9 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+Severe Atypical Chest Pain in a Young Woman: Series of Pericarditis ECGs
+Here are some ECG cases of myocarditis in young people:
+https://drsmithsecgblog.com/2019/06/a-20-something-male-with-acute-
+chest.html —
+https://drsmithsecgblog.com/2017/11/anterior-st-elevation-with-
+elevated.html —
+https://drsmithsecgblog.com/2017/03/a-young-man-with-sudden-chest-
+pain.html —
+https://drsmithsecgblog.com/2014/11/a-young-woman-with-chest-pressure-
+and.html —
+https://drsmithsecgblog.com/2014/06/a-29-year-old-male-with-pleuritic-
+chest.html —
+https://drsmithsecgblog.com/2013/10/inferior-and-lateral-st-elevation.html —
+8 yo with myocarditis:
+https://drsmithsecgblog.com/2014/05/an-8-year-old-with-syncope-
+abdominal.html —
+16 yo with acute MI:
+https://drsmithsecgblog.com/2014/05/a-16-year-old-girl-has-syncope-
+while.html —
+===================================
+MY Comment, by KEN GRAUER, MD (6/15/2025):
+===================================
+Medicine is humbling. And while I definitely included acute pericarditis in
+my differential diagnosis when I first saw today’s case — I did not think
+pure pericarditis (without a component of myocarditis) was likely. Instead
+— I thought this patient had acute LCx occlusion.
+For clarity in Figure-1 — I’ve reproduced today’s initial ECG.
+Why I Thought: “Acute MI Until Proven Otherwise” …
+The ECG in Figure-1 shows sinus rhythm at ~90/minute — normal
+intervals and axis — no chamber enlargement — and lots of ST elevation.
+This 50-something woman was awakened from sleep
+by new, severe CP (Chest Pain) — which prompted her ED
+presentation. As per Dr. Meyers — statistically, acute MI is
+abundantly more common than acute pericarditis in this setting (and
+potential morbidity and mortality from missing acute MI far exceeds
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 9/17
+--- Страница 10 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+that for missing acute pericarditis). As a result — Assume acute
+MI until proven otherwise!
+Regarding ECG findings in Figure-1 that suggest acute MI until proven
+otherwise:
+Q waves are present in multiple leads in ECG #1 — and these are
+the same leads that show ST elevation.
+The ST elevation seems to correlate with acute infero-lateral
+infarction (I suspected acute occlusion of a dominant LCx … ).
+Lead aVL seems to show reciprocal ST changes (albeit the amount
+of ST depression in aVL is not as much as I’d normally expect,
+given the amount and acuity of the ST elevation in lead III ).
+More than just ST elevation — lead V3 (and to a lesser extent, lead
+V4) look hyperacute (BLUE arrow highlighting the disproportionately
+“fat” T wave peak and “bulkier”-than-expected T wave dimensions in
+this V3 lead).
+I initially thought there was T-QRS-D
+(Terminal QRS Distortion) in lead V4. If true — this would all-but-
+confirm acute infarction (See My Comment in the November 14,
+2019 post in Dr. Smith’s ECG Blog for more on T-QRS-D).
+Bottom Line: While more data was needed — my initial impression
+of ECG #1 was acute infero-lateral STEMI in progress with need
+for prompt cath.
+Figure-1: The initial ECG in today’s case (with magnified view in the 2
+inserts below of leads V4 and V6).
+======================================
+ECG Findings For and Against Acute Pericarditis:
+I did not think today’s initial ECG was suggestive of pure acute
+pericarditis. It clearly could be consistent with acute myopericarditis —
+as the ECG picture of acute myocarditis can manifest virtually anything,
+and be indistinguishable from the ECG of acute MI. Consider the
+following:
+As Drs. Smith and Meyers have repeatedly emphasized in this ECG
+Blog — You diagnose acute pericarditis “at your peril” — for the
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 10/17
+--- Страница 11 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+simple reason that in an unselected emergency setting, acute MI is
+so much more common than pericarditis (and the potential morbidity
+and potential mortality of missing an acute MI is so much greater
+than for missing acute pericarditis).
+In favor of the ECG diagnosis of acute pericarditis — is
+the diffuse ST elevation (seen in leads I,II,III,aVF; and in leads
+V3,V4,V5,V6).
+Against the ECG diagnosis of acute pericarditis are the
+following findings:
+Diffuse Q waves are seen in almost all leads in which there is ST
+elevation. Although these Q waves are small and narrow: i) These Q
+waves are indistinguishable from the early Q waves of acute
+infarction in which ST segments are acutely rising; and, ii) Although
+inferior lead “normal septal q waves” may be seen in leads II,III,aVF
+— this usually only occurs with an inferior axis (which is not present
+in ECG #1) — and, if the inferior Q waves that we see in ECG #1
+were the result of “normal septal q waves” — then we
+should not also see the Q wave that is present in lateral lead I.
+One of the most characteristic ECG features of acute pericarditis in
+my experience — is that the ST-T wave appearance in lead
+II resembles the ST-T appearance in lead I (vs the situation with
+acute inferior MI — in which the ST-T wave appearance in lead II is
+much more similar to what we see in lead III, than it is to the lead I
+ST appearance).
+T-QRS-D is not present in lead V4 of Figure-1 (As shown in the
+magnified insert — When we look closely, the BLUE arrow
+highlights a definite notch at the J-point that negates the possibility
+of T-QRS-D).
+Although the ST/T wave ratio in lead V6 is “positive” for
+pericarditis (ie, the ST/T ratio = 0.33, which is over 0.25) — I did not
+feel this was a convincing result because the amount of ST
+elevation in lead V6 is only 1 mm, and therefore potentially subject
+to error pending minimal change in the point of reference chosen for
+measurement (See Figure-3 in My Comment in the June 8,
+2022 post for more on the ST-T wave ratio in lead V6 for pericarditis
+diagnosis).
+With the “textbook typical” ECG picture of acute pericarditis — ST
+elevation is seen in all but the right-sided leads (which are leads
+III,aVR,V1). There should not be suggestion of reciprocal
+change (as we see in lead aVL of Figure-1) — and there should not
+be a flat ST segment in lead V2 (as we see in Figure-1).
+As stated earlier — the ST-T waves in lead V3 (and to a lesser
+extent, in lead V4) look hyperacute (BLUE arrow highlighting the
+disproportionately “fat” T wave peak and “bulkier”-than-expected T
+wave dimensions in this V3 lead). In contrast — with the “textbook
+picture” of pure acute pericarditis, otherwise “normal” ST-T waves
+tend to look as if “lifted” above the ECG baseline instead of
+producing the hyperacute appearance that we see in lead V3.
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 11/17
+--- Страница 12 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+NOTE #1: Acute myocarditis could easily have produced the
+identical ECG picture that we see in Figure-1 — in which case it
+would be impossible to distinguish between acute
+myocarditis vs acute MI on the sole basis of this single ECG. But the
+completely normal cath — negative Troponins — normal Echo
+without wall motion abnormality — and normal MRI (without
+evidence of inflammation) ruled out acute myocarditis.
+NOTE #2: No mention is made in today’s history as to whether
+a pericardial friction rub was (or was not) present. This is
+unfortunate (but all-too-common in the cases I routinely see posted
+on the internet) — because IF a pericardial friction rub is heard, then
+you have made the diagnosis of acute pericarditis!
+NOTE #3: No mention was made regarding any potential
+positional relationship or pleuritic nature of this patient’s CP (the
+CP was instead described as “constant” and “stabbing”, and
+associated with nausea). While a patient’s description of the nature
+of their CP is by definition subjective, with imperfect correlation to
+textbook description of pericardial pain — there is a tendency for
+pericarditis CP to be “pleuritic” (increasing with inspiration due to
+commonly associated pleural inflammation) — and “positional”
+(commonly relieved by sitting up and exacerbated by lying supine,
+which increases “stretch” on the inflammed pericardium).
+BOTTOM Lines:
+I’ve always believed it important to be humbled on occasion by
+cases in which the patient “doesn’t read the textbook” before
+seeking emergency care. Clinical reality is not always
+predictable. Despite including specific chapters on the ECG
+findings of pericarditis for each of the ECG books that I’ve written
+over the years — I simply did not feel today’s initial ECG suggested
+pericarditis over acute MI (See Figures-2-thru-6 in My Comment at
+the bottom of the May 16, 2023 post in Dr. Smith’s ECG Blog for an
+example of such chapters).
+Today’s case is important because: i) It illustrates completely
+appropriate indication for prompt cardiac cath to exclude the
+possibility of acute infarction; — ii) It expands our insight regarding
+potential ECG presentations of pure acute pericarditis (as well as
+the diagnostic path for confirming this diagnosis); and, iii) It keeps
+us humble (while reminding us that in the great majority of cases in
+which a patient presents to the ED with sudden onset of severe,
+new CP — the diagnosis will be an acute cardiac event instead of
+acute pericarditis or myocarditis).
+Pendell Meyers onJune 15, 2025
+FALSE POSITIVE CATH LAB ACTIVATION PERICARDITIS
+SHARE    
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 12/17
+--- Страница 13 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+ PREVIOUS ARTICLE NEXT ARTICLE 
+60-something with h/o Anteroseptal OMI?
+Coronary Bypass has Accurate ECG
+acute chest pain interpretation is
+essential to correctly
+interpreting the
+angiogram.
+Write a Comment
+SEARCH
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 13/17
+--- Страница 14 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 14/17
+--- Страница 15 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 15/17
+--- Страница 16 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Willy Frick onJune 17, 2025
+Anteroseptal OMI? Accurate ECG interpretation is
+essential to correctly interpreting the angiogram.
+Written by Willy Frick A man in his early 40s with prior anterior OMI
+s/p bare metal stent to LAD in 2014 presented with acute chest
+pain,…
+Steve Smith onJune 25, 2025
+This is Excellent OMI Care
+This is the first post on our new blogger, WordPress. Notice that the
+URL is different from before (drsmithsecgblog.com). Weʼre hoping…
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 16/17
+--- Страница 17 ---
+22/01/2026, 15:24 A woman in her 50s with acute chest pain - Dr. Smith’s ECG Blog
+Steve Smith onJune 27, 2025
+What is this Pattern? Is an initial troponin I of 45 ng/L
+diagnostic?
+A middle aged male presented with acute chest pain. He was seen
+by Emily Dawra, one of our 2nd year EM residents, about to become
+3rd year in…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 17/17

@@ -1,0 +1,222 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:35:47.664743",
+  "file_size_bytes": 722122,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 13:53 Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Magnetic Resonance Imaging (MRI)
+By Mustafa A. Mafraji, MD, Rush University Medical Center
+Reviewed By William E. Brant, MD, University of Virginia
+Reviewed/Revised Sept 2025
+T1-Weighted MRI
+IMAGE
+IMAGE COURTESY OF HAKAN ILASLAN, MD.
+https://www.merckmanuals.com/professional/special-subjects/principles-of-radiologic-imaging/magnetic-resonance-imaging-mri 1/7
+--- Страница 2 ---
+22/01/2026, 13:53 Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
+MRI of the Knee
+IMAGE
+IMAGE COURTESY OF HAKAN ILASLAN, MD.
+Short T1 Inversion Recovery MRI of the Whole Body
+IMAGE
+IMAGE COURTESY OF HAKAN ILASLAN, MD.
+MRI uses magnetic fields and radio waves to produce images of thin slices of tissues (tomographic
+images). Normally, protons within tissues spin to produce tiny magnetic fields that are randomly
+aligned. When surrounded by the strong magnetic field of an MRI device, the magnetic axes align along
+that field. A radiofrequency pulse is then applied, causing the axes of many protons to momentarily
+align against the field in a high-energy state. After the pulse, protons relax and resume their baseline
+alignment within the magnetic field of the MRI device. The magnitude and rate of energy release that
+occurs as the protons resume this alignment (T1 relaxation) and as they wobble (precess) during the
+process (T2 relaxation) are recorded as spatially localized signal intensities by a coil (antenna) built
+https://www.merckmanuals.com/professional/special-subjects/principles-of-radiologic-imaging/magnetic-resonance-imaging-mri 2/7
+--- Страница 3 ---
+22/01/2026, 13:53 Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
+within the MRI device. Computer algorithms analyze these signals and produce detailed anatomic
+images.
+The relative signal intensity (brightness) of tissues in an MRI image is determined by factors such as:
+The radiofrequency pulse and gradient waveforms used to obtain the image
+Intrinsic T1 and T2 characteristics of different tissues
+The proton density of different tissues
+By controlling the radiofrequency pulse and gradient waveforms, computer programs produce specific
+pulse sequences that determine how an image is obtained (weighted) and how various tissues appear.
+Images can be:
+T1-weighted
+T2-weighted
+Proton density–weighted
+For example, fat appears bright (high signal intensity) on T1-weighted images and relatively dark (low
+signal intensity) on T2-weighted images; water and fluids appear relatively dark on T1-weighted images
+and bright on T2-weighted images. T1-weighted images optimally show normal soft-tissue anatomy and
+fat (eg, to confirm a fat-containing mass). T2-weighted images optimally show fluid and abnormalities
+(eg, tumors, inflammation, trauma). In practice, T1- and T2-weighted images provide complementary
+information, so both are important for characterizing abnormalities.
+High-resolution MRI scanners increase image quality and diagnostic accuracy and produce a wide
+variety of additional pulse sequences to further characterize tissues and tumors.
+Uses of MRI
+MRI is preferred to CT when soft-tissue contrast resolution must be highly detailed (eg, to evaluate
+intracranial or spinal cord abnormalities, inflammation, trauma, suspected musculoskeletal tumors, or
+internal joint derangement). MRI is also useful for the following:
+Vascular imaging: Magnetic resonance angiography (MRA) is used to image arteries with
+good diagnostic accuracy and is less invasive than conventional angiography. A gadolinium
+contrast agent is sometimes used. MRA can be used to image the thoracic and abdominal
+aorta and arteries of the brain, neck, abdominal organs, kidneys, and lower extremities.
+Venous imaging (magnetic resonance venography, or MRV) provides the best images of
+venous abnormalities, including thrombosis and anomalies.
+Hepatic and biliary tract abnormalities: Magnetic resonance cholangiopancreatography
+(MRCP) is a noninvasive, highly accurate method of imaging the biliary and pancreatic duct
+systems.
+Masses in the female reproductive organs: MRI supplements ultrasound to further
+characterize adnexal masses and to stage uterine tumors.
+https://www.merckmanuals.com/professional/special-subjects/principles-of-radiologic-imaging/magnetic-resonance-imaging-mri 3/7
+--- Страница 4 ---
+22/01/2026, 13:53 Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
+Certain fractures: As one example, MRI can provide accurate images of hip fractures in
+patients with osteopenia.
+Bone marrow infiltration and bone metastases: MRI is particularly useful for evaluating
+patients with positive bone scintigraphy and normal radiographs as well as for
+characterizing bone marrow abnormalities as metastases versus nonmalignant lesions.
+MRI can be substituted for CT with contrast in patients with a high risk of reactions to iodinated contrast
+agents.
+Contrast agents
+Contrast agents are often used with MRI to highlight vascular structures and to help characterize
+inflammation and tumors.
+The most commonly used agents are gadolinium derivatives, which have magnetic properties that affect
+proton relaxation times. MRI of intra-articular structures may include injection of a diluted gadolinium
+derivative into a joint.
+Variations of MRI
+Diffusion (diffusion-weighted) MRI
+Signal intensities are related to diffusion of water molecules in tissue. This type of MRI can be used:
+To detect early cerebral ischemia and infarction
+To detect white matter disease of the brain
+To differentiate abscess from a cystic tumor
+To stage various tumors such as non–small cell lung cancer
+Echo planar imaging
+This ultrafast technique (images obtained in < 1 second) is used for diffusion, perfusion, and functional
+imaging of the brain and heart. Its potential advantages include showing brain and heart activity and
+reducing motion artifacts. However, its use is limited because it requires special technical hardware and
+is more sensitive to various artifacts than conventional MRI.
+Functional MRI
+Functional MRI is used to assess brain activity by location.
+Most commonly, the brain is scanned at low resolution very frequently (eg, every 2 to 3 seconds). The
+change in oxygenated hemoglobin can be discerned and used to estimate metabolic activity of different
+parts of the brain.
+In clinical settings, functional MRI is especially helpful clinically in the mapping of motor or language
+cortices (ie, cortical areas that, when removed, result in deficits in sensory processing, motor function,
+https://www.merckmanuals.com/professional/special-subjects/principles-of-radiologic-imaging/magnetic-resonance-imaging-mri 4/7
+--- Страница 5 ---
+22/01/2026, 13:53 Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
+or language processing) in patients with intracranial abnormalities such as tumors and arteriovenous
+malformations for whom surgery is being planned. It is also used to plan epilepsy surgery.
+Researchers may use functional MRI to correlate brain function and anatomy (called brain mapping).
+MRI is performed while subjects do different cognitive tasks (eg, solve a math equation); the
+metabolically active parts of the brain are presumed to be the structures most involved in that
+particular task.
+Gradient echo imaging
+Gradient echo is a pulse sequence that can be used for fast imaging of moving blood and cerebrospinal
+fluid (eg, in MRA). Because this technique is fast, it can reduce motion artifacts (eg, blurring) during
+imaging that requires patients to hold their breath (eg, during imaging of cardiac, pulmonary, and
+abdominal structures).
+Magnetic resonance spectroscopy (MRS)
+MRS combines the information obtained by MRI (mainly based on water and fat content of tissues) with
+that of nuclear magnetic resonance (NMR). NMR provides information about tissue metabolites and
+biochemical abnormalities; this information can help differentiate certain types of tumors and other
+abnormalities.
+Magnetic resonance enterography
+Magnetic resonance enterography is often used for follow-up imaging of children with known
+inflammatory conditions of the small bowel.
+Because magnetic resonance enterography does not require ionizing radiation, it has an advantage over
+CT enterography.
+Perfusion MRI
+Perfusion MRI is a method of assessing relative cerebral blood flow. It can be used to detect:
+Areas of ischemia during imaging for stroke
+Areas of increased vascularity that can indicate tumors
+This information can help direct biopsy.
+Positron emission tomography (PET)–MRI
+PET-MRI combines functional PET with whole-body MRI. T1-weighted and short T1 inversion recovery
+(STIR) sequences are frequently used. This modality (available since 2010) is generally available only in
+major academic medical centers.
+Disadvantages of MRI
+https://www.merckmanuals.com/professional/special-subjects/principles-of-radiologic-imaging/magnetic-resonance-imaging-mri 5/7
+--- Страница 6 ---
+22/01/2026, 13:53 Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
+MRI is relatively expensive, requires longer imaging times than CT, and may not be immediately
+available in all areas.
+Other disadvantages include problems related to:
+The magnetic field
+Patient claustrophobia
+Contrast reactions
+Magnetic field
+MRI is relatively contraindicated in patients with implanted materials that can be affected by powerful
+magnetic fields. These materials include:
+Ferromagnetic metal (ie, containing iron)
+Magnetically activated or electronically controlled medical devices (eg, pacemakers,
+implantable cardioverter defibrillators, cochlear implants)
+Nonferromagnetic electrical wires or materials (eg, some pacemaker wires, certain
+pulmonary artery catheters)
+Ferromagnetic material may be displaced by the strong magnetic field, injuring a nearby organ; for
+example, displacement of vascular clips can result in hemorrhage. Displacement is more likely if the
+material has been in place < 6 weeks (before scar tissue forms). Ferromagnetic material can also cause
+imaging artifacts.
+Magnetically activated medical devices may malfunction when exposed to magnetic fields.
+Magnetic fields may induce current in any conductive materials strong enough to produce enough heat
+to burn tissues.
+Whether a specific device is compatible with MRI depends on the type of device, its components, and its
+manufacturer (see MRIsafety.com). Patients with an implantable device should not be placed in the MRI
+magnetic field until examiners are sure that MRI is safe with such a device in place. Also, MRI machines
+with different magnetic field strengths have different effects on materials, so safety in one machine
+does not ensure safety in another.
+The MRI magnetic field is very strong and may always be on. Thus, a ferromagnetic object (eg, an oxygen
+tank, a metal pole) at the entrance of the scanning room may be pulled into the magnet bore at high
+velocity and injure anyone in its path. The only way to separate the object from the magnet may be to
+turn off (quench) the magnetic field.
+Claustrophobia
+The imaging tube of an MRI machine is a tight, enclosed space that can trigger claustrophobia even in
+patients without preexisting phobias or anxiety. Also, some patients with obesity do not fit on the table
+or within the machine. Premedication with an antianxiety medication (eg, alprazolam or lorazepam) 15
+to 30 minutes before scanning is effective for most anxious patients.
+https://www.merckmanuals.com/professional/special-subjects/principles-of-radiologic-imaging/magnetic-resonance-imaging-mri 6/7
+--- Страница 7 ---
+22/01/2026, 13:53 Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
+MRI scanners with an open side can be used for patients with claustrophobia (or those with severe
+obesity). Images obtained during open MRI may be inferior to those of enclosed scanners depending on
+the field strength of the magnet, but they are usually sufficient for making a diagnosis.
+Patients should be warned that the MRI machine makes loud, banging noises during scanning.
+Contrast reactions
+Gadolinium-based contrast agents injected IV can cause headache, nausea, pain, and distortion of taste,
+as well as sensation of cold at the injection site.
+Serious contrast reactions are rare and much less common than with iodinated contrast agents.
+However, nephrogenic systemic fibrosis (NSF) has been reported in a small number of patients with
+advanced chronic kidney disease. NSF is a rare but life-threatening disorder that involves fibrosis of the
+skin, blood vessels, and internal organs, resulting in severe disability or death (1).
+Gadolinium-based contrast agents are categorized into Group I and Group II, based on their risk of NSF.
+Most NSF cases are linked to group I agents, which are not advised for use in the United States and
+Europe (2).
+The likelihood of developing NSF or nephrotoxicity is extremely low in patients who received group II
+gadolinium-based contrast media, even in high-risk patients. The consensus statement from the
+American College of Radiology and the National Kidney Foundation indicates that kidney function
+screening is not mandatory for any patients receiving group II gadolinium-based contrast media (3).
+Gadolinium-based contrast agents should be used only when necessary and at the lowest possible
+dose.
+References
+1. Lange S, Mędrzycka-Dąbrowska W, Zorena K, et al. Nephrogenic Systemic Fibrosis as a
+Complication after Gadolinium-Containing Contrast Agents: A Rapid Review. Int J Environ Res Public
+Health. 2021;18(6):3000. doi:10.3390/ijerph18063000
+2. Starekova J, Pirasteh A, Reeder SB. Update on Gadolinium-Based Contrast Agent Safety, From
+the AJR Special Series on Contrast Media. AJR Am J Roentgenol. 2024;223(3):e2330036.
+doi:10.2214/AJR.23.30036
+3. Weinreb JC, Rodby RA, Yee J, et al. Use of Intravenous Gadolinium-based Contrast Media in
+Patients with Kidney Disease: Consensus Statements from the American College of Radiology and
+the National Kidney Foundation. Radiology. 2021;298(1):28-35. doi:10.1148/radiol.2020202903
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/special-subjects/principles-of-radiologic-imaging/magnetic-resonance-imaging-mri 7/7

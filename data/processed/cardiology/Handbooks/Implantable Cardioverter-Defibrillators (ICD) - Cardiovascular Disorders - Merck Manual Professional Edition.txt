@@ -1,0 +1,264 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Implantable Cardioverter-Defibrillators (ICD) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:08.412903",
+  "file_size_bytes": 609946,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Implantable Cardioverter-Defibrillators (ICD) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:03 Implantable Cardioverter-Defibrillators (ICD) - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Implantable Cardioverter-Defibrillators (ICD)
+By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Feb 2025
+The decision to treat an arrhythmia depends on its symptoms and its potential severity. Treatment is
+directed at causes. If necessary, direct antiarrhythmic therapy, including antiarrhythmic drugs,
+cardioversion-defibrillation, implantable cardioverter-defibrillators (ICDs), pacemakers (and a special
+form of pacing, cardiac resynchronization therapy), catheter ablation, surgery, or a combination, is used.
+ICDs cardiovert or defibrillate the heart in response to ventricular tachycardia (VT) or ventricular
+fibrillation (VF). Tiered-therapy ICDs also provide antibradycardia pacing and antitachycardia pacing
+(to terminate responsive atrial or ventricular tachycardias) and store intracardiac electrograms (1).
+ICDs are implanted subcutaneously or subpectorally, with electrodes inserted transvenously into the
+right ventricle and sometimes also the right atrium. A biventricular ICD also has a left ventricular
+epicardial lead placed via the coronary sinus venous system or via thoracotomy to allow cardiac
+resynchronization therapy pacing (CRT-D). ICD platforms also include an ICD that is completely
+implanted subcutaneously (S-ICD) with no intravascular components (2) and a wearable vest-like
+defibrillator for short-term use (3).
+Chest Radiograph of a Patient with an Implantable Cardioverter Defib...
+IMAGE
+© 2017 ELLIOT K. FISHMAN, MD.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/implantable-cardioverter-defibrillators… 1/8
+--- Страница 2 ---
+22/01/2026, 14:03 Implantable Cardioverter-Defibrillators (ICD) - Cardiovascular Disorders - Merck Manual Professional Edition
+Chest Radiograph of a Patient with a Biventricular (bi-V) Implantabl...
+IMAGE
+© 2017 ELLIOT K. FISHMAN, MD.
+Impulse generators for ICDs typically last 5 to 7 years.
+Indications for ICDs
+ICDs are the preferred treatment for patients who have had
+An episode of VF or hemodynamically significant VT not due to reversible or transient
+conditions (eg, electrolyte disturbance, antiarrhythmic drug proarrhythmia, acute
+myocardial infarction)
+ICDs may also be indicated for patients with VT or VF inducible during an electrophysiologic study and
+for patients with idiopathic or ischemic cardiomyopathy, a left ventricular ejection fraction of < 35%, and
+a high risk of VT or VF. Other indications (see table Indications for Implantable Cardioverter-
+Defibrillators) are less clear.
+Because ICDs treat rather than prevent VT or VF, patients prone to these arrhythmias may require both
+an ICD and antiarrhythmic drugs to reduce the number of episodes and need for uncomfortable shocks;
+this approach also prolongs the life of the ICD.
+TABLE
+Indications for Implantable Cardioverter-Defibrillators in
+Ventricular Tachycardia and Ventricular Fibrillation
+Class of Evidence* Specific Indications
+Class I (Evidence or Opinion Supports) Hemodynamically unstable VT or VF
+when there is no transient or reversible
+cause
+https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/implantable-cardioverter-defibrillators… 2/8
+--- Страница 3 ---
+22/01/2026, 14:03 Implantable Cardioverter-Defibrillators (ICD) - Cardiovascular Disorders - Merck Manual Professional Edition
+Class of Evidence* Specific Indications
+Hemodynamically stable sustained VT in
+patients with a structural heart disorder
+Syncope of undetermined origin with
+sustained monomorphic VT induced
+during an electrophysiologic study
+Ischemic cardiomyopathy, NYHA class II
+or class III heart failure symptoms during
+optimal medical therapy, and LV ejection
+fraction ≤ 0.35 measured at least 40 days
+post-MI and at least 90 days post-
+revascularization
+Ischemic cardiomyopathy, NYHA class I
+heart failure symptoms during optimal
+medical therapy, and LV ejection fraction
+≤ 30% measured at least 40 days post-MI
+and at least 90 days post-
+revascularization
+Nonischemic dilated cardiomyopathy,
+NYHA class II or class III heart failure
+symptoms during optimal medical
+therapy, and LV ejection fraction ≤ 0.35
+Ischemic cardiomyopathy, nonsustained
+VT, LV ejection fraction ≤ 40% measured
+at least 40 days post-MI, and inducible VF
+or sustained VT detected during an
+electrophysiologic study
+Arrhythmogenic right ventricular
+cardiomyopathy (ARVC) with sustained
+VT, resuscitated cardiac arrest, or severe
+right or left ventricular systolic
+dysfunction
+Long QT syndrome with documented VT
+or symptoms suggestive thereof while
+receiving beta-blocker therapy
+Short QT interval with sustained VT, or
+cardiac arrest
+https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/implantable-cardioverter-defibrillators… 3/8
+--- Страница 4 ---
+22/01/2026, 14:03 Implantable Cardioverter-Defibrillators (ICD) - Cardiovascular Disorders - Merck Manual Professional Edition
+Class of Evidence* Specific Indications
+Brugada syndrome with type 1 ECG
+pattern and syncope presumed to be
+due to VT
+Catecholaminergic polymorphic
+ventricular tachycardia (CPVT) with
+sustained VT or syncope while receiving
+beta blocker therapy
+Early repolarization with sustained VT or
+cardiac arrest
+Class IIa (Evidence or Opinion In Favor) Idiopathic dilated cardiomyopathy,
+significant LV dysfunction during optimal
+medical therapy, and unexplained
+syncope
+Cardiomyopathy due to a lamin A/C
+mutation with unexplained syncope, or
+an independent indication for a
+permanent pacemaker, or ≥ 2 high-risk
+factors (nonsustained VT, intermediate
+LVEF 35% to 44%, non-missense
+mutation, male sex)
+Hypertrophic cardiomyopathy (HCM)
+with ≥ 1 high risk factors other than
+sustained VT/VF (family history of
+premature sudden death, unexplained
+recent syncope, LV thickness ≥ 30 mm),
+recent syncope suspected to be
+arrhythmic in origin, LV apical aneurysm,
+or LVEF < 50%
+ARVC without sustained VT/VF or severe
+right or left ventricular systolic
+dysfunction but with prior syncope or
+with multiple other risk factors for
+ventricular tachyarrhythmias (Towbin JA
+et al)
+NYHA class IV heart failure in
+nonhospitalized patients awaiting
+cardiac transplantation
+https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/implantable-cardioverter-defibrillators… 4/8
+--- Страница 5 ---
+22/01/2026, 14:03 Implantable Cardioverter-Defibrillators (ICD) - Cardiovascular Disorders - Merck Manual Professional Edition
+Class of Evidence* Specific Indications
+Cardiac sarcoidosis with LV ejection
+fraction > 35% who have ≥ 1 of the
+following: unexplained syncope,
+significant myocardial scar visible on
+cardiac MRI or PET scan, inducible
+sustained VT or VF, or an independent
+indication for a permanent pacemaker
+Giant cell myocarditis with VF or
+unstable VT during optimal medical
+therapy
+Idiopathic dilated cardiomyopathy, NYHA
+class I heart failure symptoms during
+optimal medical therapy, LV ejection
+fraction ≤ 0.35
+Long QT syndrome with no symptoms
+but a QTc > 0.50 second during beta-
+blocker therapy
+Syncope and an advanced structural
+heart disorder if invasive and
+Class IIb (Less Well Supported by noninvasive investigations have not
+Evidence or Opinion) identified a cause
+HCM without the risk factors listed above
+but with nonsustained VT or extensive
+late gadolinium enhancement on cardiac
+magnetic resonance imaging
+ARVC without sustained VT/VF or severe
+right or left ventricular systolic
+dysfunction but with fewer other risk
+factors for ventricular tachyarrhythmias
+(Towbin et al)
+Class III (Not Indicated or Harmful) Syncope of unknown etiology in absence
+of inducible VT or VF and without a
+structural heart disorder
+Incessant VT or VF
+VT or VF with mechanisms amenable to
+catheter or surgical ablation
+https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/implantable-cardioverter-defibrillators… 5/8
+--- Страница 6 ---
+22/01/2026, 14:03 Implantable Cardioverter-Defibrillators (ICD) - Cardiovascular Disorders - Merck Manual Professional Edition
+Class of Evidence* Specific Indications
+VT or VF due to transient or reversible
+disorders when correction is feasible
+and likely to prevent recurrence
+Psychiatric disorders that may worsen
+with ICD implantation or that preclude
+follow-up
+Patients with no reasonable expectation
+of survival with an acceptable functional
+status for ≥ 1 year
+Patients with NYHA class IV medication-
+refractory heart failure symptoms who
+are not candidates for cardiac
+transplantation or a CRT ICD
+https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/implantable-cardioverter-defibrillators… 6/8
+--- Страница 7 ---
+22/01/2026, 14:03 Implantable Cardioverter-Defibrillators (ICD) - Cardiovascular Disorders - Merck Manual Professional Edition
+* Class I: Conditions for which there is evidence for and/or general agreement that the
+procedure or treatment is useful and effective
+Class IIa: The weight of evidence or opinion is in favor of the procedure or treatment
+Class IIb: Usefulness/efficacy is less well established by evidence or opinion
+Class III: Conditions for which there is evidence and/or general agreement that the
+procedure or treatment is not useful/effective and in some cases may be harmful
+Data on classes of evidence from Jacobs AK, Kushner FG, Ettinger SM, et al. ACCF/AHA
+clinical practice guideline methodology summit report: a report of the American College of
+Cardiology Foundation/American Heart Association Task Force on Practice
+Guidelines. Circulation 2013;127(2):268-310. doi:10.1161/CIR.0b013e31827e8e5f
+ARVC = arrhythmogenic right ventricular cardiomyopathy; BP = blood pressure; CPVT =
+catecholaminergic polymorphic ventricular tachycardia; CRT = cardiac resynchronization
+therapy; HCM = hypertrophic cardiomyopathy; ICD = implantable cardioverter defibrillator;
+LV = left ventricular; MI = myocardial infarction; NYHA = New York Heart Association; QTc =
+corrected QT interval; RV = right ventricular; VF = ventricular fibrillation; VT = ventricular
+tachycardia.
+Data from Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS guideline
+for management of patients with ventricular arrhythmias and the prevention of sudden
+death: a report of the American College of Cardiology Foundation, American Heart
+Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am
+Coll Cardiol 72:e91–e220, 2018 doi: 10.1016/j.jacc.2017.10.054, Towbin JA, McKenna WJ,
+Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation, risk stratification,
+and management of arrhythmogenic cardiomyopathy. Heart Rhythm 16:e301–e372, 2019,
+and Ommen SR, Ho CY, Asif IM, et al: 2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline
+for the Management of Hypertrophic Cardiomyopathy: A Report of the American Heart
+Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines
+[published correction appears in Circulation 150(8):e198, 2024. doi:
+10.1161/CIR.0000000000001277]. Circulation 149(23):e1239–e1311, 2024.
+doi:10.1161/CIR.0000000000001250
+ICD malfunction
+ICDs may malfunction by
+Delivering inappropriate pacing or shocks
+Not delivering pacing or shocks when needed
+https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/implantable-cardioverter-defibrillators… 7/8
+--- Страница 8 ---
+22/01/2026, 14:03 Implantable Cardioverter-Defibrillators (ICD) - Cardiovascular Disorders - Merck Manual Professional Edition
+ICDs may deliver inappropriate pacing or shocks in response to sinus rhythm, supraventricular
+tachycardia, atrial fibrillation, atrial flutter, or nonphysiologically generated impulses (eg. due to lead
+fracture).
+ICDs may not deliver appropriate pacing or shocks when needed because of factors such as lead or
+impulse generator migration, undersensing, an increase in pacing threshold due to fibrosis at the site of
+prior shocks, and battery depletion.
+When an ICD discharges
+For patients who report that the ICD has discharged but do not have associated symptoms of syncope,
+dyspnea, chest pain, or persistent palpitations, a follow-up with the ICD clinic and/or the
+electrophysiologist should be arranged as soon as feasible. The ICD can be electronically interrogated to
+determine the reason for discharge. If such associated symptoms were present, or the patient received
+multiple shocks, urgent referral is indicated to look for a treatable cause (eg, coronary ischemia,
+electrolyte abnormality) or device malfunction.
+References
+1. Leong AM, Arnold AD, Whinnett ZI. Implantable Cardioverter Defibrillator Tachycardia Therapies:
+Past, Present and Future Directions. J Cardiovasc Dev Dis 2024;11(3):92. Published 2024 Mar 20.
+doi:10.3390/jcdd11030092
+2. Weinstock J, Madias C. The Subcutaneous Defibrillator. Card Electrophysiol Clin 2017;9(4):775-
+783. doi:10.1016/j.ccep.2017.08.007
+3. Sandhu U, Rajyaguru C, Cheung CC, Morin DP, Lee BK. The wearable cardioverter-defibrillator
+vest: Indications and ongoing questions. Prog Cardiovasc Dis 2019;62(3):256-264.
+doi:10.1016/j.pcad.2019.05.005
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/implantable-cardioverter-defibrillators… 8/8

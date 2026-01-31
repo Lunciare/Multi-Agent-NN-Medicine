@@ -1,0 +1,168 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Cardiovascular examination - Cardiology Explained - NCBI Bookshelf.pdf",
+  "converted_date": "2026-01-31T14:44:15.313939",
+  "file_size_bytes": 280611,
+  "original_format": "pdf",
+  "document_type": "Textbooks",
+  "source_folder": "Textbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Textbooks/Cardiovascular examination - Cardiology Explained - NCBI Bookshelf.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:50 Cardiovascular examination - Cardiology Explained - NCBI Bookshelf
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+Ashley EA, Niebauer J. Cardiology Explained. London: Remedica; 2004.
+Chapter 2 Cardiovascular examination
+Although technology has a high profile in cardiology, clinical examination remains a central tool,
+especially for the generalist.
+General inspection
+Many clues to the cardiac condition can be detected with a simple visual inspection. In the
+acutely unwell patient, cyanosis, pallor, and sweatiness can all be signs of impending danger –
+does the patient "look" ill? In nonacute patients, cachexia is perhaps the most important feature
+to note on general inspection since it is an important prognostic sign in heart failure. Palpation is
+essential to confirm that girth is excess fluid (pitting edema). Certain physical appearances
+should always prompt an awareness of cardiac abnormalities (see Table 1). Facial signs for which
+there is evidence of an association with cardiac conditions are shown in Table 2. Finally, it is
+important to document the condition of a potential cardiac patient's teeth.
+Table 1
+Cardiac manifestations of genetic disorders.
+Table 2
+Facial signs associated with cardiac conditions.
+Taking the pulse
+Taking the pulse is one of the simplest, oldest, and yet most informative of all clinical tests. As
+you pick up the patient's hand, you should check for clubbing and any peripheral signs of
+endocarditis (see Table 3). Note the rate and document the rhythm of the pulse. The character and
+volume of the pulse can also be useful signs and traditionally it is believed that these are easier to
+detect in larger arteries such as the brachial and the carotid (see Table 4).
+Table 3
+Peripheral signs associated with infective endocarditis.
+Table 4
+Abnormal pulses.
+Checking both radials simultaneously is important in all cases of chest pain as a gross screening
+test for aortic dissection. Adding radiofemoral delay (or radiofemoral difference in volume) may
+alert you to coarctation as a rare cause of hypertension.
+Peripheral pulses should also be documented, as peripheral vascular disease is an important
+predictor of coronary artery disease:
+femoral – feel at the midinguinal point (midway between the symphysis pubis and the
+anterior superior iliac spine, just inferior to the inguinal ligament)
+popliteal – feel deep in the center of the popliteal fossa with the patient lying on their back
+with their knees bent
+posterior tibial – feel behind the medial malleolus
+https://www.ncbi.nlm.nih.gov/books/NBK2213/ 1/4
+--- Страница 2 ---
+22/01/2026, 15:50 Cardiovascular examination - Cardiology Explained - NCBI Bookshelf
+dorsalis pedis – feel over the second metatarsal bone just lateral to the extensor hallucis
+tendon
+Blood pressure
+This is described in Chapter 6, Hypertension.
+Jugular venous pressure
+Of all the elements of clinical examination, the jugular venous pressure (JVP) is the most
+mysterious. It is highly esoteric, and whilst some people wax lyrical about the steepness of the
+"y" descent, others will feel grateful to be convinced they see it at all. Two things are very clear:
+(1) the JVP is a very useful clinical marker in many situations, and (2) the exact height of the
+JVP is a poor guide to central venous pressure. Taken together, this suggests that noting whether
+the JVP is "up" or "down" is good practice in every cardiac patient. In particular, it can be very
+useful in diagnosing right-sided heart failure and in differentiating a cardiovascular cause of
+acute shortness of breath (right ventricular failure, pulmonary embolism) from an intrinsic
+pulmonary cause (asthma, chronic obstructive pulmonary disease). For the general physician, the
+waveform of the JVP (see Figure 1) is, for most purposes, only of academic significance.
+Figure 1
+Waveforms of the jugular venous pressure (including a brief
+explanation for each wave). The "c" wave represents right
+ventricular contraction "pushing" the tricuspid valve back
+into the right atrium. Reproduced with permission from
+Oxford University Press (more...)
+The JVP should be assessed with the patient reclined at a 45° angle (see Figure 2). Accepted
+practice is that only the internal jugular vein should be used, as only this vessel joins the superior
+vena cava at a 180° angle. The JVP is defined as the height of the waveform in centimeters above
+the sternal angle (<4 cm is normal). Abnormalities of the JVP are described in Table 5.
+Figure 2
+The jugular veins. The patient is lying at a 45° angle, thus
+revealing the surface markings of the neck.
+Table 5
+Abnormalities of the jugular venous pressure (JVP).
+Palpation
+Before auscultation, inspection of the precordium can be a useful indicator of previous surgery –
+eg, midline sternotomy suggests previous bypass, lateral thoracotomy suggests previous mitral
+valve or minimally invasive bypass surgery (left internal mammary artery to left anterior
+descending coronary artery). Locate the apex beat – the furthest point laterally and inferioraly
+where you can clearly feel the apex (usually the fifth intercostal space in the midclavicular line).
+There are many different descriptions for abnormal apex beats. One scheme distinguishes
+heaving (high afterload, eg, aortic stenosis) from thrusting (high preload, eg, aortic
+regurgitation). The apex may also be "tapping", but this reflects a loud first heart sound. In
+addition, you should place your left hand over the sternum and feel for any significant ventricular
+heave (right ventricular hypertrophy) or thrill (tight aortic stenosis, ventricular septal defect).
+Auscultation
+https://www.ncbi.nlm.nih.gov/books/NBK2213/ 2/4
+--- Страница 3 ---
+22/01/2026, 15:50 Cardiovascular examination - Cardiology Explained - NCBI Bookshelf
+Held by many as the key to physical examination, the importance of auscultation remains, but is
+diminished in an age of increasingly portable echocardiography.
+Listen over the aortic (second right intercostal space) and pulmonary (second left intercostal
+space) areas and at the left lower sternal edge with the diaphragm of your stethoscope (better for
+higher pitches), then use the bell for the apex (better for lower pitches). If in doubt, use both.
+Press lightly with the bell. If you hear an abnormality over the aortic or pulmonary areas, you
+should listen over the carotids. If you hear an abnormality at the apex, listen in the axilla. Listen
+systematically. Start with the heart sounds – ignore everything else.
+Heart sound variations
+When listening to heart sounds, note their volume (normal, diminished, loud) and whether
+physiological splitting is present (see Figure 3).
+Figure 3
+Relative positions of heart sounds and added sounds in
+auscultation. Sounds in red are high pitched. A2: aortic
+component of second heart sound; EC: ejection click; MSC:
+mid systolic click; OS: opening snap; P2: pulmonary
+component of second heart sound; (more...)
+Physiological splitting of the second heart sound is when the sound of aortic valve closure (A2)
+occurs earlier than that of pulmonary valve closure (P2). It occurs in inspiration and is more
+common in the young. It is caused by increased venous return and negative intrathoracic
+pressure. This delays right ventricular emptying and pulmonary valve closure, at the same time
+that pooling of blood in the pulmonary capillary bed hastens left ventricular emptying and aortic
+valve closure. Reverse splitting of the second heart sound can occur in conditions where aortic
+valve closure is delayed, such as left bundle branch block or paced right ventricle, or where
+pulmonary valve closure occurs early, such as in the B form of Wolff–Parkinson–White
+syndrome. Wide fixed splitting of the second heart sound occurs in atrial septal defect.
+A third heart sound may be heard soon after the second heart sound. It is thought to be due to
+rapid, high-volume filling of the left ventricle. As such, it is found in pathological (left
+ventricular failure) as well as physiological (athletic heart, pregnancy) states.
+A fourth heart sound may be heard just before the first sound. This is caused by atrial contraction
+filling a stiff left ventricle, eg, hypertensive heart or diastolic heart failure.
+Murmurs
+When you have considered these heart sound variations, move on to consider the gaps between
+the heart sounds. If you hear a murmur, first establish whether it occurs in systole or diastole
+(time against the carotid pulse if necessary). Then determine its length and, if short, its exact
+position (early, mid, or late; systole or diastole) (see Figure 3).
+Added sounds
+An opening snap occurring after the second heart sound represents a diseased mitral valve
+opening to a stenotic position. An ejection click soon after the first heart sound occurs in aortic
+stenosis and pulmonary stenosis. A mid systolic click is heard in mitral valve prolapse.
+After listening to the heart
+Listen to the base of the lungs for the fine inspiratory crackles of pulmonary edema. If you
+suspect right-sided cardiac pathology, palpate the liver, which will be enlarged, congested, and
+https://www.ncbi.nlm.nih.gov/books/NBK2213/ 3/4
+--- Страница 4 ---
+22/01/2026, 15:50 Cardiovascular examination - Cardiology Explained - NCBI Bookshelf
+possibly pulsatile in cases of right ventricular failure or tricuspid valve disease. Also, check the
+patient's ankles for swelling.
+Table 6 outlines common associations in cardiovascular clinical examination.
+Table 6
+Common associations in cardiovascular clinical examination.
+Summary
+A careful clinical examination can reveal much about the condition of your patient's heart. In
+addition, noting the findings of a full examination will greatly facilitate specialist referral. In an
+age of high technology, skilled clinical examination has yet to be surpassed in terms of
+convenience, safety, and value for money.
+Further reading
+1. Bickley LS, Hoekelman RA, editors. Bates' Pocket Guide to Physical Examination and
+History Taking, 3rd edn. Lippincott Williams & Wilkins, 2000.
+2. Gleadle J. History and Examination at a Glance. Blackwell Science, 2003.
+3. Perloff JK. Physical Examination of the Heart and Circulation, 3rd edn. WB Saunders,
+2000.
+4. Turner RC, Blackwood RA. Lecture Notes on Clinical Skills, 3rd edn. Blackwell Science,
+1997.
+Copyright © 2004, Remedica.
+Bookshelf ID: NBK2213
+https://www.ncbi.nlm.nih.gov/books/NBK2213/ 4/4

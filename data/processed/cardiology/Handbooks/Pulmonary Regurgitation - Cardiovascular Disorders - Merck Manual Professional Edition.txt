@@ -1,0 +1,145 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Pulmonary Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:08.743548",
+  "file_size_bytes": 177005,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Pulmonary Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:52 Pulmonary Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Pulmonary Regurgitation
+(Pulmonic Valve Regurgitation)
+By Guy P. Armstrong, MD, Waitemata District Health Board and Waitemata Cardiology, Auckland
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Jun 2025
+Pulmonary (pulmonic) regurgitation (PR) is incomplete closure of the pulmonary
+valve causing backflow of blood from the pulmonary artery into the right
+ventricle during diastole. The most common cause is pulmonary hypertension.
+PR is usually asymptomatic. Signs include a decrescendo diastolic murmur.
+Diagnosis is by echocardiography. Usually, no specific treatment is necessary
+except for management of pulmonary hypertension.
+(See also Overview of Cardiac Valvular Disorders.)
+In adults, the most common cause by far of pulmonary regurgitation, also called pulmonic
+regurgitation or pulmonary insufficiency, is:
+Secondary pulmonary hypertension
+Less common causes are:
+Congenital heart disease
+Idiopathic pulmonary artery dilation
+Infective endocarditis
+Surgical repair of tetralogy of Fallot or other congenital heart disease involving the
+pulmonary valve
+Rare causes are:
+Carcinoid syndrome
+Rheumatic fever
+Following intervention for valvular pulmonary stenosis (early or late)
+Congenital heart disease such as absent pulmonary valve syndrome and severe Ebstein
+anomaly
+Severe pulmonary regurgitation is rare and most often results from an isolated congenital defect
+involving dilation of the pulmonary artery and pulmonary valve annulus.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/pulmonary-regurgitation 1/4
+--- Страница 2 ---
+22/01/2026, 14:52 Pulmonary Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+PR may contribute to development of right ventricular (RV) dilatation and eventually RV dysfunction–
+induced heart failure (HF), but in most cases, pulmonary hypertension contributes to this complication
+much more significantly. Rarely, acute RV dysfunction–induced HF develops when endocarditis causes
+acute PR.
+Symptoms and Signs of Pulmonary Regurgitation
+Pulmonary regurgitation is usually asymptomatic. A few patients develop symptoms and signs of RV
+dysfunction–induced HF (eg, dyspnea, exercise intolerance, peripheral edema, hepatic congestion).
+Palpable signs are attributable to pulmonary hypertension and RV hypertrophy. They include a palpable
+pulmonic component (P2) of the second heart sound (S2) at the left upper sternal border and a
+sustained RV impulse that is increased in amplitude at the left middle and lower sternal border.
+Auscultation
+High-pitched, early diastolic decrescendo murmur
+On auscultation, the first heart sound (S1) is normal. The S2 may be split or single. When split, P2 may
+be loud and audible shortly after the aortic component of S2 (A2) because of pulmonary hypertension,
+or P2 may be delayed because of increased RV stroke volume. S2 may be single because of prompt
+pulmonary valve closing with a merged A2-P2 or, rarely, because of congenital absence of the
+pulmonary valve. An RV third heart sound (S3), fourth heart sound (S4), or both may be audible with RV
+dysfunction–induced HF or RV hypertrophy; these sounds can be distinguished from left ventricular
+heart sounds because they are located at the left parasternal fourth intercostal space and because they
+grow louder with inspiration.
+The murmur of PR due to pulmonary hypertension is a high-pitched, early diastolic decrescendo
+murmur that begins with P2 and ends before S1 and that radiates toward the mid-right sternal edge
+(Graham Steell murmur); it is heard best at the left upper sternal border with the diaphragm of the
+stethoscope while the patient holds the breath at end-expiration and sits upright.
+The murmur of PR without pulmonary hypertension is shorter, lower-pitched (rougher in quality), and
+begins after P2. Both murmurs may resemble the murmur of aortic regurgitation but can be
+distinguished by inspiration (which makes the PR murmur louder) and by Valsalva release. After Valsalva
+release, the PR murmur immediately becomes loud (because of immediate venous return to the right
+side of the heart), but the aortic regurgitation murmur requires 4 or 5 beats to do so. Also, a soft PR
+murmur may sometimes become even softer during inspiration because this murmur is usually best
+heard at the second left intercostal space, where inspiration pushes the stethoscope away from the
+heart. In some forms of congenital heart disease, the murmur of severe PR is quite short because the
+pressure gradient between the pulmonary artery and the right ventricle equalizes rapidly in diastole.
+Mixed pulmonary stenosis and insufficiency, as in the case of a deteriorating bioprosthetic valve or a
+right ventricle to pulmonary artery conduit, can be heard as a to-fro murmur in both systole and
+diastole.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/pulmonary-regurgitation 2/4
+--- Страница 3 ---
+22/01/2026, 14:52 Pulmonary Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+Diagnosis of Pulmonary Regurgitation
+Echocardiography
+Pulmonary regurgitation is usually incidentally detected during a physical examination or Doppler
+echocardiography performed for other reasons. Mild PR is a common echocardiographic finding that
+requires no intervention.
+Establishing the severity of pulmonary regurgitation by echocardiography can be challenging; criteria
+exist but are most useful when regurgitation is clearly severe (with diastolic flow reversal in the branch
+pulmonary arteries, a pressure half-time of 100 msec or less, and a wide color Doppler jet), or clearly
+mild (small color jet with minimal or no flow reversal in the main pulmonary artery). Cardiac MRI can be
+used to quantify the regurgitant fraction and more precisely grade the severity, along with quantifying
+the presence and degree of right ventricle dilation (1, 2).
+An ECG and chest radiograph are usually also obtained. ECG may show signs of RV hypertrophy; chest
+radiograph may show RV enlargement and evidence of conditions underlying pulmonary hypertension.
+Diagnosis references
+1. Zoghbi WA, Asch FM, Bruce C, et al. Guidelines for the Evaluation of Valvular Regurgitation After
+Percutaneous Valve Repair or Replacement: A Report from the American Society of
+Echocardiography Developed in Collaboration with the Society for Cardiovascular Angiography and
+Interventions, Japanese Society of Echocardiography, and Society for Cardiovascular Magnetic
+Resonance [published correction appears in J Am Soc Echocardiogr 2019 Jul;32(7):914-917. doi:
+10.1016/j.echo.2019.05.013.]. J Am Soc Echocardiogr 2019;32(4):431-475.
+doi:10.1016/j.echo.2019.01.003
+2. Zoghbi WA, Enriquez-Sarano M, Foster E, et al. Recommendations for evaluation of the severity
+of native valvular regurgitation with two-dimensional and Doppler echocardiography. J Am Soc
+Echocardiogr 2003;16(7):777-802. doi:10.1016/S0894-7317(03)00335-3
+Treatment of Pulmonary Regurgitation
+Treatment of cause
+Sometimes pulmonary valve replacement (PVR)
+Treatment is management of the condition causing pulmonary regurgitation, particularly when
+pulmonary hypertension is the cause.
+Pulmonary valve replacement is an option if RV dilation or dysfunction develops, particularly if the
+patient has symptoms. Pulmonary valve replacement is the treatment of choice for patients with
+moderate or greater PR after intervention for pulmonary stenosis, who have right ventricle dilation and
+symptoms or progressive decrease in exercise capacity. Finally, pulmonary valve replacement is
+commonly performed in patients after initial tetralogy of Fallot repair, particularly when a transannular
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/pulmonary-regurgitation 3/4
+--- Страница 4 ---
+22/01/2026, 14:52 Pulmonary Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+patch is used (1). Surgical and transcatheter techniques are available for pulmonary valve replacement,
+depending upon patient characteristics and specific anatomic considerations.
+Treatment reference
+1. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC Guideline for the Management of Adults
+With Congenital Heart Disease: A Report of the American College of Cardiology/American Heart
+Association Task Force on Clinical Practice Guidelines [published correction appears in Circulation
+2019 Apr 2;139(14):e833-e834. doi: 10.1161/CIR.0000000000000683]. Circulation
+2019;139(14):e698-e800. doi:10.1161/CIR.0000000000000603
+Key Points
+In adults, pulmonary regurgitation (PR) is usually caused by pulmonary hypertension.
+Hemodynamic consequences are usually due to the cause rather than PR itself.
+Heart sounds when PR is due to pulmonary hypertension include a high-pitched, early
+diastolic decrescendo murmur that begins with P2 and ends before S1 and that radiates
+toward the mid-right sternal edge; it is heard best at the left upper sternal border while
+the patient holds the breath at end-expiration and sits upright. The murmur of PR
+without pulmonary hypertension is shorter, lower-pitched, and begins after P2.
+Treatment is directed at the cause; valve replacement is usually not needed except in
+patients with congenital heart disease and prior pulmonary valve intervention.
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/valvular-disorders/pulmonary-regurgitation 4/4

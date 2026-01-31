@@ -1,0 +1,724 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:36:10.987283",
+  "file_size_bytes": 1053322,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Hypertension
+By Matthew R. Weir, MD, University of Maryland School of Medicine
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Feb 2025 | Modified Dec 2025
+Hypertension is sustained elevation of resting systolic blood pressure (≥ 130
+mm Hg), diastolic blood pressure (≥ 80 mm Hg), or both. Hypertension with no
+known cause (primary hypertension) is most common. Hypertension with an
+identified cause (secondary hypertension) is usually due to primary
+aldosteronism. Sleep apnea, chronic kidney disease, or renal artery stenosis are
+other causes of secondary hypertension. Usually, no symptoms develop unless
+hypertension is severe or long-standing, which results in target organ damage
+to the brain, heart, or kidneys. Diagnosis is by sphygmomanometry. Tests may
+be done to determine cause, assess organ damage, and identify other
+cardiovascular risk factors. Treatment involves lifestyle changes and
+medications, including diuretics, angiotensin-converting enzyme (ACE)
+inhibitors, angiotensin II receptor blockers, and calcium channel blockers.
+Hypertension is defined as a systolic blood pressure (BP) ≥ 130 mm Hg or a diastolic blood pressure ≥
+80 mm Hg or taking medication for hypertension. This definition is based on the relationship between
+blood pressure and cardiovascular events in large populations. Nearly half of adults in the United States
+have hypertension. Many of these people are not aware that they have hypertension. Approximately
+80% of adults with hypertension have been advised to begin treatment with medication and lifestyle
+modification, but only approximately 50% with hypertension actually receive treatment (1).
+Even with medication and lifestyle modification, BP is at goal (under control) in only 26% of patients,
+and, among treated adults whose BP is not at goal, almost 60% have a BP ≥ 140/90 mm Hg (1).
+High blood pressure is more common in non-Hispanic Black adults (58%) than in non-Hispanic White
+adults (49%), non-Hispanic Asian adults (45%), or Hispanic adults (39%) (1). Among those for whom
+blood pressure medication and lifestyle modification have been recommended, control of blood
+pressure is higher among non-Hispanic White adults (31%) than in non-Hispanic Black adults (20%), non-
+Hispanic Asian adults (24%), or Hispanic adults (23%) (1).
+Blood pressure increases with age. About two-thirds of people > 65 years have hypertension, and
+people with a normal BP at age 55 have a 90% lifetime risk of developing hypertension (2). Although
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 1/20
+--- Страница 2 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+hypertension is common with increased age, treatment remains important because higher BP increases
+morbidity and mortality risk.
+Special considerations are indicated for hypertension during pregnancy because complications are
+different. Hypertension that develops during pregnancy may resolve after pregnancy (see Hypertension
+in Pregnancy and Preeclampsia and Eclampsia).
+Categories of BP in adults, defined by the American College of Cardiology/American Heart Association
+(ACC/AHA), include normal, elevated BP, stage 1 (mild) or stage 2 hypertension (3) (see table
+Classification of Blood Pressure in Adults). Normal values for blood pressure in infants, children, and
+adolescents are much lower than those in adults (4).
+TABLE
+Classification of Blood Pressure in Adults*
+Classification Blood Pressure
+Normal blood pressure < 120/80 mm Hg
+Elevated blood pressure 120–129/< 80 mm Hg
+130–139 mm Hg (systolic)
+Stage 1 hypertension OR
+80–89 mm Hg (diastolic)
+≥ 140 mm Hg (systolic)
+Stage 2 hypertension OR
+≥ 90 mm Hg (diastolic)
+* Patients with systolic and diastolic blood pressure in different categories should be
+designated to the higher blood pressure category.
+Data from Writing Committee Members*, Jones DW, Ferdinand KC, et al. 2025
+AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the
+Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults: A
+Report of the American College of Cardiology/American Heart Association Joint Committee
+on Clinical Practice Guidelines. Hypertension. 2025;82(10):e212-e316.
+doi:10.1161/HYP.0000000000000249
+General references
+1. Million Hearts. Estimated Hypertension Prevalence, Treatment, and Control Among U.S. Adults.
+https://millionhearts.hhs.gov/data-reports/hypertension-prevalence.html March 21, 2021.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 2/20
+--- Страница 3 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Accessed November 10, 2025. https://millionhearts.hhs.gov/data-reports/hypertension-
+prevalence.html
+2. Vasan RS, Beiser A, Seshadri S, et al. Residual lifetime risk for developing hypertension in
+middle-aged women and men: The Framingham Heart Study. JAMA. 2002;287(8):1003-1010.
+doi:10.1001/jama.287.8.1003
+3. Writing Committee Members*, Jones DW, Ferdinand KC, et al. 2025
+AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the
+Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults: A Report of
+the American College of Cardiology/American Heart Association Joint Committee on Clinical
+Practice Guidelines. Hypertension. 2025;82(10):e212-e316. doi:10.1161/HYP.0000000000000249
+4. Flynn J.T, Kaelber DC, Baker-Smith CM, et al; Subcommittee on Screening and Management of
+High Blood Pressure in Children. Clinical practice guideline for screening and management of high
+blood pressure in children and adolescents. Pediatrics. 2017;140(3):e20171904.
+doi:10.1542/peds.2017-3035
+Etiology of Hypertension
+Hypertension Myths
+PODCAST
+Hypertension may be:
+Primary (no specific cause—85% of cases)
+Secondary (an identified cause)
+Primary hypertension
+Hemodynamics and physiologic components (eg, plasma volume, activity of the renin-angiotensin
+system) vary, indicating that primary hypertension is unlikely to have a single cause. Even if one factor is
+recognized, multiple factors are probably involved in sustaining elevated blood pressure (the mosaic
+theory). Heredity is a predisposing factor, but the exact mechanism by which genetics plays a role is
+unclear. At younger ages, environmental factors (eg, dietary sodium, stress) seem to affect only people
+who are genetically susceptible; however, in patients > 65 years, high sodium intake becomes more
+likely to precipitate hypertension.
+Secondary hypertension
+Common causes include (1):
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 3/20
+--- Страница 4 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Obstructive sleep apnea
+Renal parenchymal disease: Chronic glomerulonephritis or pyelonephritis, polycystic renal
+disease, lupus nephritis, obstructive uropathy
+Renovascular disease
+Primary aldosteronism (2)
+Other endocrine disorders (less common): Pheochromocytoma, Cushing syndrome,
+congenital adrenal hyperplasia, hyperthyroidism, hypothyroidism (myxedema), primary
+hyperparathyroidism, acromegaly, and mineralocorticoid excess syndromes other than
+primary aldosteronism
+Prescription or over-the-counter medications: Sympathomimetics (decongestants),
+nonsteroidal anti-inflammatory drugs (NSAIDs), antipsychotics, tyrosine kinase inhibitors,
+angiogenesis inhibitors, stimulants, corticosteroids, cocaine
+Vascular anomalies: Coarctation of the aorta
+Licorice may contribute to worsening of blood pressure control. Diabetes is not considered a cause of
+secondary hypertension, although patients with diabetes commonly also are hypertensive.
+Etiology references
+1. Rimoldi SF, Scherrer U, Messerli FH. Secondary arterial hypertension: when, who, and how to
+screen? Eur Heart J. 2014;35(19):1245–1254. doi:10.1093/eurheartj/eht534
+2. Brown JM, Siddiqui M, Calhoun DA, et al. The unrecognized prevalence of primary
+aldosteronism: A cross-sectional study. Ann Intern Med. 2020;173(1):10–20. doi:10.7326/M20-0065
+Pathophysiology of Hypertension
+Because blood pressure equals cardiac output (CO) multiplied by total peripheral vascular resistance
+(TPR), pathogenic mechanisms involve:
+Increased CO
+Increased TPR
+Both
+In most patients with hypertension, CO is normal or slightly increased, and TPR is increased. This
+pattern is typical of primary hypertension and hypertension due to primary aldosteronism,
+pheochromocytoma, renovascular disease, and renal parenchymal disease.
+In other patients, CO is increased (possibly because of venoconstriction in large veins), and TPR is
+inappropriately normal for the level of CO. Later in the disorder, TPR increases and CO returns to
+normal, probably because of autoregulation.
+Some disorders that increase CO (eg, thyrotoxicosis, arteriovenous fistula, aortic regurgitation),
+particularly when stroke volume is increased, cause isolated systolic hypertension. Some older patients
+have isolated systolic hypertension with normal or low CO, probably due to inelasticity of the aorta and
+its major branches. Patients with high, fixed diastolic pressures often have decreased CO.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 4/20
+--- Страница 5 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Plasma volume tends to decrease as BP increases; rarely, plasma volume remains normal or increases.
+Plasma volume tends to be high in hypertension due to primary aldosteronism or renal parenchymal
+disease and may be quite low in hypertension due to pheochromocytoma.
+Abnormal sodium transport
+In many cases of hypertension, sodium transport across the vascular cell membrane is abnormal,
+because the sodium-potassium pump (Na+, K+-ATPase) is defective or inhibited, or because
+permeability to sodium ions is increased. The result is increased intracellular sodium and calcium, which
+makes the cell more sensitive to sympathetic stimulation. Because Na+, K+-ATPase may pump
+norepinephrine back into sympathetic neurons (thus inactivating this neurotransmitter), inhibition of
+this mechanism could also enhance the effect of norepinephrine, increasing BP. Defects in sodium
+transport may occur in children who are normotensive but have a parent with hypertension.
+Sympathetic nervous system
+Sympathetic stimulation increases blood pressure, usually more in patients with hypertension than in
+patients who are normotensive. Whether this hyperresponsiveness resides in the sympathetic nervous
+system or in the myocardium and vascular smooth muscle is unknown.
+A high resting pulse rate, which may result from increased sympathetic nervous activity, is a well-known
+predictor of hypertension.
+In some patients with hypertension, circulating plasma catecholamine levels during rest are higher than
+normal.
+Renin-angiotensin-aldosterone system
+The renin-angiotensin-aldosterone system helps regulate blood volume and therefore blood pressure.
+Renin, an enzyme formed in the juxtaglomerular apparatus, catalyzes conversion of angiotensinogen to
+angiotensin I. This inactive product is cleaved by angiotensin-converting enzyme (ACE), mainly in the
+lungs but also in the kidneys and brain, to angiotensin II, a potent vasoconstrictor that also stimulates
+autonomic centers in the brain to increase sympathetic discharge and stimulates release of aldosterone
+and vasopressin. Aldosterone causes sodium retention and vasopressin causes water retention,
+elevating BP. Aldosterone also enhances potassium excretion; low plasma potassium (< 3.5 mEq/L [< 3.5
+mmol/L]) increases vasoconstriction through closure of potassium channels.
+Renin secretion is controlled by at least 4 mechanisms, which are not mutually exclusive:
+A renal vascular receptor responds to changes in tension in the afferent arteriolar wall
+A macula densa receptor detects changes in the delivery rate or concentration of sodium
+chloride in the distal tubule
+Circulating angiotensin II has a negative feedback effect on renin secretion
+Sympathetic nervous system stimulates renin secretion mediated by beta-receptors (via the
+renal nerve)
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 5/20
+--- Страница 6 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Elevated angiotensin II levels are generally acknowledged to be responsible for renovascular
+hypertension, at least in the early phase, but the role of the renin-angiotensin-aldosterone system in
+primary hypertension is not established. However, in patients with African ancestry and older patients
+with hypertension, renin levels tend to be low (1). Older patients also tend to have low angiotensin II
+levels, which may be related to a more volume-dependent salt-sensitive form of hypertension.
+Hypertension due to chronic renal parenchymal disease (renoprival hypertension) results from the
+combination of a renin-dependent mechanism and a volume-dependent mechanism. In most cases,
+increased plasma renin activity is not evident. Hypertension is typically moderate and sensitive to
+sodium and water balance.
+Vasodilator deficiency
+Deficiency of a vasodilator (eg, bradykinin, nitric oxide), rather than excess of a vasoconstrictor (eg,
+angiotensin, norepinephrine), may cause hypertension. Reduction in nitric oxide, due to stiff arteries,
+occurs with aging, and this reduction contributes to salt sensitivity (ie, lesser amounts of salt ingestion
+will raise BP) (2). With reduced nitric oxide, a large sodium load (eg, a salty meal) may increase systolic
+BP by > 10 to 20 mm Hg.
+If the kidneys do not produce adequate amounts of vasodilators (because of renal parenchymal
+disease), blood pressure can increase.
+Vasodilators and vasoconstrictors (mainly endothelin) are also produced in endothelial cells. Therefore,
+endothelial dysfunction greatly affects blood pressure.
+Pathology and complications
+No pathologic changes occur early in hypertension. Severe or prolonged hypertension damages target
+organs (primarily the cardiovascular system, brain, and kidneys), increasing risk of:
+Coronary artery disease (CAD) and myocardial infarction (MI)
+Heart failure
+Stroke (particularly hemorrhagic)
+Renal failure
+Death
+Elevated BP levels lead to the development of generalized arteriolosclerosis and acceleration of
+atherogenesis. Arteriolosclerosis is characterized by medial hypertrophy, hyperplasia, and hyalinization
+of small arteries (arterioles), notably in the eyes and the kidneys. In the kidneys, the changes narrow the
+arteriolar lumen, increasing TPR; thus, hypertension leads to more hypertension. Furthermore, once
+arteries are narrowed, any slight additional shortening of already hypertrophied smooth muscle
+reduces the lumen to a greater extent than in normal-diameter arteries. These effects may explain why
+the longer hypertension has existed, the less likely specific treatment (eg, renovascular surgery) for
+secondary causes is to restore blood pressure to normal. Thus, earlier diagnosis and treatment of even
+modestly elevated BP (ie, systolic BP of 120 to 129 mm Hg, even if the diastolic BP is in normal range)
+may provide benefit, especially in younger patients with a family history of hypertension.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 6/20
+--- Страница 7 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Because afterload is increased in patients with elevated BP, the left ventricle gradually hypertrophies,
+causing diastolic dysfunction. The ventricle eventually dilates, causing dilated cardiomyopathy and heart
+failure, often worsened by arteriosclerotic coronary artery disease. Thoracic aortic dissection is typically
+a consequence of hypertension; almost all patients with abdominal aortic aneurysms have
+hypertension.
+Pathophysiology references
+1. Williams SF, Nicholas SB, Vaziri ND, Norris KC. African Americans, hypertension and the renin
+angiotensin system. World J Cardiol. 2014;6(9):878-889. doi:10.4330/wjc.v6.i9.878
+2. Fujiwara N, Osanai T, Kamada T, et al. Study on the relationship between plasma nitrite and
+nitrate level and salt sensitivity in human hypertension: modulation of nitric oxide synthesis by salt
+intake. Circulation. 2000;101:856–861. doi:10.1161/01.cir.101.8.856
+Symptoms and Signs of Hypertension
+Hypertension is usually asymptomatic until complications develop in target organs. Even severe
+hypertension (typically defined as systolic blood pressure ≥ 180 mm Hg and/or diastolic blood pressure
+≥ 120 mm Hg) can be asymptomatic (hypertensive urgency). When severe hypertension causes
+cardiovascular, neurologic, renal, and retinal symptoms (eg, symptomatic coronary atherosclerosis,
+heart failure, hypertensive encephalopathy, renal failure), it is referred to as a hypertensive emergency.
+Retinal changes may include arteriolar narrowing, hemorrhages, exudates and, in patients with
+encephalopathy, papilledema (hypertensive retinopathy). Changes are classified (according to the Keith-
+Wagener-Barker classification) into 4 groups with increasingly worse prognosis (1):
+Grade 1: Constriction of arterioles only
+Grade 2: Constriction and sclerosis of arterioles
+Grade 3: Hemorrhages and exudates in addition to vascular changes
+Grade 4: Papilledema
+Symptoms and signs reference
+1. Matsuoka S, Kaneko H, Okada A, et al. Association of retinal atherosclerosis assessed using
+Keith-Wagener-Barker system with incident heart failure and other atherosclerotic cardiovascular
+disease: Analysis of 319,501 individuals from the general population. Atherosclerosis. 2022;348:68-
+74. doi:10.1016/j.atherosclerosis.2022.02.024
+Diagnosis of Hypertension
+Multiple measurements of BP
+Testing to diagnose causes and complications
+Hypertension is diagnosed by sphygmomanometry. History, physical examination, and other tests help
+identify etiology and determine whether target organs are damaged.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 7/20
+--- Страница 8 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Multiple measurements of BP are needed to confirm hypertension because of the inherent variability of
+blood pressure. Blood pressure typically fluctuates with time of day; in classic diurnal variation, BP is
+higher by day (especially in the morning) and lower by night. Home blood pressure measurement, using
+a cuffed device, can help confirm a diagnosis of hypertension (1).
+Blood pressure measurement
+The blood pressure used for formal diagnosis should be an average of 2 or 3 measurements taken in
+the office at different times under these conditions:
+Patient seated in a chair (not examination table) for > 5 minutes, feet on floor, back
+supported
+Upper limb supported at heart level with no clothing covering the area of cuff placement
+No exercise, caffeine, or tobacco use for at least 30 minutes
+At the first visit, measure BP in both arms; subsequent measurements should use the arm that gave the
+higher reading.
+A properly sized BP cuff is applied to the upper arm. An appropriately sized cuff covers two-thirds of
+the biceps; the bladder is long enough to encircle > 80% of the arm, and bladder width equals at least
+40% of the arm’s circumference. Thus, patients with obesity usually require large cuffs.
+Blood pressure may be measured by either auscultatory or oscillometric devices. Fully automated
+validated oscillometric devices may be preferred over the auscultatory method as they provide accurate
+BP measurements and reduce human error (1, 2). For the auscultatory measurement, the clinician
+inflates the cuff above the expected systolic pressure and gradually releases the air while listening with
+a stethoscope placed over the brachial artery. As the pressure falls, the pressure at which the first
+heartbeat is heard is systolic BP. Total disappearance of the sound marks diastolic BP. The same
+principles are followed to measure BP in a forearm (radial artery) and thigh (popliteal artery).
+Mechanical devices should be calibrated periodically.
+Home blood pressure monitoring, combined with periodic clinician in-office measurements, can
+improve blood pressure control. However, cuffless home devices (such as smart watches) are not
+adequately precise, and should not be relied upon (1).
+BP is measured in both arms because BP that is > 15 mm Hg higher in one arm than the other
+requires evaluation of the upper vasculature.
+BP is measured in a thigh (with a much larger cuff) to exclude coarctation of the aorta, particularly in
+patients with diminished or delayed femoral pulses; with coarctation, BP is significantly lower in the legs
+than in the arms.
+Variable measurements and hypertension
+White coat hypertension is defined as BP that is elevated in the office but does not meet the criteria
+for hypertension based on out-of-office readings in untreated patients. The prevalence is approximately
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 8/20
+--- Страница 9 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+10 to 20% of the population and is more common in children, older adults, and women, as well as those
+with office-based BP close to the diagnostic threshold.
+White coat effect refers to BP that is elevated in the office but is normal during out-of-office readings,
+among patients who are on treatment for hypertension.
+The data about treatment outcomes of patients with white coat hypertension are conflicting. Untreated
+white coat hypertension seems to be associated with more adverse cardiovascular outcomes compared
+to normotension. Patients with white coat hypertension have a 3- to 4-fold increased risk of developing
+sustained hypertension after 7 to 10 years compared to normotensive people (3). White coat effect does
+not appear to be associated with adverse cardiovascular outcomes.
+Masked hypertension is defined as blood pressure that is consistently elevated outside the office, but
+in which office readings do not meet the criteria for hypertension in untreated people. This group of
+patients may represent 10 to 30% of the adult population and is more common in men, non-Hispanic
+Black people, and people with diabetes (4).
+Masked hypertension and masked uncontrolled hypertension (in those being treated) are associated
+with increased cardiovascular risk, with mortality similar to the risk in patients with sustained
+hypertension (5).
+Home or ambulatory BP monitoring is indicated when white coat hypertension or masked hypertension
+is suspected.
+History
+The history includes the:
+Duration of hypertension and previously recorded BP levels
+History or symptoms of coronary artery disease, heart failure, or obstructive sleep apnea
+Symptoms of, or personal or family history of, other relevant coexisting disorders (eg,
+stroke, renal dysfunction, peripheral arterial disease, dyslipidemia, diabetes, gout)
+Use of medications that predispose to hypertension (eg, NSAIDs, estrogen-containing oral
+contraceptives)
+Sleep duration
+Social history includes exercise levels and use of tobacco, alcohol, and stimulants (including medications
+and illicit drugs).
+A dietary history focuses on intake of salt and stimulants (eg, tea, coffee, caffeine-containing sodas,
+energy drinks).
+Physical examination
+The physical examination includes measurement of height, weight, and waist circumference;
+fundoscopic examination for retinopathy; auscultation for bruits in the neck and abdomen; and a full
+cardiac, respiratory, and neurologic examination. The abdomen is palpated for kidney enlargement and
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 9/20
+--- Страница 10 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+abdominal masses. Peripheral arterial pulses are evaluated; diminished or delayed femoral pulses
+suggest aortic coarctation, particularly in patients < 30 years. A unilateral renal artery bruit may be
+heard in thin patients with renovascular hypertension.
+Testing
+After hypertension is diagnosed based on blood pressure measurements, testing is needed to:
+Detect target-organ damage
+Identify cardiovascular risk factors
+The more severe the hypertension and the younger the patient, the more extensive is the evaluation.
+For adults newly diagnosed with hypertension, tests should include (1):
+Urinalysis and urinary albumin:creatinine ratio; if abnormal, consider renal ultrasound
+Lipid panel, complete metabolic panel (including creatinine or cystatin C, potassium, and
+calcium), fasting plasma glucose or hemoglobin A1c, thyroid-stimulating hormone
+ECG
+Sometimes measurement of plasma free metanephrines (to detect pheochromocytoma)
+Sometimes a sleep study
+Depending on results of the examination and initial tests, other tests may be needed. Basic laboratory
+testing should be repeated at least annually.
+Renal ultrasound to evaluate kidney size may provide useful information if urinalysis detects
+albuminuria (proteinuria), casts, or microhematuria, or if serum creatinine or cystatin C is elevated.
+Patients with hypokalemia unrelated to diuretic use are evaluated for high salt intake and for primary
+aldosteronism by measuring plasma aldosterone levels and plasma renin activity. Screening for primary
+aldosteronism is also recommended for patients with resistant hypertension, obstructive sleep apnea,
+or early stroke (< 40 years) (1).The prevalence of primary aldosteronism is higher than previously
+recognized, occurring in approximately 10 to 20% of patients with resistant hypertension (6, 7).
+On ECG, a broad, notched P-wave indicates atrial hypertrophy and, although nonspecific, may be one of
+the earliest signs of hypertensive heart disease. Elevated QRS voltage, with or without evidence of
+ischemia, may occur later and indicates left ventricular hypertrophy (LVH). When LVH is seen on ECG,
+echocardiography is often done.
+If coarctation of the aorta is suspected, echocardiography, chest CT, or MRI can confirm the diagnosis.
+Patients with labile, significantly elevated BP and symptoms such as headache, palpitations, tachycardia,
+excessive perspiration, tremor, and pallor are screened for pheochromocytoma by measuring plasma
+free metanephrines and for hyperthyroidism, first by measuring thyroid-stimulating hormone (TSH).
+A sleep study should be strongly considered in patients whose history suggests sleep apnea.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 10/20
+--- Страница 11 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Left Ventricular Hypertrophy on ECG
+IMAGE
+© SPRINGER SCIENCE+BUSINESS MEDIA
+Patients with symptoms suggesting Cushing syndrome, systemic rheumatic diseases, eclampsia, acute
+porphyria, hyperthyroidism, myxedema, acromegaly, or central nervous system (CNS) disorders also
+require further evaluation.
+Diagnosis references
+1. Writing Committee Members*, Jones DW, Ferdinand KC, et al. 2025
+AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the
+Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults: A Report of
+the American College of Cardiology/American Heart Association Joint Committee on Clinical
+Practice Guidelines. Hypertension. 2025;82(10):e212-e316. doi:10.1161/HYP.0000000000000249
+2. Muntner P, Shimbo D, Carey RM, et al. Measurement of blood pressure in humans: A scientific
+statement from the American Heart Association. Hypertension. 2019;73:e35–e66.
+doi:10.1161/HYP.0000000000000087
+3. Cohen JB, Lotito MJ, Trivedi UK, Denker MG, Cohen DL, Townsend RR. Cardiovascular events and
+mortality in white coat hypertension: A systematic review and meta-analysis. Ann Intern Med.
+2019;170(12):853–862. doi:10.7326/M19-0223
+4. Wang YC, Shimbo D, Muntner P, Moran AE, Krakoff LR, Schwartz JE. Prevalence of masked
+hypertension among US adults with nonelevated clinic blood pressure. Am J Epidemiol.
+2017;185(3):194–202. doi:10.1093/aje/kww237
+5. Pierdomenico SD, Pierdomenico AM, Coccina F, et al. Prognostic value of masked uncontrolled
+hypertension. Hypertension. 2018;72(4):862–869. doi:10.1161/HYPERTENSIONAHA.118.11499
+6. Burrello J, Monticone S, Losano I, et al. Prevalence of Hypokalemia and Primary Aldosteronism in
+5100 Patients Referred to a Tertiary Hypertension Unit. Hypertension. 2020;75(4):1025-1033.
+doi:10.1161/HYPERTENSIONAHA.119.14063
+7. Mulatero P, Stowasser M, Loh KC, et al. Increased diagnosis of primary aldosteronism, including
+surgically correctable forms, in centers from five continents. J Clin Endocrinol Metab.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 11/20
+--- Страница 12 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+2004;89(3):1045-1050. doi:10.1210/jc.2003-031337
+Treatment of Hypertension
+Weight loss and exercise
+Smoking cessation
+Adequate sleep duration (a minimum of 6 hours/night)
+Diet: Increased fruits and vegetables, decreased salt, limited alcohol
+Medications: Depending on BP and presence of cardiovascular disease or risk factors
+Primary hypertension has no cure, but some causes of secondary hypertension can be corrected. In all
+cases, control of blood pressure can significantly limit adverse consequences.
+Goal blood pressure for most patients is
+BP < 130/80 mm Hg
+Goal pressure in part depends on cardiovascular risk, which is best determined by the PREVENT
+calculator (1). Patients with a 10-year cardiovascular disease (CVD) risk ≥ 7.5% should be encouraged to
+achieve a systolic BP < 120 mm Hg (2). BP below 130/80 mm Hg appears to continue to reduce the risk
+of vascular complications. Even older patients, including frail older patients, can tolerate a diastolic BP
+as low as 60 to 65 mm Hg without an increase in cardiovascular events (3, 4). However, decreasing
+systolic pressure increases the risk of adverse medication effects (eg, dizziness, light-headedness,
+possible worsened renal function), and the benefits of lowering BP to levels < 120 mm Hg systolic
+should be weighed against risks and patient tolerance.
+Ideally, patients or family members measure BP at home, provided they have been trained to do so and
+the sphygmomanometer is regularly calibrated.
+Lifestyle modifications
+Lifestyle modifications are recommended for all patients with elevated BP or any stage hypertension (2).
+The best proven nonpharmacologic interventions for prevention and treatment of hypertension include
+the following:
+Increased physical activity, ideally with a structured exercise program
+Weight loss, if appropriate
+Healthy diet rich in fruits, vegetables, whole grains, and low-fat dairy products, with reduced
+saturated and total fat content
+Reduced dietary sodium, optimally to < 1500 mg/day (approximately 3.75 g salt) , but at
+least a 1000 mg/day reduction
+Enhanced dietary potassium intake, unless contraindicated due to chronic kidney disease or
+use of medications that reduce potassium excretion
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 12/20
+--- Страница 13 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Moderation in alcohol intake in those who drink alcohol to ≤ 2 drinks daily for men and ≤ 1
+drink daily for women (one drink is about 12 oz of beer, 5 oz of wine, or 1.5 oz distilled
+spirits)
+Smoking cessation
+Adequate sleep duration ( a minimum of 6 hours/night) is also recommended. Short sleep duration
+(typically defined as < 5 or 6 hours per night in adults, has been associated with hypertension (5). For
+example, studies suggest that optimizing sleep quality and duration (> 6 hours/night) improves blood
+pressure control in patients with chronic kidney disease (6).
+Dietary modifications can also help control diabetes, obesity, and dyslipidemia. Patients with
+uncomplicated hypertension do not need to restrict their activities as long as blood pressure is
+controlled.
+Medications
+(See also Medications for Hypertension.)
+The decision to treat with medication is based on the BP level and the presence of atherosclerotic
+cardiovascular disease (ASCVD) or its risk factors as determined by the PREVENT calculator (1). Patients
+with a 10-year predicted risk for CVD events ≥ 7.5% using PREVENT are considered to be at increased
+risk.
+Antihypertensive medication should be initiated for patients with hypertension who meet any of the
+following criteria (2):
+Average BP ≥ 140/90 mm Hg
+Existing cardiovascular disease (coronary heart disease, stroke, or heart failure) and
+average BP ≥ 130 mm Hg systolic or ≥ 80 mm Hg diastolic
+Diabetes, chronic kidney disease or 10-year PREVENT cardiovascular risk ≥ 7.5% and
+average BP ≥ 130 mm Hg systolic or ≥ 80 mm Hg diastolic
+Persistent average BP ≥ 130 mm Hg systolic or ≥ 80 mm Hg diastolic after 3 to 6 months of
+lifestyle intervention
+An important part of management is continued reassessment. If patients are not at goal BP, clinicians
+should strive to optimize adherence to the current regimen before switching or adding medications.
+Treatment of hypertension during pregnancy requires careful medication selection because some
+antihypertensive medications can harm the fetus.
+Medication selection is based on several factors, including comorbidities, contraindications, and
+tolerability. For most patients, when selecting an agent for monotherapy, initial treatment may be with
+any of the following medication classes:
+Angiotensin-converting enzyme (ACE) inhibitor
+Angiotensin II receptor blocker (ARB)
+Dihydropyridine calcium channel blocker
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 13/20
+--- Страница 14 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Thiazide diuretic (preferably a thiazide-like diuretic such as chlorthalidone or indapamide)
+Adults with stage 1 hypertension (systolic BP 130 to 139/diastolic BP 80 to 89 mm Hg) may be treated
+initially with a single first-line medication, with dose titration and sequential addition of other
+medications as needed to achieve blood pressure control (2). Adults with stage 2 hypertension (systolic
+BP ≥ 140/diastolic BP ≥ 90 mm Hg) should be treated initially with 2 first line medications: an ACE
+inhibitor or ARB combined with either a diuretic or a calcium channel blocker. When combination
+therapy is indicated, starting treatment with single pill combinations improves adherence (7, 8).
+Signs of hypertensive emergencies require immediate blood pressure reduction with parenteral
+antihypertensives. Such signs may include seizures or focal neurologic symptoms, retinal hemorrhage,
+chest pain, dyspnea,or nausea and vomiting.
+Some antihypertensives are avoided in certain disorders (eg, ACE inhibitors in severe aortic stenosis)
+whereas others are preferred for certain disorders (eg, calcium channel blockers for patients with
+angina pectoris, ACE inhibitors or ARBs for patients with diabetes and proteinuria—see tables Initial
+Choice of Antihypertensive Medication Class and Antihypertensives for Patients With Comorbidities).
+If the goal BP is not achieved within 1 month, assess adherence and tolerability and reinforce the
+importance of following treatment. If patients are adherent with the regimen, the dose of the initial
+medication can be increased or a second medication added (selected from among medications
+recommended for initial treatment). Note that an ACE inhibitor and an ARB should not be used
+together. Therapy is titrated frequently.
+If target BP cannot be achieved with 2 medications, a third medication from choices of initial
+medications is added. If such a third medication is not tolerated or is contraindicated, a medication
+from another class (eg, aldosterone antagonist) can be used. Patients with such difficult to control BP
+may benefit from consultation with a hypertension specialist. For resistant hypertension (BP remains
+above goal despite use of 3 different antihypertensive medications), 4 or more medications are
+commonly needed.
+TABLE
+Initial Choice of Antihypertensive Medication Class
+Medication Class Indications
+ACE inhibitors* Youth
+Left ventricular failure due to systolic
+dysfunction†
+Diabetes with nephropathy
+Albumin:creatinine ratio > 30 mg/gram
+(> 33.9 mg/mmol) in patients with
+chronic renal disorders or diabetic
+glomerulosclerosis
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 14/20
+--- Страница 15 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Medication Class Indications
+Erectile dysfunction due to other
+medications
+Youth
+Conditions for which ACE inhibitors are
+indicated but not tolerated because of
+cough or angioedema
+Angiotensin II receptor blockers*
+Diabetes with nephropathy
+Left ventricular failure with systolic
+dysfunction
+Secondary stroke
+Older age
+Angina pectoris
+Arrhythmias (eg, atrial fibrillation,
+paroxysmal supraventricular
+Long-acting calcium channel blockers
+tachycardia)
+Isolated systolic hypertension in older
+patients (dihydropyridines)†
+High CAD risk (nondihydropyridines)†
+Older age
+Thiazide-type diuretics† (chlorthalidone
+or indapamide)
+Heart failure
+* Contraindicated in pregnancy.
+† Reduced morbidity and mortality rates in randomized studies.
+ACE = angiotensin-converting enzyme; CAD = coronary artery disease.
+Achieving adequate blood pressure control often requires several evaluations and changes in
+pharmacotherapy. Reluctance to titrate or add medications to control BP must be overcome.
+Nonadherence to therapy, particularly because lifelong treatment is required, can interfere with
+adequate BP control. Education, with empathy and support, is essential for success.
+TABLE
+Antihypertensives for Patients With Comorbidities
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 15/20
+--- Страница 16 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Comorbidity Medication Classes
+Beta-blockers
+ACE inhibitors
+Coronary artery disease or risk factors
+Diuretics
+Calcium channel blockers
+ACE inhibitors
+Chronic kidney disorders
+Angiotensin II receptor blockers
+Diuretics
+ACE inhibitors
+Diabetes
+Angiotensin II receptor blockers
+Calcium channel blockers
+ACE inhibitors
+Angiotensin II receptor blockers
+Heart failure Beta-blockers
+Potassium-sparing diuretics
+Other diuretics*
+ACE inhibitors
+Post-myocardial infarction Beta-blockers
+Spironolactone or eplerenone
+ACE inhibitors
+Angiotensin II receptor blockers
+Risk of recurrent stroke
+Calcium channel blockers
+Diuretics
+* Long-term diuretic use may increase mortality in patients with heart failure who do not
+have pulmonary congestion.
+ACE = angiotensin-converting enzyme.
+Devices and physical interventions
+Renal artery sympathetic nerve ablation is a potential option for uncontrolled hypertension, using
+percutaneous catheter-based radiofrequency devices, ultrasound, or the injection of neurolytic agents
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 16/20
+--- Страница 17 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+into tissues surrounding the renal vasculature (9). Several industry-funded sham-controlled studies with
+different patient populations (eg, untreated hypertension [10], treated hypertension [11], or resistant
+hypertension [12]) have demonstrated statistically and/or clinically significant reductions in systolic
+blood pressure. However, whether these devices reduce major cardiovascular events remains
+uncertain, with studies ongoing related to efficacy, patient selection, safety, and long-term impact on
+quality of life (13).
+Baroreflex activation therapy has been proposed for management of resistant hypertension, but
+studies have not provided sufficient evidence to recommend the use of these devices (2). The therapy
+employs a battery-powered device surgically implanted around the carotid body to stimulate the
+baroreceptor and, in a dose-dependent manner, lower blood pressure. In one long-term follow-up study
+of patients with resistant hypertension who were included in earlier pivotal trials, baroreflex activation
+therapy maintained its efficacy for persistent reduction of office BP without major safety issues (14).
+Resistant hypertension
+Resistant hypertension is defined as blood pressure that is not controlled to goal despite adherence to 3
+suitably dosed antihypertensive medications of different classes (including a diuretic) and after white
+coat effect is excluded. Blood pressure that requires 4 drugs to achieve control is also considered
+controlled resistant hypertension. Use of a mineralocorticoid receptor antagonist can be beneficial in
+attaining goal blood pressure (15).
+Secondary causes of hypertension must be excluded as part of the evaluation for resistant
+hypertension. Hyperaldosteronism or subclinical hypercortisolism has been identified in 15 to 20% of
+cases of resistant hypertension.
+Treatment references
+1. Khan SS, Coresh J, Pencina MJ, et al. Novel Prediction Equations for Absolute Risk Assessment of
+Total Cardiovascular Disease Incorporating Cardiovascular-Kidney-Metabolic Health: A Scientific
+Statement From the American Heart Association. Circulation. 2023;148(24):1982-2004.
+doi:10.1161/CIR.0000000000001191
+2. Writing Committee Members*, Jones DW, Ferdinand KC, et al. 2025
+AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the
+Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults: A Report of
+the American College of Cardiology/American Heart Association Joint Committee on Clinical
+Practice Guidelines. Hypertension. 2025;82(10):e212-e316. doi:10.1161/HYP.0000000000000249
+3. Williamson JD, Supiano MA, Applegate WB, et al. Intensive vs Standard Blood Pressure Control
+and Cardiovascular Disease Outcomes in Adults Aged ≥75 Years: A Randomized Clinical Trial. JAMA.
+2016;315(24):2673-2682. doi:10.1001/jama.2016.7050
+4. White WB, Wakefield DB, Moscufo N, et al. Effects of Intensive Versus Standard Ambulatory
+Blood Pressure Control on Cerebrovascular Outcomes in Older People (INFINITY). Circulation.
+2019;140(20):1626-1635. doi:10.1161/CIRCULATIONAHA.119.041603
+Ta
+5. Thomas SJ, Calhoun D. Sleep, insomnia, and hypertension: current findings and future
+directions. J Am Soc Hypertens. 2017;11(2):122-129. doi:10.1016/j.jash.2016.11.008
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 17/20
+--- Страница 18 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+6. Ali W, Gao G, Bakris GL. Improved Sleep Quality Improves Blood Pressure Control among
+Patients with Chronic Kidney Disease: A Pilot Study. Am J Nephrol. 2020;51(3):249-254.
+doi:10.1159/000505895
+7. Parati G, Kjeldsen S, Coca A, Cushman WC, Wang J. Adherence to Single-Pill Versus Free-
+Equivalent Combination Therapy in Hypertension: A Systematic Review and Meta-
+Analysis. Hypertension. 2012;77(2):692-705. doi:10.1161/HYPERTENSIONAHA.120.15781
+8. WilliaMcEvoy JW, McCarthy CP, Bruno RM, et al. 2024 ESC Guidelines for the management of
+elevated blood pressure and hypertension. Eur Heart J. 2024;45(38):3912-4018.
+doi:10.1093/eurheartj/ehae178
+9. Rey-García J, Townsend RR. Renal Denervation: A Review. Am J Kidney Dis. 2022;80(4):527-535.
+doi:10.1053/j.ajkd.2022.03.015
+10. Böhm M, Kario K, Kandzari DE, et al. Efficacy of catheter-based renal denervation in the
+absence of antihypertensive medications (SPYRAL HTN-OFF MED Pivotal): a multicentre,
+randomised, sham-controlled trial. Lancet. 2020;395(10234):1444-1451. doi:10.1016/S0140-
+6736(20)30554-7
+11. Mahfoud F, Kandzari DE, Kario K, et al. Long-term efficacy and safety of renal denervation in
+the presence of antihypertensive drugs (SPYRAL HTN-ON MED): a randomised, sham-controlled
+trial. Lancet. 2022;399(10333):1401-1410. doi:10.1016/S0140-6736(22)00455-X
+12. Bhatt DL, Vaduganathan M, Kandzari DE, et al. Long-term outcomes after catheter-based renal
+artery denervation for resistant hypertension: final follow-up of the randomised SYMPLICITY HTN-
+3 Trial. Lancet. 2022;400(10361):1405-1416. doi:10.1016/S0140-6736(22)01787-1
+13. Rao A, Krishnan N. Update on Renal Sympathetic Denervation for the Treatment of
+Hypertension. Curr Cardiol Rep. 2022;24(10):1261-1271. doi:10.1007/s11886-022-01753-x
+14. de Leeuw PW, Bisognano JD, Bakris GL, Nadim MK, Haller H, Kroon AA, DEBuT-T and Rheos
+Trial Investigators. Sustained reduction of blood pressure with baroreceptor activation therapy:
+Results of the 6-year open follow-up. Hypertension. 2017;69:836–843.
+doi:10.1161/HYPERTENSIONAHA.117.09086
+15. Carey RM, Calhoun DA, Bakris GL, et al. Resistant hypertension: Detection, evaluation, and
+management: A Scientific Statement From the American Heart Association. Hypertension.
+2018;72:e53–e90. doi: 10.1161/HYP.0000000000000084
+Prognosis for Hypertension
+The higher the blood pressure, and the more severe the retinal changes and other evidence of target-
+organ involvement, the worse the prognosis. Systolic BP predicts fatal and nonfatal cardiovascular
+events better than diastolic BP (1, 2). Effective control of hypertension prevents most complications and
+prolongs life.
+Without treatment, 1-year survival is < 10% in patients with retinal sclerosis, cotton-wool exudates,
+arteriolar narrowing, and hemorrhage (grade 3 retinopathy) and is < 5% in patients with the same
+changes plus papilledema (grade 4 retinopathy [3]).
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 18/20
+--- Страница 19 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+Coronary artery disease is the most common cause of death among treated patients. Ischemic or
+hemorrhagic stroke is a common consequence of inadequately treated hypertension.
+Prognosis references
+1. Bourdillon MT, Song RJ, Musa Yola I, Xanthakis V, Vasan RS. Prevalence, Predictors, Progression,
+and Prognosis of Hypertension Subtypes in the Framingham Heart Study. J Am Heart Assoc.
+2022;11(6):e024202. doi:10.1161/JAHA.121.024202
+2. Kannel WB, Gordon T, Schwartz MJ. Systolic versus diastolic blood pressure and risk of coronary
+heart disease. The Framingham study. Am J Cardiol. 1971;27(4):335-346. doi:10.1016/0002-
+9149(71)90428-0
+3. Dziedziak J, Zaleska-Żmijewska A, Szaflik JP, Cudnoch-Jędrzejewska A. Impact of Arterial
+Hypertension on the Eye: A Review of the Pathogenesis, Diagnostic Methods, and Treatment of
+Hypertensive Retinopathy. Med Sci Monit. 2022;28:e935135. doi:10.12659/MSM.935135
+Key Points
+Only about 50% of patients in the United States with hypertension receive treatment,
+and about one-quarter of those patients have adequate blood pressure (BP) control.
+Most hypertension is primary; only 5 to 15% is secondary to another disorder (eg,
+primary aldosteronism, renal parenchymal disease).
+Severe or prolonged hypertension damages the cardiovascular system, brain, and
+kidneys, increasing risk of myocardial infarction, stroke, and chronic kidney disease.
+Hypertension is usually asymptomatic until complications develop in target organs.
+When hypertension is newly diagnosed, do a urinalysis, spot urine albumin:creatinine
+ratio, blood tests (creatinine, potassium, sodium, calcium, fasting plasma glucose, lipid
+panel, and thyroid-stimulating hormone), and ECG.
+Determine the 10-year cardiovascular risk, using the PREVENT calculator.
+Reduce BP to < 130/80 mm Hg for most patients..
+Patients, including those with a kidney disorder or diabetes, whose 10-year CVD risk is ≥
+7.5% should be encouraged to achieve a systolic BP < 120 mm Hg. A higher target might
+be appropriate for frail older patients who become symptomatic at lower pressures.
+Treatment involves lifestyle changes, especially a low-sodium and higher potassium diet,
+medication (including thiazide diuretics, angiotensin-converting enzyme inhibitors,
+angiotensin II receptor blockers, and dihydropyridine calcium channel blockers), and
+management of secondary causes of hypertension if present.
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 19/20
+--- Страница 20 ---
+22/01/2026, 13:49 Hypertension - Cardiovascular Disorders - Merck Manual Professional Edition
+https://www.merckmanuals.com/professional/cardiovascular-disorders/hypertension/hypertension 20/20

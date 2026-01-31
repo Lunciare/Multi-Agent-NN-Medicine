@@ -1,0 +1,154 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Bundle Branch Block and Fascicular Block - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:35:47.262084",
+  "file_size_bytes": 543634,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Bundle Branch Block and Fascicular Block - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:04 Bundle Branch Block and Fascicular Block - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Bundle Branch Block and Fascicular Block
+By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Sept 2024
+Bundle branch block is partial or complete interruption of impulse conduction
+in a bundle branch; fascicular block is similar interruption in a hemifascicle of
+the left bundle. The disorders often coexist. There are usually no symptoms, but
+presence of either suggests a heart disorder. Diagnosis is by
+electrocardiography. No specific treatment is indicated.
+(See also Overview of Arrhythmias.)
+Conduction blocks (see figure Electrical Pathway Through the Heart) can be caused by many heart
+disorders, including intrinsic degeneration without another associated heart disorder.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block 1/6
+--- Страница 2 ---
+22/01/2026, 14:04 Bundle Branch Block and Fascicular Block - Cardiovascular Disorders - Merck Manual Professional Edition
+Electrical Pathway Through the Heart
+The sinoatrial (sinus) node (1) initiates an electrical impulse that flows through the right and left
+atria (2), making them contract. When the electrical impulse reaches the atrioventricular node
+(3), it is delayed slightly. The impulse then travels down the bundle of His (4), which divides into
+the right bundle branch for the right ventricle (5) and the left bundle branch for the left ventricle
+(5). The impulse then spreads through the ventricles, making them contract.
+In adults, the 2 ventricles are normally activated simultaneously such that the QRS duration is ≤ 0.11
+second. When the ventricles are activated sequentially, the QRS duration is > 0.12 seconds. A wide QRS
+can result from activation of one ventricle early as in a rhythm originating in a ventricle (a ventricular
+rhythm or a ventricular paced rhythm) or as in ventricular pre-excitation (see figure Wolff-Parkinson-
+White Pattern) or from activating one ventricle late as in right or left bundle branch block.
+Right bundle branch block (RBBB—see figure Right Bundle Branch Block) criteria on the ECG in adults
+(1) are as follows:
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block 2/6
+--- Страница 3 ---
+22/01/2026, 14:04 Bundle Branch Block and Fascicular Block - Cardiovascular Disorders - Merck Manual Professional Edition
+A QRS duration ≥ 0.12 second
+rsr', rsR' or rSR' QRS pattern in leads V1 or V2
+Delayed right ventricular activation time shown by a QRS onset to peak of last R wave time
+of > 0.05 second in lead V1
+Normal left ventricular activation time shown by a QRS onset to peak of last R wave time of
+< 0.045 second in leads V5 and V6
+S duration greater than R duration or S duration > 0.04 second in leads I and V6
+RBBB produces secondary repolarization changes consisting of ST depression and T wave inversion
+particularly in V1. Incomplete right bundle branch block (also called right ventricular conduction delay)
+has the same ECG criteria as RBBB with a QRS duration > 0.11 second but < 0.12 second. When lead V1
+shows a qR pattern while the other criteria for RBBB are met, RBBB and septal myocardial infarction (or
+other septal damage) are diagnosed.
+RBBB can occur in people with no evidence of heart disease (2). It may also occur with anterior
+myocardial infarction, indicating substantial myocardial injury. Transient RBBB may occur after
+pulmonary embolism and indicates significant right ventricular dysfunction. The presence of RBBB
+should prompt a search for underlying cardiac pathology (2), but often none is found. Although RBBB
+distorts the QRS complex, it does not significantly interfere with ECG criteria of past myocardial
+infarction.
+In the absence of evidence of a heart disorder or more advanced interventricular conduction
+disturbance, RBBB does not appear to indicate a higher risk of future cardiovascular events. Also,
+isolated RBBB produces no symptoms. Thus, isolated RBBB requires no specific therapy (3).
+Right Bundle Branch Block
+Left bundle branch block (LBBB—see figure Left Bundle Branch Block) criteria on the ECG in adults are
+(1)
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block 3/6
+--- Страница 4 ---
+22/01/2026, 14:04 Bundle Branch Block and Fascicular Block - Cardiovascular Disorders - Merck Manual Professional Edition
+A QRS duration ≥ 0.12 second
+Broad notched or slurred R wave and absent Q waves in leads I, aVL, V5 and V6
+Delayed left ventricular activation time shown by a QRS onset to peak of last R wave time of
+> 0.06 second in lead V5 and V6
+Normal right ventricular activation time shown by a QRS onset to peak of last R wave time
+of < 0.035 second in lead V1
+LBBB produces secondary repolarization changes consisting of ST and T wave deviation in the opposite
+direction of the QRS complex. Incomplete left bundle branch block (also called left ventricular
+conduction delay) has the same ECG criteria as LBBB with a QRS duration > 0.11 second but < 0.12
+second. When lead aVL shows a significant q wave while the other criteria for LBBB are met, LBBB and
+septal myocardial infarction (or other septal damage) are diagnosed. Otherwise, LBBB precludes use of
+the usual ECG criteria of past myocardial infarction.
+LBBB is associated with a structural heart disorder more often than is RBBB and, in contrast to RBBB,
+LBBB is associated with a higher risk of future cardiac events and mortality. It may also occur with
+anterior myocardial infarction, indicating substantial myocardial injury. The presence of LBBB should
+prompt a search for underlying cardiac pathology, which is present more often than in patients with
+RBBB (3).
+Isolated LBBB rarely produces symptoms but may produce interventricular mechanical dyssynchrony
+that reduces the efficiency of left ventricular systolic function and may contribute to heart failure,
+particularly in association with other heart disorders that reduce left ventricular systolic function.
+Resynchronization pacing therapy is then of benefit (4).
+Left Bundle Branch Block
+Fascicular block involves the anterior or posterior fascicle of the left bundle branch. Interruption of the
+left anterior fascicle causes left anterior hemiblock characterized by (1)
+Modest QRS prolongation (< 0.12 second)
+A frontal plane QRS axis more negative than −45° (left axis deviation)
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block 4/6
+--- Страница 5 ---
+22/01/2026, 14:04 Bundle Branch Block and Fascicular Block - Cardiovascular Disorders - Merck Manual Professional Edition
+Overview of Bundle Branch Bloc...
+VIDEO
+A qR pattern in lead aVL
+Delayed left anterolateral ventricular activation time shown by a QRS onset to peak of last R
+wave time of > 0.045 second in lead aVL
+Interruption of the left posterior fascicle causes left posterior hemiblock characterized by (1)
+Modest QRS prolongation (< 0.12 second)
+A frontal plane QRS axis more positive than +120°
+An rS pattern in lead aVL
+A qR pattern in leads II and aVF
+The associations between hemiblocks and a structural heart disorder are the same as for LBBB. Isolated
+left posterior hemiblock is rare. Isolated left anterior hemiblock is more common and does not appear
+to be independently associated with an increased risk of future cardiac events or mortality.
+Hemiblocks may coexist with other conduction disturbances: RBBB and left anterior or posterior
+hemiblock (bifascicular block); and RBBB, left anterior or posterior hemiblock, and first-degree
+atrioventricular (AV) block (sometimes incorrectly called trifascicular block; incorrectly because first-
+degree block is usually AV nodal in origin).
+Trifascicular block refers to RBBB with alternating left anterior and left posterior hemiblock or
+alternating LBBB and RBBB. Presence of bifascicular or trifascicular block after myocardial infarction
+implies extensive cardiac damage.
+Bifascicular blocks require no direct treatment unless intermittent second- or third-degree AV block is
+present. True trifascicular blocks require immediate, then permanent pacing (3).
+Nonspecific intraventricular conduction defects are diagnosed when the QRS complex is prolonged
+(> 0.12 second), but the QRS pattern is not typical of LBBB or RBBB (1). The conduction delay may occur
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block 5/6
+--- Страница 6 ---
+22/01/2026, 14:04 Bundle Branch Block and Fascicular Block - Cardiovascular Disorders - Merck Manual Professional Edition
+beyond the Purkinje fibers and result from slow cell-to-cell myocyte conduction. Risk of subsequent
+cardiac events and mortality with nonspecific intraventricular conduction defect is similar to that of a
+LBBB. Accordingly, evaluation for an underlying structural heart disorder is indicated. Isolated
+intraventricular conduction delay produces no symptoms. No specific treatment is indicated (3).
+References
+1. Surawicz B, Childers R, Deal BJ, et al: AHA/ACCF/HRS recommendations for the standardization
+and interpretation of the electrocardiogram: part III: intraventricular conduction disturbances: a
+scientific statement from the American Heart Association Electrocardiography and Arrhythmias
+Committee, Council on Clinical Cardiology; the American College of Cardiology Foundation; and
+the Heart Rhythm Society. Endorsed by the International Society for Computerized
+Electrocardiology. J Am Coll Cardiol 53(11):976–981, 2009. doi: 10.1016/j.jacc.2008.12.013
+2. MacLachlan H, Antonakaki A, Bhatia R, et al: Prevalence and Clinical Significance of
+Electrocardiographic Complete Right Bundle Branch Block in Young Individuals. Eur J Prev Cardiol
+2024 Feb 27:zwae082, 2024. doi: 10.1093/eurjpc/zwae082
+3. Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation
+and management of patients with bradycardia and cardiac conduction delay: A Report of the
+American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. Heart Rhythm 16(9):e128–e226, 2019. doi:
+10.1016/j.hrthm.2018.10.037
+4. Wells G, Parkash R, Healey JS, et al: Cardiac resynchronization therapy: a meta-analysis of
+randomized controlled trials. CMAJ 183(4):421–429, 2011. doi: 10.1503/cmaj.101685
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/bundle-branch-block-and-fascicular-block 6/6

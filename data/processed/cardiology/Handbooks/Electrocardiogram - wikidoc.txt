@@ -1,0 +1,506 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Electrocardiogram - wikidoc.pdf",
+  "converted_date": "2026-01-31T14:36:52.869822",
+  "file_size_bytes": 1105890,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Electrocardiogram - wikidoc.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+Search WikiDoc
+Search Try Exact Match
+Electrocardiogram
+Editor-In-Chief: C. Michael Gibson, M.S., M.D. [2] (mailto:charlesmichaelgibson@gmail.com)
+Synonyms and keywords: ECG; EKG
+Overview
+An electrocardiogram is a graphic produced by an electrocardiograph, which records the
+electrical activity of the heart over time. Its name is made of different parts: electro, because it's
+related to electronics, cardio, Greek for heart, gram, a Greek root meaning "to write". Analysis of
+the various waves and normal vectors of depolarization and repolarization yields important
+diagnostic information.
+Historical Perspective
+The electrocardiogram does not directly assess the contractility of the heart. However, it can give a
+rough indication of increased or decreased contractility.[1]Alexander Muirhead attached wires to a
+feverish patient's wrist to obtain a record of the patient's heartbeat while studying for his DSc (in
+electricity) in 1872 at St Bartholomew's Hospital[2] This activity was directly recorded and
+visualized using a Lippmann capillary electrometer by the British physiologist John Burdon
+Sanderson.[3] The first to systematically approach the heart from an electrical point-of-view was
+Augustus Waller, working in St Mary's Hospital in Paddington, London.[4] His electrocardiograph
+machine consisted of a Lippmann capillary electrometer fixed to a projector. The trace from the
+heartbeat was projected onto a photographic plate which was itself fixed to a toy train. [3] (http://
+www.hrsonline.org/ep-history/topics_in_depth/topics/wallerwork.asp#8) This allowed a
+heartbeat to be recorded in real time. In 1911 he still saw little clinical application for his work.
+• • •
+The first generation of The Cambridge VS4, The Cambridge
+EKG a popular ECG Simpliscribe, a
+instrument of the popular ECG
+1970s and 1980s. instrument of the
+Solid state 1950s and 1960s.
+technology. Vacuum tube
+technology.
+The breakthrough came when Willem Einthoven, working in Leiden, The Netherlands, used the
+string galvanometer invented by him in 1901, which was much more sensitive than the capillary
+electrometer t Ch oa okt i eW s ha el lple ur s du es lie vd er. [ o5 u] r services. By using our services, you agree to our use of cookies. OK
+https://www.wikidoc.org/index.php/Electrocardiogram 1/14
+--- Страница 2 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+Einthoven assigned the letters P, Q, R, S and T to the various deflections, and described the
+electrocardiographic features of a number of cardiovascular disorders. In 1924, he was awarded the
+Nobel Prize in Medicine for his discovery.[6]
+Though the basic principles of that era are still in use today, there have been many advances in
+electrocardiography over the years. The instrumentation, for example, has evolved from a
+cumbersome laboratory apparatus to compact electronic systems that often include computerized
+interpretation of the electrocardiogram.
+ECG graph paper
+A typical electrocardiograph runs at a paper speed of 25 mm/s, although faster paper speeds are
+occasionally used. Each small block of ECG paper is 1 mm². At a paper speed of 25 mm/s, one
+small block of ECG paper translates into 0.04 s (or 40 ms). Five small blocks make up 1 large
+block, which translates into 0.20 s (or 200 ms). Hence, there are 5 large blocks per second. A
+diagnostic quality 12 lead ECG is calibrated at 10 mm/mV, so 1 mm translates into 0.1 mV.
+Layout
+By definition, a 12-lead ECG will show a short segment of the recording of each of the 12-leads.
+This is often arranged in a grid of four columns by three rows, the first columns being the limb
+leads (I,II and III), the second column the augmented limb leads (aVR, aVL and aVF) and the last
+two columns being the chest leads (V1-V6). It is usually possible to change this layout, so it is vital
+to check the labels to see which lead is represented. Each column will usually record the same
+moment in time for the three leads and then the recording will switch to the next column, which
+will record the heart beats after that point. It is possible for the heart rhythm to change between
+the columns of leads.
+Each of these segments is short, perhaps one to three heart beats only, depending on the heart rate,
+and it can be difficult to analyse any heart rhythm that shows changes between heart beats. To help
+with the analysis, it is common to print one or two "rhythm strips", as well. This will usually be
+lead II (whichC osohkoiews hse ltph ues deelleivcetrr oiucra sle rsviigcens.a Bl yf ursoinmg o tuhr ese ravtirceisu, myou, atghreee P to- owuar vusee, owf ceololk)i eas.nd shows the rhythm
+https://www.wikidoc.org/index.php/Electrocardiogram 2/14
+--- Страница 3 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+for the whole time the ECG was recorded (usually 5–6 sec). Some ECG machines will print a
+second lead II along the very bottom of the paper in addition to the output described above. This
+printing of lead II is continuous from start to finish of the process.
+The term "rhythm strip" may also refer to the whole printout from a continuous monitoring
+system, which may show only one lead and is either initiated by a clinician or in response to an
+alarm or event.
+Filter selection
+Modern ECG monitors offer multiple filters for signal processing. The most common settings are
+monitor mode and diagnostic mode. In monitor mode, the low frequency filter (also called the
+high-pass filter because signals above the threshold are allowed to pass) is set at either 0.5 Hz or 1
+Hz and the high frequency filter (also called the low-pass filter because signals below the threshold
+are allowed to pass) is set at 40 Hz. This limits artifact for routine cardiac rhythm monitoring. The
+low frequency (high-pass) filter helps reduce wandering baseline and the high frequency (low pass)
+filter helps reduce 50 or 60 Hz power line noise (the power line network frequency differs between
+50 and 60 Hz in different countries). In diagnostic mode, the low frequency (high pass) filter is set
+at 0.05 Hz, which allows accurate ST segments to be recorded. The high frequency (low pass) filter
+is set to 40, 100, or 150 Hz. Consequently, the monitor mode ECG display is more filtered than
+diagnostic mode, because its bandpass is narrower.[7]
+Leads
+The word lead has two meanings in electrocardiography: it refers to either the wire that connects
+an electrode to the electrocardiograph, or (more commonly) to a combination of electrodes that
+form an imaginary line in the body along which the electrical signals are measured. Thus, the term
+loose lead artifact uses the former meaning, while the term 12 lead ECG uses the latter. In fact, a
+12 lead electrocardiograph usually only uses 10 wires/electrodes. The latter definition of lead is the
+one used here.
+An electrocardiogram is obtained by measuring electrical potential between various points of the
+body using a biomedical instrumentation amplifier. A lead records the electrical signals of the
+heart from a particular combination of recording electrodes which are placed at specific points on
+the patient's body.
+• When a depolarization wavefront (or mean electrical vector) moves toward a positive
+electrode, it creates a positive deflection on the ECG in the corresponding lead.
+• When a depolarization wavefront (or mean electrical vector) moves away from a positive
+electrode, it creates a negative deflection on the ECG in the corresponding lead.
+• When a depolarization wavefront (or mean electrical vector) moves perpendicular to a positive
+electrode, it creates an equiphasic (or isoelectric) complex on the ECG. It will be positive as the
+depolarization wavefront (or mean electrical vector) approaches (A), and then become negative
+as it passes by (B).
+Shown below is the graphic relationship between positive electrodes, depolarization wavefronts (or
+mean electrical vectors), and complexes displayed on the ECG. Center
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Electrocardiogram 3/14
+--- Страница 4 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+Placement of Leads
+Electrode label (in the
+Electrode placement
+USA)
+RA On the right arm, avoiding thick muscle.
+LA In the same location where RA was placed, but on the left arm.
+RL On the right leg, lateral calf muscle.
+LL In the same location where RL was placed, but on the left leg.
+In the fourth intercostal space (between ribs 4 and 5) just to the right of the sternum
+V
+1 (breastbone).
+V In the fourth intercostal space (between ribs 4 and 5) just to the left of the sternum.
+2
+V Between leads V and V .
+3 2 4
+V In the fifth intercostal space (between ribs 5 and 6) in the mid-clavicular line.
+4
+V Horizontally even with V , in the left anterior axillary line.
+5 4
+V Horizontally even with V and V in the midaxillary line.
+6 4 5
+Shown below are diagrams demonstrating proper placement of leads
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Electrocardiogram 4/14
+--- Страница 5 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+•
+Proper placement of the limb leads.
+•
+Proper placement of the precordial leads.
+Types of Leads
+Unipolar Vs Biploar Leads
+There are two types of leads—unipolar and bipolar. The former have an indifferent electrode at the
+center of the Einthoven’s triangle (which can be likened to a ‘neutral’ of the wall socket) at zero
+potential. The direction of these leads is from the “center” of the heart radially outward and
+includes the precordial (chest) leads and limb leads— VL, VR, & VF. The latter, in contrast, have
+both the electrodes at some potential and the direction of the corresponding electrode is from the
+electrode at lower potential to the one at higher potential, e.g., in limb lead I, the direction is from
+left to right. These include the limb leads I, II, and III.
+Note that the coloring scheme for leads varies by country.
+Limb Leads
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Electrocardiogram 5/14
+--- Страница 6 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+Leads I, II and III are the so-called limb leads because at one time, the subjects of
+electrocardiography had to literally place their arms and legs in buckets of salt water in order to
+obtain signals for Einthoven's string galvanometer. They form the basis of what is known as
+Einthoven's triangle.[4] (http://nobelprize.org/medicine/educational/ecg/images/triangle.gif)
+Eventually, electrodes were invented that could be placed directly on the patient's skin. Even
+though the buckets of salt water are no longer necessary, the electrodes are still placed on the
+patient's arms and legs to approximate the signals obtained with the buckets of salt water. They
+remain the first three leads of the modern 12 lead ECG.
+• Lead I is a dipole with the negative (white) electrode on the right arm and the positive (black)
+electrode on the left arm.
+• Lead II is a dipole with the negative (white) electrode on the right arm and the positive (red)
+electrode on the left leg.
+• Lead III is a dipole with the negative (black) electrode on the left arm and the positive (red)
+electrode on the left leg.
+Shown below is an EKG recording in lead I
+Copyleft image obtained courtesy of ECGpedia, http://en.ecgpedia.org/wiki/Main_Page
+Shown below is an EKG recording in lead II
+Copyleft image obtained courtesy of ECGpedia, http://en.ecgpedia.org/wiki/Main_Page
+Augmented limb Leads
+Leads aVR, aVL, and aVF are augmented limb leads. They are derived from the same three
+electrodes as leads I, II, and III. However, they view the heart from different angles (or vectors)
+because the negative electrode for these leads is a modification of Wilson's central terminal,
+which is derived by adding leads I, II, and III together and plugging them into the negative
+terminal of the EKG machine. This zeroes out the negative electrode and allows the positive
+electrode to become the "exploring electrode" or a unipolar lead. This is possible because
+Einthoven's Law states that I + (-II) + III = 0. The equation can also be written I + III = II. It is
+written this way (instead of I + II + III = 0) because Einthoven reversed the polarity of lead II in
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Electrocardiogram 6/14
+--- Страница 7 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+Einthoven's triangle, possibly because he liked to view upright QRS complexes. Wilson's central
+terminal paved the way for the development of the augmented limb leads aVR, aVL, aVF and the
+precordial leads V1, V2, V3, V4, V5, and V6.
+• Lead aVR or "augmented vector right" has the positive electrode (white) on the right arm. The
+negative electrode is a combination of the left arm (black) electrode and the left leg (red)
+electrode, which "augments" the signal strength of the positive electrode on the right arm.
+• Lead aVL or "augmented vector left" has the positive (black) electrode on the left arm. The
+negative electrode is a combination of the right arm (white) electrode and the left leg (red)
+electrode, which "augments" the signal strength of the positive electrode on the left arm.
+• Lead aVF or "augmented vector foot" has the positive (red) electrode on the left leg. The
+negative electrode is a combination of the right arm (white) electrode and the left arm (black)
+electrode, which "augments" the signal of the positive electrode on the left leg.
+The augmented limb leads aVR, aVL, and aVF are amplified in this way because the signal is too
+small to be useful when the negative electrode is Wilson's central terminal. Together with leads I,
+II, and III, augmented limb leads aVR, aVL, and aVF form the basis of the hexaxial reference
+system, which is used to calculate the heart's electrical axis in the frontal plane.
+Precordial Leads
+The precordial leads V1, V2, V3, V4, V5, and V6 are placed directly on the chest. Because of their
+close proximity to the heart, they do not require augmentation. Wilson's central terminal is
+used for the negative electrode, and these leads are considered to be unipolar. The precordial
+leads view the heart's electrical activity in the so-called horizontal plane. The heart's electrical
+axis in the horizontal plane is referred to as the Z axis.
+Leads V1, V2, and V3 are referred to as the right precordial leads and V4, V5, and V6 are
+referred to as the left precordial leads.
+The QRS complex should be negative in lead V1 and positive in lead V6. The QRS complex should
+show a gradual transition from negative to positive between leads V2 and V4. The equiphasic lead
+is referred to as the transition lead. When the transition occurs earlier than lead V3, it is referred to
+as an early transition. When it occurs later than lead V3, it is referred to as a late transition.
+There should also be a gradual increase in the amplitude of the R wave between leads V1 and V4.
+This is known as R wave progression. Poor R wave progression is a nonspecific finding. It can
+be caused by conduction abnormalities, myocardial infarction, cardiomyopathy, and other
+pathological conditions.
+• Lead V1 is placed in the fourth intercostal space to the right of the sternum.
+• Lead V2 is placed in the fourth intercostal space to the left of the sternum.
+• Lead V3 is placed directly between leads V2 and V4.
+• Lead V4 is placed in the fifth intercostal space in the midclavicular line (even if the apex beat is
+displaced).
+• Lead V5 is placed horizontally with V4 in the anterior axillary line
+• Lead V6 is placed horizontally with V4 and V5 in the midaxillary line.
+Ground
+An additional electrode (usually green) is present in modern four-lead and twelve-lead ECGs. This
+is the ground lead and is placed on the right leg by convention, although in theory it can be placed
+anywhere on Ctohoeki ebs hoedlpy u. s Wdeliitvher oau rt sherrveicee-sl. eBay dus iEngC oGur, s ewrvhiceesn, yooun aeg redei tpoo oluer uisse ovf iceowokeieds., the remaining lead
+https://www.wikidoc.org/index.php/Electrocardiogram 7/14
+--- Страница 8 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+becomes the ground lead by default.
+Waves and intervals
+A typical ECG tracing of a normal heartbeat (or
+cardiac cycle) consists of a P wave, a QRS complex
+and a T wave. A small U wave is normally visible in
+50 to 75% of ECGs. The baseline voltage of the
+electrocardiogram is known as the isoelectric line.
+Typically the isoelectric line is measured as the
+portion of the tracing following the T wave and
+preceding the next P wave.
+Rhythm analysis
+There are some basic rules that can be followed to
+identify a patient's heart rhythm. What is the rate? Is
+it regular or irregular? Are P waves present? Are QRS
+complexes present? Is there a 1:1 relationship
+Schematic representation of normal ECG
+between P waves and QRS complexes? Is the PR
+interval constant?
+P wave
+During normal atrial depolarization, the main electrical vector is directed from the SA node
+towards the AV node, and spreads from the right atrium to the left atrium. This turns into the P
+wave on the ECG, which is upright in II, III, and aVF (since the general electrical activity is going
+toward the positive electrode in those leads), and inverted in aVR (since it is going away from the
+positive electrode for that lead). A P wave must be upright in leads II and aVF and inverted in lead
+aVR to designate a cardiac rhythm as Sinus Rhythm.
+• The relationship between P waves and QRS complexes helps distinguish various cardiac
+arrhythmias.
+• The shape and duration of the P waves may indicate atrial enlargement.
+PR interval
+The PR interval is measured from the beginning of the P wave to the beginning of the QRS
+complex. It is usually 120 to 200 ms long. On an ECG tracing, this corresponds to 3 to 5 small
+boxes.
+• A prolonged PR interval may indicate a first degree heart block.
+• A short PR interval may indicate a pre-excitation syndrome via an accessory pathway that
+leads to early activation of the ventricles, such as seen in Wolff-Parkinson-White syndrome.
+• A variable PR interval may indicate other types of heart block.
+• PR segment depression may indicate atrial injury or pericarditis.
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Electrocardiogram 8/14
+--- Страница 9 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+• Variable morphologies of P waves in a single ECG lead is suggestive of an ectopic pacemaker
+rhythm such as wandering pacemaker or multifocal atrial tachycardia
+QRS complex
+See also: Electrical conduction system of the heart
+The QRS complex is a structure on the ECG that
+corresponds to the depolarization of the
+ventricles. Because the ventricles contain more
+muscle mass than the atria, the QRS complex is
+larger than the P wave. In addition, because the
+His/Purkinje system coordinates the
+depolarization of the ventricles, the QRS complex
+tends to look "spiked" rather than rounded due to
+the increase in conduction velocity. A normal
+QRS complex is 0.06 to 0.10 sec (60 to 100 ms)
+in duration.
+Various QRS complexes with nomenclature.
+Not every QRS complex contains a Q wave, an R
+wave, and an S wave. By convention, any combination of these waves can be referred to as a QRS
+complex. However, correct interpretation of difficult ECGs requires exact labeling of the various
+waves. Some authors use lowercase and capital letters, depending on the relative size of each wave.
+For example, an Rs complex would be positively deflected, while a rS complex would be negatively
+deflected. If both complexes were labeled RS, it would be impossible to appreciate this distinction
+without viewing the actual ECG.
+• The duration, amplitude, and morphology of the QRS complex is useful in diagnosing cardiac
+arrhythmias, conduction abnormalities, ventricular hypertrophy, myocardial infarction, electrolyte
+derangements, and other disease states.
+• Q waves can be normal (physiological) or pathological. Normal Q waves, when present,
+represent depolarization of the interventricular septum. For this reason, they are referred to as
+septal Q waves, and can be appreciated in the lateral leads I, aVL, V5 and V6.
+• Q waves greater than 1/3 the height of the R wave, greater than 0.04 sec (40 ms) in duration,
+or in the right precordial leads are considered to be abnormal, and may represent myocardial
+infarction.
+ST segment
+Main article: Myocardial infarction
+The ST segment connects the QRS complex and the T wave and has a duration of 0.08 to 0.12 sec
+(80 to 120 ms). It starts at the J point (junction between the QRS complex and ST segment) and
+ends at the beginning of the T wave. However, since it is usually difficult to determine exactly
+where the ST segment ends and the T wave begins, the relationship between the ST segment and T
+wave should be examined together. The typical ST segment duration is usually around 0.08 sec (80
+ms). It should be essentially level with the PR and TP segment.
+• The normal ST segment has a slight upward concavity.
+• Flat, downsloping, or depressed ST segments may indicate coronary ischemia.
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Electrocardiogram 9/14
+--- Страница 10 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+• ST segment elevation may indicate myocardial infarction. An elevation of >1mm and longer
+than 80 milliseconds following the J-point. This measure has a false positive rate of 15-20%
+(which is slightly higher in women than men) and a false negative rate of 20-30%.[8]
+T wave
+The T wave represents the repolarization (or recovery) of the ventricles. The interval from the
+beginning of the QRS complex to the apex of the T wave is referred to as the absolute refractory
+period. The last half of the T wave is referred to as the relative refractory period (or
+vulnerable period).
+In most leads, the T wave is positive. However, a negative T wave is normal in lead aVR. Lead V1
+may have a positive, negative, or biphasic T wave. In addition, it is not uncommon to have an
+isolated negative T wave in lead III, aVL, or aVF.
+• Inverted (or negative) T waves can be a sign of coronary ischemia, Wellens' syndrome, left
+ventricular hypertrophy, or CNS disorder.
+• Tall or "tented" symmetrical T waves may indicate hyperkalemia. Flat T waves may indicate
+coronary ischemia or hypokalemia.
+• The earliest electrocardiographic finding of acute myocardial infarction is sometimes the
+hyperacute T wave, which can be distinguished from hyperkalemia by the broad base and
+slight asymmetry.
+• When a conduction abnormality (e.g., bundle branch block, paced rhythm) is present, the T
+wave should be deflected opposite the terminal deflection of the QRS complex. This is known as
+appropriate T wave discordance.
+QT interval
+Main article: QT interval
+The QT interval is measured from the beginning of the QRS complex to the end of the T wave. A
+normal QT interval is usually about 0.40 seconds. The QT interval as well as the corrected QT
+interval are important in the diagnosis of long QT syndrome and short QT syndrome. The QT
+interval varies based on the heart rate, and various correction factors have been developed to
+correct the QT interval for the heart rate.
+The most commonly used method for correcting the QT interval for rate is the one formulated by
+Bazett and published in 1920.[9] Bazett's formula is <math>QTc = \frac{QT}{\sqrt {RR} }
+</math>, where QTc is the QT interval corrected for rate, and RR is the interval from the onset of
+one QRS complex to the onset of the next QRS complex, measured in seconds. However, this
+formula tends to be inaccurate, and over-corrects at high heart rates and under-corrects at low
+heart rates.
+U wave
+The U wave is not always seen. It is typically small, and, by definition, follows the T wave. U waves
+are thought to represent repolarization of the papillary muscles or Purkinje fibers. Prominent U
+waves are most often seen in hypokalemia, but may be present in hypercalcemia, thyrotoxicosis, or
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Electrocardiogram 10/14
+--- Страница 11 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+exposure to digitalis, epinephrine, and Class 1A and 3 antiarrhythmics, as well as in congenital long
+QT syndrome and in the setting of intracranial hemorrhage. An inverted U wave may represent
+myocardial ischemia or left ventricular volume overload.[10]
+Clinical lead groups
+Main article: Myocardial infarction
+There are twelve leads in total, each recording the electrical activity of the heart from a different
+perspective, which also correlate to different anatomical areas of the heart for the purpose of
+identifying acute coronary ischemia or injury. Two leads that look at the same anatomical area of
+the heart are said to be contiguous (see color coded chart).
+• The inferior leads (leads II, III and aVF) look at electrical activity from the vantage point of the
+inferior (or diaphragmatic) wall of the left ventricle.
+• The lateral leads (I, aVL, V and V ) look at the electrical activity from the vantage point of the
+5 6
+lateral wall of left ventricle. Because the positive electrode for leads I and aVL are located on the
+left shoulder, leads I and aVL are sometimes referred to as the high lateral leads. Because the
+positive electrodes for leads V5 and V6 are on the patient's chest, they are sometimes referred
+to as the low lateral leads.
+• The septal leads, V and V look at electrical activity from the vantage point of the septal wall
+1 2
+of the left ventricle. They are often grouped together with the anterior leads.
+• The anterior leads, V and V look at electrical activity from the vantage point of the anterior
+3 4
+wall of the left ventricle.
+• In addition, any two precordial leads that are next to one another are considered to be
+contiguous. For example, even though V4 is an anterior lead and V5 is a lateral lead, they are
+contiguous because they are next to one another.
+• Lead aVR offers no specific view of the left ventricle. Rather, it views the inside of the
+endocardial wall from its perspective on the right shoulder.
+Shown below is a diagram showing the contiguous leads in same color.
+Axis
+The heart's electrical axis refers to the general direction of the heart's depolarization wavefront
+(or mean electrical vector) in the frontal plane. It is usually oriented in a right shoulder to left
+leg direction, which corresponds to the left inferior quadrant of the hexaxial reference system,
+although -30o to +90o is considered to be normal.
+• Left axis deviation (-30o to -90o) may indicate left anterior fascicular block or Q waves from
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+inferior MI.
+https://www.wikidoc.org/index.php/Electrocardiogram 11/14
+--- Страница 12 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+• Right axis deviation (+90o to +180o) may indicate left posterior fascicular block, Q waves
+from high lateral MI, or a right ventricular strain pattern.
+• In the setting of right bundle branch block, right or left axis deviation may indicate bifascicular
+block.
+Shown below is a diagram showing how the polarity of the QRS complex in leads I, II, and III can be used to estimate the heart's electrical
+axis in the frontal plane.
+Relation of Action Potential to Electrocardiogram
+Shown below is an image depicting the the phases of action potential to ECG waves.
+Representation in culture
+The ECG has become so familiar to the general population that it is part of the logo of many
+medical organizations, representing the technical side of medicine vs. the Rod of Asclepius or
+caduceus, which are more traditional. Being an electrical representation, it signifies vitality and
+urgency.
+In various television medical dramas, an isoelectric ECG (no cardiac electrical activity, also known
+as flatline) is often used as a symbol of death or at least extreme medical peril. This is technically
+known as asystole, a form of cardiac arrest with a particularly bad prognosis. Though sometimes
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Electrocardiogram 12/14
+--- Страница 13 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+shown on television, defibrillation, which can be used to correct arrythmias such as ventricular
+fibrillation and pulseless ventricular tachycardia, does not correct asystole and is not an indicated
+therapy.
+The Digital Imperative
+Recent regulatory developments have thrust cardiac safety to the forefront of clinical development
+due to the fact that QT effects of new drugs is now the most common cause of drug withdrawal
+from the market and delays in or lack of regulatory approval for marketing. The resultant "Digital
+ECG Imperative for Cardiac Safety" requires innovative strategies on the part of both drug
+development organizations and ECG services providers.
+On November 15, 2002, the FDA and Health Canada published regulatory guidance in the form of
+a concept paper entitled The Clinical Evaluation of QT/QTc Interval Prolongation and
+Proarrhythmic Potential for Non-Antiarrhythmic Drugs, which was reviewed and discussed on
+January 13-14, 2003.
+Overall, the new regulatory guidance on ECGs in clinical research will require more robust and
+uniform cardiac safety assessments across virtually all segments of the drug development industry.
+It will drive increased reliance on ECG core laboratories. In turn, such laboratories will need to
+respond with not only increased capacity and capability, but also an enhancement of
+methodologies employed. While scientific expertise will remain of prime importance, core ECG
+laboratories will need to demonstrate mastery in new core competencies of a technical and
+logistical nature.
+Related Chapters
+• Advanced cardiac life support (ACLS)
+• Ballistocardiograph
+• Cardiac cycle
+• Electrical conduction system of the heart
+• Electrocardiogram technician
+• Electroencephalography
+• Electrogastrogram
+• Electroretinography
+• Heart rate monitor
+• Holter monitor
+• Myocardial infarction
+Sources
+• ECGpedia (http://www.ecgpedia.org)
+• ECGpedia: Course for interpretation of ECG (http://en.ecgpedia.org)
+• The whole ECG - A really basic ECG primer (http://www.anaesthetist.com/icu/organs/heart/ec
+g/)
+• 12-lead ECG library (http://www.ecglibrary.com)
+• Simulation tool to demonstrate and study the relation between the electric activity of the heart
+and the ECG (http://www.ecgsim.org)
+• ECG information (http://heartcenter.seattlechildrens.org/what_to_expect/electrocardiogram.as
+p) from ChiCldoroekines's h eHlpo uss pdeitliavel rH ouera sretr vCiceesn. Btey ru,s iSnge oautrt lseer.vices, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Electrocardiogram 13/14
+--- Страница 14 ---
+22/01/2026, 16:26 Electrocardiogram - wikidoc
+• ECG Challenge from the ACC D2B Initiative (http://www.regionalpci-stemi.org/id10.html)
+• ECG simulator (http://www.sr-i.com/biotester)
+• National Heart, Lung, and Blood Institute, Diseases and Conditions Index (http://www.nhlbi.nih.
+gov/health/dci/Diseases/ekg/ekg_what.html)
+• Digital Imperative (http://www.ert.com/investor/pdfs/Digital_Imperative.pdf)
+• A summarized extensive history of electrocardiography (http://www.ecglibrary.com/ecghist.htm
+l)
+• Interpretation of electrocardiograms in infants and children. (http://www.health.gov.mt/impaedc
+ard/issue/issue1/ipc00103.htm)
+References
+Template:Emergency medicine
+(cid:0)
+ar:يئابرهك بلق مسر zh-min-nan:Sim-tiān-tô cs:Elektrokardiogram da:Elektrokardiogram
+de:Elektrokardiogramm eu:Elektrokardiograma gl:Electrocardiograma hr:Elektrokardiogram
+it:Elettrocardiogramma he:םרגוידרקורטקלא ku:EKG lb:Elektrokardiogramm lt:Elektrokardiografija
+hu:Elektrokardiográfia nl:Elektrocardiogram no:Elektrokardiogram nn:Elektrokardiografi
+sq:Elektrokardiografia fi:EKG sv:EKG uk:Електрокардіографія
+Template:WikiDoc Sources
+Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
+Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
+Physical Examination | Lab Tests | Drugs
+Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
+There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
+Licensing | Disclaimers | Avoid Plagiarism | Policies
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Electrocardiogram 14/14

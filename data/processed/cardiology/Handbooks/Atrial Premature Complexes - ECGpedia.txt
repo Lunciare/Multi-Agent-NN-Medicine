@@ -1,0 +1,62 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Atrial Premature Complexes - ECGpedia.html",
+  "converted_date": "2026-01-31T14:51:23.160226",
+  "file_size_bytes": 140713,
+  "original_format": "html",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Atrial Premature Complexes - ECGpedia.html"
+}
+
+=== СОДЕРЖАНИЕ ===
+Atrial Premature Complexes - ECGpedia
+Atrial Premature Complexes
+From ECGpedia
+Jump to navigation
+Jump to search
+This is part of: Supraventricular Rhythms
+A premature atrial complex (PAC). (In this example the atrial p-wave is difficult to discern).
+A premature atrial complex (PAC) with evident negative p-wave
+This ladder diagram shows the three possible faits of an atrial premature complex. First two normal sinus beats are shown. The first atrial extrasystole is conducted normally. The second atrial extrasystole follows the previous sinus beat a bit earlier and is conducted with RBBB aberration. The third atrial extrasystole is still a bit earlier after the previous sinus beat and is blocked in the AV node and therefore not-conducted, resulting in a P wave, but no QRS complex, followed by a noncompensatory pause.
+A 12 lead ECG with a atrial extrasystole. The fourth QRS complex is preceded by an AES
+Premature atrial complexes origin from an ectopic pacing region in the atria. They are an example of ectopic beats. The result is a p-wave with often a different morphology from the preceding ones.
+If a premature atrial complex follows early after a previous sinus beat some of the the conducting tissues below may not conduct. A premature atral complex can therefore have different fates (see figure):
+Normally conducted
+Conducted with aberrancy. Mostly right bundle branch block aberrancy as the RBBB has a longer refractory period.
+Non-conducted. If the premature beat is very early, the AV node is refractory (cannot conduct) and the beat is not followed by a QRS complex. A non-conducted premature atrial beat is often confused with type II second degree AV block where a normal sinus beat is not followed by a QRS complex.
+A premature atrial complex is usually followed by a noncompensatory pause caused by the fact that atrial depolarization enters the sinus node and resets the sinus rhythm.
+Premature atrial complexes are common and usually benign. Frequent atrial ectopic beats (>100 / 24hrs) in a population of patients presented to a cardiovascular hospital wass associated with a small chance of 1% of developing atrial fibrillation in the following year AES
+See also:
+Ventricular Premature Beats
+Ectopic Beats
+References
+<biblio>
+AES pmid=23499279
+</biblio>
+Retrieved from "https://en.ecgpedia.org/index.php?title=Atrial_Premature_Complexes&oldid=16671"
+Navigation menu
+Personal tools
+Log in
+Namespaces
+PageDiscussion
+English
+Views
+ReadView sourceView history
+More
+Search
+Navigation
+Main PageFrequently Asked QuestionsDisclaimersContactBenefactorsHow to improve this website
+The ECG course
+IntroductionBasicsRhythmRateConduction (PQ,QRS,QT)Heart axisP wave morphologyQRS morphologyST morphology
+The ECG textbook
+Normal tracingTechnical ProblemsSinus rhythmsArrhythmias:- supraventricular- junctional- ventricular- genetic- ectopic beatsAV ConductionIntraventricular ConductionMyocardial InfarctionQRS axis and voltageChamber HypertrophyRepolarizationClinical DisordersElectrolyte DisordersPacemaker
+Cases and Examples
+Cases and ExamplesGuess the CulpritRhythm Puzzles
+Tools
+What links hereRelated changesSpecial pagesPrintable versionPermanent linkPage informationCite this page
+This page was last edited on 23 June 2013, at 20:36.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+Privacy policy
+About ECGpedia
+Disclaimers

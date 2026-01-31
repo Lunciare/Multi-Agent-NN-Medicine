@@ -1,0 +1,403 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:37:53.586146",
+  "file_size_bytes": 11344648,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  34 weeks pregnant. Heart rate of 180
+Steve Smith onOctober 9, 2025
+34 weeks pregnant. Heart
+rate of 180
+A multiparous 41 y.o. female with history of an episode Atrial
+Fibrillation with Rapid Ventricular Response (AF RVR) in the
+setting of pregnancy 15 years prior and recent stillbirth
+presented with recurrent AF RVR in the setting of a 34 week
+gestation based on bedside US.
+The patient began feeling SOB with fast heart rate and
+dizziness the previous evening (approximately 12 hours
+prior). Since it continued, she presented to a smaller hospital,
+where her EKG showed possible AF RVR with rates as high as
+180 bpm, then down to 140s after metoprolol.
+Her d-dimer was also elevated at nearly 2000, so she was
+transferred to a tertiary center for management of AF RVR in
+the setting of high risk pregnancy.
+On arrival, she reported no new complaints, and stated that
+she can still feel the baby moving, that she has not felt
+contractions, and she has not had any leakage of fluid. She
+had not sought prenatal care due to anxiety surrounding
+previous pregnancy ending in stillbirth.
+BP 135/107 | Pulse (!) 181 | Resp (!) 29 | SpO2 (!) 92%
+ 
+Here is her ED ECG:
+
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 1/13
+--- Страница 2 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+What do you think?
+Narrow Complex, Fast (174), No P-waves, Irregularly Irregular
+= Atrial Fibrillation with Rapid Ventricular Response (RVR).
+There is no possible alternative rhythm diagnosis! There is no
+evidence of ischemia.
+The conventional algorithm diagnosed AF with RVR on all 3
+ECGs recorded.
+By the way, the PMCardio AI ECG Model also has full ECG
+diagnostics, including rhythm, and has extremely high
+accuracy for atrial fibrillation. The app diagnoses atrial fib
+with RVR.
+Diagnostic Accuracy of the PMCardio Smartphone
+Application for Artificial Intelligence-based interpretation of
+electrocardiograms in primary caare (AMSTELHEART-1)
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 2/13
+--- Страница 3 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+Validation of an automated artificial intelligence system for
+12-lead ECG interpretation
+OB was present. A bedside ultrasound showed good ejection
+fraction, possibly dilated RV, no B lines.
+Fetal Exam showed movement and heart rate of 160.
+Adenosine was given (This is a mistake. This is clearly not a
+regular narrow complex tachycardia and has virtually zero
+chance of converting with adenosine).
+The patient became hypotensive and an arterial line was
+placed.
+Magnesium, and fluids were given. Metoprolol of unknown
+dose was given and HR decreased to 140.
+CT did not show PE.
+Adenosine 12 mg was repeated.
+The providers discussed other rhythm control agents, but
+amiodarone and digoxin have high toxicity for the fetus, and
+the patient was borderline hypotensive, so they were very
+reluctant to give diltiazem.
+Esmolol was attempted, with a drop of systolic BP to 40s.
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 3/13
+--- Страница 4 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+As pt was now unstable, they administered synchronized
+cardioversion at 200J using etomidate for sedation, with
+conversion to NSR.
+Learning Point:
+1. This irregularly irregular rhythm is atrial fibrillation, NOT
+PSVT. This ECG cannot be anything other than Atrial
+fibrillation!!
+1a. On very rare occasions, an irregularly irregular
+narrow complex rhythm can be MAT, but that should never be
+your first thought since it is so comparatively rare.
+2. Adenosine does not convert Atrial fibrillation!
+3. It is safe to electrically cardiovert in pregnancy (see
+UpToDate article below). The first step in this case should
+be electrical cardioversion!!
+4. From a stroke perspective, in a patient who is not
+anticoagulated, it is VERY safe to cardiovert AF RVR if the
+time since onset is < 12 hours (extremely low rate of stroke —
+approximately 0.2%)
+5. It is even safe to cardiovert if time since onset is 12-48
+hours (much less than 1% incidence of stroke).
+DCCV is safe in pregnancy
+Direct current cardioversion in pregnancy: a multicentre
+study
+From UpToDate:
+Electrical cardioversion
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 4/13
+--- Страница 5 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+Emergent or elective electrical cardioversion can be
+performed at all stages of pregnancy [13,50,76], and should
+be used for any sustained arrhythmia with hemodynamic
+compromise and can be considered for drug-refractory
+arrhythmias. In the third trimester, some physicians prefer to
+perform electrical cardioversion under general anesthesia
+and intubation, considering the more difficult airway and
+increased risk of gastric aspiration during pregnancy.
+Electrical cardioversion does not result in compromise of
+blood flow to the fetus [76]. While there is a theoretical risk of
+inducing an arrhythmia in the fetus, this risk is very small due
+to the high fibrillation threshold and small amount of energy
+reaching the fetus. Nonetheless, postprocedure continuous
+electronic fetal heart rate monitoring is recommended
+because of reported cases of emergency cesarean delivery
+due to fetal arrhythmias [77].
+In one multicenter study, 27 pregnant females had 29
+electrical cardioversions for supraventricular arrythmias
+(atrial fibrillation [44 percent], atrial flutter [30 percent], SVT
+[19 percent], atrial tachycardia [7 percent]) [78]. There were
+no maternal or fetal deaths. Median gestation at cardioversion
+was 28 weeks, and median gestation at delivery was 35
+weeks. Postprocedure fetal monitoring was undertaken
+following cardioversion in nearly half the patients and in 7
+percent, urgent delivery was required postcardioversion due
+to fetal bradycardia.
+= = =
+======================================
+MY Comment, by KEN GRAUER, MD
+(10/9/2025):
+Two aspects of todayʼs case merit special attention: i) The
+rhythm diagnosis; and, ii) Treatment considerations of the
+rhythm diagnosis, given the pregnant state of this patient.
+= = =
+The Rhythm Diagnosis:
+For clarity in Figure-1 — Iʼve reproduced the
+patientʼs initial ECG. There was uncertainty about the rhythm
+when the patient was first seen.
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 5/13
+--- Страница 6 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+That the rhythm was supraventricular and tachycardic
+was obvious from the narrowQRS in all 12 leads — and
+the rapidrate.
+KEY Point: Although at first glance, the rhythm
+in Figure-1 may look regular — it is not regular. That the
+rhythm is actually irregularly irregular (with slight-but-
+real variation in the R-R interval throughout the entire
+long lead II rhythm strip) — can be
+verified within seconds by use of calipers (To
+Emphasize — With practice, the irregular irregularity of
+this rhythm can be immediately
+recognized without calipers, as I was able to do).
+There are no P waves in any of the 12 leads.
+Therefore: The finding of an irregularly irregular rhythm
+with narrow QRS and no P waves — defines this rhythm
+as AFib (Atrial Fibrillation), here with a rapid ventricular
+response.
+NOTE #1: It is common for AFib with a rapid ventricular
+response to “look” regular — which may lead to
+misdiagnosis of a reentry SVT rhythm (such as AVNRT
+or orthodromic AVRT). While most patients tolerate IV
+Adenosine — this medication is not without potential for
+side effects. Given that Adenosine is not effective for
+AFib — recognizing todayʼs rhythm could have avoided
+the trial of Adenosine.
+NOTE #2: Review of the magnified insert of lead V1 (in
+the upper right corner ofFigure-1) — suggests that
+there is atrial activity in this lead. But the vertical RED
+lines that I have highlighted are not flutter waves. It is
+common for there to be transient “organization” of AFib
+wavelets — and when this happens, you may see atrial
+deflections that almost look regular in lead V1 (which is
+the closest lead for recording atrial activity).
+But AFlutter (Atrial Flutter) is characterized
+by regular atrial activity, that in a patient not on
+antiarrhythmic medication — typically manifests an atrial
+rate range between ~250-350/minute.Therefore — the
+irregularity of the atrial activity in Figure-1, which at
+times far exceeds 300/minute rules out AFlutter as the
+rhythm diagnosis.
+= = =
+Figure-1: Iʼve labeled the initial ECG in todayʼs case.
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 6/13
+--- Страница 7 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+= = =
+Treatment Considerations of AFib in
+a Pregnant Patient:
+My review of AFib Treatment during Pregnancy encompassed
+the following publications: Tamirisa et al (J Am Coll Cardiol
+EP 1:120-135, 2022) — Cacciotti and Passaseo ( J Atr Fib
+3(3):295, 2010) — and — Youssef ( Eur Soc Card 15(17),
+2019):
+Overall — AFib is not a common complication of normal
+pregnancy. That said, I found it difficult to estimate the
+prevalence of this arrhythmia — as frequency estimates
+will depend on multiple factors including age and health
+status of the patient, and presence of precipitating
+factors.
+There are additional complicating factors in todayʼs
+case. These include the patientʼs age (41 years old) and
+multiparous status (G8P6) — with lack of prenatal care
+(because of patient anxiety resulting from the previous
+pregnancy ending in stillbirth). Estimated gestation of
+this current pregnancy = 34 weeks. Of note — this
+patient had a previous episode of AFib in 2009 during
+one of her earlier pregnancies!
+= = =
+Regarding Treatment:
+First priority (as for any patient with new, rapid AFib) —
+is to ensure hemodynamic stability. If/as needed
+— electrical cardioversion appears to be safe at all
+stages of pregnancy. (During and after electrical
+cardioversion — fetal monitoring is advised, given the
+risk of fetal arrhythmias).
+Look for Potential Precipitating Factors — which is
+critical, since if an underlying cause of AFib is present —
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 7/13
+--- Страница 8 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+this will greatly affect treatment decisions (Rule out
+hyperthyroidism, alcohol use, cocaine or other illicit drug
+use, sympathomimetic or other stimulant medication,
+electrolyte disturbance — adult congenital heart disease
+— rheumatic heart disease — peripartum
+cardiomyopathy — or other form of underlying heart
+disease) ==> An Echo, TSH, CBC, electrolytes, etc. — all
+part of the immediate work-up.
+Medications for Rate Control — Beta-blockers are
+recommended as 1st-line for AFib rate control. Digoxin
+has a long history of being safe in pregnancy (assuming
+no preexcitation). Verapamil is a 2nd-line agent (and is
+favored over Diltiazem). And, if rate control with
+hemodynamic stability can be achieved — it may be
+reasonable to hold off decision of cardioversion, given a
+high percentage of patients who spontaneously convert
+to sinus rhythm within the first 24 hours of
+hospitalization.
+Amiodarone — should not be used in pregnancy
+(significant adverse effects).
+NOTE: Iʼll recommend the above reference by Tamirisa et
+al — as this is a 2022 State of the Art Review by JACC
+on Arrhythmias in Pregnancy. This article contains
+detailed reference tables of specific drugs and treatments
+for the various arrhythmias during pregnancy.
+= = =
+= = =
+= = =
+Steve Smith onOctober 9, 2025
+ATRIAL FIBRILLATION WITH RVR PREGNANCY
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+Extremely fast, narrow, What do you think
+regular happened to this
+woman with chest
+pain?
+Write a Comment
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 8/13
+--- Страница 9 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+SEARCH
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 9/13
+--- Страница 10 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 10/13
+--- Страница 11 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 11/13
+--- Страница 12 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Pendell Meyers onOctober 12, 2025
+What do you think happened to this woman with chest
+pain?
+By Pendell Meyers A woman in her 60s with multiple comorbidities
+presented to the ED with acute chest pain. Vitals were within normal
+limits.…
+Steve Smith onOctober 15, 2025
+A 24 year old with chest pain — What happened?
+This was written up by one of our superb EM/IM residents, Emily
+Syverud. A 24-year-old man presented to the ED early in the morning
+with…
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 12/13
+--- Страница 13 ---
+22/01/2026, 15:20 34 weeks pregnant. Heart rate of 180 - Dr. Smith’s ECG Blog
+Sam Ghali onOctober 19, 2025
+A 45-year old man with “Heartburn.” There is much
+more to the ECG than initially meets the eye.
+A 45-year-old man presented to the ED complaining only of
+“heartburn”. There was no chest pain, no shortness of breath, nausea
+or…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/34-weeks-pregnant-rapid-180/ 13/13

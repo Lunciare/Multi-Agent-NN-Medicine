@@ -1,0 +1,810 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "icosapent-ethyl-with-statin-therapy-for-reducing-the-risk-of-cardiovascular-events-in-people-with-raised-triglycerides-pdf-82613251568581.pdf",
+  "converted_date": "2026-01-31T14:47:06.025992",
+  "file_size_bytes": 162212,
+  "original_format": "pdf",
+  "document_type": "Guidelines",
+  "source_folder": "Guidelines",
+  "full_path": "00_RAW_CARDIOLOGY/Guidelines/icosapent-ethyl-with-statin-therapy-for-reducing-the-risk-of-cardiovascular-events-in-people-with-raised-triglycerides-pdf-82613251568581.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+Icosapent ethyl with statin
+therapy for reducing the
+risk of cardiovascular
+events in people with
+raised triglycerides
+Technology appraisal guidance
+Published: 13 July 2022
+www.nice.org.uk/guidance/ta805
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
+conditions#notice-of-rights).
+--- Страница 2 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+Your responsibility
+The recommendations in this guidance represent the view of NICE, arrived at after careful
+consideration of the evidence available. When exercising their judgement, health
+professionals are expected to take this guidance fully into account, alongside the
+individual needs, preferences and values of their patients. The application of the
+recommendations in this guidance is at the discretion of health professionals and their
+individual patients and do not override the responsibility of healthcare professionals to
+make decisions appropriate to the circumstances of the individual patient, in consultation
+with the patient and/or their carer or guardian.
+All problems (adverse events) related to a medicine or medical device used for treatment
+or in a procedure should be reported to the Medicines and Healthcare products Regulatory
+Agency using the Yellow Card Scheme.
+Commissioners and/or providers have a responsibility to provide the funding required to
+enable the guidance to be applied when individual health professionals and their patients
+wish to use it, in accordance with the NHS Constitution. They should do so in light of their
+duties to have due regard to the need to eliminate unlawful discrimination, to advance
+equality of opportunity and to reduce health inequalities.
+Commissioners and providers have a responsibility to promote an environmentally
+sustainable health and care system and should assess and reduce the environmental
+impact of implementing NICE recommendations wherever possible.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
+conditions#notice-of-rights). 24
+--- Страница 3 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+Contents
+1 Recommendations ................................................................................................................. 4
+2 Information about icosapent ethyl ....................................................................................... 6
+Marketing authorisation indication .................................................................................................... 6
+Dosage in the marketing authorisation ............................................................................................. 6
+Price ...................................................................................................................................................... 6
+3 Committee discussion .......................................................................................................... 7
+Treatment pathway and comparator ................................................................................................. 7
+Population ............................................................................................................................................ 8
+Clinical evidence ................................................................................................................................. 10
+The economic model .......................................................................................................................... 15
+Cost-effectiveness estimates ............................................................................................................ 20
+Other factors ....................................................................................................................................... 21
+Conclusion ........................................................................................................................................... 22
+4 Implementation ...................................................................................................................... 23
+5 Appraisal committee members and NICE project team .................................................... 24
+Appraisal committee members .......................................................................................................... 24
+NICE project team ............................................................................................................................... 24
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
+conditions#notice-of-rights). 24
+--- Страница 4 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+1 Recommendations
+1.1 Icosapent ethyl is recommended as an option for reducing the risk of
+cardiovascular events in adults. It is recommended if they have a high
+risk of cardiovascular events and raised fasting triglycerides (1.7 mmol/
+litre or above) and are taking statins, but only if they have:
+• established cardiovascular disease (secondary prevention), defined as a
+history of any of the following:
+－ acute coronary syndrome (such as myocardial infarction or unstable angina
+needing hospitalisation)
+－ coronary or other arterial revascularisation procedures
+－ coronary heart disease
+－ ischaemic stroke
+－ peripheral arterial disease, and
+• low-density lipoprotein cholesterol (LDL-C) levels above 1.04 mmol/litre and
+below or equal to 2.60 mmol/litre.
+1.2 This recommendation is not intended to affect treatment with icosapent
+ethyl that was started in the NHS before this guidance was published.
+People having treatment outside this recommendation may continue
+without change to the funding arrangements in place for them before this
+guidance was published, until they and their NHS clinician consider it
+appropriate to stop.
+Why the committee made these recommendations
+There are currently no treatment options to reduce the risk of cardiovascular events in
+people taking statins who have controlled levels of LDL-C but raised levels of triglycerides.
+Icosapent ethyl is licensed for people taking statins who have raised triglycerides and a
+high risk of cardiovascular events, and who have either:
+• established cardiovascular disease (secondary prevention), or
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
+conditions#notice-of-rights). 24
+--- Страница 5 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+• diabetes and at least one other cardiovascular risk factor (primary prevention).
+Clinical trial evidence suggests that icosapent ethyl reduces the risk of cardiovascular
+events, compared with placebo, in people with raised fasting triglycerides (1.7 mmol/litre or
+above) who are taking statins. The trial only included people with LDL-C levels above 1.04
+mmol/litre and below or equal to 2.60 mmol/litre.
+The cost-effectiveness estimates for icosapent ethyl are uncertain. Icosapent ethyl is
+unlikely to be cost effective for primary prevention, so it is not recommended for this. But
+the most likely cost-effectiveness estimates for secondary prevention are within what
+NICE normally considers an acceptable use of NHS resources. So, icosapent ethyl is
+recommended for secondary prevention in people with LDL-C levels above 1.04 mmol/litre
+and below or equal to 2.60 mmol/litre.
+People must be taking a statin to have icosapent ethyl. People who cannot have statins are
+not covered by icosapent ethyl's marketing authorisation, so NICE cannot make any
+recommendations in this area.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
+conditions#notice-of-rights). 24
+--- Страница 6 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+2 Information about icosapent ethyl
+Marketing authorisation indication
+2.1 Icosapent ethyl (Vazkepa, Amarin Corporation) is indicated 'to reduce the
+risk of cardiovascular events in adult statin-treated patients at high
+cardiovascular risk with elevated triglycerides (≥150 mg/dL [1.7mmol/l])
+and:
+• established cardiovascular disease, or
+• diabetes, and at least on other cardiovascular risk factor'.
+Dosage in the marketing authorisation
+2.2 The dosage schedule is available in the summary of product
+characteristics for icosapent ethyl.
+Price
+2.3 Icosapent ethyl costs £144.21 per pack of 120 capsules (excluding VAT;
+company submission). Costs may vary in different settings because of
+negotiated procurement discounts.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
+conditions#notice-of-rights). 24
+--- Страница 7 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+3 Committee discussion
+The appraisal committee considered evidence submitted by Amarin, a review of this
+submission by the evidence review group (ERG), and responses from stakeholders. See
+the committee papers for full details of the evidence.
+Treatment pathway and comparator
+People with elevated triglycerides who are having statins with or
+without ezetimibe would welcome a treatment option
+3.1 NHS England estimated that between 25% and 35% of people having
+statin therapy have elevated triglycerides. The patient and clinical
+experts explained there is an unmet need for this population. This is
+because there are no pharmaceutical treatments for people at risk of
+cardiovascular events who have elevated triglycerides despite having
+statins with or without ezetimibe. They explained the aim of treatment
+would be to reduce the risk of cardiovascular events. The patient expert
+commented that lifestyle changes, including diet and exercise, can help
+to reduce the risk of cardiovascular events. The patient expert noted the
+importance of having treatment options because current ways of
+reducing cardiovascular risk may not work for everyone. The committee
+concluded that people with elevated triglycerides who are having statins
+with or without ezetimibe would welcome a treatment option.
+Statins with or without ezetimibe is an appropriate comparator
+3.2 The marketing authorisation for icosapent ethyl says it should be used in
+addition to statin therapy. The company submission, which was based on
+the REDUCE-IT trial (see section 3.6), also noted people could have
+ezetimibe in addition to statins. The clinical experts said that fibrates are
+not used to reduce the risk of cardiovascular events in people with
+moderately elevated triglycerides. They explained that fibrates are used
+by people with very high triglycerides to prevent pancreatitis, which is a
+different indication. The clinical experts confirmed that there are no
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
+conditions#notice-of-rights). 24
+--- Страница 8 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+treatments to reduce cardiovascular risk for people with elevated
+triglycerides who have statins with or without ezetimibe. Therefore, the
+committee agreed statins with or without ezetimibe was the appropriate
+comparator.
+Icosapent ethyl is likely to be used mostly in a primary care
+setting
+3.3 The company noted it expected icosapent ethyl to be used in a primary
+care setting. The clinical experts commented that icosapent ethyl might
+be used in secondary care but it would likely be used more in primary
+care. The committee concluded icosapent ethyl would likely be used
+mostly in a primary care setting.
+Population
+The population in the company's submission is narrower than the
+marketing authorisation in terms of LDL-C levels and is
+acceptable
+3.4 Icosapent ethyl's marketing authorisation does not specify age or low-
+density lipoprotein cholesterol (LDL-C) thresholds (see section 2.1).
+However, the company only provided evidence for icosapent ethyl from
+the REDUCE-IT trial. This included people aged 45 and older who had
+cardiovascular disease, and people aged 50 and older who had diabetes
+and at least 1 other cardiovascular risk factor (see section 3.5). The trial
+also only included people with LDL-C levels above 1.04 mmol/litre and
+below or equal to 2.60 mmol/litre. A clinical expert noted that there are
+people younger than 45 who have cardiovascular disease and elevated
+fasting triglycerides in the NHS. They explained that many of these
+people have South Asian family backgrounds. The ERG commented that
+the treatment effect for icosapent ethyl varies by age, with a larger
+benefit observed in people under 65 (hazard ratio [HR] 0.65, 95%
+confidence interval [CI] 0.56 to 0.75) than in people aged 65 or older (HR
+0.87, 95% CI 0.76 to 1.00). The company highlighted that these analyses
+did not include adjusting for potential confounders or multiple
+comparisons. The committee was aware that restricting by age may
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
+conditions#notice-of-rights). 24
+--- Страница 9 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+result in an equalities issue because age is a protected characteristic.
+The committee concluded that the company's submission for icosapent
+ethyl was narrower than the marketing authorisation and it was
+acceptable to use the LDL-C thresholds from REDUCE-IT. This would
+ensure its recommendation was based on the available evidence.
+It is appropriate to consider the effects of icosapent ethyl only for
+the secondary prevention subgroup
+3.5 In its original submission, the company provided evidence for 2 separate
+risk groups from the REDUCE-IT trial: primary and secondary prevention.
+The primary prevention group included people aged 50 and older with
+type 1 or 2 diabetes and at least 1 additional cardiovascular risk factor.
+People in the secondary prevention group were aged 45 and older with
+established cardiovascular disease. The committee noted that NICE's
+technology appraisal guidance on alirocumab (TA393), evolocumab
+(TA394) and inclisiran (TA733) defined high risk of cardiovascular
+disease as a history of any of the following:
+• a previous cardiovascular event, including acute coronary syndrome (such as
+myocardial infarction or unstable angina needing hospitalisation)
+• previous coronary or other arterial revascularisation procedures
+• coronary heart disease
+• ischaemic stroke
+• peripheral arterial disease.
+In response to the first consultation, the company provided analyses that
+focused only on the secondary prevention subgroup. The committee noted that
+icosapent ethyl was unlikely to be cost effective in the primary prevention
+subgroup, because the cost-effectiveness estimates presented at the first
+committee meeting were substantially higher than the range normally
+considered an acceptable use of NHS resources. It concluded that it was
+appropriate to focus on the effects of icosapent ethyl for the secondary
+prevention subgroup. This includes people with diabetes who have established
+cardiovascular disease.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
+conditions#notice-of-rights). 24
+--- Страница 10 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+Clinical evidence
+The REDUCE-IT trial may not be generalisable to the NHS in
+England
+3.6 The company provided clinical evidence from REDUCE-IT, a randomised
+trial comparing icosapent ethyl with a mineral oil placebo. The trial
+included people who had statins with or without ezetimibe, fasting
+triglyceride levels of 1.53 mmol/litre or more and below 5.64 mmol/litre,
+and LDL-C levels of more than 1.04 mmol/litre to 2.60 mmol/litre. In the
+trial, 8,179 people were randomised and 29% were in the primary
+prevention group and 71% were in the secondary prevention group (see
+section 3.5). The primary endpoint was time from randomisation to the
+first occurrence of any component of the major adverse cardiovascular
+event (MACE) composite outcome. This comprised cardiovascular death,
+nonfatal myocardial infarction, nonfatal stroke, coronary revascularisation
+and unstable angina. The ERG noted that REDUCE-IT did not include any
+people from the UK, which increases uncertainty around the
+generalisability of the results to the NHS in England. A clinical expert
+commented that the trial did not represent the ethnic diversity in
+England, because some family backgrounds were underrepresented.
+They noted that people with South Asian family backgrounds may benefit
+more from icosapent ethyl. The company compared the baseline
+characteristics of the secondary prevention subgroup with a similar
+population from Steen et al. 2016. This was a retrospective study of
+183,565 people with or without atherosclerotic cardiovascular disease
+from The Health Improvement Network database in the UK. The company
+noted that BMI and systolic blood pressure were similar between
+REDUCE-IT and Steen et al. However, the ERG noted that there were
+substantial differences between REDUCE-IT and Steen et al. that might
+modify the treatment effect. The mean age was higher in Steen et al. and
+the percentage of male patients was lower. There were also differences
+in comorbidities. In response to consultation, the company highlighted
+that the populations in England and REDUCE-IT had similar distributions
+by ethnic group. The company also stated that in REDUCE-IT, there was
+no interaction between the efficacy of icosapent ethyl in reducing the
+risk of cardiovascular events according to ethnicity ('white' HR 0.77, 95%
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
+conditions#notice-of-rights). 24
+--- Страница 11 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+CI 0.69 to 0.85, 'non-white' HR 0.60, 95% CI 0.43 to 0.83). It stated that
+an advisory board of 9 UK clinical experts considered the trial data would
+be generalisable to the UK population. The clinical adviser to NHS
+England noted that several treatments available in the NHS, such as
+SGLT2 inhibitors and GLP-1 agonists, were used by only a small
+proportion of people in REDUCE-IT. The clinical adviser explained that
+the change in treatment landscape in the NHS in England since the trial
+began makes the generalisability of REDUCE-IT to current practice
+uncertain. The company stated that the use of SGLT2 inhibitors and
+GLP-1 agonists in the trial was consistent with clinical practice at the
+time of the trial. It also noted that people who do not have diabetes
+would not necessarily be able to have these treatments. The committee
+concluded that REDUCE-IT may not fully represent NHS clinical practice,
+which increases uncertainty around the generalisability of the results.
+There is uncertainty in the trial results because icosapent ethyl's
+mechanism of action is not fully understood
+3.7 The company stated that icosapent ethyl's mechanism of action is not
+fully understood. The company noted it appears to modulate the
+atherosclerosis pathway by lipid and non-lipid effects. It explained the
+primary lipid effect is to reduce triglyceride levels. It added that the non-
+lipid effects may include localised anti-inflammatory effects, regulation of
+lipid metabolism gene transcription, antithrombotic effects and plaque
+reduction. The clinical experts also commented that the mechanism of
+action is uncertain. They explained that the reduction in cardiovascular
+risk observed in REDUCE-IT was larger than what would be expected
+from a reduction in triglycerides alone. It was also larger than that
+reported by an earlier trial (STRENGTH) of a drug with a similar
+mechanism of action to icosapent ethyl (see section 3.8). In response to
+consultation, the company stated that the mechanism of action is likely
+multifactorial and that icosapent ethyl can positively alter the
+development, progression and stabilisation of atherosclerotic plaque. It
+stated that triglyceride reduction only played a minor role in the
+reduction in the risk of cardiovascular events associated with icosapent
+ethyl. The company also noted that other related technologies that have
+been appraised by NICE, such as SGLT2 inhibitors, have uncertain
+mechanisms of action. The committee concluded that the mechanism of
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
+conditions#notice-of-rights). 24
+--- Страница 12 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+action for icosapent ethyl is not fully understood. This added uncertainty
+to the trial's results because the difference in benefit compared with
+STRENGTH had not been fully explained.
+The treatment effect of icosapent ethyl is uncertain because of
+the potential negative effect of mineral oil placebo in REDUCE-IT
+3.8 The placebo group in REDUCE-IT had 4 g of light mineral oil per day.
+Icosapent ethyl significantly reduced the first occurrence of the MACE
+outcome in the secondary prevention subgroup compared with placebo
+(HR 0.73, 95% CI 0.65 to 0.81). A professional group and the NHS
+England clinical adviser expressed concerns about the REDUCE-IT
+results, in part because of the use of mineral oil. They commented that
+mineral oil may not be a true neutral oil and may have increased the risk
+of cardiovascular events in the placebo group. This would exaggerate the
+observed difference in cardiovascular events between the icosapent
+ethyl and placebo groups. The professional group and NHS England
+clinical adviser also commented that results of a similar trial, STRENGTH,
+did not show the same magnitude of benefit as REDUCE-IT. STRENGTH
+compared a combination of eicosapentaenoic acid and docosahexaenoic
+acid (which is similar to, but not the same as, icosapent ethyl) with a corn
+oil placebo. The ERG explained that a 2021 paper by Doi et al. comparing
+REDUCE-IT with STRENGTH suggested the differences in results might
+be partially explained by differences in placebo comparators. But the
+ERG cautioned that there were other possible explanations, including
+that corn oil could decrease the risk of MACE or that there were
+underlying differences in patient characteristics between the trials. The
+ERG highlighted a systematic review by Olshansky et al. 2020 that
+concluded that it is likely that mineral oil at the quantities used as
+placebos does not significantly affect the conclusion of REDUCE-IT.
+However, the ERG noted that this systematic review had some limitations
+and one of the co-authors was employed by the company. In response to
+consultation, the company acknowledged that some parameters
+associated with cardiovascular risk increased in the placebo group of
+REDUCE-IT. However, it stated that it was uncertain if these changes
+were because of the natural history of the disease, regression to the
+mean, or negative effects of mineral oil. The company provided a
+comparison of cardiovascular outcomes trials from 2003 to 2019. The
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
+conditions#notice-of-rights). 24
+--- Страница 13 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+comparison found that 79% of studies reported increases in LDL-C after
+statin stabilisation, similar to what was observed in the placebo group of
+REDUCE-IT. In response to consultation the company also highlighted
+that the drug in STRENGTH was different to icosapent ethyl because of
+different proportions of docosahexaenoic acid and eicosapentaenoic
+acid. So, comparing the results from the 2 trials was not appropriate. The
+experts explained that among cardiovascular disease researchers and
+clinicians, there is an ongoing debate about mineral oil placebos and the
+impact on trial outcomes. The committee concluded that the relative
+effect of icosapent ethyl was uncertain because of the potential negative
+effect of the mineral oil placebo.
+It is appropriate to consider scenarios for an estimated possible
+reduction in treatment effect from 1.5% to 3%
+3.9 At the first meeting, the NHS England clinical adviser explained they
+expected to see analyses with the magnitude of treatment effect
+reduced by 7% to account for the estimated negative effect of mineral
+oil. This estimate was based on the 2021 paper by Doi et al. comparing
+the results of REDUCE-IT and STRENGTH. The committee was aware
+that the company provided the analyses done by the Food and Drug
+Administration (FDA) in the US to the European Medicines Agency based
+on the 3-point MACE outcome assuming that the potential negative
+effect of mineral oil on MACE events was between 0.3% and 3%. The
+committee also noted that the Doi et al. 2021 paper commented that
+there was an unexplained additional 13% benefit in REDUCE-IT. In
+response to the first consultation, the company provided scenarios with
+the clinical effectiveness of icosapent ethyl reduced by 0.3%, 1%, 2% or
+3% based on the analyses provided to the European Medicines Agency.
+The company considered that the range of 7% to 13% was not plausible
+because it was based on a single simulated Danish observational study.
+A clinical expert commented that it was difficult to quantify the potential
+negative effects of mineral oil and there was significant uncertainty. As
+such, they could not state which percentage reduction in treatment
+effect was more plausible. The committee was aware that the European
+public assessment report on icosapent ethyl notes that a 10% putative
+negative effect of mineral oil would be a worst-case scenario but likely
+an overestimation. In response to the second consultation, the company
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
+conditions#notice-of-rights). 24
+--- Страница 14 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+presented an analysis replicating a Cox regression model made by the
+FDA to examine the effects of high-sensitivity C-reactive protein and
+LDL-C on the relative benefit of icosapent ethyl. It presented a
+propensity score matched approach to the Cox regression analysis to
+account for overlapping effects of the biomarkers. It also presented an
+analysis exploring the relationship between on-treatment serum active
+drug concentration and cardiovascular outcomes to explore the effects
+on cardiovascular risk that are independent of serum eicosapentaenoic
+acid levels. The company considers the results of these analyses to be
+confidential so they cannot be reported here. On the basis of these
+analyses, the company updated its base-case model to include a 1.5%
+reduced treatment effect for icosapent ethyl. Considering the company's
+analyses and the conclusion of the European Medicines Agency, the
+committee concluded that it would be appropriate to consider scenarios
+estimating a possible reduction in treatment effect from 1.5% to 3%.
+Icosapent ethyl has manageable adverse events
+3.10 In REDUCE-IT, similar proportions of people having icosapent ethyl
+(81.8%) and placebo (81.3%) reported adverse events. The clinical
+experts noted that icosapent ethyl appears to be generally well tolerated,
+but they had some concerns around specific adverse events. In
+REDUCE-IT, there were significant differences in the incidence of atrial
+fibrillation (5.3% icosapent ethyl, 3.9% placebo), bleeding-related events
+(11.8% icosapent ethyl, 9.9% placebo), constipation (5.4% icosapent
+ethyl, 3.6% placebo) and peripheral oedema (6.5% icosapent ethyl, 5.0%
+placebo). The committee noted that some fish oil products can be
+associated with unpleasant burps that may affect adherence (icosapent
+ethyl is derived from fish oil). The company stated that unpleasant burps
+had very little impact on treatment adherence. The committee noted the
+concerns about some adverse events, but concluded icosapent ethyl
+was generally well tolerated with manageable adverse events.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
+conditions#notice-of-rights). 24
+--- Страница 15 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+The economic model
+The results from the company's model are uncertain
+3.11 The company's model included 8 health states: cardiovascular event-
+free, first event, post-first event, second event, post-second event, third
+or more event, post-third or more event, and death. The events in the
+model were based on the composite 5-point MACE outcome from
+REDUCE-IT (see section 3.6). The health states were populated by fitting
+parametric models to the Kaplan–Meier curves for first, second and third
+plus cardiovascular events from REDUCE-IT using a partitioned survival
+approach. The model used a 1-day cycle length and a lifetime horizon,
+equivalent to 36 years. The company used baseline utility values from
+the literature (Stevanovic et al. 2016 and O'Reilly et al. 2011) and health
+state multipliers from NICE's guideline on cardiovascular disease: risk
+assessment and reduction, including lipid modification. The ERG noted
+several concerns with the model structure and that the company's
+partitioned survival approach to estimate the probability of having a
+cardiovascular event deviated from the modelling approach in related
+NICE appraisals. In recent hypercholesterolaemia and mixed
+dyslipidaemia appraisals, the economic models have often followed a
+Markov approach and used specific cardiovascular event types as health
+states. The ERG was concerned that the model structure assumed
+independence of endpoints, meaning the probability of having a second
+or third cardiovascular event was independent of the time of the previous
+events. It commented that the company's model did not explicitly model
+nonfatal cardiovascular events and used a 1-day cycle length. The
+committee commented that it was unusual that the company's entire
+model was based on REDUCE-IT, rather than applying the relative
+treatment effect observed in the trial to a baseline risk estimated using
+routine datasets. In response to consultation, the company explained
+that its model was designed to align with REDUCE-IT, in which people
+progressed through health states in a specific order. It also commented
+that time from randomisation to a first, second or third plus event was
+used so there were no issues with crossover of events during the trial
+period. Beyond the trial period, the company noted that any extrapolation
+curves that crossed were considered clinically implausible and
+disregarded. The ERG considered that these comments were insufficient
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
+conditions#notice-of-rights). 24
+--- Страница 16 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+justification for the model structure and uncertainty remains. The
+company provided a comparison of the model-estimated survival and
+mortality from REDUCE-IT. The committee noted that the model
+appeared to overestimate mortality in both the placebo and icosapent
+ethyl groups at 5 years. The committee concluded that the results of the
+company's model were uncertain because of the model structure and the
+discrepancy between model and trial outcomes.
+Using the composite 5-point MACE outcome in the model
+increases uncertainty
+3.12 The company's model used the same composite MACE outcome as
+REDUCE-IT (see section 3.6). The ERG was concerned that the
+composite outcome could mask the treatment effect in relation to
+individual cardiovascular events. The ERG highlighted that in the
+intention to treat population, the hazard ratios for cardiovascular death
+(HR 0.80, 95% CI 0.66 to 0.98) and death from any cause (HR 0.87,
+95% CI 0.74 to 1.02) were larger than that for the composite 5-point
+MACE (HR 0.75, 95% CI 0.68 to 0.83). The company noted that although
+the composite outcome was used, the distribution of specific
+cardiovascular events was applied in the model. The company explained
+that the effect of icosapent ethyl on each specific event occurring as a
+first, second or third plus event was taken into account. However, the
+ERG commented that applying direct estimates of time to each event is
+not necessarily equivalent to combining time to composite event with the
+proportion of each event in the composite outcome. The clinical experts
+commented that using a composite MACE outcome is common for large
+clinical trials but one expert said that there was some debate about
+whether all components of the MACE should be used. The committee
+was concerned that the composite outcome might be double counting
+risk. It noted that revascularisations accounted for most second and third
+events (the exact values are considered confidential by the company and
+cannot be reported here). It also noted that coronary revascularisation
+could be an indicated procedure based on a preceding event, such as
+myocardial infarction. At its first meeting, the committee requested
+Kaplan–Meier curves and hazard ratios for each of the individual
+cardiovascular events. In response to consultation the company provided
+Kaplan–Meier curves and hazard ratios over time for each individual
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
+conditions#notice-of-rights). 24
+--- Страница 17 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+event type in the composite outcome. The ERG commented that in the
+Kaplan–Meier curves for cardiovascular death, nonfatal myocardial
+infarction and nonfatal stroke, there appeared to be a lag in the
+separation of icosapent ethyl and placebo curves at around 1 to 2 years.
+This might mean the composite outcome biases the treatment effect in
+favour of icosapent ethyl in the first 1 to 2 years of treatment. The ERG
+also commented that when considering the hazard ratios over time, there
+are some differences between the individual events and the composite.
+The committee welcomed the additional information from the company
+but concluded that using the composite outcome in the model increased
+uncertainty.
+It is implausible that there is no loss of treatment effect at
+treatment discontinuation
+3.13 The company's base case assumed that the treatment effect for
+icosapent ethyl continued at the same level for the duration of the model
+with no loss of treatment effect at discontinuation. The company
+commented that similar technology appraisals did not include loss of
+treatment effect, including TA393, TA394 and TA733. The company
+provided an analysis of the treatment effect over time, which showed
+that it did not decrease during the follow-up period of REDUCE-IT. The
+clinical expert commented that given the absence of longer-term data it
+is difficult to determine the appropriateness of an assumption of
+treatment effect loss. However, the expert noted that related treatments
+for cardiovascular disease, such as statins, have long-term effects. The
+expert commented that the company's assumption of no loss of
+treatment effect was likely reasonable. However, the committee was
+concerned that treatment discontinuation was not linked to treatment
+effect in the icosapent ethyl model. At its first meeting, the committee
+noted that it would have preferred a method linking treatment effect and
+discontinuation by changing the hazard ratio to 1 at an appropriate time
+after people stopped icosapent ethyl. In response to consultation, the
+company commented that the clinical efficacy curves accounted for
+efficacy lost because of discontinuation because they are based on the
+intention to treat population, which includes all patients in the icosapent
+ethyl trial, regardless of treatment discontinuation. The committee
+acknowledged this, but considered that if the proportion of patients
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
+conditions#notice-of-rights). 24
+--- Страница 18 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+continuing treatment reduced over the model time horizon, it would
+expect the average treatment effect to be lower than that captured in the
+trial. The committee noted that in the recent related appraisal of
+bempedoic acid with ezetimibe (TA694), the company's model assumed
+results achieved at 12 weeks were maintained for the duration of the
+model's time horizon, or until treatment was stopped. It recognised that
+in TA393, the company had assumed 100% treatment continuation and
+compliance over the entire time horizon. The committee noted that this
+assumption likely would not be appropriate in this appraisal because
+many people had discontinued treatment by the end of follow-up in
+REDUCE-IT (the value is considered confidential by the company and
+cannot be reported here). The company highlighted that follow-up was
+longer in REDUCE-IT and so it would be expected that more people
+would discontinue treatment. The committee noted that assumptions of
+complete continuation and no loss of treatment effect were also used in
+TA733. The committee commented that the icosapent ethyl appraisal
+had different considerations to those previous appraisals. It considered
+that there was large uncertainty around the assumption that the
+treatment effect observed over the REDUCE-IT trial period would
+continue for the entire modelled time horizon if more people discontinued
+treatment over time. The committee concluded that it was implausible
+that the treatment effect would not reduce at any point after
+discontinuation.
+It is plausible that the treatment effect may be lost after 10 years
+if treatment is discontinued
+3.14 The company's base case did not apply a loss of treatment effect.
+However, the company did provide 2 scenarios assuming that once a
+person discontinued treatment, after a period of either 10 or 20 years,
+they would have equivalent clinical outcomes to people in the placebo
+group. The company explained that because of the model structure,
+when assuming that people who discontinue treatment follow the
+efficacy of the placebo group, it was assuming that all events that were
+avoided occur at discontinuation, which was not clinically plausible. The
+committee agreed that the way in which the loss of treatment effect had
+been modelled was potentially biased against icosapent ethyl. This was
+mainly because it was implausible that all avoided events would occur at
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
+conditions#notice-of-rights). 24
+--- Страница 19 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+treatment discontinuation, but also because the efficacy curves for
+people staying on treatment included some people who had stopped
+treatment in the trial. The ERG's base-case included the company's
+scenario where people stopping icosapent ethyl would have the same
+clinical efficacy as the placebo group after 10 years. For people
+continuing treatment, the assumption was that the treatment effect
+would remain constant over the model time horizon. The committee
+acknowledged the limitations with the modelled scenarios but
+considered it reasonable to accept the scenario in which people stopping
+icosapent ethyl would lose treatment effect after 10 years and those
+continuing would maintain the treatment effect. However, it
+acknowledged that the true cost-effectiveness results would likely be
+lower than in the scenarios presented, had the loss of treatment effect
+been modelled more appropriately.
+The company's model has uncertainties so the comparison with
+the validation model is also uncertain
+3.15 Because of the ERG's concerns with the company's model, the company
+provided a microsimulation model for validation. The validation model
+was originally developed for the US setting but was adapted to the UK
+NHS setting by using the same costs, utilities and background mortality
+as the company's model. The validation model also used cardiovascular
+event data from REDUCE-IT. The company provided a comparison of its
+model with the validation model. The validation model explicitly modelled
+individual nonfatal cardiovascular events, had a cycle length of 6 months
+and assumed people experienced a disutility associated with an acute
+event for 18 months after an event, after which they experienced a post-
+event utility. The company also provided a 30-year comparison of the
+expected number of first, second and third events, people discontinuing
+icosapent ethyl, and people alive in the company's and validation models.
+It noted the models had different structures but produced similar clinical
+estimates. The committee noted there were still uncertainties about the
+company's model structure (see section 3.11) and how treatment effect
+after discontinuation was modelled (see section 3.13). The ERG also
+noted that it was unclear to what extent the validation model should be
+used to inform decisions in the company's model. The committee
+concluded that the company's model remained uncertain and therefore
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
+conditions#notice-of-rights). 24
+--- Страница 20 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+the comparison with the validation model was uncertain.
+Cost-effectiveness estimates
+Because of the uncertainty an acceptable ICER is towards the
+lower end of the range normally considered a cost-effective use
+of NHS resources
+3.16 NICE's guide to the methods of technology appraisal notes that above a
+most plausible incremental cost-effectiveness ratio (ICER) of £20,000
+per quality-adjusted life year (QALY) gained, judgements about the
+acceptability of a technology as an effective use of NHS resources will
+take into account the degree of certainty around the ICER. The
+committee will be more cautious about recommending a technology if it
+is less certain about the ICERs presented. Because of the high level of
+uncertainty in the clinical and economic evidence, the committee agreed
+that an acceptable ICER would be towards the lower end of the range
+normally considered a cost-effective use of NHS resources (£20,000 to
+£30,000 per QALY gained).
+The most plausible ICER is between £21,750 and £24,821 per QALY
+gained
+3.17 After the second consultation, the company's base-case ICER for
+icosapent ethyl compared with a stable dose of statins with or without
+ezetimibe was £20,000 per QALY gained for the secondary prevention
+group. The company's base case assumed no loss of treatment effect for
+icosapent ethyl but did include a 1.5% treatment effect reduction to
+account for the possible effects of the mineral oil placebo. The ERG's
+base case included a loss of treatment effect for those discontinuing
+after 10 years but did not include a reduction in treatment effect for the
+mineral oil placebo. The ERG's base-case ICER was £21,062 per QALY
+gained. The ERG presented scenario analyses including a 0%, 1.5%, 3% or
+7% treatment effect reduction to adjust for the possible effect of mineral
+oil. It also presented scenario analyses including a loss of treatment
+effect on discontinuation after 5 or 10 years, or not at all. The committee
+considered that the scenarios including a reduction of treatment effect of
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
+conditions#notice-of-rights). 24
+--- Страница 21 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+1.5% and 3% (see section 3.9) and a loss of treatment effect on
+discontinuation at 10 years (see section 3.14) were the most plausible
+scenarios. However, it considered that the ICERs that included a loss of
+treatment effect on discontinuation were likely too high, because of the
+way this had been modelled. So, the committee also considered a
+scenario with a 3% reduction in treatment effect and no loss of treatment
+effect on discontinuation. Therefore, the committee considered that the
+most plausible ICER was between £21,750 and £24,821 per QALY gained.
+Other factors
+The committee considered potential equality issues in its
+decision making
+3.18 A patient organisation and clinical expert raised several potential
+equalities issues. They noted that people with Black, Asian and minority
+ethnic family backgrounds are more likely to have elevated triglycerides.
+The patient organisation also commented that people living in England's
+most deprived areas are almost 4 times more likely to die prematurely
+from cardiovascular disease than those in the least deprived. It also
+explained that compared with the general population, people with severe
+mental illness are more likely to develop and die from preventable
+conditions, including cardiovascular disease. It also noted that people
+with learning disabilities are at increased risk of developing
+cardiovascular disease. The clinical expert noted that some religions
+have restrictions on fish products. The committee considered these to be
+important issues. The committee concluded that its recommendation for
+icosapent ethyl would apply to all patients and that the recommendation
+would not affect people protected by the equality legislation any
+differently.
+End of life criteria do not apply
+3.19 NICE's advice about life-extending treatments for people with a short life
+expectancy did not apply.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
+conditions#notice-of-rights). 24
+--- Страница 22 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+The committee has not seen evidence of additional benefits that
+are not captured in the cost-effectiveness analysis
+3.20 The clinical experts noted that icosapent ethyl may be considered
+innovative because it appears to work on a disease pathway that is not
+fully understood. The committee concluded that it had not seen evidence
+of additional benefits associated with icosapent ethyl over those already
+included in the QALY calculations.
+Conclusion
+Icosapent ethyl is recommended for reducing the risk of
+cardiovascular events in people with elevated triglycerides
+3.21 The committee noted uncertainty in the clinical effectiveness evidence
+for icosapent ethyl because of the mineral oil placebo in the REDUCE-IT
+trial (see section 3.8). It also noted concerns about the generalisability of
+the trial results to the NHS in England (see section 3.6). It was concerned
+about the company's modelling approach (see section 3.11), including
+how the treatment effect after discontinuation was modelled (see
+section 3.13) and the composite outcome (see section 3.12).
+Nevertheless, the most plausible ICER was towards the lower end of the
+range of what NICE normally considers a cost-effective use of NHS
+resources. Therefore, the committee recommended icosapent ethyl for
+reducing the risk of cardiovascular events in people with raised fasting
+triglycerides (1.7 mmol/litre or more) who are having statins and have
+established cardiovascular disease. Established cardiovascular disease is
+defined in line with the definition of high-risk cardiovascular disease in
+NICE's technology appraisal guidance on alirocumab, evolocumab and
+inclisiran (see section 3.5). Icosapent ethyl is recommended for people
+with LDL-C levels above 1.04 mmol/litre and below or equal to
+2.60 mmol/litre, in line with the clinical evidence from REDUCE-IT (see
+section 3.4).
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
+conditions#notice-of-rights). 24
+--- Страница 23 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+4 Implementation
+4.1 Section 7 of the National Institute for Health and Care Excellence
+(Constitution and Functions) and the Health and Social Care Information
+Centre (Functions) Regulations 2013 requires clinical commissioning
+groups, NHS England and, with respect to their public health functions,
+local authorities to comply with the recommendations in this appraisal
+within 3 months of its date of publication.
+4.2 The Welsh ministers have issued directions to the NHS in Wales on
+implementing NICE technology appraisal guidance. When a NICE
+technology appraisal recommends the use of a drug or treatment, or
+other technology, the NHS in Wales must usually provide funding and
+resources for it within 2 months of the first publication of the final
+appraisal document.
+4.3 When NICE recommends a treatment 'as an option', the NHS must make
+sure it is available within the period set out in the paragraphs above. This
+means that, if a patient has raised triglycerides and the doctor
+responsible for their care thinks that icosapent ethyl is the right
+treatment to reduce the risk of cardiovascular events, it should be
+available for use, in line with NICE's recommendations.
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
+conditions#notice-of-rights). 24
+--- Страница 24 ---
+Icosapent ethyl with statin therapy for reducing the risk of cardiovascular events in people
+with raised triglycerides (TA805)
+5 Appraisal committee members and
+NICE project team
+Appraisal committee members
+The 4 technology appraisal committees are standing advisory committees of NICE. This
+topic was considered by committee C.
+Committee members are asked to declare any interests in the technology to be appraised.
+If it is considered there is a conflict of interest, the member is excluded from participating
+further in that appraisal.
+The minutes of each appraisal committee meeting, which include the names of the
+members who attended and their declarations of interests, are posted on the NICE
+website.
+NICE project team
+Each technology appraisal is assigned to a team consisting of 1 or more health technology
+analysts (who act as technical leads for the appraisal), a technical adviser and a project
+manager.
+Catie Parker and Kirsty Pitt
+Technical leads
+Alex Filby and Charlie Hewitt
+Technical advisers
+Louise Jafferally
+Project manager
+ISBN: 978-1-4731-4668-6
+© NICE 2024. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
+conditions#notice-of-rights). 24

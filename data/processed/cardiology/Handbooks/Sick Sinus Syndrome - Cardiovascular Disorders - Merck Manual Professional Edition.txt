@@ -1,0 +1,154 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Sick Sinus Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
+  "converted_date": "2026-01-31T14:35:43.751365",
+  "file_size_bytes": 187976,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Sick Sinus Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 14:04 Sick Sinus Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+MERCK MANUAL
+Professional Version
+Sick Sinus Syndrome
+(Sinus Node Dysfunction)
+By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
+Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
+Reviewed/Revised Sept 2024 | Modified Dec 2024
+Sick sinus syndrome refers to sinus node dysfunction causing slow,
+physiologically inappropriate, heart rates. Symptoms may be minimal or
+include weakness, effort intolerance, palpitations, and syncope. Diagnosis is by
+electrocardiography. Patients who have symptoms require a pacemaker.
+(See also Overview of Arrhythmias.)
+Sick sinus syndrome includes
+Inappropriate sinus bradycardia
+Alternating bradycardia and atrial tachyarrhythmias (bradycardia-tachycardia, or brady-
+tachy syndrome)
+Sinus pause or sinus arrest
+Sinoatrial (SA) exit block
+Chronotropic incompetence
+Sick sinus syndrome affects mainly older patients, especially those with another cardiac disorder or
+diabetes.
+In the brady-tachy variant of the sick sinus syndrome, sinus node dysfunction is associated with atrial
+tachyarrhythmias, most commonly atrial fibrillation.
+Sinus pause is temporary cessation of sinus node activity, seen on electrocardiography (ECG) as
+disappearance of P waves for seconds to minutes. The pause usually triggers escape activity in lower
+pacemakers (eg, atrial or junctional), preserving heart rate and function, but long pauses cause dizziness
+and syncope.
+In SA exit block, the SA node depolarizes, but conduction of impulses to atrial tissue (exit conduction) is
+impaired.
+In first-degree SA block, the SA node impulse exit conduction is merely slowed, and, in the
+absence of another disorder, the ECG is normal and there are no symptoms.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/sick-sinus-syndrome 1/4
+--- Страница 2 ---
+22/01/2026, 14:04 Sick Sinus Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+In type I second-degree SA (SA Wenckebach) block, impulse exit conduction slows before
+blocking, seen on the ECG as a P-P interval that decreases progressively until the P wave
+drops altogether, creating a pause and the appearance of grouped beats; the duration of
+the pause is less than 2 P-P cycles.
+In type II second-degree SA block, impulse exit conduction is blocked without slowing
+beforehand, producing a pause that is a multiple (usually twice) of the P-P interval and the
+appearance of grouped beats.
+In third-degree SA block, impulse exit conduction is blocked; normal P waves are absent,
+giving the appearance of sinus arrest.
+Chronotropic incompetence refers to the inability to increase sinus heart rate with exercise most
+commonly defined as achievement of less than 80% of the maximum age-predicted heart rate (220
+beats/minute minus the person's age) on an exercise tolerance test (1).
+General reference
+1. Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation
+and management of patients with bradycardia and cardiac conduction delay: A Report of the
+American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. Heart Rhythm 16(9):e128–e226, 2019. doi:
+10.1016/j.hrthm.2018.10.037
+Etiology of Sick Sinus Syndrome
+The most common cause of intrinsic sinus node dysfunction in the sick sinus syndrome is
+Idiopathic SA node fibrosis, which may be accompanied by degeneration of lower elements
+of the conducting system, manifested as concomitant atrioventricular (AV block and/or
+bundle branch block)
+Other causes of sick sinus syndrome include sleep apnea, medications, excessive vagal tone, and many
+ischemic, inflammatory, and infiltrative disorders (1).
+Etiology reference
+1. Sathnur N, Ebin E, Benditt DG: Sinus Node Dysfunction. Cardiol Clin 41(3):349–367, 2023. doi:
+10.1016/j.ccl.2023.03.013
+Symptoms and Signs of Sick Sinus Syndrome
+Many patients with sick sinus syndrome are asymptomatic. Depending on the heart rate, all the
+symptoms of bradycardias and, in the case of the brady-tachy variant of the sick sinus syndrome, all the
+symptoms of tachycardias can occur. Syncope may occur when the sinus node does not immediately
+resume function after spontaneous termination of an atrial tachyarrhythmia.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/sick-sinus-syndrome 2/4
+--- Страница 3 ---
+22/01/2026, 14:04 Sick Sinus Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+Diagnosis of Sick Sinus Syndrome
+ECG
+Measurement of thyroid stimulating hormone (TSH) to rule out hypothyroidism
+Ambulatory ECG monitor
+Exercise tolerance testing for chronotropic incompetence
+Rarely, implantable cardiac monitoring or a catheter electrophysiologic study
+A slow, irregular pulse suggests the diagnosis of sinus node dysfunction, which is confirmed by ECG,
+rhythm strip, or continuous 24-hour ECG recording. Some patients present with atrial fibrillation, and
+the underlying sinus node dysfunction manifests only after conversion to sinus rhythm with post-
+conversion sinus pause. The goal of ECG monitoring is to establish a correlation between symptoms and
+bradyarrhythmia.
+If suggested by a history and physical examination, targeted evaluation is performed, including
+measurement of thyroid stimulating hormone (TSH) for suspected hypothyroidism, polysomnography
+for suspected sleep apnea, exercise tolerance testing for suspected chronotropic incompetence, and
+echocardiography for suspected structural heart disease (1). When symptoms compatible with the sick
+sinus syndrome are very infrequent, implantable cardiac monitoring may be required to enable
+correlation between symptoms and rhythm. Infrequently, the diagnosis of sick sinus syndrome is made
+during a catheter electrophysiologic study done for the evaluation of syncope of unknown etiology.
+Diagnosis reference
+1. Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation
+and management of patients with bradycardia and cardiac conduction delay: A Report of the
+American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. Heart Rhythm 16(9):e128–e226, 2019. doi:
+10.1016/j.hrthm.2018.10.037
+Treatment of Sick Sinus Syndrome
+Pacemaker
+Treatment of symptomatic sick sinus syndrome in the absence of an extrinsic reversible cause is
+pacemaker implantation (1). Risk of atrial fibrillation is reduced when a physiologic (atrial or
+atrioventricular) pacemaker rather than a ventricular pacemaker is used (2). Dual-chamber pacemakers
+that minimize ventricular pacing may further reduce risk of atrial fibrillation (2). Dual-chamber
+pacemakers also further protect patients in the group who experience a 1 to 2% expected annual
+occurrence of AV block (3). Antiarrhythmic medications may prevent paroxysmal tachyarrhythmias after
+pacemaker insertion.
+Theophylline and hydralazine are options to increase heart rate in healthy, younger patients who have
+symptomatic bradycardia without syncope, but these medications are rarely used for this purpose.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/sick-sinus-syndrome 3/4
+--- Страница 4 ---
+22/01/2026, 14:04 Sick Sinus Syndrome - Cardiovascular Disorders - Merck Manual Professional Edition
+Treatment references
+1. Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation
+and management of patients with bradycardia and cardiac conduction delay: A Report of the
+American College of Cardiology/American Heart Association Task Force on Clinical Practice
+Guidelines and the Heart Rhythm Society. Heart Rhythm 16(9):e128–e226, 2019. doi:
+10.1016/j.hrthm.2018.10.037
+2. Liu Y, Zheng Y, Tse G, et al: Association between sick sinus syndrome and atrial fibrillation: A
+systematic review and meta-analysis. Int J Cardiol 381:20–36, 2023. doi:
+10.1016/j.ijcard.2023.03.066
+3. Nielsen JC, Thomsen PE, Højberg S, et al: A comparison of single-lead atrial pacing with dual-
+chamber pacing in sick sinus syndrome. Eur Heart J 32(6):686–696, 2011. doi:
+10.1093/eurheartj/ehr022.
+Prognosis for Sick Sinus Syndrome
+Sinus node dysfunction in the sick sinus syndrome tends worsen over time. The prognosis is otherwise
+mixed; mortality is about 4%/year, primarily resulting from an underlying structural heart disorder (1).
+Each year, about 5% of patients develop atrial fibrillation with its risks of heart failure and stroke (2).
+Prognosis references
+1. Shaw DB, Holman RR, Gowers JI: Survival in sinoatrial disorder (sick-sinus syndrome). Br Med J
+280(6208):139–141, 1980. doi: 10.1136/bmj.280.6208.139
+2. Sutton R, Kenny RA: The natural history of sick sinus syndrome. Pacing Clin Electrophysiol
+9(6):1110-1114, 1986. doi: 10.1111/j.1540-8159.1986.tb06678.x
+Key Points
+Sick sinus syndrome results in inappropriately slow heart rates.
+Symptoms may be absent or result from bradycardia.
+In the brady-tachy variant of the sick sinus syndrome, symptoms may also result from
+tachycardia or asystole when tachycardia terminates.
+Diagnosis is mainly by electrocardiographic monitoring.
+Symptomatic sick sinus syndrome is treated with a pacemaker.
+Drugs Mentioned In This Article
+Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
+https://www.merckmanuals.com/professional/cardiovascular-disorders/specific-cardiac-arrhythmias/sick-sinus-syndrome 4/4

@@ -1,0 +1,458 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog.pdf",
+  "converted_date": "2026-01-31T14:37:21.903398",
+  "file_size_bytes": 25441294,
+  "original_format": "pdf",
+  "document_type": "Cases",
+  "source_folder": "Cases",
+  "full_path": "00_RAW_CARDIOLOGY/Cases/46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+Dr. Smith's ECG Blog
+Instructive ECGs in Emergency Medicine Clinical Content
+Associate Editors:
+— Pendell Meyers & Ken Grauer (2018)
+— Jesse McLaren & Emre Aslanger (2022)
+— Willy Frick (2024) — Sam Ghali (2025)
+Home  46 year old with chest pain develops a wide complex rhythm — see many
+examples
+Willy Frick onAugust 9, 2024
+46 year old with chest pain
+develops a wide complex
+rhythm — see many
+examples
+Written by Colin Jenkins and Nhu-Nguyen Le with edits by Willy
+Frick and by Smith
+A 46-year-old male presented to the emergency department with 2
+days of heavy substernal chest pain and nausea. He reported a
+history of “Wolf-Parkinson-White” and “heart attack” but said neither
+had been treated. These diagnoses were not found in his medical
+records nor even a baseline ECG. He had no previously documented
+medical problems except polysubstance use. An ECG was obtained
+shortly after arrival:
+
+What do you think?
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 1/17
+--- Страница 2 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+There is no evidence of WPW on this ECG, but it is diagnostic for 
+OMI. In particular, we see:
+STE and HATW across the precordium
+Q waves in V1-V4
+Subtle STE and HATW in I and aVL
+Terminal TWI suggestive of early reperfusion most pronounced
+in I, aVL, V5, and V6
+Reciprocal STD with ischemic down-up T waves in II, III, aVF
+Here is the Queenʼs interpretation with explainability:
+Click here to sign up for Queen of Hearts Access
+The ECG was signed “No STEMI” by the emergency physician and a
+basic chest pain workup was initiated. About one hour later his high
+sensitivity troponin I resulted at 3,000 ng/L (reference 3-54 ng/L).
+The patient continued having chest pain. Three additional ECGs were
+performed over the next 5 minutes:
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 2/17
+--- Страница 3 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+The Queen of Hearts diagnoses OMI with high confidence in all three
+of these ECGs. What are we seeing here? The rhythm is AIVR —
+accelerated idioventricular rhythm. This has been discussed many
+times before on this blog. (For laddergram of the 3rd ECG in todayʼs
+case showing AIVR — See Ken Grauer illustration/discussion below).
+There are three mechanisms of arrhythmia: automatic, re-entry, and
+triggered. In-depth discussion is beyond the scope of this blog.
+Briefly, triggered activity refers to an additional depolarization after
+the initial depolarization and is mediated chiefly by calcium. The most
+common triggered arrhythmia is Torsades de Pointes.
+Automatic activity refers to enhanced pacemaking function (typically
+from a non sinus node source), for example atrial tachycardia. But
+the sinus node works on automatic activity, as do all escape
+rhythms.
+Finally, re-entry occurs when a circuit within the heart allows for
+continuous depolarization of excitable tissue around a core of
+unexcitable tissue. If the circuit is repolarized by the time it returns to
+the starting point, it continues to depolarize around and around. This
+can occur due to scar (e.g. post infarct VT) or anatomical variants
+(e.g. AVNRT or AVRT).
+Importantly, while the mechanism is not precisely defined, AIVR is
+thought most likely to be automatic in nature [Ferrier,
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 3/17
+--- Страница 4 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+Kaplinsky]. Because of its slow rate (50-120 bpm) relative to re-
+entrant VT (often 180 bpm or faster), it typically does not interfere
+with effective cardiac output. It is a benign arrhythmia which requires
+no specific treatment.
+In this patientʼs case, AIVR is not at all surprising since the first ECG
+showed early reperfusion, and AIVR is commonly seen during
+reperfusion. In case there was any doubt about the possibility of
+reperfused OMI, the finding of AIVR confirms this.
+The patient was given aspirin, heparin, morphine, and ondansetron
+and and transferred to a PCI-capable facility for a diagnosis of
+“unstable angina” with dynamic ECG changes. (Frick — one wonders
+about the diagnosis of unstable angina in a patient with significantly
+elevated biomarkers which would certainly have been rising on
+repeat measurement.) About 2 hours later the patient arrived at a
+PCI-capable center and repeat ECG was obtained:
+The transferring EMS crew noted “runs of VT” during transport. The
+receiving emergency physician consulted with interventional
+cardiology who stated there was no STEMI. However the patient
+continued to have chest pain and bedside ultrasound showed
+hypokinesis of the septum with significantly reduced LVEF.
+Fortunately the patient was then taken for angiography. Images are
+shown below:
+This is a right anterior oblique caudal view. Typically itʼs best for
+the LCx and OMs, but it also clearly shows the tiny remaining stump
+of the LAD which is occluded right at the ostium.
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 4/17
+--- Страница 5 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+If the LAD is completely occluded, then why does the ECG show
+reperfusion? There are two possible explanations (and they are not
+mutually exclusive).
+Explanation 1: There was some degree of antegrade perfusion at the
+time the ECG, but the LAD has since re-occluded. The angiography is
+a snapshot in time. The ECG tells you the state of the vessel at the
+time the ECG was obtained, and that may change by the time the
+patient gets to the cath lab. Especially if the patient is given anti-
+thrombotic medications.
+Explanation 2: The green arrow probably shows collaterals from the
+distal OM to LAD, although that is not completely clear from the
+available images. Rescue collateralization can develop quite rapidly,
+and it is possible that small amount of retrograde perfusion is enough
+to produce the ECG changes. This is one reason not to use
+reperfusion findings on the ECG to justify delaying angiography.
+Here is an image from after PCI. This is a right anterior oblique cranial
+view, best for visualizing the LAD and diagonal branches which were
+completely occluded prior to PCI. The LCx and OM vessels are not as
+well visualized.
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 5/17
+--- Страница 6 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+Learning points:
+Both patients and other medical providers can report confusing
+and often contradictory information that obfuscates the
+diagnosis (in this case, WPW). If the story and ECG findings are
+concerning, use your clinical judgment to advocate for PCI.
+Perform serial ECGs even if symptoms are constant. Serial
+ECGs enhance the diagnosis of acute coronary syndrome.
+However, Smith and Meyers have proven that so called “early”
+findings such as hyperacute T-waves often do not evolve to
+diagnostic ST Elevation.
+AIVR is not always the result of significant pathology, but is
+classically associated with the reperfusion phase of acute
+myocardial infarction.
+Similarly, the OMI paradigm respects ACS as a dynamic process
+in which ECG changes reflect the phase of myocardial injury
+and risk stratify which patients may benefit from emergent PCI.
+Although recognition of OMI was not affected by administration
+of morphine in this case, use caution with analgesia in ongoing
+ACS without a definitive plan for angiography. Opioids
+associate with worse outcomes in myocardial infarction,
+probably because they eliminate the pain signal that informs the
+clinician of the urgency of revascularization.
+Do not treat AIVR. In fact, use of antidyrhythimcs (e.g.,
+lidocaine) can result in severe bradycardia or asystole
+(Weinberg, Sedowski and Alexander, below)
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 6/17
+--- Страница 7 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+The presence of accelerated idioventricular rhythm does not
+affect prognosis, and there is no definitive evidence that, if left
+untreated, the incidence of VF or death is increased. In other
+words, it is a safe rhythm. Leave it alone. (Bigger et al. below)
+Other examples of AIVR:
+Young man with Gunshot wound to right chest with hemorrhagic shock,
+but bullet path not near heart. A case of irregular accelerated
+idioventricular rhythm (AIVR)
+Getting It Right Despite the Wrong Paradigm
+A Wide Complex Rhythm in an Intoxicated Patient
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 7/17
+--- Страница 8 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+Chest pain and precordial ST depression which resolve, followed by a wide
+complex rhythm
+An adolescent with trauma, chest pain, and a wide complex rhythm
+Is this Left Bundle Branch Block? Is there STEMI?
+What is the rhythm? And is there new left bundle branch block (LBBB)?
+References:
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 8/17
+--- Страница 9 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+Ferrier, G. R., Moffat, M. P., & Lukas, A. (1985). Possible mechanisms
+of ventricular arrhythmias elicited by ischemia followed by
+reperfusion. studies on isolated canine ventricular tissues. Circulation
+Research, 56(2), 184–194. https://doi.org/10.1161/01.res.56.2.184
+Fesmire, F. M., Percy, R. F., Bardoner, J. B., Wharton, D. R., & Calhoun,
+F. B. (1998). Usefulness of automated serial 12-lead ECG monitoring
+during the initial emergency department evaluation of patients with
+chest pain. Annals of Emergency Medicine, 31(1), 3–11.
+https://doi.org/10.1016/s0196-0644(98)70274-4
+Kaplinsky, E., Ogawa, S., Michelson, E. L., & Dreifus, L. S. (1981).
+Instantaneous and delayed ventricular arrhythmias after reperfusion
+of acutely ischemic myocardium: Evidence for multiple
+mechanisms. Circulation, 63(2), 333–340.
+https://doi.org/10.1161/01.cir.63.2.333
+Meine, T. J., Roe, M. T., Chen, A. Y., Patel, M. R., Washam, J. B.,
+Ohman, E. M., Peacock, W. F., Pollack, C. V., Gibler, W. B., & Peterson,
+E. D. (2005). Association of intravenous morphine use and outcomes
+in acute coronary syndromes: Results from the Crusade Quality
+Improvement Initiative. American Heart Journal, 149(6), 1043–1049.
+https://doi.org/10.1016/j.ahj.2005.02.010
+Other References
+Weinberg B, Zipes D. Strategies to manage the post-MI patient with
+ventricular arrhythmias. Clin Cardiol 1989;12:86–90.
+Sadowski ZP, Alexander JH, Skrabucha B, et al. Multicenter
+randomized trial and a systematic overview of lidocaine in acute
+myocardial infarction. Am Heart J 1999;137:792–8
+Alexander JH, Granger CB, Sadowski Z, et al, for the GUSTO-I and
+GUSTO-IIb Investigators. Prophylactic lidocaine use in acute
+myocardial infarction: incidence and outcomes from two international
+trials. Am Heart J 1999;137:799–805.
+Bigger JR Jr, Dresdale RJ, Heissenbuttel RH, et al. Ventricular
+arrhythmias in ischemic heart disease: mechanism, prevalence,
+significance, and management. Prog Cardiovasc Dis1977;19:255–300.
+===================================
+MY Comment, by KEN GRAUER, MD (8/9/2024):
+===================================
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 9/17
+--- Страница 10 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+Today’s post by Dr. Frick features another example of serial ECGs that
+were diagnostic of acute OMI from the very 1st tracing in this case — yet
+were overlooked by several physicians including cardiology staff as not
+indicative of acute coronary occlusion.
+Ironically — it is fortunate that this patient had continued CP
+(Chest Pain) and an Echo showing a localized wall motion
+abnormality — as those 2 factors apparently were the reason that
+cardiac cath was performed.
+As Dr. Frick has covered KEY details of today’s case in excellent fashion
+— I decided to focus my comment on one of the 5 ECGs that were shown
+above in his discussion.
+For clarity in Figure-1 — I’ve reproduced and labeled the 3rd ECG
+shown by Dr. Frick (which was the 2nd of the 3 repeat ECGs
+obtained over a 5-minute span).
+To “set the scene” for ECG #3 (that I show in Figure-1) — the
+patient had ongoing CP at the time this ECG was done — with the
+diagnoses of “No STEMI” and unstable agina being made for this
+and the other serial tracings despite return of
+a markedly increased troponin level.
+MY Thoughts on ECG #3:
+As per Dr. Frick — ECG #3 (as well as the other 2 repeat ECGs obtained
+over the 5-minute span referred to above) is
+clearly diagnostic of acute OMI.
+Interpretation of the acute findings in ECG #3 is best accomplished
+by first understanding the rhythm. I’ve labeled sinus P waves
+with RED arrows. Note the underlying sinus arrhythmia, with fairly
+marked variation in the P-P interval (with greatest slow-down
+between beats #6-to-7).
+Although P waves are partially hidden within portions of the QRS for
+the first 2 beats, as well as for the last 6 beats in this tracing — RED
+arrows over the QRS for each of these wide beats highlight “extra
+deflections” occurring at various points around the QRS, that clearly
+indicate partially hidden P waves that appear to be essentially “on
+time” considering the underlying sinus arrhythmia.
+Note that the QRS complex of beat #7 is a little smaller in the long
+lead II and long lead V5 rhythm strips compared to the QRS size of
+beats #8-thru-13. This is because beat #7 is a fusion beat (ie, the
+RED arrow P wave seen just before the QRS of beat #7 does not
+have enough time to be fully conducted to the ventricles). The
+presence of fusion beats proves that the wide beats in this tracing
+are all of ventricular etiology.
+The rate of these wide beats in ECG #3 is ~75/minute. As per Dr.
+Frick — this defines the ventricular rhythm as AIVR
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 10/17
+--- Страница 11 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+(Accelerated IdioVentricular Rhythm).
+The reason AIVR is seen in ECG #3 — is that the rate of the
+underlying sinus arrhythmia slows after beat #5 — and once the
+sinus rate drops below the accelerated ventricular escape rate,
+AIVR takes over (Laddergram illustration of the mechanism of this
+rhythm is shown below in Figure-2).
+Once we’ve defined the rhythm in Figure-1 — we focus on assessment of
+ST-T wave morphology first for the sinus-conducted beats (which are
+beats #3,4,5 and 6).
+Although tiny in size — the BLUE arrows highlight definite ST
+elevation in leads I and aVL. ST segments in both of these leads
+are abnormally straightened — and there is terminal T wave
+inversion (which is more obvious in lead aVL). Considering the tiny
+QRS — the Q wave in lead aVL is huge.
+Each of the sinus-conducted beats in
+the 3 inferior leads show reciprocal ST depression.
+In addition — the ventricular beats in leads I,II,III show
+disproportionately “bulky” T waves and inappropriate ST segment
+deviation (ST elevation for beats #1,2 in lead I — and ST
+depression for beats #1,2 in leads II,III).
+While more difficult to assess the “appropriateness” of J-point
+elevation in the chest leads because of the AIVR rhythm — lead
+V6 clearly shows disproportionate J-point ST elevation, consistent
+with acute OMI.
+FINAL Point: During transport to the PCI center — the EMS crew
+noted, “runs of VT”. Although no tracings are available showing the
+rhythm that was thought to be “VT” — We see runs of AIVR similar to what
+I’ve just described for ECG #3 in each of the last 4 tracings in today’s
+case. I suspect the EMS crew misdiagnosed AIVR as VT.
+As per Dr. Frick — in the setting of an ongoing acute OMI, the
+occurrence of AIVR is often a favorable sign indicative of at least
+some degree of reperfusion. No treatment of AIVR is needed if the
+patient is hemodynamically stable — since this rhythm often serves
+as an appropriate “escape” rhythm due to transient slowing of the
+sinus pacemaker (ie, which is exactly what happens beginning
+with beat #7 in ECG #3).
+CAVEAT: The “atrial kick” is lost with AIVR (since P waves are no
+longer conducting once AIVR takes over). As a result — cardiac
+output may sometimes decrease enough to produce symptomatic
+hypotension. When this occurs — a low dose of Atropine is the
+treatment of choice — as this will usually speed up the SA node
+enough for sinus rhythm to take over (with resumption of effective
+atrial contraction). That said, most of the time — AIVR is a short-
+lived and benign rhythm (as well as an encouraging sign that at
+least some reperfusion is occurring).
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 11/17
+--- Страница 12 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+Figure-1: The initial ECG in today’s case. (To improve visualization —
+I’ve digitized the original ECG using PMcardio).
+Figure-2: Laddergram illustration showing takeover over AIVR,
+beginning with fusion beat #7 — as a result of slowing of the rate of
+the underlying sinus arrhythmia.
+Willy Frick onAugust 9, 2024
+ACCELERATED IDIOVENTRICULAR RHYTHM AIVR
+SHARE    
+ PREVIOUS ARTICLE NEXT ARTICLE 
+Three prehospital Serial ECGs for chest
+ECGs in patients with pain: at what point
+chest pain would you activate the
+cath lab?
+Write a Comment
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 12/17
+--- Страница 13 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+SEARCH
+ABOUT
+Dr. Smith
+FACULTY PHYSICIAN
+Dr. Stephen W. Smith is a faculty physician in the Emergency
+Medicine Residency at Hennepin County Medical Center
+(HCMC) in Minneapolis, MN, and Professor of Emergency
+Medicine at the University of Minnesota.
+Dr. Smith's Google Scholar Profile
+Dr. Smith Articles on PubMed
+This work is licensed under a Creative Commons Attribution-
+NonCommercial 4.0 International License.
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 13/17
+--- Страница 14 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+FOLLOW US ON X (TWITTER)
+Follow @smithECGBlog Follow @PendellM Follow @ekgpress
+Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
+Follow @EM_RESUS
+FEATURED POSTS
+ 
+‘NSTEM
+‘NSTEMIʼ or reperfused OMI? An
+OMI? And which lesion is the Jesse McLaren the culp
+culprit?
+onFebruary 8, 2025
+BLOG ARCHIVE
+Select Month
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 14/17
+--- Страница 15 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+LABELS
+"inferior" ST depression(24) anterior STEMI equation(14)
+anterior T wave inversion(15) atrial flutter(31) AV block(17)
+aVL(31) aVR(30) Benign T-wave Inversion(23)
+cardiac arrest(57)
+cardiogenic shock(15) computer(21)
+CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
+Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
+false positive cath lab activation(49)
+False positive ECG(24)
+Formula for Early Repol vs. Anterior STEMI(39)
+hyperacute T-waves(84)
+hyperkalemia(65)
+Hyperacute T-waves LAD(26)
+hypokalemia(32) inferior hyperacute T-waves(24)
+Inferior MI subtle(31)
+inferoposterior STEMI(15)
+LAD occlusion(112)
+LAD occlusion vs. benign early repolarization
+(43)
+LBBB(55)
+LAD OMI missed(19) LAD reperfusion(14)
+lead misplacement(21) left bundle branch block(16) left main(24)
+long QT(45) LV aneurysm(35) LVH(41)
+LVH and OMI(14) missed OMI(33) missed STEMI(24)
+modified sgarbossa criteria(38)
+Morphine(14)
+Myocarditis(21)
+Normal ECG by computer algorithm(55)
+OMI(149)
+paced rhythm(24) Pediatric(16)
+pericarditis(27)
+PM Cardio Queen of Hearts(71)
+posterior leads(22) posterior OMI(44)
+posterior reperfusion T-waves(17) posterior STEMI(26)
+Precordial swirl(38) prehospital ECG(20)
+pseudoinfarction(23) pseudonormalization(24)
+PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
+RBBB(50)
+QOH(13) Queen knows false positive(14)
+RBBB with LAFB (Left Anterior Fascicular Block)(20)
+reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
+ST depression(40)
+shark fin(14) spontaneous reperfusion(17)
+subtle(41) Subtle LAD(50)
+subendocardial ischemia(16)
+Subtle LAD Occlusion(58)
+Subtle STE(14)
+Supraventricular Tachycardia (PSVT)(18) Syncope(34)
+T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
+Thrombolytics(15) torsade(15) Transient OMI(14)
+transient ST elevation(19) U-waves(24) ultrasound(19)
+unstable angina(27) Ventricular Fibrillation(16)
+ventricular tachycardia(30) Wellens' syndrome(31)
+Wide complex tachycardia(46)
+wide complex(16)
+wide QRS(13) wide_complex_tachycardia(25)
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 15/17
+--- Страница 16 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+wolff parkinson white WPW(24) wraparound LAD(15) young(19)
+Young Women(19)
+Read Next
+Jesse McLaren onAugust 11, 2024
+Serial ECGs for chest pain: at what point would you
+activate the cath lab?
+Written by Jesse McLaren A healthy 75 year old developed 7/10
+chest pain associated with diaphoresis and nausea, which began on…
+Willy Frick onAugust 14, 2024
+Where did the P waves go?
+Written by Willy Frick I was reading through ECGs in the queue when
+I saw the following. What do you think of the rhythm? At first…
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 16/17
+--- Страница 17 ---
+22/01/2026, 15:34 46 year old with chest pain develops a wide complex rhythm - see many examples - Dr. Smith’s ECG Blog
+Pendell Meyers onAugust 16, 2024
+60 yo with chest pain: why the abnormal QRS and
+abnormal repolarization?
+Written by Pendell Meyers A man in his 60s presented with acute
+chest pain and normal vital signs. Here is his triage ECG: What do
+you…
+Never Miss a Beat – Join Our ECG
+Insights Newsletter
+Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
+Smith delivered straight to your inbox—trusted by emergency physicians and
+cardiologists worldwide.
+Email Address Subscribe
+Trusted insights, no spam—only ECG brilliance.
+Expert ECG Interpretation and Emergency Cardiology
+Education
+© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
+https://drsmithsecgblog.com/46-year-old-with-chest-pain-develops/ 17/17

@@ -1,0 +1,205 @@
+=== МЕТАДАННЫЕ ===
+{
+  "original_filename": "Right heart failure overview - wikidoc.pdf",
+  "converted_date": "2026-01-31T14:36:15.161902",
+  "file_size_bytes": 339822,
+  "original_format": "pdf",
+  "document_type": "Handbooks",
+  "source_folder": "Handbooks",
+  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Right heart failure overview - wikidoc.pdf"
+}
+
+=== СОДЕРЖАНИЕ ===
+
+--- Страница 1 ---
+22/01/2026, 16:16 Right heart failure overview - wikidoc
+Search WikiDoc
+Search Try Exact Match
+Right heart failure overview
+Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailto:charlesmichaelgibson@gmail.com);
+Associate Editor(s)-in-Chief: Rim Halaby, Jad Z Al Danaf, Alberto Castro Molina, M.D.
+Overview
+The right ventricle was previously recognized as a simple conduit between the systemic and the
+pulmonary circulation, but its importance in maintaining hemodynamic stability and end organ
+function is now well established.[1] Right heart function is an important prognostic factor in
+multiple settings, including congenital heart diseases, pulmonary hypertension, and right heart
+failure.[2][3]
+Right heart failure can be defined as failure of the right ventricle to pump blood into the lungs
+adequately. It is a clinical syndrome resulting from functional and structural cardiovascular
+disorders that impair right ventricular filling and or ejection. In clinical practice, the main
+physiologic determinants of right ventricular performance mirror those of the left ventricle and
+include preload, afterload, contractility, and active relaxation (lusitropy).[1] Right ventricular
+failure often reflects impaired right ventricle to pulmonary artery coupling and is particularly
+sensitive to acute increases in pulmonary vascular load.[4]
+Furthermore, isolated right ventricular failure, despite its rarity as compared to left ventricular
+failure, may carry a worse prognosis in selected settings. Right heart failure is also used
+interchangeably with cor pulmonale when the pathology is caused by an underlying lung
+disease.[2][5]
+Classification
+There are many different ways to categorize right heart failure, which includes whether the
+abnormality is due to insufficient contraction (systolic dysfunction); or due to insufficient
+relaxation of the heart (diastolic dysfunction), or to both; whether the problem is primarily
+increased venous back pressure (preload), or failure to supply adequate arterial perfusion
+(afterload); whether the abnormality is due to low cardiac output with high systemic vascular
+resistance or high cardiac output with low vascular resistance (low output heart failure vs. high
+output heart failure); degree of functional impairment conferred by the abnormality (as reflected
+in the New York Heart Association Functional Classification[6]); and the degree of coexisting
+illness, such as heart failure with systemic hypertension, pulmonary hypertension, diabetes, or
+chronic renal failure.
+A practical approach is to classify right ventricular failure by time course (acute vs chronic) and
+predominant mechanism, including pressure overload (afterload), volume overload (preload), and
+primary myocardial dysfunction affecting contractility or lusitropy.[1][7]
+Pathophysiology
+Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
+https://www.wikidoc.org/index.php/Right_heart_failure_overview 1/5
+--- Страница 2 ---
+22/01/2026, 16:16 Right heart failure overview - wikidoc
+The pathophysiological processes underlying right heart failure can be divided broadly into three:
+decreased right ventricular contractility, right ventricular pressure overload, and right ventricular
+volume overload.[8] The right ventricle tries to adapt acutely by dilatation and chronically by
+hypertrophy. Whether dilatation or hypertrophy occur, right heart failure gets further exacerbated
+as a result of these adaptive mechanisms.
+Right ventricular performance is tightly linked to ventricular interdependence and pericardial
+constraint. The right ventricle and left ventricle are anatomically and physiologically integrated
+through the interventricular septum, and right ventricular pressure or volume overload can impair
+left ventricular filling and output by shifting the septum and increasing pericardial restraint.[1] In
+addition to load dependent mechanisms, cellular and molecular changes such as myocyte
+hypertrophy, fibrosis, ischemia, neurohormonal activation, and inflammation contribute to
+progressive right ventricular dysfunction across etiologies.[9][1]
+Causes
+There are acute and chronic causes of right heart failure. Acute right heart failure is often
+associated with right ventricular dilation. Chronic right heart failure is often associated with right
+ventricular hypertrophy.
+Common etiologic categories include:
+• Acute pressure overload: pulmonary embolism, acute worsening of pulmonary hypertension,
+severe hypoxemia, and acute respiratory distress with high intrathoracic pressures from
+mechanical ventilation.[1][7]
+• Chronic pressure overload: pulmonary arterial hypertension and other forms of chronic
+pulmonary hypertension with progressive right ventricle to pulmonary artery uncoupling.[3][10]
+• Primary myocardial dysfunction: right ventricular myocardial infarction and inflammatory or
+infiltrative cardiomyopathies affecting the right ventricle.[11]
+• Volume overload: significant tricuspid regurgitation, intracardiac shunts, and chronic right sided
+valvular lesions.[7]
+• Right ventricular dysfunction secondary to systemic illness and critical illness, including sepsis
+and severe viral infections; right ventricular dysfunction has also been reported in hospitalized
+patients with COVID 19 and is associated with adverse outcomes.[12]
+Epidemiology and Demographics
+The prevalence of heart failure has been increasing due to the increase in the aging population,
+early detection, preventive measures, and improvement in therapy. The prevalence of heart failure
+in the United States was estimated in 2006 to be 5.8 million people of all ages with an estimated
+incidence of 10 per 1000 for individuals older than 65 years of age.[13]
+Right ventricular failure epidemiology varies by underlying substrate, and is particularly common
+in advanced pulmonary hypertension, advanced left sided heart failure, and critical illness with
+acute pulmonary vascular load. Contemporary guidance emphasizes recognizing right ventricular
+dysfunction as a major determinant of symptoms, exercise limitation, and outcomes across these
+populations.[1][7]
+Natural History, Complications and Prognosis
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Right_heart_failure_overview 2/5
+--- Страница 3 ---
+22/01/2026, 16:16 Right heart failure overview - wikidoc
+Right heart failure, if left undiagnosed and untreated, may lead to impaired quality of life and
+eventually death. There are several factors that define this natural history depending mainly on the
+underlying etiology or mechanism of injury, the onset of illness, how early treatment was initiated,
+and other comorbidities.
+Progression is often driven by a cycle of rising right sided filling pressures, impaired forward flow,
+worsening systemic congestion with hepatic and renal dysfunction, and further neurohormonal
+activation. In pressure overload states, worsening right ventricle to pulmonary artery uncoupling is
+a key inflection point associated with clinical deterioration.[1][4]
+Diagnosis
+In the initial approach to a patient with right heart failure, it is important to determine the
+underlying etiology, assess functional status, determine the presence of end organ dysfunction
+(liver and kidney most notably), and identify associated conditions.
+History and Symptoms
+Right heart failure is frequently associated with shortness of breath, exercise intolerance and
+coughing, and in later stages chest discomfort and swelling of the feet or ankles. According to the
+2009 Canadian Cardiovascular Society Consensus Conference update on right sided heart failure,
+right heart failure should be suspected when a patient presents with unexplained exercise
+intolerance or hypotension with signs of elevated jugular venous pressure (JVP), peripheral edema,
+hepatomegaly, or a combination of these findings.[14]
+Physical Exam
+Physical exam should consist of a thorough cardiovascular exam, an abdominal exam, and
+examination of the extremities. Findings to be aware of are cyanosis, JVD, S2 and S3 heart sounds,
+ascites, hepatomegaly, and pedal edema.
+Laboratory Findings
+Laboratory tests are not diagnostic for heart failure, but they are essential to identify precipitating
+factors of decompensation, assess severity, monitor adverse effects of therapy, and provide
+prognostic information.[15] In addition, in patients with right heart failure, an arterial blood gas
+can be useful in assessing hypoxemia and guiding oxygen therapy.
+Electrocardiogram
+Right heart failure is often accompanied by right ventricular hypertrophy and right ventricular
+dilation. General electrocardiographic findings of right ventricular hypertrophy include right axis
+deviation, an R S ratio greater than 1 in V1, and the presence of P pulmonale.
+Chest X Ray
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Right_heart_failure_overview 3/5
+--- Страница 4 ---
+22/01/2026, 16:16 Right heart failure overview - wikidoc
+The plain chest radiograph has limited utility in identifying right heart failure. It might show
+evidence of underlying causes such as pulmonary embolism or congenital heart disease.
+Echocardiography
+Transthoracic echocardiography plays a key role in the diagnosis of right heart failure by
+evaluating right ventricular size and function, estimating pulmonary pressures, and assessing
+tricuspid regurgitation. Recommended measures of right ventricular systolic function include
+tricuspid annular plane systolic excursion (TAPSE), tissue Doppler S prime, right ventricular
+fractional area change, and right ventricular longitudinal strain, interpreted in the context of
+loading conditions and right ventricle to pulmonary artery coupling.[16][1]
+Invasive Hemodynamics
+Right heart catheterization can define the hemodynamic profile, quantify pulmonary vascular load,
+and guide therapy in complex or refractory cases. In acute decompensation, invasive monitoring
+may help assess response to preload adjustment and afterload targeted therapies, particularly
+when clinical examination and noninvasive findings are discordant.[1][7]
+Treatment
+Medical Therapy
+Currently, the basis of therapy for right heart failure includes cautious diuresis, rhythm
+management, and treatment of the underlying cause when feasible. Management can be tailored to
+etiology specific therapy such as anticoagulation for pulmonary embolism or antibiotics for
+endocarditis. Management also comprises optimizing right ventricular preload, afterload and
+contractility.
+A contemporary approach emphasizes four parallel goals: optimize preload, reduce right
+ventricular afterload, augment contractility when needed, and maintain systemic perfusion
+pressure while treating the precipitating cause.[1][7]
+Optimization of preload includes careful diuresis and management of venous congestion, while
+avoiding excessive preload reduction that may lower cardiac output. In selected patients, invasive
+hemodynamic guidance may be useful for titration.[1][7]
+Reduction of afterload depends on etiology and includes reperfusion or anticoagulation for
+acute pulmonary embolism, correction of hypoxemia and acidosis, minimizing injurious ventilator
+settings, and targeted pulmonary vasodilator therapy for appropriate forms of pulmonary
+hypertension.[1][10]
+Augmentation of contractility may be required in shock or low output states. Dobutamine can
+increase cardiac output and stroke volume in right ventricular myocardial infarction and in
+pulmonary hypertension, and milrinone may be considered with attention to systemic vasodilation
+and hypotension.[1][7]
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Right_heart_failure_overview 4/5
+--- Страница 5 ---
+22/01/2026, 16:16 Right heart failure overview - wikidoc
+Since atrial fibrillation and high grade AV block can cause hemodynamic instability in right heart
+failure, maintaining sinus rhythm and atrioventricular synchrony is important.[17]
+Surgery
+Surgical intervention in right heart failure is mainly indicated for valvular pathologies and
+congenital heart diseases causing progressive symptoms despite adequate medical interventions.
+Early correction in selected settings can improve symptoms and outcomes. Treating primary
+pulmonary hypertension may lead to improved functional capacity, and in selected cases, lung
+transplant or heart lung transplant can extend survival.[17][7]
+Mechanical Circulatory Support
+Temporary mechanical circulatory support may be considered for patients with refractory acute
+right ventricular failure and shock despite optimized pharmacotherapy and correction of reversible
+causes.[1][18] Device selection should account for the mechanism of failure and the presence of
+pulmonary arterial hypertension, since isolated right ventricular assist strategies may be
+inappropriate when pulmonary vascular resistance is markedly elevated.[1]
+Future or Investigational Therapies
+A right ventricular assist device (RVAD) can be a temporary therapy for patients with acute
+exacerbation of right heart failure. Ongoing research focuses on improved assessment of right
+ventricle to pulmonary artery coupling and therapies that directly target right ventricular
+contractility and lusitropy.[1]
+References
+Template:WH Template:WS
+Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
+Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
+Physical Examination | Lab Tests | Drugs
+Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
+There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
+Licensing | Disclaimers | Avoid Plagiarism | Policies
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+https://www.wikidoc.org/index.php/Right_heart_failure_overview 5/5
