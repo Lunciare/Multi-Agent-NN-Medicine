@@ -10,16 +10,6 @@
 }
 
 === СОДЕРЖАНИЕ ===
-
---- Страница 1 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
-Dr. Smith's ECG Blog
-Instructive ECGs in Emergency Medicine Clinical Content
-Associate Editors:
-— Pendell Meyers & Ken Grauer (2018)
-— Jesse McLaren & Emre Aslanger (2022)
-— Willy Frick (2024) — Sam Ghali (2025)
-Home  Seizure in a 30 something
 Magnus Nossen onSeptember 2, 2024
 Seizure in a 30 something
 Written by Magnus Nossen — with edits by Grauer.
@@ -30,8 +20,6 @@ below was recorded by EMS. What is your assessment?
 ECG #1
 
 https://drsmithsecgblog.com/seizure-in-30-something/ 1/16
---- Страница 2 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
  
 Interpretation: ECG #1 shows sinus rhythm at a heart rate of 77 bpm.
 The QRS is narrow with a normal PR interval. QRS axis is normal. There
@@ -54,8 +42,6 @@ Long QT syndrome
 5.
 Hypertrophic cardiomyopathy.
 https://drsmithsecgblog.com/seizure-in-30-something/ 2/16
---- Страница 3 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
 I find it is easier to measure the QTc when the paper speed is 50mm/s, as
 it is in the image above. I measure the RR interval at 795ms and the QT
 interval at 475ms. The QTc comes out at 533ms, dangerously prolonged.
@@ -66,8 +52,6 @@ longer duration. The ECGs below were captured on continuous 12-lead
 monitoring during transport!
 ECG #2
 https://drsmithsecgblog.com/seizure-in-30-something/ 3/16
---- Страница 4 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
 Interpretation of ECG #2:
 Underlying sinus rhythm. The sinus beats have a very prolonged QT-
 interval that seems even longer than in the first ECG. There is a run
@@ -93,8 +77,6 @@ started taking 9 different herbal remedies to ease lethargy and
 unspecific neurological symptoms. It is unknown exactly what
 specific herbal medicine and what doses that had been ingested.
 https://drsmithsecgblog.com/seizure-in-30-something/ 4/16
---- Страница 5 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
 Below is a follow up ECG after discontinuation of the herbal remedies.
 The QTc is significantly shorter. It is very likely that the herbal remedies
 caused a lengthening of the QT-interval and led to Torsades de Pointes.
@@ -117,8 +99,6 @@ herbal medicine.
 MY Comment, by KEN GRAUER, MD (9/2/2024):
 ===================================
 https://drsmithsecgblog.com/seizure-in-30-something/ 5/16
---- Страница 6 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
 Today’s case by Dr. Nossen is fascinating in its complexity — as the
 patient is a previously healthy young adult woman, whose presentation
 was with a new-onset Seizure.
@@ -165,8 +145,6 @@ of the QT interval in this case — noting there is artifact in ECG
 #1 is relevant!
 The rhythm in ECG #1 is sinus at ~75/minute.
 https://drsmithsecgblog.com/seizure-in-30-something/ 6/16
---- Страница 7 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
 Intervals: The PR interval is slightly prolonged (I measure ~0.22
 second). The QRS complex is normal (ie, not more than 0.10
 second). The QT interval looks to be prolonged (SEE below for
@@ -211,8 +189,6 @@ there were (or were not) U waves in ECG #1. That said — in a
 patient who develops TdP — the overall ECG appearance of this
 initial ECG is consistent with low K+ and/or low Mg++ (See My
 https://drsmithsecgblog.com/seizure-in-30-something/ 7/16
---- Страница 8 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
 Comment in the May 9, 2020 post — for more on the ECG
 diagnosis of hypokalemia and hypomagnesemia).
 PEARL #2: The principal abnormal finding on this ECG is QT
@@ -241,8 +217,6 @@ the May 3, 2020 post in Dr. Smith’s ECG Blog.
 Figure-1: I labeled the initial ECG in today’s case.
 The Follow-Up ECG in Figure-2:
 https://drsmithsecgblog.com/seizure-in-30-something/ 8/16
---- Страница 9 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
 The patient in today’s case stopped her herbal remedies. Some time after
 doing so — the ECG shown in Figure-2 was obtained (this being the 4th
 ECG that was shown above in Dr. Nossenʼs discussion).
@@ -269,8 +243,6 @@ in most leads. I once again used the last 3 chest leads (within the
 BLUE rectangle) — with the vertical BLUE line illustrating
 my measured QT = 370 msec.
 https://drsmithsecgblog.com/seizure-in-30-something/ 9/16
---- Страница 10 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
 Correcting this measured QT value for
 a heart rate of ~85/minute — and plugging in these values into MD
 CALC results between 414-to-440 msec. for the QTc (depending
@@ -314,8 +286,6 @@ QRS tip (or point) — but if a given patient has several runs of TdP
 episodes with “twist(s)” (around the baseline) of the points (the ups
 & downs of the QRS).
 https://drsmithsecgblog.com/seizure-in-30-something/ 10/16
---- Страница 11 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
 My sincere THANKS to Dr. Taboulet for explaining this concept that
 I’ve wondered about for decades. His explanation strengthens my
 preference to continue uniformly using “Torsades de Pointes” as the
@@ -333,129 +303,3 @@ Artificial Intelligence
 ECG Model Detecting
 Acute Coronary
 Occlusion
-Write a Comment
-https://drsmithsecgblog.com/seizure-in-30-something/ 11/16
---- Страница 12 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
-SEARCH
-ABOUT
-Dr. Smith
-FACULTY PHYSICIAN
-Dr. Stephen W. Smith is a faculty physician in the Emergency
-Medicine Residency at Hennepin County Medical Center
-(HCMC) in Minneapolis, MN, and Professor of Emergency
-Medicine at the University of Minnesota.
-Dr. Smith's Google Scholar Profile
-Dr. Smith Articles on PubMed
-This work is licensed under a Creative Commons Attribution-
-NonCommercial 4.0 International License.
-FOLLOW US ON X (TWITTER)
-Follow @smithECGBlog Follow @PendellM Follow @ekgpress
-Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
-Follow @EM_RESUS
-FEATURED POSTS
- 
-‘NSTEM
-‘NSTEMIʼ or reperfused OMI? An
-OMI? And which lesion is the Jesse McLaren the culp
-culprit?
-onFebruary 8, 2025
-https://drsmithsecgblog.com/seizure-in-30-something/ 12/16
---- Страница 13 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
-BLOG ARCHIVE
-Select Month
-https://drsmithsecgblog.com/seizure-in-30-something/ 13/16
---- Страница 14 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
-LABELS
-"inferior" ST depression(24) anterior STEMI equation(14)
-anterior T wave inversion(15) atrial flutter(31) AV block(17)
-aVL(31) aVR(30) Benign T-wave Inversion(23)
-cardiac arrest(57)
-cardiogenic shock(15) computer(21)
-CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
-Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
-false positive cath lab activation(49)
-False positive ECG(24)
-Formula for Early Repol vs. Anterior STEMI(39)
-hyperacute T-waves(84)
-hyperkalemia(65)
-Hyperacute T-waves LAD(26)
-hypokalemia(32) inferior hyperacute T-waves(24)
-Inferior MI subtle(31)
-inferoposterior STEMI(15)
-LAD occlusion(112)
-LAD occlusion vs. benign early repolarization
-(43)
-LBBB(55)
-LAD OMI missed(19) LAD reperfusion(14)
-lead misplacement(21) left bundle branch block(16) left main(24)
-long QT(45) LV aneurysm(35) LVH(41)
-LVH and OMI(14) missed OMI(33) missed STEMI(24)
-modified sgarbossa criteria(38)
-Morphine(14)
-Myocarditis(21)
-Normal ECG by computer algorithm(55)
-OMI(149)
-paced rhythm(24) Pediatric(16)
-pericarditis(27)
-PM Cardio Queen of Hearts(71)
-posterior leads(22) posterior OMI(44)
-posterior reperfusion T-waves(17) posterior STEMI(26)
-Precordial swirl(38) prehospital ECG(20)
-pseudoinfarction(23) pseudonormalization(24)
-PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
-RBBB(50)
-QOH(13) Queen knows false positive(14)
-RBBB with LAFB (Left Anterior Fascicular Block)(20)
-reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
-ST depression(40)
-shark fin(14) spontaneous reperfusion(17)
-subtle(41) Subtle LAD(50)
-subendocardial ischemia(16)
-Subtle LAD Occlusion(58)
-Subtle STE(14)
-Supraventricular Tachycardia (PSVT)(18) Syncope(34)
-T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
-Thrombolytics(15) torsade(15) Transient OMI(14)
-transient ST elevation(19) U-waves(24) ultrasound(19)
-unstable angina(27) Ventricular Fibrillation(16)
-ventricular tachycardia(30) Wellens' syndrome(31)
-Wide complex tachycardia(46)
-wide complex(16)
-wide QRS(13) wide_complex_tachycardia(25)
-https://drsmithsecgblog.com/seizure-in-30-something/ 14/16
---- Страница 15 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
-wolff parkinson white WPW(24) wraparound LAD(15) young(19)
-Young Women(19)
-Read Next
-Magnus Nossen onSeptember 5, 2024
-Why the sudden shock after a few days of malaise?
-Written by Magnus Nossen – Edits by Grauer and Smith The patient in
-todayʼs case is a woman in her 70s with a previous medical history…
-Steve Smith onSeptember 7, 2024
-An elderly male with shortness of breath
-A 70-something y.o. male presents to triage with shortness of
-breath. He reports significant chest pain at the base of his scapula
-on…
-https://drsmithsecgblog.com/seizure-in-30-something/ 15/16
---- Страница 16 ---
-22/01/2026, 15:33 Seizure in a 30 something - Dr. Smith’s ECG Blog
-Willy Frick onSeptember 9, 2024
-“The dye donʼt lie” …except when it does. Angiogram
-Negative, or is it?
-Written by Willy Frick See the fascinating discussion on X started by
-this post. Link below. A 40 year old woman was at home…
-Never Miss a Beat – Join Our ECG
-Insights Newsletter
-Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
-Smith delivered straight to your inbox—trusted by emergency physicians and
-cardiologists worldwide.
-Email Address Subscribe
-Trusted insights, no spam—only ECG brilliance.
-Expert ECG Interpretation and Emergency Cardiology
-Education
-© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
-https://drsmithsecgblog.com/seizure-in-30-something/ 16/16

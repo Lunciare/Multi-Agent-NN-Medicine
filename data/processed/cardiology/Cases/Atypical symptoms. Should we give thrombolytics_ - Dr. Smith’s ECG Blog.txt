@@ -10,16 +10,6 @@
 }
 
 === СОДЕРЖАНИЕ ===
-
---- Страница 1 ---
-22/01/2026, 15:20 Atypical symptoms. Should we give thrombolytics? - Dr. Smith’s ECG Blog
-Dr. Smith's ECG Blog
-Instructive ECGs in Emergency Medicine Clinical Content
-Associate Editors:
-— Pendell Meyers & Ken Grauer (2018)
-— Jesse McLaren & Emre Aslanger (2022)
-— Willy Frick (2024) — Sam Ghali (2025)
-Home  Atypical symptoms. Should we give thrombolytics?
 Steve Smith onNovember 8, 2025
 Atypical symptoms. Should
 we give thrombolytics?
@@ -38,8 +28,6 @@ conventional computer algorithm claims?”
 My friend thought there was inferior OMI. He applied the
 PMCardio Queen of Hearts: 
 https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 1/11
---- Страница 2 ---
-22/01/2026, 15:20 Atypical symptoms. Should we give thrombolytics? - Dr. Smith’s ECG Blog
 The model output was 0.96, which is nearly 100% certain. (That is
 found by clicking on the small encircled “i” next to “hide
 explainability”.)
@@ -76,8 +64,6 @@ STD in V5-6 (which is precordial swirl) from LAD OMI. In any
 case: she recognizes OMI and that is the only output she is
 allowed to give and the only really critical output.
 https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 2/11
---- Страница 3 ---
-22/01/2026, 15:20 Atypical symptoms. Should we give thrombolytics? - Dr. Smith’s ECG Blog
 It is very common for the very elderly to have atypical
 symptoms of acute MI. Without chest pain, he was not
 certain enough to act. I think I would have been convinced
@@ -119,8 +105,6 @@ output and hypotension, and is associated with high
 mortality if not reperfused. It is caused by proximal RCA
 occlusion (proximal to the RV marginal branch). Not all
 https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 3/11
---- Страница 4 ---
-22/01/2026, 15:20 Atypical symptoms. Should we give thrombolytics? - Dr. Smith’s ECG Blog
 proximal occlusions cause RVMI because most patients
 have collaterals to the RV from the LAD.
 4. See our publication on Bayesian analysis of ACS
@@ -160,225 +144,9 @@ week history of shortness of breath with “pleuritic” CP
 (Chest Pain) as the symptoms that prompted this ED
 visit.
 https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 4/11
---- Страница 5 ---
-22/01/2026, 15:20 Atypical symptoms. Should we give thrombolytics? - Dr. Smith’s ECG Blog
 That said — given the change in symptoms during
 observation of the patient in the ED — immediately
 repeating the ECG(as well as doing an Echo at the
 bedside during symptomsto look for a localized wall
 motion abnormality) — might be all that is needed to
-remove any doubt about an acute evolving process.
-Direct correlation between the presence (and relative
-severity) of CP and each serial ECG that is done — will
-often facilitate clinical ECG interpretation (as well as
-determining if the “culprit” vessel is now open or closed
-— with reclosure suggested if ST elevation correlates
-with pain recurrence).
-Realization that a large infarction hasoccurred over the
-previous 2 weeks (evident from the very high initial
-Troponin) — in association with an ongoing change in
-symptoms (return of CP in the ED) — in association with
-“dynamic” ST-T wave changes that might be seen on
-immediately repeating the ECG — would confirm the
-indication for prompt cath now (rather than the risk
-inherent in delaying cath until the next morning in a
-patient with acute reocclusionof the “culprit” artery) —
-not to mention that the time period for most of the
-potential benefit that might accrue from timely PCI will
-be long past by the following morning.
-= = =
-Todayʼs Initial ECG:
-My thoughts on todayʼs initialECG were the following:
-The rhythm is sinus at the fairly rapid rate of 90/minute.
-The QRS appears slightly widened at 0.10-0.11 second
-(best seen in the rS complexesin the inferior leads) —
-with LAHB most likely accounting for this slight QRS
-widening. There is no chamber enlargement.
-There is poor R wave progression with transition to a
-dominant R wave never occurring in the chest leads (ie,
-QRS amplitude decreases in the lateral chest leads —
-with loss of R wave by lead V6). This may or may not be
-relevant to todayʼs clinical presentation (vs a
-longstanding finding in this older patient).
-My “eye” was initially drawn to the coved ST elevation in
-the inferior leads (with ST segment straightening in lead
-II) — with a mirror-image opposite ST-T wave picture in
-lead aVL (and to a lesser extent in lead I). I was initially
-uncertain if these limb lead changes were acute or
-subacute (given the 2-week history of dyspnea) — or
-possibly even of longer duration.
-https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 5/11
---- Страница 6 ---
-22/01/2026, 15:20 Atypical symptoms. Should we give thrombolytics? - Dr. Smith’s ECG Blog
-I thought the KEY to interpretation of the ECG in Figure-1
-— was the definitely abnormal appearance in leads V1
-and V2. The ST segment coving with disproportionate
-ST elevation in lead V1(given tiny size of the S wave in
-lead V1) — is clearly abnormal in this lead.
-As per Dr. Smith — we instantly know that the ST-T wave
-in lead V1 is abnormal — because instead of seeing the
-normal, slightly elevated upsloping ST segment that is
-expected in lead V2 — we see ST segment flattening
-and slight depression in this lead (RED arrow in lead V2).
-In this patient with new symptoms and the above-
-described limb lead findings — this contrasting picture
-of lead V1 ST coving and elevation, but lead V2 ST
-flattening with depression — hastobeassumed due to
-acute infero-postero OMI with acute RV involvement
-until proven otherwise.
-Lead V1 is a right-sided lead — and in Figure-1, it shows
-ST elevation from RV MI that attenuates (opposes) the
-ST depression that otherwise would have been much
-greater in leads V2,V3 from the simultaneously
-occurring posterior OMI.
-Definitive diagnosis of acuteRV MI would have been
-forthcoming by immediately obtaining a right-sided
-ECG. This would have explained this elderly patientʼs
-acute dyspnea and “inability to lie flat” long before the
-next morning.
-= = =
-Figure-1: Iʼve labeled todayʼs initial ECG.
-= = =
-= = =
-Steve Smith onNovember 8, 2025
-RVMI IN LEAD V1 THROMBOLYTICS IN NSTEMI OMI
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 6/11
---- Страница 7 ---
-22/01/2026, 15:20 Atypical symptoms. Should we give thrombolytics? - Dr. Smith’s ECG Blog
-Dyspnea and chest Chest pain, serial ECGs
-pain. O2 saturation STEMI negative, first
-88%. troponin normal:
-cancel cath lab
-activation? Exemplary
-care by an emergency
-physician!
-SEARCH
-ABOUT
-Dr. Smith
-FACULTY PHYSICIAN
-Dr. Stephen W. Smith is a faculty physician in the Emergency
-Medicine Residency at Hennepin County Medical Center
-(HCMC) in Minneapolis, MN, and Professor of Emergency
-Medicine at the University of Minnesota.
-Dr. Smith's Google Scholar Profile
-Dr. Smith Articles on PubMed
-This work is licensed under a Creative Commons Attribution-
-NonCommercial 4.0 International License.
-FOLLOW US ON X (TWITTER)
-Follow @smithECGBlog Follow @PendellM Follow @ekgpress
-Follow @AslangerE Follow @ecgcases Follow @PMcardioBot
-Follow @EM_RESUS
-https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 7/11
---- Страница 8 ---
-22/01/2026, 15:20 Atypical symptoms. Should we give thrombolytics? - Dr. Smith’s ECG Blog
-FEATURED POSTS
- 
-‘NSTEM
-‘NSTEMIʼ or reperfused OMI? An
-OMI? And which lesion is the Jesse McLaren the culp
-culprit?
-onFebruary 8, 2025
-BLOG ARCHIVE
-Select Month
-https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 8/11
---- Страница 9 ---
-22/01/2026, 15:20 Atypical symptoms. Should we give thrombolytics? - Dr. Smith’s ECG Blog
-LABELS
-"inferior" ST depression(24) anterior STEMI equation(14)
-anterior T wave inversion(15) atrial flutter(31) AV block(17)
-aVL(31) aVR(30) Benign T-wave Inversion(23)
-cardiac arrest(57)
-cardiogenic shock(15) computer(21)
-CT scan(13) de Winter's T-waves(25) Diffuse ST Depression(18)
-Dr. K. Wang(20) early repolarization(22) echocardiogram(24)
-false positive cath lab activation(49)
-False positive ECG(24)
-Formula for Early Repol vs. Anterior STEMI(39)
-hyperacute T-waves(84)
-hyperkalemia(65)
-Hyperacute T-waves LAD(26)
-hypokalemia(32) inferior hyperacute T-waves(24)
-Inferior MI subtle(31)
-inferoposterior STEMI(15)
-LAD occlusion(112)
-LAD occlusion vs. benign early repolarization
-(43)
-LBBB(55)
-LAD OMI missed(19) LAD reperfusion(14)
-lead misplacement(21) left bundle branch block(16) left main(24)
-long QT(45) LV aneurysm(35) LVH(41)
-LVH and OMI(14) missed OMI(33) missed STEMI(24)
-modified sgarbossa criteria(38)
-Morphine(14)
-Myocarditis(21)
-Normal ECG by computer algorithm(55)
-OMI(149)
-paced rhythm(24) Pediatric(16)
-pericarditis(27)
-PM Cardio Queen of Hearts(71)
-posterior leads(22) posterior OMI(44)
-posterior reperfusion T-waves(17) posterior STEMI(26)
-Precordial swirl(38) prehospital ECG(20)
-pseudoinfarction(23) pseudonormalization(24)
-PseudoSTEMI(36) pulmonary embolism(30) PVC(15)
-RBBB(50)
-QOH(13) Queen knows false positive(14)
-RBBB with LAFB (Left Anterior Fascicular Block)(20)
-reperfusion(24) RVH(14) RV MI(21) serial ECG(35)
-ST depression(40)
-shark fin(14) spontaneous reperfusion(17)
-subtle(41) Subtle LAD(50)
-subendocardial ischemia(16)
-Subtle LAD Occlusion(58)
-Subtle STE(14)
-Supraventricular Tachycardia (PSVT)(18) Syncope(34)
-T-Wave inversion(26) takotsubo(24) terminal QRS distortion(17)
-Thrombolytics(15) torsade(15) Transient OMI(14)
-transient ST elevation(19) U-waves(24) ultrasound(19)
-unstable angina(27) Ventricular Fibrillation(16)
-ventricular tachycardia(30) Wellens' syndrome(31)
-Wide complex tachycardia(46)
-wide complex(16)
-wide QRS(13) wide_complex_tachycardia(25)
-https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 9/11
---- Страница 10 ---
-22/01/2026, 15:20 Atypical symptoms. Should we give thrombolytics? - Dr. Smith’s ECG Blog
-wolff parkinson white WPW(24) wraparound LAD(15) young(19)
-Young Women(19)
-Read Next
-Jesse McLaren onNovember 11, 2025
-Chest pain, serial ECGs STEMI negative, first troponin
-normal: cancel cath lab activation? Exemplary care by
-an emergency physician!
-Submitted by Matthew McArthur, recent emergency physician
-graduate and regular reader of Dr. Smithʼs ECG Blog, ECG Cases, and
-ECGweekly…
-Pendell Meyers onNovember 14, 2025
-A woman in her 50s with chest pain. No diagnostic STE
-(that worthless diagnosis: “NSTEMI”). What is it and
-what happened?
-Sent by anonymous, written by Pendell Meyers A woman in her 50s
-presented with acute chest pain and shortness of breath. She
-appeared well…
-https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 10/11
---- Страница 11 ---
-22/01/2026, 15:20 Atypical symptoms. Should we give thrombolytics? - Dr. Smith’s ECG Blog
-Steve Smith onNovember 17, 2025
-In chest pain, if the ECG is not diagnostic, can the
-medics safely leave the patient at home?
-67 year old female complaining of epigastric pain that radiates to
-herchest. Relief with burping. Symptoms had been ongoing for about
-1…
-Never Miss a Beat – Join Our ECG
-Insights Newsletter
-Get the latest expert ECG cases, clinical pearls, and interpretation tips from Dr.
-Smith delivered straight to your inbox—trusted by emergency physicians and
-cardiologists worldwide.
-Email Address Subscribe
-Trusted insights, no spam—only ECG brilliance.
-Expert ECG Interpretation and Emergency Cardiology
-Education
-© 2025 — Dr. Smith's ECG Blog. All Rights Reserved.
-https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 11/11
+remove any doubt
