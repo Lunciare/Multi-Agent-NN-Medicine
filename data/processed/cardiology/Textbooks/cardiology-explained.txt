@@ -11,7 +11,6 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 EXPLAINED SERIES
 Cardiology
 One of the most time-consuming tasks in clinical medicine is seeking
@@ -28,32 +27,9 @@ standard textbooks. With wide appeal, this book is ideal for any
 hospital doctor, generalist, or even senior medical student who may
 need a cardiology opinion; or for that matter, anyone who simply
 wants some of cardiology – explained.
-Contents
-Cardiac arrest • Cardiovascular examination • Conquering the ECG
-• Understanding the echocardiogram • Coronary artery disease
-• Hypertension • Heart failure • Arrhythmia • Valve disease
-• Infective endocarditis • Cardiomyopathy • Aneurysm and dissection
-of the aorta • Pericardial disease • Adult congenital heart disease
-“Cardiology Explainedis for the generalist who wants a no-nonsense,
-jargon-explaining, up-to-date overview of the latest developments
-in cardiology. It is not intimidating and is well-illustrated with clear
-diagrams and clinical data. The 14 chapters cover the whole range of
-modern cardiology in a thoroughly satisfactory manner.”
-Professor Peter Sleight
-Emeritus Professor of Cardiovascular Medicine,
-University of Oxford, UK
 Cardiology
 explained
-Euan
-A
-Ashley
-and
-Josef
-Niebauer
---- Страница 2 ---
-Cardiology
-explained
---- Страница 3 ---
+
 Remedica explained series
 ISSN 1472-4138
 Also available
@@ -83,7 +59,7 @@ Remedica is a member of the AS&K Media Partnership.
 ISBN 1 901346 22 6
 British Library Cataloguing-in-Publication Data
 A catalogue record for this book is available from the British Library.
---- Страница 4 ---
+
 Cardiology
 explained
 Euan A Ashley and Josef Niebauer
@@ -100,7 +76,7 @@ University of Leipzig – Heart Center
 Strümpellstr. 39
 04289 Leipzig
 Germany
---- Страница 5 ---
+
 Foreword
 Cardiology is a rapidly changing field. New technologies such as drug-eluting
 stents, left ventricular assist devices, and novel inflammatory markers, and imaging
@@ -134,7 +110,7 @@ I highly commend you for picking it up!
 Alan Yeung
 Professor of Medicine (Cardiovascular),
 Stanford University Medical Center, USA
---- Страница 6 ---
+
 Preface
 We may not be the most impartial commentators, but it seems to us that the heart
 is the most interesting organ in the body. It beats in a tightly regulated, finely
@@ -171,10 +147,10 @@ Finally, we’d like to thank Cath Harris, Andrew Ward, and all the team at Reme
 who coaxed and cajoled us, encouraged and enlivened our text, and heroically
 rescued our diagrams from obscurity.
 Euan A Ashley and Josef Niebauer
---- Страница 8 ---
+
 To Angus Ashley, the best doctor I know
 EAA
---- Страница 9 ---
+
 “To study disease without books is to sail an
 uncharted sea, while to study books without
 patients is not to go to sea at all.”
@@ -183,25 +159,7 @@ William Osler, 1901
 bleed from his nose, but not when I see a heart fibrillate.
 This is my territory.”
 Lofty L Basta, 1996
---- Страница 10 ---
-Contents
-Chapter 1 Cardiac arrest 1
-Chapter 2 Cardiovascular examination 5
-Chapter 3 Conquering the ECG 15
-Chapter 4 Understanding the echocardiogram 35
-Chapter 5 Coronary artery disease 45
-Chapter 6 Hypertension 77
-Chapter 7 Heart failure 93
-Chapter 8 Arrhythmia 111
-Chapter 9 Valve disease 145
-Chapter 10 Infective endocarditis 167
-Chapter 11 Cardiomyopathy 181
-Chapter 12 Aneurysm and dissection of the aorta 189
-Chapter 13 Pericardial disease 197
-Chapter 14 Adult congenital heart disease 203
-Abbreviations 215
-Index 219
---- Страница 12 ---
+
 Chapter 1
 Cardiac arrest
 Adult basic life-support algorithm
@@ -220,7 +178,7 @@ Check circulation 100 per minute
 every minute 15:2 ratio
 Send or go for help as soon as possible according to guidelines
 1
---- Страница 13 ---
+
 Chapter 1
 Advanced life-support algorithm for the
 management of cardiac arrest in adults
@@ -254,7 +212,7 @@ Consider causes that are potentially reversible
 ACS: acute coronary syndromes; CPR: cardiopulmonary resuscitation; IV: intravenous;
 OD: overdose; VF: ventricular fibrillation; VT: ventricular tachycardia.
 2
---- Страница 14 ---
+
 Cardiac arrest
 Advanced life-support algorithm for the
 management of cardiac arrest in adults
@@ -286,7 +244,7 @@ Consider causes that are potentially reversible
 CPR: cardiopulmonary resuscitation; IV: intravenous; VF: ventricular fibrillation;
 VT: ventricular tachycardia.
 3
---- Страница 15 ---
+
 Chapter 1
 The adult basic life-support algorithm (UK version) is reprinted with permission
 from the Resuscitation Council (UK) website and is available at: www.resus.org.uk
@@ -297,7 +255,7 @@ The advanced life-support algorithm for the management of cardiac arrest in adul
 (UK version) is reprinted with permission from the Resuscitation Council (UK)
 website and is available at: www.resus.org.uk
 4
---- Страница 16 ---
+
 Chapter 2
 Cardiovascular examination
 Although technology has a high profile in cardiology, clinical examination remains
@@ -329,7 +287,7 @@ rhythm of the pulse. The character and volume of the pulse can also be useful si
 and traditionally it is believed that these are easier to detect in larger arteries such
 as the brachial and the carotid (see Table 4).
 5
---- Страница 17 ---
+
 Chapter 2
 Facial sign Description Possible cardiac
 association
@@ -368,7 +326,7 @@ the patient lying on their back with their knees bent
 • dorsalis pedis – feel over the second metatarsal bone
 just lateral to the extensor hallucis tendon
 6
---- Страница 18 ---
+
 Cardiovascular examination
 Type of pulse Pulse characteristics Most likely cause
 Regularly irregular – 2nd-degree heart block,
@@ -410,7 +368,7 @@ an intrinsic pulmonary cause (asthma, chronic obstructive pulmonary disease). Fo
 the general physician, the waveform of the JVP (see Figure 1) is, for most purposes,
 only of academic significance.
 7
---- Страница 19 ---
+
 Chapter 2
 a a
 v
@@ -433,7 +391,7 @@ vessel joins the superior vena cava at a 180º angle. The JVP is defined as the 
 of the waveform in centimeters above the sternal angle (<4 cm is normal).
 Abnormalities of the JVP are described in Table 5.
 8
---- Страница 20 ---
+
 Cardiovascular examination
 Internal External
 jugular jugular
@@ -465,7 +423,7 @@ the apex (usually the fifth intercostal space in the midclavicular line). There 
 many different descriptions for abnormal apex beats. One scheme distinguishes
 heaving (high afterload, eg, aortic stenosis) from thrusting (high preload,
 9
---- Страница 21 ---
+
 Chapter 2
 eg, aortic regurgitation). The apex may also be “tapping”, but this reflects a
 loud first heart sound. In addition, you should place your left hand over the
@@ -503,7 +461,7 @@ A fourth heart sound may be heard just before the first sound. This is caused
 by atrial contraction filling a stiff left ventricle, eg, hypertensive heart or diastolic
 heart failure.
 10
---- Страница 22 ---
+
 Cardiovascular examination
 Systole
 S4 S1 EC MSC A2 P2 S3 OS
@@ -530,7 +488,7 @@ enlarged, congested, and possibly pulsatile in cases of right ventricular failur
 tricuspid valve disease. Also, check the patient’s ankles for swelling.
 Table 6outlines common associations in cardiovascular clinical examination.
 11
---- Страница 23 ---
+
 Chapter 2
 AS Aortic Aortic Mitral Mitral Tricuspid Pulmonary
 sclerosis/ regurgitation stenosis regurgitation regurgitation regurgitation
@@ -575,7 +533,7 @@ pressure; LLSE: left lower sternal edge; PDA: patent ductus arteriosus; PR: pulm
 regurgitation; VSD: ventricular septal defect. See Chapter 9, Valve disease, for more on
 columns 1–9 and Chapter 14, Adult congenital heart disease, for columns 10–13.
 12
---- Страница 24 ---
+
 Cardiovascular examination
 Tricuspid Pulmonary ASD VSD PDA Pulmonary
 stenosis stenosis hypertension
@@ -620,7 +578,7 @@ inspiration) beneath clavicle
 Radiates – – – Apex Posteriorly –
 Table 6.Continued.
 13
---- Страница 25 ---
+
 Chapter 2
 Summary
 A careful clinical examination can reveal much about the condition of your
@@ -635,7 +593,7 @@ Gleadle J. History and Examination at a Glance. Blackwell Science, 2003
 Perloff JK. Physical Examination of the Heart and Circulation, 3rd edn. WB Saunders, 2000.
 Turner RC, Blackwood RA. Lecture Notes on Clinical Skills, 3rd edn. Blackwell Science, 1997.
 14
---- Страница 26 ---
+
 Chapter 3
 Conquering the ECG
 Besides the stethoscope, the electrocardiogram (ECG) is the oldest and most
@@ -664,7 +622,7 @@ sternal angle, the second rib insertion)
 5) Ask the patient to relax
 6) Press record
 15
---- Страница 27 ---
+
 Chapter 3
 1
 2
@@ -696,7 +654,7 @@ their respective limb electrodes are:
 • aVL lead: left arm
 • aVF lead: left leg
 16
---- Страница 28 ---
+
 Conquering the ECG
 aVR (-150˚)
 aVL (-30˚)
@@ -722,7 +680,7 @@ The limb leads look at the heart in a vertical plane (see Figure 2), whereas the
 leads look at the heart in a horizontal plane. In this way, a three-dimensional
 electrical picture of the heart is built up (see Table 1).
 17
---- Страница 29 ---
+
 Chapter 3
 PERFORMING DOGS
 British physiologist Augustus D Waller of St Mary’s Medical School, London,
@@ -755,7 +713,7 @@ base of the heart, where the bundles divide into the Purkinje system. From here,
 the wave of depolarization is distributed to the ventricular walls and initiates
 ventricular contraction.
 18
---- Страница 30 ---
+
 Conquering the ECG
 R
 J point
@@ -788,7 +746,7 @@ PR interval
 The PR interval is the time between the first deflection of the P wave and the first
 deflection of the QRS complex.
 19
---- Страница 31 ---
+
 Chapter 3
 (a)
 LA V6
@@ -820,7 +778,7 @@ hence it is the largest wave
 • the S wave signifies the final depolarization of the ventricles, at the base
 of the heart
 20
---- Страница 32 ---
+
 Conquering the ECG
 I aVR V1 V4
 II aVL V2 V5
@@ -847,7 +805,7 @@ at reading ECGs is to practice. It is important to be methodical – every ECG
 reading should start with an assessment of the rate, rhythm, and axis. This
 approach always reveals something about an ECG, regardless of how unusual it is.
 21
---- Страница 33 ---
+
 Chapter 3
 Number of large squares Heart rate
 between QRS complexes (bpm)
@@ -884,7 +842,7 @@ at the heart at 0º and +90º, respectively)
 • determine the net positivity of the QRS wave from each of the two leads by
 subtracting the S wave height (the number of small squares that it crosses
 22
---- Страница 34 ---
+
 Conquering the ECG
 Figure 7.ECG demonstrating atrial fibrillation.
 Figure 8.ECG demonstrating atrial flutter – note the characteristic sawtooth waveform.
@@ -908,7 +866,7 @@ axis or predominant direction of electrical depolarization (determined
 primarily by the muscle mass of the left ventricle). It is expressed as
 an angle and can be estimated quite easily (normal is 0º–120º)
 23
---- Страница 35 ---
+
 Chapter 3
 HUMAN RESUSCITATION
 The first electrical resuscitation of a human took place (almost certainly)
@@ -943,7 +901,7 @@ of the R wave (or Q wave if there is one) constitutes first-degree heart block
 (see Figure 10). It rarely requires action, but in the presence of other abnormalities
 might be a sign of hyperkalemia, digoxin toxicity, or cardiomyopathy.
 24
---- Страница 36 ---
+
 Conquering the ECG
 Figure 10.ECG demonstrating first-degree heart block.
 I aVR V1 V4
@@ -967,7 +925,7 @@ electrocardiogram (which is why it is sometimes spelt the Dutch way),
 Einthoven credits Waller with this distinction in his 1895 publication in
 Pflügers Archives “Über die Form des menschlichen Elektrokardiogramms”.
 25
---- Страница 37 ---
+
 Chapter 3
 aVR V1 V4
 I
@@ -990,7 +948,7 @@ following a P wave that is wider than two small squares or greater in height tha
 third of the subsequent R wave is significant: such Q waves canrepresent previous
 infarction (see Figure 11, previous page).
 26
---- Страница 38 ---
+
 Conquering the ECG
 Left bundle branch block Right bundle branch block
 V1 V6 V1 V6
@@ -1018,7 +976,7 @@ squares wide, it is abnormal. Bundle branch block can then be diagnosed by
 pattern recognition of the QRS complexes in the V1 and V6 leads (see Figure 14).
 New LBBB can be diagnostic of myocardial infarction (MI).
 27
---- Страница 39 ---
+
 Chapter 3
 aVR V1 V4
 I
@@ -1046,7 +1004,7 @@ combined with a characteristic history, indicates the possibility of MI (see
 Figure15, previous page). ST depression is diagnostic of ischemia (see Figure16).
 It is worth noting that although ST elevation can localize the lesion (eg, anterior MI,
 28
---- Страница 40 ---
+
 Conquering the ECG
 aVR V1 V4
 I
@@ -1074,7 +1032,7 @@ system). Conditions associated with a long QT interval are outlined in Table 3
 Long QT syndrome may also be drug-induced (see Table 4, p. 32). Once this
 occurs, the responsible drug needs to be discontinued.
 29
---- Страница 41 ---
+
 Chapter 3
 Congenital Acquired
 Jervell and Lange–Nielsen syndrome Amiodarone, sotalol
@@ -1108,7 +1066,7 @@ A sinus-wave QRS should be treated immediately with calcium chloride, whilst
 hyperkalemia associated with lesser ECG changes can be treated with
 insulin/glucose infusion.
 30
---- Страница 42 ---
+
 Conquering the ECG
 I aVR V1 V4
 II aVL V2 V5
@@ -1125,7 +1083,7 @@ aVF V3 V6
 III
 Figure 20.ECG demonstrating a widening of the QRS complex.
 31
---- Страница 43 ---
+
 Chapter 3
 Generic QT Torsade Generic QT Torsade
 name interval de pointes name interval de pointes
@@ -1203,7 +1161,7 @@ Red List, and information from the regulatory authorities. In the case reports a
 the causal relationship to the ingestion of the particular medication is no longer apparent; pure coincidence cannot
 be excluded in individual cases.
 32
---- Страница 44 ---
+
 Conquering the ECG
 I
 II
@@ -1225,9 +1183,9 @@ Hampton JR. ECG Made Easy.London: Churchill Livingstone, 1997.
 Rautaharju PM. A hundred years of progress in electrocardiography. 1: Early contributions
 from Waller to Wilson. Can J Cardiol1987;3:362–74.
 33
---- Страница 45 ---
+
 34
---- Страница 46 ---
+
 Chapter 4
 Understanding the
 echocardiogram
@@ -1258,7 +1216,7 @@ common cross-sectional views are the parasternal long axis, the parasternal shor
 axis, and the apical view (see Figure 1). The gastric or subcostal and suprasternal
 views are also commonly used.
 35
---- Страница 47 ---
+
 Chapter 4
 (a) (b) (c)
 RV
@@ -1284,7 +1242,7 @@ Estimates of blood-flow velocity can be made by comparing the frequency change
 between the transmitted and reflected sound waves. In cardiac ultrasound,
 Doppler is used in three ways:
 36
---- Страница 48 ---
+
 Understanding the echocardiogram
 (a) (b)
 Figure 2.M-mode image of (a) the aorta/left atrium and (b) the mitral valve, both in
@@ -1305,7 +1263,7 @@ area at a specified tissue depth). It is used to assess ventricular in-flow patt
 intracardiac shunts, and to make precise measurements of blood flow at
 valve orifices.
 37
---- Страница 49 ---
+
 Chapter 4
 Figure 4.Color-flow mapping.
 Color-flow mapping
@@ -1330,7 +1288,7 @@ Contrast echocardiography
 Contrast echo can be useful for confirming a diagnosis of atrial septal defect (ASD).
 Agitating saline or synthetic contrast create microbubbles. These are very reflective,
 38
---- Страница 50 ---
+
 Understanding the echocardiogram
 Normal ranges for measures of systolic and diastolic function
 Echocardiography
@@ -1369,7 +1327,7 @@ dysfunction, to rule out the heart as a thromboembolic source, and to characteri
 murmurs. The approximate normal values for various cardiac structures are
 described in Table 1.
 39
---- Страница 51 ---
+
 Chapter 4
 Figures 5.E and A waves representing mitral flow in a healthy heart (E>A).
 Systolic dysfunction
@@ -1398,7 +1356,7 @@ When ischemia occurs, contractile abnormalities of segments of the myocardium
 can be detected by echo prior to the appearance of electrocardiogram (ECG)
 changes or symptoms. Therefore, echo can be a valuable tool in the diagnosis of
 40
---- Страница 52 ---
+
 Understanding the echocardiogram
 Mild or no aortic stenosis Severe aortic stenosis
 Area of effective
@@ -1439,7 +1397,7 @@ As with aortic regurgitation, mitral regurgitation is assessed using CFM. The
 severity of mitral regurgitation is commonly reported as the area of the regurgitant
 jet expressed as a percentage of the area of the left atrium.
 41
---- Страница 53 ---
+
 Chapter 4
 Mild mitral stenosis Severe mitral stenosis
 Area of effective
@@ -1475,15 +1433,15 @@ suspected cases. The classic features are asymmetrical hypertrophy of the
 interventricular septum and anterior movement of the MV in systole. LV function
 is normal, and there may be dynamic LV outflow tract obstruction.
 42
---- Страница 54 ---
+
 Understanding the echocardiogram
 Further reading
 Chambers JB. Clinical Echocardiography. London: BMJ Books, 1995.
 Feigenbaum HMD. Echocardiography, 5th edn. Philadelphia: Lea & Febiger, 1994.
 43
---- Страница 55 ---
+
 44
---- Страница 56 ---
+
 Chapter 5
 Coronary artery disease
 Background
@@ -1517,7 +1475,7 @@ first to link symptoms in living patients with coronary artery disease, and to
 suggest that patients can survive complete blockage. These ideas were radical
 and new and (not surprisingly) no one believed him.
 45
---- Страница 57 ---
+
 Chapter 5
 Stable Unstable Ruptured
 Abundant Thick fibrous Abundant Thin fibrous
@@ -1553,7 +1511,7 @@ of myocardial damage” section), plus at least one of the following:
 • ST-segment elevation or depression on the ECG
 • coronary artery intervention (eg, angioplasty)
 46
---- Страница 58 ---
+
 Coronary artery disease
 ANGINA PECTORIS
 William Heberden defined angina pectoris in 1768 and provided a clear
@@ -1592,7 +1550,7 @@ pain resulting from exercise is rarely biliary. It may be difficult to different
 esophageal spasm from cardiac pain as they are both improved by nitrate.
 Other noncardiac causes to consider are musculoskeletal, pericardial, and pleural.
 47
---- Страница 59 ---
+
 Chapter 5
 Major independent Predisposing Possible risk factors
 risk factors risk factors
@@ -1633,7 +1591,7 @@ Risk factor assessment and management are central to the care of cardiac patient
 The major independent and predisposing risk factors (see Tables 2 and3) should
 be documented for every patient, and it is useful to include them in every referral.
 48
---- Страница 60 ---
+
 Coronary artery disease
 Lifestyle Biochemical or Personal
 physiological characteristics
@@ -1682,7 +1640,7 @@ indicated. Helping patients to stop smoking is an extremely worthwhile endeavor.
 The risk tables (see Figures 2 and3) show just how much there is to be gained by
 changing smoking status.
 49
---- Страница 61 ---
+
 Chapter 5
 Men Women
 Nonsmoker Smoker Nonsmoker Smoker
@@ -1731,7 +1689,7 @@ mm(
 erusserp
 doolb
 cilotsyS
---- Страница 62 ---
+
 Coronary artery disease
 Men with diabetes Women with diabetes
 Nonsmoker Smoker Nonsmoker Smoker
@@ -1781,7 +1739,7 @@ mm(
 erusserp
 doolb
 cilotsyS
---- Страница 63 ---
+
 Chapter 5
 Basic science
 Exercise training exerts many beneficial changes at the cellular and molecular level.
@@ -1821,7 +1779,7 @@ It can help them to:
 • sleep better
 • take a break from their normal routine
 52
---- Страница 64 ---
+
 Coronary artery disease
 With these benefits, it is surprising that anyone needs to be persuaded to exercise.
 Major bodies, led by the American College of Sports Medicine, recommend
@@ -1863,7 +1821,7 @@ taken) to identify whether they are at high risk, ie, ST segment change or new l
 bundle branch block (LBBB). This facilitates prompt referral when necessary and,
 for thrombolysis, a door-to-needle time of less than 30 minutes. However, the ECG
 53
---- Страница 65 ---
+
 Chapter 5
 is not absolute– ST-segment elevation is present in only 50% of enzyme-confirmed
 MIs (see “Markers of myocardial damage” section).
@@ -1900,7 +1858,7 @@ reduce the heart rate. However, verapamil should not be used with b-blockers,
 which block the action of sympathetic hormones (resulting in a lower heart rate
 and blood pressure) (see Chapter 6, Hypertension).
 54
---- Страница 66 ---
+
 Coronary artery disease
 Potassium-channel openers
 Potassium-channel openers, such as nicorandil, are a new class of agents for the
@@ -1938,7 +1896,7 @@ Elevated concentrations of lipid (hyperlipidemia) can lead to the development of
 atherosclerosis and CAD. VLDLs and LDLs are atherogenic lipoproteins, whereas
 HDL concentrations are inversely related to the incidence of CAD. Hence,
 55
---- Страница 67 ---
+
 Chapter 5
 Intestine
 Liver
@@ -1978,7 +1936,7 @@ from cholesterol
 • fibrates, which reduce the level of VLDL by increasing the activity
 of the VLDL-hydrolyzing enzyme LPL
 56
---- Страница 68 ---
+
 Coronary artery disease
 Guidelines for the use of lipid-lowering therapy have become more aggressive over
 the past few years following the results of major trials showing mortality benefit for
@@ -2018,7 +1976,7 @@ to a set protocol from rest to maximum exertion, which should be reached in
 Robert Bruce and bears his name (see Figure 5). There are, however, good reasons
 to consider a protocol that is individualized for each patient. Diagnostic exercise
 57
---- Страница 69 ---
+
 Chapter 5
 (a) Gradient (%) 10 12 14 16 18
 Speed (km/h) 2.7 4.0 5.4 6.7 8.0
@@ -2055,7 +2013,7 @@ the sensitivity and specificity to >90% (see Figure 6)
 • patients without a clear diagnosis from the exercise tolerance
 test should have another noninvasive test
 58
---- Страница 70 ---
+
 Coronary artery disease
 Contraindications to Reasons for stopping
 exercise testing an exercise test
@@ -2096,7 +2054,7 @@ Nuclear cardiology
 Isotopes such as thallium-201 or technetium (Tc)-99m can be used to provide
 information on cardiac function.
 59
---- Страница 71 ---
+
 Chapter 5
 ST-segment Ischemia- Angina during Prognosis Duration of
 deviation during reading exercise exercise
@@ -2142,7 +2100,7 @@ Isotopes are also used in ventriculography. Estimates of LV function arrived at 
 this imaging technique are more accurate and reproducible than those resulting
 from echo. Consequently, ventriculography is indicated in:
 60
---- Страница 72 ---
+
 Coronary artery disease
 Suspicion of
 coronary disease
@@ -2171,7 +2129,7 @@ Ultrasound is used to detect the difference in wall movement between ischemic
 and nonischemic myocardium (nonischemic myocardium moves less).
 Furthermore, the location of the wall-motion abnormalities enables the coronary
 61
---- Страница 73 ---
+
 Chapter 5
 disease pattern to be predicted – this is not possible from ST-segment depression
 on an exercise ECG. Stress echo is thus indicated when:
@@ -2210,7 +2168,7 @@ and good views can be imaged and processed in under 30seconds
 stress – can be achieved with a single breath-hold and the
 circumferential shortening calculated
 62
---- Страница 74 ---
+
 Coronary artery disease
 • wall-motion abnormalities can be assessed using tagging techniques
 • perfusion imaging can be carried out with a single breath-hold
@@ -2250,7 +2208,7 @@ screen – only by using a mirror. A pioneer of cardiology, he published his pap
 in Klinische Wochenschrift in 1929 and, although he catheterized only one
 patient’s heart, he went on to catheterize his own heart another eight times.
 63
---- Страница 75 ---
+
 Chapter 5
 Contrast flow TIMI grade
 Prompt anterograde flow and rapid clearing 3
@@ -2288,7 +2246,7 @@ of damage, are elevated following approximately 40% of procedures.
 (Note that, in unstable angina, the benefit of GPIIb/IIIa inhibitors is
 not limited to those with elevated troponin levels.)
 64
---- Страница 76 ---
+
 Coronary artery disease
 Deployed stent
 Guidewire
@@ -2311,7 +2269,7 @@ or other arterial circulations with consequent ischemia or stroke
 • ventricular dysrhythmias, which are seen and may even cause death
 in the setting of left main stem disease
 65
---- Страница 77 ---
+
 Chapter 5
 THE FIRST HUMAN CORONARY ANGIOGRAM
 The first human coronary angiogram was, in fact, carried out by mistake by
@@ -2353,7 +2311,7 @@ the section of the heart that is to be operated on is stabilized locally by the 
 (vacuum-operated suction clamps) of a device known as an octopus. Another
 technique is minimally invasive bypass, which uses small incisions and LIMA grafts.
 66
---- Страница 78 ---
+
 Coronary artery disease
 Left internal
 mammary graft
@@ -2393,7 +2351,7 @@ Most cardiologists believe that new trials will demonstrate a mortality benefit 
 coronary stenting, possibly for three-vessel disease and perhaps even over and
 above that of bypass.
 67
---- Страница 79 ---
+
 Chapter 5
 Marker Initial Peak Return to Notes
 rise normal
@@ -2435,7 +2393,7 @@ most commonly used markers for myocardial damage are outlined in Table 7 and
 Figure 10. Of the markers in Table 7, troponin I or T are the most specific and
 sensitive markers to rule acute MI out or in.
 68
---- Страница 80 ---
+
 Coronary artery disease
 7
 Myoglobin
@@ -2476,7 +2434,7 @@ fo
 timil
 reppU
 x
---- Страница 81 ---
+
 Chapter 5
 Myocardial infarction
 If MI is confirmed by history and ST elevation (1 mm in limb leads, 2 mm in chest
@@ -2516,7 +2474,7 @@ mortality benefit is only 1% above streptokinase.
 Intracranial hemorrhage (ICH) can be an important complication of thrombolysis.
 Since heparin is associated with an increased risk of ICH (streptokinase treatment
 70
---- Страница 82 ---
+
 Coronary artery disease
 has a lower rate of ICH when it is administered without heparin), there is particular
 concern with respect to the administration of tPA (as it is usually given with
@@ -2554,7 +2512,7 @@ Relative contraindications are:
 • probable intracardiac thrombus (eg, atrial fibrillation with mitral stenosis)
 • active peptic ulcer
 71
---- Страница 83 ---
+
 Chapter 5
 Basic science
 Atherosclerosis is initiated by a combination of circulating factors, such as cholesterol,
@@ -2592,7 +2550,7 @@ Angiotensin-converting enzyme inhibitors and b-blockers are given within
 the first 24 hours post-MI (in the absence of hypotension or other specific
 contraindications). However, although there is clear evidence for the benefit of each
 72
---- Страница 84 ---
+
 Coronary artery disease
 Intima Internal elastic External elastic Medial Adventitia
 lamina lamina layer
@@ -2615,7 +2573,7 @@ cerebrovascular complications (2%–3%) by more than half. Thus, it is
 recommended for up to 6 months following infarction, or longer if the thrombus
 is still nonlaminar on echo.
 73
---- Страница 85 ---
+
 Chapter 5
 Refer with confidence
 Practices vary enormously from center to center, but it is still common for hospital
@@ -2652,7 +2610,7 @@ enormous. The dramatic effect of cardiac rehabilitation is thought to be due to
 improvements in lipid profile, endothelial function, body composition, autonomic
 tone, fibrinolysis, and psychological well-being.
 74
---- Страница 86 ---
+
 Coronary artery disease
 Elements of a cardiac rehabilitation program
 Initial evaluation
@@ -2690,7 +2648,7 @@ Circulation1999;99:2829–48.
 Grundy S, Balady GH, Criqui et al. Primary Prevention of Coronary Heart Disease: Guidance
 from Framingham. Circulation1998;97:1876–87.
 75
---- Страница 87 ---
+
 Chapter 5
 Grundy SM, Pasternak R, Greenland P. Assessment of cardiovascular risk by use of multiple
 risk factor assessment equations. Circulation1999;100:1481–92.
@@ -2715,7 +2673,7 @@ on coronary prevention. Eur Heart J1998;19:1434–503.
 Wood D, Durrington P, Poulter N et al. Joint British recommendations on prevention of
 coronary heart disease in clinical practice. Heart1998;80(Suppl. 2):1–29.
 76
---- Страница 88 ---
+
 Chapter 6
 Hypertension
 Background
@@ -2746,7 +2704,7 @@ Moderate hypertension 150–170/100–110 145–165/95–105
 Severe hypertension >170/110 >165/105
 Table 1.Guidelines for threshold values between normal and high blood pressure.
 77
---- Страница 89 ---
+
 Chapter 6
 variation, and variation due to chance stress (eg, stress due to being in a traffic jam
 on the way to the clinic). Consequently, it is recommended that at least three
@@ -2783,7 +2741,7 @@ activity should also be taken. More specific to hypertension, caffeine and alcoh
 intake should be recorded and some insight into diet and lifestyle stress should
 be acquired.
 78
---- Страница 90 ---
+
 Hypertension
 Causes of secondary hypertension
 Renal
@@ -2819,7 +2777,7 @@ patient’s heart level. Readings should be taken manually in a standardized way
 complete disappearance of sounds). The use of a large-diameter cuff is essential in
 those with large arms.
 79
---- Страница 91 ---
+
 Chapter 6
 The general appearance of the patient may suggest Cushing’s syndrome, a
 thyroid disorder, polycystic ovarian disease, sleep apnea, or acromegaly. All
@@ -2858,7 +2816,7 @@ sought in all patients. Dip-stick urinalysis, tests for urea and electrolytes, a
 renal ultrasound can reveal renal insufficiency. Left ventricular hypertrophy (LVH)
 can be readily detected by electrocardiography or echocardiography (a chest x-ray
 80
---- Страница 92 ---
+
 Hypertension
 Stage Signs
 I Arteriolar narrowing and tortuosity
@@ -2893,7 +2851,7 @@ Lifestyle changes are important in the management of patients with hypertension
 and can be used alone during an initial period for those with mild hypertension
 and low risk.
 81
---- Страница 93 ---
+
 Chapter 6
 Measure Relative Organ Prognosis/
 risk↓↓ protection improvement
@@ -2933,7 +2891,7 @@ There are four major groups of drug treatments for hypertension and several less
 frequently used classes. The sites of action of these antihypertensive agents are
 shown in Figure 1.
 82
---- Страница 94 ---
+
 Hypertension
 Figure 1. Major physiological mechanisms of antihypertensives. See Figure 2for details
 of centrally acting hypertensives. ACE: angiotensin-converting enzyme; AT: angiotensin.
@@ -2944,7 +2902,7 @@ reduce mortality. They work by reducing cardiac output via negative inotropic an
 chronotropic actions. In addition, they block sympathetic nervous system
 stimulation of renin release by juxtaglomerular cells. As with all medications, their
 83
---- Страница 95 ---
+
 Chapter 6
 use is limited primarily by adverse effects. Asthma is generally considered to be
 an absolute contraindication, even with agents selective for the cardiovascular
@@ -2985,7 +2943,7 @@ become unpopular following reports of increased risk of MI at high doses.
 Longer-acting calcium-channel blockers are useful antihypertensives, especially as
 they are lipid-neutral. Side effects include ankle edema, headache, and flushing.
 84
---- Страница 96 ---
+
 Hypertension
 Renin/angiotensin system antagonists
 Angiotensin is a potent vasoconstrictor, but also increases activity of the
@@ -3030,7 +2988,7 @@ pathway, can be avoided by the use of selective imidazoline type 1 receptoragent
 Early results suggest these agents are well tolerated, with a dry mouth being the only
 frequently reported unwanted effect (13% at 3 weeks, 2% at 12 months).
 85
---- Страница 97 ---
+
 Chapter 6
 Methyldopa Clonidine Moxonidine
 Imidazoline
@@ -3061,7 +3019,7 @@ The question as to the relative importance of systolic and diastolic BP is commo
 management of hypertension. For many years it was felt that as systolic hypertension
 was more common in the elderly it was an inevitable part of aging and arteriolar
 86
---- Страница 98 ---
+
 Hypertension
 Diuretics b-blockers ACE
 inhibitors
@@ -3102,7 +3060,7 @@ It is a myth that hypertension is “normal” in the elderly and they have less
 because of a shorter life expectancy. In fact, the absolute benefit from treatment of
 the elderly is much greater than that for younger hypertensives because of their
 87
---- Страница 99 ---
+
 Chapter 6
 larger absolute risk. However, it is true that the prevalence of hypertension is higher
 amongst the elderly. Optimum BP levels are the same for older people as they are
@@ -3143,7 +3101,7 @@ two from psychogenic causes is a challenge. However, it is made easier by taking
 full history: ask about desire, morning erections, erections during masturbation,
 the exact timing of onset, life stress, sexual history, alcohol, and nonprescription
 88
---- Страница 100 ---
+
 Hypertension
 medication. Palpation of the penis for Peyronie’s disease and the testes for atrophy
 should be added to the routine examination. If ED clearly relates to one particular
@@ -3180,7 +3138,7 @@ would not be uncommon for the full work-up to be done from the beginning in a
 special center. Clearly, any suspicion of accelerated hypertension should result in
 immediate referral.
 89
---- Страница 101 ---
+
 Chapter 6
 Basic science
 BP is a normally distributed, polygenic trait. That is, an individual’s BP results from the
@@ -3220,7 +3178,7 @@ visual disturbance, seizures, and coma), cardiac failure, and rapidly deteriorat
 renal function. The vascular lesion associated with malignant hypertension is
 fibrinoid necrosis of the walls of small arteries and arterioles. The prognosis is very
 90
---- Страница 102 ---
+
 Hypertension
 poor: untreated, 90% of patients die within 1 year, and even with treatment the
 5-year survival rate is only 60%.
@@ -3245,12 +3203,12 @@ essential hypertension. Expert Opin Pharmacother 2000;1:675–82.
 Ramsay L, Williams B, Johnston G et al. Guidelines for management of hypertension: report
 of the third working party of the British Hypertension Society. J Hum Hypertens
 1999;13:569–92.
-The American Heart Association guidelines are available at http://www.americanheart.org.
-European guidelines are available at http://www.escardio.org.
+The American Heart Association guidelines are available at 
+European guidelines are available at 
 91
---- Страница 103 ---
+
 92
---- Страница 104 ---
+
 Chapter 7
 Heart failure
 Background
@@ -3283,7 +3241,7 @@ Constrictive pericarditis Paget’s disease
 Alcohol excess Acromegaly
 Table 1.Causes of heart failure.
 93
---- Страница 105 ---
+
 Chapter 7
 System Change
 Heart Left ventricular hypertrophy
@@ -3322,7 +3280,7 @@ attempting to “overdrive” the failing heart. The exception is acute decompen
 (acute heart failure, pulmonary edema, cardiogenic shock), where the focus is on
 short-term survival; although the primary aim is still the reduction of preload and
 94
---- Страница 106 ---
+
 Heart failure
 (a) The old treatment paradigm
 Fluid
@@ -3362,7 +3320,7 @@ throughout. In this situation, two factors are helpful: the JVP and overt
 sympathetic overactivation (cold peripheries and profuse sweating).
 95
 ecroF
---- Страница 107 ---
+
 Chapter 7
 Chronic heart failure
 Reduced cardiac output
@@ -3387,7 +3345,7 @@ the following signs are seen (see Figure 3):
 • pleural effusions
 • Kerley B lines (lymphatics)
 96
---- Страница 108 ---
+
 Heart failure
 (a)
 Prominent
@@ -3421,7 +3379,7 @@ pulse is of full volume, investigative blood tests for anemia and thyroid functi
 should be carried out. If echo suggests restrictive cardiomyopathy, further tests can
 be carried out for iron storage disease, amyloidosis, or sarcoidosis.
 97
---- Страница 109 ---
+
 Chapter 7
 Figure 4.Cardiomegaly and pleural effusion (on the right
 side) in a patient with heart failure.
@@ -3446,7 +3404,7 @@ patient is in atrial fibrillation, slowing the ventricular rate may be more effe
 a combination of more general measures. Similarly, if a patient has suffered an MI
 then thrombolysis or intervention may be the key to their recovery.
 98
---- Страница 110 ---
+
 Heart failure
 (a) (b)
 Diastolic
@@ -3479,7 +3437,7 @@ ejection at the point of balloon deflation (it creates a negative pressure
 which helps to “suck” the blood out)
 Contraindications to IABP include severe aortic regurgitation and aortic dissection.
 99
---- Страница 111 ---
+
 Chapter 7
 Class Classification
 I No limitation of physical activity. No shortness of breath, fatigue, or
@@ -3519,7 +3477,7 @@ Treatment
 The first step in the management of CHF is patient education. It is easy for physicians
 to forget (since they use the term every day) that, to most patients, heart “failure”
 100
---- Страница 112 ---
+
 Heart failure
 HISTORICAL HEARTS
 Hippocrates believed that the left side of the heart and its associated arteries
@@ -3558,7 +3516,7 @@ Metolazone is a thiazide-like diuretic that has a powerful synergistic action wi
 loop diuretics, so should be used in the community only as a last resort, for short
 periods, and be accompanied by daily electrolyte checks.
 101
---- Страница 113 ---
+
 Chapter 7
 Spironolactone
 Thiazide
@@ -3585,7 +3543,7 @@ definition of heart failure was provided by Theophile Bonet (1620–1689), who
 published clinico-pathological studies linking the effects of valvular disease and
 cardiac chamber size to the clinical features of dyspnea and edema.
 102
---- Страница 114 ---
+
 Heart failure
 Class Compound Mechanism of action
 Loop Furosemide Inhibit triporter pump in thick ascending
@@ -3624,7 +3582,7 @@ filtration rate. Reprinted with permission from the European Society of Cardiolo
 of the Working Group on Heart Failure of the European Society of Cardiology. The treatment
 of heart failure. Eur Heart J 1997;18:736–53).
 103
---- Страница 115 ---
+
 Chapter 7
 The recommended procedure for starting an ACEI
 • Avoid excessive diuresis before treatment. Stop diuretics, if being used, for 24hours
@@ -3665,7 +3623,7 @@ result from b-blockade resulting in many different b-blocking agents being used,
 recent trials have suggested there may be effects over and above that of b-blockade.
 Beneficial effects of b-blockade include a reduction in heart rate (which increases
 104
---- Страница 116 ---
+
 Heart failure
 Digoxin
 Na+ Ca2+
@@ -3698,7 +3656,7 @@ isosorbide dinitrate) has been tested with digoxin and diuretics in several larg
 and has been associated with mortality reductions in heart failure. However, the advent
 of ARBs is likely to offer a better alternative to ACEIs than this drug combination.
 105
---- Страница 117 ---
+
 Chapter 7
 NYHA Affect outcome Symptom
 class control
@@ -3734,7 +3692,7 @@ beneficial in stable, mild to moderate heart failure. Like most other aspects of
 treatment of heart failure, today’s advice (exercise) is the opposite of that from
 30years ago (bed rest).
 106
---- Страница 118 ---
+
 Heart failure
 EARLY TREATMENTS
 The first breakthrough in the treatment of heart failure was by William
@@ -3774,7 +3732,7 @@ radionuclide ventriculography)
 2
 to have a better prognosis without surgery)
 107
---- Страница 119 ---
+
 Chapter 7
 Contraindications center on comorbidities, eg, vasculopathy, diabetes mellitus
 with target-organ damage, or pulmonary hypertension. In addition, few centers will
@@ -3813,7 +3771,7 @@ it can be managed by gradual withdrawal. Morphine can be given at a dose of
 to take account of interim dosing. Control of constipation should always
 accompany chronic opioid treatment.
 108
---- Страница 120 ---
+
 Heart failure
 Further reading
 Jong P, Demers C, McKelvie RS et al. Angiotensin receptor blockers in heart failure: meta-
@@ -3826,9 +3784,9 @@ Nolan J. A historical review of heart failure. Scott Med J1993;38:53–7.
 Task Force of the Working Group on Heart Failure of the European Society of Cardiology.
 The treatment of heart failure. Eur Heart J1997;18:736–53.
 109
---- Страница 121 ---
+
 110
---- Страница 122 ---
+
 Chapter 8
 Arrhythmia
 Introduction
@@ -3861,7 +3819,7 @@ Bradycardia is defined as heart rate <60 bpm, regardless of the cause. However,
 this is not a particularly helpful definition as it is well known that elite athletes can
 have “normal” heart rates as low as 30 bpm. In general, bradycardia needs
 111
---- Страница 123 ---
+
 Chapter 8
 Pulse Most likely diagnosis ECG to rule out
 Regular and slow Sinus rhythm Complete heart block
@@ -3891,7 +3849,7 @@ presyncope or syncope. If there is hemodynamic compromise and interruption of
 cerebral perfusion is prolonged, grand mal seizures may result (Stokes–Adams
 attacks). The causes of bradycardia are outlined in Table 2.
 112
---- Страница 124 ---
+
 Arrhythmia
 Causes of bradycardia
 Physiological Sinus node disease
@@ -3929,7 +3887,7 @@ escape, sinus arrest (asystolic pause), atrial tachycardia, atrial flutter, and 
 fibrillation (AF). Commonly, there is alternating bradycardia–tachycardia with a
 normal sinus rate or bradycardia between attacks. Hence, the diagnostic landmarks
 113
---- Страница 125 ---
+
 Chapter 8
 are palpitations (tachycardia), dizziness, and syncope (bradycardia), although the
 disease is often asymptomatic.
@@ -3969,7 +3927,7 @@ obtained. Assessment of a syncopal event requires information from both the pati
 and a witness; the pattern can be helpful (see Table 4). A baseline 12-lead ECG may
 suggest possible causes such as ischemia, Wolff–Parkinson–White (WPW) syndrome,
 114
---- Страница 126 ---
+
 Arrhythmia
 Type of disturbance Examples
 Mechanical Cardiac valvular disease
@@ -4010,7 +3968,7 @@ revealing myocardial ischemia (substrate for ventricular tachyarrhythmias),
 catecholamine-sensitive tachycardias, exercise-induced AV block,
 and chronotropic incompetence (SND).
 115
---- Страница 127 ---
+
 Chapter 8
 Arrhythmia Vasovagal Neurogenic
 Premonitory Often none Cough, micturition, Headache, confusion,
@@ -4041,7 +3999,7 @@ ventricle. This stimulates the mechanoreceptors in the ventricular wall, which l
 and thus bradycardia and hypotension. This reflex is named Bezold–Jarisch after
 those who first described it (see Figure 3).
 116
---- Страница 128 ---
+
 Arrhythmia
 C
 fibers
@@ -4071,7 +4029,7 @@ Atrioventricular block
 AV block occurs when the electrical impulse from the atria to the ventricles is
 delayed or blocked.
 117
---- Страница 129 ---
+
 Chapter 8
 First-degree AV block
 This is where there is a prolonged PR interval of >200 milliseconds (5 small
@@ -4110,14 +4068,14 @@ drugs given to control the ventricular rate. In these cases, consideration shoul
 given to the implantation of a pacemaker to protect against bradycardia while still
 allowing pharmacological control of a rapid ventricular rate.
 118
---- Страница 130 ---
+
 Arrhythmia
 Figure 4.Electrocardiogram of first-degree atrioventricular block.
 Figure 5.Electrocardiogram of type I second-degree atrioventricular block (Wenckebach).
 Figure 6.Electrocardiogram of type II second-degree atrioventricular block (Mobitz II).
 Figure 7.Electrocardiogram of third-degree atrioventricular block.
 119
---- Страница 131 ---
+
 Chapter 8
 Left bundle branch block Right bundle branch block
 V1 V6 V1 V6
@@ -4149,7 +4107,7 @@ right bundleis included in the list of three fascicles:
 • left posterior fascicle
 • right bundle branch
 120
---- Страница 132 ---
+
 Arrhythmia
 Bundle of His
 Posterior fascicular block
@@ -4177,7 +4135,7 @@ conduction). It usually refers to LBBB + a long PR interval. Although trifascicu
 block is not strictly speaking an indication for permanent pacing, some centers
 carry this out on the basis that it must reflect extensive conducting tissue damage.
 121
---- Страница 133 ---
+
 CH7_FIG10
 Chapter 8
 I aVR V1 V4
@@ -4203,7 +4161,7 @@ making your own diagnosis can only help the situation. The key questions are:
 More sophisticated interpretation of the ECG is helpful, but the answers to these
 key questions will be sufficient to guide the immediate management (see Table5).
 122
---- Страница 134 ---
+
 Arrhythmia
 I aVR V1 V4
 II aVL V2 V5
@@ -4229,7 +4187,7 @@ effective in 70% of cases. For refractory cases, creation of complete heart bloc
 radiofrequency catheter ablation with implantation of a permanent dual-chamber
 pacemaker provides control of the rate and avoids drug toxicity.
 123
---- Страница 135 ---
+
 Chapter 8
 Shape of complex Diagnosis
 Irregular narrow complex Atrial fibrillation
@@ -4261,7 +4219,7 @@ forth for up to 5seconds (check for bruits first)
 • Valsalva maneuver – the patient should take a deep breath, then attempt
 to exhale forcefully against a closed glottis for up to 15seconds
 124
---- Страница 136 ---
+
 Arrhythmia
 I aVR V1 V4
 II aVL V2 V5
@@ -4289,7 +4247,7 @@ Pre-excitation is defined as an early depolarization of the ventricular myocardi
 that occurs prior to any conduction through the AV node. The most common
 condition in which this is seen is WPW syndrome, where there is an accessory AV
 125
---- Страница 137 ---
+
 Chapter 8
 (a) Pre-excitation
 SR VT
@@ -4320,7 +4278,7 @@ product of fusion of the two distinct activation wavefronts. Since conduction ov
 the accessory pathway is faster, the initial part of the QRS complex represents
 ventricular activation through this route (delta wave – see Figure 15).
 126
---- Страница 138 ---
+
 Arrhythmia
 I aVR V1 V4
 II aVL V2 V5
@@ -4354,7 +4312,7 @@ White was a giant of cardiology – he studied the ECG with Thomas Lewis and
 was a strong advocate of heart disease prevention through exercise, especially
 bicycle exercise. A bike path in Boston is named after him.
 127
---- Страница 139 ---
+
 Chapter 8
 Figure 16.Electrocardiogram of ventricular tachycardia.
 Ventricular tachycardia
@@ -4384,7 +4342,7 @@ therapeutic options are:
 turned up above the VT rate [usually ×3] to “capture” ventricular
 depolarization, and then gradually turned down)
 128
---- Страница 140 ---
+
 Arrhythmia
 Figure 17.Electrocardiogram showing torsades de pointes.
 The chronic investigation and management of VT will be carried out by a specialist
@@ -4415,7 +4373,7 @@ a prolonged QT interval. The ECG exhibits a continuously changing axis (hence,
 “turning of points”; see Figure 17), which can look like ventricular fibrillation
 (VF). The prolonged QT interval can be caused by:
 129
---- Страница 141 ---
+
 Chapter 8
 Definition Duration of atrial fibrillation
 Paroxysmal Up to 7 days
@@ -4454,7 +4412,7 @@ The patient with newly discovered AF
 You will often be faced with a patient presenting with or without symptoms of AF,
 and an ECG showing the classic irregular rhythm with a flat or irregular baseline
 130
---- Страница 142 ---
+
 Arrhythmia
 Figure 18.Electrocardiogram of atrial fibrillation with irregular rhythm and absent P waves.
 (see Figure 18). The approach to management is guided, as before, by the clinical
@@ -4484,7 +4442,7 @@ If, several days following chronic treatment, patients remain in AF, there are t
 avenues of management: accept progression to permanent AF (and attend to rate
 control and anticoagulation) or attempt cardioversion.
 131
---- Страница 143 ---
+
 Chapter 8
 Newly discovered
 AF
@@ -4512,7 +4470,7 @@ fibrillation (AF). HF: heart failure. Reproduced with permission from the Europe
 of Cardiology (Fuster V, Ryden LE, Asinger RW. ACC/AHA/ESC Guidelines for the
 Managment of Patients with Atrial Fibrillation. Eur Heart J2001;22:1852–923).
 132
---- Страница 144 ---
+
 Arrhythmia
 Deciding between the two (the decision will often be in the hands of the
 cardiologist) is influenced by several factors:
@@ -4551,7 +4509,7 @@ cardioversion, patients should continue warfarin for at least 4 weeks. This is
 because the thromboembolic risk relates to “stunned” atria that do not resume
 normal mechanical function during this time.
 133
---- Страница 145 ---
+
 Chapter 8
 FAMOUS SCOTS
 The first insight into the mechanism of irregular pulse in atrial fibrillation was
@@ -4590,7 +4548,7 @@ although there is more effective atrial contraction in atrial flutter
 (which may explain the decreased incidence of thromboembolism),
 guidelines are similar to those for AF
 134
---- Страница 146 ---
+
 Arrhythmia
 Figure 20.Electrocardiogram of atrial flutter.
 Pacemakers
@@ -4621,7 +4579,7 @@ AV conduction is normal, no ventricular pacing will occur
 following a normal atrial contraction or a paced atrial contraction. The
 benefit of this – that ventricular contraction will “track” the increased
 135
---- Страница 147 ---
+
 Chapter 8
 Indication Pacemaker Clear consensus
 type for indication
@@ -4658,7 +4616,7 @@ that detect movement; changes in transthoracic impedance that can be used
 to detect changes in ventilation or RV filling; and QT sensors that respond to
 the shortening of the paced QT interval by catecholamines.
 136
---- Страница 148 ---
+
 Arrhythmia
 Paced Sensed Response Rate
 A A T R
@@ -4698,7 +4656,7 @@ artificial stimulation using mechanical or electrical means. In 1950, this led t
 Hopps’ invention of the world’s first cardiac pacemaker. His device was far too large
 to be implanted inside the human body – it was an external pacemaker.
 137
---- Страница 149 ---
+
 Chapter 8
 Once all the required tests are completed, the pacemaker pocket (in the fascia
 overlying the pectoral muscle) is created by blunt dissection and the wound sutured.
@@ -4736,7 +4694,7 @@ experience dizziness, and the solution is to upgrade the patient to a DDD pacema
 Finally, atrial-sensing pacemakers, eg, DDD, respond to atrial arrhythmia with
 tachycardic pacing. If this happens, it is possible to alter the program (to DDI or set
 138
---- Страница 150 ---
+
 Arrhythmia
 an upper rate limit) or use antiarrhythmic drugs. This problem can be avoided by
 using a mode-switching pacemaker that detects atrial arrhythmia and switches to VVI.
@@ -4774,7 +4732,7 @@ Implantable cardioverter defibrillators
 The natural evolution of pacemaker technology led, in the late 1960s, to the
 development of the AICD. Early versions were implanted abdominally under
 139
---- Страница 151 ---
+
 Chapter 8
 general anesthesia. These boxes, now barely bigger than a VVI pacemaker, are
 implanted under heavy sedation/light general anesthesia, and have revolutionized
@@ -4811,7 +4769,7 @@ The essence of the electrophysiological test is a measurement of the intracardia
 ECG: (1) during normal SR; (2) during an induced arrhythmia; and (3) following
 premature extrastimuli.
 140
---- Страница 152 ---
+
 Arrhythmia
 Potential indications for electrophysiology
 Sinus node dysfunction
@@ -4856,7 +4814,7 @@ Table 10.The Vaughan-Williams classification of antiarrhythmic drugs.
 AV: atrioventricular; MI: myocardial infarction; SVT: supraventricular tachycardia;
 ↑: increase in duration; ↓: decrease in duration; ↔: no change in duration.
 141
---- Страница 153 ---
+
 Chapter 8
 Inward
 Na+channels
@@ -4890,7 +4848,7 @@ and Figure 21 outlines the drugs used in the treatment of arrhythmia.
 )Vm(
 laitnetop
 enarbmeM
---- Страница 154 ---
+
 Arrhythmia
 Further reading
 Fuster V, Ryden LE, Asinger RW et al. ACC/AHA/ESC Guidelines for the Management of
@@ -4910,9 +4868,9 @@ contributions of Mackenzie, Lewis and Einthoven. Am J Cardiol1994;73:384–9.
 Wolff L, Parkinson J, White PD. Bundle-branch block with short P-R interval in healthy
 young people prone to paroxysmal tachyardia. Am Heart J1930;5:685.
 143
---- Страница 155 ---
+
 144
---- Страница 156 ---
+
 Chapter 9
 Valve disease
 Disease of the heart valves remains an important cause of morbidity and mortality
@@ -4943,7 +4901,7 @@ V Very loud with thrill
 VI Audible without a stethoscope
 Table 1.Grading of murmurs.
 145
---- Страница 157 ---
+
 Chapter 9
 In the elderly, it is important to differentiate between the common and benign
 aortic sclerosis and the less common and less benign aortic stenosis (AS). As
@@ -4978,7 +4936,7 @@ Physical signs
 • The carotid pulse is slow rising with reduced amplitude.
 • The venous pressure is usually normal until late in the disease.
 146
---- Страница 158 ---
+
 Valve disease
 Aortic stenosis Aortic regurgitation
 Signs Slow rising pulse Collapsing pulse
@@ -5015,7 +4973,7 @@ its normal size (the normal orifice is 3–4 cm2). AS is classed as:
 • moderate if the area is 1–1.5 cm2
 • severe if the area is <1 cm2
 147
---- Страница 159 ---
+
 Chapter 9
 THE INVENTION OF THE STETHOSCOPE
 “In the summer of 1816, Laennec was called to a young lady who presented the
@@ -5056,7 +5014,7 @@ valve replacement(AVR) – regardless of whether or not AS symptoms are evident.
 The merit of carrying out a concomitant AVR is less clear for those with mild or
 moderate AS.
 148
---- Страница 160 ---
+
 Valve disease
 Cardiac catheterization is only indicated in AS for two reasons: (1) to perform
 coronary angiography before AVR in patients with risk factors for CAD; (2) to
@@ -5095,7 +5053,7 @@ and harder against the fingers
 Place the stethoscope on the femoral pulse and occlude the artery distally.
 The turbulent flow will be picked up as a “to-and-fro” murmur
 149
---- Страница 161 ---
+
 Chapter 9
 • Quincke’s sign – capillary pulsation in the nail beds that is visible
 on applying gentle pressure to induce a degree of whitening
@@ -5133,7 +5091,7 @@ opens nor closes completely.
 • Dilatation of the aortic root resulting from aneurysm of the
 ascending aorta – this is commonly seen in Marfan’s syndrome.
 150
---- Страница 162 ---
+
 Valve disease
 • Dilatation of the aortic annulus can also result from connective tissue
 disease, such as ankylosing spondylitis, rheumatoid arthritis, Reiter’s
@@ -5172,7 +5130,7 @@ Radionuclide ventriculography should be used if the echo window is poor. Cardiac
 catheterization is only required in patients at risk of CAD prior to AVR or where
 other tests are equivocal.
 151
---- Страница 163 ---
+
 Chapter 9
 Asymptomatic patients with no LV dysfunction should be encouraged to
 participate in all forms of normal daily activity, including exercise (although lifting
@@ -5209,7 +5167,7 @@ Rheumatic heart disease is the most common cause of MS, although it pre-dates th
 symptoms by at least 10 years. Other acquired causes are rare – eg, annular calcification,
 endocarditis, or granulomatous infiltration in association with eosinophilia.
 152
---- Страница 164 ---
+
 Valve disease
 Anterior leaflet
 Anteromedial commissure
@@ -5232,7 +5190,7 @@ flow or a decrease in the diastolic filling time.
 The most common manifestation is breathlessness, but a reduction in exercise
 tolerance or symptoms of right-sided congestion can also occur. The typical
 153
---- Страница 165 ---
+
 Chapter 9
 Figure 3.Mitral stenosis with left atrial dilatation. This figure shows a
 thickened mital valve arrow. The spontaneous contrast is a good illustration
@@ -5266,7 +5224,7 @@ The disease takes a slow course with progressive acceleration later in life. In
 developed countries, the lag period from the time of rheumatic fever to the onset
 of symptoms is 20–40 years, and there is another 10 years before these symptoms
 154
---- Страница 166 ---
+
 Valve disease
 Typical physical signs of mitral stenosis
 Irregular pulse of atrial fibrillation
@@ -5296,7 +5254,7 @@ morphology (including hemodynamics and pulmonary artery pressure).
 Therapeutic options include MV repair (open/closed commissurotomy),
 MV replacement, and percutaneous valvotomy.
 155
---- Страница 167 ---
+
 Chapter 9
 Current recommendations for surgical therapy
 Percutaneous NYHA class II–IV symptoms, MVA <1.5 cm2, and no
@@ -5337,7 +5295,7 @@ is beneficial in those with MS who have neither AF nor a prior embolic event. Th
 frequency of embolic events does not seem to be related to the severity of MS, the
 size of the LA, or the presence of symptoms. There is some controversy over
 156
---- Страница 168 ---
+
 Valve disease
 (a) (b)
 Figure 5.(a) Transesophageal echocardiography showing a tear in the papillary muscle (the
@@ -5366,7 +5324,7 @@ The goal of medical therapy in acute severe MR is to diminish regurgitation,
 increase stroke volume, and reduce pulmonary congestion. As such, nitroprusside
 alone or in combination with dobutamine (if blood pressure is low) can be
 157
---- Страница 169 ---
+
 Chapter 9
 Figure 6.Echocardiogram showing a vegetation on the mitral valve (arrow).
 Clinical signs of chronic mitral regurgitation
@@ -5389,7 +5347,7 @@ are thickened, redundant, increased in area, and they prolapse into
 the LA in systole. The chordae may become elongated, thinned, and
 tortuous – predisposing to rupture.
 158
---- Страница 170 ---
+
 Valve disease
 Optimal sarcomere
 length
@@ -5432,7 +5390,7 @@ annually. Asymptomatic patients with severe MR should be followed up every
 159
 emulov
 ekortS
---- Страница 171 ---
+
 Chapter 9
 6–12 months and undergo echo to detect silent LV dysfunction. Exercise testing is
 useful to document changes in exercise tolerance.
@@ -5470,7 +5428,7 @@ such conditions, the heart rate is usually fast and the duration of MR long enou
 to compromise filling time and hence cardiac output. Although functional in
 origin, it can be hemodynamically significant.
 160
---- Страница 172 ---
+
 Valve disease
 ALFRED DE MUSSET
 “La bouche garde le silence,
@@ -5510,7 +5468,7 @@ to the second heart sound.
 Patients with these findings should be referred for echo assessment. Interestingly, there
 is no absolute consensus on criteria for diagnosing MVP on two-dimensional echo. The
 161
---- Страница 173 ---
+
 Chapter 9
 diagnosis should never be made on one view alone (especially if that is the 4-chamber
 view). Serial echos are not necessary unless there is a change in the clinical picture.
@@ -5550,7 +5508,7 @@ long-term outcome due to RV dysfunction and systemic venous congestion. The
 timing of surgery and the most suitable operation remain controversial, although
 chordal reconstruction and annuloplasty have become established in recent years.
 162
---- Страница 174 ---
+
 Valve disease
 Annuloplasty involves the use of a prosthetic ring to support the endogenous
 dilated annulus. Valve replacement is also possible.
@@ -5588,7 +5546,7 @@ associated with increased risk, either to the mother or fetus:
 • mechanical prosthetic valves requiring anticoagulation
 • AR in Marfan’s syndrome
 163
---- Страница 175 ---
+
 Chapter 9
 Although risk is increased, many patients with valvular abnormalities can be
 managed through pregnancy with conservative medical measures aimed at
@@ -5621,7 +5579,7 @@ complications. The evidence base for decision making is not good, and the
 decision should be made in partnership with the patient after explaining the risks
 involved. Most change from warfarin to heparin at week 36 in anticipation of labor.
 164
---- Страница 176 ---
+
 Valve disease
 Further reading
 Guidelines for the management of patients with valvular heart disease. Executive summary:
@@ -5633,9 +5591,9 @@ physical examination technique. Am Heart J2001;141:500–6.
 Shry EA, Smithers MA, Mascette AM. Auscultation versus echocardiography in a healthy
 population with precordial murmur. Am J Cardiol2001;87:1428–30.
 165
---- Страница 177 ---
+
 166
---- Страница 178 ---
+
 Chapter 10
 Infective endocarditis
 Background
@@ -5668,7 +5626,7 @@ on palms or soles
 • petechiae (embolic or vasculitic)
 • clubbing – in long-standing disease
 167
---- Страница 179 ---
+
 Chapter 10
 Figure 1.Osler’s nodes on a finger and foot.
 Eyes
@@ -5694,7 +5652,7 @@ chiefly in the skin of the hands and feet, the nodosités cutanées éphémerès
 French… The commonest situation is near the tip of the finger, which may be
 slightly swollen.”
 168
---- Страница 180 ---
+
 Infective endocarditis
 If any of these signs occur together with a fever, the patient should be urgently
 referred to a cardiologist for blood cultures and echocardiography – the level of risk
@@ -5731,7 +5689,7 @@ S. milleri, S. mutans, S. mitior) make up the normal bacterial flora of the phar
 and upper respiratory tract. Tonsillectomy, dental extraction, and dental cleaning
 can result in bacteremia and lead to infection.
 169
---- Страница 181 ---
+
 Chapter 10
 The Duke criteria for the diagnosis of IE
 Major criteria
@@ -5777,7 +5735,7 @@ Reproduced with permission from Excerpta Medica (Durack DT, Lukes AS, Bright DK.
 New criteria for diagnosis of infective endocarditis: utilization of specific echocardiographic
 findings. Duke Endocarditis Service. Am J Med1994;96:200–9). ©1994 Excerpta Medica.
 170
---- Страница 182 ---
+
 Infective endocarditis
 WILLIAM OSLER, 1919:
 “Observe, record, tabulate, communicate. Use your five senses.”
@@ -5817,7 +5775,7 @@ Histoplasma, and Brucellainfections are rare, but are found, in particular, in I
 alcoholics, and patients with prosthetic heart valves. Coxiella burnetii(the causative
 agent of Q fever) can also cause a subacute infection.
 171
---- Страница 183 ---
+
 Chapter 10
 Figure 2.Mitral valve vegetation.
 Pathogenesis
@@ -5844,7 +5802,7 @@ presence of a VSD, vegetations can be found on the right ventricular side of the
 VSD, on the tricuspid valve, or where the jet impinges on the right ventricular
 wall. Vegetations found in coarctation usually occur distal to the obstruction.
 172
---- Страница 184 ---
+
 Infective endocarditis
 Finally, in children, cyanotic heart disease is still the most common cause of
 endocarditis, and the risk does not diminish after surgical repair as prostheses
@@ -5884,7 +5842,7 @@ efforts have to be made to collect and culture specimens as carefully as possibl
 This ensures the correct identification of the causative micro-organisms, and
 ultimately the correct use of antibiotics.
 173
---- Страница 185 ---
+
 Chapter 10
 Figure 3.Transesophageal echo for 1 mm lesions.
 Echocardiography
@@ -5912,7 +5870,7 @@ Antibiotics
 If, following blood cultures, the diagnosis is secure, high-dose IV antibiotics
 should be started immediately. It is becoming increasingly common to insert a
 174
---- Страница 186 ---
+
 Infective endocarditis
 tunneled central line to facilitate several weeks of IV treatment without the need
 for repeated cannulation – with the pain and attendant risk of secondary infection
@@ -5950,7 +5908,7 @@ Surgical intervention
 Surgical intervention may be required in patients with persistent fever that is
 resistant to medical therapy. Surgery is also indicated in the following conditions:
 175
---- Страница 187 ---
+
 Chapter 10
 • valve obstruction
 • prosthetic-valve endocarditis caused by S.aureusor resistant organisms
@@ -5977,7 +5935,7 @@ All patients at risk for IE should receive antibiotic cover for invasive procedu
 Tables 2 and 3, overleaf). Spontaneous bacteremia is also common as a result of
 poor dental hygiene, and susceptible patients need to be made aware of this.
 176
---- Страница 188 ---
+
 Infective endocarditis
 Situation Agenta Regimen
 Standard general Amoxicillin Adults: 2g; children: 50mg/kg
@@ -6005,7 +5963,7 @@ with permission from Lippincott Williams & Wilkins (Dajani AS, Taubert KA, Wilso
 et al. Prevention of Bacterial Endocarditis: Recommendations by the American Heart
 Association. Circulation1997;96:358–66).
 177
---- Страница 189 ---
+
 Chapter 10
 Situation Agentsa Regimenb
 High-risk Ampicillin + Adults: ampicillin 2g IM or IV plus
@@ -6049,7 +6007,7 @@ Reproduced with permission from Lippincott Williams & Wilkins (Dajani AS, Tauber
 Wilson W et al. Prevention of Bacterial Endocarditis: Recommendations by the American
 Heart Association. Circulation1997;96:358–66).
 178
---- Страница 190 ---
+
 Infective endocarditis
 Further reading
 Bayer AS, Bolger AF, Taubert KA et al. Diagnosis and management of IE and its
@@ -6058,9 +6016,9 @@ Dajani AS, Taubert KA, Wilson W et al. Prevention of Bacterial Endocarditis:
 Recommendations by the American Heart Association. Circulation1997;96:358–66.
 Golden RL. William Osler at 150. JAMA1999;282:2252–8.
 179
---- Страница 191 ---
+
 180
---- Страница 192 ---
+
 Chapter 11
 Cardiomyopathy
 Hypertrophic cardiomyopathy
@@ -6093,7 +6051,7 @@ This averages at a septal thickness of 20–22 mm, but can be up to 60 mm (see
 Figure2). This leaves a significant minority of patients in whom there will be diagnostic
 ambiguity with respect to cardiac morphology. In fact, the hallmark of the disease is
 181
---- Страница 193 ---
+
 Chapter 11
 α-Tropomyosin Troponin T Troponin I Troponin C Myo psi rn o- tb ei in nding
 Myosin
@@ -6123,7 +6081,7 @@ asymptomatic, while others with apparently less severe hypertrophy develop
 arrhythmias, increased ventricular stiffness, heart failure, or sudden death. Indeed,
 there can be considerable variation in phenotype within families (see Figure 2).
 182
---- Страница 194 ---
+
 Cardiomyopathy
 This much variation
 can exist in one family
@@ -6155,7 +6113,7 @@ obstruction. Beta-blockers and/or rate limiting calcium-channel blockers, such a
 verapamil, can improve diastolic filling (by reducing heart rate), reduce exercise-
 related outflow obstruction, and reduce the possibility of arrhythmia. Amiodarone
 183
---- Страница 195 ---
+
 Chapter 11
 and sotalol can prevent supraventricular and ventricular arrhythmia, but should
 only be used in patients with a previous episode.
@@ -6196,7 +6154,7 @@ patients. However, complications are common and for the majority of patients it
 results in complete LBBB or they require a permanent pacemaker for complete
 heart block. As a consequence, surgeons have explored other possibilities, such as
 184
---- Страница 196 ---
+
 Cardiomyopathy
 History
 Examination
@@ -6242,7 +6200,7 @@ at identifying the primary causes of sudden death:
 • coronary artery abnormalities (~20%) are not detectable
 by simple clinical examination
 185
---- Страница 197 ---
+
 Chapter 11
 Figure 3.Hypertrophic nonobstructive cardiomyopathy.
 Note the grossly hypertrophied interventricular septum.
@@ -6269,7 +6227,7 @@ heart failure of any other cause. There are many causes of DCM:
 • thyrotoxicosis
 • thiamine deficiency
 186
---- Страница 198 ---
+
 Cardiomyopathy
 Prognosis
 The prognosis is variable according to the degree of ventricular damage. It is
@@ -6305,7 +6263,7 @@ The ECG can be a useful tool, as subendocardial fibrosis can result in conductio
 disturbances. In addition, amyloid heart disease presents with low voltages.
 However, echo enables diagnosis. Classic findings include:
 187
---- Страница 199 ---
+
 Chapter 11
 • absence of ventricular dilatation or hypertrophy
 (common but not invariable)
@@ -6338,7 +6296,7 @@ patterns in trained athletes. Circulation2000;102:278–84.
 Prior SG, Aliot E, Blomstrom-Lundqvist C et al. Task force on sudden cardiac death of the
 European Society of Cardiology. Eur Heart J2001;22:1374–450.
 188
---- Страница 200 ---
+
 Chapter 12
 Aneurysm and dissection
 of the aorta
@@ -6369,7 +6327,7 @@ clinical features are:
 • high-arched palate
 • pectus excavatum
 189
---- Страница 201 ---
+
 Chapter 12
 Aortic
 arch
@@ -6399,7 +6357,7 @@ could be tested: a limited amount of bone fragments and hair from Lincoln was
 retained by the attending physician at the time of his assassination. Molecular
 testing using these samples could end the debate in an instant.
 190
---- Страница 202 ---
+
 Aneurysm and dissection of the aorta
 Arterial lumen
 Endothelial cells
@@ -6438,7 +6396,7 @@ Dissection, which is usually caused by atherosclerosis, is the development of a 
 in the aortic intima that creates a false lumen through the aortic media for a variable
 distance (see Figures 2 and3).
 191
---- Страница 203 ---
+
 Chapter 12
 Type A Type B
 Figure 3. Classification of dissection.
@@ -6456,7 +6414,7 @@ Figure 5.Magnetic resonance images showing separation of the dissected membrane.
 AA: ascending aorta; F: false lumen; I: intimal flap; P: pulmonary artery; S: subclavian
 artery; T: true lumen.
 192
---- Страница 204 ---
+
 Aneurysm and dissection of the aorta
 b T
 T
@@ -6486,7 +6444,7 @@ the BP, reduces the BP’s rate of rise and for this reason it is preferred to s
 nitroprusside as the first-line IV agent. If b-blockers are contraindicated then
 rate-limiting calcium-channel blockers, such as diltiazem or verapamil, can be used.
 193
---- Страница 205 ---
+
 Chapter 12
 (a) (b)
 Figure 7.(a,b) Chest x-rays. A dissected aorta can be seen in (b) (arrow).
@@ -6501,7 +6459,7 @@ center since the ascending aorta might be involved. Immediate investigations inc
 • preoperatively, coronary artery disease must be ruled out
 by coronary angiography
 194
---- Страница 206 ---
+
 Aneurysm and dissection of the aorta
 A physical examination can prove useful diagnostically, but should not delay the
 above emergency investigations. It should include:
@@ -6524,9 +6482,9 @@ Cardiology. Diagnosis and management of aortic dissection. Eur Heart J2001;22:16
 Khan IA, Nair CK. Clinical, diagnostic, and management perspectives of aortic dissection.
 Chest2002;122:311–28.
 195
---- Страница 207 ---
+
 196
---- Страница 208 ---
+
 Chapter 13
 Pericardial disease
 Pericarditis
@@ -6552,7 +6510,7 @@ pericardium
 Figure 1. The layers of pericardium. The visceral pericardium is a tissue paper-like layer,
 while the parietal pericardium is more rigid.
 197
---- Страница 209 ---
+
 Chapter 13
 Causes of pericarditis
 Postmyocardial infarction/postcardiac surgery
@@ -6589,7 +6547,7 @@ Blood tests for immune markers, such as the antinuclear cytoplasmic antibody
 (ANCA), should be carried out in any patient with confirmed pericarditis. Acute
 and convalescent viral titers can also be requested, but rarely alter management.
 198
---- Страница 210 ---
+
 Pericardial disease
 Figure 2.An extreme form of pericardial effusion, known
 as a “swinging heart”. The arrow indicates the effusion.
@@ -6618,7 +6576,7 @@ further on inspiration, while Friedrich’s sign describes a steep x/y descent
 (although, in reality at the bedside, the waves are hard to discern). The heart
 sounds are quiet and there may be a rub.
 199
---- Страница 211 ---
+
 Chapter 13
 KUSSMAUL’S LEGACY
 Adolph Kussmaul was Professor of Medicine successively at Heidelberg, Erlangen,
@@ -6650,7 +6608,7 @@ In constrictive pericarditis, the pericardium becomes rigid and fibrotic, adhere
 the myocardium, and limits its function. It most commonly follows tuberculous
 pericarditis or hemopericardium, but can result from any cause of pericarditis.
 200
---- Страница 212 ---
+
 Pericardial disease
 The classic clinical picture is:
 • significant ascites
@@ -6664,9 +6622,9 @@ left ventricular function is usually preserved in constrictive pericarditis, and
 pressures are raised. The only treatment for constrictive pericarditis is surgical
 excision of the pericardium.
 201
---- Страница 213 ---
+
 202
---- Страница 214 ---
+
 Chapter 14
 Adult congenital heart disease
 Congenital abnormalities of the heart and cardiovascular system are reported in
@@ -6698,7 +6656,7 @@ adolescence or early adult life when the patient develops high pulmonary vascula
 resistance, breathlessness, fatigue, and cyanosis. There is progression to effort
 syncope, recurrent hemoptysis, and heart failure.
 203
---- Страница 215 ---
+
 Chapter 14
 35
 30
@@ -6733,7 +6691,7 @@ lesions, aortic incompetence may develop due to loss of support of the valve.
 204
 )%(
 ecnedicnI
---- Страница 216 ---
+
 Adult congenital heart disease
 Ventricular
 septal defect
@@ -6753,7 +6711,7 @@ usually does not affect the atrioventricular valves (see Figures 3 and4)
 • ostium primum – the hole is situated close to the atrioventricular
 valves and can be associated with an atrioventricular septal defect
 205
---- Страница 217 ---
+
 Chapter 14
 Ventricular septal defect Atrial septal defect
 Biventricular hypertrophy LAD, RBBB (primum)
@@ -6782,7 +6740,7 @@ pulmonary arteries
 • increase in size of the pulmonary veins
 • reduced filling of the left ventricle (LV) and aorta
 206
---- Страница 218 ---
+
 Adult congenital heart disease
 Over time, the aorta and LV shrink, and pulmonary vascular resistance increases
 and causes Eisenmenger syndrome (see below).
@@ -6820,7 +6778,7 @@ pulmonary valve closure. CXR shows large main pulmonary arteries and branches
 with peripheral pruning. After the development of Eisenmenger physiology, only
 heart–lung transplantation is of value in management.
 207
---- Страница 219 ---
+
 Chapter 14
 Clamshell occluder
 LA
@@ -6831,7 +6789,7 @@ IVC: inferior vena cava; LA: left atrium; RA: right atrium.
 (a) (b)
 Figure 6.The Amplatzer occluder (a) before and (b) after deployment.
 208
---- Страница 220 ---
+
 Adult congenital heart disease
 Left common
 carotid artery Left subclavian
@@ -6863,7 +6821,7 @@ In severe stenosis, the arterial pulse is small and the jugular venous pulse exh
 a large “a” wave. On palpation, there is nearly always a systolic thrill in the second
 left intercostal space and there is a left parasternal heave. An early systolic
 209
---- Страница 221 ---
+
 Chapter 14
 “ejection” click and a loud ejection murmur are best heard in the second
 intercostal space. The second sound is normal in mild cases, but in more severe
@@ -6902,7 +6860,7 @@ peripartum closure of the foramen ovale, is two parallel circulations – a phys
 that is not compatible with life. The neonate would die instantly were it not for the
 common coexistence of a patent foramen ovale, ASD, VSD, or PDA. In infants, an
 210
---- Страница 222 ---
+
 Adult congenital heart disease
 Aorta
 PDA
@@ -6933,7 +6891,7 @@ childhood or early adulthood with dyspnea, fatigue, signs of tricuspid
 regurgitation, and right-sided cardiac failure. Patients with Ebstein’s anomaly
 require prophylaxis for endocarditis.
 211
---- Страница 223 ---
+
 Chapter 14
 Pulmonary
 stenosis Over-riding
@@ -6949,7 +6907,7 @@ artery artery
 Aorta Aorta
 Figure 10. Transposition of the great arteries (right-hand image).
 212
---- Страница 224 ---
+
 Adult congenital heart disease
 Balloon-tipped catheter is
 Transposition of
@@ -6971,7 +6929,7 @@ Abnormal
 tricuspid valve
 Figure 12. Ebstein’s anomaly.
 213
---- Страница 225 ---
+
 Chapter 14
 Further reading
 Deanfield J, Thaulow E, Warnes C et al.; Task Force on the Management of Grown Up
@@ -6985,7 +6943,7 @@ Report of the British Cardiac Society Working Party. Grown-up congenital heart (
 disease: current needs and provision of service for adolescents and adults with congenital
 heart disease in the UK. Heart2002;88 (Suppl. 1):i1–14.
 214
---- Страница 226 ---
+
 Abbreviations
 1D one dimensional
 2D two dimensional
@@ -7024,7 +6982,7 @@ CW continuous wave
 Cx circumflex artery
 CXR chest x-ray
 215
---- Страница 227 ---
+
 Abbreviations
 DC direct current
 DCM dilated cardiomyopathy
@@ -7069,7 +7027,7 @@ LPL lipoprotein lipase
 LV left ventricle
 LVESD left ventricular end-systolic dimension
 216
---- Страница 228 ---
+
 Abbreviations
 LVH left ventricular hypertrophy
 MET metabolic unit
@@ -7115,13 +7073,13 @@ VLDL very low-density lipoprotein
 VO max maximum rate of oxygen consumption
 2
 217
---- Страница 229 ---
+
 Abbreviations
 VSD ventricular septal defect
 VT ventricular tachycardia
 WPW Wolff–Parkinson–White syndrome
 218
---- Страница 230 ---
+
 Index
 References to figures are in bold
 References to tables and boxed material are in italics
@@ -7166,7 +7124,7 @@ assessment 57–63
 treatment 63–7
 stable 46
 219
---- Страница 231 ---
+
 Index
 symptoms 47
 unstable 46, 47
@@ -7220,7 +7178,7 @@ causes 146
 common associations 12
 echocardiography 41
 220
---- Страница 232 ---
+
 Index
 investigation/management 147–9
 natural history 148
@@ -7274,7 +7232,7 @@ in restrictive cardiomyopathy 188
 atrial flutter 134
 ECG 22, 23, 135
 221
---- Страница 233 ---
+
 Index
 with pulmonary stenosis 209
 atrial septal defect 205–9
@@ -7327,7 +7285,7 @@ tachyarrhythmia 123, 125
 toxicity 118
 Bezold–Jarisch reflex 116, 117
 222
---- Страница 234 ---
+
 Index
 bicuspid aortic valve 204, 209
 bifascicular block 121
@@ -7380,7 +7338,7 @@ cachexia 5
 CAD seecoronary artery disease
 caffeine and hypertension 78, 82
 223
---- Страница 235 ---
+
 Index
 calcification, valve 153
 calcium-channel blockers
@@ -7434,7 +7392,7 @@ cefadroxil 177
 cefazolin 177
 cephalexin 177
 224
---- Страница 236 ---
+
 Index
 chemokines 52, 72
 chest leads seeunderelectrocardiography
@@ -7488,7 +7446,7 @@ transposition of the great arteries 204, 210–11, 212
 ventricular septal defect 13, 157, 172, 203–5
 Conn’s syndrome 80
 225
---- Страница 237 ---
+
 Index
 constrictive pericarditis 200–1
 contractile proteins 181, 182
@@ -7541,7 +7499,7 @@ dilated cardiomyopathy 186–7
 diltiazem
 acute coronary syndromes 69
 226
---- Страница 238 ---
+
 Index
 angina 54
 aortic dissection 193
@@ -7594,7 +7552,7 @@ fractional shortening 39
 heart failure 93, 97, 100
 hypertrophic cardiomyopathy 183
 227
---- Страница 239 ---
+
 Index
 imaging modes 35–8
 see alsoM-mode imaging; two-dimensional imaging
@@ -7648,7 +7606,7 @@ limb 16, 17
 respective views of heart 17
 left axis deviation 122
 228
---- Страница 240 ---
+
 Index
 mitral stenosis 155
 pacemakers 139
@@ -7702,7 +7660,7 @@ beneficial effects 52–3
 cardiac rehabilitation 75
 and chest pain 47
 229
---- Страница 241 ---
+
 Index
 Fallot’s tetralogy 210
 and hypertension 82
@@ -7753,7 +7711,7 @@ examination/clinical history 95
 history 102
 investigations 96–7
 230
---- Страница 242 ---
+
 Index
 management 102, 103
 acute heart failure 98
@@ -7807,7 +7765,7 @@ hyperkalemia 30, 31
 hyperlipidemia 6, 55–6
 hypertension 77–91
 231
---- Страница 243 ---
+
 Index
 assessment
 examination 79–80
@@ -7860,7 +7818,7 @@ symptoms 167–9
 constitutional 167
 eyes 168
 232
---- Страница 244 ---
+
 Index
 neurological 168
 renal 168
@@ -7911,7 +7869,7 @@ and hypertrophic cardiomyopathy 181
 left ventricular mass in HCM 183
 lidocaine (lignocaine)
 233
---- Страница 245 ---
+
 Index
 arrhythmia 141, 142
 ventricular tachycardia 128
@@ -7964,7 +7922,7 @@ chronic 158–60
 common associations 12
 echocardiography 41
 234
---- Страница 246 ---
+
 Index
 functional 160
 natural history 159
@@ -8018,7 +7976,7 @@ ventricular septal defect 204, 206
 Mustard operation 211
 mycotic aneurysms 168
 235
---- Страница 247 ---
+
 Index
 myocardial fiber disarray 182
 myocardial infarction (MI) 46
@@ -8069,7 +8027,7 @@ indications, standard 136
 mode switching 138
 patient follow-up 139
 236
---- Страница 248 ---
+
 Index
 permanent dual-chamber 114, 123
 program alteration 138
@@ -8123,7 +8081,7 @@ pathophysiology 197
 presentations 198
 pericardium 197
 237
---- Страница 249 ---
+
 Index
 petechiae 167
 phenylalkylamine derivatives 84
@@ -8176,7 +8134,7 @@ drug-induced 29, 30, 32
 torsade de pointes 129–30
 Quincke’s sign 150
 238
---- Страница 250 ---
+
 Index
 quinidine 141, 142
 R
@@ -8228,7 +8186,7 @@ sinus node dysfunction (sick sinus syndrome) 113–14, 136, 141
 sinus of Valsalva, aneurysm of 191
 sinus tachycardia 123
 239
---- Страница 251 ---
+
 Index
 sinus venosus 206
 smoking
@@ -8281,7 +8239,7 @@ atrial flutter 134
 atrial tachycardia 123, 124
 AV node re-entrant tachycardia (AVNRT) 124–5, 126
 240
---- Страница 252 ---
+
 Index
 diagnosis 122, 124
 ECG 122
@@ -8334,7 +8292,7 @@ U
 ultrasound 35
 see alsoechocardiography; stress echocardiography
 241
---- Страница 253 ---
+
 Index
 V
 vagolytics 117
@@ -8387,7 +8345,7 @@ hypertrophic cardiomyopathy 183
 tachyarrhythmia 125
 viral pericarditis 198
 242
---- Страница 254 ---
+
 Index
 W
 wall-motion abnormality 40–1
@@ -8412,5 +8370,5 @@ xanthomata 6
 Z
 Zyban 49
 243
---- Страница 255 ---
+
 244

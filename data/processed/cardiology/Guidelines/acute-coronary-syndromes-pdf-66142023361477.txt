@@ -11,14 +11,11 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 Acute coronary syndromes
 NICE guideline
 Published: 18 November 2020
 www.nice.org.uk/guidance/ng185
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
-conditions#notice-of-rights).
---- Страница 2 ---
+
 Acute coronary syndromes (NG185)
 Your responsibility
 The recommendations in this guideline represent the view of NICE, arrived at after careful
@@ -41,48 +38,14 @@ inconsistent with complying with those duties.
 Commissioners and providers have a responsibility to promote an environmentally
 sustainable health and care system and should assess and reduce the environmental
 impact of implementing NICE recommendations wherever possible.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
-conditions#notice-of-rights). 58
---- Страница 3 ---
+
 Acute coronary syndromes (NG185)
-Contents
-Overview ..................................................................................................................................... 5
-Who is it for? .......................................................................................................................................... 5
-Recommendations ...................................................................................................................... 6
-1.1 STEMI – early management ............................................................................................................. 6
-1.2 NSTEMI and unstable angina – early management ...................................................................... 12
-1.3 Hyperglycaemia in acute coronary syndromes ............................................................................ 21
-1.4 Drug therapy for secondary prevention ........................................................................................ 23
-1.5 Coronary revascularisation after an MI ......................................................................................... 30
-1.6 Selected patient subgroups ........................................................................................................... 30
-1.7 Communication of diagnosis and advice ...................................................................................... 31
-1.8 Cardiac rehabilitation after an MI ................................................................................................... 31
-1.9 Lifestyle changes after an MI ......................................................................................................... 36
-Terms used in this guideline ................................................................................................................. 38
-Recommendations for research ................................................................................................ 39
-Key recommendations for research .................................................................................................... 39
-Other recommendations for research ................................................................................................. 42
-Rationale and impact .................................................................................................................. 44
-Dual antiplatelet therapy for acute STEMI intended for primary PCI ............................................... 44
-Antithrombin therapy during primary PCI for acute STEMI ............................................................... 45
-Complete revascularisation with PCI or culprit vessel only PCI for acute STEMI ........................... 46
-Drug-eluting stents ............................................................................................................................... 47
-Antiplatelet therapy for STEMI not treated with PCI ......................................................................... 48
-Initial antithrombin therapy for unstable angina and NSTEMI .......................................................... 49
-Early invasive versus conservative management for unstable angina and NSTEMI ...................... 50
-Antiplatelet therapy for unstable angina and NSTEMI ...................................................................... 51
-Antiplatelet therapy for people with an indication for anticoagulation ............................................ 53
-Duration of beta-blocker treatment after an MI ................................................................................. 54
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
-conditions#notice-of-rights). 58
---- Страница 4 ---
+
 Acute coronary syndromes (NG185)
 Context ........................................................................................................................................ 55
 Finding more information and committee details .................................................................... 56
 Update information .................................................................................................................... 57
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
-conditions#notice-of-rights). 58
---- Страница 5 ---
+
 Acute coronary syndromes (NG185)
 This guideline replaces CG172, CG167, CG94, TA230, CG130 and MTG1.
 This guideline partially replaces TA152 and TA71.
@@ -103,9 +66,7 @@ Who is it for?
 • Healthcare professionals
 • Commissioners and providers
 • Adults with acute coronary syndromes, their families and carers
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
-conditions#notice-of-rights). 58
---- Страница 6 ---
+
 Acute coronary syndromes (NG185)
 Recommendations
 People have the right to be involved in discussions and make informed decisions
@@ -128,9 +89,7 @@ STEMI to determine whether a person is eligible for coronary angiography (with
 follow-on primary PCI if indicated). [2013]
 1.1.3 Deliver coronary reperfusion therapy (either primary PCI or fibrinolysis) as quickly
 as possible for eligible people with acute STEMI. [2013]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
-conditions#notice-of-rights). 58
---- Страница 7 ---
+
 Acute coronary syndromes (NG185)
 Initial drug therapy
 1.1.4 Offer people with acute STEMI a single loading dose of 300 mg aspirin as soon as
@@ -157,9 +116,7 @@ onset of symptoms and who have cardiogenic shock or go on to develop it.
 1.1.10 Consider radial (in preference to femoral) arterial access for people undergoing
 coronary angiography (with follow-on primary PCI if indicated). [2013]
 Dual antiplatelet therapy for people with acute STEMI having
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
-conditions#notice-of-rights). 58
---- Страница 8 ---
+
 Acute coronary syndromes (NG185)
 primary PCI
 1.1.11 For people with acute STEMI who are having primary PCI, offer:
@@ -186,9 +143,7 @@ undergoing primary PCI with radial access. [2020]
 1.1.13 Consider bivalirudin with bailout glycoprotein IIb/IIIa inhibitor in combination with
 dual antiplatelet therapy for people with acute STEMI undergoing primary PCI
 when femoral access is needed.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
-conditions#notice-of-rights). 58
---- Страница 9 ---
+
 Acute coronary syndromes (NG185)
 In November 2020, use of bivalirudin with prasugrel and aspirin was off label. See
 NICE's information on prescribing medicines. [2020]
@@ -210,9 +165,7 @@ this during the index hospital admission. [2020]
 1.1.17 Consider culprit vessel only revascularisation with PCI rather than complete
 revascularisation during the index procedure for people with acute STEMI and
 multivessel coronary artery disease with cardiogenic shock. [2020]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
-conditions#notice-of-rights). 58
---- Страница 10 ---
+
 Acute coronary syndromes (NG185)
 For a short explanation of why the committee made the 2020 recommendations and
 how they might affect practice, see the rationale and impact section on complete
@@ -238,9 +191,7 @@ early thrombolysis (TA52, 2002).
 [2013]
 1.1.21 Offer an electrocardiogram (ECG) to people with acute STEMI treated with
 fibrinolysis, 60 to 90 minutes after administration. For those who have residual
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
-conditions#notice-of-rights). 58
---- Страница 11 ---
+
 Acute coronary syndromes (NG185)
 ST-segment elevation suggesting failed coronary reperfusion:
 • offer immediate coronary angiography, with follow-on PCI if indicated
@@ -263,9 +214,7 @@ Full details of the evidence and the committee's discussion are in evidence revi
 antiplatelet therapy.
 1.1.26 Offer medical management to people with acute STEMI who are ineligible for any
 reperfusion therapy. [2013]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
-conditions#notice-of-rights). 58
---- Страница 12 ---
+
 Acute coronary syndromes (NG185)
 Tests before discharge
 1.1.27 Assess left ventricular function in all people who have had a STEMI. [2013]
@@ -292,9 +241,7 @@ how it might affect practice, see the rationale and impact section on initial
 antithrombin therapy for people with unstable angina or NSTEMI.
 Full details of the evidence and the committee's discussion are in evidence review C:
 antithrombin for unstable angina and NSTEMI.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
-conditions#notice-of-rights). 58
---- Страница 13 ---
+
 Acute coronary syndromes (NG185)
 1.2.4 Consider unfractionated heparin, with dose adjustment guided by monitoring of
 clotting function, as an alternative to fondaparinux for people with unstable
@@ -321,9 +268,7 @@ adverse cardiovascular events using an established risk scoring system that
 predicts 6-month mortality (for example, Global Registry of Acute Cardiac Events
 [GRACE]). [2010]
 1.2.8 Include in the formal risk assessment:
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
-conditions#notice-of-rights). 58
---- Страница 14 ---
+
 Acute coronary syndromes (NG185)
 • a full clinical history (including age, previous myocardial infarction [MI] and
 previous PCI or coronary artery bypass grafting [CABG])
@@ -349,9 +294,7 @@ Predicted 6-month mortality Risk of future adverse cardiovascular events
 over 9.0% Highest
 Categories of risk are derived from the Myocardial Ischaemia National Audit Project
 (MINAP) database.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
-conditions#notice-of-rights). 58
---- Страница 15 ---
+
 Acute coronary syndromes (NG185)
 Coronary angiography with follow-on PCI
 1.2.12 Offer immediate coronary angiography to people with unstable angina or NSTEMI
@@ -372,9 +315,7 @@ compared with conservative management. [2020]
 1.2.15 Be aware that some younger people with low risk scores for mortality at 6 months
 may still be at high risk of adverse cardiovascular events and may benefit from
 early angiography. [2020]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
-conditions#notice-of-rights). 58
---- Страница 16 ---
+
 Acute coronary syndromes (NG185)
 Table 2 Benefits and risks of early invasive treatment (coronary angiography with PCI if
 needed) compared with conservative management for people with unstable angina or
@@ -416,9 +357,7 @@ Psychological benefits –
 people are not anxious
 about having an invasive
 procedure.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
-conditions#notice-of-rights). 58
---- Страница 17 ---
+
 Acute coronary syndromes (NG185)
 Conservative management with
 Benefits/risks/other Coronary angiography and possible percutaneous
@@ -454,9 +393,7 @@ people with unstable angina or NSTEMI who are undergoing PCI whether or not
 they have already received fondaparinux.
 In November 2020, this was an off-label use of unfractionated heparin. See
 NICE's information on prescribing medicines. [2020]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
-conditions#notice-of-rights). 58
---- Страница 18 ---
+
 Acute coronary syndromes (NG185)
 For a short explanation of why the committee made the 2020 recommendation and
 how it might affect practice, see the rationale and impact section on antithrombin
@@ -484,9 +421,7 @@ Full details of the evidence and the committee's discussion are in evidence revi
 antiplatelet therapy.
 1.2.18 If stenting is indicated, offer a drug-eluting stent to people with unstable angina
 or NSTEMI undergoing revascularisation by PCI. [2020]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
-conditions#notice-of-rights). 58
---- Страница 19 ---
+
 Acute coronary syndromes (NG185)
 For a short explanation of why the committee made the 2020 recommendation and
 how it might affect practice, see the rationale and impact section on drug-eluting
@@ -513,9 +448,7 @@ bleeding risk. [2020]
 Ticagrelor is recommended as an option in NICE technology appraisal guidance
 for treating unstable angina or NSTEMI when PCI is not indicated. For full details,
 see the guidance on ticagrelor (TA236, 2011).
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
-conditions#notice-of-rights). 58
---- Страница 20 ---
+
 Acute coronary syndromes (NG185)
 1.2.22 Consider clopidogrel, as part of dual antiplatelet therapy with aspirin, or aspirin
 alone, for people with unstable angina or NSTEMI when PCI is not indicated, if
@@ -542,9 +475,7 @@ Tests before discharge
 1.2.26 To detect and quantify inducible ischaemia, consider ischaemia testing before
 discharge for people whose condition has been managed conservatively and who
 have not had coronary angiography. [2010]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
-conditions#notice-of-rights). 58
---- Страница 21 ---
+
 Acute coronary syndromes (NG185)
 1.2.27 Assess left ventricular function in all people who have had an NSTEMI. [2013]
 1.2.28 Consider assessing left ventricular function in all people with unstable angina.
@@ -569,9 +500,7 @@ known diabetes tests for:
 • HbA1c levels before discharge
 • fasting blood glucose levels no earlier than 4 days after the onset of acute
 coronary syndrome.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
-conditions#notice-of-rights). 58
---- Страница 22 ---
+
 Acute coronary syndromes (NG185)
 These tests should not delay discharge. [2011]
 1.3.4 Do not routinely offer oral glucose tolerance tests to people with hyperglycaemia
@@ -595,9 +524,7 @@ an acute coronary syndrome, they:
 － excessive thirst
 － weight loss
 － fatigue
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
-conditions#notice-of-rights). 58
---- Страница 23 ---
+
 Acute coronary syndromes (NG185)
 • should be offered tests for diabetes at least annually. [2011]
 1.3.7 Inform GPs that they should offer at least annual monitoring of HbA1c or fasting
@@ -623,9 +550,7 @@ MI and is also sent to the GP, including:
 follow-up appointment. [2013]
 1.4.4 Rivaroxaban, with aspirin and clopidogrel, or aspirin alone, is recommended as an
 option in NICE technology appraisal guidance for preventing atherothrombotic
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
-conditions#notice-of-rights). 58
---- Страница 24 ---
+
 Acute coronary syndromes (NG185)
 events in people who have had an acute coronary syndrome with elevated
 cardiac biomarkers, taking bleeding risk into account. For full details, see the
@@ -655,9 +580,7 @@ increased risk of deterioration in renal function. People with chronic heart fai
 should be monitored in line with the NICE guideline on chronic heart failure in
 adults. [2007]
 1.4.11 Offer an ACE inhibitor to people who have had an MI more than 12 months ago.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
-conditions#notice-of-rights). 58
---- Страница 25 ---
+
 Acute coronary syndromes (NG185)
 Titrate to the maximum tolerated or target dose (over a 4- to 6-week period) and
 continue indefinitely. [2013]
@@ -686,9 +609,7 @@ the NICE guideline on gastro-oesophageal reflux disease and dyspepsia in adults.
 bleeding whose ulcers have healed and who are negative for Helicobacter pylori
 should be considered for treatment in line with the NICE guideline on gastro-
 oesophageal reflux disease and dyspepsia in adults. [2007, amended 2013]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
-conditions#notice-of-rights). 58
---- Страница 26 ---
+
 Acute coronary syndromes (NG185)
 1.4.20 Offer clopidogrel instead of aspirin to people who also have other clinical vascular
 disease, and who have:
@@ -716,9 +637,7 @@ thromboembolic risk and cardiovascular risk. [2020]
 1.4.23 For people with a new indication for anticoagulation who have had PCI, offer
 clopidogrel (to replace prasugrel or ticagrelor) for up to 12 months and an oral
 anticoagulant licensed for the indication, which best matches the person's:
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
-conditions#notice-of-rights). 58
---- Страница 27 ---
+
 Acute coronary syndromes (NG185)
 • bleeding risk
 • thromboembolic risk
@@ -743,9 +662,7 @@ how they might affect practice, see the rationale and impact section on antiplat
 therapy for people with an indication for anticoagulation.
 Full details of the evidence and the committee's discussion are in evidence review G:
 combination therapy.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
-conditions#notice-of-rights). 58
---- Страница 28 ---
+
 Acute coronary syndromes (NG185)
 Beta-blockers
 1.4.27 Offer people a beta-blocker as soon as possible after an MI, when the person is
@@ -773,9 +690,7 @@ symptoms. For people with heart failure plus reduced left ventricular ejection
 fraction, manage the condition in line with the NICE guideline on chronic heart
 failure in adults. [2013]
 1.4.33 Do not offer people without reduced left ventricular ejection fraction or heart
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
-conditions#notice-of-rights). 58
---- Страница 29 ---
+
 Acute coronary syndromes (NG185)
 failure, who have had an MI more than 12 months ago, treatment with a beta-
 blocker unless there is an additional clinical indication for a beta-blocker. [2013]
@@ -802,9 +717,7 @@ the MI, preferably after ACE inhibitor therapy. [2007]
 reduced left ventricular ejection fraction, but who are already being treated with
 an aldosterone antagonist for a concomitant condition (for example, chronic heart
 failure), should continue with the aldosterone antagonist or an alternative,
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
-conditions#notice-of-rights). 58
---- Страница 30 ---
+
 Acute coronary syndromes (NG185)
 licensed for early post-MI treatment. [2007]
 1.4.40 For people who have had a proven MI in the past and heart failure due to reduced
@@ -830,9 +743,7 @@ technology appraisal guidance for treating people with heart failure with left
 ventricular dysfunction with a left ventricular ejection fraction of 35% or less. For
 full details, see the guidance on implantable cardioverter defibrillators and
 cardiac resynchronisation therapy (TA314, 2014). [2007]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
-conditions#notice-of-rights). 58
---- Страница 31 ---
+
 Acute coronary syndromes (NG185)
 People with hypertension
 1.6.2 Treat hypertension in line with the NICE guideline on hypertension in adults.
@@ -856,9 +767,7 @@ attend certain components. [2007]
 exercise, these should be treated if possible before they are offered the exercise
 component of cardiac rehabilitation. For some people, the exercise component
 may be adapted by an appropriately qualified healthcare professional. [2007]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of
-conditions#notice-of-rights). 58
---- Страница 32 ---
+
 Acute coronary syndromes (NG185)
 1.8.4 People with reduced left ventricular ejection fraction who are stable can safely be
 offered the exercise component of cardiac rehabilitation. [2007]
@@ -886,9 +795,7 @@ demand. [2013]
 1.8.12 Enrol people who have had an MI in a system of structured care, ensuring that
 there are clear lines of responsibility for arranging the early initiation of cardiac
 rehabilitation. [2013]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 32 of
-conditions#notice-of-rights). 58
---- Страница 33 ---
+
 Acute coronary syndromes (NG185)
 1.8.13 Begin cardiac rehabilitation as soon as possible after admission before discharge
 from hospital, and invite the person to a cardiac rehabilitation session. This
@@ -915,9 +822,7 @@ communities, people with a learning disability and people with mental and
 physical health conditions. [2007, amended 2013]
 1.8.18 Encourage all staff, including senior medical staff, involved in providing care for
 people after an MI, to actively promote cardiac rehabilitation. [2013]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 33 of
-conditions#notice-of-rights). 58
---- Страница 34 ---
+
 Acute coronary syndromes (NG185)
 Health education and information needs
 1.8.19 Comprehensive cardiac rehabilitation programmes should include health
@@ -947,9 +852,7 @@ perceived exertion scale to help monitor physiological demand. People who have
 had a complicated MI may need expert advice. [2007]
 1.8.27 Advice on competitive sport may need expert assessment of function and risk,
 and is dependent on what sport is being discussed and the level of
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 34 of
-conditions#notice-of-rights). 58
---- Страница 35 ---
+
 Acute coronary syndromes (NG185)
 competitiveness. [2007]
 Psychological and social support
@@ -971,9 +874,7 @@ can resume sexual activity when they feel comfortable to do so, usually after
 about 4 weeks. [2007]
 1.8.34 Raise the subject of sexual activity within the context of cardiac rehabilitation and
 aftercare for people who have had an MI. [2007]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 35 of
-conditions#notice-of-rights). 58
---- Страница 36 ---
+
 Acute coronary syndromes (NG185)
 1.9 Lifestyle changes after an MI
 Changing diet
@@ -997,9 +898,7 @@ eating habits, and advice on improving their diet. [2007]
 1.9.7 Give people consistent dietary advice tailored to their needs. [2007]
 1.9.8 Give people healthy eating advice that can be extended to the whole family.
 [2007]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 36 of
-conditions#notice-of-rights). 58
---- Страница 37 ---
+
 Acute coronary syndromes (NG185)
 Alcohol consumption
 1.9.9 For advice on alcohol consumption, see the UK government drinking guidelines.
@@ -1025,9 +924,7 @@ Weight management
 1.9.15 After an MI, offer all people who are overweight or obese advice and support to
 achieve and maintain a healthy weight in line with the NICE guideline on
 overweight and obesity management. [2007]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 37 of
-conditions#notice-of-rights). 58
---- Страница 38 ---
+
 Acute coronary syndromes (NG185)
 Terms used in this guideline
 Bailout glycoprotein IIb/IIIa inhibitor
@@ -1035,9 +932,7 @@ Bailout glycoprotein inhibitor (GPI) refers to the use of GPI when the PCI opera
 intended to use GPI from the outset, but considers that clinical or angiographic features
 (such as worsening or persistent thrombus burden) have changed during the course of the
 procedure, such that there may be benefit to giving the patient GPI.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 38 of
-conditions#notice-of-rights). 58
---- Страница 39 ---
+
 Acute coronary syndromes (NG185)
 Recommendations for research
 The guideline committee has made the following recommendations for research.
@@ -1063,9 +958,7 @@ have a long anticipated transfer time for primary PCI
 In people with acute STEMI who present more than 1 hour after the onset of symptoms, is
 a primary PCI-related delay of 120 to 180 minutes associated with outcomes similar to,
 better or worse than pre-hospital administered fibrinolysis? [2013]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 39 of
-conditions#notice-of-rights). 58
---- Страница 40 ---
+
 Acute coronary syndromes (NG185)
 Why this is important
 Primary PCI is the preferred coronary reperfusion therapy provided it can be delivered 'in a
@@ -1098,9 +991,7 @@ unstable angina and non-ST-segment elevation myocardial infarction (NSTEMI)
 use, is not clear. Management of unstable angina and NSTEMI would be enhanced if the
 relative place of these investigations were better understood and an assessment of their
 cost effectiveness made.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 40 of
-conditions#notice-of-rights). 58
---- Страница 41 ---
+
 Acute coronary syndromes (NG185)
 4 Relationship between volume of procedures and clinical
 outcomes
@@ -1133,9 +1024,7 @@ associated with a significantly worse outcome. Using a combination of scoring sy
 assessing ischaemic and bleeding risk when evaluating data from randomised trials and
 registries may help to determine where the net clinical benefit (reduction in ischaemic risk
 minus any increase in bleeding risk) lies.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 41 of
-conditions#notice-of-rights). 58
---- Страница 42 ---
+
 Acute coronary syndromes (NG185)
 Other recommendations for research
 6 Risk assessment – data from cardiac registries
@@ -1164,9 +1053,7 @@ It is recommended that a large RCT is conducted for people with acute coronary s
 and hyperglycaemia (blood glucose 11 mmol/litre and over) stratified by NSTEMI and
 STEMI and by known diabetes and without a previous diagnosis of diabetes.
 The interventions for the trial should be intravenous insulin or subcutaneous insulin
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 42 of
-conditions#notice-of-rights). 58
---- Страница 43 ---
+
 Acute coronary syndromes (NG185)
 administered within 4 hours of presentation to hospital. The aim is to achieve blood
 glucose between 6 and 11 mmol/litre for at least 24 hours. The comparator should be
@@ -1185,9 +1072,7 @@ there is also some suggestion that there are risks associated with withdrawal of
 blockers in this population. The balance of risks and benefits of long-term beta blockade
 has not been clearly determined, particularly in the context of modern acute treatment of
 MI.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 43 of
-conditions#notice-of-rights). 58
---- Страница 44 ---
+
 Acute coronary syndromes (NG185)
 Rationale and impact
 These sections briefly explain why the committee made the recommendations and how
@@ -1217,9 +1102,7 @@ instead; although ticagrelor is the more cost effective of the two, it also carr
 bleeding risk.
 An exception was added for people needing anticoagulation for a separate reason (for
 example, ongoing atrial fibrillation). For these people, clopidogrel is preferred because of
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 44 of
-conditions#notice-of-rights). 58
---- Страница 45 ---
+
 Acute coronary syndromes (NG185)
 the high bleeding risk of full anticoagulation plus prasugrel.
 How the recommendation might affect practice
@@ -1248,9 +1131,7 @@ committee noted that heparin is cheaper than bivalirudin and easier to administe
 How the recommendations might affect practice
 The committee agreed that the recommendations generally reflect current practice and
 are not expected to result in a substantial resource impact to the NHS in England.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 45 of
-conditions#notice-of-rights). 58
---- Страница 46 ---
+
 Acute coronary syndromes (NG185)
 Return to recommendations
 Complete revascularisation with PCI or culprit
@@ -1281,9 +1162,7 @@ it was not appropriate to recommend multivessel PCI for this group during the in
 admission.
 How the recommendations might affect practice
 Current practice is variable across centres and also within centres. Some offer multivessel
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 46 of
-conditions#notice-of-rights). 58
---- Страница 47 ---
+
 Acute coronary syndromes (NG185)
 PCI during the first procedure for acute STEMI but others may postpone this (either to
 later within the index admission or to a later readmission). Some operate on the culprit
@@ -1313,9 +1192,7 @@ may be beneficial in reducing deaths (all-cause and cardiac) and there is a redu
 incidence of MI in the 3 years after revascularisation when drug-eluting stents are used.
 Costs of drug-eluting stents are higher than bare metal stents, but analyses using current
 cost and benefit data suggest that they are a cost-effective use of resources.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 47 of
-conditions#notice-of-rights). 58
---- Страница 48 ---
+
 Acute coronary syndromes (NG185)
 How the recommendations might affect practice
 The use of drug-eluting stents has been slowly increasing over recent years in the UK and
@@ -1346,9 +1223,7 @@ ticagrelor in most cases but to consider clopidogrel as an alternative when the 
 risk is high.
 How the recommendations might affect practice
 In the UK, both ticagrelor and clopidogrel are currently used for STEMI that is managed
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 48 of
-conditions#notice-of-rights). 58
---- Страница 49 ---
+
 Acute coronary syndromes (NG185)
 without PCI. The recommendations require a change in practice for most, but not all,
 people who would otherwise receive clopidogrel. Ticagrelor costs considerably more than
@@ -1380,9 +1255,7 @@ additional systemic unfractionated heparin in the catheter laboratory.
 How the recommendations might affect practice
 Fondaparinux is already used before angiography in many centres in the UK, with
 additional unfractionated heparin given during the procedure. The recommendations will
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 49 of
-conditions#notice-of-rights). 58
---- Страница 50 ---
+
 Acute coronary syndromes (NG185)
 affect those centres currently withholding fondaparinux from people having angiography in
 the next 24 hours. Fondaparinux is a cheaper option than low molecular weight heparin so
@@ -1414,9 +1287,7 @@ applicable to the youngest people with unstable angina and NSTEMI who are relati
 under-represented in the dataset, and therefore added a cautionary recommendation to
 this effect.
 The committee noted that the 2010 guideline had recommended that angiography should
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 50 of
-conditions#notice-of-rights). 58
---- Страница 51 ---
+
 Acute coronary syndromes (NG185)
 be done within 96 hours of admission for those who are likely to benefit from an early
 invasive strategy. However, they considered this a conservative target and knew that
@@ -1446,9 +1317,7 @@ The committee agreed that dual antiplatelet therapy should not be offered to peo
 chest pain before a diagnosis of unstable angina or NSTEMI is made. In their experience,
 dual antiplatelet therapy had caused harm (bleeding) in some people presenting with
 chest pain not caused by an acute coronary syndrome.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 51 of
-conditions#notice-of-rights). 58
---- Страница 52 ---
+
 Acute coronary syndromes (NG185)
 Unstable angina and NSTEMI intended for PCI
 Evidence was reviewed comparing the clinical effectiveness of clopidogrel, prasugrel and
@@ -1483,9 +1352,7 @@ made a recommendation to consider using clopidogrel in this situation.
 How the recommendations might affect practice
 In the UK, prasugrel is currently used less than ticagrelor or clopidogrel. The
 recommendations may therefore involve a change in practice for some centres. Prasugrel
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 52 of
-conditions#notice-of-rights). 58
---- Страница 53 ---
+
 Acute coronary syndromes (NG185)
 costs less than ticagrelor, but considerably more than clopidogrel, and although some
 areas will see a cost saving from switching to prasugrel from ticagrelor, others will see an
@@ -1516,9 +1383,7 @@ How the recommendations might affect practice
 Current practice is variable, with people taking different combinations of antiplatelets and
 anticoagulants. The number of people affected is small. It is estimated that between 5%
 and 15% of people with an acute coronary syndrome will have an indication for oral
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 53 of
-conditions#notice-of-rights). 58
---- Страница 54 ---
+
 Acute coronary syndromes (NG185)
 anticoagulation. The recommendations are mostly unchanged from the 2013 guideline and
 the minor changes that have been made are unlikely to result in a substantial resource
@@ -1544,9 +1409,7 @@ benefit of continuing treatment beyond 12 months is likely to lead to more peopl
 to stop treatment at this point. Any reduction in prescriptions for beta-blockers will be cost
 saving.
 Return to recommendations
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 54 of
-conditions#notice-of-rights). 58
---- Страница 55 ---
+
 Acute coronary syndromes (NG185)
 Context
 Acute coronary syndromes due to ischaemic heart disease remain a significant cause of
@@ -1560,9 +1423,7 @@ offered for acute coronary syndromes. This, combined with evidence of novel ways
 treating acute coronary syndromes and updates to existing treatments, indicates a need
 for an updated guideline that will help deliver best practice to the large number of people
 receiving treatment for acute coronary syndromes in the NHS.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 55 of
-conditions#notice-of-rights). 58
---- Страница 56 ---
+
 Acute coronary syndromes (NG185)
 Finding more information and committee
 details
@@ -1574,9 +1435,7 @@ including details of the committee.
 NICE has produced tools and resources to help you put this guideline into practice. For
 general help and advice on putting our guidelines into practice, see resources to help you
 put NICE guidance into practice.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 56 of
-conditions#notice-of-rights). 58
---- Страница 57 ---
+
 Acute coronary syndromes (NG185)
 Update information
 November 2020: This guideline updates:
@@ -1603,9 +1462,7 @@ anticoagulation.
 • We have indicated when to offer a cardiology assessment to someone who has had a
 previous MI.
 These recommendations are marked [2007, amended 2020].
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 57 of
-conditions#notice-of-rights). 58
---- Страница 58 ---
+
 Acute coronary syndromes (NG185)
 Minor changes since publication
 December 2024: We added links to relevant technology appraisal guidance in the sections
@@ -1616,5 +1473,3 @@ to say that either glycosylated haemoglobin (HbA1c) or fasting blood glucose may
 to test for diabetes. Recommendation 1.3.3 on using both tests before discharge from
 hospital in people with hyperglycaemia after acute coronary syndrome has not changed.
 ISBN: 978-1-4731-3902-2
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 58 of
-conditions#notice-of-rights). 58

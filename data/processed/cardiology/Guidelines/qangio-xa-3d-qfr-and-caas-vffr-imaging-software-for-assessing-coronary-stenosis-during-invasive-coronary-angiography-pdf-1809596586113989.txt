@@ -11,7 +11,6 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 QAngio XA 3D QFR and
 CAAS vFFR imaging
 software for assessing
@@ -21,9 +20,7 @@ angiography
 HealthTech guidance
 Published: 17 March 2021
 www.nice.org.uk/guidance/htg571
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
-conditions#notice-of-rights).
---- Страница 2 ---
+
 Your responsibility
 This guidance represents the view of NICE, arrived at after careful consideration of the
 evidence available. When exercising their judgement, healthcare professionals are
@@ -44,30 +41,7 @@ authorise and monitor the introduction of new devices and procedures.
 Commissioners and providers have a responsibility to promote an environmentally
 sustainable health and care system and should assess and reduce the environmental
 impact of implementing NICE recommendations wherever possible.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
-conditions#notice-of-rights). 40
---- Страница 3 ---
-Contents
-1 Recommendations .................................................................................................................. 4
-2 The diagnostic tests .............................................................................................................. 6
-Clinical need and practice ................................................................................................................... 6
-The interventions ................................................................................................................................. 7
-The comparator .................................................................................................................................... 9
-3 Evidence ................................................................................................................................. 10
-Clinical effectiveness ........................................................................................................................... 10
-Cost effectiveness ............................................................................................................................... 18
-4 Committee discussion ........................................................................................................... 29
-Clinical need ......................................................................................................................................... 29
-Clinical effectiveness ........................................................................................................................... 30
-Cost effectiveness ............................................................................................................................... 33
-5 Recommendations for further research ............................................................................... 37
-6 Implementation ....................................................................................................................... 38
-7 Diagnostics advisory committee members and NICE project team .................................. 39
-Committee members ........................................................................................................................... 39
-NICE project team ................................................................................................................................ 39
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
-conditions#notice-of-rights). 40
---- Страница 4 ---
+
 This guidance replaces MIB146 and DG43.
 1 Recommendations
 1.1 There is not enough evidence to recommend using QAngio XA 3D quantitative
@@ -94,9 +68,7 @@ angiography to construct a 3D image of the artery. This image is used to estimat
 effect of coronary stenosis on blood flow through the artery without the side effects and
 risk of adverse events of FFR or iFR.
 Published evidence shows that the diagnostic accuracy of QAngio QFR is similar to FFR,
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
-conditions#notice-of-rights). 40
---- Страница 5 ---
+
 but the diagnostic accuracy of CAAS vFFR is very uncertain. Whether QAngio QFR or
 CAAS vFFR affect clinical outcomes and improve quality of life is also uncertain. Also, in
 clinical practice the quality of the images varies depending on if they are done in a
@@ -110,9 +82,7 @@ There are multiple tests in use that assess coronary stenosis and it is not clea
 clinical benefits QAngio QFR and CAAS vFFR offer over these. Therefore, QAngio QFR and
 CAAS vFFR are not recommended for use in the NHS, and further research is
 recommended.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
-conditions#notice-of-rights). 40
---- Страница 6 ---
+
 2 The diagnostic tests
 Clinical need and practice
 2.1 Angina is chest pain caused by insufficient blood supply to the heart (myocardial
@@ -141,9 +111,7 @@ has been done and indicates ST-T changes or Q waves.
 coronary artery disease of uncertain functional significance, or is non-diagnostic,
 the guideline recommends offering non-invasive functional imaging for
 myocardial ischaemia. This could be:
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
-conditions#notice-of-rights). 40
---- Страница 7 ---
+
 • myocardial perfusion scintigraphy with single-photon emission CT (MPS with
 SPECT) or
 • stress echocardiography or
@@ -170,9 +138,7 @@ could help avoid the risks associated with passing the pressure wire to the
 coronary arteries, and with adenosine infusion.
 The interventions
 2.8 Both tests included in the assessment are CE marked and available to the NHS.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
-conditions#notice-of-rights). 40
---- Страница 8 ---
+
 CAAS vFFR
 2.9 The CAAS vFFR software (Pie Medical Imaging) works by building a 3D
 reconstruction of a coronary artery as well as assessing the pressure drop across
@@ -202,16 +168,12 @@ should be considered.
 hyperaemia.
 Fixed-flow QFR is faster to compute, but may be less accurate than contrast
 QFR.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
-conditions#notice-of-rights). 40
---- Страница 9 ---
+
 The comparator
 2.12 The comparator is clinical decision making based on the visual interpretation of
 the images from invasive coronary angiography, alongside clinical judgement.
 The reference standard for assessing diagnostic accuracy is FFR or iFR.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
-conditions#notice-of-rights). 40
---- Страница 10 ---
+
 3 Evidence
 The diagnostics advisory committee considered evidence on QAngio XA 3D quantitative
 flow ratio (QAngio QFR) and CAAS vessel fractional flow reserve (CAAS vFFR) for
@@ -238,9 +200,7 @@ as part of invasive coronary angiography and before FFR.
 and 2 were done at a single centre. Only the ILUMIEN I study had a full text
 manuscript. This study was considered at high risk of selection bias because of
 the large percentage of lesions excluded.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
-conditions#notice-of-rights). 40
---- Страница 11 ---
+
 Diagnostic test accuracy
 CAAS vFFR
 3.5 Of the 4 studies reporting the diagnostic accuracy of CAAS vFFR only 1 (ILUMIEN
@@ -273,9 +233,7 @@ with QAngio QFR. It concluded that diagnostic performance of CAAS vFFR was
 poorer than for QAngio QFR, with area under the curves of 0.719 (95% confidence
 interval [CI] 0.621 to 0.804) for CAAS vFFR and 0.886 (95% CI 0.807 to 0.940) for
 contrast QFR (cQFR).
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
-conditions#notice-of-rights). 40
---- Страница 12 ---
+
 QAngio QFR
 3.8 The EAG did a meta-analysis of the included studies, focusing on the diagnostic
 accuracy of QAngio QFR to detect lesions or vessels needing intervention
@@ -309,9 +267,7 @@ specified QAngio QFR.
 3.12 The results of the bivariate meta-analysis were almost identical to the univariate
 analyses, with no conclusive evidence of a significant difference between fQFR
 and cQFR. The results of this analysis are summarised in table 2.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
-conditions#notice-of-rights). 40
---- Страница 13 ---
+
 Table 2 Results of bivariate meta-analysis
 Mode Sensitivity 95% confidence intervals Specificity 95% confidence intervals
 cQFR 84.32 77.29 to 89.48 91.4 84.96 to 95.24
@@ -340,9 +296,7 @@ were combined.
 3.16 QFR, as measured by QAngio, was highly correlated with FFR (r=0.80). In 50% of
 people, QFR and FFR differed by no more than 0.04. In 95% of people, values
 differed by no more than 0.14.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
-conditions#notice-of-rights). 40
---- Страница 14 ---
+
 Grey-zone analysis
 3.17 In the grey-zone analysis:
 • If QAngio QFR is more than 0.84: continue without stenting or bypass and
@@ -372,9 +326,7 @@ correlation of 2D invasive coronary angiography with FFR was much weaker
 (correlation coefficient -0.432). A bivariate meta-analysis of these extracted data
 produced summary sensitivity and specificity estimates of 62.6% (95% CI 51.5%
 to 72.5%) and 61.6% (95% CI 53.1% to 69.4%), respectively.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
-conditions#notice-of-rights). 40
---- Страница 15 ---
+
 Other intermediate outcomes
 Test failure
 3.21 The most reported (15 studies) causes of exclusion were issues with image
@@ -404,9 +356,7 @@ to 2 weeks. Most studies reported a high level of intra-observer reliability for
 QAngio QFR. One study evaluated both QAngio QFR and CAAS vFFR and found
 high levels of repeatability and no statistically significant changes between
 repeated tests.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
-conditions#notice-of-rights). 40
---- Страница 16 ---
+
 Timing
 3.26 There were 6 studies of QAngio QFR that reported the time needed to complete
 QFR analysis. Time to QFR data acquisition ranged from an average of 2 minutes
@@ -437,9 +387,7 @@ Japan Westra to 64%
 Kanno (2019a; 0.73 Positive predictive value and
 conference to negative predictive value more than 52%
 abstract) 0.84 90%
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
-conditions#notice-of-rights). 40
---- Страница 17 ---
+
 Grey Diagnostic accuracy of grey-zone strategy (QFR Percentage of adenosine or
 Study
 zone compared with FFR) FFR procedures avoided
@@ -477,9 +425,7 @@ study used major adverse cardiovascular events as its primary outcome.
 3.31 Three strategies for deciding whether to revascularise were investigated:
 • FFR only: do FFR for all and revascularise if FFR is 0.80 or less.
 • QAngio QFR only: do QAngio QFR for all and revascularise if QAngio QFR is
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
-conditions#notice-of-rights). 40
---- Страница 18 ---
+
 0.80 or less, without measuring FFR.
 • Grey zone: do QAngio QFR for all and:
 － revascularise if QAngio QFR is 0.78 or less
@@ -507,9 +453,7 @@ significance of coronary stenosis during invasive coronary angiography. No
 studies were found so a review of published cost-effectiveness studies
 evaluating invasive coronary angiography (alone or with FFR) in managing
 coronary artery disease was done. The EAG identified 21 relevant studies and of
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
-conditions#notice-of-rights). 40
---- Страница 19 ---
+
 these, 2 models (Walker et al. 2011 and Genders et al. 2015) were good examples
 of alternative ways to evaluate diagnostic strategies in patients with suspected
 stable angina.
@@ -536,9 +480,7 @@ for urgent or unplanned revascularisation.
 invasive coronary angiograms showed intermediate stenosis. The age and sex
 distribution of the population was derived from the IRIS-FFR registry (mean age
 of 64 years and 72% men).
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
-conditions#notice-of-rights). 40
---- Страница 20 ---
+
 Model inputs
 3.38 The prevalence of functionally significant stenosis in the population was based on
 studies that reported values of FFR and cQFR or non-specified QFR. It was
@@ -577,9 +519,7 @@ case
 ICA 1 Scenario 71.00% 66.00% Danad et al. (2017) per vessel analysis
 Abbreviations: ICA, invasive coronary angiography; QFR, quantitative flow ratio; cQFR,
 contrast QFR; fQFR, fixed-flow QFR; vFFR, vessel fractional flow reserve.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
-conditions#notice-of-rights). 40
---- Страница 21 ---
+
 3.40 The diagnostic accuracy of QAngio QFR in strategy 4 was based on the joint
 distribution of QFR and FFR measurements in the extracted individual-level
 patient data. The probabilities of QAngio QFR test results being positive (QFR less
@@ -609,9 +549,7 @@ Death 0.015% Fearon et al. (2003)
 3.42 The rate of procedural deaths associated with revascularisation was sourced
 from UK audit data, which gives a 0.99% death risk for non-emergency coronary
 artery bypass graft and 0.17% for percutaneous coronary intervention. The
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
-conditions#notice-of-rights). 40
---- Страница 22 ---
+
 mortality rate associated with revascularisation was estimated as a weighted
 average of the mortality rates for percutaneous coronary intervention and
 coronary artery bypass graft. This was relative to the proportion of percutaneous
@@ -644,9 +582,7 @@ the improvement in symptom relief was the only benefit. The HRQoL effects of
 revascularisation were based on the FAME trials. Both were randomised, parallel,
 open-label clinical trials. FAME I compared invasive coronary angiography with
 FFR for guiding percutaneous coronary interventions in patients with multivessel
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
-conditions#notice-of-rights). 40
---- Страница 23 ---
+
 coronary artery disease. FAME II compared clinical outcomes, safety and cost
 effectiveness of FFR-guided percutaneous coronary intervention with optimal
 medical treatment alone in patients with stable coronary artery disease. These
@@ -677,9 +613,7 @@ CABG 0.033 (0.031 to 0.035) Bagust et al. (2006)
 Abbreviations: ICA, invasive coronary angiography; FFR, fractional flow reserve; iFR,
 instantaneous wave-free ratio; PCI, percutaneous coronary intervention; CABG, coronary
 artery bypass graft; QALY, quality-adjusted life year.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
-conditions#notice-of-rights). 40
---- Страница 24 ---
+
 Costs
 3.48 The base-case cost of QAngio QFR with a throughput of 200 people per year was
 £430.61 per person tested. This was based on the purchase of vouchers for
@@ -709,9 +643,7 @@ revascularisation depends on disease severity as measured by FFR, while the
 distribution of FFR values differs by diagnostic strategy.
 • There is no treatment effect of revascularisation on risk of major adverse
 cardiovascular events, based on the findings of the ISCHEMIA trial.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
-conditions#notice-of-rights). 40
---- Страница 25 ---
+
 • Costs of QAngio QFR and CAAS vFFR were based on an average annual
 throughput of 200 people.
 • The base case assumed all diagnostic procedures took place in an
@@ -743,9 +675,7 @@ ICA with QAngio QFR and confirmatory FFR
 NHB and INHB are measured at a maximum acceptable ICER of £20,000 per QALY gained.
 Incremental NHB is relative to ICA alone. Abbreviations: ICA, invasive coronary
 angiography; FFR, fractional flow reserve; QFR, quantitative flow ratio; vFFR, vessel FFR;
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
-conditions#notice-of-rights). 40
---- Страница 26 ---
+
 QALY, quality-adjusted life year; NHB, net health benefit; INHB, incremental NHB.
 Table 9 Probabilistic cost-effectiveness results for base-case scenario
 Probability cost effective
@@ -777,9 +707,7 @@ model and when different assumptions were made. However, sometimes these
 alterations resulted in significant changes to the net health benefit rankings of
 the different strategies.
 3.54 In the base case, the diagnostic accuracy estimates for vFFR were based on the
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
-conditions#notice-of-rights). 40
---- Страница 27 ---
+
 FAST EXTEND study (sensitivity 97.0% and specificity 74.0%), the largest study of
 vFFR (330 patients). Using accuracy estimates from ILUMIEN I reduced the cost
 effectiveness of vFFR, but estimates from Jin et al. (2019) increased it. This
@@ -812,14 +740,10 @@ QALY gains than mismanagement of false negative test results.
 catheterisation at a subsequent appointment in an interventional centre for
 strategies involving measuring FFR or iFR (strategies 2 and 4) meant that
 strategies without this testing component were more cost effective. Strategy 3
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
-conditions#notice-of-rights). 40
---- Страница 28 ---
+
 (QAngio QFR alone) became the strategy with the highest net benefit, followed
 by strategy 5 (CAAS vFFR alone).
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
-conditions#notice-of-rights). 40
---- Страница 29 ---
+
 4 Committee discussion
 Clinical need
 FFR and iFR are not frequently used so QAngio QFR and CAAS
@@ -849,9 +773,7 @@ breath from this. These side effects usually pass quickly but can be distressing
 Around 3% of people may experience discomfort from the pressure wire itself and
 there is a small risk of rupture of the blood vessel. By avoiding adenosine infusion
 and a pressure wire, QAngio QFR and CAAS vFFR could reduce unpleasant side
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
-conditions#notice-of-rights). 40
---- Страница 30 ---
+
 effects and risk of complications.
 Clinical effectiveness
 The diagnostic accuracy evidence for CAAS vFFR is highly
@@ -881,9 +803,7 @@ of between 0.76 and 0.80, that is, a false negative result. A more significant e
 could occur for people with an FFR result of less than 0.76 who have a negative
 result on QAngio QFR (0.80 or higher). The EAG noted that modelling suggested
 around 3% of people with an FFR result of less than 0.76 would be misdiagnosed
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
-conditions#notice-of-rights). 40
---- Страница 31 ---
+
 if using QFR for functional imaging. Clinical experts also explained that with FFR
 values close to the 0.80 cut-off, it is unclear whether there is any added benefit
 of revascularisation compared to optimal medical therapy. The committee
@@ -915,9 +835,7 @@ such as 64-slice coronary angiography and non-invasive functional imaging tests,
 but this may vary between centres. Some people may also have HeartFlow
 FFRCT which is recommended in the NICE medical technologies guidance on
 HeartFlow FFRCT for estimating FFR from coronary CT angiography. The clinical
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of
-conditions#notice-of-rights). 40
---- Страница 32 ---
+
 experts explained that these previous assessments can rule out the need for
 interventional treatment. Therefore, it is likely that people who do go on to have
 invasive coronary angiography have more severe disease than the people in the
@@ -949,9 +867,7 @@ QFR and CAAS vFFR are needed
 QFR or CAAS vFFR-based approach was used to guide revascularisation
 decisions after invasive coronary angiography. The clinical experts explained that
 there was a need for clinical outcome data from large endpoint studies comparing
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 32 of
-conditions#notice-of-rights). 40
---- Страница 33 ---
+
 these imaging software with FFR or invasive coronary angiography-guided
 treatment. There are already multiple tests in the care pathway, and it was
 unclear how QAngio QFR or CAAS vFFR could offer additional clinical benefit.
@@ -984,9 +900,7 @@ disutility was a key driver of the cost-effectiveness results, but because of a 
 of evidence it was uncertain what disutility should be used. The committee
 recommended further research into the disutility associated with FFR (see
 research recommendation 5.1).
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 33 of
-conditions#notice-of-rights). 40
---- Страница 34 ---
+
 Test costs may not be accurate because test failure rates are not
 adequately captured in the model
 4.10 Test failure rates were high in the studies, especially the retrospective ones,
@@ -1015,9 +929,7 @@ practice, where the results of previous tests and people's preferences would als
 influence a treatment decision (see section 4.6). The committee noted that
 similar results were seen for CAAS vFFR but concluded that there was greater
 uncertainty in this result because of the lack of diagnostic accuracy evidence.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 34 of
-conditions#notice-of-rights). 40
---- Страница 35 ---
+
 More data are needed because the clinical utility and cost
 effectiveness of QAngio QFR and CAAS vFFR are uncertain
 4.12 Compared with the reference standard of FFR or iFR, QAngio QFR (with and
@@ -1051,9 +963,7 @@ invasive coronary angiography in diagnostic-only centres. Having an
 angiographic procedure in an interventional centre means that invasive coronary
 angiography, FFR or iFR and percutaneous coronary intervention can be done in a
 single visit, if appropriate. This reduces the need for multiple hospital visits, which
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 35 of
-conditions#notice-of-rights). 40
---- Страница 36 ---
+
 has the potential to reduce people's anxiety. A clinical expert explained that
 according to 2017 to 2018 data from the National Institute of Cardiovascular
 Outcomes Research, around 35,000 invasive coronary angiography procedures
@@ -1086,9 +996,7 @@ accuracy and clinical evidence, CAAS vFFR was not recommended. Despite
 having good diagnostic accuracy evidence, QAngio QFR should not be
 recommended for use until further data showing that it improves patient
 outcomes are available.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 36 of
-conditions#notice-of-rights). 40
---- Страница 37 ---
+
 5 Recommendations for further research
 5.1 A patient experience study is recommended to better understand the general
 effect on patients of having an invasive coronary angiography and the range and
@@ -1104,9 +1012,7 @@ cardiovascular events, mortality and EQ-5D data to assess the effect on quality
 of life.
 5.4 More diagnostic accuracy studies are needed for CAAS vFFR against an
 appropriate reference standard.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 37 of
-conditions#notice-of-rights). 40
---- Страница 38 ---
+
 6 Implementation
 NICE intends to develop tools, in association with relevant stakeholders, to help
 organisations put this guidance into practice.
@@ -1116,9 +1022,7 @@ NICE Medical Technologies Evaluation Programme research facilitation team for
 developing specific research study protocols as appropriate. NICE will also incorporate the
 research recommendations in section 5 into its guidance research recommendations
 database and highlight these recommendations to public research bodies.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 38 of
-conditions#notice-of-rights). 40
---- Страница 39 ---
+
 7 Diagnostics advisory committee
 members and NICE project team
 Committee members
@@ -1142,9 +1046,7 @@ Consultant general and interventional cardiologist, Freeman Hospital
 NICE project team
 Each diagnostics assessment is assigned to a team consisting of a technical analyst (who
 acts as the topic lead), a technical adviser and a project manager.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 39 of
-conditions#notice-of-rights). 40
---- Страница 40 ---
+
 Ewa Rupniewska and Simon Webster
 Topic leads
 Frances Nixon and Peter O'Neill
@@ -1152,5 +1054,3 @@ Technical advisers
 Donna Barnes
 Project manager
 ISBN: 978-1-4731-7384-2
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 40 of
-conditions#notice-of-rights). 40

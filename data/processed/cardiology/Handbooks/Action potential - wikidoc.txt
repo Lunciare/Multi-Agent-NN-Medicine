@@ -11,8 +11,6 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
-22/01/2026, 16:08 Action potential - wikidoc
 Search WikiDoc
 Search Try Exact Match
 Action potential
@@ -27,50 +25,8 @@ schematic view because of variations in
 electrophysiological techniques used to make the
 recording
 Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
-https://www.wikidoc.org/index.php/Action_potential 1/14
---- Страница 2 ---
-22/01/2026, 16:08 Action potential - wikidoc
-Contents
-• Overview
-• Underlying mechanism
-• Resting potential
-• Phases
-• Resting potential
-• Stimulation
-• Depolarization ("Rising phase")
-• Peak
-• Repolarization ("Falling phase")
-• Hyperpolarization ("Undershoot")
-• Refractory Period
-• Threshold and initiation
-• Circuit model
-• Propagation
-• Speed of propagation
-• Saltatory conduction
-• Detailed mechanism
-• Resilience to injury
-• Role in disease
-• Refractory period
-• Termination and consequences
-• Evolutionary advantage
-• Plant action potentials
-• Alternative models
-• See also
-• References
-• General sources
-• Primary sources
-• Specific citations
-• External links
-Overview
-An action potential is a "spike" of electrical discharge that travels along the membrane of a cell.
-Action potentials are an essential feature of animal life, rapidly carrying information within and
-between tissues. They also occur in some plants. Action potentials can be created by many types of
-cells, but are used most extensively by the nervous system for communication between neurons
-and for transmitting information from neurons to other body tissues such as muscles and glands.
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Action_potential 2/14
---- Страница 3 ---
-22/01/2026, 16:08 Action potential - wikidoc
+ 1/14
+
 Action potentials are not the same in all cell types and can even vary in their properties at different
 locations in the same cell. For example, cardiac action potentials are significantly different from
 the action potentials in most neurons. This article is primarily concerned with the "typical" action
@@ -101,9 +57,8 @@ action potential reaches a synapse, where it stimulates the release of neurotran
 neurotransmitters can immediately induce an action potential in the next neuron to propagate the
 signal, but the response is usually more complex.
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Action_potential 3/14
---- Страница 4 ---
-22/01/2026, 16:08 Action potential - wikidoc
+ 3/14
+
 Both the speed and complexity of action potentials vary between different types of cells, but their
 amplitudes tend to be roughly the same. Within any one cell, consecutive action potentials are
 typically indistinguishable. Neurons are thought to transmit information by generating sequences
@@ -139,9 +94,8 @@ electrochemical gradients. At the resting potential, the net movement of sodium 
 the net movement of potassium out of the cell. However, the resting cell membrane is
 approximately 75 times more permeable to potassium than to sodium because potassium leak
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Action_potential 4/14
---- Страница 5 ---
-22/01/2026, 16:08 Action potential - wikidoc
+ 4/14
+
 channels are always open. As a result, the cell's resting membrane potential is closer to the
 equilibrium potential of potassium (=E =−80 mV) than the equilibrium potential of sodium
 K
@@ -178,9 +132,8 @@ preventing further influx of sodium ions. While this occurs, the voltage-sensiti
 on the voltage-gated potassium channels begin to open.
 Repolarization ("Falling phase")
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Action_potential 5/14
---- Страница 6 ---
-22/01/2026, 16:08 Action potential - wikidoc
+ 5/14
+
 As voltage-gated potassium channels open, there is a large outward movement of potassium ions
 driven by the potassium concentration gradient and initially favored by the positive-inside
 electrical gradient. As potassium ions diffuse out, this movement of positive charge causes a
@@ -222,9 +175,8 @@ action potential threshold may be studied using I/V curves (right) that plot cur
 channels against the cell's membrane potential. (Note that the illustrated I/V is an "instantaneous"
 current voltage relationship. It represents the peak current through channels at a given voltage
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Action_potential 6/14
---- Страница 7 ---
-22/01/2026, 16:08 Action potential - wikidoc
+ 6/14
+
 before any inactivation has taken place (i.e. ~ 1 ms after stepping to that voltage) for the Na
 current. The most positive voltages in this plot are only attainable by the cell through artificial
 means - i.e. voltages imposed by the voltage-clamp apparatus).
@@ -269,9 +221,8 @@ sodium current becomes significant; it is the point where it exceeds the potassi
 Biologically in neurons, depolarization typically originates in the dendrites at synapses. In
 principle, however, an action potential may be initiated anywhere along a nerve fiber. In his
 discovery of "Caonoikmiesa hle elpl eusc dtreliicvietry o,u"r Lseurviigceis G. Bay luvsainng io umr saedrveic eas ,l yeogu aogfr eae tdo eoaurd u sfer oofg c okoikcieks .as in life by touching
-https://www.wikidoc.org/index.php/Action_potential 7/14
---- Страница 8 ---
-22/01/2026, 16:08 Action potential - wikidoc
+ 7/14
+
 a sciatic nerve with his scalpel, to which he had inadvertently transferred a negative, static-electric
 charge, thus initiating an action potential.
 Circuit model
@@ -300,9 +251,8 @@ depolarized, the voltage-gated sodium channels in that patch open, regenerating 
 process repeats itself down the length of the axon, with an action potential regenerated at each
 segment of membrane.
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Action_potential 8/14
---- Страница 9 ---
-22/01/2026, 16:08 Action potential - wikidoc
+ 8/14
+
 Propagating action potentials can be modeled by
 joining several RC circuits, each one representing
 a patch of membrane.
@@ -335,9 +285,8 @@ jump along the length of an axon, being regenerated only at uninsulated segments
 Ranvier). Saltatory conduction increases nerve conduction velocity without having to dramatically
 increase axon diameter.
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Action_potential 9/14
---- Страница 10 ---
-22/01/2026, 16:08 Action potential - wikidoc
+ 9/14
+
 Saltatory conduction has played an important role in the evolution of larger and more complex
 organisms whose nervous systems must rapidly transmit action potentials across greater distances.
 Without saltatory conduction, conduction velocity would need large increases in axon diameter,
@@ -380,9 +329,8 @@ the passive transmission of action potentials across myelinated segments would s
 potentials propagate in either direction, most action potentials travel unidirectionally because the
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
 node behind the propagating action potential is refractory.
-https://www.wikidoc.org/index.php/Action_potential 10/14
---- Страница 11 ---
-22/01/2026, 16:08 Action potential - wikidoc
+ 10/14
+
 This period arises primarily because of the time-dependent inactivation of sodium channels, as
 described by Hodgkin and Huxley in 1952. Immediately after an action potential, during the
 absolute refractory period, virtually all sodium channels are inactivated and thus it is impossible
@@ -424,9 +372,8 @@ main difference between plant and animal action potentials is that plants primar
 and calcium currents while animals typically use currents of potassium and sodium.
 Alternative models
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Action_potential 11/14
---- Страница 12 ---
-22/01/2026, 16:08 Action potential - wikidoc
+ 11/14
+
 The model of electrical signal propagation in neurons employing voltage-gated ion channels
 described above is accepted by almost all scientists working in the field. However there are a few
 observations not easily reconciled with the model:
@@ -456,7 +403,7 @@ Baltimore: Lippincott. ISBN 0781739446
 York (2000). ISBN 0-8385-7701-6
 • Dale Purves, et al. Neuroscience, 2nd ed. 2001. Sinauer Associates, Inc. Ion Channels
 Underlying Action Potentials. ISBN 0878937250 Release of Transmitters from Synaptic Vesicles
-(http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=neurosci.section.326)
+(
 • Kent, M., Advanced Biology. 2000. United Kingdom: Oxford University Press.
 • Taylor, D.J., Green, N.P.O., & Stout, G.W. 2003. Biological Sciences, 3rd ed. United Kingdom :
 Cambridge University Press.
@@ -468,9 +415,8 @@ Loligo. J Physiol. 1952 Apr;116(4):473-96. PMID 14946714
 • Hodgkin AL, Huxley AF. The dual effect of membrane potential on sodium conductance in the
 giant axon of Loligo. J Physiol. 1952 Apr;116(4):497 – 506. PMID 14946715
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Action_potential 12/14
---- Страница 13 ---
-22/01/2026, 16:08 Action potential - wikidoc
+ 12/14
+
 • Hodgkin AL, Huxley AF. A quantitative description of membrane current and its application to
 conduction and excitation in nerve. J Physiol. 1952 Aug;117(4):500-44. PMID 12991237
 • Clay JR. Axonal excitability revisited. Prog Biophys Mol Biol. 2005 May;88(1):59 – 90. PMID
@@ -478,50 +424,49 @@ conduction and excitation in nerve. J Physiol. 1952 Aug;117(4):500-44. PMID 1299
 Specific citations
 External links
 • Template:McGrawHillAnimation
-• Electrochemistry of plant life (http://electrochem.cwru.edu/ed/encycl/art-p01-plants.htm), May,
+• Electrochemistry of plant life ( May,
 2004 from Case Western Reserve University
-• Demonstration of ion flow during action potential (http://www.blackwellpublishing.com/matthew
+• Demonstration of ion flow during action potential (
 s/channel.html) at Blackwell Publishing
-• Action potential propagation in myelinated vs. unmyelinated axons (http://www.blackwellpublish
+• Action potential propagation in myelinated vs. unmyelinated axons (
 ing.com/matthews/actionp.html) at Blackwell Publishing
-• Open-source software to simulate neuronal and cardiac action potentials (http://cese.sourcefor
+• Open-source software to simulate neuronal and cardiac action potentials (
 ge.net/) at SourceForge
-• Nernst/Goldman Equation Simulator (http://www.nernstgoldman.physiology.arizona.edu/) at
+• Nernst/Goldman Equation Simulator ( at
 University of Arizona
-• Electrophysiology and The Molecular Basis of Excitability (http://nerve.bsd.uchicago.edu/) at
+• Electrophysiology and The Molecular Basis of Excitability ( at
 University of Chicago
-• Action Potential (http://www.unm.edu/~lkravitz/Exercise%20Phys/actionpotential.html) Len
+• Action Potential ( Len
 Kravitz, University of New Mexico
-• PSY 340 Brain and Behavior, 2.2a Neural Impulse (part 2) (http://web.lemoyne.edu/~hevern/ps
+• PSY 340 Brain and Behavior, 2.2a Neural Impulse (part 2) (
 y340/lectures/psy340.02.2a.neur.impulse.html) Vincent W. Hevern, Le Moyne College, Syracuse
 New York
-• Action Potentials (http://faculty.stcc.edu/AandP/AP/AP1pages/nervssys/unit11/action.htm)
+• Action Potentials (
 Dawn A. Tamarkin, Springfield Technical Community College, Springfield, Massechusets
-• Action Potential (http://gargoyle.arcadia.edu/psychology/blustein/neuro/Lecture_Notes/Week_
+• Action Potential (
 1/Week_2/Action_Potential.jpg) Rachel McCready, Intensive Care Unit, London Health Services
 Centre
-• Propagation of an Action Potential (http://www.accessexcellence.org/RC/VL/GG/ecb/propagati
+• Propagation of an Action Potential (
 on_action_potential.html) National Health Museum Resource Center, Washington DC
-• Neurotransmission (http://ibs.derby.ac.uk/~steve/neuroscience/) Steve Croker, University of
+• Neurotransmission ( Steve Croker, University of
 Derby. Derby, England
-• Neurotransmitter and neuron diagrams (http://mywebpages.comcast.net/epollak/PSY255_pix/
+• Neurotransmitter and neuron diagrams (
 PSY255_pix.htm) Edward I. Pollack, West Chester University of Pennsylvania
-• Action Potential Conduction (http://concise.britannica.com/ebc/art-66781) Encyclopædia
+• Action Potential Conduction ( Encyclopædia
 Britannica
-• The Action Potential (http://www.du.edu/~kinnamon/3640/actionpotential/ap1.html) John
+• The Action Potential ( John
 Kinnamon, University of Denver
-• Excitable Cells (http://home.comcast.net/~john.kimball1/BiologyPages/E/ExcitableCells.html)
+• Excitable Cells (
 John Kimball, Tufts University (retired)
-• Resting and Action Membrane Potentials (http://trc.ucdavis.edu/biosci10v/bis10v/week10/06po
+• Resting and Action Membrane Potentials (
 tential.html) Teaching Resources Center, UC Davis. Animated tutorials
-• Action Potential (http://mcb.berkeley.edu/courses/mcb64/action_potential.html) Frank Werblin,
+• Action Potential ( Frank Werblin,
 UC Berkely. Animated and interactive tutorials
-• Action Potential Movement Through an Axon (http://learner2.learner.org/channel/courses/biolo
+• Action Potential Movement Through an Axon (
 gy/archive/images/1968_d.html) at learner.org
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Action_potential 13/14
---- Страница 14 ---
-22/01/2026, 16:08 Action potential - wikidoc
+ 13/14
+
 Template:Link FA ar:لعفلا نومك de:Aktionspotential ko:활동전위 it:Potenziale d'azione he:יבצע ףחד
 ms:Potensi aksi nl:Actiepotentiaal simple:Nerve impulse sl:Akcijski potencial
 fi:Toimintapotentiaali sv:Aktionspotential
@@ -534,4 +479,4 @@ Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a
 There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
 Licensing | Disclaimers | Avoid Plagiarism | Policies
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Action_potential 14/14
+ 14/14

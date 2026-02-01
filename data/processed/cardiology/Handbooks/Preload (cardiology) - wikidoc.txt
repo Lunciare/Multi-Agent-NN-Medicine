@@ -11,8 +11,6 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
-22/01/2026, 16:09 Preload (cardiology) - wikidoc
 Search WikiDoc
 Search Try Exact Match
 Preload (cardiology)
@@ -20,38 +18,7 @@ Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailto:charlesmich
 aelgibson@gmail.com) ; Associate Editor: Cafer Zorkun, M.D., Ph.D.
 [2] (mailto:czorkun@wikidoc.org)
 Synonyms and keywords: filling pressure
-Contents
-• Introduction
-•
-Heart during ventricular
-Factors & conditions increased ventricular filling and therefore
-diastole.
-preload
-• Factors & conditions decreased preload
-• See also
-Introduction
-In cardiac physiology, preload is the pressure stretching the ventricle of the heart, after passive
-filling and atrial contraction. If the chamber is not mentioned, it is usually assumed to be the left
-ventricle.
-Preload is theoretically most accurately described as the initial stretching of a single cardiac
-myocyte prior to contraction. This cannot be measured in vivo and therefore other measurements
-are used as estimates. Estimation is inaccurate, for example in a chronically dilated ventricle new
-sarcomeres may have formed in the heart muscle allowing the relaxed ventricle to appear enlarged.
-The term end-diastolic volume is better suited to the clinic, although not exactly equivalent to the
-laboratory term preload.
-Quantitatively, preload can be calculated as <math>(LVEDP * LVEDR)/ 2h</math>, where
-LVEDP=Left Ventricular end diastolic pressure, LVEDR= Left ventricular end diastolic radius (at
-the ventricle's midpoint), and h=thickness of the ventricle. This calculation is based on the Law of
-Laplace
-Preload is affected by venous blood pressure and the rate of venous return. These are affected by
-venous tone and volume of circulating blood.
-Preload relates to the ventricular end-diastolic volume: a higher end-diastolic volume implies a
-higher preload, but the relationship is not simple, because of the restriction of the term preload to
-single myocytes. Single myocytes are not connected simply, but in an interdigitated manner.
-Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
-https://www.wikidoc.org/index.php/Preload_(cardiology) 1/3
---- Страница 2 ---
-22/01/2026, 16:09 Preload (cardiology) - wikidoc
+
 Preload increases with exercise (slightly), increasing blood volume (overtransfusion) and
 excitement (sympathetics).
 Factors & conditions increased ventricular filling and therefore preload
@@ -87,9 +54,8 @@ See also
 • Frank-Starling law of the heart
 de:Vorlast
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Preload_(cardiology) 2/3
---- Страница 3 ---
-22/01/2026, 16:09 Preload (cardiology) - wikidoc
+ 2/3
+
 Template:WikiDoc Sources
 Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
 Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
@@ -98,4 +64,4 @@ Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a
 There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
 Licensing | Disclaimers | Avoid Plagiarism | Policies
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Preload_(cardiology) 3/3
+ 3/3

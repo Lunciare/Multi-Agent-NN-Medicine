@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Willy Frick onJanuary 5, 2025
 Is it important to try to
 determine the culprit vessel
@@ -28,7 +29,7 @@ rhythm strip, R4 and R5 look like natively conducted beats. (Note,
 they are not sinus since the P waves are upside down in aVF. It looks
 like a low atrial rhythm.) The other beats are wider and have a 
 different origin — more on this later. Unfortunately, although natively
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 1/15
+ 1/15
 conducted beats are the best ones for evaluating ischemia, we only
 have a few! Or do we?
 Although printed ECGs in North America typically display 2.5 seconds
@@ -48,7 +49,7 @@ critical because AI needs an XML file for analysis.
 Case Continued
 I like to take advantage of this fact by opening up the ECG in the
 reading software and reformatting it into 12 channels of rhythm.
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 2/15
+ 2/15
 Before reading further, see if you can figure out the rhythm. My
 interpretation is described in reference to the lead II rhythm strip
 below with annotations for clarity.
@@ -73,7 +74,7 @@ between the AIVR beats. Hence they are fusion beats [fusion
 between ventricular (wide) and conducted (narrow)]. R3 is
 mostly AIVR morphology, and R6 is mostly sinus conducted
 morphology.
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 3/15
+ 3/15
 The green arrows indicate atrial activity that appears to have
 been beaten out by the AIVR (i.e., did not conduct because the
 AIVR beat came first). I doubt retrograde conduction because
@@ -109,7 +110,7 @@ hypokinesis. The patient was evaluated Saturday with no changes to
 plan.
 On Sunday, the patient complained of dyspnea and angina while
 ambulating. Repeat ECG is shown.
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 4/15
+ 4/15
 Again, we see reperfusion in the inferior and posterior territories.
 There is just a hint of coving in leads III and aVF suggesting a
 component of active ischemia which fits with persistent pain.
@@ -128,7 +129,7 @@ If interested, you can review the angiography in detail on my
 coronary angiography guide where you will find a lot more
 information about coronary angiography generally.
 Here is an LAO cranial view showing TIMI 0 in the mid to distal RCA
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 5/15
+ 5/15
 Angiography was interpreted as showing chronic total occlusion of
 the RCA. (We know from the ECG that the RCA is actually the acute
 culprit!) The patient received DES to mid LAD and DES to diagonal,
@@ -144,7 +145,7 @@ different operator performed repeat angiography. The second
 operator described the RCA as an acute thrombotic occlusion and
 placed three overlapping stents. The final shot is shown.
 SSccrreeeenn RReeccoorrddiinngg 22002255 0011 0033 aatt 1122 5544 2299 PPMM
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 6/15
+ 6/15
 Learning points:
 Just because the cath report describes a lesion as “CTO” does
 not mean it is. It may still be an acute culprit.
@@ -181,7 +182,7 @@ II with the already displayed lead V1 rhythm strip to facilitate
 clarifyingatrial activity in todayʼs initial tracing.
 Without Dr. Frickʼs reformatting the 10 beats in todayʼs
 initial tracing into 12 channels of rhythm — I
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 7/15
+ 7/15
 would never have realized that there are 2 atrial foci in
 the initial rhythm.(Although P wave morphology of sinus
 P waves may vary some from one beat to the next — I
@@ -229,7 +230,7 @@ normally to the ventricles (ie, beats #4 and 5 are narrow
 QRS complexes).
 Beats #3 and #6 are Fusion beats (F). We know this —
 because both of these beats: i) Manifest a QRS and T
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 8/15
+ 8/15
 wave morphology that is intermediate to the beat before
 and the beat after it (ie, QRST morphology of beat #3 is
 intermediate to that of beats #2 and #4 — and QRST
@@ -268,7 +269,7 @@ Sinus P waves h and i are not conducted to the
 ventricles — because these P waves occur after the
 QRS of beats #8 and 9 during the ARP (Absolute
 Refractory Period).
-https://drsmithsecgblog.com/does-guessing-culprit-vessel-based-on/ 9/15
+ 9/15
 Escape low atrial impulses d and e occur at just the right
 time to be able to conduct normally to the ventricles to
 produce beats #4 and 5.

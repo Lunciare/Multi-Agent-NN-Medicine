@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Magnus Nossen onJuly 30, 2025
 87-year-old with chest pain
 Written by Magnus Nossen.
@@ -30,7 +31,7 @@ pronounced T wave changes seen in lead V5. These subtle
 ECG changes were not noticed or commented on by
 
 providers.
-https://drsmithsecgblog.com/87-year-old-with-chest-pain/ 1/13
+ 1/13
 The patient arrived in the emergency department with
 ongoing chest pain unresponsive to morphine and
 nitroglycerin. Initial high-sensitivity troponin I was mildly
@@ -56,7 +57,7 @@ makes the changes even more evident.
 In the image below, selected leads from the prehospital ECG
 are compared with baseline. The change from prior can only
 be caused by ischemia.
-https://drsmithsecgblog.com/87-year-old-with-chest-pain/ 2/13
+ 2/13
 Notice the concordant T wave in lead I, and the hyperacute T
 waves in leads V5 and V6 in the prehospital ECG when
 compared to baseline.
@@ -69,7 +70,7 @@ QoH with explainability for ECG #1
 New PMcardio for Individuals App 3.0 now includes
 the latest Queen of Hearts model and AI explainability (blue
 heatmaps)! Download now for iOS or Android.
-https://www.powerfulmedical.com/pmcardio-individuals/
+
 As you can see, the AI model highlights subtle concordant ST
 segment convexity in lead I — as well as hyperacute,
 prominent T waves in the lateral chest leads. Additionally,
@@ -92,7 +93,7 @@ model outputs a value of 0.981 for active OMI, which is very
 close to the maximum score of 1.0. According to Dr. Meyers,
 based on the training data — this corresponds to a specificity
 of approximately 99-99,5%
-https://drsmithsecgblog.com/87-year-old-with-chest-pain/ 3/13
+ 3/13
 Queenʼs Interpretation of ECG #1
 (This model is not available to the public)
 The AI model is very certain this ECG represents acute
@@ -120,7 +121,7 @@ left ventricle. This anterolateral territory supplied by D1 lies
 “between” the regions supplied by the LAD and the
 circumflex artery, which is reflected in the AIʼs predicted likely
 culprit — the LAD first, followed by the LCx.
-https://drsmithsecgblog.com/87-year-old-with-chest-pain/ 4/13
+ 4/13
 Learning points
 Smith: When you have a diagnostic ECG, DO NOT WAIT
 FOR TROPONIN. MYOCARDIUM IS DYING!! USE THE
@@ -162,7 +163,7 @@ proven otherwise).
 The rhythm in Figure-1 is sinus bradycardia — with
 slightQRSwidening to 0.11 second. QRS morphology in
 lead I looks like LBBB (Left Bundle Branch Block) —
-https://drsmithsecgblog.com/87-year-old-with-chest-pain/ 5/13
+ 5/13
 except that the QRS complex is not wide enough to
 qualify for this conduction defect (ie, Complete LBBB
 should manifest a QRS duration of at least 0.12 second).
@@ -211,7 +212,7 @@ lead V5, and by extension (neighboring leads) in leads
 V3,V4 and V6 in this patient with severe, new-onset
 crushing CP have to be assumed indicative of acute
 OMI until proven otherwise.
-https://drsmithsecgblog.com/87-year-old-with-chest-pain/ 6/13
+ 6/13
 Figure-1: Iʼve labeled the initial EMS ECG.
 ==================================
 What is Incomplete LBBB?
@@ -239,7 +240,7 @@ interpret the ST-T wave in lead I).
 Figure-2: Does incomplete LBBB exist? (Figure excerpted
 from Grauer K — ECG Pocket Brain-EPub; KG/EKG Press,
 2014).
-https://drsmithsecgblog.com/87-year-old-with-chest-pain/ 7/13
+ 7/13
 Inappropriate Use of Morphine:
 As we often emphasize in Dr. Smithʼs ECG Blog — Morphine
 should not be given when considering the diagnosis of
@@ -270,7 +271,7 @@ both of these leads?
 For example — IF complex “B” were to represent the
 “real” ST-T wave appearance in leads V5,V6 of ECG #2
 — then weʼd have to interpret this as a dynamic ST
-https://drsmithsecgblog.com/87-year-old-with-chest-pain/ 8/13
+ 8/13
 change compared to the ST-T waves in leads V5,V6 of
 ECG #1 that did not look nearly as acute.
 On the other hand — the ST-T waves in “C” and “D” of

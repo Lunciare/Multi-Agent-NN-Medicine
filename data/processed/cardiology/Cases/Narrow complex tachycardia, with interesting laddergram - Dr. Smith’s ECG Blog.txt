@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Willy Frick onDecember 26, 2025
 Narrow complex
 tachycardia, with interesting
@@ -24,7 +25,7 @@ patient received metoprolol 5 mg IV and converted to sinus
 rhythm.
 ECG 2
 
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 1/15
+ 1/15
 Do we still believe the diagnosis of atrial flutter? Remember
 that metoprolol has no ability to cardiovert atrial fibrillation
 or flutter. It helps those patients by slowing conduction
@@ -49,7 +50,7 @@ higher or more medial during tachycardia vs sinus). The other
 difference is the terminally positive wave at the end of the
 QRS.
 V3 terminally positive deflection
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 2/15
+ 2/15
 This difference cannot be explained by lead positioning, and
 the more likely explanation is that it reflects atrial activity. We
 can prove it is not 2:1 activity by using marching calipers to
@@ -79,7 +80,7 @@ abrupt change. The heart rate trend line is a very powerful
 tool to find interesting portions of telemetry, especially when
 there are abrupt rate changes.
 Telemetry with abrupt rate change
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 3/15
+ 3/15
 The rhythm at this change is shown below. Have a look and
 see if you can explain it to yourself before scrolling further.
 Rhythm change
@@ -104,7 +105,7 @@ P6 comes quickly, and as a result, the fast pathway
 (green) is refractory, hence it conducts to the
 ventricle via the slow pathway (orange) with long
 PR.
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 4/15
+ 4/15
 P7-9 conduct similarly, but with decrement each
 beat. This is normal physiologic AV node behavior.
 The faster that impulses arrive, the slower it
@@ -143,7 +144,7 @@ arrhythmias — for which Iʼll offer another perspective to that
 provided above by Dr. Frick in his excellent discussion..
 = = =
 MYThoughts on the Initial Rhythm:
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 5/15
+ 5/15
 For clarity in Figure-1 — Iʼve reproduced the initial ECG —
 with the repeat tracing below it (recorded after 5 mg IV
 Metoprolol successfully converted the rhythm to sinus).
@@ -194,7 +195,7 @@ often provide an insightful clue as to whether or not the
 patient is likely to have a “concealed” AP that
 participates in the retrograde limb of a reentry SVT
 rhythm.
-https://drsmithsecgblog.com/narrow-complex-tachycardia-with-interesting-laddergram/ 6/15
+ 6/15
 So how do we know if the tiny deflections that we see during
 a fast SVT rhythm represent retrogradeP waves?
 The best way to tell — is to scrutinize the QRS complex

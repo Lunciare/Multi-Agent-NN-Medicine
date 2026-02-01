@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Willy Frick onFebruary 4, 2025
 Syncope and a short pause
 on event monitor
@@ -27,7 +28,7 @@ What do you think?
 Is the finding of just 3 blocked P waves on a 4 week event monitor
 enough to warrant permanent pacing?
 
-https://drsmithsecgblog.com/syncope-and-short-pause-on-event-monitor/ 1/13
+ 1/13
 Answer: YES. Remember that even a single episode of cardiac
 syncope at the wrong time (e.g. while driving) is enough to kill.
 If the block is not vagal in nature, the patient should receive a
@@ -52,7 +53,7 @@ pacemakers were set to sensing only without pacing. Most
 importantly, neither the patients nor the doctors knew which patients
 got which treatment, maintaining appropriate blinding. What did the
 authors find in VPS II?
-https://drsmithsecgblog.com/syncope-and-short-pause-on-event-monitor/ 2/13
+ 2/13
 (From VPS II — Connolly et al — JAMA, 2003 )
 Answer: No significant reduction in syncope!! A stunning result. One
 of many examples in medical history that remind us of the importance
@@ -75,7 +76,7 @@ dependent block.” It remains refractory until another extrasystole
 conduction. If you wish to read more about this, check out the
 references section at the bottom, especially the articles by Lee and
 Pillai.
-https://drsmithsecgblog.com/syncope-and-short-pause-on-event-monitor/ 3/13
+ 3/13
 In the example above, the first PVC (boxed in red below) depolarizes
 the His at an unfavorable time rendering it refractory. Then three
 sinus P waves (black arrows) are blocked. Finally, a second
@@ -100,18 +101,18 @@ Ellenbogen, K. A., Wilkoff, B. L., Morillo, C., & Gent, M. (2003).
 Pacemaker therapy for prevention of syncope in patients with
 recurrent severe vasovagal syncope: Second Vasovagal
 Pacemaker Study (VPS II): a randomized trial. JAMA, 289(17),
-2224. https://doi.org/10.1001/jama.289.17.2224
+2224. 
 Connolly, S., Sheldon, R., Roberts, R., & Gent, M. (1999). The
 North American Vasovagal Pacemaker Study (VPS). Journal
 of the American College of Cardiology, 33(1), 16–20.
-https://doi.org/10.1016/s0735-1097(98)00549-x
+
 Lee, S., Wellens, H. J. J., & Josephson, M. E. (2009).
 Paroxysmal atrioventricular block. Heart Rhythm, 6(8), 1229–
-1234. https://doi.org/10.1016/j.hrthm.2009.04.001
-https://drsmithsecgblog.com/syncope-and-short-pause-on-event-monitor/ 4/13
+1234. 
+ 4/13
 Pillai, A., Ellenbogen, K. A., & Padala, S. K. (2021). A tale of 2
 blocks. Circulation, 143(10), 1062–1065.
-https://doi.org/10.1161/circulationaha.120.052981
+
 ===================================
 MY Comment, by KEN GRAUER, MD (2/4/2025):
 ===================================
@@ -147,7 +148,7 @@ degree AV block — and some rate variability).
 (intermediate in morphology between sinus-conducted beats and
 early ventricular beat “X” ) — which if true, would make for an
 immediate “reset” of His-Purkinje conduction.
-https://drsmithsecgblog.com/syncope-and-short-pause-on-event-monitor/ 5/13
+ 5/13
 Figure-1: I’ve labeled today’s continuous rhythm strip.
 Paroxysmal AtrioVentricular Block (PAVB):
 As suggested by Dr. Frickʼs discussion — and described by
@@ -180,7 +181,7 @@ This form of PAVB is potentially benign when it results from a transient
 profound surge of parasympathetic tone in an otherwise healthy
 individual (as might occur with an episode of severe vomiting; a fit of
 severe coughing; vasovagal reaction from a blood draw).
-https://drsmithsecgblog.com/syncope-and-short-pause-on-event-monitor/ 6/13
+ 6/13
 The problem with vagotonic PAVB is localized
 to within the AV Node.
 There will often be a “prodome” of diaphoresis, nausea,
@@ -225,7 +226,7 @@ iii)Idiopathic PAVB:
 This is the most recently described form of PAVB — in which
 findings are not fully consistent with either of the other 2
 forms.
-https://drsmithsecgblog.com/syncope-and-short-pause-on-event-monitor/ 7/13
+ 7/13
 The baseline ECG before idiopathic PAVB tends to be
 normal.
 No “trigger” for PAVB is evident (ie, no source of

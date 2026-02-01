@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Pendell Meyers onJune 15, 2025
 A woman in her 50s with
 acute chest pain
@@ -22,10 +23,10 @@ recent illnesses.
 Here is her triage ECG during active pain:
 What do you think?
 
-https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 1/17
+ 1/17
 This ECG was recorded 30 minutes later with ongoing pain:
 Queen of Hearts says no signs of STEMI or Equivalent for both:
-https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 2/17
+ 2/17
 NewPMcardio for Individuals App 3.0 now includes the latest
 Queen of Hearts model and AI explainability (blue
 heatmaps)! Download now for iOS or Android. (Drs. Smith and
@@ -34,7 +35,7 @@ The physician was worried about possible acute coronary occlusion,
 and activated the cath lab.
 The angiogram showed no significant coronary disease:
 First troponin I was 10 ng/L.
-https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 3/17
+ 3/17
 Second troponin was 23 ng/L. None further were measured during
 this hospitalization.
 Echocardiogram showed normal EF, no wall motion abnormalities, no
@@ -58,14 +59,14 @@ following 0/1h hs-cTnT algorithm identified misclassification as false-positive 
 100).
 There is more unpublished work which shows dramatic decreases in false
 positive using the PMCardio Queen of Hearts AI Model.
-https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 4/17
+ 4/17
 _______
 Here is the ECG the next day:
 (QoH gets this one wrong, calls it STEMI/OMI, understandably
 based on the STE in III with STD in aVL.)
 She was given colchicine and discharged.
 She returned with similar symptoms about 1 month later.
-https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 5/17
+ 5/17
 Repeat echocardiogram at this visit revealed a small pericardial
 effusion.
 Cardiac MRI was read as:
@@ -83,13 +84,13 @@ Two troponins were drawn, both less than 6 ng/L.
 She was given an extended course of colchicine and ibuprofen.
 Rheumatologic and infectious workups were negative.
 This ECGs was recorded on day 4 of the hospitalization:
-https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 6/17
+ 6/17
 This ECG was recorded on day 6 of hospitalization:
 Her diagnosis was recurrent idiopathic pericarditis. She was
 discharged.
 Here is her ECG 6 months later, at an outpatient visit with no active
 symptoms:
-https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 7/17
+ 7/17
 The “four stages of pericarditis on ECG” are typically taught
 as:
 Stage 1: wide spread STE and PR depression
@@ -114,25 +115,25 @@ Watch what happens when “pericarditis” and morphine cloud your judgment
 “Pericarditis” strikes again
 See our other cases involving pericarditis here:
 A young woman in her early 20s with syncope
-https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 8/17
+ 8/17
 Severe Atypical Chest Pain in a Young Woman: Series of Pericarditis ECGs
 Here are some ECG cases of myocarditis in young people:
-https://drsmithsecgblog.com/2019/06/a-20-something-male-with-acute-
+
 chest.html —
-https://drsmithsecgblog.com/2017/11/anterior-st-elevation-with-
+
 elevated.html —
-https://drsmithsecgblog.com/2017/03/a-young-man-with-sudden-chest-
+
 pain.html —
-https://drsmithsecgblog.com/2014/11/a-young-woman-with-chest-pressure-
+
 and.html —
-https://drsmithsecgblog.com/2014/06/a-29-year-old-male-with-pleuritic-
+
 chest.html —
-https://drsmithsecgblog.com/2013/10/inferior-and-lateral-st-elevation.html —
+ —
 8 yo with myocarditis:
-https://drsmithsecgblog.com/2014/05/an-8-year-old-with-syncope-
+
 abdominal.html —
 16 yo with acute MI:
-https://drsmithsecgblog.com/2014/05/a-16-year-old-girl-has-syncope-
+
 while.html —
 ===================================
 MY Comment, by KEN GRAUER, MD (6/15/2025):
@@ -150,7 +151,7 @@ by new, severe CP (Chest Pain) — which prompted her ED
 presentation. As per Dr. Meyers — statistically, acute MI is
 abundantly more common than acute pericarditis in this setting (and
 potential morbidity and mortality from missing acute MI far exceeds
-https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 9/17
+ 9/17
 that for missing acute pericarditis). As a result — Assume acute
 MI until proven otherwise!
 Regarding ECG findings in Figure-1 that suggest acute MI until proven
@@ -184,7 +185,7 @@ and be indistinguishable from the ECG of acute MI. Consider the
 following:
 As Drs. Smith and Meyers have repeatedly emphasized in this ECG
 Blog — You diagnose acute pericarditis “at your peril” — for the
-https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 10/17
+ 10/17
 simple reason that in an unselected emergency setting, acute MI is
 so much more common than pericarditis (and the potential morbidity
 and potential mortality of missing an acute MI is so much greater
@@ -233,7 +234,7 @@ wave dimensions in this V3 lead). In contrast — with the “textbook
 picture” of pure acute pericarditis, otherwise “normal” ST-T waves
 tend to look as if “lifted” above the ECG baseline instead of
 producing the hyperacute appearance that we see in lead V3.
-https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 11/17
+ 11/17
 NOTE #1: Acute myocarditis could easily have produced the
 identical ECG picture that we see in Figure-1 — in which case it
 would be impossible to distinguish between acute
@@ -278,7 +279,7 @@ acute pericarditis or myocarditis).
 Pendell Meyers onJune 15, 2025
 FALSE POSITIVE CATH LAB ACTIVATION PERICARDITIS
 SHARE    
-https://drsmithsecgblog.com/a-woman-in-her-50s-with-acute-chest-pain-2/ 12/17
+ 12/17
  PREVIOUS ARTICLE NEXT ARTICLE 
 60-something with h/o Anteroseptal OMI?
 Coronary Bypass has Accurate ECG

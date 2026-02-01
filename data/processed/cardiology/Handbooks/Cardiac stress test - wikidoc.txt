@@ -11,8 +11,6 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
-22/01/2026, 16:26 Cardiac stress test - wikidoc
 Search WikiDoc
 Search Try Exact Match
 Cardiac stress test
@@ -53,51 +51,12 @@ So the major limitation of the stress test approach, is that it needs a high gra
 indicator of heart attack risk. High grade stenosis, while being a good indicator of advanced
 arterial disease, is not the major cause for the majority of heart attacks. This issue is also reflected
 Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
-https://www.wikidoc.org/index.php/Cardiac_stress_test 1/8
---- Страница 2 ---
-22/01/2026, 16:26 Cardiac stress test - wikidoc
+ 1/8
+
 in the results of the COURAGE trial[1], which demonstrated that "intensive pharmacologic therapy
 and lifestyle intervention", which they called "Optimal Medical Therapy" (not opening stenoses
 with Angioplasty, per-se) produced the more effective results in survival and quality of life.
-Contents
-• Test overview
-• Purpose
-• Variations
-• Diagnostic value
-• Risks
-• Conclusion
-• Further research
-• See also
-• References
-• Additional Resources
-• External links
-Test overview
-The patient either walks on a treadmill, or is given IV medication which simulates exercise, while
-connected to an ECG machine, usually the standard 10 connections, used to record a 12-lead ECG.
-The level of exercise is increased by 3 minute stages, of progressively increased Grade (% incline)
-and Speed (mph, km/h, etc). The patient's symptoms, and blood pressure response are repeatedly
-checked. When using ECG and Blood Pressure monitoring alone, the test is variously called a
-Cardiac Stress test, Exercise Stress test, Exercise Treadmill test, Exercise Tolerance test, Stress
-Test or Exercise ECG test.
-If Radioactive Isotopes are also used (commonly, Technetium Tc99m Sestamibi and rarely,
-Thallium-201), then it is usually called a Nuclear Stress Test. Given the ability to visualize the
-relative amounts of radioisotope within different regions of the heart muscle, nuclear stress tests
-are more accurate in detecting regional areas of decreased blood flow to myocardial (heart muscle)
-cells. However, diffuse global ischemia (decreased blood flow that is evenly spread out) may still
-not be recognized, because absolute blood flow is not quantitatively measured, only regional
-comparative variations.
-Purpose
-The American Heart Association recommends EKG treadmill testing as the first choice for patients
-with medium risks of coronary heart disease based on the risk factors of smoking, family history of
-coronary stenosis, hypertension, diabetes and high cholesterol.
-Perfusion radioisotope stress testing using Tc-99m tetrofosmin, Tc-99m sestamibi, or Tl-201 is
-appropriate for select patients, especially those with an abnormal resting EKG. More severe
-stenosis (probably greater than 70% occlusion) can produce abnormalities in both EKG waveforms
-and cardiac wall motion at rest or under stress echocardiographic testing. Such high grade
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Cardiac_stress_test 2/8
---- Страница 3 ---
-22/01/2026, 16:26 Cardiac stress test - wikidoc
+
 narrowings are typically the primary culprit responsible for those angina episodes which
 reproducibly occur at a given level of exercise. However, most heart attacks result from rupture of
 atheroma lesions associated with only mild narrowing (20% on average by intravascular
@@ -140,9 +99,8 @@ Examples of anatomic methods include: (1) coronary calcium scoring by CT, (2) ca
 Examples of physiologic methods include: (1) lipoprotein subclass analysis, (2) HbA1c, (3) hs-CRP,
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
 and (4) homocysteine.
-https://www.wikidoc.org/index.php/Cardiac_stress_test 3/8
---- Страница 4 ---
-22/01/2026, 16:26 Cardiac stress test - wikidoc
+ 3/8
+
 The example of the metabolic syndrome combines both anatomic (abdominal girth) and
 physiologic (blood pressure, elevated blood glucose) methods.
 Advantages: The anatomic methods directly measure some aspect of the actual atherosclerotic
@@ -187,9 +145,8 @@ chocolate (anything with caffeine), or has 2nd or 3rd degree AV block (a type of
 Adenosine or dipyridamole is generally used when a patient has poorly controlled hypertension,
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
 glaucoma, or has left bundle branch block (LBBB, another type of heart block). It is well known
-https://www.wikidoc.org/index.php/Cardiac_stress_test 4/8
---- Страница 5 ---
-22/01/2026, 16:26 Cardiac stress test - wikidoc
+ 4/8
+
 that patients with LBBB can have false positive septal ischemia if dobutamine is used as a
 pharmacologic agent in nuclear stress test. The adverse effects associated with the use of
 pharmacologic stress test agents can be reversed upon completion of the test. For drugs that
@@ -234,9 +191,8 @@ rate, have no abnormal symptoms and completely normal stress test results, only 
 massive heart attack within a few days to weeks. While anecdotal and not quantitative, these
 observations have long demonstrated the unreliability of the stress test approach as a means of
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Cardiac_stress_test 5/8
---- Страница 6 ---
-22/01/2026, 16:26 Cardiac stress test - wikidoc
+ 5/8
+
 diagnosing arterial disease before serious health problems occur. From the 1960s to 1990s, despite
 the success of stress testing identifying many who were at high risk for heart attack, its failure to
 correctly identify many others was a conundrum, discussed in medical circles but unexplained.
@@ -282,9 +238,8 @@ ventricle heart muscle. Thus stress test results are often falsely negative for 
 of predicting who is at high risk for myocardial infarction due to atheroma or ruptured "vulnerable
 plaques".
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Cardiac_stress_test 6/8
---- Страница 7 ---
-22/01/2026, 16:26 Cardiac stress test - wikidoc
+ 6/8
+
 It has become clear that stress testing recognizes most people at risk for heart attacks too late,
 unfortunately only after the disease and symptoms of the disease have developed. By the time, a
 majority of people would already have at least medium stenosis of coronary vessels with
@@ -311,24 +266,23 @@ ICSI:2003Nov.26p.87. • Morin (2003). "Radiation Dose in Computed
 • Michael Jerosch-Herold (2004). "Analysis of Tomography of the Heart". Circulation. 107:
 myocardial perfusion MRI". Journal of 917–922..
 Magnetic Resonance Imaging. 19 (6): 758– • Chung EK, Tighe D (1997). Pocket Guide to
-770.. Stress Testing (http://amzn.to/hDN6ve).
+770.. Stress Testing (
 • Thomson LE (2004). "Magnetic resonance
 imaging for the assessment of myocardial
 viability". Journal of Magnetic Resonance
 Imaging. 19 (6): 771–788..
 External links
-• Stress Test Info from the American Heart Association (http://www.americanheart.org/presenter.j
+• Stress Test Info from the American Heart Association (
 html?identifier=4568)
-• NIH Medline Entry (http://www.nlm.nih.gov/medlineplus/ency/article/003878.htm)
-• Stress test FAQ's (http://www.heartsite.com/html/regular_stress.html)
-• Adenosine Nuclear Stress Test (http://www.mgh.org/education/health/pamphlet.htm)
-• Dobutamine Nuclear Stress Test (http://www.midwestheart.com/patient/pdfs/dobutamine_nucle
+• NIH Medline Entry (
+• Stress test FAQ's (
+• Adenosine Nuclear Stress Test (
+• Dobutamine Nuclear Stress Test (
 ar.pdf)
 de:Ergometrie he:הירטמוגרא nl:Inspannings-ECG sq:Ergometria
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Cardiac_stress_test 7/8
---- Страница 8 ---
-22/01/2026, 16:26 Cardiac stress test - wikidoc
+ 7/8
+
 Template:WikiDoc Sources CME Category::Cardiology
 Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
 Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
@@ -337,4 +291,4 @@ Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a
 There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
 Licensing | Disclaimers | Avoid Plagiarism | Policies
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Cardiac_stress_test 8/8
+ 8/8

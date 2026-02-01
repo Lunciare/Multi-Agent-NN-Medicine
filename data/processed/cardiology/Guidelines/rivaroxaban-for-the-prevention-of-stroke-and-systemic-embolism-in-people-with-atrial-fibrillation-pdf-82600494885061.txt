@@ -11,7 +11,6 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 Rivaroxaban for the
 prevention of stroke and
 systemic embolism in
@@ -21,9 +20,7 @@ Technology appraisal guidance
 Published: 23 May 2012
 Last updated: 2 July 2021
 www.nice.org.uk/guidance/ta256
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
-conditions#notice-of-rights).
---- Страница 2 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 Your responsibility
@@ -46,26 +43,10 @@ equality of opportunity and to reduce health inequalities.
 Commissioners and providers have a responsibility to promote an environmentally
 sustainable health and care system and should assess and reduce the environmental
 impact of implementing NICE recommendations wherever possible.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
-conditions#notice-of-rights). 35
---- Страница 3 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
-Contents
-1 Recommendations ................................................................................................................. 4
-2 The technology ...................................................................................................................... 5
-3 The manufacturer's submission ........................................................................................... 6
-Manufacturer's additional analyses ................................................................................................... 16
-4 Consideration of the evidence ............................................................................................. 20
-5 Implementation ...................................................................................................................... 27
-6 Appraisal Committee members, and NICE project team ................................................... 28
-Appraisal Committee members ......................................................................................................... 28
-NICE project team ............................................................................................................................... 30
-7 Sources of evidence considered by the Committee .......................................................... 32
-Update information .................................................................................................................. 35
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
-conditions#notice-of-rights). 35
---- Страница 4 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 This guidance should be read in conjunction with NG196.
@@ -83,9 +64,7 @@ with the person about its risks and benefits compared with warfarin, apixaban,
 dabigatran etexilate and edoxaban. For people taking warfarin, consider the
 potential risks and benefits of switching to rivaroxaban taking into account their
 level of international normalised ratio (INR) control.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
-conditions#notice-of-rights). 35
---- Страница 5 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 2 The technology
@@ -107,9 +86,7 @@ contraindications see the summary of product characteristics.
 2.3 The price of rivaroxaban is £58.80 for a pack of 28×15-mg tablets and £58.80 for
 a pack of 28×20-mg tablets (MIMS, March 2012). Costs may vary in different
 settings because of negotiated procurement discounts.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
-conditions#notice-of-rights). 35
---- Страница 6 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 3 The manufacturer's submission
@@ -144,9 +121,7 @@ warfarin had to be less than 1.46. Once non-inferiority was demonstrated for the
 primary outcome, further analyses investigated superiority of rivaroxaban over
 warfarin.
 3.3 More than 50% of people in the trial received treatment for at least 18 months.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
-conditions#notice-of-rights). 35
---- Страница 7 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 The median age of study participants was 73 years and 60.3% were men. The
@@ -190,9 +165,7 @@ hypertension, diabetes, type of atrial fibrillation, proton pump inhibitor use a
 baseline, and prior myocardial infarction. Results were summarised by subgroup
 based on data from the safety-on-treatment and intention-to-treat populations.
 3.6 The non-inferiority of rivaroxaban compared with warfarin was demonstrated for
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
-conditions#notice-of-rights). 35
---- Страница 8 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 the primary outcome (composite of stroke and non-central nervous system
@@ -229,9 +202,7 @@ ROCKET-AF trial. Evidence for the other comparators was obtained from studies
 found by a systematic literature search. The manufacturer identified 18 studies
 for inclusion in the network meta-analysis:
 • 1 comparing rivaroxaban with warfarin
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
-conditions#notice-of-rights). 35
---- Страница 9 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 • 7 comparing aspirin with placebo or control
@@ -263,9 +234,7 @@ analysis because the economic model could not accommodate a dosing
 regimen in which the dose is reduced from 150 mg twice daily to 110 mg
 twice daily when the patient reaches the age of 80 years. A fixed-effect
 model was used because of the high degree of homogeneity between the
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
-conditions#notice-of-rights). 35
---- Страница 10 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 included trials. The efficacy estimates from this network meta-analysis were
@@ -293,9 +262,7 @@ lifetime time horizon and a UK NHS perspective.
 • death.
 The ROCKET-AF trial results for the safety-on-treatment population were
 used to inform the efficacy estimates for rivaroxaban compared with
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
-conditions#notice-of-rights). 35
---- Страница 11 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 warfarin, rivaroxaban compared with warfarin in people whose atrial
@@ -331,9 +298,7 @@ the patient was receiving. Patients may stop their primary therapy and switch to
 pre-specified secondary therapy at any time, although the risk adjustment
 applied for the remainder of that cycle is that of the primary therapy. The
 probabilities of treatment discontinuation for warfarin and rivaroxaban were
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
-conditions#notice-of-rights). 35
---- Страница 12 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 based on data from the ROCKET-AF trial. The manufacturer assumed that
@@ -369,9 +334,7 @@ received warfarin, the ICER was £15,494 per QALY gained.
 • For rivaroxaban compared with aspirin, the ICER was £2,083 per QALY
 gained.
 • For rivaroxaban compared with dabigatran etexilate, rivaroxaban dominated
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
-conditions#notice-of-rights). 35
---- Страница 13 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 dabigatran etexilate.
@@ -406,9 +369,7 @@ and parameter sources:
 within and outside recommended INR control
 • not adjusting risk of bleeding by age; not adjusting utility by age
 • the source of myocardial infarction risk for people treated with aspirin
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
-conditions#notice-of-rights). 35
---- Страница 14 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 • out of date source of post-myocardial infarction mortality risk
@@ -443,9 +404,7 @@ analysis using the alternative anticoagulation monitoring costs of £242 per
 person (discussed by the Committee in the ongoing appraisal of dabigatran
 etexilate for the prevention of stroke and systemic embolism in atrial fibrillation)
 increased the ICER to £62,568 per QALY gained.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
-conditions#notice-of-rights). 35
---- Страница 15 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 3.21 The ERG was concerned that the trials included in the network meta-analysis
@@ -480,9 +439,7 @@ model and that the model is highly sensitive to even small changes to the
 discontinuation rates. Therefore, the ERG concluded that the results of the
 probabilistic sensitivity analysis should be taken into account when considering
 its alternative ICER for dabigatran etexilate compared with rivaroxaban. The
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
-conditions#notice-of-rights). 35
---- Страница 16 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 probabilistic sensitivity analysis indicated that dabigatran etexilate was dominant
@@ -514,9 +471,7 @@ average of patients who had, and had not received previous warfarin), £135
 for maintenance on warfarin and £135 for re-initiation of warfarin.
 • Case fatality rates of 90 days instead of the 30-day rates in the original
 model.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
-conditions#notice-of-rights). 35
---- Страница 17 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 • Updated 'real world' discontinuation rates. For warfarin these came from the
@@ -549,9 +504,7 @@ Appraisal Committee's requests):
 • for rivaroxaban versus warfarin in the licensed population (the population
 with 1 or more risk factors for stroke), an incremental cost of £2,220, a QALY
 gain of 0.2459 resulting in an ICER of £9,031 per QALY gained
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
-conditions#notice-of-rights). 35
---- Страница 18 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 • for rivaroxaban versus warfarin in the population whose INR is poorly
@@ -588,9 +541,7 @@ myocardial infarction mortality risk. The ERG judged that it was more appropriat
 to use an updated mortality risk post myocardial infarction that took account of
 current use of statins. The ERG's analysis included a fixed annual warfarin INR
 monitoring cost of £242 per person as requested by the Appraisal Committee
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
-conditions#notice-of-rights). 35
---- Страница 19 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 (see section 3.23) but did not include any disutility associated with warfarin or
@@ -599,9 +550,7 @@ rivaroxaban compared with warfarin produced an incremental cost of £1,815, an
 incremental QALY of 0.061 and an ICER of £29,537 per QALY gained.
 3.30 See the manufacturer's submission and the ERG report for full details of all the
 evidence.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
-conditions#notice-of-rights). 35
---- Страница 20 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 4 Consideration of the evidence
@@ -637,9 +586,7 @@ taking warfarin.
 trial comparing rivaroxaban with warfarin. It noted that this study was the basis of
 the clinical-effectiveness evidence in the manufacturer's submission. The
 Committee noted that the efficacy analysis in the manufacturer's submission had
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
-conditions#notice-of-rights). 35
---- Страница 21 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 been undertaken on 3 different populations in the ROCKET-AF trial, the intention-
@@ -678,9 +625,7 @@ America and western Europe. The Committee was concerned that the
 effectiveness of warfarin could be underestimated if the proportion of time in
 therapeutic range was low, and that the UK context might be better reflected by
 results from centres where the time in therapeutic range in the warfarin arm more
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
-conditions#notice-of-rights). 35
---- Страница 22 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 closely matched the usual levels in the UK. The Committee concluded that the
@@ -732,9 +677,7 @@ score. However, the Committee was mindful of the very small number of patients
 recruited to the ROCKET-AF trial with a baseline CHADS score of less than 2, but
 2
 concluded that the results of the ROCKET-AF trial were generalisable to UK
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
-conditions#notice-of-rights). 35
---- Страница 23 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 clinical practice.
@@ -774,9 +717,7 @@ manufacturer during consultation comparing rivaroxaban with aspirin. The
 Committee reconsidered the data from the manufacturer's and ERG's network
 meta-analyses and considered the manufacturer's additional indirect comparison
 comparing rivaroxaban with aspirin. The Committee concluded that it would not
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
-conditions#notice-of-rights). 35
---- Страница 24 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 consider further the clinical effectiveness of rivaroxaban compared with aspirin or
@@ -813,9 +754,7 @@ value used in the economic model for warfarin may have resulted in a bias in the
 manufacturer's economic analysis in favour of rivaroxaban.
 4.10 The Committee discussed the costs associated with warfarin INR monitoring. The
 Committee noted that the manufacturer' model assumed an average annual
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
-conditions#notice-of-rights). 35
---- Страница 25 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 anticoagulant monitoring cost of £580 per person in the year that treatment is
@@ -853,15 +792,11 @@ range that could be considered a cost-effective use of NHS resources.
 4.12 The Committee considered whether there were any equalities considerations
 affecting population groups protected by equality legislation and concluded that
 there were no equality issues relating to this appraisal that needed addressing in
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
-conditions#notice-of-rights). 35
---- Страница 26 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 the guidance.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
-conditions#notice-of-rights). 35
---- Страница 27 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 5 Implementation
@@ -880,9 +815,7 @@ available within the period set out in the paragraphs above. This means that, if
 patient has non-valvular atrial fibrillation and the healthcare professional
 responsible for their care thinks that rivaroxaban is the right treatment, it should
 be available for use, in line with NICE's recommendations.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
-conditions#notice-of-rights). 35
---- Страница 28 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 6 Appraisal Committee members, and
@@ -911,9 +844,7 @@ DrFionaDuncan
 Clinical Nurse Specialist, Anaesthetic Department, Blackpool Victoria Hospital
 MrsEleanorGrey
 Lay member
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
-conditions#notice-of-rights). 35
---- Страница 29 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 ProfessorJonathanGrigg
@@ -942,9 +873,7 @@ Medical Director, Merck Sharp & Dohme
 MsEllenRule
 Programme Director, NHS Bristol
 MrStephenSharp
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
-conditions#notice-of-rights). 35
---- Страница 30 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 Senior Statistician, MRC Epidemiology Unit
@@ -973,16 +902,12 @@ HelenTucker
 Technical Lead
 NicolaHay
 Technical Adviser
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
-conditions#notice-of-rights). 35
---- Страница 31 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 BijalJoshi
 Project Manager
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of
-conditions#notice-of-rights). 35
---- Страница 32 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 7 Sources of evidence considered by the
@@ -1010,9 +935,7 @@ Professional or specialist, and patient or carer groups:
 • British Heart Foundation
 • British Society for Haematology
 • Heart Rhythm UK
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 32 of
-conditions#notice-of-rights). 35
---- Страница 33 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 • Primary Care Cardiovascular Society
@@ -1040,9 +963,7 @@ discussion and providing written evidence to the Committee. They were also invit
 comment on the ACD.
 • Dr Rhona Maclean, Consultant Haematologist, nominated by Royal College of
 Pathologists – clinical specialist
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 33 of
-conditions#notice-of-rights). 35
---- Страница 34 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 • Ms Fiona Sayers, Head of Nursing, Cardiology and Acute Service, nominated by Royal
@@ -1055,13 +976,9 @@ Representatives from the following manufacturer or sponsor attended Committee
 meetings. They contributed only when asked by the Committee chair to clarify specific
 issues and comment on factual accuracy.
 • Bayer HealthCare
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 34 of
-conditions#notice-of-rights). 35
---- Страница 35 ---
+
 Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation (TA256)
 Update information
 July 2021: Section 1.2 was updated to include the other anticoagulants approved by NICE.
 ISBN: 978-1-4731-4189-6
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 35 of
-conditions#notice-of-rights). 35

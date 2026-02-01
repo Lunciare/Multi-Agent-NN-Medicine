@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Dr. Smith's ECG Blog
  
 Instructive ECGs in Emergency Medicine Clinical Content
@@ -39,7 +40,7 @@ a very significant history of MI and coronary disease with
 multiple stents (to D1 and RCA), and history of ischemic
 cardiomyopathy
 Medics arrived and recorded these ECGs:
-https://drsmithsecgblog.com/acute-chest-pain-in-a-50-something-resolves-recurs-resolves-does-the-ed-ecg-show-early-repol/ 1/14
+ 1/14
 ECG 1, time zero:
 What do you think?
 This is diagnostic of LAD Occlusion (LAD OMI).
@@ -47,7 +48,7 @@ The Queen knows it:
 The patientʼs pain beNew PMcardio for Individuals App
 3.0 now includes the latest Queen of Hearts model and AI
 explainability (blue heatmaps)! Download now for iOS or
-Android. https://www.powerfulmedical.com/pmcardio-
+Android. 
 individuals/ (Drs. Smith and Meyers trained the AI Model and
 are shareholders in Powerful Medical). As a member of our
 community, you can use the code DRSMITH20 to get an
@@ -59,7 +60,7 @@ Drug Administration (FDA) for clinical use in the USA.
 The pain began to improve, and serial ECGs were recorded:
 ECG 2, time 2 minutes:
 ECG 3, time 16 minutes
-https://drsmithsecgblog.com/acute-chest-pain-in-a-50-something-resolves-recurs-resolves-does-the-ed-ecg-show-early-repol/ 2/14
+ 2/14
 ECG 4, time 32 minutes:
 Now it is normalized!
 The patient was pain free at this time, and the ECGs
@@ -82,7 +83,7 @@ However, the S-wave has disappeared compared to both the
 previous serial ECG and compared to the Old ECG (shown
 below). So in spite of this notching, there is terminal QRS
 distortion (TQRSD).
-https://drsmithsecgblog.com/acute-chest-pain-in-a-50-something-resolves-recurs-resolves-does-the-ed-ecg-show-early-repol/ 3/14
+ 3/14
 Moreover, I never call “normal variant STE” or “Early
 repolarization” when there is 5 mm of ST Elevation. That is
 too much. All of this is outlined in this 2012 paper. ECG

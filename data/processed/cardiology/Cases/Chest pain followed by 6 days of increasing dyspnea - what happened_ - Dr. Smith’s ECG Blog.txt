@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Magnus Nossen onFebruary 26, 2025
 Chest pain followed by 6
 days of increasing dyspnea
@@ -26,7 +27,7 @@ Below is his presentation ECG. What do you think? How do you
 explain the ST segment elevation in the precordial and limb leads?
  
 
-https://drsmithsecgblog.com/chest-pain-followed-by-6-days-of/ 1/18
+ 1/18
 The above ECG was originally recorded with a paper speed of
 50mm/sec. It has been “compressed” on the X-axis so that it
 looks like it was recorded with a paper speed of 25mm/sec.
@@ -69,7 +70,7 @@ What do you make of the inferior lead ST elevation? Is this ST
 elevation ischemic in nature? Could the inferior lead ST-elevation be
 due to a “wrap around” LAD that supplies the inferior wall? And if so,
 could the patient benefit from revascularization?
-https://drsmithsecgblog.com/chest-pain-followed-by-6-days-of/ 2/18
+ 2/18
 The ST segment elevation in the inferior leads do not have a typical
 ischemic look. the ST segments are upward concave with distinct J-
 waves in leads II and aVF. There is also slight PR segment
@@ -115,7 +116,7 @@ some patients have enough collateral blood flow that will keep
 the myocardium viable.
 The ECG, clinical history and echo together should guide the
 decision on whether or not the patient should go to the cath
-https://drsmithsecgblog.com/chest-pain-followed-by-6-days-of/ 3/18
+ 3/18
 lab.
 Among the complications of transmural infarction is post
 infarction pericarditis (PIRP). This complication is much more
@@ -158,7 +159,7 @@ are two main etiologies to consider:
 cause)
 Clinical course: The patient in todayʼs case did not undergo
 revascularization. Due to the atypical and vague symptoms, the
-https://drsmithsecgblog.com/chest-pain-followed-by-6-days-of/ 4/18
+ 4/18
 myocardial infarct was not initially diagnosed. At presentation he had
 a history of dyspnea for 6 days. There were no other causes of
 dyspnea apparent and thus we can assume that myocardial ischemia
@@ -177,7 +178,7 @@ echo probe. The apex of the heart is at the top of the image with
 the base at the bottom. The heart chamber are annotated. (RA =
 right atrium. RV = right ventricle. LA = left atrium. LV =left
 ventricle. IVS = interventricular septum.)
-https://drsmithsecgblog.com/chest-pain-followed-by-6-days-of/ 5/18
+ 5/18
 This video shows the regional wall motion abnormality of the distal
 septum and apical region of the left ventricle. The distal septum
 appears thickened. This is not due to hypertrophy. The myocardium
@@ -190,7 +191,7 @@ septal rupture (VSR). Mechanical complications such as VSR and free
 wall rupture are associated with post infarct regional pericarditis. This
 patient as expected presented with a new harsh holosystolic
 murmur.
-https://drsmithsecgblog.com/chest-pain-followed-by-6-days-of/ 6/18
+ 6/18
 This image show the direction of blood flow from the left ventricle
 (high pressure system) through the ventricular septal rupture to
 the right ventricle (low pressure system). If the defect is a large
@@ -236,7 +237,7 @@ metalloproteinase activity and tissue breakdown peak by day 7,
 whereas deposition of new collagen begins by days 2-4. Necrotic
 myocytes are entirely replaced by collagen by 28 days and therefore,
 postponing surgical correction might facilitate successful repair by
-https://drsmithsecgblog.com/chest-pain-followed-by-6-days-of/ 7/18
+ 7/18
 allowing friable tissue to organize, strengthen, and become well-
 differentiated from surrounding healthy tissue.
 It follows then from the above paragraph that it is important to
@@ -269,14 +270,14 @@ References:
 [1] Lador, A. et. al. (2017). Incidence and Prognosis of Pericarditis
 After ST-Elevation Myocardial Infarction (from the Acute Coronary
 Syndrome Israeli Survey 2000 to 2013 Registry Database). The
-American Journal of Cardiology, 121(6), 690–694. https://doi.org/10.10
+American Journal of Cardiology, 121(6), 690–694. 
 16/j.amjcard.2017.12.006
 [2] Oliva, P. B., Hammill, S. C., & Edwards, W. D.
 (1993). Electrocardiographic diagnosis of postinfarction regional
 pericarditis. Ancillary observations regarding the effect of reperfusion
-https://drsmithsecgblog.com/chest-pain-followed-by-6-days-of/ 8/18
+ 8/18
 on the rapidity and amplitude of T wave inversion after acute
-myocardial infarction. Circulation, 88(3), 896–904. https://doi.org/10.1
+myocardial infarction. Circulation, 88(3), 896–904. 
 161/01.cir.88.3.896
 [3] Oliva PB, Hammill SC, Edwards WD. Cardiac rupture, a clinically p
 redictable complication of acute myocardial infarction: report of 70 ca
@@ -288,10 +289,10 @@ Rupture following Acute Myocardial Infarction. Cardiology, 1–14. http
 s://doi.org/10.1159/000538967
 [5] Vega, J. D. S., Salinas, G. L. A., et. al (2022). Optimal surgical timi
 ng after post-infarction ventricular septal rupture. Cardiology Journa
-l, 29(5), 773–781. https://doi.org/10.5603/cj.a2022.0035
+l, 29(5), 773–781. 
 [6] Contemporary Management of Post-MI Ventricular Septal
 Rupture – American College of Cardiology. (2018, July 30).
-American College of Cardiology. https://www.acc.org/latest-in-cardio
+American College of Cardiology. 
 logy/articles/2018/07/30/06/58/contemporary-management-of-post-
 mi-ventricular-septal-rupture
 ===================================
@@ -315,7 +316,7 @@ associated with post-MI VSR).
 Physical Exam was revealing. Most of the time with acute MI —
 little additional information is provided by physical examination (with
 exception of those acute MI patients who present with heart failure
-https://drsmithsecgblog.com/chest-pain-followed-by-6-days-of/ 9/18
+ 9/18
 or shock). Today’s patient presented with
 a harsh, holosystolic murmur consistent with acute VSR. This
 was detected on admission through the ED
@@ -348,7 +349,7 @@ of conflicting findings in today’s ECG (that I’ve reproduced and
 labeled in Figure-1).
 QUESTION:
 How would you interpret the ECG in Figure-1?
-https://drsmithsecgblog.com/chest-pain-followed-by-6-days-of/ 10/18
+ 10/18
 Figure-1: I’ve labeled the initial ECG in today’s case.
 ============================
 NOTE: The ECG in Figure-1 was initially recorded using
@@ -376,7 +377,7 @@ As noted — there is sinus rhythm at ~90-95/minute. The PR
 interval is normal. The QRS is not wide.
 The QTc appears to be at the upper limit of normal, or
 borderline prolonged (Using our QTc Calculator described
-https://drsmithsecgblog.com/chest-pain-followed-by-6-days-of/ 11/18
+ 11/18
 in the January 12, 2025 post — and plugging in a rate of
 ~95/minute and a measured QT = 370 msec, as seen in
 leads V3,V4 — we come up with an estimated QTc clearly
@@ -420,7 +421,7 @@ Simple pericarditis does not manifest the kind of reciprocal
 ST-T wave changes seen in high-lateral leads I,aVL. But the
 finding of ST elevation in 8/12 leads, in association with the
 above noted Q waves is probably most consistent
-https://drsmithsecgblog.com/chest-pain-followed-by-6-days-of/ 12/18
+ 12/18
 with recent extensive infero-antero-lateral MI, now
 with post-infarction pericarditis.
 Final Thoughts:

@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Steve Smith onNovember 8, 2025
 Atypical symptoms. Should
 we give thrombolytics?
@@ -27,14 +28,14 @@ What do you think? Is it “Nonspecific ST abnormality, as the
 conventional computer algorithm claims?”
 My friend thought there was inferior OMI. He applied the
 PMCardio Queen of Hearts: 
-https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 1/11
+ 1/11
 The model output was 0.96, which is nearly 100% certain. (That is
 found by clicking on the small encircled “i” next to “hide
 explainability”.)
 PMcardio for Individuals now includes the latest Queen of
 Hearts model, AI explainability (blue heatmaps), and %LV
 Ejection Fraction. Download now for iOS or Android:
-https://individuals.pmcardio.com/app/promo?
+
 code=DRSMITH20. As a member of our community, you can
 use the code DRSMITH20 to get an exclusive 20% off your
 first year of the annual subscription. Disclaimer: PMcardio is
@@ -63,7 +64,7 @@ she does not correlate STE in V1 with OMI, UNLESS there is
 STD in V5-6 (which is precordial swirl) from LAD OMI. In any
 case: she recognizes OMI and that is the only output she is
 allowed to give and the only really critical output.
-https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 2/11
+ 2/11
 It is very common for the very elderly to have atypical
 symptoms of acute MI. Without chest pain, he was not
 certain enough to act. I think I would have been convinced
@@ -104,7 +105,7 @@ implies right ventricularl MI (RVMI). RVMI causes poor RV
 output and hypotension, and is associated with high
 mortality if not reperfused. It is caused by proximal RCA
 occlusion (proximal to the RV marginal branch). Not all
-https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 3/11
+ 3/11
 proximal occlusions cause RVMI because most patients
 have collaterals to the RV from the LAD.
 4. See our publication on Bayesian analysis of ACS
@@ -143,7 +144,7 @@ seeing ECG #1 — I was not certain of this given the 2
 week history of shortness of breath with “pleuritic” CP
 (Chest Pain) as the symptoms that prompted this ED
 visit.
-https://drsmithsecgblog.com/atypical-symptoms-should-we-give-thrombolytics/ 4/11
+ 4/11
 That said — given the change in symptoms during
 observation of the patient in the ED — immediately
 repeating the ECG(as well as doing an Echo at the

@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Willy Frick onDecember 24, 2024
 How comfortable are you
 with transcutaneous
@@ -26,7 +27,7 @@ Do you notice any problems?
 Here is the exact same strip, with the arterial pressure waveform
 included:
 
-https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 1/11
+ 1/11
 See if you can figure out what the problem is.
 Hint: What does the arterial waveform correspond to on the ECG?
 The problem here is complete failure to capture. The amount of
@@ -43,7 +44,7 @@ rhythm!
 Here is the same image with orange arrows pointing out the patientʼs
 native P waves and blue arrows pointing out the patientʼs native QRS
 complexes. (Dotted lines indicated buried waveforms).
-https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 2/11
+ 2/11
 Now it becomes apparent that the arterial tracing corresponds
 exactly to the native QRS complex, and has no relationship at all to
 the pacing spikes. This patient is getting painful electrical shocks at a
@@ -75,7 +76,7 @@ best bet is a femoral artery. And to be clear: It is completely
 safe to touch a patient who is being transcutaneously paced. I
 have done it many times.
 Pacing can be painful even if not capturing.
-https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 3/11
+ 3/11
 When in doubt crank the output all the way up. The dial will
 usually be labeled “OUTPUT,” and the units will be mA.
 Learning points:
@@ -102,7 +103,7 @@ QUESTIONS:
 Is there effective capture for rhythm strips A,B,C and D
 in Figure-1?
 — How can you tell? Clinically — What should you do?
-https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 4/11
+ 4/11
 Figure-1: Pacing caveats. Is there effective capture for rhythm strips
 A,B,C,D? (adapted from Grauer K: ACLS-2013-ePub — Section 15,
 KG/EKG Press).
@@ -130,7 +131,7 @@ Each pacer spike in Panel C now captures the ventricles by
 the end of this rhythm strip (evidenced by a wide QRS
 complex after each spike, followed by a broad, oppositely
 directed T wave).
-https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 5/11
+ 5/11
 Suggested Approach:Look for objective signs to
 confirm that pacing is working clinically (ie, Check for
 pulseand BP; pulse ox pleth wave; andET CO2 readings
@@ -175,7 +176,7 @@ ET CO2 increase as it should if the pacer is truly
 effective?)
 Willy Frick onDecember 24, 2024
 PACING PACING CAPTURE - OR NOT
-https://drsmithsecgblog.com/how-comfortable-are-you-with-2/ 6/11
+ 6/11
 SHARE    
  PREVIOUS ARTICLE NEXT ARTICLE 
 See how the Queen of Tachycardia in

@@ -11,8 +11,7 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+Exercise tolerance testing - PMC
 As a library, NLM provides access to scientific literature. Inclusion in an NLM database
 does not imply endorsement of, or agreement with, the contents by NLM or the National
 Institutes of Health.
@@ -33,9 +32,9 @@ Clinical relevance
 Exercise tolerance testing (also known as exercise testing or exercise stress testing) is used routinely
 in evaluating patients who present with chest pain, in patients who have chest pain on exertion, and
 in patients with known ischaemic heart disease.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 1/16
---- Страница 2 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+ 1/16
+
+ Exercise tolerance testing - PMC
 Diagnostic indications for exercise testing
 Assessment of chest pain in patients with intermediate probability for coronary artery
 disease
@@ -60,9 +59,9 @@ Exercise testing is therefore of greatest diagnostic value in patients with an i
 coronary artery disease.
 The test
 Protocol
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 2/16
---- Страница 3 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+ 2/16
+
+ Exercise tolerance testing - PMC
 The Bruce protocol is the most widely adopted protocol and has been extensively validated. The
 protocol has seven stages, each lasting three minutes, resulting in 21 minutes' exercise for a complete
 test. In stage 1 the patient walks at 1.7 mph (2.7 km) up a 10% incline. Energy expenditure is
@@ -90,9 +89,9 @@ both sitting and standing, are recorded as electrocardiographic changes, particu
 inversion, may occur as the patient stands up to start walking on the treadmill. A short period of
 electrocardiographic recording during hyperventilation is also valuable for identifying changes
 resulting from hyperventilation rather than from coronary ischaemia.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 3/16
---- Страница 4 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+ 3/16
+
+ Exercise tolerance testing - PMC
 Contraindications for exercise testing
 Acute myocardial infarction (within 4-6 days)
 Unstable angina (rest pain in previous 48 hours)
@@ -123,9 +122,9 @@ Limitations
 The specificity of ST segment depression as the main indicator of myocardial ischaemia is limited. ST
 segment depression has been estimated to occur in up to 20% of normal individuals on ambulatory
 electrocardiographic monitoring. There are many causes of ST segment changes apart from coronary
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 4/16
---- Страница 5 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+ 4/16
+
+ Exercise tolerance testing - PMC
 artery disease, which confound the result of exercise testing. If the resting electrocardiogram is
 abnormal, the usefulness of an exercise test is reduced or may even be precluded. Repolarisation and
 conduction abnormalities—for example, left ventricular hypertrophy, left bundle branch block, pre-
@@ -151,9 +150,9 @@ Abnormal changes during exercise
 The standard criterion for an abnormal ST segment response is horizontal (planar) or downsloping
 depression of >1 mm. If 0.5 mm of depression is taken as the standard, the sensitivity of the test
 increases and the specificity decreases (vice versa if 2 mm of depression is selected as the standard).
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 5/16
---- Страница 6 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+ 5/16
+
+ Exercise tolerance testing - PMC
 Reasons for stopping a test
 Electrocardiographic criteria
 Severe ST segment depression (>3 mm)
@@ -182,9 +181,9 @@ have been induced by exercise is neither sensitive nor specific for coronary art
 Stopping the test
 In clinical practice, patients rarely exercise for the full duration (21 minutes) of the Bruce protocol.
 However, completion of 9-12 minutes of exercise or reaching 85% of the maximum predicted changes
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 6/16
---- Страница 7 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+ 6/16
+
+ Exercise tolerance testing - PMC
 in heart rate is usually satisfactory. An exercise test should end when diagnostic criteria have been
 reached or when the patient's symptoms and signs dictate.
 The most common reason for stopping an exercise test is fatigue and breathlessness as
@@ -210,9 +209,9 @@ Exertional hypotension
 A test that indicates a high probability of coronary artery disease is one in which there is substantial
 ST depression at low work rate associated with typical angina-like pain and a drop in blood pressure.
 Deeper and more widespread ST depression generally indicates more severe or extensive disease.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 7/16
---- Страница 8 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+ 7/16
+
+ Exercise tolerance testing - PMC
 False positive results are common in women, reflecting the lower incidence of coronary artery disease
 in this group.
 Prognostic testing
@@ -240,50 +239,50 @@ regular exercise testing, though more stringent criteria for an abnormal test re
 segment depression of >2 mm) should be applied. In the United Kingdom, drivers of heavy goods
 vehicles and public service vehicles have to achieve test results clearly specified by the Driver and
 Vehicle Licensing Agency before they are considered fit to drive.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 8/16
---- Страница 9 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+ 8/16
+
+ Exercise tolerance testing - PMC
 Figure.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 9/16
---- Страница 10 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 10/16
---- Страница 11 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+ 9/16
+
+ Exercise tolerance testing - PMC
+ 10/16
+
+ Exercise tolerance testing - PMC
 Open in a new tab
 Patient exercising on treadmill
 Figure.
 Open in a new tab
 Top: At rest. Bottom: Pathological ST segment depression as measured 80 ms from J point
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 11/16
+ 11/16
 🔍
---- Страница 12 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+
+ Exercise tolerance testing - PMC
 Figure.
 Open in a new tab
 Normal changes from rest (A), after three minutes' exercise (B), and after six minutes'
 exercise (C). Note the upsloping ST segments
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 12/16
+ 12/16
 🔍
---- Страница 13 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+
+ Exercise tolerance testing - PMC
 Figure.
 Open in a new tab
 Horizontal ST segment depression (A=at rest, B=after three minutes' exercise, C=after six
 minutes' exercise) and downsloping ST segment depression (D=at rest, E=after six minutes'
 exercise)
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 13/16
+ 13/16
 🔍
---- Страница 14 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+
+ Exercise tolerance testing - PMC
 Figure.
 Open in a new tab
 ST segments in leads V2 to V4 at rest (left) and after two minutes' exercise (right) (note
 obvious ST elevation)
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 14/16
+ 14/16
 🔍
---- Страница 15 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+
+ Exercise tolerance testing - PMC
 Figure.
 Open in a new tab
 T wave inversion in lead V5 at rest (A) and normalisation of T waves with exercise (B)
@@ -297,12 +296,12 @@ The ABC of clinical electrocardiography is edited by Francis Morris, consultant 
 medicine at the Northern General Hospital, Sheffield; June Edhouse, consultant in emergency
 medicine, Stepping Hill Hospital, Stockport; William J Brady, associate professor, programme
 director, and vice chair, department of emergency medicine, University of Virginia, Charlottesville,
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 15/16
+ 15/16
 🔍
 🔍
---- Страница 16 ---
-22/01/2026, 15:10 Exercise tolerance testing - PMC
+
+ Exercise tolerance testing - PMC
 VA, USA; and John Camm, professor of clinical cardiology, St George's Hospital Medical School,
 London. The series will be published as a book in the summer.
 Articles from BMJ : British Medical Journal are provided here courtesy of BMJ Publishing Group
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123032/ 16/16
+ 16/16

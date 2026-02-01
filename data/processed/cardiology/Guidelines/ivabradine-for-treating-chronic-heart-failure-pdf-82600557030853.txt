@@ -11,15 +11,12 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 Ivabradine for treating
 chronic heart failure
 Technology appraisal guidance
 Published: 28 November 2012
 www.nice.org.uk/guidance/ta267
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
-conditions#notice-of-rights).
---- Страница 2 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 Your responsibility
 The recommendations in this guidance represent the view of NICE, arrived at after careful
@@ -41,28 +38,9 @@ equality of opportunity and to reduce health inequalities.
 Commissioners and providers have a responsibility to promote an environmentally
 sustainable health and care system and should assess and reduce the environmental
 impact of implementing NICE recommendations wherever possible.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
-conditions#notice-of-rights). 40
---- Страница 3 ---
+
 Ivabradine for treating chronic heart failure (TA267)
-Contents
-1 Recommendations ................................................................................................................. 4
-2 The technology ...................................................................................................................... 5
-3 The manufacturer's submission ........................................................................................... 6
-Main SHIFT population ....................................................................................................................... 8
-Population covered by the marketing authorisation ........................................................................ 9
-Cost-effectiveness evidence ............................................................................................................. 14
-4 Consideration of the evidence ............................................................................................. 22
-Clinical effectiveness .......................................................................................................................... 22
-Cost effectiveness .............................................................................................................................. 29
-5 Implementation ...................................................................................................................... 33
-6 Appraisal committee members, and NICE project team ................................................... 34
-Appraisal committee members .......................................................................................................... 34
-NICE project team ............................................................................................................................... 37
-7 Sources of evidence considered by the committee .......................................................... 38
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
-conditions#notice-of-rights). 40
---- Страница 4 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 1 Recommendations
 1.1 Ivabradine is recommended as an option for treating chronic heart failure for
@@ -83,9 +61,7 @@ antagonists.
 multidisciplinary heart failure team. Dose titration and monitoring should be
 carried out by a heart failure specialist, or in primary care by either a GP with a
 special interest in heart failure or a heart failure specialist nurse.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
-conditions#notice-of-rights). 40
---- Страница 5 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 2 The technology
 2.1 Ivabradine (Procoralan, Servier Laboratories) is a heart-rate-lowering agent that
@@ -111,9 +87,7 @@ quoted an average monthly cost of £42.10 (excluding VAT) based on the
 proportion of patients using 2.5 mg (7%) and either 5 mg or 7.5 mg (93%) in the
 SHIFT study (see section 3.1). Costs may vary in different settings because of
 negotiated procurement discounts.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
-conditions#notice-of-rights). 40
---- Страница 6 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 3 The manufacturer's submission
 The appraisal committee considered evidence submitted by the manufacturer of
@@ -147,9 +121,7 @@ tolerability. All analyses were based on intention to treat even though a total 
 The mean age was 60.4 years, 76% of the patients were men and mostly white.
 Mean heart rate was 79.9 bpm and mean left ventricular ejection fraction was
 29%. Heart failure was ischaemic in 68% of the patients and patients were equally
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
-conditions#notice-of-rights). 40
---- Страница 7 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 distributed between NYHA class 2, 3 or 4. Alcohol consumption and smoking
 status were also similar between the trial groups, with less than 20% of the
@@ -185,9 +157,7 @@ endpoint of first event of cardiovascular death or hospital admission for
 worsening heart failure. This was carried out using a survival analysis based on
 time-to-first event estimated by the Kaplan–Meier method. Secondary and other
 efficacy outcomes included mortality, hospital admission, change in heart rate,
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
-conditions#notice-of-rights). 40
---- Страница 8 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 change in NYHA class, change in global assessment of heart failure symptoms
 and efficacy in patients aged 70 years or older (post hoc analysis in the main trial
@@ -219,9 +189,7 @@ population. For the primary composite endpoint, the relative effects of ivabradi
 compared with placebo for the 5 categories of beta-blocker intake were:
 • HR 0.71; 95% CI 0.55 to 0.93, p=0.012 (no beta-blocker)
 • HR 0.74; 95% CI 0.59 to 0.92, p=0.007 (less than 25% of target dose)
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
-conditions#notice-of-rights). 40
---- Страница 9 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 • HR 0.81; 95% CI 0.68 to 0.98, p=0.029 (25% or more but less than 50% of
 target dose)
@@ -252,9 +220,7 @@ significant. There were statistically significant reductions in all mortality
 outcomes in the ivabradine group compared with placebo as follows:
 • cardiovascular death (HR 0.83; 95% CI 0.71 to 0.97, p=0.0166)
 • heart failure death (HR 0.61; 95% CI 0.46 to 0.81, p=0.0006)
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
-conditions#notice-of-rights). 40
---- Страница 10 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 • all-cause death (HR 0.83; 95% CI 0.72 to 0.96, p=0.0109).
 Results similarly favoured ivabradine compared with placebo for:
@@ -287,9 +253,7 @@ that this was because there were fewer deaths during the first 12 months than
 during the whole study.
 3.14 A mixed regression model was used to estimate quality of life using EQ-5D index
 scores with UK population tariff values. This showed that quality of life improved
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
-conditions#notice-of-rights). 40
---- Страница 11 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 in the ivabradine group for the population covered by the marketing
 authorisation. The KCCQ disease-specific measure was also used and it showed
@@ -322,9 +286,7 @@ manufacturer provided details of the patients who experienced symptomatic
 bradycardia and atrial fibrillation, and follow-up data on the reduction in heart
 rate at various time points for the population covered by the marketing
 authorisation.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
-conditions#notice-of-rights). 40
---- Страница 12 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 Evidence review group comments – population covered by the
 marketing authorisation
@@ -360,9 +322,7 @@ the population covered by the marketing authorisation were each treated with the
 recommended target dose of beta-blocker, and 55.4% of the trial population
 covered by the marketing authorisation were treated with 50% or more of the
 recommended dose of beta-blocker despite the recommendations in the SHIFT
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
-conditions#notice-of-rights). 40
---- Страница 13 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 protocol. It was concerned that the patients who were not treated with the target
 dose of beta-blocker may not have been optimally treated. The ERG also noted
@@ -398,9 +358,7 @@ ivabradine plus standard care for patients with a resting heart rate of 75 bpm o
 more and who are receiving at least 25% of beta-blockers. The ERG also explored
 the efficacy of ivabradine according to NYHA class and in patients aged 70 years
 or older. It noted that the analysis in the NYHA class 4 subgroup was based on
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
-conditions#notice-of-rights). 40
---- Страница 14 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 small numbers, creating uncertainty about the benefit of ivabradine observed in
 this subgroup. Because the input data used in the exploratory analyses were
@@ -435,9 +393,7 @@ developing risk equations based solely on the population covered by the
 marketing authorisation. This was to avoid breaking randomisation and reducing
 the predictive power of the risk equations because of smaller sample size.
 However, the risk equations for mortality, hospital admission and quality of life
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
-conditions#notice-of-rights). 40
---- Страница 15 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 were adjusted for baseline heart rate to predict estimates for the population
 covered by the marketing authorisation with a heart rate of 75 bpm or more.
@@ -474,9 +430,7 @@ evidence to predict the distribution of patients by NYHA class beyond the trial
 period, the model assumed that the proportions remained fixed after the trial
 based on the last observation in the trial at 29 months (although the absolute
 numbers in each category were expected to vary according to the number of
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
-conditions#notice-of-rights). 40
---- Страница 16 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 patients alive).
 3.27 The rate of heart failure, cardiovascular and all-cause hospital admission per
@@ -512,9 +466,7 @@ non-elective NHS reference cost data.
 3.29 The utility values used in the model were derived from the SHIFT-PRO study, in
 which health-related quality of life was captured with the EQ-5D questionnaire.
 EQ-5D index scores were calculated using UK population tariff values and then
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
-conditions#notice-of-rights). 40
---- Страница 17 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 analysed using a mixed regression model. Quality of life was modelled to reflect
 patients' baseline characteristics, severity of the disease over time by NYHA
@@ -551,9 +503,7 @@ However, additional costs were included for ivabradine therapy titration
 (1 specialist visit) and an electrocardiogram (ECG). This increased the total
 monthly cost in the ivabradine group from £52 to £202 for the first month.
 3.31 The hospital admission costs used in the model were estimated using the NHS
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
-conditions#notice-of-rights). 40
---- Страница 18 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 reference costs for heart failure admissions (general ward: £2,308 and cardiac
 ward: £3,295), cardiovascular admissions (general ward: £1,942 and cardiac
@@ -589,9 +539,7 @@ treatment effect on NYHA class had much less impact on the ICER, £6,938 to
 standard care would have a more than 95% chance of being cost effective
 compared with standard care alone if the maximum acceptable ICER was
 £20,000 per QALY gained.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
-conditions#notice-of-rights). 40
---- Страница 19 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 3.35 The manufacturer carried out different scenario analyses to manage uncertainties
 about some of the assumptions in the base-case model. The scenario analyses
@@ -627,9 +575,7 @@ population was specified as western European men with a median age of
 generated for this subgroup was £8,735 per QALY gained, and the ICER for a UK
 chronic heart failure patient group taking the target dose of beta-blockers was
 £9,185 per QALY gained.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
-conditions#notice-of-rights). 40
---- Страница 20 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 Evidence review group comments
 3.37 The ERG was satisfied with the manufacturer's modelling approach, which was
@@ -665,9 +611,7 @@ the manufacturer's submission was clinically plausible and the disutility
 associated with hospital admission was likely to have captured any serious
 impact of adverse events on quality of life because hospital admission would be
 the main consequence of serious adverse events. The ERG noted that the impact
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
-conditions#notice-of-rights). 40
---- Страница 21 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 of age adjustment for health-related quality of life was minimal (it increased the
 ICER by £216 per QALY gained). Therefore, it accepted the exclusion of age
@@ -703,9 +647,7 @@ compared with standard care alone. It stated that the sensitivity and subgroup
 analyses sufficiently addressed any areas of uncertainty.
 3.42 Full details of all the evidence are in the manufacturer's submission and the ERG
 report.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
-conditions#notice-of-rights). 40
---- Страница 22 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 4 Consideration of the evidence
 4.1 The appraisal committee reviewed the data available on the clinical and cost
@@ -737,9 +679,7 @@ practice. The committee was aware that the population covered by the marketing
 authorisation in SHIFT was younger, included a higher proportion of men and
 people with more severe chronic heart failure than the typical chronic heart
 failure population in the UK. It also noted that only a few people from the UK were
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
-conditions#notice-of-rights). 40
---- Страница 23 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 included in the trial and the use of cardiac devices in the trial was low. The clinical
 specialists and the ERG indicated that the differences in age and severity of
@@ -777,9 +717,7 @@ marketing authorisation. The committee concluded that SHIFT was well
 conducted and there was it was plausible biologically that a statistically
 significant mortality benefit will be observed in the subgroup of people with a
 baseline resting heart rate of 75 bpm or more, which reflects the marketing
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
-conditions#notice-of-rights). 40
---- Страница 24 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 authorisation of ivabradine. However, they were aware the evidence presented
 should be interpreted with a level of caution because the subgroup was identified
@@ -816,9 +754,7 @@ although other serious adverse events were higher in the placebo group. It noted
 the comments from the clinical specialists that phosphenes are recognised
 adverse effects of ivabradine, which usually resolve in most patients during
 treatment. The clinical specialists also stated that ivabradine appeared to be
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
-conditions#notice-of-rights). 40
---- Страница 25 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 much simpler and safer to use compared with most heart failure drugs. The
 committee was concerned that an unusually high proportion of people in the
@@ -855,9 +791,7 @@ the NYHA class 4 subgroup could be considered to be in a stable condition given
 the severity of their heart failure and that ivabradine is contraindicated in
 unstable heart failure. The committee also heard from the clinical specialists that
 the benefit observed in this subgroup of people would be expected because they
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
-conditions#notice-of-rights). 40
---- Страница 26 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 are the population with the greatest risk of cardiovascular mortality. However, the
 committee noted that the analysis in this subgroup of people with NYHA class 4
@@ -894,9 +828,7 @@ ACE inhibitors, beta-blockers and aldosterone antagonists has been optimised.
 meant in clinical practice. It heard from clinical specialists that it can take several
 months to appropriately titrate beta-blockers to the optimal dose for a patient.
 The committee was aware that to optimise and ensure adherence to beta-blocker
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
-conditions#notice-of-rights). 40
---- Страница 27 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 therapy, continuous monitoring and education and support of the patient by
 members of the heart failure multidisciplinary team are needed. The committee
@@ -933,9 +865,7 @@ that ivabradine will only be considered if the person is in sinus rhythm as
 indicated in ivabradine's marketing authorisation. The committee was aware that
 ivabradine is contraindicated in people whose heart rate is dependent on a
 pacemaker. The committee recognised that there was some uncertainty about
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
-conditions#notice-of-rights). 40
---- Страница 28 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 the appropriate choice of treatment when people are eligible for both ivabradine
 and cardiac resynchronisation therapy, and concluded that the decision will likely
@@ -972,9 +902,7 @@ increasing heart failure expertise outside secondary care. It noted that NICE's
 previous guideline on chronic heart failure (now replaced by NICE's guideline on
 chronic heart failure in adults) defined a specialist as a physician with a
 subspecialty interest in the management of heart failure and who leads a
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
-conditions#notice-of-rights). 40
---- Страница 29 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 specialist multidisciplinary heart failure team of professionals with appropriate
 competencies from primary and secondary care. The committee concluded that
@@ -1008,9 +936,7 @@ the subgroup analyses were below £11,000 per QALY gained. The committee
 concluded that the manufacturer's model was robust and the assumptions were
 realistic and conservative.
 4.17 The committee considered the uncertainty around the benefit of ivabradine on
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
-conditions#notice-of-rights). 40
---- Страница 30 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 cardiovascular mortality given that the ICER ranged between approximately
 £5,600 and £40,600 per QALY gained when the risk of cardiovascular mortality
@@ -1048,9 +974,7 @@ ivabradine on the hospital admission endpoints was the key driver of the cost
 effectiveness of ivabradine plus standard care compared with standard care
 alone. It noted that ivabradine plus standard care was more effective and cost
 more than standard care. Additionally, it noted that ivabradine was still accruing
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
-conditions#notice-of-rights). 40
---- Страница 31 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 more QALYs when the confidence interval for the hazard ratio for mortality
 crossed 1 and favoured standard care alone in the model, which suggested that
@@ -1087,9 +1011,7 @@ Nevertheless, the committee did not consider that the wording of the
 recommendations affected access to treatment by this group. The committee
 also noted that older people and women were under-represented in SHIFT. But it
 considered that the recommendation for ivabradine was not based on sex or age,
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of
-conditions#notice-of-rights). 40
---- Страница 32 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 does not vary according to the sex or age of the patient, and that all patients
 would benefit from ivabradine. The committee considered that these were not
@@ -1113,9 +1035,7 @@ therapies for chronic heart failure in the group of people covered by the
 marketing authorisation. The committee therefore concluded that ivabradine
 could be considered a cost-effective use of NHS resources for treating chronic
 heart failure in people covered by the marketing authorisation.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 32 of
-conditions#notice-of-rights). 40
---- Страница 33 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 5 Implementation
 5.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
@@ -1133,9 +1053,7 @@ available within the period set out in the paragraphs above. This means that, if
 patient has chronic heart failure and the healthcare professional responsible for
 their care thinks that ivabradine is the right treatment, it should be available for
 use, in line with NICE's recommendations.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 33 of
-conditions#notice-of-rights). 40
---- Страница 34 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 6 Appraisal committee members, and
 NICE project team
@@ -1163,9 +1081,7 @@ Dr Daniele Bryden
 Consultant in Intensive Care Medicine and Anaesthesia, Sheffield Teaching Hospitals NHS
 Trust
 Dr Andrew Burnett
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 34 of
-conditions#notice-of-rights). 40
---- Страница 35 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 Director for Health Improvement and Medical Director, NHS Barnet, London
 David Chandler
@@ -1193,9 +1109,7 @@ Clinical Pharmacologist, University of Sheffield
 Dr Janice Kohler
 Senior Lecturer and Consultant in Paediatric Oncology, Southampton University Hospital
 Trust
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 35 of
-conditions#notice-of-rights). 40
---- Страница 36 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 Ms Emily Lam
 Lay member
@@ -1224,9 +1138,7 @@ Consultant in Public Health Medicine, North West Specialised Services Commission
 Team, Warrington
 Dr John Stevens
 Lecturer in Bayesian Statistics in Health Economics, School of Health and Related
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 36 of
-conditions#notice-of-rights). 40
---- Страница 37 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 Research, Sheffield
 Professor Matt Stevenson
@@ -1243,9 +1155,7 @@ Bhash Naidoo and Kay Nolan
 Technical Advisers
 Lori Farrar
 Project Manager
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 37 of
-conditions#notice-of-rights). 40
---- Страница 38 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 7 Sources of evidence considered by the
 committee
@@ -1271,9 +1181,7 @@ Professional or specialist, and patient or carer groups:
 • Royal College of Nursing
 • Royal College of Physicians
 Other consultees:
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 38 of
-conditions#notice-of-rights). 40
---- Страница 39 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 • Department of Health
 • NHS Devon
@@ -1302,9 +1210,7 @@ NHS trust allocated to this appraisal. They gave their expert and NHS commission
 personal view on ivabradine for the treatment of chronic heart failure by attending the
 initial committee discussion and providing written evidence to the committee. They were
 also invited to comment on the ACD.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 39 of
-conditions#notice-of-rights). 40
---- Страница 40 ---
+
 Ivabradine for treating chronic heart failure (TA267)
 • Tina Teague, Head of Locality Commissioning, selected by NHS Devon – NHS
 Commissioning expert.
@@ -1313,5 +1219,3 @@ meetings. They contributed only when asked by the committee chair to clarify spe
 issues and comment on factual accuracy.
 • Servier Laboratories.
 ISBN: 978-1-4731-5667-8
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 40 of
-conditions#notice-of-rights). 40

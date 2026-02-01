@@ -11,7 +11,6 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 ESC Clinical Practice Guidelines on
 The Management of
 Chronic and Acute
@@ -21,7 +20,7 @@ Updated
 What Patients
 Need to Know
 Image is of model used for illustrative purposes only
---- Страница 2 ---
+
 What Are Clinical Practice Guidelines?
 Clinical Practice Guidelines are written by a team of healthcare professionals and
 scientists and are mainly intended for healthcare professionals. They provide diagnosis
@@ -55,8 +54,8 @@ give you the knowledge and confidence to be involved in shared decision-making w
 your healthcare providers regarding treatment and other aspects of your health. It also
 provides suggestions on ways to look after yourself, which is essential in the effective
 management of heart failure.
-1 https://www.escardio.org/Guidelines/Clinical-Practice-Guidelines/Acute-and-Chronic-Heart-Failure
---- Страница 3 ---
+1 
+
 What is Heart Failure?
 Heart failure is not a single disease but a ‘syndrome’ made up of symptoms, such as
 breathlessness or fatigue, that may appear alongside signs such as swollen ankles,
@@ -87,7 +86,7 @@ heart and stiffened
 Changes in The left ventricle fills with higher pressure than is normal.
 heart function There is higher pressure in the lungs, veins and liver that can
 lead to breathlessness and/or oedema (swelling)
---- Страница 4 ---
+
 The changes associated with each type of chronic heart failure are shown below:
 Left
 ventricle
@@ -111,8 +110,8 @@ cannot be fully controlled despite maximum therapy. This is sometimes referred t
 Advanced heart failure is different from when acute heart failure arises in a patient
 with chronic heart failure, which describes the rapid onset of a change in heart
 function that requires urgent attention.
-Image adapted from: Bloom MW, et al. Nat Rev Dis Primers. 2017;3:17058. https://doi.org/10.1038/nrdp.2017.58
---- Страница 5 ---
+Image adapted from: Bloom MW, et al. Nat Rev Dis Primers. 2017;3:17058. 
+
 Diagnosis of Heart Failure
 To be diagnosed with heart failure, you must have symptoms and/or signs of heart
 failure as well as abnormalities and functional problems in the heart as seen on tests.
@@ -132,7 +131,7 @@ The types of treatments that you receive will be chosen depending on how much
 help your heart needs to function. The more that is known about your diagnosis, the
 better your doctors can personalise your treatment options, which may improve your
 symptoms and/or outcomes.
---- Страница 6 ---
+
 Severity Classification of Heart Failure
 Following diagnosis, doctors will often classify your condition using the New York
 Heart Association (NYHA) Functional Classification system, according to the
@@ -153,7 +152,7 @@ Some causes of heart failure, such as a disease of the heart muscle called
 cardiomyopathy, may be ‘hereditary’, meaning they can be passed down in your
 family. Genetic testing should be considered in people who may have cardiomyopathy
 depending on age, family history and heart structure.
---- Страница 7 ---
+
 Treatment for Heart Failure
 Care from a multidisciplinary team (healthcare professionals across different
 specialities) is key to meeting the three major goals of treatment for people with
@@ -168,7 +167,7 @@ Management
 Medication Devices Surgery Lifestyle and
 monitoring
 Help patients live longer, prevent hospital stays, decrease symptoms and improve quality of life
---- Страница 8 ---
+
 Medications for People with HFrEF
 Medicines are the first treatment for HFrEF and should be started as early as possible,
 before devices or other non-medicinal treatments are used.
@@ -199,7 +198,7 @@ Most research into medication for people living with heart failure has been focu
 on treatment of people with HFrEF. However, for people living with HFmrEF, the use of
 SGLT2 inhibitors has shown benefits and is therefore recommended, as well as use of
 diuretics. Other medications used for HFrEF may also help people with HFmrEF.
---- Страница 9 ---
+
 Medications for People with HFpEF
 SGLT2 inhibitors have been shown to help people with HFpEF live longer, prevent
 hospital stays, decrease symptoms and improve quality of life and are therefore
@@ -230,7 +229,7 @@ are often needed to prevent stroke, and digoxin is sometimes given to slow a hig
 heart rate.
 For people who don’t have enough iron, it is recommended to give an iron infusion
 to decrease symptoms, improve quality of life and prevent hospital admissions.
---- Страница 10 ---
+
 Devices and Surgery for Heart Failure
 Devices
 Medical devices can help support the heart by using electrical signals to keep it
@@ -278,7 +277,7 @@ should be considered of the device diuretic therapy) device is replaced, in
 for an implanted and potential is advised after case management goals
 device (ICD or CRT) complications receiving a CRT or needs have changed
 Time
---- Страница 11 ---
+
 Surgery
 Some people with underlying cardiac diseases that are causing heart failure will benefit
 from surgery or other procedures.
@@ -310,7 +309,7 @@ transplant is available or as a
 long-term treatment
 Heart People with advanced Optimal treatment for limited
 transplantation heart failure group of patients
---- Страница 12 ---
+
 Lifestyle Modifications for People
 with Heart Failure
 People with heart failure can make lifestyle modifications to improve their symptoms
@@ -327,7 +326,7 @@ Plan travel and Seek help if Monitor, recognise
 leisure activities experiencing and react to changes
 according to depression, anxiety in signs/symptoms
 physical ability or low mood
---- Страница 13 ---
+
 Management and Monitoring of
 Heart Failure
 Regular monitoring is important to maintain symptom control.
@@ -347,16 +346,16 @@ devices and surgical treatments, symptoms can get worse.
 A supportive approach from all members of your multidisciplinary team can improve
 quality of life by balancing medical treatment and symptom control with particular
 reference to mental and spiritual wellbeing.
---- Страница 14 ---
+
 This guide for patients is a simplified version of the ESC’s Clinical Practice Guidelines
 for the diagnosis and treatment of acute and chronic heart failure. The full guidelines
-are available in English on the ESC website (https://www.escardio.org/Guidelines/
+are available in English on the ESC website (
 Clinical-Practice-Guidelines/Acute-and-Chronic-Heart-Failure); your cardiologist will
 be familiar with its content and recommendations. Online translator tools may be
 able to translate the text and present it in an alternative language, with limitations.
 If you are interested in more information about heart failure and its diagnosis and
 treatment or the terms used in this document, the Heart Failure Matters website
-(https://www.heartfailurematters.org/) is a good place to start. It contains details about
+( is a good place to start. It contains details about
 heart failure and the medicines used to treat it (presented in 10 different languages).
 Authors
 • Jelena Cˇelutkiene˙, Clinic of Cardiac and Vascular Diseases, Vilnius University, Faculty of Medicine, Vilnius, Lithuania.

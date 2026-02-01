@@ -11,8 +11,7 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
-22/01/2026, 14:40 Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 MERCK MANUAL
 Professional Version
 Long QT Interval Syndromes
@@ -44,9 +43,9 @@ The congenital long QT interval syndromes result from genetic disorders of cardi
 or regulation (channelopathies) that prolong ventricular myocyte action potential duration as reflected
 by prolongation of the rate-corrected QT interval on the ECG (QTc, typically calculated using Bazett's
 formula).
-https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/long-qt-interval-syndromes 1/8
---- Страница 2 ---
-22/01/2026, 14:40 Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 1/8
+
+ Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 CLINICAL CALCULATORS
 QT Interval Correction (EKG)
 The dysfunction may involve
@@ -77,9 +76,9 @@ Long QT interval syndromes are classified based on the specific gene that has mu
 specific genetic abnormality is identified in only 70 to 85% of cases (1); likelihood of detecting an
 abnormality varies depending on clinical factors present.
 More than 15 forms of LQTS have been described, but most cases fall into 3 subgroups:
-https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/long-qt-interval-syndromes 2/8
---- Страница 3 ---
-22/01/2026, 14:40 Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 2/8
+
+ Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 Long QT syndrome type 1 (LQTS1): Loss-of-function mutation of gene KCNQ1, which
 encodes an adrenergic-sensitive Kv7.1 channel responsible for the slow outward potassium
 current (IKs)
@@ -103,9 +102,9 @@ Arrhythm 38(4):491–553, 2022. doi: 10.1002/joa3.12717
 Symptoms and Signs of Long QT Interval Syndromes
 The LQTS are asymptomatic unless TdeP VT occurs, which can cause palpitations, near syncope, or
 syncope. Some patients experience myoclonic jerks during syncope; they may incorrectly have a
-https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/long-qt-interval-syndromes 3/8
---- Страница 4 ---
-22/01/2026, 14:40 Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 3/8
+
+ Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 diagnosis of epilepsy pursued. Because the ventricular action potential duration decreases with
 increasing heart rate, TdeP VT is often self-terminating. However, it may degenerate into ventricular
 fibrillation and cause cardiac arrest and sudden death. In patients with LQTS, there is a 5-year risk of a
@@ -139,9 +138,9 @@ prolonged when > 0.45 second for males or > 0.47 second for females (1).
 However, given the multiplicity of factors affecting the QTc, a normal QTc does not exclude the
 diagnosis. Nevertheless, at the moment of torsade de pointes VT, the QTc is essentially always
 prolonged.
-https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/long-qt-interval-syndromes 4/8
---- Страница 5 ---
-22/01/2026, 14:40 Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 4/8
+
+ Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 When a patient has a significantly prolonged QT interval and documented torsade de pointes VT in the
 absence of other causes of a prolonged QT interval, the diagnosis of a congenital long QT interval
 syndrome is established. Patients with borderline QT intervals suspected of having LQTS should have
@@ -178,9 +177,9 @@ Electrocardiography§
 QTc ≥ 480 msec 3
 QTc 460-479 msec 2
 QTc 450-459 msec (males only) 1
-https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/long-qt-interval-syndromes 5/8
---- Страница 6 ---
-22/01/2026, 14:40 Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 5/8
+
+ Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 CRITERIA POINTS
 QTc ≥ 480 msec during 4th minute of
 1
@@ -212,9 +211,9 @@ Some forms of LQTS are also associated with particular ECG patterns
 LQTS1: Wide T waves
 LQTS2: Low voltage, notched T-waves
 LQTS3: Long-ST segment with normal appearing T-waves
-https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/long-qt-interval-syndromes 6/8
---- Страница 7 ---
-22/01/2026, 14:40 Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 6/8
+
+ Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 However, neither the triggers nor the ECG findings are very specific and should not be used to confirm
 type or to direct genetic testing.
 Diagnosis references
@@ -251,9 +250,9 @@ effective in LQTS3).
 Permanent pacing to increase the basal ventricular rate and to prevent post-extrasystolic pauses may
 reduce the probability of recurrent TdeP VT. An implantable cardioverter-defibrillator (ICD) is indicated
 in patients who have been resuscitated after cardiac arrest and in those who have cardiac syncope
-https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/long-qt-interval-syndromes 7/8
---- Страница 8 ---
-22/01/2026, 14:40 Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 7/8
+
+ Long QT Interval Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 despite therapy with a beta-blocker (see table Indications for Implantable Cardioverter-Defibrillators in
 Ventricular Tachycardia and Ventricular Fibrillation).
 Left heart (stellate ganglion) denervation may also be used (1).
@@ -274,4 +273,4 @@ permanent pacing, an implantable cardioverter-defibrillator, or stellate ganglio
 denervation.
 Drugs Mentioned In This Article
 Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
-https://www.merckmanuals.com/professional/cardiovascular-disorders/arrhythmogenic-cardiac-disorders/long-qt-interval-syndromes 8/8
+ 8/8
