@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Magnus Nossen onSeptember 2, 2024
 Seizure in a 30 something
 Written by Magnus Nossen — with edits by Grauer.
@@ -19,7 +20,7 @@ experienced new onset seizures accompanied by micturition. The ECG
 below was recorded by EMS. What is your assessment?
 ECG #1
 
-https://drsmithsecgblog.com/seizure-in-30-something/ 1/16
+ 1/16
  
 Interpretation: ECG #1 shows sinus rhythm at a heart rate of 77 bpm.
 The QRS is narrow with a normal PR interval. QRS axis is normal. There
@@ -41,7 +42,7 @@ Arrhythmogenic cardiomyopathy
 Long QT syndrome
 5.
 Hypertrophic cardiomyopathy.
-https://drsmithsecgblog.com/seizure-in-30-something/ 2/16
+ 2/16
 I find it is easier to measure the QTc when the paper speed is 50mm/s, as
 it is in the image above. I measure the RR interval at 795ms and the QT
 interval at 475ms. The QTc comes out at 533ms, dangerously prolonged.
@@ -51,7 +52,7 @@ consciousness — and was alert in between episodes. One episode was of
 longer duration. The ECGs below were captured on continuous 12-lead
 monitoring during transport!
 ECG #2
-https://drsmithsecgblog.com/seizure-in-30-something/ 3/16
+ 3/16
 Interpretation of ECG #2:
 Underlying sinus rhythm. The sinus beats have a very prolonged QT-
 interval that seems even longer than in the first ECG. There is a run
@@ -76,7 +77,7 @@ Following more detailed questioning — it turned out the patient had
 started taking 9 different herbal remedies to ease lethargy and
 unspecific neurological symptoms. It is unknown exactly what
 specific herbal medicine and what doses that had been ingested.
-https://drsmithsecgblog.com/seizure-in-30-something/ 4/16
+ 4/16
 Below is a follow up ECG after discontinuation of the herbal remedies.
 The QTc is significantly shorter. It is very likely that the herbal remedies
 caused a lengthening of the QT-interval and led to Torsades de Pointes.
@@ -98,7 +99,7 @@ herbal medicine.
 ===================================
 MY Comment, by KEN GRAUER, MD (9/2/2024):
 ===================================
-https://drsmithsecgblog.com/seizure-in-30-something/ 5/16
+ 5/16
 Today’s case by Dr. Nossen is fascinating in its complexity — as the
 patient is a previously healthy young adult woman, whose presentation
 was with a new-onset Seizure.
@@ -144,7 +145,7 @@ your interpretation. Given the importance of accurate measurement
 of the QT interval in this case — noting there is artifact in ECG
 #1 is relevant!
 The rhythm in ECG #1 is sinus at ~75/minute.
-https://drsmithsecgblog.com/seizure-in-30-something/ 6/16
+ 6/16
 Intervals: The PR interval is slightly prolonged (I measure ~0.22
 second). The QRS complex is normal (ie, not more than 0.10
 second). The QT interval looks to be prolonged (SEE below for
@@ -188,7 +189,7 @@ morphology from 1 beat-to-the-next — I found it hard to determine if
 there were (or were not) U waves in ECG #1. That said — in a
 patient who develops TdP — the overall ECG appearance of this
 initial ECG is consistent with low K+ and/or low Mg++ (See My
-https://drsmithsecgblog.com/seizure-in-30-something/ 7/16
+ 7/16
 Comment in the May 9, 2020 post — for more on the ECG
 diagnosis of hypokalemia and hypomagnesemia).
 PEARL #2: The principal abnormal finding on this ECG is QT
@@ -216,7 +217,7 @@ long QTc if one is not systematic in approach — Please check out
 the May 3, 2020 post in Dr. Smith’s ECG Blog.
 Figure-1: I labeled the initial ECG in today’s case.
 The Follow-Up ECG in Figure-2:
-https://drsmithsecgblog.com/seizure-in-30-something/ 8/16
+ 8/16
 The patient in today’s case stopped her herbal remedies. Some time after
 doing so — the ECG shown in Figure-2 was obtained (this being the 4th
 ECG that was shown above in Dr. Nossenʼs discussion).
@@ -242,7 +243,7 @@ In Figure-2 — we can clearly delineate the end point of the T wave
 in most leads. I once again used the last 3 chest leads (within the
 BLUE rectangle) — with the vertical BLUE line illustrating
 my measured QT = 370 msec.
-https://drsmithsecgblog.com/seizure-in-30-something/ 9/16
+ 9/16
 Correcting this measured QT value for
 a heart rate of ~85/minute — and plugging in these values into MD
 CALC results between 414-to-440 msec. for the QTc (depending
@@ -285,7 +286,7 @@ QRS tip (or point) — but if a given patient has several runs of TdP
 (which is almost always the case) — then there will be multiple
 episodes with “twist(s)” (around the baseline) of the points (the ups
 & downs of the QRS).
-https://drsmithsecgblog.com/seizure-in-30-something/ 10/16
+ 10/16
 My sincere THANKS to Dr. Taboulet for explaining this concept that
 I’ve wondered about for decades. His explanation strengthens my
 preference to continue uniformly using “Torsades de Pointes” as the

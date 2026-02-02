@@ -11,47 +11,14 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 Hypertension in adults
 Quality standard
 Published: 20 March 2013
 Last updated: 1 September 2015
 www.nice.org.uk/guidance/qs28
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
-conditions#notice-of-rights).
---- Страница 2 ---
+
 Hypertension in adults (QS28)
-Contents
-Quality statements ..................................................................................................................... 4
-Quality statement 1: Diagnosis – ambulatory blood pressure monitoring ............................. 5
-Quality statement .................................................................................................................................. 5
-Rationale ................................................................................................................................................ 5
-Quality measures ................................................................................................................................... 5
-What the quality statement means for different audiences .............................................................. 6
-Source guidance .................................................................................................................................... 6
-Definitions of terms used in this quality statement ........................................................................... 6
-Quality statement 2: Investigations for target organ damage ............................................... 8
-Quality statement .................................................................................................................................. 8
-Rationale ................................................................................................................................................ 8
-Quality measures ................................................................................................................................... 8
-What the quality statement means for different audiences .............................................................. 9
-Source guidance .................................................................................................................................... 9
-Definitions of terms used in this quality statement ........................................................................... 9
-Quality statement 3: Statin therapy .......................................................................................... 11
-Quality statement 4: Blood pressure targets ........................................................................... 12
-Quality statement .................................................................................................................................. 12
-Rationale ................................................................................................................................................ 12
-Quality measures ................................................................................................................................... 12
-What the quality statement means for different audiences .............................................................. 13
-Source guidance .................................................................................................................................... 14
-Equality and diversity considerations ................................................................................................. 14
-Quality statement 5: Review of cardiovascular disease risk factors ..................................... 15
-Quality statement .................................................................................................................................. 15
-Rationale ................................................................................................................................................ 15
-Quality measures ................................................................................................................................... 15
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
-conditions#notice-of-rights). 22
---- Страница 3 ---
+
 Hypertension in adults (QS28)
 What the quality statement means for different audiences .............................................................. 16
 Source guidance .................................................................................................................................... 16
@@ -67,9 +34,7 @@ Update information .............................................................
 About this quality standard ....................................................................................................... 21
 Resource impact .................................................................................................................................... 21
 Diversity, equality and language .......................................................................................................... 22
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
-conditions#notice-of-rights). 22
---- Страница 4 ---
+
 Hypertension in adults (QS28)
 This standard is based on NG136.
 This standard should be read in conjunction with QS21, QS15, QS35, QS52, QS68,
@@ -91,9 +56,7 @@ cardiovascular disease.
 Statement 6 Adults with resistant hypertension who are receiving 4 antihypertensive
 drugs and whose blood pressure remains uncontrolled are referred for specialist
 assessment.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
-conditions#notice-of-rights). 22
---- Страница 5 ---
+
 Hypertension in adults (QS28)
 Quality statement 1: Diagnosis –
 ambulatory blood pressure monitoring
@@ -118,9 +81,7 @@ Numerator – the number of adults in the denominator whose diagnosis has been
 confirmed by ABPM or HBPM.
 Denominator – the number of adults with a new diagnosis of hypertension.
 Data source: Data can be collected from information recorded on GP systems.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
-conditions#notice-of-rights). 22
---- Страница 6 ---
+
 Hypertension in adults (QS28)
 What the quality statement means for different
 audiences
@@ -147,9 +108,7 @@ ABPM involves a cuff and bladder connected to electronic sensors that detect cha
 cuff pressure and allow blood pressure to be measured oscillometrically. Systolic and
 diastolic pressure readings are deduced from the shape of oscillometric pressure changes
 using an algorithm built into the measuring device. A patient's blood pressure can be
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
-conditions#notice-of-rights). 22
---- Страница 7 ---
+
 Hypertension in adults (QS28)
 automatically measured at repeated intervals throughout the day and night while they
 continue routine activities. Systolic and diastolic pressure can be plotted over time, with
@@ -166,9 +125,7 @@ least 4 days, ideally 7 days. For each blood pressure recording, 2 consecutive m
 should be taken at least 1 minute apart when seated. [NICE's 2011 full guideline on
 hypertension in adults, section 5.7.3, and NICE's guideline on hypertension in adults,
 recommendation 1.2.7]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
-conditions#notice-of-rights). 22
---- Страница 8 ---
+
 Hypertension in adults (QS28)
 Quality statement 2: Investigations for
 target organ damage
@@ -193,9 +150,7 @@ target organ damage within 1 month of diagnosis.
 Denominator – the number of adults with newly diagnosed hypertension.
 Data source: Data can be collected from information recorded locally by healthcare
 professionals and provider organisations, for example, from patient records.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
-conditions#notice-of-rights). 22
---- Страница 9 ---
+
 Hypertension in adults (QS28)
 What the quality statement means for different
 audiences
@@ -222,9 +177,7 @@ the albumin:creatinine ratio and test for haematuria using a reagent strip
 • take a blood sample to measure glycated haemoglobin, electrolytes, creatinine,
 estimated glomerular filtration rate, serum total cholesterol and high-density
 lipoprotein cholesterol
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
-conditions#notice-of-rights). 22
---- Страница 10 ---
+
 Hypertension in adults (QS28)
 • examine the fundi for the presence of hypertensive retinopathy
 • arrange for a 12-lead electrocardiograph to be performed.
@@ -234,17 +187,13 @@ Damage to organs such as the heart, brain, kidneys and eyes. Examples are left v
 hypertrophy, chronic kidney disease, hypertensive retinopathy or increased urine
 albumin:creatinine ratio. [NICE's guideline on hypertension in adults, terms used in this
 guideline]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
-conditions#notice-of-rights). 22
---- Страница 11 ---
+
 Hypertension in adults (QS28)
 Quality statement 3: Statin therapy
 Quality statement 3 has been replaced by quality statements on primary and secondary
 prevention of cardiovascular disease in NICE's quality standard for cardiovascular risk
 assessment and lipid modification.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
-conditions#notice-of-rights). 22
---- Страница 12 ---
+
 Hypertension in adults (QS28)
 Quality statement 4: Blood pressure
 targets
@@ -269,9 +218,7 @@ Numerator – the number of adults in the denominator who have a blood pressure 
 140/90 mmHg, or below 135/85 mmHg if measured using ABPM or HBPM.
 Denominator – the number of adults aged under 80 years with hypertension.
 Data source:Quality and Outcomes Framework indicator HYP008 reports the percentage
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
-conditions#notice-of-rights). 22
---- Страница 13 ---
+
 Hypertension in adults (QS28)
 of patients aged 79 years or under with hypertension in whom the last blood pressure
 reading (measured in the preceding 12 months) is 140/90 mmHg or less (or equivalent
@@ -302,9 +249,7 @@ should use clinical judgement when agreeing blood pressure targets with adults w
 or multimorbidity.
 Commissioners ensure that they commission services that have arrangements for adults
 with hypertension to have a blood pressure target set that is appropriate for their age and
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
-conditions#notice-of-rights). 22
---- Страница 14 ---
+
 Hypertension in adults (QS28)
 whether the blood pressure is measured in clinic or by ambulatory or home monitoring.
 Adults who have hypertension (high blood pressure) have a target clinic blood pressure)
@@ -319,9 +264,7 @@ diagnosed hypertension would not have a target clinic blood pressure of 150/90 m
 their blood pressure was already treated to below this threshold. Healthcare professionals
 should use clinical judgement when agreeing blood pressure targets with adults with frailty
 or multimorbidity.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
-conditions#notice-of-rights). 22
---- Страница 15 ---
+
 Hypertension in adults (QS28)
 Quality statement 5: Review of
 cardiovascular disease risk factors
@@ -346,9 +289,7 @@ who do not have established cardiovascular disease.
 Data source: Data can be collected from information recorded locally by healthcare
 professionals and provider organisations, for example, from patient records. CVD Prevent
 indicator CVD004HYP reports the percentage of patients aged 18 and over with GP-
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
-conditions#notice-of-rights). 22
---- Страница 16 ---
+
 Hypertension in adults (QS28)
 recorded hypertension who have had a blood pressure reading within the preceding
 12 months. CVD Prevent indicator CVDP001SMOK reports the percentage of patients aged
@@ -374,9 +315,7 @@ cardiovascular disease each year.
 Source guidance
 Hypertension in adults: diagnosis and management. NICE guideline NG136 (2019, updated
 2023), recommendation 1.4.24
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
-conditions#notice-of-rights). 22
---- Страница 17 ---
+
 Hypertension in adults (QS28)
 Definitions of terms used in this quality statement
 Annual review
@@ -397,9 +336,7 @@ Review of risk factors for cardiovascular disease could include:
 thyroid.
 [Adapted from NICE's guideline on cardiovascular disease: risk assessment and reduction,
 including lipid modification, recommendation 1.5.5]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
-conditions#notice-of-rights). 22
---- Страница 18 ---
+
 Hypertension in adults (QS28)
 Quality statement 6: Referral to a
 specialist for adults with resistant
@@ -423,9 +360,7 @@ assessment.
 Denominator – the number of adults with resistant hypertension who are receiving
 4 antihypertensive drugs and whose blood pressure remains uncontrolled.
 Data source: Data can be collected from information recorded locally by healthcare
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
-conditions#notice-of-rights). 22
---- Страница 19 ---
+
 Hypertension in adults (QS28)
 professionals and provider organisations, for example, from patient records.
 What the quality statement means for different
@@ -451,9 +386,7 @@ Hypertension that is not controlled in adults taking the optimal tolerated doses
 angiotensin-converting enzyme inhibitor or an angiotensin II receptor blocker plus a
 calcium-channel blocker and a thiazide-like diuretic. [NICE's guideline on hypertension in
 adults, recommendation 1.4.46]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
-conditions#notice-of-rights). 22
---- Страница 20 ---
+
 Hypertension in adults (QS28)
 Update information
 September 2015: This quality standard has been updated to ensure alignment with NICE's
@@ -481,9 +414,7 @@ throughout.
 August 2019: Changes have been made to align this quality standard with the updated
 NICE guideline on hypertension in adults. Links, definitions and source guidance
 references have been updated throughout.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
-conditions#notice-of-rights). 22
---- Страница 21 ---
+
 Hypertension in adults (QS28)
 About this quality standard
 NICE quality standards describe high-priority areas for quality improvement in a defined
@@ -513,9 +444,7 @@ England.
 Resource impact
 NICE quality standards should be achievable by local services. The potential resource
 impact is considered by the quality standards advisory committee, drawing on resource
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
-conditions#notice-of-rights). 22
---- Страница 22 ---
+
 Hypertension in adults (QS28)
 impact work for the source guidance. Organisations are encouraged to use the resource
 impact tools for NICE's guideline on hypertension in adults to help estimate local costs.
@@ -539,5 +468,3 @@ providing services are made aware of and encouraged to use the quality standard.
 • Blood Pressure UK
 • British and Irish Hypertension Society
 • Royal College of Obstetricians and Gynaecologists
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
-conditions#notice-of-rights). 22

@@ -11,8 +11,6 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
-22/01/2026, 16:08 Atrioventricular node - wikidoc
 Search WikiDoc
 Search Try Exact Match
 Atrioventricular node
@@ -20,31 +18,7 @@ Template:Infobox Anatomy
 Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailto:charlesmichaelgibson@gmail.com);
 Associate Editor-In-Chief: Cafer Zorkun, M.D., Ph.D. [2] (mailto:czorkun@wikidoc.org)
 Synonyms and keywords: AVN; AV node; junctional node; AV junction; Aschoff-Tawara node
-Contents
-• Overview
-• Function
-• Blood supply
-• See also
-• References
-Overview
-The atrioventricular node is an area of specialized tissue between the atria and the ventricles of
-the heart, which conducts the normal electrical impulse from the atria to the ventricles.
-Function
-The AV node receives two inputs from the atria: posteriorly via the crista terminalis, and anteriorly
-via the interatrial septum.[1]
-An important property that is unique to the AV node is decremental conduction, in which the more
-frequently the node is stimulated, the slower it conducts. This is the property of the AV node that
-prevents rapid conduction to the ventricle in cases of rapid atrial rhythms, such as atrial fibrillation
-or atrial flutter.
-The atrioventricular node delays impulses for ~0.1 second before allowing impulses through to the
-His-Purkinje conduction system, which spreads impulses to the ventricular walls. The reason it is
-important to delay the cardiac impulse is to ensure that the atria have ejected their blood into the
-ventricles before the ventricles contract.[2]
-Blood supply
-Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
-https://www.wikidoc.org/index.php/Atrioventricular_node 1/2
---- Страница 2 ---
-22/01/2026, 16:08 Atrioventricular node - wikidoc
+
 The blood supply of the AV node is from a branch of the right coronary artery in 85% to 90% of
 individuals (a branch off of the posterolateral artery, the AV nodal artery, and from a branch of the
 left circumflex artery in 10% to 15% of individuals. When the RCA supplies the AV node, the
@@ -63,4 +37,4 @@ Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a
 There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
 Licensing | Disclaimers | Avoid Plagiarism | Policies
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Atrioventricular_node 2/2
+ 2/2

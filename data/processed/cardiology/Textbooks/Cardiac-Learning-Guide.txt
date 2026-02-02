@@ -11,12 +11,11 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 DIAGNOSTICS
 Cardiac
 Learning guide series
 LEARNING GUIDE: CARDIAC 1
---- Страница 2 ---
+
 ACKNOWLEDGEMENTS
 EDITOR
 Peter A. McCullough, M.D., M.P.H.
@@ -55,7 +54,7 @@ Center in Dallas and also serves as Principal Faculty in internal medicine for t
 Texas A&M University Health Sciences Center. He is board certified in internal
 medicine, cardiology, clinical lipidology, and echocardiography.
 LEARNING GUIDE: CARDIAC 2
---- Страница 3 ---
+
 ABBOTT DIAGNOSTICS
 CARDIAC LEARNING GUIDE
 INTENDED AUDIENCE
@@ -79,30 +78,7 @@ didn’t recall correctly before moving to the next section.
 A glossary of terms is also included at the end of this Learning Guide, featuring
 commonly used terms in cardiology.
 LEARNING GUIDE: CARDIAC 3
---- Страница 4 ---
-CONTENTS
-ACKNOWLEDGEMENTS .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-CARDIAC LEARNING GUIDE
-INTENDED AUDIENCE .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-HOW TO USE THIS LEARNING GUIDE .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-SECTION 1
-ANATOMY AND PHYSIOLOGY OF THE HEART  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
-SECTION 2
-ACUTE CORONARY SYNDROME .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
-SECTION 3
-THE ROLE OF CARDIAC BIOMARKERS IN ACUTE CORONARY SYNDROME  . . . . 23
-SECTION 4
-HEART FAILURE .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
-SECTION 5
-THE ROLE OF CARDIAC BIOMARKERS IN HEART FAILURE  . . . . . . . . . . . . . . . . . . . . . 42
-SECTION 6
-PREVENTION OF CARDIOVASCULAR DISEASE .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
-APPENDIX
-APPENDIX A: GLOSSARY OF TERMS  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
-APPENDIX B: CORRECT RESPONSES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74
-APPENDIX C: REFERENCES .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
-LEARNING GUIDE: CARDIAC 4
---- Страница 5 ---
+
 SECTION 1
 ANATOMY AND PHYSIOLOGY
 OF THE HEART
@@ -114,7 +90,7 @@ and coronary arteries
 3. Understand basic characteristics of the heart’s electrical conduction system
 4. Explain systole and diastole and how this relates to blood flow
 LEARNING GUIDE: CARDIAC 5
---- Страница 6 ---
+
 The heart, in the most simplistic of terms, is a pump. It continuously circulates blood through the body. The
 blood, in turn, delivers oxygen (bound to hemoglobin inside red blood cells) and nutrients to all of the organs
 and tissues. Blood also carries away the wastes and carbon dioxide produced by the organs and tissues so they
@@ -141,7 +117,7 @@ SEPTUM
 Figure 1-1. The four chambers of the heart and the major blood vessels that distribute
 and collect blood from other parts of the body
 LEARNING GUIDE: CARDIAC 6
---- Страница 7 ---
+
 BLOOD FLOW THROUGH THE HEART AND BODY
 Next, we must understand how blood circulates through the heart and body (Figure 1-1). Blood returning from
 the body arrives in the heart through two large veins, the superior vena cava and the inferior vena cava. This
@@ -186,7 +162,7 @@ by a nerve or hormone to contract, the myocytes of the myocardium stimulate thei
 This self-stimulation is referred to as automaticity, and it means that the heart can stimulate its own muscle
 contraction without any input from the body.
 LEARNING GUIDE: CARDIAC 7
---- Страница 8 ---
+
 Figure 1-2. Major arteries that supply blood to the myocardium
 LEFT MAIN CORONARY ARTERY
 CIRCUMFLEX ARTERY
@@ -210,7 +186,7 @@ the sympathetic nervous system and the adrenal glands release a hormone called n
 Norepinephrine changes how the heart responds to electrical stimulation resulting in an increased
 heart rate and contractility of the pumping chambers.
 LEARNING GUIDE: CARDIAC 8
---- Страница 9 ---
+
 THE PUMPING ACTION OF THE HEART: SYSTOLE AND DIASTOLE
 Another concept that is important to understand about the heart is systole and diastole. In simple terms,
 systole means contraction of the myocardium and diastole means relaxation of the myocardium. However, the
@@ -254,7 +230,7 @@ out during systole is called the ejection fraction. The actual number or percent
 change as a result of physical activity or other demands on the cardiac muscle. Measuring ejection fraction is
 one of the ways clinicians can assess the health of a heart.
 LEARNING GUIDE: CARDIAC 9
---- Страница 10 ---
+
 SECTION 1: REVIEW QUESTIONS
 1. P lace the following term in the correct order to describe the flow of blood through the heart, lungs, and body.
 Start with veins.
@@ -279,7 +255,7 @@ contract second, pushing blood to the rest of the body
 The ____________________________________________________ ventricle creates the strongest contraction because it must pump
 blood to the entire body.
 LEARNING GUIDE: CARDIAC 10
---- Страница 11 ---
+
 SECTION 2
 ACUTE CORONARY
 SYNDROME
@@ -292,7 +268,7 @@ acute coronary syndrome
 4. Understand the role of cardiac biomarkers in diagnosis and risk stratification
 for patients with suspected acute coronary syndrome
 LEARNING GUIDE: CARDIAC 11
---- Страница 12 ---
+
 Cardiovascular diseases are the most common causes of death worldwide, and they affect individuals from all
 backgrounds, incomes, and nations.2 Of the estimated 17 million deaths attributed to cardiovascular disease
 worldwide in 2015, the World Health Organization estimates that 7.4 million were due to coronary heart disease,
@@ -340,7 +316,7 @@ Any delay in the time to reperfusion can increase the amount of damage that occu
 a STEMI leads to the death of the cardiac myocytes, cardiac biomarkers are always elevated, but biomarker
 information is not required before proceeding to a reperfusion intervention.
 LEARNING GUIDE: CARDIAC 12
---- Страница 13 ---
+
 A 12-lead ECG shows different views of the electrical activity in the heart from 12 distinct angles.
 During the test, a technician places a wire lead on 12 specific areas of the chest, arms, and legs.
 The ECG traces the view of the heart’s electrical activity from each of these 12 areas of the body
@@ -372,7 +348,7 @@ Figure 2-1. The name ST-elevation MI is describing the changes that happen durin
 ST segment in the ECG tracing is more elevated than normal. This test is useful for distinguishing a STEMI
 from other types of MI.
 LEARNING GUIDE: CARDIAC 13
---- Страница 14 ---
+
 Non-ST-Elevation Myocardial Infarction
 The second type of ACS, non-ST-elevation myocardial infarction or NSTEMI, also has serious consequences for
 the heart. An NSTEMI is also a type of MI but is much more common than STEMI. Although estimates vary,
@@ -415,7 +391,7 @@ falling in a characteristic pattern over time. Serial measurements of troponin c
 concentrations are changing; when troponin concentrations remain constant over an extended duration, it
 suggests that an alternative diagnosis should be considered, such as renal failure, heart failure, or sepsis.9
 LEARNING GUIDE: CARDIAC 14
---- Страница 15 ---
+
 Table 2-1.
 FOURTH UNIVERSAL DEFINITION OF MI
 Criteria for ACUTE myocardial infarction (Types 1, 2 and 3 MI)
@@ -435,7 +411,7 @@ meets criteria for type 2 MI .
 Cardiac death in patients with symptoms suggestive of myocardial ischaemia and presumed new ischaemic ECG
 changes before cTn values become available or abnormal meets criteria for type 3 MI .
 There are additional types of MI (Types 4 and 5) that are very uncommon and are not included in this table .
-For details of these types of MI, see “Other Types of MI” on page 17 .
+
 Criteria for myocardial injury
 The term myocardial injury should be used when there is evidence of elevated cardiac troponin values (cTn) with at
 least one value above the 99th percentile upper reference limit URL) . The myocardial injury is considered acute if
@@ -461,7 +437,7 @@ Definition of Myocardial Infarction . Third universal definition of myocardial i
 Thygesen K, Alpert JS, Jaffe AS, Chaitman BR, Bax JJ, Morrow DA, White HD, the Joint ESC/ACCF/AHA/WHF Task Force for the Universal
 Definition of Myocardial Infarction . Fourth universal definition of myocardial infarction . JACC . 2018 .08 .1038 .
 LEARNING GUIDE: CARDIAC 15
---- Страница 16 ---
+
 CLASSIFICATION OF MYOCARDIAL INFARCTIONS
 For initial treatment stratification by emergency medicine providers and cardiologists, an MI is classified as a
 STEMI or NSTEMI. However, there are additional classifications for MI that further explain the mechanism
@@ -485,7 +461,7 @@ with thrombus dysfunction supply-demand imbalance imbalance alone
 Figure 2-2. Differentiation between myocardial infarction (MI) types 1 and 2 according to the condition
 of the coronary arteries
 LEARNING GUIDE: CARDIAC 16
---- Страница 17 ---
+
 Type 2: The Ischemic Imbalance MI
 Unlike a type 1 MI, a type 2 MI is not triggered by a thrombus forming in a coronary artery. Instead, a type 2
 MI is the result of supply and demand imbalance in the heart where the coronary arteries are not supplying
@@ -517,7 +493,7 @@ and tissue necrosis.
 Thygesen K, Alpert JS, Jaffe AS, Chaitman BR, Bax JJ, Morrow DA, White HD, the Joint ESC/ACCF/AHA/WHF Task Force for the Universal
 Definition of Myocardial Infarction . Fourth universal definition of myocardial infarction . JACC . 2018 .08 .1038 .
 LEARNING GUIDE: CARDIAC 17
---- Страница 18 ---
+
 THE PROCESS OF CARE IN MYOCARDIAL INFARCTION
 Because damage to the cardiac tissue happens quickly once an obstruction occurs, it is essential that medical
 providers understand how to manage patients experiencing ACS efficiently. Figure 2-3 is a flowchart
@@ -548,7 +524,7 @@ may be considered if appropriate
 ** STEMI – ST-elevation myocardial infarction
 Figure 2-3. Process of care for patients with suspected acute coronary syndrome (ACS)7,11,23
 LEARNING GUIDE: CARDIAC 18
---- Страница 19 ---
+
 ACS Symptoms
 Any person experiencing symptoms of ACS should be evaluated immediately by a healthcare provider.
 Chest pain, sometimes radiating down the left arm, is probably the most widely recognized symptom.
@@ -578,7 +554,7 @@ III a V F V 3 V 6
 II
 Figure 2-4. Example of a 12-lead ECG
 LEARNING GUIDE: CARDIAC 19
---- Страница 20 ---
+
 Next Steps
 Although STEMI is the first type of ACS to be screened for and diagnosed, the majority of MIs are not STEMI.
 It is estimated that approximately 75 percent of MIs are NSTEMI, and further testing is needed to establish this
@@ -616,10 +592,10 @@ Clinicians will often use a risk prediction score such as the TIMI risk score, t
 HEART risk score. These tools not only assist in predicting an MI but they also help identify patients in
 need of urgent intervention with PCI and can estimate risk for death.7
 LEARNING GUIDE: CARDIAC 20
---- Страница 21 ---
+
 NSTEMI
 An NSTEMI is diagnosed when rising or falling cardiac biomarkers exceed the upper reference limit and the
-patient meets the criteria for MI listed in Table 2-1 on page 15. Patients with NSTEMI are treated with
+
 antiplatelet medications, such as aspirin, and anticoagulant medications, such as heparin or enoxaparin, to
 prevent further extension of the thrombus.7 However, thrombolytics are not used in NSTEMI.
 In addition to treatment with medication, patients with NSTEMI usually undergo a coronary angiography
@@ -650,7 +626,7 @@ patients.7 If a patient is determined to have coronary artery disease, they are 
 MI. In this situation, doctors will work with the patient to lower the risk of a future MI with medication and
 lifestyle changes.7
 LEARNING GUIDE: CARDIAC 21
---- Страница 22 ---
+
 SECTION 2: REVIEW QUESTIONS
 1. Match the acronym or word with the correct description
 Atherosclerosis ______ PCI ______ MI ______ Troponin ______ Calcium ______
@@ -675,7 +651,7 @@ e. B and C are both correct
 f. All of the above are correct
 4. The preferred cardiac biomarker for diagnosing MI is _____________________________________________ .
 LEARNING GUIDE: CARDIAC 22
---- Страница 23 ---
+
 SECTION 3
 THE ROLE OF CARDIAC
 BIOMARKERS IN ACUTE
@@ -688,7 +664,7 @@ When you complete this section, you will be able to:
 assays within an institution
 4. Recognize other cardiac biomarkers with potential roles in ACS
 LEARNING GUIDE: CARDIAC 23
---- Страница 24 ---
+
 As explained in Section 2, cardiac biomarkers, specifically cardiac troponin, are essential for the identification
 of myocardial necrosis and infarction. However, advances in the measurements of cardiac troponins are
 changing how acute coronary syndrome (ACS) patients are evaluated and risk-stratified. And new biomarkers
@@ -725,7 +701,7 @@ again shortly after the MI.22
 4. M acrotroponins: Consist of troponin bound to immunoglobulins (autoantibodies). Some assays may detect
 these autoantibodies.150
 LEARNING GUIDE: CARDIAC 24
---- Страница 25 ---
+
 5. B iotin interference: It was recently reported that some immunoassays, including troponin assays, are
 susceptible to interference from biotin (or vitamin B7) supplements.147 Laboratory personnel and clinicians
 should be mindful of this interaction when interpreting cardiac troponin results.
@@ -761,7 +737,7 @@ heart.7 Likewise, a myriad of non-cardiac problems, such as renal dysfunction, s
 failure, and drug toxicity, can also cause elevations in troponin. Indeed, because troponin is partially removed
 by the kidney, individuals with end-stage renal disease may have chronic elevations of troponin.7,24
 LEARNING GUIDE: CARDIAC 25
---- Страница 26 ---
+
 Table 3-1. Reasons for Troponin Elevations Not Related to Myocardial Infarction15,17,23
 CARDIAC NON-CARDIAC
 Hypertensive emergency Critical illness
@@ -803,7 +779,7 @@ The potential to miss the diagnosis of MI completely (incorrect “rule-out”) 
 identify MI (delayed “rule-in”) are the primary limitations of conventional troponin tests in clinical practice.
 The need to overcome these limitations led to the development of more sensitive and precise troponin assays.
 LEARNING GUIDE: CARDIAC 26
---- Страница 27 ---
+
 HIGH-SENSITIVITY TROPONIN ASSAYS
 Due to the shortcomings of conventional troponin measurements, high-sensitivity troponin (hsTn) assays have
 been developed. The hsTn assays have been used for several years outside the US. These assays are 10 to 100-fold
@@ -828,7 +804,7 @@ healthy individuals, whereas earlier generation assays were only sensitive enoug
 resulting from significant necrosis in MI, or occasionally, severe damage from other causes
 Adapted from: Garg P, Morris P, Fazlanie AL, et al. “Cardiac Biomarkers of Acute Coronary Syndrome:
 from History to High-sensitivity Cardiac Troponin.” Internal and Emergency Medicine. 2017;12(2):147-155.
-Used under CC BY http://creativecommons.org/licenses/by/4.0/ modified from original.
+Used under CC BY  modified from original.
 There have been varying proposals on how to define and differentiate high-sensitivity assays from conventional
 troponin assays. In 2012, a task force created by the International Federation of Clinical Chemistry (IFCC)
 proposed that hsTn assays be defined using two parameters:
@@ -840,7 +816,7 @@ healthy individuals28
 individually attain measurable concentrations, with at least 50% measurable concentrations above the
 assay’s LoD148
 LEARNING GUIDE: CARDIAC 27
---- Страница 28 ---
+
 Multiple high-sensitivity assays exist for troponin I, and one fifth-generation assay for troponin T is available.
 When compared directly, both types of troponin assays provide similar sensitivity and specificity for the
 biomarker requirement for MI.27 The hsTnI assay may provide greater sensitivity for detecting acute MI in
@@ -881,13 +857,13 @@ associated with the conventional assays. First, they reduce the delay to appropr
 shortens the time for diagnosis in many situations. And second, it reduces the risk of missing an MI completely
 and the associated risk of cardiac complications and death (Figure 3-3).
 LEARNING GUIDE: CARDIAC 28
---- Страница 29 ---
+
 HsTn Assays: Things to Consider
 It is essential to emphasize that the high-sensitivity assays for troponin trade specificity for increased sensitivity.
 There may be more troponin elevations detected with hsTn assays that are not related to ACS. But it remains
 important for clinicians to be mindful that other conditions such as heart failure, sepsis, and kidney failure that
 can cause elevation of the conventional troponin assays also, to a greater degree, cause elevations of hsTn
-measures (Table 3-1 on page 26). Multiple studies have found that the leading causes of “positive” high-
+
 sensitivity troponin elevations are not MI. Thus, each patient with an elevated value needs careful consideration
 for both the MI and non-MI determinants. As such, it is even more imperative that physicians employ good
 clinical judgment when evaluating patients with suspected ACS. All aspects of the patient’s presentation should
@@ -926,7 +902,7 @@ NINOPORT
 CAIDRAC
 FO
 LEVEL
---- Страница 30 ---
+
 HnTn Assays: Effects on Patient Care
 The high-sensitivity tests overcome the problem of prolonged diagnostic time for MI that can delay treatment.
 They can also dramatically shorten patient evaluation time in the ED and have demonstrated that they can reduce
@@ -971,7 +947,7 @@ the use of hsTn as part of an early rule-out protocol for NSTEMI. According to t
 should be measured at presentation and repeated three hours later; if NSTEMI is not ruled out in this protocol,
 further evaluation is recommended.39
 LEARNING GUIDE: CARDIAC 30
---- Страница 31 ---
+
 OTHER CARDIAC BIOMARKERS
 Although troponin is central in the determination of myocardial necrosis, a variety of other markers have
 demonstrated some usefulness in the evaluation of patients with suspected ACS in the past, and more are
@@ -1011,7 +987,7 @@ biomarker for ventricular strain in patients with heart failure, appears to prov
 information regarding mortality and complications after an ACS event.42,46 Whether either GDF15 or ST2
 provide additional prognostic information over currently used biomarkers remains to be determined.
 LEARNING GUIDE: CARDIAC 31
---- Страница 32 ---
+
 SECTION 3: REVIEW QUESTIONS
 1. C K-MB and troponin should always be used together to detect the presence of myocardial necrosis.
 n n
@@ -1036,7 +1012,7 @@ or possible benefit
 ______________________________________________________________________________________________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________
 LEARNING GUIDE: CARDIAC 32
---- Страница 33 ---
+
 SECTION 4
 HEART FAILURE
 LEARNING OBJECTIVES
@@ -1046,7 +1022,7 @@ When you complete this section, you will be able to:
 3. Recognize the consequences of heart failure
 4. Explain tests that can be used to assess patients with heart failure
 LEARNING GUIDE: CARDIAC 33
---- Страница 34 ---
+
 Heart failure, in the simplest of terms, indicates that a problem with the ventricles is preventing the heart
 from filling and/or pumping correctly. It is the result of a complex mechanical and neurohumoral syndrome
 resulting in stasis (or slow movement) of blood in the lungs and peripheral tissues. It is estimated that over 26
@@ -1083,7 +1059,7 @@ Figure 4-1. Structural changes to the ventricles of the heart in heart failure: 
 walls stiffen and can’t fill appropriately and in HFrEF (right) the ventricle dilates and the walls are
 stretched thin, impairing the normal pumping activity
 LEARNING GUIDE: CARDIAC 34
---- Страница 35 ---
+
 Heart Failure and a Preserved Ejection Fraction (HFpEF)
 In HFpEF, as the name implies, the ejection fraction of the left ventricle is normal (usually over 45 percent), so
 the heart is still pumping out the appropriate percentage of blood with each contraction.51 However, the problem
@@ -1127,7 +1103,7 @@ defining HFmrEF as a separate entity from HFpEF or HFrEF is to promote more stud
 outcomes in this very specific population of individuals with heart failure.52 Because HFmrEF is a new term and
 is not included in other guidelines and literature, it will not be a focus of this guide.
 LEARNING GUIDE: CARDIAC 35
---- Страница 36 ---
+
 DEFINING HEART FAILURE WITH CLASSIFICATION SYSTEMS: NYHA AND ACC/AHA
 Several different classification schemes exist to quantify the severity of heart failure in a patient. The New York
 Heart Association (NYHA) classification system is based primarily on the effects the heart failure has on the
@@ -1161,7 +1137,7 @@ D Patients may be:
 * Left Ventricular Assist Device
 Figure 4-2. Stepwise progression of heart failure according to ACC/AHA stages
 LEARNING GUIDE: CARDIAC 36
---- Страница 37 ---
+
 DEFINING HEART FAILURE BY PRESENTATION:
 ACUTE AND CHRONIC HEART FAILURE
 Acute heart failure (AHF) is a term often used in the emergency department (ED) and hospital setting. This term
@@ -1209,7 +1185,7 @@ failure, the myocytes become enlarged and don’t function as efficiently.63 Poo
 an excessive accumulation of proteins between the myocyte cells that prevent normal movement of the cells and
 cause stiffening of the myocytes. This stiffness of the myocytes produces the cardiac fibrosis.63
 LEARNING GUIDE: CARDIAC 37
---- Страница 38 ---
+
 The consequences of these structural changes in the heart are profound for the rest of the body. Humans have a
 “closed circulatory system,” like a closed circuit; this means that blood can only go “back” when it cannot go
 “forward.” When the heart does not pump the blood forward effectively as a result of stiffness or pump failure, the
@@ -1245,7 +1221,7 @@ distension. Changes in how the heart sounds through a stethoscope and difference
 felt in the chest can also be signs of heart failure; the heart rate may increase to the point where it seems to “gallop”
 as it attempts to compensate for poor output.50,52
 LEARNING GUIDE: CARDIAC 38
---- Страница 39 ---
+
 THE ROLE OF ECG AND IMAGING
 Electrocardiogram (ECG)
 Although the electrocardiogram or ECG (Figure 4-3) is
@@ -1293,7 +1269,7 @@ iron studies may be ordered to evaluate for underlying causes and comorbidities 
 appropriateness of heart failure therapies.52 In addition, several circulating biomarkers are useful in the
 diagnosis and management of heart failure.
 LEARNING GUIDE: CARDIAC 39
---- Страница 40 ---
+
 Natriuretic Peptides
 The natriuretic peptides (NPs), B-type natriuretic peptide (BNP) and N-terminal pro-B-type natriuretic peptide
 (NT-proBNP), play a central role in heart failure. Although BNP was initially called brain natriuretic peptide
@@ -1344,7 +1320,7 @@ through the skin to connect the LVAD to batteries and the control unit.58,62 Fin
 patients who are otherwise in good health and can tolerate the major surgery may undergo a cardiac transplant.62
 Only about 3,000 people receive heart transplants in the US each year.73
 LEARNING GUIDE: CARDIAC 40
---- Страница 41 ---
+
 SECTION 4: REVIEW QUESTIONS
 1. Decide which type of heart failure is being explained in each description (HFpEF, HFrEF, or AHF)
 a. A rapid worsening of symptoms that requires immediate evaluation __________________
@@ -1372,7 +1348,7 @@ b. The organs most sensitive to changes in cardiac performance are the _________
 c. S erious, long-term structural changes occur in the heart as a result of heart failure. Cardiac _____________________
 occurs as a result of the accumulation of proteins between the myocyte cells that causes the cells to stiffen.
 LEARNING GUIDE: CARDIAC 41
---- Страница 42 ---
+
 SECTION 5
 THE ROLE OF CARDIAC
 BIOMARKERS IN HEART FAILURE
@@ -1383,7 +1359,7 @@ When you complete this section, you will be able to:
 3. Understand the guideline recommendations from several international
 organizations for the use of cardiac biomarkers in heart failure
 LEARNING GUIDE: CARDIAC 42
---- Страница 43 ---
+
 As discussed in Section 4, the changes in cardiac function that occur in heart failure affect the entire body, so it
 is essential that clinicians monitor the status of heart failure patients with diligence. Circulating biomarkers can
 be especially helpful tools for gauging the presence, severity, and progression of heart failure. This section will
@@ -1400,7 +1376,7 @@ heart failure.
 • M arkers of myocardial injury/ischemia: These include cardiac troponins. Ischemia and injury may occur
 in heart failure, and biomarkers that reflect this process have demonstrated prognostic capability in heart
 failure patients. As discussed in Sections 2 and 3, the primary application of these markers is in patients with
-suspected acute coronary syndromes, but their potential utility in heart failure is outlined on page 48.
+
 Evaluating each of these aspects of heart failure provides essential information on the status and prognosis of an
 individual patient. However, the usefulness of various biomarkers differs according to the clinical scenario.
 MARKERS OF MYOCARDIAL STRETCH/PRESSURE
@@ -1427,7 +1403,7 @@ but it was later determined to be a misnomer because it is released by the ventr
 will focus on the B-type NPs (BNP and NT-proBNP), subsequently referred to as NPs, because they are most
 specific to the pathophysiology of heart failure.
 LEARNING GUIDE: CARDIAC 43
---- Страница 44 ---
+
 Differences in Natriuretic Peptide Assay Types
 Although most studies indicate that BNP and NT-proBNP assays have similar sensitivity and specificity,
 clinicians should be aware of several differences.66 For example, NT-proBNP has a longer half-life than BNP,
@@ -1466,7 +1442,7 @@ be attributable to other causes (like chronic obstructive pulmonary disease). He
 measurement is a simple method to either exclude heart failure or identify patients who require more diagnostic
 testing to determine if heart failure is present (Figure 5-2).52,56
 LEARNING GUIDE: CARDIAC 44
---- Страница 45 ---
+
 Figure 5-2. Using natriuretic peptides in clinical practice for non-acute symptoms52,56
 CONSIDER
 SUSPECT • Medical history SCREEN WITH
@@ -1513,7 +1489,7 @@ Compared with participants in the control group (those who received usual care),
 and intervention group had lower rates of left ventricular dysfunction and heart failure several years later.81
 Section 6 will discuss biomarkers for screening of asymptomatic individuals in more detail.
 LEARNING GUIDE: CARDIAC 45
---- Страница 46 ---
+
 Natriuretic Peptides in HFpEF versus HFrEF
 Another important aspect of BNP and NT-proBNP measurements is that the type of heart failure influences the
 concentrations of NPs in the blood. As discussed in Section 4, HFpEF and HFrEF have different mechanisms in
@@ -1558,7 +1534,7 @@ there is insufficient evidence to determine if there are clinically significant 
 concentrations or adverse effects on patient outcomes and further research is ongoing.88 Other common
 causes for NP elevation are included in Table 5-1 on the next page.
 LEARNING GUIDE: CARDIAC 46
---- Страница 47 ---
+
 Table 5-1. Conditions that Confound B-type Natriuretic Peptide Concentrations56,85
 INFLUENCE ON B-TYPE NATRIURETIC PEPTIDE CONCENTRATIONS
 BNP NT-proBNP
@@ -1598,7 +1574,7 @@ the likelihood of readmission within 60 days.70 Importantly, galectin-3 has also
 providing prognostic information in patients with HFpEF, which is an area where other biomarkers are
 less helpful.70,93
 LEARNING GUIDE: CARDIAC 47
---- Страница 48 ---
+
 A key characteristic of galectin-3 is that concentrations appear to increase before heart failure manifests.
 As a result, it may be a useful screening tool for patients who are at risk for heart failure but have not developed
 it yet.94 And it has demonstrated effectiveness for screening in a general population. In the PREVEND study,
@@ -1641,7 +1617,7 @@ if specific protocols, particularly those involving “deltas” or changes over
 non-cardiac clinical scenarios that can cause hsTn elevations in ACS, such as sepsis and respiratory failure,
 also cause elevations when evaluating heart failure.
 LEARNING GUIDE: CARDIAC 48
---- Страница 49 ---
+
 OTHER BIOMARKERS FOR HEART FAILURE
 A number of other biomarkers are being studied for assessing different facets of heart failure. This section will
 discuss five that have demonstrated promise in heart failure management. Although researchers have identified
@@ -1687,7 +1663,7 @@ emergency departments with dyspnea.110 Moreover, in preliminary studies, it has 
 predicting long-term risk of death after an episode of acute heart failure.110 How MR-proANP may fit into the
 care of patients with acute heart failure remains to be determined.
 LEARNING GUIDE: CARDIAC 49
---- Страница 50 ---
+
 GUIDELINES FOR BIOMARKERS
 The European Society of Cardiology (ESC) recommends using the NPs as a method for screening patients with
 symptoms of heart failure. The screening cutoff point for ruling out stable, chronic heart failure in symptomatic
@@ -1725,7 +1701,7 @@ In the 2017 focused update to the 2013 heart failure guidelines, the American Co
 American Heart Association (AHA), and Heart Failure Society of America (HFSA) make a variety of
 recommendations about biomarkers. These are summarized in Table 5-3 on the next page.
 LEARNING GUIDE: CARDIAC 50
---- Страница 51 ---
+
 Table 5-3. Biomarker Recommendations in the 2017 ACC/AHA/HFSA Focused Update of the
 2013 ACCF/AHA Guidelines for the Management of Heart Failure56
 STRENGTH OF
@@ -1777,7 +1753,7 @@ of left ventricular dysfunction
 NP – natriuretic peptide; HF – heart failure; AHF – acute heart failure; GDMT – guideline-directed medical therapy
 *Randomized trials are preferred (and provide better evidence) over non-randomized trials
 LEARNING GUIDE: CARDIAC 51
---- Страница 52 ---
+
 SECTION 5: REVIEW QUESTIONS
 1. L ist one patient factor that can decrease measured levels of NP: _____________________________________________ . List five
 non-cardiac factors that can increase NP levels: _________________________________________ , _________________________________________ ,
@@ -1800,7 +1776,7 @@ can be helpful for determining prognosis in acute and chronic heart failure and 
 that assess for _____________________________________________ or _____________________________________________ may be useful for risk
 stratification in patients with acute or chronic heart failure.
 LEARNING GUIDE: CARDIAC 52
---- Страница 53 ---
+
 SECTION 6
 PREVENTION OF
 CARDIOVASCULAR DISEASE
@@ -1811,7 +1787,7 @@ When you complete this section, you will be able to:
 3. Explain risk stratification tools and biomarkers used for assessing the risk of
 cardiovascular diseases in the general population
 LEARNING GUIDE: CARDIAC 53
---- Страница 54 ---
+
 THE IMPORTANCE OF PREVENTING CARDIOVASCULAR DISEASES
 Each year, over 17 million people across the globe die of cardiovascular diseases (Figure 6-1).2 This number is
 projected to increase to over 23 million deaths per year by 2030.5 The World Health Organization (WHO)
@@ -1848,7 +1824,7 @@ CVD, the biomarker high-sensitivity C-reactive protein (hsCRP), and coronary art
 of visualizing coronary atherosclerosis by computed tomography) can be considered if there is still uncertainty
 about a person’s risk for CVD disease.111
 LEARNING GUIDE: CARDIAC 54
---- Страница 55 ---
+
 For anyone determined to be at high risk for ASCVD events in the next 10 years (typically a 10-year risk for an
 ASCVD event of 7.5 percent or more), the ACC/AHA guidelines recommend tailoring interventions to each
 patient.111 Clinicians are referred to the specific guidelines available for the management of cholesterol, diabetes,
@@ -1895,10 +1871,10 @@ provided relevant information about the risk for a first ASCVD event.111 The gro
 as the first nonfatal stroke, first nonfatal myocardial infarction, or cardiac heart disease-related death.111 The
 ASCVD tool is designed to be used in patients 40 to 79 years of age who do not have cardiovascular disease,
 and it was also incorporated into the ACC/AHA cholesterol guidelines issued in 2013.111,113 Table 6-1 provides the
-information assessed into the tool. An online calculator is also available at http://tools.acc.org/ASCVD-Risk-
+information assessed into the tool. An online calculator is also available at 
 Estimator-Plus/#!/calculate/estimate/.
 LEARNING GUIDE: CARDIAC 55
---- Страница 56 ---
+
 The ASCVD tool has several limitations. First, the cohorts used to develop the tool did not include adequate
 numbers of people from other races (e.g., Asian, Hispanic, and Native American populations) so the tool may not
 be as useful in individuals who are not white or African American.111 Second, there are also a variety of factors
@@ -1914,7 +1890,7 @@ The SCORE tool is designed to predict the 10-year risk of a fatal CVD event in i
 Although the tool itself does not incorporate this, the European guidelines suggest that overall risk for fatal plus
 non-fatal CVD events is approximately three times the risk calculated for fatal events.114 It is important to note
 that the SCORE tool separates Europe into high- and low-risk countries, reflecting different CVD risk profiles in
-different regions. These charts can be accessed at https://www.escardio.org/static_file/Escardio/Subspecialty/
+different regions. These charts can be accessed at 
 EACPR/Documents/score-charts.pdf.
 The SCORE tool has limitations similar to those found with ASCVD. Although it is specific to European
 populations, it may have less predictive capability for individuals in minority ethnic groups.114 Like the ASCVD
@@ -1944,7 +1920,7 @@ BMI – body mass index; hsCRP – high-sensitivity C-reactive protein; MI – m
 § Framingham uses either cholesterol or BMI
 ‡ Incorporates treated and untreated
 LEARNING GUIDE: CARDIAC 56
---- Страница 57 ---
+
 Framingham General CVD Risk Tool
 The Framingham General CVD Risk Tool (sometimes known as Framingham 2008) was developed to predict
 the 10-year risk of CVD. It was a modification of an earlier tool, the Framingham risk assessment, which
@@ -1954,7 +1930,7 @@ arterial disease, and heart failure in addition to coronary heart disease events
 information from a US cohort, but it has been validated as a useful tool in other nations throughout the world.116
 The tool incorporates age, gender, smoking, blood pressure, diabetes diagnosis, and either cholesterol or body
 mass index to assess a 10-year risk for a CVD event.115 An online risk calculator is available at
-https://www.framinghamheartstudy.org/risk-functions/cardiovascular-disease/10-year-risk.php.
+
 The Framingham General CVD tool can assess risk in a broader age range, 30 to 74 years, and it also
 incorporates obesity as a risk factor if the body mass index version is used.115 Limitations of the Framingham
 CVD risk tool include that it is based on information from a comparatively small cohort of participants in the US
@@ -1966,7 +1942,7 @@ individuals without diabetes.118 Unlike the previously discussed tools, the Reyn
 history of CVD and the biomarker hsCRP into the risk calculation.118-19 Smoking status, age, gender, blood
 pressure, and cholesterol measurements are also included in the score.118-19 The Reynolds score was created with
 information from two US-based cohorts, the Women’s Health Study and the Physicians Health Study-II.118-19
-An online calculator is available at http://www.reynoldsriskscore.org.
+An online calculator is available at 
 One of the significant limitations of the Reynolds score is that the cohorts it is modeled from are mostly
 comprised of white participants within a relatively specific socioeconomic range.118-19 And although the Reynolds
 tool includes biomarker information and family history, other lifestyle factors are not incorporated into the risk
@@ -1990,7 +1966,7 @@ underestimated risk. The Framingham general CVD was the best-calibrated tool for
 As discussed previously, over and underestimation of risk have potentially serious consequences, so refining
 currently available tools to improve predictive accuracy for CVD is critical for appropriate patient care.
 LEARNING GUIDE: CARDIAC 57
---- Страница 58 ---
+
 CONSIDERATIONS FOR BIOMARKERS IN CARDIOVASCULAR
 DISEASE RISK STRATIFICATION
 To overcome the limitations presented by traditional scoring tools, researchers have begun focusing on circulating
@@ -2033,7 +2009,7 @@ Myocardial dysfunction BNP or NT-proBNP
 Renal disease Creatinine (for eGFR)
 Coronary artery disease Imaging to directly examine for atherosclerosis
 LEARNING GUIDE: CARDIAC 58
---- Страница 59 ---
+
 Considerations for Biomarkers: Determining Clinical Value
 Establishing the clinical value of a particular biomarker is another essential aspect in determining its role in
 patient care. Useful biomarkers will need to demonstrate two qualities: 1) accuracy in predicting future cardiac
@@ -2073,7 +2049,7 @@ cardiovascular events in clinical trials, and it is unlikely that low HDL itself
 Although lifestyle factors such as exercise and smoking cessation are interventions that can raise HDL and
 decrease cardiovascular risk, the benefits of these interventions are not entirely due to their effect on HDL.
 LEARNING GUIDE: CARDIAC 59
---- Страница 60 ---
+
 TRIGLYCERIDES
 Triglycerides are another lipid measurement typically reported on a lipid panel. Although some clinical
 trials examining the risk associated with triglyceride elevation have found a strong association with CVD,
@@ -2111,7 +2087,7 @@ traditional risk factors (such as blood pressure and cholesterol).133-34 Despite
 AHA guidelines as possibly helpful if the benefit of treatment is uncertain after traditional risk assessment with
 the ASCVD scoring tool.111
 LEARNING GUIDE: CARDIAC 60
---- Страница 61 ---
+
 High-Sensitivity Troponin
 Unlike hsCRP, high-sensitivity troponin (hsTn) T and I are biomarker assays that are very specific to the
 cardiac muscle.149 Although they have demonstrated usefulness in acute coronary syndromes and heart failure,
@@ -2151,7 +2127,7 @@ biomarker thresholds were derived in Western populations. Whether these data are
 Asia Pacific populations and may be effectively used to target high risk individuals for primary prevention
 strategies warrant further study.151
 LEARNING GUIDE: CARDIAC 61
---- Страница 62 ---
+
 Natriuretic Peptides
 Although the natriuretic peptides (NPs) are used extensively in the management of patients with heart failure,
 they also have a role in screening the asymptomatic population for CVD. Even small elevations of NP levels, below
@@ -2198,7 +2174,7 @@ incorporating biomarkers into risk assessment for CVD influences clinical outcom
 unresolved questions, biomarker use in cardiovascular diseases will likely continue to evolve, ideally providing
 clinicians with better tools for caring for their patients.
 LEARNING GUIDE: CARDIAC 62
---- Страница 63 ---
+
 SECTION 6: REVIEW QUESTIONS
 1. Which of the following may be useful for determining an asymptomatic patient’s risk for future CVD events?
 a. SCORE risk assessment tool
@@ -2223,7 +2199,7 @@ c. T here is no standard for defining a normal population in studies of biomarke
 population is selected
 d. All of the above statements are true
 LEARNING GUIDE: CARDIAC 63
---- Страница 64 ---
+
 APPENDIX
 APPENDIX A:
 GLOSSARY OF TERMS
@@ -2232,7 +2208,7 @@ CORRECT RESPONSES
 APPENDIX C:
 REFERENCES
 LEARNING GUIDE: CARDIAC 64
---- Страница 65 ---
+
 APPENDIX A: GLOSSARY OF TERMS
 A
 ACE inhibitors: A class of medication used to treat heart failure and high blood pressure; in heart failure, these drugs block
@@ -2276,7 +2252,7 @@ Autoimmune disease: A disease characterized by the body’s immune system produc
 own tissue.
 Automaticity: The heart tissue’s ability to generate its own electrical impulses to stimulate contraction.
 LEARNING GUIDE: CARDIAC 65
---- Страница 66 ---
+
 B
 B-natriuretic peptide (BNP): A protein released by the ventricles of the heart when they are under strain or stress; most
 often used as a biomarker for diagnosing and monitoring heart failure.
@@ -2324,7 +2300,7 @@ including cardiomyocytes.
 Cholesterol: A fat-like substance found in body tissues that is necessary to make hormones, vitamin D, and parts of cells.
 Too much of certain types of cholesterol can raise the risk of heart disease.
 LEARNING GUIDE: CARDIAC 66
---- Страница 67 ---
+
 Clot: A clump of blood composed of fibrin, platelets, and erythrocytes that are stuck together, usually to stop bleeding from a
 damaged blood vessel.
 Clotting cascade (or Coagulation cascade): A complex series of reactions that occur within the body as a result of a blood
@@ -2364,7 +2340,7 @@ Ejection fraction: The percentage of blood pumped out of the left ventricle with
 approximately 55-75%.
 Elasticity: Stretchiness.
 LEARNING GUIDE: CARDIAC 67
---- Страница 68 ---
+
 Electrocardiogram (ECG or EKG): A test that measures the electrical activity of the heart, visualizing the electrical
 activity of the heart from 12 different angles; used to evaluate for a type of myocardial infarction, cardiac arrhythmias, and
 other cardiac abnormalities.
@@ -2406,7 +2382,7 @@ heart failure symptoms and an ejection fraction in the normal range, usually ove
 HFrEF (Heart failure with reduced ejection fraction): A heart failure classification used to describe patients with heart
 failure symptoms and a reduced ejection fraction, usually under 45 percent.
 LEARNING GUIDE: CARDIAC 68
---- Страница 69 ---
+
 High-sensitivity C-reactive protein (hsCRP): A circulating biomarker for inflammation in the body; in cardiology
 practice, it can be used as a screening tool for identifying patients at risk for cardiac disease when other tools are
 not adequate.
@@ -2444,7 +2420,7 @@ cardiovascular disease.
 Low-sodium diet: A diet low in salt.
 Lumen: An opening; in the case of blood vessels, this term describes the opening inside the vessel.
 LEARNING GUIDE: CARDIAC 69
---- Страница 70 ---
+
 M
 Maladaptive: Counterproductive; inadequate adjustment to a change or environment.
 Mineralocorticoid receptor antagonist: See “Aldosterone antagonist.”
@@ -2482,7 +2458,7 @@ on an electrocardiogram.
 NT-proBNP: An inactive fragment cleaved from BNP; used clinically as a circulating biomarker in patients with
 heart failure.
 LEARNING GUIDE: CARDIAC 70
---- Страница 71 ---
+
 O
 Obese: Significantly overweight.
 Obesity: The state of being significantly overweight.
@@ -2515,7 +2491,7 @@ Quantitative: Measuring the quantity of something; in the laboratory setting, qu
 number describing the concentration of a substance (this is in contrast to a qualitative measure, which tells only if a
 substance is present or not).
 LEARNING GUIDE: CARDIAC 71
---- Страница 72 ---
+
 R
 Remodeling: In the heart, the process of structural changes to the cardiac tissue as a result of heart failure, tissue injury, or
 other factors.
@@ -2549,7 +2525,7 @@ hemorrhagic, which is caused by a blood vessel in the brain bursting.
 Superimposed: Occurring in addition to or on top of something else.
 Systole: The phase of the cardiac pumping cycle that involves contraction of the heart muscle, pushing out blood.
 LEARNING GUIDE: CARDIAC 72
---- Страница 73 ---
+
 T
 Tachyarrhythmia: A general term describing an abnormal, fast, heart rhythm.
 Thrombin: An enzyme in the blood that works in the clotting cascade to create fibrin.
@@ -2582,7 +2558,7 @@ X
 Y
 Z
 LEARNING GUIDE: CARDIAC 73
---- Страница 74 ---
+
 APPENDIX B: CORRECT RESPONSES
 SECTION 1
 1. V eins >> vena cava >> right atrium >> right ventricle >> pulmonary artery >> lungs >> pulmonary veins >>
@@ -2618,7 +2594,7 @@ a. H ormones and neurotransmitters, neurohormonal
 b. Kidneys
 c. Fibrosis
 LEARNING GUIDE: CARDIAC 74
---- Страница 75 ---
+
 SECTION 5
 1. O besity; any 5 of the following: kidney disease, female sex, increasing age, severe pneumonia,
 obstructive sleep apnea, pulmonary hypertension, severe burns, critical illness
@@ -2635,17 +2611,17 @@ SECTION 6
 3. b
 4. c
 LEARNING GUIDE: CARDIAC 75
---- Страница 76 ---
+
 APPENDIX C: REFERENCES
 1. Martini FH, Nath JL, Bartholomew EF. Fundamentals of Anatomy and Physiology. 10th ed. Pearson; 2015.
 2. Cardiovascular Disease (CVDs) Fact Sheet. World Health Organization Web site.
-http://www.who.int/mediacentre/factsheets/fs317/en/. Updated May 2017. Accessed September 15, 2017.
+ Updated May 2017. Accessed September 15, 2017.
 3. Mozaffarian D, Benjamin EJ, Go AS, et al. American Heart Association Statistics Committee and Stroke Statistics
 Subcommittee. Executive Summary: Heart Disease and Stroke Statistics – 2016 Update.
 Circulation. 2016; 133: 447-454.
 4. Wilkins E, Wilson L, Wickramasinghe K, et al. European Cardiovascular Disease Statistics 2017. European Heart
-Network (online). http://www.ehnheart.org/component/downloads/downloads/2452. Accessed September 15, 2017.
-5. About Cardiovascular Disease. World Health Organization Web site. http://www.who.int/cardiovascular_diseases/
+Network (online).  Accessed September 15, 2017.
+5. About Cardiovascular Disease. World Health Organization Web site. 
 about_cvd/en/. Updated 2017. Accessed September 18, 2017.
 6. Thygesen K, Alpert JS, Jaffe AS, Simoons ML, Chaitman BR, White HD, the Joint ESC/ACCF/AHA/WHF Task
 Force for the Universal Definition of Myocardial Infarction. Third universal definition of myocardial infarction.
@@ -2655,14 +2631,14 @@ non-ST-elevation acute coronary syndromes: a report of the American College of C
 Association Task Force on Practice Guidelines. Circulation. 2014; 130: e344-e426.
 8. Braunwald E, Morrow DA. Unstable angina: is it time for a requiem? Circulation. 2013; 127(24): 2452-2457.
 9. Shah AS, Newby DE, Mills NL. High sensitivity cardiac troponin in patients with chest pain. BMJ. 2013; 347: f4222.
-10. Acute Coronary Syndrome. American Heart Association Web site. http://www.heart.org/HEARTORG/Conditions/
+10. Acute Coronary Syndrome. American Heart Association Web site. 
 HeartAttack/AboutHeartAttacks/Acute-Coronary-Syndrome_UCM_428752_Article.jsp#.Wbaj6xiZNo4.
 Updated April 26, 2017. Accessed September 11, 2017.
 11. O’Gara PT, Kushner FG, Ascheim DD, et al. 2013 ACCF/AHA guideline for the management of ST-elevation
 myocardial infarction: a report of the American College of Cardiology Foundation/American Heart Association Task
 Force on Practice Guidelines. Circulation. 2013; 127: 1-64.
 12. Angioplasty and stent placement – heart. U.S. National Library of Medicine: Medline Plus Web site.
-https://medlineplus.gov/ency/article/007473.htm. Updated September 5, 2017. Accessed September 15, 2017.
+ Updated September 5, 2017. Accessed September 15, 2017.
 13. Retavase [package insert]. Cary, North Carolina: Chiesi USA, Inc.; June 2017.
 14. Shah ASV, Anand A, Sandoval Y, et al. High-sensitivity cardiac troponin I at presentation in patients with suspected
 acute coronary syndrome: a cohort study. Lancet. 2015; 386(10012): 2481-2488.
@@ -2680,7 +2656,7 @@ increased circulating concentrations of cardiac troponin T. J Am Coll Cardiol. 2
 21. Wens SC, Schaaf GJ, Michels M, et al. Elevated Plasma Cardiac Troponin T Levels Caused by Skeletal Muscle
 Damage in Pompe Disease. Circ Cardiovasc Genet. 2016; 9(1): 6-13.
 LEARNING GUIDE: CARDIAC 76
---- Страница 77 ---
+
 22. Laugaudin G, Kuster N, Petiton A, et al. Kinetics of high-sensitivity cardiac troponin T and I differ in patients with
 ST-segment elevation myocardial infarction treated by primary coronary intervention.
 Eur Heart J Acute Cardiovasc Care. 2016; 5(4): 354-363.
@@ -2719,7 +2695,7 @@ BMJ Open. 2017; 7: e013653.
 EJIFCC. 2016; 27(3): 217-223.
 39. Myocardial infarction (acute): Early rule out using high-sensitivity troponin tests (Elecsys) Troponin T high-
 sensitive, ARCHITECT STAT High Sensitive Troponin-I and AccuTnI+3 assays). National Institute for Health
-and Care Excellence (NICE) Web site. https://www.nice.org.uk/guidance/dg15/chapter/1-Recommendations.
+and Care Excellence (NICE) Web site. 
 Updated October 2014. Accessed September 25, 2017.
 40. Möckel M, Searle J. Copeptin – Marker of Acute Myocardial Infarction. Curr Atheroscler Rep. 2014; 16(7): 421.
 41. Calmarza P, Lapresta C, García-Castañón S, López-Perales C, Pérez-Guerrero A, Portolés A. Usefulness of copeptin
@@ -2730,7 +2706,7 @@ Troponins. Curr Cardiol Rep. 2017; 19(4): 29.
 43. Vassiliadis E, Barascuk N, Didangelos A, Karsdal MA. Novel Cardiac-Specific Biomarkers and the Cardiovascular
 Continuum. Biomark Insights. 2012; 7: 45-57.
 LEARNING GUIDE: CARDIAC 77
---- Страница 78 ---
+
 44. Bhakthavatsala Reddy C, Cyriac C, Desle HB. Role of “Ischemia Modified Albumin” (IMA) in acute coronary
 syndromes. Indian Heart J. 2014; 66(6): 656-662.
 45. Kaier TE, Twerenbold R, Puelacher C, et al. Direct Comparison of Cardiac Myosin-Binding Protein C with Cardiac
@@ -2767,7 +2743,7 @@ Circulation. 2013; 128: e240-e327.
 60. Levy D, Larson MG, Vasan RS, Kannel WB, Ho KK. The progression from hypertension to congestive heart failure.
 JAMA. 1996; 275: 1557-1562.
 61. Owens AT, Brozena SC, Jessup M. New Management Strategies in Heart Failure. Circ Res. 2016; 118: 480- 495.
-62. Hobbs R, Boyle A. Heart Failure. Cleveland Clinic Center for Continuing Education Web site. http://www.
+62. Hobbs R, Boyle A. Heart Failure. Cleveland Clinic Center for Continuing Education Web site. 
 clevelandclinicmeded.com/medicalpubs/diseasemanagement/cardiology/heart-failure/#bib1.
 Updated March 2014. Accessed October 2, 2017.
 63. McCullough PA, Olobatoke A, Vanhecke TE. Galectin-3: A novel blood test for the evaluation and management of
@@ -2779,7 +2755,7 @@ Indian J Endocrinol Metab. 2011; 15(Suppl 4): S345-S353.
 66. McCullough PA, Neyou A. Comprehensive Review of the Relative Clinical Utility of B-Type Natriuretic Peptide and
 N-Terminal Pro-B-Type Natriuretic Peptide Assays in Cardiovascular Disease. Open Heart Failure J. 2009; 2: 6-17.
 LEARNING GUIDE: CARDIAC 78
---- Страница 79 ---
+
 67. Maisel AS, Daniels LB. Breathing Not Properly 10 Years Later: what we have learned and what we still need to learn.
 J Am Coll Cardiol. 2012; 60(4): 277-282.
 68. De Boer RA, Yu L, van Veldhuisen DJ. Galectin-3 in Cardiac Remodeling and Heart Failure.
@@ -2790,10 +2766,10 @@ Data from COACH and TRIUMPH. Eur J Heart Fail. 2015; 17(12): 1271-1282.
 Heart Failure. Am J Cardiol. 2017; 119(3): 445-451.
 71. Stelzle D, Shah AS, Anand A, et al. High-sensitivity cardiac troponin I and risk of heart failure in patients with
 suspected acute coronary syndrome: a cohort study. Eur Heart J Qual Care Clin Outcomes. 2017; 0: 1-7.
-72. Ventricular Assist Device. Medline Plus Web site. https://medlineplus.gov/ency/article/007268.htm.
+72. Ventricular Assist Device. Medline Plus Web site. 
 Updated May 5, 2016. Accessed October 2, 2017.
 73. Organ Procurement and Transplantation Network. National Data on Heart Transplants. US Department of Health
-and Human Services Web site. https://optn.transplant.hrsa.gov/data/. Updated September 30, 2017.
+and Human Services Web site.  Updated September 30, 2017.
 Accessed October 18, 2017.
 74. Bavishi C, Messerli FH, Kadosh B, Ruilope LM, Kario K. Role of neprilysin inhibitor combinations in hypertension:
 insights from hypertension and heart failure trials. Eur Heart J. 2015; 36, 1967-1973.
@@ -2830,7 +2806,7 @@ neutral endopeptidase-mediated natriuretic peptide degradation. J Mol Biol. 2009
 87. Vodovar N, Seronde MR, Laribi S, et al. Elevated plasma B-type natriuretic peptide concentrations directly inhibit
 circulating neprilysin activity in heart failure. J Am Coll Cardiol HF. 2015; 3: 629-636.
 LEARNING GUIDE: CARDIAC 79
---- Страница 80 ---
+
 88. Jaffe AS, Apple FS, Mebazaa A, Vodovar N. Unraveling N-terminal pro-B-type natriuretic peptide: another piece to a
 very complex puzzle in heart failure patients. Clin Chem. 2015; 61: 1016-1018.
 89. Eliaz I. The Role of Galectin-3 as a Marker of Cancer and Inflammation in a Stage IV Ovarian Cancer Patient with
@@ -2854,7 +2830,7 @@ Anatomy of a novel assay for use in heart failure. Clin Biochem. 2010; 43(7-8): 
 98. Lyons KS, McKeeman G, McVeigh GE, Harbinson MT. High-sensitivity troponin T is detectable in most patients
 with clinically stable heart failure. Br J Cardiol. 2014; 21: 33-36.
 99. Gaggin HK, Januzzi JL. Cardiac Biomarkers and Heart Failure. American College of Cardiology.
-http://www.acc.org/latest-in-cardiology/articles/2015/02/09/13/00/cardiac-biomarkers-and-heart-failure.
+
 Updated February 10, 2015. Accessed October 9, 2017.
 100. Okuyama R, Ishii J, Takahashi H, et al. Combination of high-sensitivity troponin I and N-terminal pro-B-type
 natriuretic peptide predicts future hospital admission for heart failure in high-risk hypertensive patients with
@@ -2880,7 +2856,7 @@ Clin Chem Lab Med. 2014; 52(10): 1433-1435.
 copeptin: secondary results from the Biomarkers in Acute Heart Failure (BACH) study.
 Circ Heart Fail. 2011; 4: 613-620.
 LEARNING GUIDE: CARDIAC 80
---- Страница 81 ---
+
 110. Shah RV, Truong QA, Gaggin HK, Pfannkuche J, Hartmann O, Januzzi JL. Mid-regional pro-atrial natriuretic
 peptide and pro-adrenomedullin testing for the diagnostic and prognostic evaluation of patients with acute
 dyspnoea. Eur Heart J. 2012; 33(17): 2197-2205.
@@ -2929,7 +2905,7 @@ Countries and Ethnicities. Clinics. 2016; 71(4): 235-242.
 131. Ridker PM, Cannon CP, Morrow D, et al. C-reactive protein levels and outcomes after statin therapy.
 N Engl J Med. 2005; 352(1): 20-28.
 LEARNING GUIDE: CARDIAC 81
---- Страница 82 ---
+
 132. Parrinello CM, Lutsey PL, Ballantyne CM, Folsom AR, Pankow JS, Selvin E. Six-year change in high-sensitivity
 C-reactive protein and risk of diabetes, cardiovascular disease, and mortality. Am Heart J. 2015; 170(2): 380-389.
 133. Folsom AR, Chambless LE, Ballantyne CM, et al. An Assessment of Incremental Coronary Risk Prediction
@@ -2962,7 +2938,7 @@ JAMA. 2002; 288(16): 2015-2022.
 145. 1Epps KC, Wilensky RL. Lp-PLA2 – a novel risk factor for high-risk coronary and carotid artery disease.
 J Intern Med. 2011; 269: 94-106.
 146. World Health Organization. Top 10 Causes of Death Fact Sheet.
-http://www.who.int/mediacentre/factsheets/fs310/en/. Accessed November 9, 2017. Updated January 2017.
+ Accessed November 9, 2017. Updated January 2017.
 147. Colon PJ, Greene DN. Biotin Interference in Clinical Immunoassays. J Appl Lab Med. 2018, jalm.2017.024257;
 DOI:10.1373/jalm.2017.024257.
 148. Wu AHB, Christenson RH, Greene DN, et al. Clinical Laboratory Practice Recommendations for the Use of Cardiac
@@ -2978,8 +2954,8 @@ Med. 2016;54(11):1821-1829.
 population: Perspectives from Asia-Pacific. Int J Cardiol. 2019;282:93-98. doi: 10.1016/j.ijcard.2019.01.107.
 Epub 2019 Feb 1.
 LEARNING GUIDE: CARDIAC 82
---- Страница 83 ---
+
 LEARNING GUIDE: CARDIAC 83
---- Страница 84 ---
+
 WWW.CORELABORATORY.ABBOTT
 © 2019 Abbott Laboratories. ADD-00061942

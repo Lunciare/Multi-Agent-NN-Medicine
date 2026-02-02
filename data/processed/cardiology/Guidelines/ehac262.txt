@@ -11,10 +11,9 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 ESC GUIDELINES
 EuropeanHeartJournal(2022)43,3997–4126
-https://doi.org/10.1093/eurheartj/ehac262
+
 2022 ESC Guidelines for the management of
 patients with ventricular arrhythmias and the
 prevention of sudden cardiac death
@@ -57,14 +56,14 @@ GuidelinesmaybetranslatedorreproducedinanyformwithoutwrittenpermissionfromtheESC
 Press,thepublisheroftheEuropeanHeartJournalandthepartyauthorizedtohandlesuchpermissionsonbehalfoftheESC(Journals.Permissions@oup.com).
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 2 ---
+
 3998 ESCGuidelines
 Document-Reviewers:MajaCikes(CPGReviewCoordinator)(Croatia),PaulusKirchhof(CPGReview
 Coordinator)(Germany),MagdyAbdelhamid(Egypt),VictorAboyans(France),ElenaArbelo(Spain),
@@ -118,14 +117,14 @@ verifytheapplicablerulesandregulationsrelatingtodrugsandmedicaldevicesatthetimeo
 ©TheEuropeanSocietyofCardiology2022.Allrightsreserved.Forpermissionspleasee-mail:Journals.Permissions@oup.com
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 3 ---
+
 ESCGuidelines 3999
 5.1.4.Genetictesting........................................................................... 4015 7.1.1.3.4.Managementofpatientswith
 5.2. Diagnostic evaluation at first presentation with haemodynamicallytoleratedventriculartachycardiaand
@@ -186,14 +185,14 @@ fraction .......................................................................
 death.................................................................................................. 4047 8.3.Suddencardiacdeathinathletes................................................ 4089
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 4 ---
+
 4000 ESCGuidelines
 8.4.Wolff–Parkinson–Whitesyndrome .......................................... 4090 RecommendationTable14—Recommendationsforadding
 8.5.Preventionofsuddencardiacdeathintheelderly............. 4090 cardiacresynchronizationtherapytoimplantablecardioverter
@@ -255,14 +254,14 @@ RecommendationTable13—Recommendationsfor stratification,suddencardiacdeathprev
 subcutaneousimplantablecardioverterdefibrillator....................... 4040 ventriculararrhythmiasinneuromusculardiseases ......................... 4065
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 5 ---
+
 ESCGuidelines 4001
 RecommendationTable34—Recommendationsforsudden Table9Summaryoftherecommendationsforthetreatmentof
 cardiacdeathpreventionandtreatmentofventricular patientswithfrequentidiopathicprematureventricular
@@ -322,14 +321,14 @@ relativeswithprimaryelectricaldiseases..........................................
 Table8Anti-arrhythmicdrugs(acuteandchronictreatment) .. 4035 hypokineticnon-dilatedcardiomyopathy ............................................. 4055
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 6 ---
+
 4002 ESCGuidelines
 Figure20Typicalfeaturesofdilatedcardiomyopathyassociated BBR-VT Bundlebranchre-entrantventriculartachycardia
 withlaminA/Cgenemutationwithventriculararrhythmias ...... 4056 BrS Brugadasyndrome
@@ -394,14 +393,14 @@ AV Atrioventricular QI Qualityindicators
 AVRT AVre-entrytachycardia RBBB Rightbundlebranchblock
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 7 ---
+
 ESCGuidelines 4003
 RCM Restrictivecardiomyopathy Guidelines and their recommendations should facilitate decision
 RCT Randomizedcontroltrial makingofhealthprofessionalsintheirdailypractice.However,guide-
@@ -422,7 +421,7 @@ SPTV Sustainedpolymorphicventriculartachycardia theESC.Becauseoftheirimpactoncli
 SQTS ShortQTsyndrome forthedevelopmentofguidelineshavebeenestablishedtomakeall
 STEMI STelevationmyocardialinfarction decisionstransparenttotheuser.Therecommendationsforformu-
 SVT Supraventriculartachycardia latingandissuingESCGuidelinescanbefoundontheESCwebsite
-TAVI Transcatheteraorticvalveimplantation (https://www.escardio.org/Guidelines). The ESC Guidelines re-
+TAVI Transcatheteraorticvalveimplantation ( The ESC Guidelines re-
 TdP Torsadesdepointes
 presenttheofficialpositionoftheESConagiventopicandareregu-
 TOF TetralogyofFallot larlyupdated.
@@ -461,14 +460,14 @@ CSE©
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 8 ---
+
 4004 ESCGuidelines
 Table2 Levelsofevidence
 Level of Data derived from multiple randomized clinical trials
@@ -497,7 +496,7 @@ Theexpertsofthewritingandreviewingpanelsprovideddeclar- Healthprofessionalsareen
 ationofinterestformsforallrelationshipsthatmightbeperceivedas fully into account when exercising their clinical judgement, as well
 realorpotentialsourcesofconflictsofinterest.Theirdeclarationsof as in the determination and the implementation of preventive,
 interestwerereviewedaccordingtotheESCdeclarationofinterest diagnostic, or therapeutic medical strategies. However, the ESC
-rulesandcanbefoundontheESCwebsite(http://www.escardio.org/ Guidelinesdonotoverrideinanywaywhatsoevertheindividualre-
+rulesandcanbefoundontheESCwebsite( Guidelinesdonotoverrideinanywaywhatsoevertheindividualre-
 Guidelines)andhavebeencompiledinareportandpublishedina sponsibilityofhealthprofessionalstomakeappropriateandaccurate
 supplementarydocumentsimultaneouslytotheguidelines. decisionsinconsiderationofeachpatient‘shealthconditionandin
 Thisprocessensurestransparencyandpreventspotentialbiasesin consultationwiththatpatientorthepatient’scaregiverwhereap-
@@ -518,14 +517,14 @@ documentissignedoffbytheCPGCommitteeforpublicationinthe that,unlessotherwiseprov
 CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 9 ---
+
 ESCGuidelines 4005
 labeluseofmedicationshouldbelimitedtosituationswhereitis Table4 Newrecommendationsin2022
 in the patient’s interest to do so, with regard to the quality,
@@ -609,14 +608,14 @@ Continued
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 10 ---
+
 4006 ESCGuidelines
 InpatientswithCADandhaemodynamicallywell-tolerated Genetictesting(includingatleastLMNA,PLN,RBM20,and
 SMVTandLVEF≥40%,catheterablationinexperienced FLNCgenes)shouldbeconsideredforriskstratificationin
@@ -702,14 +701,14 @@ Continued
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 11 ---
+
 ESCGuidelines 4007
 InpatientswithHCMandrecurrent,symptomaticVA,or Inflammatorydiseases
 recurrentsymptomaticICDtherapy,AADtreatmentshould IIa
@@ -792,14 +791,14 @@ ECGconductiondisorders. considered.
 Continued Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 12 ---
+
 4008 ESCGuidelines
 InpatientswithrepairedTOFwithapreservedbiventricular Beta-blockersand/orflecainidewithorwithoutacetazolamide
 functionandsymptomaticSMVT,catheterablationor shouldbeconsideredinpatientswithAndersen–Tawil IIa
@@ -886,14 +885,14 @@ Continued withERPandarrhythmicsyncopeandadditionalriskfeatures.k
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 13 ---
+
 ESCGuidelines 4009
 ICDimplantationorquinidinemaybeconsideredin Inselectedtransplantedpatientswithcardiacallograft
 asymptomaticindividualswhodemonstrateahigh-riskERPjin IIb vasculopathyortreatedrejection,ICDimplantationmaybe IIb
@@ -945,11 +944,11 @@ QTc≥320msand≤360msandafamilyhistoryofSD IIb SMVTconsistentwithre-entry.
 atage,40years. dPresyncopeorpalpitationssuggestiveofVA.
 eThe 2020 ESC Guidelines on sports cardiology and exercise in patients with
 Quinidinemaybeconsideredin(a)SQTSpatientswhoqualify cardiovasculardisease.4
-foranICDbutpresentacontraindicationtotheICDorrefuse fBasedontheHCMRiskSCD:https://doc2do.com/hcm/webHCM.html
+foranICDbutpresentacontraindicationtotheICDorrefuse fBasedontheHCMRiskSCD:
 IIb gDefinedasafailuretoincreasesystolicpressurebyatleast20 mmHgfromresttopeak
 it,and(b)asymptomaticSQTSpatientsandafamilyhistoryof
 exercise,orafallof.20 mmHgfrompeakpressure.
-SCD. hBasedontheHCMKidRiskscore:https://hcmriskkids.org
+SCD. hBasedontheHCMKidRiskscore:
 IsoproterenolmaybeconsideredinSQTSpatientswithan
 iFactorsfavouringICDimplantation:Age,5,6,11CTGexpansion,6–9,13,16SDorfamilyhistory
 IIb ofSD,5ECGconductionabnormalities,16PRprolongation,13LBBB,5atrialarrhythmias,6,16
@@ -978,14 +977,14 @@ Continued dation according to this guideline and other ESC Guidelines.1–3
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 14 ---
+
 4010 ESCGuidelines
 Table5 Changesinrecommendationssince2015
 CHD
@@ -1069,14 +1068,14 @@ Continued
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 15 ---
+
 ESCGuidelines 4011
 fi
 3. De nitions Sudden arrhythmic death syndrome (SADS): Unexplained sudden
@@ -1151,14 +1150,14 @@ withupto50%beingthefirstmanifestationofcardiacdisease.19–24
 ationofthecircumstancesofdeath. Ideally, cases suspicious of SCD should be identified from multiple
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 16 ---
+
 4012 ESCGuidelines
 sourcesandundergoautopsy,whichisrequiredtoreliablyexclude fromthegeneralpopulationatriskofSCDastheirfirstcardiacevent.
 non-cardiaccausesofsuddendeath(SD). Models for novel SCD risk stratification in the general population
@@ -1226,14 +1225,14 @@ geneticpredispositiontodiesuddenlyduringacuteischaemia.66–70 Survivalrateremai
 Thegoalwouldbetoidentifytherelativelysmall,high-risksubgroups regionaldisparitieshavebeendescribed.96Earlyimplementationof
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 17 ---
+
 ESCGuidelines 4013
 Genetic risks and triggers Age at Dominant subtype
 for VA/SCD VA/SCD of VA (%)
@@ -1278,14 +1277,14 @@ strated improvement of neurological and functional outcome as increasetherateofb
 well as survival of OHCA patients. Data support the need for reducestheresuscitation-freeintervalandimprovestheoutcomeof
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 18 ---
+
 4014 ESCGuidelines
 OHCA victims.101–103 Education of public officials and community b-type-natriuretic peptide as a method to select the need for an
 membersregardingtheimportanceofincreasingratesofbystander ICD.110,111
@@ -1358,14 +1357,14 @@ orinpatientswithCAD.109Thereisnotsufficientevidencetouse and can detect myocardi
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 19 ---
+
 ESCGuidelines 4015
 perfusion defects ( ESC CardioMed chapter 11.4).126 CMR is Withadvancesinhigh-densitymapping,voltagemapping,conduc-
 moresensitivethanechocardiographytodiagnoseARVC,127isdiag- tion/repolarisation metrics, and electrogram fractionation can
@@ -1440,14 +1439,14 @@ Invasive electrophysiological evaluation can have important clinical diagnostic 
 implicationsinpatientswithmyotonicdystrophy.157 whereavailablehasbeenprovidedinTable7.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 20 ---
+
 4016 ESCGuidelines
 stsetcitsongaidevitacovorpsuonevartnI
 6elbaT
@@ -1570,13 +1569,13 @@ slavretninim-3. .snoitcejnineewteb gµ05foesodlamixaM gµ001dnaACRehtni .ACLehtn
 deunitnoC
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22 January
 2026
---- Страница 21 ---
+
 ESCGuidelines 4017
 2202CSE© 2202CSE©
 341
@@ -1690,14 +1689,14 @@ tnairavV/VIssalC
 .nrettapadagurB1epytdetnemucodafoesacnitoNc
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 22 ---
+
 4018 ESCGuidelines
 Recommendation Table 2 — Recommendations for (usually,300ms,average245+28,inoneseries)mayidentifypa-
 genetictesting tientsathigherriskofSCD.186,187Resting12-leadECGisafirst-line
@@ -1779,14 +1778,14 @@ non-sustainedPVTormonomorphicNSVTwithshortcyclelength diseased conduction system
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 23 ---
+
 ESCGuidelines 4019
 Patient with incidental finding of NSVT
 NSVT evaluation Personalhistory
@@ -1836,14 +1835,14 @@ entrant ventricular tachycardia (BBR-VT), resembling bundle and biopsies of affe
 branch block configuration on the ECG, is a feature of evaluation.200,201
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 24 ---
+
 4020 ESCGuidelines
 RVOT VT (LBBB-like, inferior axis, V4 transition)
 LV fascicular VT (RBBB- like, superior axis, QRS 130 ms)
@@ -1871,14 +1870,14 @@ willallowsubsequentdiagnosticevaluation,includingDNAanalysis.213
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 25 ---
+
 ESCGuidelines 4021
 Patient with first SMVT episode
 VT 12-lead ECG Personal history
@@ -1925,14 +1924,14 @@ dilatationanddysfunction,lategadoliniumenhancementwithnon-ischaemicdistribution.
 multifocalPVCs,inflammatoryhyperaemiaandoedema,fibrosis,LVandRVsystolicdysfunction,pericardialeffusion.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 26 ---
+
 4022 ESCGuidelines
 ECG during sinus rhythm ECG during BBR-VT
 I I
@@ -1975,14 +1974,14 @@ testing.116,117,119,232,243 Electrophysiological study and electroa- Continued
 natomicmappingmaybeusefultoprovidepatient-specificinsights
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 27 ---
+
 ESCGuidelines 4023
 InSCAsurvivors,brain/chestCTscanshouldbe suspectedtobeinherited,withareportedcombineddiagnosticyield
 consideredwhenpatientcharacteristics,ECG,and
@@ -2075,14 +2074,14 @@ of death after autopsy is unknown (Section 5.2.5, scenario 5) or bLevelofevidenc
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 28 ---
+
 4024 ESCGuidelines
 5.2.5.Scenario5:Relativesofsuddenarrhythmic depending on population and clinical investigative proto-
 deathsyndromedecedents cols.276 Aetiologies included LQTS, BrS, CPVT, and other dis-
@@ -2125,14 +2124,14 @@ N
 Figure6PartOne.Algorithmfortheevaluationofsuddencardiacarrestsurvivors.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 29 ---
+
 ESCGuidelines 4025
 N
 Echocardiogram suggestiveof CAD/
@@ -2180,14 +2179,14 @@ severaldaysafterarresttoexcludestunningascauseofsystolicdysfunction.eIncaseofhig
 duringmonitoring),itcanbeconsideredtotestforcoronaryvasospasmearlier.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 30 ---
+
 4026 ESCGuidelines
 Sudden death victim
 Collect detailed description about:
@@ -2231,14 +2230,14 @@ uncertainfindings,non-ischaemiccardiomyopathies,coronaryarterydiseasewherefamili
 sections.cAfterinformedconsentofrelatives.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 31 ---
+
 ESCGuidelines 4027
 Where they diverged was the frequency of usage of additional AmbulatorycardiacrhythmmonitoringandCMR
 testssuchashigh-leadECGs,Holtermonitoring,signal-averaged maybeconsideredinrelativesofSADS IIb C
@@ -2319,14 +2318,14 @@ Continued anindividualevaluationofthefutureriskoflife-threateningVA.
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 32 ---
+
 4028 ESCGuidelines
 Relatives of unexplained sudden death decedent
 Non-autopsied SADS decedent SADS decedent
@@ -2378,14 +2377,14 @@ N,No;SADS,suddenarrhythmicdeathsyndrome;SCD,suddencardiacdeath;Y,Yes.aOver16year
 testsordecedentcircumstancesofdeath.bIfexerciseisnotfeasible.cRe-evaluateifchangeinfamilyhistoryornewsymptoms.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 33 ---
+
 ESCGuidelines 4029
 Recommendation Table 8 — Recommendations for 6.1.2.Acutemanagementofsustained
 treatmentofreversibleconditions monomorphicventriculartachycardia
@@ -2443,14 +2442,14 @@ triggeredactivityasthemechanismunderlyingthearrhythmia.bBenefitofcardioversionsh
 cConsideringlimitedavailabilityoftheotheranti-arrhythmicdrugs.
 2202CSE© Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 34 ---
+
 4030 ESCGuidelines
 Repetitive runs of VT
 mm:ss
@@ -2492,14 +2491,14 @@ ofAADshastobetakenintoaccount,e.g.procainamideisnotavail- Anelectricalstormiscom
 able in many European countries. In patients with an ICD, manual as three or more episodes of sustained VA occurring within 24h,
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 35 ---
+
 ESCGuidelines 4031
 requiring either anti-tachycardia pacing (ATP) or cardioversion/ multipleshocks.FrequentICDshockscanalsobeinappropriatelyde-
 defibrillation, with each event separated by at least 5min.310–312 livered(Figure11).
@@ -2545,14 +2544,14 @@ PolymorphicVA MonomorphicVA
 Figure11PartOne.Managementofpatientswithelectricalstormorrepeatedimplantablecardioverterdefibrillatordischarges.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 36 ---
+
 4032 ESCGuidelines
 Incaseofhaemodynamicinstabilityatinitialevaluation,institution suppression in two smaller studies.319,320 Administration of other
 ofadvancedlifesupport(ALS)isrecommended.315Reversiblecon- AADssuchasprocainamide,321lidocaine,322orquinidine296,297de-
@@ -2605,14 +2604,14 @@ Mechanicalcirculatory support
 Figure11PartTwo.Managementofpatientswithelectricalstormorrepeatedimplantablecardioverterdefibrillatordischarges.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 37 ---
+
 ESCGuidelines 4033
 MonomorphicVA
 VA burdenc
@@ -2672,14 +2671,14 @@ management(Figure11).
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 38 ---
+
 4034 ESCGuidelines
 Inpatientspresentingwithahaemodynamically Autonomicmodulationmaybeconsideredin
 toleratedidiopathicVT,treatmentwith patientswithelectricalstormrefractorytodrug
@@ -2763,26 +2762,26 @@ IIa C events,includingpro-arrhythmia.Forexample,numerousAADs,as
 similarPVC,non-responsivetomedicaltreatment
 wellasalargenumberofdrugswithothertherapeuticindications,
 orcoronaryrevascularization.221,332,333
-can prolong the QT interval (http://www.crediblemeds.org) and
+can prolong the QT interval ( and
 Quinidinemaybeconsideredinpatientswith
 provokeTdP,havenegativechronotropiceffects,maydeteriorate
 CADandelectricalstormduetorecurrentPVT IIb C
 heart failure, and cause bradycardia. Several drugs increase the
 whenotherAADtherapyfails.323,324
-risk of VA in patients with BrS (http://www.brugadadrugs.org).
+risk of VA in patients with BrS (
 Continued
 2202CSE©
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 39 ---
+
 ESCGuidelines 4035
 Table8 Anti-arrhythmicdrugs(acuteandchronictreatment)
 Anti-arrhythmic EffectsonECG Indications Oraldoseper Sideeffects Contraindications,
@@ -2845,14 +2844,14 @@ QTintervala severeintraventricular
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 40 ---
+
 4036 ESCGuidelines
 Extracardiac: conductiondisturbances,
 Anticholinergiceffects priorMI,significantSHD,
@@ -2919,14 +2918,14 @@ drymouth DiscontinueifQRSwidening
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 41 ---
+
 ESCGuidelines 4037
 Quinidine Increasessinusnode (VFc,BrS,SQTS) 600–1600mg Cardiac: Contraindications:
 frequencyand Loadingdose: Hypotension,TdPd Severesinusnode
@@ -2985,14 +2984,14 @@ dProarrhythmicsideeffectsrequirestrongindicationinpatientswithoutICD.
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 42 ---
+
 4038 ESCGuidelines
 Patient requiring sodium channel blocking agents
 Contraindications:
@@ -3028,7 +3027,7 @@ Periodic ECG for QRS width evaluation
 Control changes in renal and hepatic function
 Be aware of potential drug interactions
 Figure12Algorithmforevaluationbeforeinitiationandfollow-upofpatientsrequiringsodiumchannelblockingagents.AV,atrioventricular;BBB,bun-
-dlebranchblock;ECG,electrocardiogram;LV,leftventricular;MI,myocardialinfarction;N,No;Y,Yes.ahttp://www.brugadadrugs.org.bFlecainide,encainide.
+dlebranchblock;ECG,electrocardiogram;LV,leftventricular;MI,myocardialinfarction;N,No;Y,Yes.a
 cCo-administrationofdrugswithAVnodalblockingeffectinpatientswithatrialfibrillationoratrialflutter.dInimplantablecardioverterdefibrillatorcarriers,a
 higherriskofdrug-inducedpro-arrhythmiamightbeaccepted.eAccordingtothe2020ESCGuidelinesforthediagnosisandmanagementofatrialfibrillation.348
 fAΔQRS.25%isnotanabsolutecut-offvaluebutdependentonQRSwidthbeforedruginitiationandindividualizedpatientrisk–benefitconsiderations.
@@ -3053,14 +3052,14 @@ SCD demonstrated a 28% mortality reduction (HR 0.72; 95% CI andtoreassessanddisc
 death(HR0.5;95%CI0.37–0.67;P,0.0001)intheICDgroup.352 disease,withdiabetes,andelderlypatientsbenefitlessornotatallfrom
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 43 ---
+
 ESCGuidelines 4039
 Patientrequiring a drug associated with QT prolongationa
 Assessment of patient
@@ -3087,7 +3086,7 @@ N
 Control changes inrenal and hepatic function
 Be aaaware of potential drug interactions
 Figure13Algorithmforevaluationbeforeinitiationandfollow-upofpatientsrequiringdrugsassociatedwithQTprolongation.ECG,electrocardio-
-gram;LV,leftventricular;N,No;Y,Yes.ahttp://www.crediblemeds.org.bIfstrongindicationandnoalternativetreatment,consultaspecialist.cAccording
+gram;LV,leftventricular;N,No;Y,Yes.a
 tothe2020ESCGuidelinesforthediagnosisandmanagementofatrialfibrillation.348
 aprimarypreventionICD.357,360–362Womenhavebeenunderrepre-
 Complications of ICD therapy include inappropriate therapies,
@@ -3110,14 +3109,14 @@ MADIT-ICDbenefitscore,365mayprovidehelpfuladditionalinfor- theincludedpatientswe
 mation,clinicaldecision-makingshouldnotonlyrelyonsuchscores. patientswereyoungerthaninpriorICDtrials.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 44 ---
+
 4040 ESCGuidelines
 RecommendationTable11—Recommendationsfor 6.2.2.2.Addingcardiacresynchronizationtherapy2
 implantable cardioverter defibrillator implantation Cardiacresynchronizationtherapy(CRT)doesreducemortalityin
@@ -3196,14 +3195,14 @@ Continued
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 45 ---
+
 ESCGuidelines 4041
 TheWCDmaybeconsideredintheearlyphase Insingle-ordual-chamberICDpatients
 IIb B
@@ -3296,14 +3295,14 @@ Continued CardioMedchapter41.14).406
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 46 ---
+
 4042 ESCGuidelines
 RecommendationTable17—Recommendationsfor 6.2.3.4.Patientswithleftventricularassistdevices
 concomitant treatment to avoid inappropriate im- VAsarecommonamong leftventricularassistdevice(LVAD)car-
@@ -3390,14 +3389,14 @@ bLevelofevidence. oldissuspected,e.g.HCM,right-sidedimplantations.453,454
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 47 ---
+
 ESCGuidelines 4043
 RecommendationTable20—Recommendationsfor SHD.466–468However,ICDsdonotpreventVA,andmanyofthese
 prevention of implantable cardioverter defibrillator patientswillexperiencesymptomaticVT/VFrecurrencesresultingin
@@ -3481,14 +3480,14 @@ ade,ordeath,mayoccur.519–522
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 48 ---
+
 4044 ESCGuidelines
 6.2.4.1.2. Patients without apparent structural heart disease. STEMI and non-STEMI.69,546 In addition, an early repolarization
 ‘Idiopathic VTs’ is the term for VTs that are not associated with pattern has been associated with increased risk of VAs and
@@ -3565,14 +3564,14 @@ cardiogenic shock, LVEF,40%, and the sum of ST-segment de- perfusion (.48h after
 viations in all leads are independent predictors of VA both in didnotaffect5-yearoutcome.Furtherstudiesarerequiredtoclarify
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 49 ---
+
 ESCGuidelines 4045
 Prevention and treatment of VAs in the acute phase of STEMI
 Beta-blocker i.v.priortoPCI,ifnot contraindicateda,b
@@ -3612,14 +3611,14 @@ theimpactofVAoccurring.48hafterSTEMIonlateSCDincon- 7.1.1.1.2.Vasospasm. Coronar
 temporarypatientsundergoingacutePCI. portant role in the pathogenesis of VA. The long-term prognosis
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 50 ---
+
 4046 ESCGuidelines
 RecommendationTable22—Recommendationsfor far in randomized studies. The PROTECT-ICD randomized trial
 treatmentofventriculararrhythmiasinacutecoron- (NCT03588286) is currently examining whether PES may guide
@@ -3701,14 +3700,14 @@ However, the utility of this approach has not been confirmed so are at risk for 
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 51 ---
+
 ESCGuidelines 4047
 heart failure symptoms NYHA class II and III, primary preventive Theadditionoforalamiodaroneor
 ICD implantation is recommended.356 ICD implantation should beta-blockerreplacementbysotalolshouldbe
@@ -3803,14 +3802,14 @@ A patient-level
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 52 ---
+
 4048 ESCGuidelines
 Patient with chronic CAD
 LLLVEF evaluation 6–12weeks after acute MI
@@ -3854,14 +3853,14 @@ monocentric retrospective trial studied patients with CAD, LVEF thispopulation,t
 eterablationasfirst-linetherapy.580Theinvestigatorscouldabolish SMVT is rarely caused by ischaemia and revascularization alone
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 53 ---
+
 ESCGuidelines 4049
 SMVT in a patient with chronic CAD
 First presentation SMVT in ICD carriersa
@@ -3908,14 +3907,14 @@ talizationsforarrhythmiaorworseningheartfailurewhencompared evaluateexercise-ind
 to a deferred ablation strategy only after the third ICD shock.582 peciallyinpatientswithanabortedCA.588
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 54 ---
+
 4050 ESCGuidelines
 RecommendationTable25—Recommendationsfor Several drugs have been used to treat idiopathic PVCs/VT.
 suddencardiacdeathpreventioninpatientswithcoron- Recommendations are based on small or non-controlled series.
@@ -3997,14 +3996,14 @@ thoseoriginatingfromtheRVOTortheleftfascicles. tomsorchangeinpatientcondition.
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 55 ---
+
 ESCGuidelines 4051
 Patient with PVCs / MonomorphicVT and non-apparent SHDa
 ECG,, Holter,, and echocardiogram
@@ -4061,14 +4060,14 @@ bInselectedpatients(onlymoderateLVdysfunction).
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 56 ---
+
 4052 ESCGuidelines
 RecommendationTable26—Recommendationsfor 7.1.2.2.Prematureventricularcomplex-induced/-aggravated
 the management of patients with idiopathic prema- cardiomyopathy
@@ -4154,14 +4153,14 @@ dLevelofevidenceCforVT/PVCsfromleftfascicles. 36% to 10% and resulted in LVEF in
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 57 ---
+
 ESCGuidelines 4053
 Patient withPVC-Burden >10% and mildlyreducedor reduced LLLVEF
 N Known SHD Y
@@ -4213,14 +4212,14 @@ recommended.535,600,609,612,617,618,620
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 58 ---
+
 4054 ESCGuidelines
 Inpatientswithacardiomyopathysuspectedtobe Pathogenic mutations are identified in 25–55% of DCM pa-
 causedbyfrequentandpredominately tients,634,639,640 most often with autosomal dominant inherit-
@@ -4290,7 +4289,7 @@ quently externally validated.653 Another study,which involved 589
 However,incontrasttoadults,theincidenceofSCDinpaediatric
 DCMpatientsismuchlower,witha5-yearincidenceof2.4–3%as
 LMNAmutationcarriers,identifiedAVblockasanadditionalpredict-
-or.Recentlyariskcalculatorhasbeendeveloped(https://lmna-risk-
+or.Recentlyariskcalculatorhasbeendeveloped(
 reported in two large paediatric cardiomyopathy registries from
 theUnitedStatesandAustralia.637,638 vta.fr/)topredicttheriskoflife-threateningVA (C-indexof0.776
 CausesofDCMcanbegeneticoracquired.639Geneticpredisposition [95% CI: 0.711–0.842]).80 In patients with a 5-year estimated risk
@@ -4316,14 +4315,14 @@ aetiology-orientedriskstratificationandtreatment.341,639 PES may determine the u
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 59 ---
+
 ESCGuidelines 4055
 Patient with DCM/HNDCM
 CMR (Class IIa)
@@ -4375,14 +4374,14 @@ AMIOVIRT, DEFINITE, COMPANION, and SCD-HeFT). The
 with DCM/HNDCM, OMT according to current 2021 ESC whereas SCD-HeFT and COMPANION were larger and
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 60 ---
+
 4056 ESCGuidelines
 ECG sinus rhythm – Small amplitude P waves and first degreeAV block
 I aVR V1 V4
@@ -4410,14 +4409,14 @@ Morerecently,theDANISHtrialenrolled1116symptomaticpatients monstratedareduction,
 reduction in the primary endpoint of all-cause death for patients singlestudyfromthepooledanalysis.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 61 ---
+
 ESCGuidelines 4057
 TheresultsoftheDANISHtrialemphasizetheneedforfurther ethanol ablation, bipolar ablation, surgical ablation) may be re-
 refiningtheindicationforprimarypreventionICDsincontempor- quired in patients with pathogenic mutations (LMNA gene) and
@@ -4499,14 +4498,14 @@ Epicardialablationisneededin27–30%oftheprocedures.497,664 evaluation.661,668
 Outcomeisparticularlypoor,andbailoutstrategies(transcoronary Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 62 ---
+
 4058 ESCGuidelines
 ARVC is characterized by a predominant RV involvement. The
 SecondarypreventionofSCDandtreatmentofVAs
@@ -4577,7 +4576,7 @@ death; SD, sudden death; SMVT,sustained monomorphic ventricular tachycardia; VA,
 ventriculararrhythmia;VF,ventricularfibrillation;VT,ventriculartachycardia. threateningevent.Thus,in3outof4ARVCpatients,ICDtherapy
 aClassofrecommendation. isappropriatebutmaynotbeconsideredacutelylife-saving.Thisis
 bLevelofevidence. relevant because risk prediction algorithms and models are based
-cBasedontheriskcalculatorhttps://lmna-risk-vta.fr/
+cBasedontheriskcalculator
 dSeespecificrecommendationsforLMNA. on combinedarrhythmic endpoints, which are often equated with
 ICD indications to prevent SCD. This is particularly important for
 7.1.3.2.Arrhythmogenicrightventricularcardiomyopathy the young ARVC patients with a lifetime risk of ICD-related
@@ -4599,14 +4598,14 @@ evaluationofrelatives. mic risk.675,704 Cut-off values are difficult to determin
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 63 ---
+
 ESCGuidelines 4059
 ECG sinus rhythm – NegativeT wavesV1-V4, terminal QRS duration >55 ms
 I aVR V1 V4
@@ -4635,14 +4634,14 @@ tion based on a single parameter does not consider the potential (c-index0.74).7
 combined effect and interactions between factors. Therefore, riskmodelscanberecommendedforclinicaluse.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 64 ---
+
 4060 ESCGuidelines
 7.1.3.2.2.Treatment. Upto97.4%ofallVAepisodesinARVCICD
 eitherNSVTorinducibilityofSMVTat
@@ -4725,14 +4724,14 @@ Continued dren,theprevalenceismuchlower.
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 65 ---
+
 ESCGuidelines 4061
 AnnualmortalityrelatedtoHCMis1–2%inmoststudieswith exerciseinHCMpatientswithoutriskmarkersmaynotbeasso-
 contemporary management strategies,128,715 and may be as low ciatedwithVA.733,734
@@ -4762,14 +4761,14 @@ magnetic resonance; ECG, electrocardiogram; LGE, late gadolinium enhancement; LV
 ventricular tachycardia.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 66 ---
+
 4062 ESCGuidelines
 DocumentedNSVTduringexercisetestisveryrare,butwasasso- RecommendationTable30—Recommendationsfor
 ciatedwithahigherriskofSCD.732Additionalriskfactorshavebeen risk stratification, sudden cardiac death prevention,
@@ -4778,7 +4777,7 @@ piccardiomyopathy
 factors(age,LVwallthickness,LAsize,LVOTgradient,NSVT,un-
 explainedsyncope,andfamilyhistoryofSCD)hasbeendeveloped85
 Recommendation Classa Levelb
-(HCMRisk-SCD:https://doc2do.com/hcm/webHCM.html)andex-
+(HCMRisk-SCD:
 ternallyvalidated.85,728,729Thecalculatorisnotintendedforusein Diagnosticevaluationandgeneralrecommendations
 eliteathletes,orinindividualswithmetabolicorinfiltrativediseases,
 CMRwithLGEisrecommendedinHCMpatients
@@ -4807,7 +4806,7 @@ recentdevelopmentofscoresandrelatedriskcalculators.83,84The riskofSD≥6%.c,85,7
 HCM Risk-Kids score84 has been developed and externally vali- ICDimplantationshouldbeconsideredinHCM
 dated742specificallyinchildrenwithHCM(1–16yearsofage)and patientsaged16yearsormorewithan
 includesunexplainedsyncope,maximalLVwallthickness,largeleft intermediate5-yearriskofSCD(≥4to,6%)c
-atrialdiameter,lowLVOTgradient,andNSVT(https://hcmriskkids. andwith(a)significantLGEatCMR(usually≥15%
+atrialdiameter,lowLVOTgradient,andNSVT( andwith(a)significantLGEatCMR(usually≥15%
 IIa B
 org).Incontrasttoadults,includingageandfamilyhistoryofSCD ofLVmass);or(b)LVEF,50%;or(c)abnormal
 didnotimprovetheperformanceofthepaediatricmodel.Patients bloodpressureresponseduringexercisetestd;or
@@ -4853,14 +4852,14 @@ not tolerated, as outcome after ablation is inferior compared to
 othernon-ischaemicaetiologies.752–754 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 67 ---
+
 ESCGuidelines 4063
 Catheterablationinspecializedcentresmaybe Heartfailureisoneoftheleadingsymptomsinprimaryandsecond-
 consideredinselectedpatientswithHCMand
@@ -4886,11 +4885,11 @@ teinsleadingtodepositsintissueandorgans.Cardiacamyloidosisis
 aClassofrecommendation.
 mainlyrelatedtolight-chainamyloidortransthyretinamyloid.The
 bLevelofevidence.
-cBasedontheHCMRisk-SCD:https://doc2do.com/hcm/webHCM.html lattercanbesubdividedintowild-type,alsocalledsenileamyloid,
+cBasedontheHCMRisk-SCD: lattercanbesubdividedintowild-type,alsocalledsenileamyloid,
 dDefinedasafailuretoincreasesystolicpressurebyatleast20mmHgfromresttopeak
 moreoftencomplicatedbyAVconductiondelayandatrialarrhyth-
 exercise,orafallof.20mmHgfrompeakpressure.
-mias, and amyloid due to pathogenic mutations in the TTR gene. eBasedontheHCMkidriskscore:https://hcmriskkids.org
+mias, and amyloid due to pathogenic mutations in the TTR gene. eBasedontheHCMkidriskscore:
 Diseasemanifestationdependsonthemutation.Despiteadvances
 inthetreatmentofamyloidlight-chainamyloidosis,outcomeisstill
 7.1.3.4.Leftventricularnon-compaction poor in patients with manifest cardiac involvement.762 Causes of
@@ -4946,14 +4945,14 @@ disease), the identification of which is crucial for guiding therapy. Mostofthes
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 68 ---
+
 4064 ESCGuidelines
 Patient with myotonic dystrophy
 Syncope or Aborted
@@ -5005,14 +5004,14 @@ Symptoms may be the result of bradycardia or tachyarrhyth- commended.153Followin
 mias and invasive electrophysiological evaluation is warranted block at follow-up is considered particularly high due to
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 69 ---
+
 ESCGuidelines 4065
 progressiveHis–Purkinjedisease,andapacemakershouldbeim-
 ICDimplantationisrecommendedinpatients
@@ -5110,14 +5109,14 @@ Continued
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 70 ---
+
 4066 ESCGuidelines
 7.1.4.Inflammatorycardiacdiseases DCM.795 Development of DCM has been observed in 21% of pa-
 Cardiac inflammation has been associated with altered myocardial tients with acute myocarditis over a mean follow-up period of 3
@@ -5207,14 +5206,14 @@ Myocarditis may resolve without sequelae, recur, or become
 chronic. Thus, myocarditis is often considered a precursor of Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 71 ---
+
 ESCGuidelines 4067
 Inpatientswithhaemodynamicallywell-tolerated whatever the LVEF, ICD should also be considered in patients with
 SMVToccurringinthechronicphaseof
@@ -5308,14 +5307,14 @@ vention of SCD in patients with LVEF ≤35%.812,830 In addition, Continued
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 72 ---
+
 4068 ESCGuidelines
 7.1.4.3.Chagas’cardiomyopathy
 SecondarypreventionofSCDandtreatmentofVAs
@@ -5378,14 +5377,14 @@ or≥22%oftheLVmasshasbeenassociatedwitharrhythmicendpoints.
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 73 ---
+
 ESCGuidelines 4069
 ECG sinus rhythm – Prominent R’wave inV1-V3a
 I aVR V1 V4
@@ -5409,14 +5408,14 @@ in both groups (9.7% and 9.6%, respectively).856 Another forms ofmyocarditis, th
 meta-analysisfounda4.7%annualincidenceofinappropriateshocks attheepicardiuminChagas’cardiomyopathy.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 74 ---
+
 4070 ESCGuidelines
 Recommendation Table 36 — Recommendations the LVEF remained ≤35% did not show survival benefit from
 for the treatment of ventricular arrhythmias in ICDimplantation,probablyrelatedtothehighcompetingriskof
@@ -5485,14 +5484,14 @@ retrospective analyses including a total of 203 patients in whom Continued
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 75 ---
+
 ESCGuidelines 4071
 Inpatientswithvalvularheartdiseaseand combinationofsurgicalincisions,myocardialscarandresidualornew
 persistentLVdysfunctionaftersurgical anatomicalabnormalitiesformthesubstrateforVAs(Figure26).
@@ -5552,14 +5551,14 @@ frompatientswithTOFandrelatedlesions.bInTOF,anti-arrhythmicdrugfailureisnotrequi
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 76 ---
+
 4072 ESCGuidelines
 InCHDpatientswithsustainedVAorCAsurvivors,acompre- InpatientswithCHDwithpresumedarrhythmic
 hensiveevaluationofincitingfactors,includingcardiacimaging(par- syncopeandwitheitheratleastmoderate
@@ -5640,14 +5639,14 @@ Continued Continued
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 77 ---
+
 ESCGuidelines 4073
 InpatientswithCHDandrecurrent,symptomatic Isoproterenol,verapamil,orquinidinehavebeenemployedforacute
 SMVTorICDshocksforSMVTnotmanageable treatment of recurrent ICD discharges or electrical
@@ -5741,14 +5740,14 @@ whereas 4.5–17.5% experienced inappropriate shocks.919–921
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 78 ---
+
 4074 ESCGuidelines
 Patient with idiopathic ventricular fibrillation
 ICD implantation
@@ -5795,14 +5794,14 @@ extra-cardiacmanifestation. pacingorventricularconductiondefects).Inthissetting,
 comprising: measuring the QT, the patient moving briskly from recumbent to
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 79 ---
+
 ESCGuidelines 4075
 ECG sinus rhythm – short-coupled PVCs
 Telemetry tracings – short-coupled PVC inducingVF
@@ -5823,14 +5822,14 @@ gers.941–943 Beta-blockers are also recommended in all LQTS Forexample,selecte
 patients. Non-selective beta-blockers nadolol and propranolol ing to mexiletine showed a distinctive electrophysiological profile
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 80 ---
+
 4076 ESCGuidelines
 Table 10 Modified long QT syndrome diagnostic Giventheuncertainroleofbeta-blockersinLQT3,therearenoin-
 score243
@@ -5884,14 +5883,14 @@ phenotypes.(B)ExampleofTorsade-de-pointesinamalepatientwithaSCN5A(c.1238C.A,p.A4
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 81 ---
+
 ESCGuidelines 4077
 A Brisk StandingTest
 Recumbent Standing
@@ -5946,14 +5945,14 @@ Continued
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 82 ---
+
 4078 ESCGuidelines
 LCSDisindicatedinpatientswithsymptomaticd ICDimplantationmaybeconsideredin
 LQTSwhen:(a)ICDtherapyiscontraindicatedor asymptomaticLQTSpatientswithhigh-risk
@@ -5972,7 +5971,7 @@ InLQTS,itshouldbeconsideredtocalculatethe cardiacdeath;VA,ventriculararrhythmia.
 arrhythmicriskbeforeinitiationoftherapybasedon IIa C
 aClassofrecommendation.
 bLevelofevidence.
-thegenotypeandthedurationofQTcinterval.940 chttp://www.crediblemeds.org
+thegenotypeandthedurationofQTcinterval.940 c
 dArrhythmicsyncopeorhaemodynamicallynon-toleratedVA.
 Continued
 Patient with long QT syndrome
@@ -6012,20 +6011,20 @@ declined or
 (ClassI) (Class I)
 recurrent ICD shocks
 Figure31AlgorithmforthemanagementofpatientswithlongQTsyndrome.ICD,implantablecardioverterdefibrillator;LCSD,leftcardiacsympa-
-theticdenervation;LQT,longQT;N,No;VA,ventriculararrhythmia;Y,Yes.aGeneralrecommendations:avoidanceofQT-prolongingdrugs(http://www.
+theticdenervation;LQT,longQT;N,No;VA,ventriculararrhythmia;Y,Yes.aGeneralrecommendations:avoidanceofQT-prolongingdrugs(
 crediblemeds.org),correctionofelectrolyteabnormalities(hypokalaemia,hypomagnesaemia,andhypocalcaemia),avoidanceofgenotype-specifictriggers
 forarrhythmias(strenuousswimminginLQT1,exposuretoloudnoisesinLQT2).bPreferredbeta-blockers:nadololandpropranolol.
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 83 ---
+
 ESCGuidelines 4079
 7.2.3.Andersen–TawilsyndromeType1 7.2.4.Brugadasyndrome
 Andersen–TawilsyndromeType1,alsoclassifiedasLQT7,isararedis- Thetype1BrugadaECGpatternischaracterizedbyJpointelevation
@@ -6108,14 +6107,14 @@ bLevelofevidence. controversial. A multicentre pooled analysis showed that
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 84 ---
+
 4080 ESCGuidelines
 A Brugada type 1 pattern ECG
 I aVR V1 V4
@@ -6163,14 +6162,14 @@ denceforablationinasymptomaticpatients.
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 85 ---
+
 ESCGuidelines 4081
 BrSmaybeconsideredasadiagnosisin 7.2.5.Earlyrepolarizationsyndromes
 patientswithnootherheartdiseasewho Early repolarization syndrome (ERS) is diagnosed in a patient
@@ -6195,7 +6194,7 @@ low.1023–1025
 (a) Avoidance of drugs that may induce
 High-risk ECG features have been proposed to increase likeli-
 ST-segmentelevationinrightprecordial I C hood of ERS: prominent J-waves ≥2mm, dynamic changes in
-leads(http://www.brugadadrugs.org). J-point elevation (.0.1mV) and J-waves associated with a hori-
+leads( J-point elevation (.0.1mV) and J-waves associated with a hori-
 (b) Avoidanceofcocaine,cannabis,andexcessive zontal or descending ST-segment (Figure 34).231,1026,1027 ERP
 alcoholintake.
 with a horizontal ST-segment was associated with arrhythmic
@@ -6259,14 +6258,14 @@ bLevelofevidence.
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 86 ---
+
 4082 ESCGuidelines
 Patient with ECG suspicious of Brugada Syndrome
 SustainedVVVA or
@@ -6306,14 +6305,14 @@ Caaatheterr ablaaation
 Figure33PartOne.AlgorithmforthemanagementofpatientswithBrugadapatternelectrocardiogram.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 87 ---
+
 ESCGuidelines 4083
 SustainedVVVA or abortedcardiac arrest
 Exclude alternative diagnoosis consistent with ECGa
@@ -6341,7 +6340,7 @@ Caatheter ablaaation
 Figure33PartTwo.AlgorithmforthemanagementofpatientswithBrugadapatternelectrocardiogram.BrS,Brugadasyndrome;CA,cardiacarrest;
 ECG,electrocardiogram;ICD,implantablecardioverterdefibrillator;ILR,implantablelooprecorder;N,No;SADS,suddenarrhythmicdeathsyndrome;
 VA,ventriculararrhythmia;Y,Yes.aEcho,CMR,cardiacCT,CAGindicatedaccordingtopatientclinicalpresentationandriskfactors.bGeneralrecom-
-mendations:avoidanceofdrugsthatmayinduceST-segmentationelevationinrightprecordialleads(http://www.brugadadrugs.org),avoidanceofcocaine
+mendations:avoidanceofdrugsthatmayinduceST-segmentationelevationinrightprecordialleads(
 andexcessivealcoholintake,treatmentoffeverwithantipyreticdrugs.
 RecommendationTable44—Recommendationsfor
 GenetictestinginERSpatientsmaybe
@@ -6374,14 +6373,14 @@ high-riskfeatures.c,1022,1037 additionalriskfeatures.d,1030,1033
 Continued Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 88 ---
+
 4084 ESCGuidelines
 ICDimplantationorquinidinemaybeconsideredin 7.2.6.Catecholaminergicpolymorphicventricular
 asymptomaticindividualswhodemonstrateahigh-risk tachycardia
@@ -6449,14 +6448,14 @@ highriskfeatures:Jwaves.2mm,dynamicchangesinSTmorphology.
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 89 ---
+
 ESCGuidelines 4085
 Patient with CPVT
 Arrhythmic syncope or Asymptomatic,, no documented
@@ -6500,14 +6499,14 @@ CPVTpatientsandshouldbeconsideredinadditiontobeta-blockers withanICD.1058Atprese
 when control of arrhythmias is incomplete.1051–1053 In selected dence,todemoteICDimplantinsurvivorsofCAwithCPVT.1057
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 90 ---
+
 4086 ESCGuidelines
 Bidirectional PVCs during exercise
 II
@@ -6556,14 +6555,14 @@ Continued with gain of function mutations in KCNH2, KCNQ1 and loss of
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 91 ---
+
 ESCGuidelines 4087
 Short QT syndrome
 Figure37ShortQTsyndrome.
@@ -6616,14 +6615,14 @@ Continued bLevelofevidence.
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 92 ---
+
 4088 ESCGuidelines
 8. Special aspects in selected InLQTS(LQT2inparticular),riskofcardiaceventsincreasessub-
 stantially in the post-partum period (up to one year after deliv-
@@ -6703,14 +6702,14 @@ aClassofrecommendation.
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 93 ---
+
 ESCGuidelines 4089
 8.2. Heart transplantation it is unfeasible as a routine test in mass screening. More cardio-
 PatientslistedforHTXareexposedtoanSCDriskandhaveahigh vascular diseases are identified by serial (annual) evaluations of
@@ -6793,14 +6792,14 @@ cardiography can increase the sensitivity of screening for SHD, bLevelofevidence
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 94 ---
+
 4090 ESCGuidelines
 8.4. Wolff–Parkinson–White syndrome RecommendationTable50—Recommendationsfor
 In patients with Wolff–Parkinson–White (WPW) syndrome, the
@@ -6877,14 +6876,14 @@ overallconditionandcomorbidities. whichmaynotnecessarilybeclassifiedaslifesaving
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 95 ---
+
 ESCGuidelines 4091
 (cid:129) Avalidatedriskcalculator(HCMRisk-Kidsscore)isusefultoassess 10.3. Idiopathic premature ventricular
 theriskforSCDinHCMpatientsyoungerthan16years. complexes/ventricular tachycardia
@@ -6944,14 +6943,14 @@ supported by current-generation, continuous-flow LVADs is (cid:129) Moredataarer
 unclear. high-riskLQTSpatientswhodonottoleratemedicaltherapy.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 96 ---
+
 4092 ESCGuidelines
 (cid:129) Improveddiagnosticandriskstratificationtoolsforasymptomatic (cid:129) Long-termdataarerequiredontheefficacyoftheICDvs.noICD
 Brugadapatientsandsuspectedearlyrepolarizationsyndromeare inCPVTsurvivorsofcardiacarrest.
@@ -7013,14 +7012,14 @@ I B
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 97 ---
+
 ESCGuidelines 4093
 Recommendationsforevaluationofsuddendeathvictims
 InvestigationofunexpectedSD,especiallyincaseofsuspicionofinheriteddisease,shouldbemadeapublichealthpriority.
@@ -7090,14 +7089,14 @@ patientswithSHDandelectricalstormunlesscontraindicated.
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 98 ---
+
 4094 ESCGuidelines
 IntravenousmagnesiumwithsupplementationofpotassiumisrecommendedinpatientswithTdP.
 I C
@@ -7159,14 +7158,14 @@ discussquality-of-lifeissuesbeforeICDimplantationandduringdiseaseprogression.
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 99 ---
+
 ESCGuidelines 4095
 Recommendationsforpreventionofimplantablecardioverterdefibrillatorcomplications
 Single-chamberICDisrecommendedoverdual-chamberICDinprimarypreventionpatientswithoutcurrentorexpectedindication
@@ -7235,14 +7234,14 @@ recommended.
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 100 ---
+
 4096 ESCGuidelines
 Recommendationsforriskstratification,suddencardiacdeathprevention,andtreatmentofventriculararrhythmiaindilated
 cardiomyopathy/hypokineticnon-dilatedcardiomyopathy
@@ -7308,14 +7307,14 @@ I C
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 101 ---
+
 ESCGuidelines 4097
 Recommendationsforsuddencardiacdeathprevention,andtreatmentofventriculararrhythmiainmyocarditis
 Inconfirmedorclinicallysuspectedacutemyocarditis,itisrecommendedthatpatientswhopresentwithlife-threateningVAare
@@ -7381,14 +7380,14 @@ therapies.
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 102 ---
+
 4098 ESCGuidelines
 LCSDisindicatedinpatientswithsymptomaticgLQTSwhen:(a)ICDtherapyiscontraindicatedordeclined;(b)patientison
 I C
@@ -7410,7 +7409,7 @@ GenetictestingforSCN5AgeneisrecommendedforprobandswithBrS. I C
 SodiumchannelblockertestisnotrecommendedinpatientswithapriortypeIBrugadapattern.
 III C
 ThefollowingisrecommendedinallpatientswithBrS:
-(a) AvoidanceofdrugsthatmayinduceST-segmentelevationinrightprecordialleads(http://www.brugadadrugs.org).
+(a) AvoidanceofdrugsthatmayinduceST-segmentelevationinrightprecordialleads(
 I C
 (b) Avoidanceofcocaine,cannabis,andexcessivealcoholintake.
 (c) Treatmentoffeverwithantipyreticdrugs.
@@ -7449,14 +7448,14 @@ III C
 Continued
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 103 ---
+
 ESCGuidelines 4099
 RecommendationsformanagementofpatientswithshortQTsyndrome
 ItisrecommendedthatSQTSisdiagnosedinthepresenceofaQTc≤360msandoneormoreofthefollowing:(a)apathogenic
@@ -7501,7 +7500,7 @@ bLevelofevidence.
 cShoppingmalls,stadiums,publictransportstations,casinos.
 dListnotexhaustive.
 eLOECforVT/PVCsfromleftfascicles.
-fhttp://www.crediblemeds.org
+f
 gArrhythmicsyncopeorhaemodynamicallynon-toleratedVA
 12. Quality indicators Association. These QIs, alongside their specifications and develop-
 mentprocess,willbepublishedseparately.
@@ -7526,14 +7525,14 @@ ation with domain experts and the European Heart Rhythm Leiden, Netherlands; Bo 
 2202CSE©
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 104 ---
+
 4100 ESCGuidelines
 Rigshospitalet, Copenhagen, Denmark, European Reference and DZHKPartnersite Berlin, Charité,Berlin, Germany; Christian
 Networks for rare, low prevalence and complex diseases of the Sticherling, Department of Cardiology, University Hospital Basel,
@@ -7594,14 +7593,14 @@ Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany: German
 Germany, Cardiology, Helios Clinics Berlin-Buch, Berlin, Germany, Hellenic Society of Cardiology, Konstantinos Gatzoulis; Hungary:
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 105 ---
+
 ESCGuidelines 4101
 Hungarian Society of Cardiology, László Gellér; Iceland: Icelandic 2.GliksonM,NielsenJC,KronborgMB,MichowitzY,AuricchioA,BarbashIM,etal.
 SocietyofCardiology,DavidO.Arnar;Ireland:IrishCardiacSociety, 2021ESCGuidelinesoncardiacpacingandcardiacresynchronizationtherapy.Eur
@@ -7697,14 +7696,14 @@ Guidelinesforthediagnosisandmanagementofsyncope.EurHeartJ2018;39: trends and sex
 1883–1948. HeartStudy.Heart2021;107:1303–1309.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 106 ---
+
 4102 ESCGuidelines
 25. WinkelBG,HolstAG,TheiladeJ,KristensenIB,ThomsenJL,OttesenGL,etal. 50.Albert CM, Mittleman MA, Chae CU, Lee IM, Hennekens CH, Manson JE.
 Nationwidestudyofsuddencardiacdeathinpersonsaged1–35years.EurHeart Triggeringofsuddendeathfromcardiaccausesbyvigorousexertion.NEnglJ
@@ -7806,14 +7805,14 @@ Circulation2009;119:1085–1092. tricheterogeneityriskscoreforpredictionofsudden
 screening?CurrOpinCardiol2012;27:41–48. Health(CHS)studies.Circulation2016;133:2222–2234.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 107 ---
+
 ESCGuidelines 4103
 74.YoshinagaM,UshinohamaH,SatoS,TauchiN,HorigomeH,TakahashiH,etal. Support training in France: further needs for coordinated implementation.
 Electrocardiographicscreeningof1-month-oldinfantsforidentifyingprolonged Resuscitation2017;118:49–54.
@@ -7891,14 +7890,14 @@ EurHeartJ2013;34:3632–3640. exercisetestingcanunmaskarrhythmiasinpatientswithi
 regionaldifferencesinAutomatedExternalDefibrillatorplacementandBasicLife 2021;7:437–441.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 108 ---
+
 4104 ESCGuidelines
 119. SyRW,vanderWerfC,ChatthaIS,ChockalingamP,AdlerA,HealeyJS,etal. 142. SuedaS,KohnoH,OchiT,UraokaT.Overviewoftheacetylcholinespasmprovo-
 Derivationandvalidationofasimpleexercise-basedalgorithmforpredictionof cationtest.ClinCardiol2015;38:430–438.
@@ -7977,14 +7976,14 @@ den death: fromthe cardiac arrest survivors with preservedEjection Fraction 163.
 Registry.CircArrhythmElectrophysiol2012;5:933–940. 2013;10:571–583.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 109 ---
+
 ESCGuidelines 4105
 164.HosseiniSM,KimR,UdupaS,CostainG,JoblingR,ListonE,etal.Reappraisalof 187. BelhassenB,ViskinS.Idiopathicventriculartachycardiaandfibrillation.JCardiovasc
 reportedgenesforsuddenarrhythmicdeath:evidence-basedevaluationofgene Electrophysiol1993;4:356–368.
@@ -8091,14 +8090,14 @@ itiatedbyprematureextrasystolesoriginatingfromtherightventricularoutflow 210. Kh
 tract.JAmCollCardiol2005;46:1288–1294. onary angiography in patients resuscitated from out of hospital cardiac arrest
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 110 ---
+
 4106 ESCGuidelines
 withoutST-segmentelevation:asystematicreviewandmeta-analysis.Resuscitation 232. AdlerA,vanderWerfC,PostemaPG,RossoR,BhuiyanZA,KalmanJM,etal.The
 2017;121:127–134. phenomenonof‘QTstunning’:theabnormalQTprolongationprovokedbystand-
@@ -8192,14 +8191,14 @@ J-Wavesyndromesexpertconsensusconferencereport:emergingconceptsand aftercardiaca
 gapsinknowledge.Europace2017;19:665–694. 2020;142:2002–2012.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 111 ---
+
 ESCGuidelines 4107
 256.DeschS,FreundA,AkinI,BehnesM,PreuschMR,ZelnikerTA,etal.Angiography 280. MellorG,RajuH,deNoronhaSV,PapadakisM,SharmaS,BehrER,etal.Clinical
 afterout-of-hospitalcardiacarrestwithoutST-segmentelevation.NEnglJMed characteristicsandcircumstancesofdeathinthesuddenarrhythmicdeathsyn-
@@ -8300,14 +8299,14 @@ Family-basedcardiacscreeninginrelativesofvictimsofsuddenarrhythmicdeath 303. Ort
 syndrome.Europace2013;15:1050–1058. Randomizedcomparisonofintravenousprocainamidevs.intravenousamiodarone
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 112 ---
+
 4108 ESCGuidelines
 fortheacutetreatmentoftoleratedwideQRStachycardia:thePROCAMIOstudy. 327. DoDH,BradfieldJ,AjijolaOA,VaseghiM,LeJ,RahmanS,etal.Thoracicepidural
 EurHeartJ2017;38:1329–1335. anesthesiacanbeeffectivefortheshort-termmanagementofventriculartachycar-
@@ -8402,14 +8401,14 @@ ganglionblockadeforthetreatmentofrefractoryventriculararrhythmias:asys- opedinco
 tematicreviewandmeta-analysis.JCardiovascElectrophysiol2017;28:1460–1467. (EACTS):Thetaskforceforthediagnosisandmanagementofatrialfibrillationof
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 113 ---
+
 ESCGuidelines 4109
 theEuropeanSocietyofCardiology(ESC)Developedwiththespecialcontribution 370. MasriA,AltibiAM,ErqouS,ZmailiMA,SalehA,Al-AdhamR,etal.Wearable
 oftheEuropeanHeartRhythmAssociation(EHRA)oftheESC.EurHeartJ2021; cardioverter-defibrillatortherapyforthepreventionofsuddencardiacdeath:asys-
@@ -8514,14 +8513,14 @@ Cardiac-resynchronizationtherapyforthepreventionofheart-failureevents.N ventionp
 EnglJMed2009;361:1329–1338. 143:7–17.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 114 ---
+
 4110 ESCGuidelines
 391. WathenMS,DeGrootPJ,SweeneyMO,StarkAJ,OtternessMF,AdkissonWO, 411. BergSK,ThygesenLC,SvendsenJH,ChristensenAV,ZwislerA-D.Anxietypre-
 etal.Prospectiverandomizedmulticentertrialofempiricalantitachycardiapacing dicts mortality in ICD patients: results from the cross-sectional national
@@ -8622,14 +8621,14 @@ fibrillator:7years’follow-upoftheMIDAScohort.GenHospPsychiatry2020;66: etal.20
 154–160. EurJCardiothoracSurg56:230–270.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 115 ---
+
 ESCGuidelines 4111
 431.MakkiN,MesubiO,SteyersC,OlshanskyB,AbrahamWT.Meta-analysisofthe 451. EpsteinLM,LoveCJ,WilkoffBL,ChungMK,HacklerJW,BongiorniMG,etal.
 relationofventriculararrhythmiastoall-causemortalityafterimplantationofa Superiorvenacavadefibrillatorcoilsmaketransvenousleadextractionmorechal-
@@ -8732,14 +8731,14 @@ cardioverter-defibrillatorsreallybetterthansingle-chamberones?Asystematicre- tac
 viewandmeta-analysis.JIntervCardElectrophysiol2014;39:273–280. 375:111–121.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 116 ---
+
 4112 ESCGuidelines
 472. PicciniJP,BergerJS,O’ConnorCM.Amiodaroneforthepreventionofsuddencar- 495. BhaskaranA,TungR,StevensonWG,KumarS.CatheterablationofVTinnon-
 diacdeath:ameta-analysisofrandomizedcontrolledtrials.EurHeartJ2009;30: ischaemiccardiomyopathies:endocardial,epicardial andintramuralapproaches.
@@ -8818,14 +8817,14 @@ chemiccardiomyopathies:detailedcharacterizationbyentrainment.CircArrhythm 518. G
 Electrophysiol2019;12:e007249. Electrophysiol2019;5:1363–1383.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 117 ---
+
 ESCGuidelines 4113
 519.PeichlP,WichterleD,PavluL,CihakR,AldhoonB,KautznerJ.Complicationsof 544. DemirelF,RasoulS,ElvanA,OttervangerJP,DambrinkJ-HE,GosselinkATM,etal.
 catheter ablation of ventricular tachycardia: a single-center experience. Circ Impactofout-of-hospitalcardiacarrestduetoventricularfibrillationinpatients
@@ -8904,14 +8903,14 @@ Outcomeofcontemporaryacutecoronarysyndromecomplicatedbyventricular Suddendeathin
 tachyarrhythmias.Europace2016;18:219–226. heartfailure,orboth.NEnglJMed2005;352:2581–2588.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 118 ---
+
 4114 ESCGuidelines
 566. BuskM,MaengM,KristensenSD,ThuesenL,KrusellLR,MortensenLS,etal. 587. JegatheeswaranA,DevlinPJ,McCrindleBW,WilliamsWG,JacobsML,Blackstone
 Timing, causes, and predictors of death after three years’ follow-up in the EH,etal.Featuresassociatedwithmyocardialischemiainanomalousaorticorigin
@@ -9012,14 +9011,14 @@ outcomeandimpactofsurgeryonadultswithcoronaryarteriesoriginatingfrom contraction
 theoppositecoronarycusp.Circulation2011;123:154–162. sumedidiopathicdilatedcardiomyopathy.MayoClinProc1998;73:430–433.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 119 ---
+
 ESCGuidelines 4115
 608.ChughSS,ShenWK,LuriaDM,SmithHC.Firstevidenceofprematureventricular with an increased risk of dilated cardiomyopathy caused by a Nav1.5
 complex-inducedcardiomyopathy:apotentiallyreversiblecauseofheartfailure.J gain-of-functionmutation(G213D).IntJCardiol2018;257:160–167.
@@ -9120,14 +9119,14 @@ channelopathy.JAmCollCardiol2012;60:144–156. 651. KlemI,KleinM,KhanM,YangEY,Na
 AngelesTejadaM,etal.Multifocalatrialandventricularprematurecontractions ischemiccardiomyopathy.Circulation2021;143:1343–1358.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 120 ---
+
 4116 ESCGuidelines
 652. vanRijsingenIAW,ArbustiniE,ElliottPM,MogensenJ,Hermans-vanAstJF,vander 675. ChivulescuM,LieØH,PopescuBA,SkulstadH,EdvardsenT,JurcutRO,etal.High
 KooiAJ,etal.Riskfactorsformalignantventriculararrhythmiasinlamina/cmuta- penetranceandsimilardiseaseprogressioninprobandsandinfamilymemberswith
@@ -9226,14 +9225,14 @@ Approachtofamilyscreeninginarrhythmogenicrightventriculardysplasia/cardio- 696. 
 myopathy.EurHeartJ2016;37:755–763. implantable defibrillator in patients with arrhythmogenic right ventricular
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 121 ---
+
 ESCGuidelines 4117
 cardiomyopathy/dysplasiaandnopriorventricularfibrillationorsustainedven- 716. ChanRH,MaronBJ,OlivottoI,PencinaMJ,AssenzaGE,HaasT,etal.Prognostic
 triculartachycardia.Circulation2010;122:1144–1152. valueofquantitativecontrast-enhancedcardiovascularmagneticresonanceforthe
@@ -9334,14 +9333,14 @@ American Heart Association Joint Committee on Clinical Practice Guidelines. Pros
 Circulation2020;142:e533–e557. inpatientswithhypertrophiccardiomyopathy.Circulation1997;96:2987–2991.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 122 ---
+
 4118 ESCGuidelines
 739. ElliottPM,PolonieckiJ,DickieS,SharmaS,MonserratL,VarnavaA,etal.Sudden 762. SperryBW,IkramA,HachamovitchR,ValentJ,VranianMN,PhelanD,etal.Efficacy
 deathinhypertrophiccardiomyopathy:identificationofhighriskpatients.JAmColl ofchemotherapyforlight-chainamyloidosisinpatientspresentingwithsymptom-
@@ -9418,14 +9417,14 @@ miaandsuddencardiacdeathinFabrydisease:asystematicreviewofriskfactorsin usingper
 clinicalpractice.Europace2018;20:f153–f161. portfromascientificcommittee).CircJ2002;66:133–144.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 123 ---
+
 ESCGuidelines 4119
 786.ShahZ,MohammedM,VuddandaV,AnsariMW,MasoomiR,GuptaK.National 810. BirnieDH,KandolinR,NeryPB,KupariM.Cardiacmanifestationsofsarcoidosis:
 trends,gender,management,andoutcomesofpatientshospitalizedformyocardi- diagnosisandmanagement.EurHeartJ2016;38:2663–2670.
@@ -9524,14 +9523,14 @@ expertconsensusstatementonthediagnosisandmanagementofarrhythmiasas- sarcoidosis:
 sociatedwithcardiacsarcoidosis.HeartRhythm2014;11:1304–1323. coidosis.SarcoidosisVascDiffuseLungDis2020;37:17–23.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 124 ---
+
 4120 ESCGuidelines
 833. SmedemaJ-P,vanGeunsR-J,EctorJ,HeidbuchelH,AinslieG,CrijnsHJGM.Right 857. SteinC,MigliavacaCB,ColpaniV,daRosaPR,SganzerlaD,GiordaniNE,etal.
 ventricularinvolvementandtheextentofleftventricularenhancementwithmag- Amiodaroneforarrhythmiainpatientswithchagasdisease:asystematicreview
@@ -9610,14 +9609,14 @@ Implantablecardioverter-defibrillatorinchagasheartdisease:asystematicreview tach
 andmeta-analysisofobservationalstudies.IntJCardiol2018;267:88–93. byvalvesurgery.Circulation1997;96:4307–4313.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 125 ---
+
 ESCGuidelines 4121
 882.MoonsP,BovijnL,BudtsW,BelmansA,GewilligM.Temporaltrendsinsurvivalto 904. KhairyP,HarrisL,LandzbergMJ,ViswanathanS,BarlowA,GatzoulisMA,etal.
 adulthoodamongpatientsbornwithcongenitalheartdiseasefrom1970to1992in Implantablecardioverter-defibrillatorsintetralogyofFallot.Circulation2008;117:
@@ -9717,14 +9716,14 @@ ciatedwithappropriateimplantablecardiovertertherapyintetralogyofFallot.IntJ 925.
 Cardiol2013;167:1532–1535. 661–671.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 126 ---
+
 4122 ESCGuidelines
 926. Belhassen B, Viskin S, Fish R, Glick A, Setbon I, Eldar M. Effects of 951. PrioriSG,NapolitanoC,SchwartzPJ,BloiseR,CrottiL,RonchettiE.Theelusive
 electrophysiologic-guidedtherapywithClassIAantiarrhythmicdrugsonthelong- link between LQT3 and Brugada syndrome: the role of flecainide challenge.
@@ -9822,14 +9821,14 @@ Predictingpatientresponsetotheantiarrhythmicmexiletinebasedongeneticvari- HeartR
 ation.CircRes2019;124:539–552. 2005;111:659–670.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 127 ---
+
 ESCGuidelines 4123
 974.SavastanoS,RordorfR,VicentiniA,PetracciB,TaravelliE,CastellettiS,etal.A Brugada syndrome at low risk of sudden cardiac death. Cardiology 2020;145:
 comprehensiveelectrocardiographic,molecular,andechocardiographicstudyof 413–420.
@@ -9932,14 +9931,14 @@ rhythmia.Europace2012;14:898–902. 1020. TikkanenJT,Anttonen O,JunttilaMJ, Aro 
 et al. Outcome of insertable cardiac monitors in symptomatic patients with NEnglJMed2009;361:2529–2537.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 128 ---
+
 4124 ESCGuidelines
 1021. Sinner MF, Reinhard W, Müller M, Beckmann B-M, Martens E, Perz S, et al. 1045. PrioriSG,NapolitanoC,MemmiM,ColombiB,DragoF,GaspariniM,etal.
 AssociationofearlyrepolarizationpatternonECGwithriskofcardiacandall- Clinicalandmolecularcharacterizationofpatientswithcatecholaminergicpoly-
@@ -10045,14 +10044,14 @@ variabilityinpatientscarryingKCNJ2mutations.CircCardiovascGenet2012;5: Long-term
 344–353. 2011;58:587–595.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 129 ---
+
 ESCGuidelines 4125
 1069.El-BattrawyI,BeslerJ,LiebeV,SchimpfR,TülümenE,RudicB,etal.Long-term 1093. European Society of Gynecology (ESG), Association for European Paediatric
 follow-upofpatientswithshortQTsyndrome:clinicalprofileandoutcome.J Cardiology (AEPC), German Society for Gender Medicine (DGesGM),
@@ -10133,14 +10132,14 @@ arrestinpregnancy:ascientificstatementfromtheAmericanheartassociation. 1117. Esk
 Circulation2015;132:1747–1773. post-cardiactransplantpatients.CurrOpinCardiol2020;35:308–311.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on
 22
 January
 2026
---- Страница 130 ---
+
 4126 ESCGuidelines
 1118. TsaiVW,CooperJ,GaranH,NataleA,PtaszekLM,EllinorPT,etal.Theefficacy stand from the European Association of Cardiovascular Prevention and
 ofimplantablecardioverter-defibrillatorsinhearttransplantrecipients:results Rehabilitation (EACPR), section of Sports Cardiology. Eur Heart J 2011;32:
@@ -10234,7 +10233,7 @@ DivisionIIandIIIuniversities.BrJSportsMed2011;45:1174–1178. 948–957.
 Consensusdocumentregardingcardiovascularsafetyatsportsarenas:position 8yearsintoglobalpayment.NEnglJMed2019;381:252–263.
 Downloaded
 from
-https://academic.oup.com/eurheartj/article/43/40/3997/6675633
+
 by
 guest
 on

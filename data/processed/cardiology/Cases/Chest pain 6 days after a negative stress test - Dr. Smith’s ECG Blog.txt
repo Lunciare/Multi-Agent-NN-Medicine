@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Steve Smith onAugust 1, 2025
 Chest pain 6 days after a
 negative stress test
@@ -29,7 +30,7 @@ What do you think?
 This ECG was triaged as “No STEMI” and the patient was
 placed in a room. The patientʼs doctor recognized the ECG as
 
-https://drsmithsecgblog.com/case-from-cody-pinnow/ 1/14
+ 1/14
 being concerning for OMI, most notably a hyperacute T wave
 in V2, less so in V3 and V4.
 Smith: there may be the beginnings of reperfusion: you can
@@ -40,7 +41,7 @@ agrees.
 New PMcardio for Individuals App 3.0 now includes
 the latest Queen of Hearts model and AI explainability (blue
 heatmaps)! Download now for iOS or Android.
-https://www.powerfulmedical.com/pmcardio-individuals/
+
 On evaluation, the patient had continued 8/10 pain. The
 patient was loaded with aspirin and given sublingual
 nitroglycerin. With improving pain, a repeat ECG was obtained
@@ -51,7 +52,7 @@ consistent with the patientʼs history of improving ACS
 symptoms.
 The Queen again recognizes this as high confidence OMI,
 without having any information on the patientʼs pain.
-https://drsmithsecgblog.com/case-from-cody-pinnow/ 2/14
+ 2/14
 Smith: this version of the Queen diagnoses “OMI” if there is
 either an “Active” OMI or a “Reperfused” OMI.
 We have a more up-to-date algorithm (not publicly available)
@@ -78,7 +79,7 @@ Imaging Test. Academic Emergency Medicine 2005;
 2. Walker J, Galuska M, Vega D. Coronary disease in
 emergency department chest pain patients with recent
 negative stress testing. West J Emerg Med. 2010
-https://drsmithsecgblog.com/case-from-cody-pinnow/ 3/14
+ 3/14
 Sep;11(4):384-8. Erratum in: West J Emerg Med. 2018
 Nov;19(6):1065. doi: 10.5811/westjem.2018.10.41206.
 PMID: 21079714; PMCID: PMC2967694.
@@ -91,7 +92,7 @@ PMID
 there a warranty?
 1. Ann Emerg Med 2004;44(4, Supplement):S47.
 2. Available from:
-https://www.sciencedirect.com/science/article/pii/S019606440400876
+
 Stress tests have bad sensitivity for obstructive
 CAD, as low as 45%:
 1. Froelicher VF, Lehmann KG, Thomas R, et al. The
@@ -104,7 +105,7 @@ Testing and Angiography. Ann Intern Med. 1998;128:(12
 Pt 1)965-74
 An excellent review of the pitfalls and weaknesses of stress
 tests from an emergency department perspective:
-https://first10em.com/stress-test-accuracy/
+
 Back to the Case:
 The patientʼs primary cardiologist recommended obtaining a
 troponin to help decide on catheterization “as the initial ECG
@@ -121,7 +122,7 @@ Peak Troponin was not measured.
 Cardiothoracic surgery was consulted and the patient
 successfully underwent CABG x4 the following day. The
 troponin was not trended further. Patientʼs hospital course
-https://drsmithsecgblog.com/case-from-cody-pinnow/ 4/14
+ 4/14
 was complicated by atrial fibrillation and volume overload,
 however he is now doing well.
 An ECG several months later for comparison makes the
@@ -148,7 +149,7 @@ performed and taught residents and my colleague family
 physicians nationally how to perform stress testing over a
 period of decades — Iʼll add the following perspective
 regarding the use of “stress testing”.
-https://drsmithsecgblog.com/case-from-cody-pinnow/ 5/14
+ 5/14
 Detail #1: There are many different kinds of “stress
 tests” that might have been performed — so decision-
 making will clearly depend on the specific type of stress
@@ -195,7 +196,7 @@ Disposition: At this point — Cardiology recommended
 obtaining a Troponin “to help decide on
 catheterization” — as theinitialECGwas“relatively
 unremarkable”.
-https://drsmithsecgblog.com/case-from-cody-pinnow/ 6/14
+ 6/14
 What additional details should be noted in the interpretation
 of ECGs #1 and #2?
 How should these details have influenced management
@@ -223,7 +224,7 @@ flattening in lead V6) — and, ii) Terminal T wave
 inversion (BLUE arrows in leads III,aVF; V4,V5).
 Impression: Given the history — ECG #1 is diagnostic of
 an acute OMI, with clear ST-T wave abnormalities in at
-https://drsmithsecgblog.com/case-from-cody-pinnow/ 7/14
+ 7/14
 least 7/12 leads. The terminalT wave inversion that is
 seen in 5 leads suggests there has been some degree
 of spontaneous reperfusion of the “culprit” artery. But
@@ -270,7 +271,7 @@ showing ST-T wave changes
 of spontaneous reperfusion in 10/12 leads.
 Learning Point: It should not be surprising that when
 cardiac cath was finally performed (4 hours after the
-https://drsmithsecgblog.com/case-from-cody-pinnow/ 8/14
+ 8/14
 initial ECG) — that this patient did not have a “culprit”
 lesion identified on cath. Thatʼs because the reason the
 patient was completely pain-free at the time cath was

@@ -11,7 +11,6 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 HeartFlow FFRCT for
 estimating fractional flow
 reserve from coronary CT
@@ -20,9 +19,7 @@ HealthTech guidance
 Published: 13 February 2017
 Last updated: 19 May 2021
 www.nice.org.uk/guidance/htg429
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
-conditions#notice-of-rights).
---- Страница 2 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 Your responsibility
@@ -45,31 +42,10 @@ authorise and monitor the introduction of new devices and procedures.
 Commissioners and providers have a responsibility to promote an environmentally
 sustainable health and care system and should assess and reduce the environmental
 impact of implementing NICE recommendations wherever possible.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
-conditions#notice-of-rights). 30
---- Страница 3 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
-Contents
-1 Recommendations ................................................................................................................ 4
-2 The technology ..................................................................................................................... 5
-Description of the technology ......................................................................................................... 5
-Current management ........................................................................................................................ 7
-3 Clinical evidence .................................................................................................................. 8
-Summary of diagnostic accuracy evidence .................................................................................... 8
-Summary of clinical-effectiveness evidence .................................................................................. 12
-4 NHS considerations ............................................................................................................. 20
-System impact ................................................................................................................................... 20
-5 Cost considerations ............................................................................................................. 23
-Cost evidence .................................................................................................................................... 23
-6 Conclusions .......................................................................................................................... 28
-7 Committee members and NICE project team .................................................................... 29
-Committee members ........................................................................................................................ 29
-NICE project team ............................................................................................................................. 29
-Update information ................................................................................................................. 30
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
-conditions#notice-of-rights). 30
---- Страница 4 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 This guidance replaces MTG32.
@@ -92,9 +68,7 @@ CT
 patient [2021]. By adopting this technology, the NHS in England may save a
 minimum of £9.4 million by 2022 through avoiding invasive investigation and
 treatment [2021].
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
-conditions#notice-of-rights). 30
---- Страница 5 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 2 The technology
@@ -131,9 +105,7 @@ a coronary stent, coronary bypass surgery or myocardial infarction in the past
 month.
 2.4 The company first received a CE mark in July 2011, covering all 1.X versions of the
 technology, including the current version, 1.7.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
-conditions#notice-of-rights). 30
---- Страница 6 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 2.5 HeartFlow FFR costs £700 per test. A higher price of £888 is used in the
@@ -168,9 +140,7 @@ coronary artery lesions that cause ischaemia.
 • It avoids staff and procedure costs for unnecessary interventions (such as
 angioplasty).
 • It provides a more effective use of high-cost invasive procedure suites,
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
-conditions#notice-of-rights). 30
---- Страница 7 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 providing the opportunity to reduce waiting times for these facilities and
@@ -200,9 +170,7 @@ Although the NICE guideline on chest pain does not consider FFR, other
 guidelines (such as those of the European Society of Cardiology and American
 College of Cardiology) state that lesions with an FFR of 0.80 or less are
 functionally significant and revascularisation may be considered.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
-conditions#notice-of-rights). 30
---- Страница 8 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 3 Clinical evidence
@@ -232,9 +200,7 @@ CT
 • single-photon emission CT (SPECT)
 • stress echocardiogram (ECHO)
 • magnetic resonance imaging (MRI)
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
-conditions#notice-of-rights). 30
---- Страница 9 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 • coronary CT angiography (CCTA).
@@ -275,9 +241,7 @@ measured in all vessels (n=484). The study reported the diagnostic performance
 of HeartFlow FFR and CCTA for diagnosing ischaemia compared with FFR
 CT
 measured during ICA as the reference standard. The diagnostic accuracy of each
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
-conditions#notice-of-rights). 30
---- Страница 10 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 test was presented on a per-patient and a per-vessel basis compared with the
@@ -320,9 +284,7 @@ treatment decisions were based on both ICA and FFR.
 HeartFlow FFR and its comparators at both per-vessel and per-patient levels,
 CT
 as shown in table 1. When there was more than 1 diagnostic accuracy study
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
-conditions#notice-of-rights). 30
---- Страница 11 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 available, the EAC conducted a meta-analysis.
@@ -373,9 +335,7 @@ Vessel CCTA 4.15 0.19
 1,645 0.81 to 0.73 to
 based (4 studies) 2.38 to 7.23 0.12 to 0.32
 0.89 0.77
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
-conditions#notice-of-rights). 30
---- Страница 12 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 Type of Positive Negative
@@ -417,9 +377,7 @@ HeartFlow FFR , 1 published (Guar et al. 2014) and 4 unpublished (PLATFORM,
 CT
 Radiation FFR , Real World Usage FFR and FFR RIPCORD).
 CT CT CT
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
-conditions#notice-of-rights). 30
---- Страница 13 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 3.10 The EAC included extra intervention and comparator keywords and identified
@@ -466,9 +424,7 @@ CT
 relevant to the decision problem because it provides further evidence on a
 diagnostic pathway based on CCTA. Patients with a mean pre-test likelihood of
 coronary artery disease of 53.3% plus or minus 21.4% were randomly assigned to
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
-conditions#notice-of-rights). 30
---- Страница 14 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 either CCTA or functional imaging as a first-line diagnostic test. The composite
@@ -507,9 +463,7 @@ CT
 with serial lesions. The authors investigated patients (n=18 patients and
 18 vessels) with stable angina and clinically suspected coronary artery disease.
 There was no clinical follow-up. The primary outcome was the per-segment
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
-conditions#notice-of-rights). 30
---- Страница 15 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 correlation between FFR and invasive FFR values, expressed as translesional
@@ -557,9 +511,7 @@ study included 584 patients recruited at 11 international centres. They were
 prospectively assigned to have either functional imaging (n=287) or CCTA/FFR
 CT
 (n=297). Each cohort was subdivided into 2 groups based on the evaluation plan
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
-conditions#notice-of-rights). 30
---- Страница 16 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 decided before enrolment in the study: non-invasive testing (any form of stress
@@ -605,9 +557,7 @@ FFR compared with patients having functional imaging (mean change: 0.12 for
 CT
 CCTA/FFR compared with 0.07 for functional imaging, p=0.02).
 CT
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
-conditions#notice-of-rights). 30
---- Страница 17 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 3.20 Lu et al. (2015) used a subgroup analysis of the PROMISE trial (n=181) to
@@ -658,9 +608,7 @@ showed higher 1-year radiation exposure in the HeartFlow FFR group in patients
 CT
 intended for non-invasive evaluation. However, this is to be expected because
 many patients in the non-invasive evaluation had a non-invasive test which did
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
-conditions#notice-of-rights). 30
---- Страница 18 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 not need the use of radiation. The EAC concluded that the submitted evidence on
@@ -702,9 +650,7 @@ patients with stable, recent-onset chest pain of suspected cardiac origin, and
 that it provides the clinician with additional functional information to determine
 which coronary lesions are responsible for myocardial ischaemia. The committee
 considered that further clinical studies would be helpful to clarify the wider
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
-conditions#notice-of-rights). 30
---- Страница 19 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 applicability of HeartFlow FFR in routine clinical practice.
@@ -719,9 +665,7 @@ important for initial diagnosis, and that a per-vessel assessment provides
 additional information to inform patient management. The committee concluded
 that per-patient level figures were the most reliable and relevant to the diagnosis
 of coronary artery disease.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
-conditions#notice-of-rights). 30
---- Страница 20 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 4 NHS considerations
@@ -756,9 +700,7 @@ should it be needed.
 manually changed by the analyst. This may affect the fractional flow reserve
 CT (FFR ) estimate. Manual editing is part of the quality assurance process,
 CT
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
-conditions#notice-of-rights). 30
---- Страница 21 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 negating the risk of spurious results generated from the automated analysis.
@@ -797,9 +739,7 @@ CT
 4.7 The committee considered the availability of CCTA facilities. It understood that
 the cost model assumed access to CCTA facilities, but heard from experts that
 access to CCTA varies across the NHS despite recommendations in NICE's
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
-conditions#notice-of-rights). 30
---- Страница 22 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 previous guideline on chest pain. Furthermore, because CT scanners are used for
@@ -810,9 +750,7 @@ CT
 but acknowledged that this consideration was beyond the scope of the current
 assessment. It understood that adopting 64-slice CCTA was ongoing in the NHS,
 in line with the recommendations in the previous NICE guideline on chest pain.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
-conditions#notice-of-rights). 30
---- Страница 23 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 5 Cost considerations
@@ -849,9 +787,7 @@ Cumulative medical costs were measured over 90 days for each patient by
 multiplying a standardised cost weight for each medical resource by the number
 of resources used by the patient. Medicare reimbursement rates (the national
 average of technical and professional fees in the US) from 2015 were applied
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
-conditions#notice-of-rights). 30
---- Страница 24 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 because cost weights and online pharmacy costs were used for drugs. Patients
@@ -895,9 +831,7 @@ testing strategies, and relevant clinical outcomes.
 probability of having coronary artery disease were taken from Rajani et al. (2015).
 In the model, 10% of patients were assumed to be ineligible for invasive coronary
 angiography (ICA), have an inconclusive CCTA result and have an uncertain
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
-conditions#notice-of-rights). 30
---- Страница 25 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 single-photon emission CT (SPECT) result.
@@ -934,9 +868,7 @@ cost saving until its price reached £1,126. With regard to changes in the sensi
 and specificity, HeartFlow FFR remained cost saving for nearly all the values
 CT
 tested when considered in the context of the entire patient population.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
-conditions#notice-of-rights). 30
---- Страница 26 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 Revisions by the external assessment centre
@@ -970,9 +902,7 @@ following a PCI [aspirin and clopidogrel, BNF (2015)].
 for patients having PCI. It consulted the NICE guideline on stable angina and
 estimated an annual drug treatment cost for these patients of £33 based on BNF
 (2015) prescription costs for aspirin and clopidogrel, and used a cost of £2,865
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
-conditions#notice-of-rights). 30
---- Страница 27 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 (PCI tariff with drug costs) in its revised model.
@@ -1011,9 +941,7 @@ CT
 current treatment pathway for all functional imaging tests (SPECT, MRI and
 ECHO). This cost saving will increase if the cost of HeartFlow FFR is reduced.
 CT
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
-conditions#notice-of-rights). 30
---- Страница 28 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 6 Conclusions
@@ -1025,9 +953,7 @@ invasive investigations.
 likely to be realised in practice, providing that sites adopting HeartFlow FFR
 CT
 have access to 64-slice (or above) coronary CT angiography.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
-conditions#notice-of-rights). 30
---- Страница 29 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 7 Committee members and NICE project
@@ -1050,9 +976,7 @@ Paul Dimmock
 Technical analyst (evaluations)
 Jae Long
 Project manager
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
-conditions#notice-of-rights). 30
---- Страница 30 ---
+
 HeartFlow FFRCT for estimating fractional flow reserve from coronary CT angiography
 (HTG429)
 Update information
@@ -1064,5 +988,3 @@ Minor changes since publication
 December 2025: Medical technologies guidance 32 has been migrated to HealthTech
 guidance 429. The recommendations and accompanying content remain unchanged.
 ISBN: 978-1-4731-7613-3
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
-conditions#notice-of-rights). 30

@@ -11,15 +11,14 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 Cardiology
 in a Heartbeat
---- Страница 2 ---
+
 Dedicated to our patients;
 And to the students about to serve them
 O T H E R T I T L E S F R O M S C I O N
 For more details see www.scionpublishing.com
---- Страница 3 ---
+
 Cardiology
 in a Heartbeat
 Edited by:
@@ -31,7 +30,7 @@ Mr Vipin Zamvar Consultant Cardiothoracic Surgeon,
 Royal Infirmary of Edinburgh
 Professor Chim C Lang Professor of Cardiology, University
 of Dundee
---- Страница 4 ---
+
 © Scion Publishing Limited, 2016
 First published 2016
 All rights reserved. No part of this book may be reproduced or transmitted, in any form or by any
@@ -58,58 +57,7 @@ Registered names, trademarks, etc. used in this book, even when not marked as su
 considered unprotected by law.
 Typeset by Medlar Publishing Solutions Pvt Ltd, India
 Printed in the UK
---- Страница 5 ---
-Contents
-List of Contributors .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . vii
-Foreword .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . ix
-Preface  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . x
-Acknowledgements  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . xi
-List of Abbreviations  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . xii
-How to Use This Book  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . xv
-1. Anatomy and Physiology of the Cardiovascular System  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1
-by Luke Chan, with Mr Vipin Zamvar
-2. History Taking and Physical Examination  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 19
-by Emily Yeung, with Dr Jack Andrews
-3. Cardiovascular Medicine: An Investigative Approach  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 30
-by Maria Koo and Daniel Mathie, with Dr Tania Pawade
-4. Easy Peasy ECG  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 43
-by Stephanie Choo, with Dr Calvin Chin
-5. Cardiovascular Pharmacology  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 55
-by Daniel Mathie, Noel Sharkey and Danielle Clyde, with Dr Neal Uren
-6. Infection and Pericardial Disease .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 72
-by Sher Ee Tan, Emily Yeung and Dr Ahmed El-Medany, with Dr Jack Andrews
-7. Atherosclerosis  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 96
-by Samantha Koh and Sher Ee Tan, with Dr Anoop Shah
-8. Ischaemic Heart Disease  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 101
-by Amar Vaswani and Nethmi Vithanage, with Dr Scott Dougherty
-9. Acute Coronary Syndrome  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 107
-by Amar Vaswani, Tina Cherian and Samantha Koh, with Dr Nicholas Mills
-10. Heart Failure .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 119
-by Prabhsimran Singh, with Dr Nikhil Joshi
-11. Arrhythmias  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 131
-by Hwan Juet Khaw, with Dr Chris Lang
-v
---- Страница 6 ---
-CoNTENTS
-12. Valvular Heart Disease  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 169
-by Elton Luo, with Dr Marc Dweck
-13. Hypertension  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 188
-by Dr Ahmed El-Medany, with Dr Anne Scott
-14. Cardiomyopathy .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 197
-by Amar Vaswani and Elizabeth Wootton, with Dr Marc Dweck
-15. Peripheral Vascular Disease  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 210
-by Ala Noaman, Maria Koo and Nethmi Vithanage, with Mr Zahid Raza
-16. Congenital Heart Disease .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 234
-by Kaiping Lin, with Dr Dzung Nguyen
-17. Cardiovascular Emergencies  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 254
-by Ala Noaman, with Dr Paul Neary
-References .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 275
-Appendix A Pharmacology Rapid Review .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 277
-Appendix B Differential Diagnosis of Chest Pain  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 280
-Appendix C Figure Acknowledgements  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 281
-Index  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 291
-vi
---- Страница 7 ---
+
 List of Contributors
 Student contributors
 Team leads:
@@ -150,7 +98,7 @@ Nikhil Joshi MBBS MRCP PhD
 Cardiology Registrar
 Royal Infirmary of Edinburgh
 vii
---- Страница 8 ---
+
 LIST oF CoNTRIBUT oRS
 Tania Pawade MBChB MRCP Anoop Shah MBChB (Hons) MRCP
 Cardiology Registrar Cardiology Registrar
@@ -162,7 +110,7 @@ Anne Scott MBChB FRCP MD Vipin Zamvar MS DNB (CTh) FRCS (CTh)
 Consultant Cardiologist Consultant Cardiothoracic Surgeon
 Borders General Hospital, Melrose Royal Infirmary of Edinburgh
 viii
---- Страница 9 ---
+
 Foreword
 Cardiology in a Heartbeat is a remarkable and impressive achievement. It is remarkable by
 any standard for the clarity of its presentation, superb illustration and succinct summaries
@@ -189,7 +137,7 @@ Congress Programme Committee 2012–14
 Professor of Cardiology (Emeritus), University of Edinburgh
 August 2015
 ix
---- Страница 10 ---
+
 Preface
 Cardiology is an ever-changing field, with new evidence and randomised controlled
 trials paving the way for updates in either investigations or management. This is a
@@ -232,7 +180,7 @@ the subject and serve your patients to the best of your ability.
 A.V., H.J.K., E.L.C.L., A.N.
 August 2015
 x
---- Страница 11 ---
+
 Acknowledgements
 The authors would like to extend their thanks to our team of students and physicians
 for their hard work and dedication in bringing this project to life. We are also grateful to
@@ -254,7 +202,7 @@ Last, but certainly not least, the authors wish to especially thank their famili
 and long-suffering better halves for their unconditional support and encouragement
 throughout the writing process.
 xi
---- Страница 12 ---
+
 List of Abbreviations
 AAA Abdominal aortic aneurysm CBP Clinic blood pressure
 ABC Airway, breathing, circulation CCB Calcium channel blocker
@@ -300,7 +248,7 @@ Ca2+ Calcium GAS Group A streptococcal
 CABG Coronary artery bypass graft GCA Giant cell arteritis
 CAD Coronary artery disease GI Gastrointestinal
 xii
---- Страница 13 ---
+
 LIST oF ABBREVIATIoNS
 GPI Glycoprotein IIb/IIIa inhibitor sensitivity
 GRACE Global Registry of Acute MI Myocardial infarction
@@ -351,7 +299,7 @@ LVOT Left ventricular outflow tract SC Subcutaneous
 MAP Mean arterial pressure SL Sublingual
 MC&S Microscopy, culture and SLE Systemic lupus erythematosus
 xiii
---- Страница 14 ---
+
 LIST oF ABBREVIATIoNS
 SNS Sympathetic nervous system TTE Transthoracic
 SOB Shortness of breath echocardiography
@@ -373,7 +321,7 @@ TOE Transoesophageal WHO World Health Organization
 echocardiography WPW Wolff–Parkinson–White
 TSH Thyroid-stimulating hormone syndrome
 xiv
---- Страница 15 ---
+
 How to Use This Book
 This book aims to build upon relevant concepts from the pre-clinical years and bring you
 up to speed on information that will be particularly useful to you in clinical cardiology. It
@@ -408,7 +356,7 @@ Samuel Butler
 Geoffrey Chaucer
 cf. Hippocrates, Aphorisms
 xv
---- Страница 17 ---
+
 Chapter 1
 Anatomy and Physiology
 of the Cardiovascular System
@@ -420,7 +368,7 @@ At a heart rate of 70 beats per minute, a human heart will contract approximatel
 an 80-year lifespan.
 Figure 1.1 – The anatomy of the heart.
 1
---- Страница 18 ---
+
 ChAPter 1 // AnAtoMy And PhySioLogy of the CArdioVASCuLAr SySteM
 1.2 Chambers of the heart
 Cardiac chambers In A Heartbeat
@@ -448,7 +396,7 @@ inferior vena cava inferiorly, draining the lower body
 coronary sinus inferiorly, draining the heart
 anterior cardiac veins anteriorly, draining the anterior heart
 2
---- Страница 19 ---
+
 1.2 // ChAMberS of the heArt
 • Anterior part of wall is smooth
 • Posterior part of wall is rough with trabeculations known as musculi pectinati (pectinate
@@ -478,7 +426,7 @@ Figure 1.3 – Superior view of heart valves.
 • Forms most of the base of the heart
 • Smaller, but thicker walled than right atrium
 3
---- Страница 20 ---
+
 ChAPter 1 // AnAtoMy And PhySioLogy of the CArdioVASCuLAr SySteM
 • Receives oxygenated blood from the four pulmonary veins which open into the cavity on
 its posterior wall (two from each lung: superior and inferior)
@@ -519,7 +467,7 @@ veins sinus then into the right atrium
 The heart has a high oxygen demand from continuous pumping of blood. This demand is
 met by the left and right coronary arteries.
 4
---- Страница 21 ---
+
 1.3 // CoronAry Cir CuLAtion
 Figure 1.4 – The coronary vessels.
 Right coronary artery
@@ -538,7 +486,7 @@ at the apex
 AV nodal artery arises from the characteristic loop where the posterior descending
 artery originates to supply the AV node.
 5
---- Страница 22 ---
+
 ChAPter 1 // AnAtoMy And PhySioLogy of the CArdioVASCuLAr SySteM
 Left coronary artery
 • Originates from the left posterior aortic sinus
@@ -567,7 +515,7 @@ RPL = right posterolateral branch M1 = first marginal branch of LCX
 LCX = left circumflex MO1 = first marginal obtuse branch of LCX
 Figure 1.5 – Schematic of coronary arteries as visualised in a typical angiogram.
 6
---- Страница 23 ---
+
 1.3 // CoronAry Cir CuLAtion
 Anatomical variations
 • 90% of the population are ‘right dominant’ – where the posterior descending/posterior
@@ -606,7 +554,7 @@ surface of the heart directly into the right atrium
 • small veins (venae cordis minimae) within each chamber wall draining directly into their
 respective chambers.
 7
---- Страница 24 ---
+
 ChAPter 1 // AnAtoMy And PhySioLogy of the CArdioVASCuLAr SySteM
 1.4 Conducting system of the heart
 Conducting system In A Heartbeat
@@ -628,7 +576,7 @@ In a normal heart, the total time taken for the action potential to travel from 
 node to the end of the Purkinje fibres is about 0.22 seconds. A normal sinus rhythm is
 approximately 72 beats per min, which equates to 0.83 seconds for each cardiac cycle.
 8
---- Страница 25 ---
+
 1.6 // the CArdiAC Cy CLe
 1.5 Nerve supply of the heart
 • While the conductive system of the heart has its proprietary intrinsic pacemaker, the
@@ -663,7 +611,7 @@ ventricular relaxation
 S “dub” • Maximally filled volume = end-diastolic volume
 2
 9
---- Страница 26 ---
+
 ChAPter 1 // AnAtoMy And PhySioLogy of the CArdioVASCuLAr SySteM
 Ventricular systole (contraction)
 Isovolumetric Ventricular ejection
@@ -679,7 +627,7 @@ Conversely, there is never a point in the cardiac cycle when all valves are open
 Figure 1.7 – The Wiggers diagram, named after Dr Carl Wiggers who in 1915 described the events occurring
 during each cardiac cycle.
 10
---- Страница 27 ---
+
 1.7 // heArt SoundS
 Table 1.2 – The cardiac cycle
 Ventricular diastole (relaxation)
@@ -721,7 +669,7 @@ patients
 • In older patients: heart failure,
 volume overload
 11
---- Страница 28 ---
+
 ChAPter 1 // AnAtoMy And PhySioLogy of the CArdioVASCuLAr SySteM
 1.7.1 S “lub”
 1
@@ -770,7 +718,7 @@ Relaxation:
 Ca2+ is pumped from cytosol back into SR → Ca2+ levels drop → Ca2+ dissociate from
 troponin → relaxation
 12
---- Страница 29 ---
+
 1.8 // CArdiAC MuSCL e ContrACtion
 Cardiac muscle cells are known as cardiac myocytes. Following depolarisation, calcium
 (Ca2+) enters the cell through L-type voltage-gated Ca2+ channels in the sarcolemma.
@@ -801,7 +749,7 @@ muscle relaxes.
 Figure 1.8 – Calcium-induced calcium release process in a cardiac myocyte leading to contraction of
 cardiac muscle.
 13
---- Страница 30 ---
+
 ChAPter 1 // AnAtoMy And PhySioLogy of the CArdioVASCuLAr SySteM
 1.9 Cardiac output
 Cardiac output In A Heartbeat
@@ -838,7 +786,7 @@ Adequate cardiac output is important for ensuring that each organ receives its m
 required blood flow. The body regulates cardiac output by regulating heart rate and stroke
 volume.
 14
---- Страница 31 ---
+
 1.9 // CArdiAC outPut
 Heart rate
 • A normal heart rate is between 60 and 100 bpm
@@ -880,7 +828,7 @@ ventricular dilatation
 vasodilator drugs e.g. nitrates, calcium channel blockers (non-rate limiting)
 vasodilator metabolites in septic shock.
 15
---- Страница 32 ---
+
 ChAPter 1 // AnAtoMy And PhySioLogy of the CArdioVASCuLAr SySteM
 Contractility
 • The contractility of the heart is the force of myocardial contraction

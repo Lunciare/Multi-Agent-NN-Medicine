@@ -11,45 +11,13 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
-22/01/2026, 16:08 Sinoatrial node - wikidoc
 Search WikiDoc
 Search Try Exact Match
 Sinoatrial node
 Template:Infobox Anatomy
 Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailto:charlesmichaelgibson@gmail.co
 m);Associate Editor-In-Chief: Cafer Zorkun, M.D., Ph.D. [2] (mailto:czorkun@wikidoc.org)
-Contents
-• Overview
-• Role as a pacemaker
-• Innervation
-• Blood supply
-• References
-Overview
-The sinoatrial node (abbreviated SA node or SAN, also called the sinus node) is the impulse
-generating (pacemaker) tissue located in the right atrium of the heart, and thus the generator of
-sinus rhythm. It is a group of cells positioned on the wall of the right atrium, near the entrance of
-the superior vena cava. These cells are modified cardiac myocytes. They possess some contractile
-filaments, though they do not contract.
-Role as a pacemaker
-Although all of the heart's cells possess the ability to generate the electrical impulses (or action
-potentials) that trigger cardiac contraction, the sinoatrial node is what normally initiates it, simply
-because it generates impulses slightly faster than the other areas with pacemaker potential.
-Because cardiac myocytes, like all muscle cells, have refractory periods following contraction
-during which additional contractions cannot be triggered, their pacemaker potential is overridden
-by the sinoatrial node.
-Cells in the SA node will naturally discharge (create action potentials) at about 60-100
-times/minute.[1] Because the sinoatrial node is responsible for the rest of the heart's electrical
-activity, it is sometimes called the primary pacemaker.
-If the SA node does not function, or the impulse generated in the SA node is blocked before it
-travels down the electrical conduction system, a group of cells further down the heart will become
-the heart's pacemaker. These cells form the atrioventricular node (AV node), which is an area
-between the atria and ventricles, within the atrial septum.
-Innervation
-Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
-https://www.wikidoc.org/index.php/Sinoatrial_node 1/2
---- Страница 2 ---
-22/01/2026, 16:08 Sinoatrial node - wikidoc
+
 The SA node is richly innervated by parasympathetic nervous system fibers (CN X: Vagus Nerve)
 and by sympathetic nervous system fibers (T1-4, Spinal Nerves). This makes the SA node
 susceptible to autonomic influences.
@@ -69,4 +37,4 @@ Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a
 There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
 Licensing | Disclaimers | Avoid Plagiarism | Policies
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/Sinoatrial_node 2/2
+ 2/2

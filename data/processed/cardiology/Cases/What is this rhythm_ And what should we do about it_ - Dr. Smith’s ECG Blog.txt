@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Hans Helseth onApril 30, 2025
 What is this rhythm? And
 what should we do about it?
@@ -31,7 +32,7 @@ ST-T complex, because of their high frequency. T waves usually
 have smoother ascents and descents, while P waves have a shorter
 duration and appear “sharper” on the EKG.
 
-https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 1/15
+ 1/15
 The negativity of the P waves in inferior leads suggests that the
 atria are being depolarized by a wavefront moving towards the base
 of the heart (from inferior to superior; ironically, the “base” of the
@@ -75,7 +76,7 @@ and the slow pathway meets the fast pathway during its
 refractory period (Figure 1, Panel A).
 If a depolarization wavefront (typically from a premature
 extrasystole) reaches the AV node at a time where the fast
-https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 2/15
+ 2/15
 pathway is refractory and the slow pathway is not, it travels
 down the slow pathway alone (Figure 1, Panel B).
 The depolarization wavefront then meets the fast pathway,
@@ -110,7 +111,7 @@ AVNRT.
 Normally AVNRT has a rate of around 150+ BPM. However, patients
 with a slow pathway that conducts extremely slowly can have lower
 rates with AVNRT. 118 BPM is slow for AVNRT, but it is not unheard of.
-https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 3/15
+ 3/15
 Here is an example I saw recently of AVNRT confirmed by EP study at
 just 99 BPM:
 Here is a case series of AVNRT under 110 BPM:
@@ -139,7 +140,7 @@ How does the rhythm start? Reentrant rhythms like AVNRT,
 AVRT, and some atrial tachycardias are usually initiated by a
 premature extrasystole. Automatic rhythms like some atrial
 tachycardias and junctional tachycardia usually begin with a
-https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 4/15
+ 4/15
 “warm-up” period, wherein the automatic focus speeds up to a
 sustained rate rather than starting suddenly at full speed.
 How does the rhythm behave? Rate variability and slight
@@ -182,7 +183,7 @@ provisionally diagnose this very rare adult problem and look for the
 underlying condition that is causing it and treat than (myocarditis,
 infections, medications, drugs, electrolytes, etc.)
 ===================================
-https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 5/15
+ 5/15
 MY Comment, by KEN GRAUER, MD (4/30/2025):
 ===================================
 Today’s case is what I call, “A WhoDunnit?”. By this, I mean that the 1st
@@ -214,7 +215,7 @@ half a large box in any of the 12 leads = a QRS ≤0.10 second).
 The rhythm is Regular — at a ventricular Rate of ~115/minute.
 The 3rd R relates to the question of whether atrial activity is (or is
 not) Related to neighboring QRS complexes.
-https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 6/15
+ 6/15
 As I note just above — retrograde P waves are present.
 We know this — because retrograde P waves are negative in the
 inferior leads (BLUE arrows in Figure-2) — and they are positive in
@@ -257,7 +258,7 @@ which it manifests retrograde P waves seen after the QRS, the RP’
 interval will almost always be shorter than that seen in Figure-
 2 (ie, with an RP’ interval seen immediately after the QRS — and
 not past the middle of the ST segment).
-https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 7/15
+ 7/15
 Bottom Line: The above considerations left me
 with orthodromic AVRT as the most likely etiology for the rhythm
 in Figure-2 (ie, with the reason for the longer RP’ interval with
@@ -292,7 +293,7 @@ The normal AV nodal “escape” rate in adults is between 40-
 An accelerated Junctional Rhythm in adults is defined as a
 junctional rhythm that is faster than the normal “escape”
 rate (ie, over 60/minute) — but less than 100/minute.
-https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 8/15
+ 8/15
 JT (Junctional Tachycardia) — is defined as a junctional rhythm that
 is ≥100/minute.
 WHO Gets Junctional Tachycardia?
@@ -337,7 +338,7 @@ treatment often being treatment of the underlying disorder rather
 than rate-slowing medication).
 Although rare in adults — true paroxysmal JT is important to rule
 out in problematic regular SVT cases that are referred to EP
-https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 9/15
+ 9/15
 Cardiology, because longterm treatment is different than treatment
 of AVNRT and AVRT (ie, paroxysmal JT is much less likely than
 reentry SVTs to respond to ablation — and it carries a much higher
@@ -379,6 +380,6 @@ SHARE    
 HEART Score Zero. Do we need serial
 Computer Normal ECGs for this case of
 ECG. Troponin chest pain?
-https://drsmithsecgblog.com/what-is-this-rhythm-and-what-should-we/ 10/15
+ 10/15
 Undetectable. Speckle
 Tracking Echo normal.

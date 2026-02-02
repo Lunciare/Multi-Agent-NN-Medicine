@@ -11,15 +11,12 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 Alteplase for treating acute
 ischaemic stroke
 Technology appraisal guidance
 Published: 26 September 2012
 www.nice.org.uk/guidance/ta264
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
-conditions#notice-of-rights).
---- Страница 2 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 Your responsibility
 The recommendations in this guidance represent the view of NICE, arrived at after careful
@@ -41,24 +38,9 @@ equality of opportunity and to reduce health inequalities.
 Commissioners and providers have a responsibility to promote an environmentally
 sustainable health and care system and should assess and reduce the environmental
 impact of implementing NICE recommendations wherever possible.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
-conditions#notice-of-rights). 26
---- Страница 3 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
-Contents
-1 Recommendations ................................................................................................................. 4
-2 The technology ...................................................................................................................... 5
-3 The manufacturer's submission ........................................................................................... 6
-4 Consideration of the evidence ............................................................................................. 15
-5 Implementation ...................................................................................................................... 20
-6 Recommendations for further research .............................................................................. 21
-7 Appraisal Committee members and NICE project team .................................................... 22
-Appraisal Committee members ......................................................................................................... 22
-NICE project team ............................................................................................................................... 24
-8 Sources of evidence considered by the Committee ......................................................... 25
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
-conditions#notice-of-rights). 26
---- Страница 4 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 This guidance replaces TA122.
 1 Recommendations
@@ -68,9 +50,7 @@ ischaemic stroke in adults if:
 symptoms, and
 • intracranial haemorrhage has been excluded by appropriate imaging
 techniques.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
-conditions#notice-of-rights). 26
---- Страница 5 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 2 The technology
 2.1 Alteplase (Actilyse, Boehringer Ingelheim) is a tissue plasminogen activator
@@ -96,9 +76,7 @@ treatment depends on the body weight of the patient, and can range from £300
 to £600 based on a recommended dose of 0.9 mg per kilogram of body weight.
 Costs may vary in different settings because of negotiated procurement
 discounts.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
-conditions#notice-of-rights). 26
---- Страница 6 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 3 The manufacturer's submission
 3.1 The Appraisal Committee considered evidence submitted by the manufacturer of
@@ -133,9 +111,7 @@ ECASS 2, from which subgroup data specifically for the 3- to 4.5-hour window
 were used by the manufacturer in sensitivity analyses. The manufacturer noted
 that this involved stratifying data into subgroups that had not been specified
 before randomisation. The manufacturer also identified the third International
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
-conditions#notice-of-rights). 26
---- Страница 7 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 Stroke Trial (IST-3), a randomised open-label blinded endpoint trial in which
 alteplase was administered within 6 hours of symptom onset. However, the
@@ -171,9 +147,7 @@ with a favourable outcome (OR 1.42, 95% CI 1.02 to 1.98, p=0.04).
 as a score of 3 to 6 on the modified Rankin scale) at 90 days. There were no
 statistically significant differences in the number of patients who were dead or
 dependent between the alteplase and placebo treatment arms (33.5% compared
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
-conditions#notice-of-rights). 26
---- Страница 8 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 with 38.5%, relative risk [RR] 0.87, 95% CI 0.73 to 1.05).
 3.7 The ECASS 3 trial also reported as a secondary endpoint a global outcome score
@@ -208,9 +182,7 @@ from ECASS 2 (0 to 3 hours), ECASS 3 (3 to 4.5 hours) and NINDS (0 to 3 hours).
 Heterogeneity between the 3 studies was low for the outcomes of all-cause
 mortality and death or dependence, but moderate for the outcome of
 symptomatic intracranial haemorrhage.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
-conditions#notice-of-rights). 26
---- Страница 9 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 3.10 The manufacturer compared all-cause mortality at 90 days for the 2 treatment
 arms. No statistically significant difference was observed between alteplase and
@@ -247,9 +219,7 @@ when the model assumed the treatment effect of alteplase was complete at
 90 days and maintained at 6 months; from 6 to 12 months when the model
 assumed no further treatment effect; and beyond 12 months when the model also
 assumed no further treatment effect from alteplase. However, beyond 12 months
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
-conditions#notice-of-rights). 26
---- Страница 10 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 the model assumed that people in the dependent or independent states could
 have a recurrent stroke. The model also assumed that people in the dependent
@@ -286,9 +256,7 @@ were dead or dependent, and the estimated proportion who were dead. The
 manufacturer assumed in the model that a symptomatic intracranial haemorrhage
 had a cost impact (because it required a further diagnostic computed
 tomography [CT] scan), with the health consequences being captured in the
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
-conditions#notice-of-rights). 26
---- Страница 11 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 outcome of death or dependence from the clinical trials.
 3.15 For the second phase of the model (6 to 12 months), the manufacturer assumed
@@ -324,9 +292,7 @@ per patient were based on estimates of extra staff time in the trial by Sanderco
 et al. (2002). For people in either treatment arm who had a symptomatic
 intracranial haemorrhage, the model included a one-off cost of £100 for an
 additional CT scan. For all health states in the model, the manufacturer applied
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
-conditions#notice-of-rights). 26
---- Страница 12 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 annual costs specific to the state (adjusted for inflation to 2012 to 2013 prices)
 adapted from a study by Youman et al. (2003), which calculated the costs of
@@ -362,9 +328,7 @@ probabilistic sensitivity analysis showed that alteplase had a high probability
 gained.
 3.20 The manufacturer's base-case deterministic cost-effectiveness analysis for the
 3- to 4.5-hour window resulted in an ICER of £6,272 per QALY gained for
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
-conditions#notice-of-rights). 26
---- Страница 13 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 alteplase compared with standard care (incremental costs £2,068; incremental
 QALYs 0.33). The probabilistic cost-effectiveness analysis resulted in an ICER of
@@ -400,9 +364,7 @@ and not statistically significant.
 was in line with the decision problem defined in the scope and closely adhered to
 the NICE reference case requirements for economic analysis. The ERG
 commented that the manufacturer provided a reasonable strategy for searching
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
-conditions#notice-of-rights). 26
---- Страница 14 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 the literature for existing cost-effectiveness studies, although it did not explicitly
 state its exclusion criteria. The ERG stated that it was appropriate for the
@@ -433,9 +395,7 @@ compared with standard care for the 0- to 4.5-hour window (incremental costs
 £698; incremental QALYs 0.157).
 3.25 Full details of all the evidence are in the manufacturer's submission and the ERG
 report.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
-conditions#notice-of-rights). 26
---- Страница 15 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 4 Consideration of the evidence
 4.1 The Appraisal Committee reviewed the data available on the clinical and cost
@@ -469,9 +429,7 @@ and can also increase the need to adjust the patient's lifestyle and living
 conditions. The Committee was aware that brain imaging must be carried out to
 confirm the absence of intracranial bleeding before treatment with alteplase can
 be started. However, the Committee heard from 1 patient expert that some
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
-conditions#notice-of-rights). 26
---- Страница 16 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 people with acute ischaemic stroke may not have immediate access to brain-
 imaging facilities. The Committee recognised the importance of this issue, and
@@ -508,9 +466,7 @@ differences in mortality, or in the composite outcome of death or dependence,
 between patients randomised to alteplase or standard care were observed at
 90-day follow-up. However, the Committee also noted that a statistically
 significantly higher proportion of patients in the alteplase treatment arm achieved
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
-conditions#notice-of-rights). 26
---- Страница 17 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 a favourable outcome without significant disability (modified Rankin scale score
 of 0 or 1) at 90-day follow-up. The Committee therefore concluded that alteplase
@@ -547,9 +503,7 @@ Committee heard from the clinical specialists that symptomatic intracranial
 haemorrhage is the primary cause of death within 7 days for patients receiving
 alteplase treatment, and that clinicians have difficulty predicting which patients
 are at high risk. The Committee also noted that the proportion of other reported
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
-conditions#notice-of-rights). 26
---- Страница 18 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 serious adverse reactions and fatal adverse reactions in the ECASS 3 trial up to
 90 days was similar across the 2 treatment arms. The Committee concluded that,
@@ -587,9 +541,7 @@ scan but experienced no further disutility beyond that captured in the dependent
 or independent health states. The Committee heard from the clinical specialists
 that this assumption was reasonable. Overall, the Committee concluded that the
 economic model adhered to the NICE reference case for economic analysis and
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
-conditions#notice-of-rights). 26
---- Страница 19 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 the modelling approach was reasonable.
 4.10 The Committee considered the most plausible ICERs presented by the
@@ -615,9 +567,7 @@ be treated.
 this appraisal. The Committee was aware that extension of the licence to
 4.5 hours after symptom onset may enable increased access to treatment with
 alteplase for patients in remote or rural locations.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
-conditions#notice-of-rights). 26
---- Страница 20 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 5 Implementation
 5.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
@@ -635,18 +585,14 @@ available within the period set out in the paragraphs above. This means that, if
 patient has acute ischaemic stroke and the healthcare professional responsible
 for their care thinks that alteplase is the right treatment, it should be available for
 use, in line with NICE's recommendations.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
-conditions#notice-of-rights). 26
---- Страница 21 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 6 Recommendations for further research
 6.1 The clinical efficacy and safety of thrombolysis with alteplase for acute ischaemic
 stroke is being assessed outside of its current marketing authorisation,
 specifically in patients aged up to 80 years and up to 6 hours from onset of
 stroke symptoms (the third International Stroke Trial [IST-3]).
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
-conditions#notice-of-rights). 26
---- Страница 22 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 7 Appraisal Committee members and NICE
 project team
@@ -674,9 +620,7 @@ Dr Jeff Aronson
 Reader in Clinical Pharmacology, University Department of Primary Health Care, University
 of Oxford
 Professor John Cairns
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
-conditions#notice-of-rights). 26
---- Страница 23 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 Professor of Health Economics Public Health and Policy, London School of Hygiene and
 Tropical Medicine
@@ -704,9 +648,7 @@ Dr Peter Norrie
 Principal Lecturer in Nursing, DeMontfort University
 Dr John Pounsford
 Consultant Physician, Frenchay Hospital, Bristol
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
-conditions#notice-of-rights). 26
---- Страница 24 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 Dr John Rodriguez
 Assistant Director of Public Health, NHS Eastern and Coastal Kent
@@ -731,9 +673,7 @@ Kay Nolan
 Technical Adviser
 Jeremy Powell
 Project Manager
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
-conditions#notice-of-rights). 26
---- Страница 25 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 8 Sources of evidence considered by the
 Committee
@@ -759,9 +699,7 @@ Professional or specialist, and patient or carer groups:
 • Royal College of Physicians
 Other consultees:
 • Department of Health
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
-conditions#notice-of-rights). 26
---- Страница 26 ---
+
 Alteplase for treating acute ischaemic stroke (TA264)
 • Welsh Government
 Commentator organisations (did not provide written evidence and without the right of
@@ -784,5 +722,3 @@ Meetings. They contributed only when asked by the Committee chair to clarify spe
 issues and comment on factual accuracy.
 • Boehringer Ingelheim
 ISBN: 978-1-4731-6720-9
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
-conditions#notice-of-rights). 26

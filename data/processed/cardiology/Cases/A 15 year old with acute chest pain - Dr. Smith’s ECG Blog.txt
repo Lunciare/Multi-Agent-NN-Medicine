@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
 Steve Smith onAugust 25, 2025
 A 15 year old with acute
 chest pain
@@ -26,7 +27,7 @@ reciprocal ST depression in lead III, as well as V1-V3. In an
 adult, one would need to assume OMI until proven otherwise.
 Interestingly, the Queen of Hearts said “Not OMI with low 
 confidence.” The model output was 0.35 and it must be
-https://drsmithsecgblog.com/a-15-year-old-with-acute-chest-pain/ 1/10
+ 1/10
 above 0.50 to have 98% specificity. Iʼm not certain what the
 specificity is at 0.35.
 I sent the ECG real time to my EKG Nerdz friends without any
@@ -46,7 +47,7 @@ to tell the difference with this data between acute OMI and
 myocarditis. Only angiogram can tell you if intervention is
 necessary. Only MRI can make the definitive diagnosis of MI
 vs. myocarditis, but that takes time.
-https://drsmithsecgblog.com/a-15-year-old-with-acute-chest-pain/ 2/10
+ 2/10
 To not do an angiogram is to play Russian Roulette with a
 childʼs heart. Maybe the probability is 20:1 for myocarditis
 over OMI, but children do get acute MI. They can have
@@ -89,10 +90,10 @@ Pendell wrote sarcastically: “Always nice to risk a young life
 instead of doing a procedure that has close to zero risk for a
 young healthy patient.“
 Blog Cases: Young patients with MI. N = 18.
-https://drsmithsecgblog.com/a-15-year-old-with-acute-chest-pain/ 3/10
+ 3/10
 Blog Cases: Young women with MI. N = 19.
 Look at this horrific case of a 17 year old with chest pain:
-https://drsmithsecgblog.com/a-teenager-with-chest-pain-
+
 troponin/
 References:
 What is the Significance of Elevated Troponin I in Children
@@ -118,7 +119,7 @@ in these leads). The small narrow q waves in these high-
 lateral leads are of uncertain significance.
 While one might attribute ST elevation in an adolescent
 to “repolarization abnormalities” — the ST depression
-https://drsmithsecgblog.com/a-15-year-old-with-acute-chest-pain/ 4/10
+ 4/10
 seen in leads III,aVF and in the anterior leads (BLUE
 arrows) is not a finding of benign repolarization in
 patients with new symptoms.
@@ -148,7 +149,7 @@ suggests from retrospective studies that cardiac
 catheterization in otherwise healthy adolescents with chest
 pain and abnormal ECGs usually does not change
 management. But rare ≠ never.
-https://drsmithsecgblog.com/a-15-year-old-with-acute-chest-pain/ 5/10
+ 5/10
 At the least — todayʼs 15-year old patient has acute
 myocarditis (despite no symptoms of acute viral
 illness).
@@ -170,4 +171,4 @@ OMI before deciding resolved. Serial
 not to intervene troponins nearly
 undetectable at 3 ng/L
 SEARCH
-https://drsmithsecgblog.com/a-15-year-old-with-acute-chest-pain/ 6/10
+ 6/10

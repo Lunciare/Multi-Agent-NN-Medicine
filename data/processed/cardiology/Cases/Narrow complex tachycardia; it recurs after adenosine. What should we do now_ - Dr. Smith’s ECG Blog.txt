@@ -10,6 +10,7 @@
 }
 
 === СОДЕРЖАНИЕ ===
+
  Steve Smith onJanuary 6, 2026 
 Narrow complex
 tachycardia; it recurs after
@@ -29,7 +30,7 @@ Atrial flutter, AVNRT, AVRT (WPW), or atrial tachycardia.
 There are no flutter wavies. It is not irregularly irregular, so it
 
 is NOT atrial fibrillation. It is however, regularly irregular, as
-https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 1/12
+ 1/12
 there are 2 different RR intervals (and each with its own
 voltage amplitude!). One RR interval is 360 ms, the other is
 400 ms. I donʼt see any P-wave or even retrograde P-waves,
@@ -72,7 +73,7 @@ there is good LV function, then I want to give an AV nodal
 blocker that will persist (adenosine and electricity are both
 gone quickly). That means a calcium channel blocker
 (verapamil or diltiazem). When I first started EM, there was
-https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 2/12
+ 2/12
 no adenosine and we always gave verapamil for SVT. It works
 and the data shows it is pretty safe (a meta-analysis with 4%
 hypotension vs. 1% with adenosine).
@@ -105,7 +106,7 @@ phenylephrine for blood pressure support.
 The patient ultimately did well.
 Here are some guidelines for SVT management. Then see the
 other cases below:
-https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 3/12
+ 3/12
 Screenshot
 Here is a case that had sustained sinus rhythm after giving
 magnesium. Good literature review here.
@@ -128,7 +129,7 @@ Dr. Smithʼs ECG Blog 18
 = = = =
 ======================================
 MY Comment, by KEN GRAUER, MD (1/7/2026):
-https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 4/12
+ 4/12
 Todayʼs case by Dr. Smith highlights a series of important
 points regarding assessment and management of reentry
 SVT (SupraVentricular Tachycardia) rhythms. These points
@@ -167,7 +168,7 @@ typical of a reentry SVT (either AVNRT or AVRT).
 = = =
 Figure-1: Iʼve reproduced todayʼs ECG — with my proposed
 laddergram.
-https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 5/12
+ 5/12
 = = =
 Is there Atrial Activity?
 Normal sinus P waves are clearly absent in Figure-1.
@@ -192,7 +193,7 @@ increases the likelihood of a reentrySVT rhythm.
 The Mechanism of Todayʼs Rhythm
 Why then do we see alternating R-R intervals in todayʼs
 reentry SVT?
-https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 6/12
+ 6/12
 Against Wenckebach conduction is the lack of a
 dropped beat.
 Instead — I suspect the presence of dual AV Nodal
@@ -235,7 +236,7 @@ we know itʼs time to stop giving Adenosine, and instead
 use a long-acting agent.
 = = =
 = = =
-https://drsmithsecgblog.com/narrow-complex-tachycardia-it-recurs-after-adenosine-what-should-we-do-now/ 7/12
+ 7/12
 Steve Smith onJanuary 6, 2026
 ADENOSINE DILTIAZEM DUAL AV NODAL PATHWAYS
 DYSRHYTHMIA THAT IS REFRACTORY

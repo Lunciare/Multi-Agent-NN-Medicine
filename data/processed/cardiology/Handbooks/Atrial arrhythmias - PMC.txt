@@ -11,8 +11,7 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+Atrial arrhythmias - PMC
 As a library, NLM provides access to scientific literature. Inclusion in an NLM database
 does not imply endorsement of, or agreement with, the contents by NLM or the National
 Institutes of Health.
@@ -28,9 +27,9 @@ tachycardias may be divided into two distinct groups depending on whether they a
 or the atrioventricular junction. This article will consider those arising from the atria: sinus
 tachycardia, atrial fibrillation, atrial flutter, and atrial tachycardia. Tachycardias arising from re-entry
 circuits in the atrioventricular junction will be considered in the next article in the series.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 1/14
---- Страница 2 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+ 1/14
+
+ Atrial arrhythmias - PMC
 Supraventricular tachycardias
 From the atria or sinoatrial node
 Sinus tachycardia
@@ -48,9 +47,9 @@ coronary atherosclerosis, blood flow may become critical and anginal-type chest 
 Similar chest pain, which is not related to myocardial ischaemia, may also occur. Reduced cardiac
 performance produces symptoms of faintness or syncope and leads to increased sympathetic
 stimulation, which may increase the heart rate further.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 2/14
---- Страница 3 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+ 2/14
+
+ Atrial arrhythmias - PMC
 Electrocardiographic characteristics of atrial arrhythmias
 Sinus tachycardia
 P waves have normal morphology
@@ -77,9 +76,9 @@ Ventricular rate 100-180 beats/min
 As a general rule the faster the ventricular rate, the more likely the presence of symptoms—for
 example, chest pain, faintness, and breathlessness. Urgent treatment is needed for severely
 symptomatic patients with a narrow complex tachycardia.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 3/14
---- Страница 4 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+ 3/14
+
+ Atrial arrhythmias - PMC
 Electrocardiographic features
 Differentiation between different types of supraventricular tachycardia may be difficult, particularly
 when ventricular rates exceed 150 beats/min.
@@ -101,9 +100,9 @@ The rate rarely exceeds 200 beats/min in adults. The rate increases gradually an
 beat variation. Each P wave is followed by a QRS complex. P wave morphology and axis are normal,
 although the height of the P wave may increase with the heart rate and the PR interval will shorten.
 With a fast tachycardia the P wave may become lost in the preceding T wave.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 4/14
---- Страница 5 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+ 4/14
+
+ Atrial arrhythmias - PMC
 Causes of sinus tachycardia
 Physiological—Exertion, anxiety, pain
 Pathological—Fever, anaemia, hypovolaemia, hypoxia
@@ -126,9 +125,9 @@ recognised by abrupt onset and termination, a very regular rate, and absence of 
 physiological stimulus. The electrocardiographic characteristics are otherwise identical. The rate is
 usually 130-140 beats/min, and vagal manoeuvres may be successful in stopping the arrhythmia.
 Atrial fibrillation
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 5/14
---- Страница 6 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+ 5/14
+
+ Atrial arrhythmias - PMC
 This is the most common sustained arrhythmia. Overall prevalence is 1% to 1.5%, but prevalence
 increases with age, affecting about 10% of people aged over 70. Causes are varied, although many
 cases are idiopathic. Prognosis is related to the underlying cause; it is excellent when due to
@@ -160,9 +159,9 @@ The ventricular rate depends on conduction through the atrioventricular node. Ty
 (atrial rate to ventricular rate) occurs, giving a ventricular rate of 150 beats/min. Identification of a
 regular tachycardia with this rate should prompt the diagnosis of atrial flutter. The non-conducting
 flutter waves are often mistaken for or merged with T waves and become apparent only if the block is
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 6/14
---- Страница 7 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+ 6/14
+
+ Atrial arrhythmias - PMC
 increased. Manoeuvres that induce transient atrioventricular block may allow identification of flutter
 waves.
 The causes of atrial flutter are similar to those of atrial fibrillation, although idiopathic atrial flutter is
@@ -187,9 +186,9 @@ Incessant ectopic atrial tachycardia is a rare chronic arrhythmia in children an
 rate depends on the underlying sympathetic tone and is characteristically 100-160 beats/min. It can
 be difficult to distinguish from a sinus tachycardia. Diagnosis is important as it may lead to dilated
 cardiomyopathy if left untreated.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 7/14
---- Страница 8 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+ 7/14
+
+ Atrial arrhythmias - PMC
 Conditions associated with atrial tachycardia
 Cardiomyopathy
 Chronic obstructive pulmonary disease
@@ -208,10 +207,10 @@ referred to as “paroxysmal atrial tachycardia with block” this arrhythmia is
 Figure.
 Open in a new tab
 Sinus tachycardia
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 8/14
+ 8/14
 🔍
---- Страница 9 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+
+ Atrial arrhythmias - PMC
 Figure.
 Open in a new tab
 Atrial fibrillation is the result of multiple wavelets of depolarisation (shown by arrows)
@@ -219,11 +218,11 @@ moving around the atria chaotically, rarely completing a re-entrant circuit
 Figure.
 Open in a new tab
 Atrial fibrillation waves seen in lead V1
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 9/14
+ 9/14
 🔍
 🔍
---- Страница 10 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+
+ Atrial arrhythmias - PMC
 Figure.
 Open in a new tab
 Rhythm strip in atrial fibrillation
@@ -231,11 +230,11 @@ Figure.
 Open in a new tab
 Atrial flutter is usually the result of a single re-entrant circuit in the right atrium (top); atrial
 flutter showing obvious flutter waves (bottom)
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 10/14
+ 10/14
 🔍
 🔍
---- Страница 11 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+
+ Atrial arrhythmias - PMC
 Figure.
 Open in a new tab
 Rhythm strip in atrial flutter (rate 150 beats/min)
@@ -243,11 +242,11 @@ Figure.
 Open in a new tab
 Atrial flutter (rate 150 beats/min) with increasing block (flutter waves revealed after
 administration of adenosine)
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 11/14
+ 11/14
 🔍
 🔍
---- Страница 12 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+
+ Atrial arrhythmias - PMC
 Figure.
 Open in a new tab
 Atrial flutter with variable block
@@ -255,22 +254,22 @@ Figure.
 Open in a new tab
 Atrial tachycardia is initiated by an ectopic atrial focus (the P wave morphology therefore
 differs from that of sinus rhythm)
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 12/14
+ 12/14
 🔍
 🔍
---- Страница 13 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+
+ Atrial arrhythmias - PMC
 Figure.
 Open in a new tab
 Atrial tachycardia with 2:1 block (note the inverted P waves)
 Figure.
 Open in a new tab
 Multifocal atrial fibrillation
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 13/14
+ 13/14
 🔍
 🔍
---- Страница 14 ---
-22/01/2026, 15:08 Atrial arrhythmias - PMC
+
+ Atrial arrhythmias - PMC
 Figure.
 Open in a new tab
 Atrial tachycardia with 2:1 block in patient with digoxin toxicity
@@ -285,5 +284,5 @@ Steve Goodacre is health services research fellow in the accident and emergency 
 the Northern General Hospital, Sheffield; Richard Irons is consultant in accident and emergency
 medicine at the Princess of Wales Hospital, Bridgend.
 Articles from BMJ : British Medical Journal are provided here courtesy of BMJ Publishing Group
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1122515/ 14/14
+ 14/14
 🔍

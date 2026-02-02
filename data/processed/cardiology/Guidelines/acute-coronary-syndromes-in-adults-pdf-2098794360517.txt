@@ -11,48 +11,15 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 Acute coronary syndromes
 in adults
 Quality standard
 Published: 5 September 2014
 Last updated: 18 November 2020
 www.nice.org.uk/guidance/qs68
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
-conditions#notice-of-rights).
---- Страница 2 ---
+
 Acute coronary syndromes in adults (QS68)
-Contents
-Quality statements ...................................................................................................................... 4
-Quality statement 1: Diagnosis of acute myocardial infarction ............................................... 5
-Quality statement ................................................................................................................................... 5
-Rationale ................................................................................................................................................. 5
-Quality measures .................................................................................................................................... 5
-What the quality statement means for different audiences ............................................................... 6
-Source guidance ..................................................................................................................................... 6
-Definitions of terms used in this quality statement ............................................................................ 7
-Equality and diversity considerations .................................................................................................. 7
-Quality statement 2: Risk assessment for adults with NSTEMI or unstable angina ............. 8
-Quality statement ................................................................................................................................... 8
-Rationale ................................................................................................................................................. 8
-Quality measures .................................................................................................................................... 8
-What the quality statement means for different audiences ............................................................... 9
-Source guidance ..................................................................................................................................... 10
-Definitions of terms used in this quality statement ............................................................................ 10
-Quality statement 3: Coronary angiography and PCI within 72 hours for NSTEMI or
-unstable angina ........................................................................................................................... 12
-Quality statement ................................................................................................................................... 12
-Rationale ................................................................................................................................................. 12
-Quality measures .................................................................................................................................... 12
-What the quality statement means for different audiences ............................................................... 13
-Source guidance ..................................................................................................................................... 14
-Definitions of terms used in this quality statement ............................................................................ 14
-Quality statement 4: Coronary angiography and PCI for adults with NSTEMI or unstable
-angina who are clinically unstable ............................................................................................. 15
-Quality statement ................................................................................................................................... 15
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
-conditions#notice-of-rights). 28
---- Страница 3 ---
+
 Acute coronary syndromes in adults (QS68)
 Rationale ................................................................................................................................................. 15
 Quality measures .................................................................................................................................... 15
@@ -77,9 +44,7 @@ Update information .............................................................
 About this quality standard ........................................................................................................27
 Resource impact ..................................................................................................................................... 27
 Diversity, equality and language ...........................................................................................................28
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
-conditions#notice-of-rights). 28
---- Страница 4 ---
+
 Acute coronary syndromes in adults (QS68)
 This standard is based on CG95 and NG185.
 This standard should be read in conjunction with QS21, QS15, QS28, QS43, QS84,
@@ -104,9 +69,7 @@ coronary angiography (with follow-on primary PCI if indicated).
 Statement 6 Adults with acute STEMI who present within 12 hours of onset of symptoms
 have primary PCI, as the preferred coronary reperfusion strategy, as soon as possible but
 within 120 minutes of the time when fibrinolysis could have been given.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
-conditions#notice-of-rights). 28
---- Страница 5 ---
+
 Acute coronary syndromes in adults (QS68)
 Quality statement 1: Diagnosis of acute
 myocardial infarction
@@ -131,9 +94,7 @@ the universal definition of myocardial infarction.
 Data source: Local data collection.
 Process
 Proportion of adults with a diagnosis of acute myocardial infarction who had their
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
-conditions#notice-of-rights). 28
---- Страница 6 ---
+
 Acute coronary syndromes in adults (QS68)
 diagnosis made using the criteria in the universal definition of myocardial infarction.
 Numerator – the number in the denominator who had their diagnosis made using the
@@ -157,9 +118,7 @@ diagnosis of heart attack if their signs and symptoms meet an agreed definition.
 Source guidance
 Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis. NICE
 guideline CG95 (2010, updated 2016), recommendation 1.2.6.1
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
-conditions#notice-of-rights). 28
---- Страница 7 ---
+
 Acute coronary syndromes in adults (QS68)
 Definitions of terms used in this quality statement
 Universal definition of myocardial infarction
@@ -178,9 +137,7 @@ abnormality
 Equality and diversity considerations
 Symptoms of acute coronary syndromes should be assessed in the same way in men and
 women and among people from different ethnic groups.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
-conditions#notice-of-rights). 28
---- Страница 8 ---
+
 Acute coronary syndromes in adults (QS68)
 Quality statement 2: Risk assessment for
 adults with NSTEMI or unstable angina
@@ -204,9 +161,7 @@ Evidence of local arrangements to ensure that adults with NSTEMI or unstable ang
 assessed for their risk of future adverse cardiovascular events using an established risk
 scoring system that predicts 6-month mortality to guide clinical management.
 Data source: Local data collection.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
-conditions#notice-of-rights). 28
---- Страница 9 ---
+
 Acute coronary syndromes in adults (QS68)
 Process
 Proportion of presentations for NSTEMI or unstable angina that had an assessment of the
@@ -233,9 +188,7 @@ angina using established risk scoring systems that predict 6-month mortality to 
 clinical management.
 Adults with heart conditions called NSTEMI and unstable angina have their risk of
 another heart attack estimated to guide their treatment.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
-conditions#notice-of-rights). 28
---- Страница 10 ---
+
 Acute coronary syndromes in adults (QS68)
 Source guidance
 Acute coronary syndromes. NICE guideline NG185 (2020), recommendations 1.2.7 and
@@ -261,16 +214,12 @@ Predicted 6-month mortality Risk of future adverse cardiovascular events
 >1.5% to 3.0% Low
 >3.0% to 6.0% Intermediate
 >6.0% to 9.0% High
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
-conditions#notice-of-rights). 28
---- Страница 11 ---
+
 Acute coronary syndromes in adults (QS68)
 Predicted 6-month mortality Risk of future adverse cardiovascular events
 Over 9.0% Highest
 [NICE's guideline on acute coronary syndromes, recommendation 1.2.11]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
-conditions#notice-of-rights). 28
---- Страница 12 ---
+
 Acute coronary syndromes in adults (QS68)
 Quality statement 3: Coronary
 angiography and PCI within 72 hours for
@@ -296,9 +245,7 @@ Evidence of local arrangements to ensure that adults with NSTEMI or unstable ang
 have an intermediate or higher risk of future adverse cardiovascular events who are having
 coronary angiography (with follow-on PCI if indicated), have it within 72 hours of first
 admission to hospital.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
-conditions#notice-of-rights). 28
---- Страница 13 ---
+
 Acute coronary syndromes in adults (QS68)
 Data source: Local data collection.
 Process
@@ -325,9 +272,7 @@ intermediate or higher risk of future adverse cardiovascular events, who are hav
 coronary angiography (with follow-on PCI if indicated), have it within 72 hours of first
 admission to hospital.
 Commissioners ensure that they commission services with the capacity and expertise to
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
-conditions#notice-of-rights). 28
---- Страница 14 ---
+
 Acute coronary syndromes in adults (QS68)
 ensure that adults with NSTEMI or unstable angina who have an intermediate or higher risk
 of future adverse cardiovascular events who are having coronary angiography (with
@@ -343,9 +288,7 @@ Intermediate or higher risk of future adverse cardiovascular
 events
 A predicted 6-month mortality above 3.0%. [NICE's guideline on acute coronary
 syndromes, recommendation 1.2.13]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
-conditions#notice-of-rights). 28
---- Страница 15 ---
+
 Acute coronary syndromes in adults (QS68)
 Quality statement 4: Coronary
 angiography and PCI for adults with
@@ -372,9 +315,7 @@ and can be adapted and used flexibly.
 Structure
 Evidence of local arrangements to ensure that adults with NSTEMI or unstable angina who
 are clinically unstable have coronary angiography (with follow-on PCI if indicated) as soon
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
-conditions#notice-of-rights). 28
---- Страница 16 ---
+
 Acute coronary syndromes in adults (QS68)
 as possible, but within 24 hours of becoming clinically unstable.
 Data source: Local data collection.
@@ -400,9 +341,7 @@ audiences
 Service providers (secondary care and cardiac service providers) ensure that local
 pathways are in place for adults with NSTEMI or unstable angina who are clinically
 unstable to be offered coronary angiography (with follow-on PCI if indicated) as soon as
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
-conditions#notice-of-rights). 28
---- Страница 17 ---
+
 Acute coronary syndromes in adults (QS68)
 possible but within 24 hours of becoming clinically unstable.
 Healthcare professionals ensure that they offer adults with NSTEMI or unstable angina
@@ -426,16 +365,12 @@ People who are clinically unstable are defined as those with:
 • dynamic ECG changes
 • left ventricular failure.
 [Expert opinion]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
-conditions#notice-of-rights). 28
---- Страница 18 ---
+
 Acute coronary syndromes in adults (QS68)
 As soon as possible
 Local areas should collaborate with healthcare professionals to determine the appropriate
 timeframes for patients. [Expert opinion]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
-conditions#notice-of-rights). 28
---- Страница 19 ---
+
 Acute coronary syndromes in adults (QS68)
 Quality statement 5: Level of
 consciousness and eligibility for coronary
@@ -460,9 +395,7 @@ Evidence of local arrangements to ensure that adults who are unconscious after c
 arrest caused by suspected acute STEMI are not excluded from having coronary
 angiography (with follow-on primary PCI if indicated) because they are unconscious.
 Data source: Local data collection.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
-conditions#notice-of-rights). 28
---- Страница 20 ---
+
 Acute coronary syndromes in adults (QS68)
 Process
 Proportion of adults who were unconscious after cardiac arrest caused by suspected
@@ -489,15 +422,11 @@ cardiac arrest caused by suspected acute STEMI.
 Adults who are unconscious after a type of heart attack called STEMI can have a test
 called coronary angiography, and treatment to improve blood flow to the heart if needed,
 even though they are unconscious.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
-conditions#notice-of-rights). 28
---- Страница 21 ---
+
 Acute coronary syndromes in adults (QS68)
 Source guidance
 Acute coronary syndromes. NICE guideline NG185 (2020), recommendation 1.1.2
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
-conditions#notice-of-rights). 28
---- Страница 22 ---
+
 Acute coronary syndromes in adults (QS68)
 Quality statement 6: Primary PCI for
 acute STEMI
@@ -524,9 +453,7 @@ a) Evidence of local arrangements to ensure that adults with acute STEMI who pre
 within 12 hours of onset of symptoms have primary PCI, as the preferred coronary
 reperfusion strategy, within 120 minutes of the time when fibrinolysis could have been
 given.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
-conditions#notice-of-rights). 28
---- Страница 23 ---
+
 Acute coronary syndromes in adults (QS68)
 Data source: Local data collection.
 b) Evidence of local arrangements to ensure that adults with acute STEMI have access to
@@ -553,9 +480,7 @@ Numerator – the number of people in the denominator receiving primary PCI with
 150 minutes of the call for professional help.
 Denominator – the number of adults with acute STEMI who present within 12 hours of
 onset of symptoms.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
-conditions#notice-of-rights). 28
---- Страница 24 ---
+
 Acute coronary syndromes in adults (QS68)
 Data source:Healthcare Quality Improvement Partnership's Myocardial Ischaemia National
 Audit Project (MINAP) and the British Cardiovascular Intervention Society's National audit
@@ -586,9 +511,7 @@ Adults with a type of heart attack called STEMI whose symptoms started no more t
 improve blood flow to the heart (called percutaneous coronary intervention or PCI). They
 should be able to have this as soon as possible, but within 120 minutes of when they could
 have received fibrinolysis (a 'clot-busting' drug).
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
-conditions#notice-of-rights). 28
---- Страница 25 ---
+
 Acute coronary syndromes in adults (QS68)
 Source guidance
 Acute coronary syndromes. NICE guideline NG185 (2020), recommendations 1.1.3 and 1.1.6
@@ -596,9 +519,7 @@ Definitions of terms used in this quality statement
 As soon as possible
 Local areas should collaborate with healthcare professionals to determine the appropriate
 timeframes for patients. [Expert opinion]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
-conditions#notice-of-rights). 28
---- Страница 26 ---
+
 Acute coronary syndromes in adults (QS68)
 Update information
 November 2020: Changes have been made to align this quality standard with the updated
@@ -609,9 +530,7 @@ references were also updated.
 Minor changes since publication
 January 2017: Definition updated for statement 1 to reflect changes to NICE's guideline on
 recent-onset chest pain of suspected cardiac origin.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
-conditions#notice-of-rights). 28
---- Страница 27 ---
+
 Acute coronary syndromes in adults (QS68)
 About this quality standard
 NICE quality standards describe high-priority areas for quality improvement in a defined
@@ -641,9 +560,7 @@ England.
 Resource impact
 NICE quality standards should be achievable by local services. The potential resource
 impact is considered by the quality standards advisory committee, drawing on resource
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
-conditions#notice-of-rights). 28
---- Страница 28 ---
+
 Acute coronary syndromes in adults (QS68)
 impact work for the source guidance. Organisations are encouraged to use the resource
 impact products for NICE's guideline acute coronary syndromes to help estimate local
@@ -669,5 +586,3 @@ the public. They have agreed to work with NICE to ensure that those commissionin
 providing services are made aware of and encouraged to use the quality standard.
 • British Heart Foundation
 • Royal College of Surgeons of Edinburgh
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
-conditions#notice-of-rights). 28

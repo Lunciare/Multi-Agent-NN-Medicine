@@ -11,8 +11,7 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 MERCK MANUAL
 Professional Version
 Overview of Arrhythmias
@@ -46,9 +45,9 @@ ventricle. The left bundle branch fans out over the left side of the interventri
 portion (left anterior hemifascicle) and its posterior portion (left posterior hemifascicle) stimulate the
 left side of the interventricular septum, which is the first part of the ventricles to be electrically activated.
 Thus, the interventricular septum depolarizes left to right, followed by near-simultaneous activation of
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 1/14
---- Страница 2 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 1/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 both ventricles from the endocardial surface through the ventricular walls to the epicardial surface (see
 figure Electrical Pathway Through the Heart) (1).
 Electrical Pathway Through the Heart
@@ -61,9 +60,9 @@ Anatomy of conduction system reference
 1. Karki R, Raina A, Ezzeddine FM, Bois MC, Asirvatham SJ. Anatomy and Pathology of the Cardiac
 Conduction System. Cardiol Clin 2023;41(3):277-292. doi:10.1016/j.ccl.2023.03.016
 Cardiac Physiology
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 2/14
---- Страница 3 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 2/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 An understanding of normal cardiac physiology is essential before rhythm disturbances can be
 understood.
 Electrophysiology
@@ -89,9 +88,9 @@ period), and after partial but incomplete repolarization, a subsequent depolariz
 occurs slowly (relative refractory period).
 There are 2 general types of cardiac tissue:
 Fast-channel tissues
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 3/14
---- Страница 4 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 3/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Slow-channel tissues
 Fast-channel tissues (working atrial and ventricular myocytes, His-Purkinje system) have a high density
 of fast sodium channels and action potentials characterized by
@@ -131,9 +130,9 @@ patients with autonomic denervation (eg, in advanced diabetes) or any heart diso
 decrease parasympathetic cardiac (vagal) tone and activate sympathetic tone. Thus, measures of heart
 rate variability have been suggested, but not conclusively demonstrated, to be useful general measures
 of cardiovascular health (2).
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 4/14
---- Страница 5 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 4/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Most cardiac electrical activity is represented on the electrocardiogram (ECG—see figure Diagram of the
 Cardiac Cycle), although SA node, AV node, and His-Purkinje depolarization do not involve enough tissue
 to be detected (3, 4). The P wave represents atrial depolarization. The QRS complex represents
@@ -170,9 +169,9 @@ scientific statement from the American Heart Association Electrocardiography and
 Committee, Council on Clinical Cardiology; the American College of Cardiology Foundation; and
 the Heart Rhythm Society. Endorsed by the International Society for Computerized
 Electrocardiology. J Am Coll Cardiol 2009;53(11):976-981. doi:10.1016/j.jacc.2008.12.013
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 5/14
---- Страница 6 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 5/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 5. Bazett HC. An analysis of the time relationships of electrocardiograms. Heart 1920;7:355-370.
 Pathophysiology of Arrhythmias
 Rhythm disturbances result from abnormalities of impulse formation, impulse conduction, or both.
@@ -183,9 +182,9 @@ abnormal mechanisms of automaticity (1).
 Reentry
 Reentry is the circular propagation of an impulse around 2 interconnected pathways with different
 conduction characteristics and refractory periods (see figure Mechanism of Typical Reentry).
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 6/14
---- Страница 7 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 6/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Mechanism of Typical Reentry
 Atrioventricular nodal reentry is used here as an example. Two pathways connect the same
 points. Pathway A has slower conduction and a shorter refractory period. Pathway B conducts
@@ -202,9 +201,9 @@ retrograde all the way up pathway B, which is now past its refractory period. If
 past its refractory period, the impulse may reenter pathway A and continue to circle, sending an
 impulse each cycle to the ventricle (4) and retrograde to the atrium (5), producing a sustained
 reentrant tachycardia.
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 7/14
---- Страница 8 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 7/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Initiation of an Atrioventricular Nodal Reentry Tachycardia
 There is an abnormal P wave (P′) and atrioventricular nodal delay (long P′R interval) before
 onset of the tachycardia.
@@ -232,9 +231,9 @@ physical findings of arrhythmias.
 Diagnosis of Arrhythmias
 ECG
 Ambulatory rhythm monitoring (eg, Holter, event, or other monitors)
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 8/14
---- Страница 9 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 8/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 History and physical examination may detect an arrhythmia and suggest possible causes, but diagnosis
 requires a 12-lead ECG or, less reliably, a rhythm strip, preferably obtained during symptoms to
 establish the relationship between symptoms and rhythm.
@@ -270,9 +269,9 @@ Wenckebach second-degree AV block), the PR intervals prolong progressively durin
 atrial events prior to each nonconducted atrial event and are typically the result of AV nodal
 dysfunction. In Mobitz type II second-degree AV block, the PR remains constant during conducted atrial
 events and is typically the result of His-Purkinje system dysfunction.
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 9/14
---- Страница 10 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 9/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Third-degree AV block is indicated by a bradyarrhythmia with no relationship between P waves and QRS
 complexes and more P waves than QRS complexes; the escape rhythm can be
 Junctional with normal AV conduction (narrow QRS complex)
@@ -310,9 +309,9 @@ atrial signals with intervening isoelectric periods (usually at rates < 250 beat
 Multifocal atrial tachycardia: Discrete P waves that vary from beat to beat with at least 3
 different morphologies
 Irregular, wide QRS complex tachyarrhythmias include
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 10/14
---- Страница 11 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 10/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 The above 4 irregular, narrow atrial tachyarrhythmias conducted with either bundle branch
 block or ventricular preexcitation
 Polymorphic ventricular tachycardia (VT)
@@ -341,14 +340,14 @@ SVTs can worsen the clinical state if the rhythm is VT; however, the reverse is 
 Pearls & Pitfalls
 Assume a regular, wide-complex tachyarrhythmia is ventricular tachycardia until proven
 otherwise.
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 11/14
---- Страница 12 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 11/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Modified Brugada Criteria for Ventricular Tachycardia
 *With RBBB QRS:
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 12/14
---- Страница 13 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 12/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 In V1, monophasic R, or QR, or RS
 In V6, R/S < 1 or monophasic R or QR
 *With LBBB QRS:
@@ -384,9 +383,9 @@ The need for treatment varies; it is guided by symptoms and risks of the arrhyth
 arrhythmias without serious risks do not require treatment even if they worsen. Symptomatic
 arrhythmias may require treatment to improve quality of life. Potentially life-threatening arrhythmias
 require treatment.
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 13/14
---- Страница 14 ---
-22/01/2026, 13:55 Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 13/14
+
+ Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Treatment is directed at causes. If necessary, direct antiarrhythmic therapy is used. Direct
 antiarrhythmic therapy includes, either alone or in combination:
 Antiarrhythmic medications
@@ -404,4 +403,4 @@ when another indication requires a cardiac surgical procedure, most commonly whe
 atrial fibrillation require valve replacement or repair or when patients with ventricular tachycardia
 require revascularization or resection of a left ventricular aneurysm.
 Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
-https://www.merckmanuals.com/professional/cardiovascular-disorders/overview-of-arrhythmias-and-conduction-disorders/overview-of-arrhythmias 14/14
+ 14/14

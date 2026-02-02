@@ -11,8 +11,7 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+Conditions not primarily affecting the heart - PMC
 As a library, NLM provides access to scientific literature. Inclusion in an NLM database
 does not imply endorsement of, or agreement with, the contents by NLM or the National
 Institutes of Health.
@@ -34,9 +33,9 @@ It is important to recognise that some electrocardiographic changes are due to
 conditions other than cardiac disease so that appropriate treatment can be given and
 unnecessary cardiac investigation avoided
 Hyperkalaemia
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 1/14
---- Страница 2 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+ 1/14
+
+ Conditions not primarily affecting the heart - PMC
 Increases in total body potassium may have dramatic effects on the electrocardiogram. The most
 common changes associated with hyperkalaemia are tall, peaked T waves, reduced amplitude and
 eventually loss of the P wave, and marked widening of the QRS complex.
@@ -63,9 +62,9 @@ T wave and create a pattern resembling a sine wave—a “preterminal” rhythm.
 hyperkalaemia may be due to asystole, ventricular fibrillation, or a wide pulseless idioventricular
 rhythm. Hyperkalaemia induced asystole is more likely to be seen in patients who have had chronic,
 rather than acute, hyperkalaemia.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 2/14
---- Страница 3 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+ 2/14
+
+ Conditions not primarily affecting the heart - PMC
 Hypokalaemia
 Hypokalaemia may produce several electrocardiographic changes, especially when there is total body
 depletion of both potassium and magnesium. The commonest changes are decreased T wave
@@ -94,9 +93,9 @@ Hypothermia
 Hypothermia is present when the core temperature is less than 35°C. As body temperature falls below
 normal, many cardiovascular and electrophysiological changes occur. The earliest change seen in the
 electrocardiogram is an artefact due to shivering, although some hypothermic patients have relatively
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 3/14
---- Страница 4 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+ 3/14
+
+ Conditions not primarily affecting the heart - PMC
 normal traces. The ability to shiver diminishes as body temperature falls, and shivering is uncommon
 below a core temperature of 32°C.
 Electrocardiographic features of hypothermia
@@ -124,9 +123,9 @@ Ventricular arrhythmias are the most common mechanism of death in hypothermia.
 They seem to be more common during rewarming as the body temperature rises
 through the 28°-32°C range
 Thyrotoxicosis
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 4/14
---- Страница 5 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+ 4/14
+
+ Conditions not primarily affecting the heart - PMC
 The cardiovascular system is very sensitive to increased levels of circulating thyroid hormones.
 Increases in cardiac output and heart rate are early features in thyrotoxicosis. The most common
 electrocardiographic changes seen in thyrotoxicosis are sinus tachycardia, an increased electrical
@@ -153,9 +152,9 @@ of thyroid hormone, and patients with left atrial enlargement or other intrinsic
 Treatment of atrial fibrillation in thyrotoxicosis is difficult as the rhythm may be refractory to
 cardioversion. However, most cases revert spontaneously to sinus rhythm when euthyroid. Multifocal
 atrial tachycardia and atrial flutter with 2:1 conduction, and even 1:1 conduction, may also be seen.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 5/14
---- Страница 6 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+ 5/14
+
+ Conditions not primarily affecting the heart - PMC
 Electrocardiographic features of hypothyroidism
 Most common
 Sinus bradycardia
@@ -182,9 +181,9 @@ branch block (especially right bundle branch block). Conduction abnormalities du
 hypothyroidism resolve with thyroid hormone therapy.
 Depolarisation, like all phases of the action potential, is slowed in hypothyroidism, and this results in
 a prolonged QT interval. Torsades de pointes ventricular tachycardia has been reported in
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 6/14
---- Страница 7 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+ 6/14
+
+ Conditions not primarily affecting the heart - PMC
 hypothyroid patients and is related to prolongation of the QT interval, hypothyroidism induced
 electrolyte abnormalities, hypothermia, or hypoventilation.
 Hypothyroid patients are very sensitive to the effects of digitalis and are predisposed to all the
@@ -211,16 +210,16 @@ Typically these are ST depression or elevation and T wave inversion, although ot
 a prolonged QT interval, can also be seen.
 Finally, artefacts due to shivering or tremor can obscure electrocardiographic changes or simulate
 arrhythmias.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 7/14
---- Страница 8 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+ 7/14
+
+ Conditions not primarily affecting the heart - PMC
 Figure.
 Open in a new tab
 Serial changes in hyperkalaemia
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 8/14
+ 8/14
 🔍
---- Страница 9 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+
+ Conditions not primarily affecting the heart - PMC
 Figure.
 Open in a new tab
 Serial changes in patient with renal failure receiving treatment for hyperkalaemia. As
@@ -231,11 +230,11 @@ Figure.
 Open in a new tab
 Broad complex tachycardia with a potassium concentration of 8.4 mmol/l (A); after
 treatment, narrower complexes with peaked T waves (B)
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 9/14
+ 9/14
 🔍
 🔍
---- Страница 10 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+
+ Conditions not primarily affecting the heart - PMC
 Figure.
 Open in a new tab
 Left: Diagram of electrocardiographic changes associated with hypokalaemia. Right:
@@ -246,11 +245,11 @@ Figure.
 Open in a new tab
 Sinus bradycardia, with a J wave, in a patient with hypothermia—core temperature 29°C
 (note the shivering artefact)
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 10/14
+ 10/14
 🔍
 🔍
---- Страница 11 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+
+ Conditions not primarily affecting the heart - PMC
 Figure.
 Open in a new tab
 Left: Diagram of electrocardiographic changes associated with thyrotoxicosis. Right: Sinus
@@ -260,22 +259,22 @@ Open in a new tab
 Top: Diagram of electrocardiographic changes associated with hypothyroidism. Bottom:
 Bradycardia (note small QRS complexes and inverted T waves) in patient with
 hypothyroidism
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 11/14
+ 11/14
 🔍
 🔍
---- Страница 12 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+
+ Conditions not primarily affecting the heart - PMC
 Figure.
 Open in a new tab
 Short QT interval in patient with hypocalcaemia (calcium concentration 4 mmol/l)
 Figure.
 Open in a new tab
 Massive T wave inversion and QT prolongation associated with subarachnoid haemorrhage
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 12/14
+ 12/14
 🔍
 🔍
---- Страница 13 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+
+ Conditions not primarily affecting the heart - PMC
 Figure.
 Open in a new tab
 Electrocardiographic artefacts—“shivering artefact” in patient with anterior myocardial
@@ -290,9 +289,9 @@ medicine, Stepping Hill Hospital, Stockport; William J Brady, associate professo
 director, and vice chair, department of emergency medicine, University of Virginia, Charlottesville,
 VA, USA; and John Camm, professor of clinical cardiology, St George's Hospital Medical School,
 London. The series will be published as a book in the summer.
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 13/14
+ 13/14
 🔍
---- Страница 14 ---
-22/01/2026, 15:11 Conditions not primarily affecting the heart - PMC
+
+ Conditions not primarily affecting the heart - PMC
 Articles from BMJ : British Medical Journal are provided here courtesy of BMJ Publishing Group
-https://pmc.ncbi.nlm.nih.gov/articles/PMC1123277/ 14/14
+ 14/14

@@ -11,8 +11,6 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
-22/01/2026, 16:26 QT interval - wikidoc
 Search WikiDoc
 Search Try Exact Match
 QT interval
@@ -48,9 +46,8 @@ There are several other methods, but a regression based approach is the most acc
 the current knowledge. An example of the regression-based approach is that developed by Sagie et
 al.,[3] as follows:
 Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
-https://www.wikidoc.org/index.php/QT_interval 1/7
---- Страница 2 ---
-22/01/2026, 16:26 QT interval - wikidoc
+ 1/7
+
 <math>QT_S = QT + 0.154(1-RR)</math>.
 Measurement
 Normal values for the QT interval are between 0.30 and 0.44 (0.45 for women) seconds. QT
@@ -70,9 +67,8 @@ isoelectric baseline or the tangent method, in which the end of the T wave is de
 intersection of a line extrapolated from the isoelectric baseline and the tangent line, which touches
 the terminal part of the T wave at the point of maximum downslope.[4]
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/QT_interval 2/7
---- Страница 3 ---
-22/01/2026, 16:26 QT interval - wikidoc
+ 2/7
+
 With the increased availability of digital ECGs with simultaneous 12-channel recording, QT
 measurement may also be done by the 'superimposed median beat' method. In the superimposed
 median beat method, a median ECG complex is constructed for each of the 12 leads. The 12 median
@@ -94,9 +90,8 @@ repolarization.
 2. • Abnormal when the QTc is > 0.44 seconds.
 Shown below are examples of prolonged QY interval.
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/QT_interval 3/7
---- Страница 4 ---
-22/01/2026, 16:26 QT interval - wikidoc
+ 3/7
+
 Shown below is an example of prolonged QT interval with bradycardia.
 Shown below is an example of torsades de pointes
 Drug Causes
@@ -104,9 +99,8 @@ Ofloxacin
 Differential Diagnosis:
 • Idiopathic long QT syndrome
 1. C•o Jokeirevs ehelll pa uns dde lLivaern oguer -sNeriveiclesse. Bny ussyinngd oruor mserevices, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/QT_interval 4/7
---- Страница 5 ---
-22/01/2026, 16:26 QT interval - wikidoc
+ 4/7
+
 • is associated with congenital deafness, syncope, and sudden death.
 • autosomal recessive inheritance
 • heterozygotes may be normal or have a slightly prolonged QT interval
@@ -130,9 +124,8 @@ vigorous activities and loud noises.
 Short QT Interval
 Shown below is an example of short QT interval.
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/QT_interval 5/7
---- Страница 6 ---
-22/01/2026, 16:26 QT interval - wikidoc
+ 5/7
+
 Causes
 1. • Digoxin therapy
 2. • Hypercalcemia
@@ -148,9 +141,8 @@ protein diet, intracoronary injection of contrast agents.
 propafenone, amiodarone.
 • Psychotropic drugs. Phenothiazines, tricyclic antidepressants.
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/QT_interval 6/7
---- Страница 7 ---
-22/01/2026, 16:26 QT interval - wikidoc
+ 6/7
+
 • Miscellaneous. Severe bradycardia, high degree AV block, post Stokes-Adams
 attacks, hypothyroidism, hypothermia, pheochromocytoma, organophosphate
 poisoning.
@@ -168,4 +160,4 @@ Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a
 There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
 Licensing | Disclaimers | Avoid Plagiarism | Policies
 Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-https://www.wikidoc.org/index.php/QT_interval 7/7
+ 7/7

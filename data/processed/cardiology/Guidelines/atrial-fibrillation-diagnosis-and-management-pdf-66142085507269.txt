@@ -11,16 +11,13 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 Atrial fibrillation: diagnosis
 and management
 NICE guideline
 Published: 27 April 2021
 Last updated: 30 June 2021
 www.nice.org.uk/guidance/ng196
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
-conditions#notice-of-rights).
---- Страница 2 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Your responsibility
 The recommendations in this guideline represent the view of NICE, arrived at after careful
@@ -43,41 +40,9 @@ inconsistent with complying with those duties.
 Commissioners and providers have a responsibility to promote an environmentally
 sustainable health and care system and should assess and reduce the environmental
 impact of implementing NICE recommendations wherever possible.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
-conditions#notice-of-rights). 47
---- Страница 3 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
-Contents
-Overview .................................................................................................................................... 5
-Who is it for? ........................................................................................................................................ 5
-Recommendations ..................................................................................................................... 6
-1.1 Detection and diagnosis ................................................................................................................ 6
-1.2 Assessment of stroke and bleeding risks ................................................................................... 7
-1.3 Assessment of cardiac function ................................................................................................... 9
-1.4 Personalised package of care and information .......................................................................... 10
-1.5 Referral for specialised management .......................................................................................... 11
-1.6 Stroke prevention .......................................................................................................................... 11
-1.7 Rate and rhythm control ............................................................................................................... 16
-1.8 Management for people presenting acutely with atrial fibrillation ........................................... 21
-1.9 Initial management of stroke and atrial fibrillation ..................................................................... 23
-1.10 Preventing and managing postoperative atrial fibrillation ....................................................... 23
-1.11 Stopping anticoagulation ............................................................................................................. 25
-Terms used in this guideline ............................................................................................................... 26
-Recommendations for research ............................................................................................... 27
-Key recommendations for research .................................................................................................. 27
-Other recommendations for research ............................................................................................... 28
-Rationale and impact ................................................................................................................. 30
-Detection and diagnosis ..................................................................................................................... 30
-Stroke risk ............................................................................................................................................ 31
-Bleeding risk ........................................................................................................................................ 32
-Stroke prevention ................................................................................................................................ 34
-Rate control .......................................................................................................................................... 35
-Left atrial ablation ............................................................................................................................... 37
-Preventing recurrence after ablation ................................................................................................. 38
-Rate and rhythm control for people presenting acutely .................................................................. 40
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
-conditions#notice-of-rights). 47
---- Страница 4 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Preventing postoperative atrial fibrillation ........................................................................................ 40
 Managing atrial fibrillation after cardiothoracic surgery ................................................................. 41
@@ -85,9 +50,7 @@ Stopping anticoagulation .......................................................
 Context ....................................................................................................................................... 44
 Finding more information and committee details ................................................................... 45
 Update information ................................................................................................................... 46
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
-conditions#notice-of-rights). 47
---- Страница 5 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 This guideline replaces CG180.
 This guideline is the basis of QS93.
@@ -104,9 +67,7 @@ Who is it for?
 • Healthcare professionals
 • Commissioners and providers
 • People with atrial fibrillation, their families and carers
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
-conditions#notice-of-rights). 47
---- Страница 6 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Recommendations
 People have the right to be involved in discussions and make informed decisions
@@ -132,9 +93,7 @@ fibrillation with or without symptoms. [2021]
 recording:
 • use a 24-hour ambulatory ECG monitor if asymptomatic episodes are
 suspected or symptomatic episodes are less than 24 hours apart
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
-conditions#notice-of-rights). 47
---- Страница 7 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 • use an ambulatory ECG monitor, event recorder or other ECG technology for
 a period appropriate to detect atrial fibrillation if symptomatic episodes are
@@ -161,9 +120,7 @@ For a short explanation of why the committee made this recommendation and how it
 might affect practice, see the rationale and impact section on stroke risk.
 Full details of the evidence and the committee's discussion are in evidence review C
 and D: tools to predict stroke in people with atrial fibrillation.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
-conditions#notice-of-rights). 47
---- Страница 8 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Bleeding risk
 1.2.2 Assess the risk of bleeding when:
@@ -192,9 +149,7 @@ Discussing the results of the risk assessment
 person taking into account their specific characteristics, for example
 comorbidities, and their individual preferences. For further guidance, see the
 section on enabling patients to actively participate in their care in NICE's
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
-conditions#notice-of-rights). 47
---- Страница 9 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 guideline on patient experience in adult NHS services. [2021]
 For a short explanation of why the committee made these recommendations and how
@@ -222,9 +177,7 @@ stroke prevention). [2006, amended 2014]
 fibrillation:
 • when TTE demonstrates an abnormality (such as valvular heart disease) that
 warrants further specific assessment
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
-conditions#notice-of-rights). 47
---- Страница 10 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 • in whom TTE is technically difficult and/or of questionable quality and when
 there is a need to exclude cardiac abnormalities
@@ -247,9 +200,7 @@ NICE's guideline on venous thromboembolic diseases
 － support networks (for example, cardiovascular charities). [2014]
 1.4.2 Follow the recommendations in NICE's guideline on shared decision making.
 [2014]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
-conditions#notice-of-rights). 47
---- Страница 11 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Medicines adherences and optimisation
 1.4.3 To support adherence and ensure safe and effective medicines use in people
@@ -275,9 +226,7 @@ the recommendations in NICE's guideline on shared decision making.
 • Follow the recommendations on patient involvement in decisions about
 medicines in NICE's guideline on medicines adherence and patient decision
 aids in NICE's guideline on medicines optimisation.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
-conditions#notice-of-rights). 47
---- Страница 12 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 • Take into account any contraindications for each drug and follow the
 guidance in the British National Formulary and the MHRA advice on direct-
@@ -311,9 +260,7 @@ very low risk of stroke equating to a CHA DS -VASc score of 0 for men or 1 for
 women). [2021]
 1.6.8 Do not withhold anticoagulation solely because of a person's age or their risk of
 falls. [2021]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
-conditions#notice-of-rights). 47
---- Страница 13 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Direct-acting oral anticoagulant treatment options
 1.6.9 For direct-acting oral anticoagulants recommended as options in NICE
@@ -339,9 +286,7 @@ computer-assisted dosing or proportion of tests in range for manual dosing
 shown by any of the following:
 • 2 INR values higher than 5 or 1 INR value higher than 8 within the past
 6 months
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
-conditions#notice-of-rights). 47
---- Страница 14 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 • 2 INR values less than 1.5 within the past 6 months
 • TTR less than 65%. [2014]
@@ -365,9 +310,7 @@ are having anticoagulation, see antiplatelet therapy for people with an ongoing 
 indication for anticoagulation in NICE's guideline on acute coronary syndromes.
 1.6.14 Do not offer aspirin monotherapy solely for stroke prevention to people with atrial
 fibrillation. [2014]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
-conditions#notice-of-rights). 47
---- Страница 15 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Review of people with atrial fibrillation
 1.6.15 For people who are not taking an anticoagulant, review stroke risk when they
@@ -393,9 +336,7 @@ on percutaneous occlusion of the left atrial appendage in non-valvular atrial
 fibrillation for the prevention of thromboembolism. [2014]
 1.6.19 Do not offer LAAO as an alternative to anticoagulation unless anticoagulation is
 contraindicated or not tolerated. [2014]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
-conditions#notice-of-rights). 47
---- Страница 16 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 1.7 Rate and rhythm control
 This section covers rate and rhythm control in non-acute settings. See section 1.8 for rate
@@ -423,9 +364,7 @@ recommendations on the use of beta-blockers and avoiding calcium-channel
 blockers in NICE's guideline on chronic heart failure. [2021]
 1.7.4 Consider digoxin monotherapy for initial rate control for people with
 non-paroxysmal atrial fibrillation if:
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
-conditions#notice-of-rights). 47
---- Страница 17 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 • the person does no or very little physical exercise or
 • other rate-limiting drug options are ruled out because of comorbidities or the
@@ -450,9 +389,7 @@ whom a rate-control strategy has not been successful. [2014]
 Antiarrhythmic drug therapy
 1.7.8 Assess the need for drug treatment for long-term rhythm control, taking into
 account the person's preferences, associated comorbidities, risks of treatment
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
-conditions#notice-of-rights). 47
---- Страница 18 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 and likelihood of recurrence of atrial fibrillation. [2014]
 1.7.9 Do not offer class 1c antiarrhythmic drugs such as flecainide or propafenone to
@@ -482,9 +419,7 @@ fibrillation and
 • have a systolic blood pressure greater than 100 mmHg and a resting heart
 rate above 70 bpm and
 • are able to understand how to, and when to, take the medication. [2006]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
-conditions#notice-of-rights). 47
---- Страница 19 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Cardioversion
 1.7.16 For people having cardioversion for atrial fibrillation that has persisted for longer
@@ -511,9 +446,7 @@ consider cryoballoon ablation or laser balloon ablation. [2021]
 account the person's preferences. In particular, explain that the procedure is not
 always effective and that the resolution of symptoms may not be long-lasting.
 [2021]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
-conditions#notice-of-rights). 47
---- Страница 20 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 1.7.21 Consider left atrial surgical ablation at the same time as other cardiothoracic
 surgery for people with symptomatic atrial fibrillation. [2014]
@@ -539,9 +472,7 @@ Full details of the evidence and the committee's discussion are in evidence revi
 antiarrhythmic drugs after ablation.
 Pace and ablate strategy
 1.7.24 Consider pacing and atrioventricular node ablation for people with permanent
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
-conditions#notice-of-rights). 47
---- Страница 21 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 atrial fibrillation with symptoms or left ventricular dysfunction thought to be
 caused by high ventricular rates. [2014]
@@ -568,9 +499,7 @@ beta-blockers and do not use calcium-channel blockers. [2021]
 1.8.4 Consider either pharmacological or electrical cardioversion depending on clinical
 circumstances and resources in people with new-onset atrial fibrillation who will
 be treated with a rhythm-control strategy. [2014]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
-conditions#notice-of-rights). 47
---- Страница 22 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 1.8.5 If pharmacological cardioversion has been agreed on clinical and resource
 grounds for new-onset atrial fibrillation, offer:
@@ -598,9 +527,7 @@ subtherapeutic, anticoagulation therapy:
 antithrombotic therapy has been started, based on risk stratification (see
 section 1.2 on assessment of stroke and bleeding risks and section 1.6 on
 stroke prevention). [2006, amended 2014]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
-conditions#notice-of-rights). 47
---- Страница 23 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 1.8.9 In people with a confirmed diagnosis of atrial fibrillation of recent onset (less than
 48 hours since onset), offer oral anticoagulation if:
@@ -626,9 +553,7 @@ Preventing postoperative atrial fibrillation
 1.10.1 In people having cardiothoracic surgery:
 • reduce the risk of postoperative atrial fibrillation by offering 1 of the following:
 － amiodarone
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
-conditions#notice-of-rights). 47
---- Страница 24 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 － a standard beta-blocker (that is, a beta-blocker other than sotalol)
 － a rate-limiting calcium-channel blocker (diltiazem or verapamil)
@@ -654,9 +579,7 @@ Atrial fibrillation after cardiothoracic surgery
 1.10.5 Consider either a rhythm-control or rate-control strategy for the initial treatment
 of new-onset postoperative atrial fibrillation after cardiothoracic surgery. [2021]
 1.10.6 If a rhythm-control strategy is chosen, reassess the need for antiarrhythmic drug
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
-conditions#notice-of-rights). 47
---- Страница 25 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 treatment at a suitable time point (usually at around 6 weeks). [2021]
 Atrial fibrillation after non-cardiothoracic surgery
@@ -679,9 +602,7 @@ because atrial fibrillation is no longer detectable. [2021]
 risk using CHA DS -VASc and ORBIT and a discussion of the person's
 2 2
 preferences. [2021]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25 of
-conditions#notice-of-rights). 47
---- Страница 26 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on stopping
@@ -701,9 +622,7 @@ when an episode of atrial fibrillation starts.
 Paroxysmal atrial fibrillation
 Episodes of atrial fibrillation that stop within 7 days, usually within 48 hours, without any
 treatment.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26 of
-conditions#notice-of-rights). 47
---- Страница 27 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Recommendations for research
 As part of the 2021 update, the guideline committee made 4 new research
@@ -727,9 +646,7 @@ For a short explanation of why the committee made the recommendation for researc
 see the rationale on detection and diagnosis.
 Full details of the evidence and the committee's discussion are in evidence review B:
 accuracy of tests for detection.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
-conditions#notice-of-rights). 47
---- Страница 28 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 3 Stopping anticoagulation after ablation
 What is the clinical and cost effectiveness of stopping anticoagulation in people whose
@@ -753,9 +670,7 @@ Other recommendations for research
 6 Rate-control drug treatment for people aged 75 and over with
 atrial fibrillation
 What is the comparative effectiveness of the 3 main drug classes used for rate control
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 28 of
-conditions#notice-of-rights). 47
---- Страница 29 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 (beta-blockers, calcium-channel blockers and digoxin) in people aged 75 and over with
 atrial fibrillation in controlling symptoms, improving quality of life and reducing morbidity
@@ -763,9 +678,7 @@ and mortality? [2014]
 7 Stroke risk assessment
 Can routine data from UK primary care databases clarify stroke risk in people with atrial
 fibrillation according to baseline risk factors and treatment? [2014]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 29 of
-conditions#notice-of-rights). 47
---- Страница 30 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Rationale and impact
 These sections briefly explain why the committee made the recommendations and how
@@ -793,9 +706,7 @@ How the recommendations might affect practice
 The recommendations reflect current good practice and are unlikely to have an impact on
 practice.
 Return to recommendations
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 30 of
-conditions#notice-of-rights). 47
---- Страница 31 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Stroke risk
 Recommendation 1.2.1
@@ -832,9 +743,7 @@ committee to be more important than specificity because the risks of unnecessary
 anticoagulation are outweighed by the risks of not treating people who need
 anticoagulation. In addition, the ATRIA risk score may result in a time delay in calculating
 the results.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 31 of
-conditions#notice-of-rights). 47
---- Страница 32 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 The committee also discussed that the evidence for the QStroke risk calculator suggested
 that it might be a useful tool. However, the evidence was limited, and they agreed that
@@ -864,9 +773,7 @@ haemorrhage.
 The discrimination data showed little difference between tools in predicting major
 bleeding, with some outcome measures showing no difference and others showing a slight
 benefit for either ORBIT or HAS-BLED. Evidence showed that ORBIT had a significantly
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 32 of
-conditions#notice-of-rights). 47
---- Страница 33 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 higher specificity and a slighter lower sensitivity than the other tools, but the committee
 agreed that the lower sensitivity would not be a drawback when used to inform
@@ -899,9 +806,7 @@ systems, which may cause some initial practical difficulties. However, because t
 involve changes to centralised software, it is thought that it will be straightforward to
 implement and ORBIT will quickly be included in GP systems. Neither tool is included in
 hospital systems although both are widely available on smartphone apps.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 33 of
-conditions#notice-of-rights). 47
---- Страница 34 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Return to recommendations
 Stroke prevention
@@ -935,9 +840,7 @@ Therefore, the risks and benefits of changing medication, the person's time in t
 range and the person's preferences should be explored at their next routine appointment.
 The committee agreed that the existing thresholds for the CHA DS -VASc score threshold
 2 2
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 34 of
-conditions#notice-of-rights). 47
---- Страница 35 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 for anticoagulation are in line with current practice.
 Although bleeding risk scores may occasionally be used as a reason not to offer
@@ -966,9 +869,7 @@ The committee made some updates to the 2014 recommendations, based on their
 experience and knowledge.
 The use of beta-blockers or rate-limiting calcium-channel blockers for initial rate-control
 treatment was retained by the committee because this is current practice and there was
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 35 of
-conditions#notice-of-rights). 47
---- Страница 36 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 insufficient evidence to suggest an alternative option. The committee agreed that the
 choice of treatment should still be made based on the symptoms, heart rate, comorbidities
@@ -1001,9 +902,7 @@ option in non-paroxysmal atrial fibrillation if comorbidities or patient prefere
 rate-control drug choices. However, the committee agreed that this already happens in
 practice.
 Return to recommendations
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 36 of
-conditions#notice-of-rights). 47
---- Страница 37 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Left atrial ablation
 Recommendations 1.7.19 to 1.7.20
@@ -1037,9 +936,7 @@ There is also an increased risk of fluid overload from saline irrigated radiofre
 ablation. They decided that either cryoballoon or laser ablation could be considered if
 radiofrequency point-by-point ablation is not suitable; for example, if a short procedure
 time is a priority or for people with a recent history of decompensated heart failure who
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 37 of
-conditions#notice-of-rights). 47
---- Страница 38 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 are at increased risk of fluid overload. Radiofrequency multi-electrode was not included as
 an alternative due to its lower efficacy relative to cryoballoon and laser ablation and
@@ -1069,9 +966,7 @@ ablation and fewer having other catheter ablation techniques.
 Return to recommendations
 Preventing recurrence after ablation
 Recommendations 1.7.22 and 1.7.23
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 38 of
-conditions#notice-of-rights). 47
---- Страница 39 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Why the committee made the recommendations
 Most of the evidence on preventing recurrence after ablation was for amiodarone. The
@@ -1103,9 +998,7 @@ be an increase from current levels. Increased resources may be needed for reasse
 but it is anticipated that this could be performed at routine follow-up appointments with a
 cardiologist.
 Return to recommendations
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 39 of
-conditions#notice-of-rights). 47
---- Страница 40 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Rate and rhythm control for people presenting
 acutely
@@ -1133,9 +1026,7 @@ Why the committee made the recommendations
 The committee noted that the most recent studies reviewed showed no benefit from
 statins in reducing atrial fibrillation after cardiothoracic surgery. This contrasted with
 analysis of the evidence overall, which showed a small but definite benefit from statins.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 40 of
-conditions#notice-of-rights). 47
---- Страница 41 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 The committee agreed that the evidence of no effect in the newer studies was important,
 because these studies were larger and of higher quality than the older studies included in
@@ -1164,9 +1055,7 @@ were old and included small numbers of participants. There were few studies comp
 drug classes, and the committee agreed that they could not recommend a particular class
 of drugs based on such limited evidence.
 One larger study comparing mixed rate control and rhythm control with a
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 41 of
-conditions#notice-of-rights). 47
---- Страница 42 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 potassium-channel blocker (amiodarone) with or without rate control suggested little
 difference between the 2 groups. Based on this evidence and their experience, the
@@ -1195,9 +1084,7 @@ and an increase in the use of rate-control drugs instead.
 Return to recommendations
 Stopping anticoagulation
 Recommendations 1.11.1 and 1.11.2
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 42 of
-conditions#notice-of-rights). 47
---- Страница 43 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Why the committee made the recommendations
 There was limited evidence on whether to continue anticoagulation or to stop it and switch
@@ -1218,9 +1105,7 @@ How the recommendations might affect practice
 The committee felt that the recommendation would not constitute a change in practice,
 and that there would not be a resource impact on the NHS.
 Return to recommendations
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 43 of
-conditions#notice-of-rights). 47
---- Страница 44 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Context
 Atrial fibrillation is the most common heart rhythm disorder (affecting approximately 2% of
@@ -1251,9 +1136,7 @@ recommendations on these specific issues.
 The recommendations apply to adults (18 years or older) with atrial fibrillation, including
 paroxysmal (recurrent), persistent and permanent atrial fibrillation, and atrial flutter. They
 do not apply to people with congenital heart disease precipitating atrial fibrillation.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 44 of
-conditions#notice-of-rights). 47
---- Страница 45 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Finding more information and committee
 details
@@ -1265,9 +1148,7 @@ including details of the committee.
 NICE has produced tools and resources to help you put this guideline into practice. For
 general help and advice on putting our guidelines into practice, see resources to help you
 put NICE guidance into practice.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 45 of
-conditions#notice-of-rights). 47
---- Страница 46 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 Update information
 30 June 2021: We further corrected recommendation 1.2.2 on using the ORBIT score to
@@ -1296,9 +1177,7 @@ testing out some changes to improve the way we present our guidance.
 Recommendations from the following technology appraisals guidance have been brought
 into this guideline:
 • TA275: apixaban
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 46 of
-conditions#notice-of-rights). 47
---- Страница 47 ---
+
 Atrial fibrillation: diagnosis and management (NG196)
 • TA249: dabigatran etexilate
 • TA355: edoxaban
@@ -1307,5 +1186,3 @@ Atrial fibrillation: diagnosis and management (NG196)
 October 2021: We added a link to NICE's shared decision making guideline in
 recommendation 1.4.2.
 ISBN: 978-1-4731-4043-1
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 47 of
-conditions#notice-of-rights). 47

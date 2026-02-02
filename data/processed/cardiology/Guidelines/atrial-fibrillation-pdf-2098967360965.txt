@@ -11,47 +11,14 @@
 
 === СОДЕРЖАНИЕ ===
 
---- Страница 1 ---
 Atrial fibrillation
 Quality standard
 Published: 9 July 2015
 Last updated: 7 February 2018
 www.nice.org.uk/guidance/qs93
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and-
-conditions#notice-of-rights).
---- Страница 2 ---
+
 Atrial fibrillation (QS93)
-Contents
-Quality statements ..................................................................................................................... 4
-Quality statement 1: Anticoagulation to reduce stroke risk ................................................... 5
-Quality statement .................................................................................................................................. 5
-Rationale ................................................................................................................................................ 5
-Quality measures ................................................................................................................................... 5
-What the quality statement means for different audiences .............................................................. 6
-Source guidance .................................................................................................................................... 7
-Definitions of terms used in this quality statement ........................................................................... 7
-Quality statement 2: Use of aspirin .......................................................................................... 8
-Quality statement .................................................................................................................................. 8
-Rationale ................................................................................................................................................ 8
-Quality measures ................................................................................................................................... 8
-What the quality statement means for different audiences .............................................................. 9
-Source guidance .................................................................................................................................... 9
-Definitions of terms used in this quality statement ........................................................................... 9
-Quality statement 3: Discussing options for anticoagulation ................................................ 11
-Quality statement .................................................................................................................................. 11
-Rationale ................................................................................................................................................ 11
-Quality measures ................................................................................................................................... 11
-What the quality statement means for different audiences .............................................................. 12
-Source guidance .................................................................................................................................... 13
-Definitions of terms used in this quality statement ........................................................................... 13
-Equality and diversity considerations ................................................................................................. 13
-Quality statement 4: Anticoagulation control .......................................................................... 14
-Quality statement .................................................................................................................................. 14
-Rationale ................................................................................................................................................ 14
-Quality measures ................................................................................................................................... 14
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
-conditions#notice-of-rights). 27
---- Страница 3 ---
+
 Atrial fibrillation (QS93)
 What the quality statement means for different audiences .............................................................. 15
 Source guidance .................................................................................................................................... 16
@@ -75,9 +42,7 @@ Update information .............................................................
 About this quality standard ....................................................................................................... 26
 Resource impact .................................................................................................................................... 26
 Diversity, equality and language .......................................................................................................... 27
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
-conditions#notice-of-rights). 27
---- Страница 4 ---
+
 Atrial fibrillation (QS93)
 This standard is based on NG196 and HTG353.
 This standard should be read in conjunction with QS3, QS6, QS9, QS11, QS21, QS28,
@@ -96,9 +61,7 @@ Statement 5 Adults with atrial fibrillation whose treatment fails to control the
 are referred for specialised management within 4 weeks.
 Statement 6 (developmental) Adults with atrial fibrillation on long-term vitamin K
 antagonist therapy are supported to self-manage with a coagulometer.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
-conditions#notice-of-rights). 27
---- Страница 5 ---
+
 Atrial fibrillation (QS93)
 Quality statement 1: Anticoagulation to
 reduce stroke risk
@@ -127,9 +90,7 @@ Data source: Local data collection.
 Process
 Proportion of adults with non-valvular atrial fibrillation and a CHA DS -VAS stroke risk
 2 2 C
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
-conditions#notice-of-rights). 27
---- Страница 6 ---
+
 Atrial fibrillation (QS93)
 score of 2 or above who receive anticoagulation.
 Numerator – the number in the denominator who receive anticoagulation.
@@ -158,9 +119,7 @@ CHA DS -VAS stroke risk score of 2 or above are offered anticoagulation.
 Adults with a type of atrial fibrillation called 'non-valvular' who are identified by their
 doctor as being at higher risk of having a stroke are offered treatment with a medicine
 called an anticoagulant, to lower their risk of having a blood clot that could cause a stroke.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
-conditions#notice-of-rights). 27
---- Страница 7 ---
+
 Atrial fibrillation (QS93)
 Source guidance
 Atrial fibrillation: diagnosis and management. NICE guideline 196 (2021), recommendation
@@ -179,9 +138,7 @@ bleeding.
 Although ORBIT is the best tool for this purpose, other bleeding risk tools may need to be
 used until it is embedded in clinical pathways and electronic systems. [Adapted from
 NICE's guideline on atrial fibrillation, recommendation 1.2.2]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 7 of
-conditions#notice-of-rights). 27
---- Страница 8 ---
+
 Atrial fibrillation (QS93)
 Quality statement 2: Use of aspirin
 Quality statement
@@ -204,9 +161,7 @@ Proportion of adults with atrial fibrillation who are prescribed aspirin as mono
 stroke prevention.
 Numerator – the number in the denominator who are prescribed aspirin as monotherapy
 for stroke prevention.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
-conditions#notice-of-rights). 27
---- Страница 9 ---
+
 Atrial fibrillation (QS93)
 Denominator – the number of adults with atrial fibrillation.
 Data source: Local data collection. Data can be collected using the Royal College of
@@ -230,16 +185,12 @@ Atrial fibrillation: diagnosis and management. NICE guideline 196 (2021), recomm
 Definitions of terms used in this quality statement
 Aspirin as monotherapy for stroke prevention
 Adults with atrial fibrillation might be taking aspirin for a variety of other conditions; if so,
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
-conditions#notice-of-rights). 27
---- Страница 10 ---
+
 Atrial fibrillation (QS93)
 this may result in the person taking aspirin (for the other conditions) as well as
 anticoagulants. If a person chooses not to take anticoagulants, this decision and the
 reason(s) for it should be documented. [NICE's 2014 full guideline on atrial fibrillation]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
-conditions#notice-of-rights). 27
---- Страница 11 ---
+
 Atrial fibrillation (QS93)
 Quality statement 3: Discussing options
 for anticoagulation
@@ -265,9 +216,7 @@ least once a year.
 Process
 Proportion of adults with atrial fibrillation who are prescribed anticoagulation who discuss
 the options with their healthcare professional at least once a year.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
-conditions#notice-of-rights). 27
---- Страница 12 ---
+
 Atrial fibrillation (QS93)
 Numerator – the number in the denominator who discuss the options with their healthcare
 professional at least once a year.
@@ -294,9 +243,7 @@ discuss the options with their healthcare professional at least once a year.
 Adults with atrial fibrillation who are prescribed an anticoagulant have the chance to talk
 with their doctor at least once a year about the types of anticoagulant they could have and
 the advantages and disadvantages of each.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
-conditions#notice-of-rights). 27
---- Страница 13 ---
+
 Atrial fibrillation (QS93)
 Source guidance
 Atrial fibrillation: diagnosis and management. NICE guideline 196 (2021), recommendations
@@ -318,9 +265,7 @@ Discussions with adults with atrial fibrillation about choice of anticoagulants 
 into account any additional needs, such as physical, sensory or learning disabilities, and
 people who do not speak or read English. People should have access to an interpreter or
 advocate if needed.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
-conditions#notice-of-rights). 27
---- Страница 14 ---
+
 Atrial fibrillation (QS93)
 Quality statement 4: Anticoagulation
 control
@@ -344,9 +289,7 @@ Process
 a) Proportion of adults with atrial fibrillation taking a vitamin K antagonist who have their
 time in therapeutic range (TTR) recorded at each visit for INR assessment.
 Numerator – the number in the denominator who have their TTR recorded at each visit for
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
-conditions#notice-of-rights). 27
---- Страница 15 ---
+
 Atrial fibrillation (QS93)
 INR assessment.
 Denominator – the number of adults with atrial fibrillation taking a vitamin K antagonist.
@@ -370,9 +313,7 @@ atrial fibrillation who are taking a vitamin K antagonist and have poor anticoag
 control.
 Commissioners commission secondary care services that have written clinical protocols
 for reassessing anticoagulation in adults with atrial fibrillation who are taking a vitamin K
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
-conditions#notice-of-rights). 27
---- Страница 16 ---
+
 Atrial fibrillation (QS93)
 antagonist and have poor anticoagulation control.
 Adults with atrial fibrillation who are taking a type of anticoagulant called a vitamin K
@@ -397,9 +338,7 @@ computer-assisted dosing or proportion of tests in range for manual dosing
 Reassessing anticoagulation
 The NICE guideline on atrial fibrillation recommends that the following factors should be
 taken into account and addressed if they are contributing to poor anticoagulation control:
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
-conditions#notice-of-rights). 27
---- Страница 17 ---
+
 Atrial fibrillation (QS93)
 • cognitive function
 • adherence to prescribed therapy
@@ -410,9 +349,7 @@ If poor anticoagulation control cannot be improved as a result of this reassessm
 risks and benefits of alternative stroke prevention strategies should be evaluated and
 discussed with the person. [Adapted from NICE's guideline on atrial fibrillation,
 recommendations 1.6.12 and 1.6.13]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
-conditions#notice-of-rights). 27
---- Страница 18 ---
+
 Atrial fibrillation (QS93)
 Quality statement 5: Referral for
 specialised management
@@ -436,9 +373,7 @@ Process
 Proportion of adults with atrial fibrillation whose treatment fails to control their symptoms
 who are referred for specialised management within 4 weeks.
 Numerator – the number in the denominator who are referred for specialised management
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
-conditions#notice-of-rights). 27
---- Страница 19 ---
+
 Atrial fibrillation (QS93)
 within 4 weeks.
 Denominator – the number of adults with atrial fibrillation whose treatment fails to control
@@ -462,9 +397,7 @@ are referred for specialised management within 4 weeks.
 Adults with atrial fibrillation who still have symptoms after treatment are referred within
 4 weeks for specialised care that aims to ease their symptoms and reduce their risk of
 having a stroke or heart failure.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
-conditions#notice-of-rights). 27
---- Страница 20 ---
+
 Atrial fibrillation (QS93)
 Source guidance
 Atrial fibrillation: diagnosis and management. NICE guideline 196 (2021), recommendation
@@ -483,9 +416,7 @@ cardiologist or nurse with an interest in arrhythmia. Specialised management sho
 provided through a package of care that covers key elements of service provision, tailored
 to the person with atrial fibrillation. Formally documenting key elements of the service can
 help to ensure that it has been delivered. [NICE's 2014 full guideline on atrial fibrillation]
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20
-conditions#notice-of-rights). of 27
---- Страница 21 ---
+
 Atrial fibrillation (QS93)
 Quality statement 6 (developmental):
 Self-monitoring of anticoagulation
@@ -509,9 +440,7 @@ Structure
 Evidence of local arrangements for adults with atrial fibrillation on long-term vitamin K
 antagonist therapy to be supported to self-manage with a coagulometer.
 Data source: Local data collection.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
-conditions#notice-of-rights). 27
---- Страница 22 ---
+
 Atrial fibrillation (QS93)
 Process
 Proportion of adults with atrial fibrillation on long-term vitamin K antagonist therapy who
@@ -537,9 +466,7 @@ status, provided that they are willing and able to do so. Healthcare professiona
 provide support for people using the coagulometers.
 Commissioners ensure that secondary care providers have coagulometers for
 self-monitoring available and offer them to adults with atrial fibrillation who are on
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22
-conditions#notice-of-rights). of 27
---- Страница 23 ---
+
 Atrial fibrillation (QS93)
 long-term vitamin K antagonist therapy, and provide support for their use.
 Adults with atrial fibrillation who are taking a vitamin K antagonist over a long time are (if
@@ -566,9 +493,7 @@ Patients and carers should be trained in the effective use of the CoaguChek XS s
 and clinicians involved in their care should regularly review their ability to self-monitor.
 Equipment for self-monitoring should be regularly checked using reliable quality-control
 procedures, and by testing patients' equipment against a healthcare professional's
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23
-conditions#notice-of-rights). of 27
---- Страница 24 ---
+
 Atrial fibrillation (QS93)
 coagulometer which is checked in line with an external quality assurance scheme. Ensure
 accurate patient records are kept and shared appropriately. [NICE's HealthTech guidance
@@ -580,9 +505,7 @@ self-monitor, such as people with disabilities, the possibility of their carers 
 self-monitoring should be considered. Coagulometers currently come at a cost to the adult
 with atrial fibrillation, so reasonable adjustments should be made for the socioeconomic
 status of the adult.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24
-conditions#notice-of-rights). of 27
---- Страница 25 ---
+
 Atrial fibrillation (QS93)
 Update information
 February 2018: The source guidance and definitions for statement 6 have been updated to
@@ -601,9 +524,7 @@ of statement 1.
 April 2021: Source guideline recommendation numbers were updated throughout and
 definitions for statements 1 and 2 were amended in line with the updated NICE guideline
 on atrial fibrillation.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 25
-conditions#notice-of-rights). of 27
---- Страница 26 ---
+
 Atrial fibrillation (QS93)
 About this quality standard
 NICE quality standards describe high-priority areas for quality improvement in a defined
@@ -632,9 +553,7 @@ NICE quality standards should be achievable by local services. The potential res
 impact is considered by the quality standards advisory committee, drawing on resource
 impact work for the source guidance. Organisations are encouraged to use the resource
 impact products for the NICE guideline on atrial fibrillation to help estimate local costs.
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 26
-conditions#notice-of-rights). of 27
---- Страница 27 ---
+
 Atrial fibrillation (QS93)
 Diversity, equality and language
 During the development of this quality standard, equality issues were considered and
@@ -662,5 +581,3 @@ providing services are made aware of and encouraged to use the quality standard.
 • AF Association
 • Heart Valve Voice
 • Society for Acute Medicine (SAM)
-© NICE 2025. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 27 of
-conditions#notice-of-rights). 27
