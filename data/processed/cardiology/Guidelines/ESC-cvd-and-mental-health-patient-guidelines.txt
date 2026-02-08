@@ -1,22 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "ESC-cvd-and-mental-health-patient-guidelines.pdf",
-  "converted_date": "2026-01-31T14:49:20.561306",
-  "file_size_bytes": 1052916,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/ESC-cvd-and-mental-health-patient-guidelines.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-ESC Clinical Consensus Statement on
-Mental Health and
-Cardiovascular Disease:
-What Patients
-Need to Know
-Image is for illustrative purposes only
+ESC Clinical Consensus Statement on Mental Health and Cardiovascular Disease:
 
 What is a Clinical Consensus Statement?
 Clinical Consensus Statements are documents created by healthcare professionals and scientists.
@@ -301,43 +283,3 @@ involve medicines, but other techniques, such as mindfulness training or cogniti
 therapies, work too.
 Both CVD and mental health conditions can have an impact on carers or family members and it is
 important that they receive support if needed.
-Mental health conditions Cardiovascular disease
-Mental health Cardiovascular health
-ACTIVE Psycho-Cardio Stepped care
-principles team approach
-Improved management and better outcomes
-
-This guide for patients is a simplified version of the 2025 ESC Clinical Consensus
-Statement on mental health and cardiovascular disease.
-Authors
-Richard Mindham, ESC Patient Forum, Sophia Antipolis, France
-Faye Forsyth, Department of Public Health and Primary Care, University of Cambridge, Cambridge, United Kingdom,
-and Department of Public Health and Primary Care, KU Leuven, Leuven, Belgium
-Héctor Bueno, Multidisciplinary Translational Cardiovascular Research Group, Centro Nacional de Investigaciones
-Cardiovasculares (CNIC), Madrid, Spain, and Cardiology Department, Hospital Universitario 12 de Octubre and
-Instituto de Investigación Sanitaria Hospital 12 de Octubre (imas12), Madrid, Spain, and Facultad de Medicina,
-Universidad Complutense de Madrid, Madrid, Spain
-Christi Deaton, Public Health and Primary Care, University of Cambridge School of Clinical Medicine, Cambridge,
-United Kingdom
-Claes Held, Uppsala Clinical Research Center, Uppsala University, Uppsala, Sweden, and Department of Medical
-Sciences, Cardiology, Uppsala University, Uppsala, Sweden
-Martina Rojnic Kuzman, Department of Psychiatry and Psychological Medicine, Zagreb University Hospital Centre,
-Zagreb, Croatia, and Department of Psychiatry and Psychological Medicine, Zagreb School of Medicine, Zagreb,
-Croatia, and European Psychiatric Association, Strasbourg, France
-Christos D. Lionis, Laboratory of Health and Society, School of Medicine, University of Crete, Greece, Heraklion,
-Crete, Greece, and University of Limassol, Cyprus
-Disclaimer
-This material was adapted from the 2025 ESC Clinical Consensus Statement on mental health and cardiovascular disease
-(European Heart Journal 2025 -doi.org/10.1093/eurheartj/ehaf191) as published on 29 August 2025.
-Copyright © European Society of Cardiology 2025 - All Rights Reserved.
-This material has been published for personal and educational use only. No commercial use is authorised. No part of this document
-may be translated or reproduced in any form without written permission from the ESC. Permission can be obtained upon submission
-of a written request to ESC, Practice Guidelines Department, Les Templiers - 2035, Route des Colles - CS 80179 Biot - 06903
-Sophia Antipolis Cedex - France. Email: guidelines@escardio.org
-This material was adapted from the ESC Consensus Statement as an aid to patients and carers. It represents the views of the ESC
-and was produced after careful consideration of the scientific and medical knowledge and the evidence available at the time of its
-publication. The ESC is not responsible in the event of any contradiction, discrepancy and/or ambiguity between the ESC Consensus
-Statement and any other official recommendations or guidelines issued by the relevant public health authorities, in particular in
-relation to good use of healthcare or therapeutic strategies. Please refer to the preamble of the original consensus statement for
-further details of the role of Consensus Statements and the individual responsibility of health professionals when making decisions
-for the care of patients.

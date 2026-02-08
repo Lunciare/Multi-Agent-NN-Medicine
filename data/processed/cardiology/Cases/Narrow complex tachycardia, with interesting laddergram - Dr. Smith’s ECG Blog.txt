@@ -1,215 +1,87 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:35.542059",
-  "file_size_bytes": 19398468,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Narrow complex tachycardia, with interesting laddergram - Dr. Smith’s ECG Blog.pdf"
-}
+Case Summary
 
-=== СОДЕРЖАНИЕ ===
+A woman in her late 70s presented to the emergency department with nausea, vomiting, and diarrhea. An ECG was obtained.
 
-Willy Frick onDecember 26, 2025
-Narrow complex
-tachycardia, with interesting
- 
-laddergram
-A woman in her late 70s presented with nausea, vomiting, and
-diarrhea. Her emergency department ECG is shown below:
-ECG 1
-What do you think?
-This was interpreted as atrial flutter with 2:1 block. The
-patient received metoprolol 5 mg IV and converted to sinus
-rhythm.
-ECG 2
-
- 1/15
-Do we still believe the diagnosis of atrial flutter? Remember
-that metoprolol has no ability to cardiovert atrial fibrillation
-or flutter. It helps those patients by slowing conduction
-through the AV node and preventing rapid ventricular rate, but
-it does nothing for the underlying arrhythmia.
-It is possible that a person could spontaneously convert after
-receiving metoprolol, but it is more likely the rhythm was not
-atrial flutter in the first place. Other possibilities for regular,
-narrow complex tachycardia are the usual suspects —
-AVNRT, AVRT, and atrial tachycardia. When you are
-considering an SVT diagnosis, it is useful to compare the QRS
-complexes between sinus rhythm and SVT to inspect for any
-morphologic differences that could be concealing atrial
-activity.
-In this case, V3 is very useful to inspect side by side. Do you
-see any differences?
-Lead V3 side by side
-One difference you might notice is the loss of R wave during
-tachycardia. This may be due to differences in electrode
-positioning (for example if the electrode was positioned
-higher or more medial during tachycardia vs sinus). The other
-difference is the terminally positive wave at the end of the
-QRS.
-V3 terminally positive deflection
- 2/15
-This difference cannot be explained by lead positioning, and
-the more likely explanation is that it reflects atrial activity. We
-can prove it is not 2:1 activity by using marching calipers to
-look for an additional P wave halfway in between those we
-have identified above.
-V3 with marching calipers
-This finding is referred to as a “pseudo Rʼ.” It is
-characteristically seen best in V1, but in this case we see it in
-V3. It is strongly suggestive of typical AVNRT.
-What is typical AVNRT? It is a supraventricular
-tachyarrhythmia where the AV node contains a fast (regular)
-pathway, and a slow pathway. Most of the time in patients
-with dual AV nodes of this type, sinus beats arrive at the AV
-node and enter BOTH pathways. The fast pathway wins the
-race through the node, and depolarizes the ventricles via the
-His-Purkinje system (HPS). The slow pathway arrives a bit
-later when the HPS is refractory, and has no effect on the
-ECG.
-Back to the case:
-The patient was started on amiodarone and therapeutic
-anticoagulation, and discharged with outpatient follow up.
-Several days later, she presented with dizziness. ECG showed
-junctional bradycardia with heart rate in the 30s. Amiodarone
-was held and she was admitted.
-On review of her telemetry, her heart rate trend showed an
-abrupt change. The heart rate trend line is a very powerful
-tool to find interesting portions of telemetry, especially when
-there are abrupt rate changes.
-Telemetry with abrupt rate change
- 3/15
-The rhythm at this change is shown below. Have a look and
-see if you can explain it to yourself before scrolling further.
-Rhythm change
-Here is my interpretation with a ladder diagram. Please note
-that this is just one educated guess. There are other possible
-reasonable interpretations.
-Explanation in words:
-The first four beats are junctional escape beats which
-conduct antegrade into the ventricle, and retrograde up
-the fast pathway (green). They also conduct up the slow
-pathway (orange), but since the fast pathway wins the
-race, the atrium is refractory and there is no evidence of
-slow pathway conduction on surface ECG. In the
-language of EP, we call this “concealed conduction.”
-All of a sudden, the atrium spits out a few beats, P
-waves 5, 6, 7, 8, and 9. Probably a burst of ectopic atrial
-tachycardia (i.e. a few consecutive PACs).
-P5 conducts rapidly down the fast pathway giving
-rise to a ventricular beat. It also conducts down the
-slow pathway but loses the race.
-P6 comes quickly, and as a result, the fast pathway
-(green) is refractory, hence it conducts to the
-ventricle via the slow pathway (orange) with long
-PR.
- 4/15
-P7-9 conduct similarly, but with decrement each
-beat. This is normal physiologic AV node behavior.
-The faster that impulses arrive, the slower it
-conducts.
-After P9, we donʼt see any additional UPRIGHT P waves
-originating from the atrium. Instead, P9 conducts VERY
-slowly down the slow pathway (the PR is longer than the
-RR!). By the time it finally arrives at the bottom of the AV
-node and conducts to the ventricle, the fast pathway has
-recovered, and this initiates re-entry.
-Since the total rate is less than 100, you cannot even call this
-atrioventricular nodal reentrant tachycardia. Instead, this is
-atrioventricular nodal reentrant arrhythmia.
-This patient went for EP study, and was proven to have easily
-inducible AVNRT in lab, which was successfully ablated.
-Learning points:
-Compare the QRS in sinus rhythm and SVT for any
-subtle differences which may reflect atrial activity, in
-particular the “pseudo R prime.”
-The heart rate trend line on telemetry is very helpful for
-learning arrhythmia mechanisms by studying onset and
-termination.
-Abrupt termination of a narrow complex with AV nodal
-blockers strongly favors node-dependent tachycardia,
-e.g. AVNRT or AVRT.
-= = =
-======================================
-MY Comment, by KEN GRAUER, MD
-(12/26/2025):
-Regular readers of My Comments in Dr. Smithʼs ECG Blog
-know that I often cite this quote by Rosenbaum — “Every
-self-respecting arrhythmia has at least 3 possible
-interpretations.” Todayʼs case certainly qualifies as
-displaying several “self-respecting” ( =challenging)
-arrhythmias — for which Iʼll offer another perspective to that
-provided above by Dr. Frick in his excellent discussion..
-= = =
-MYThoughts on the Initial Rhythm:
- 5/15
-For clarity in Figure-1 — Iʼve reproduced the initial ECG —
-with the repeat tracing below it (recorded after 5 mg IV
-Metoprolol successfully converted the rhythm to sinus).
-I interpreted ECG #1 as showing a regular SVT
-(SupraVentricular Tachycardia)rhythm at ~135/minute,
-but without clear sign of sinus P waves. This description
-should prompt the usual differential diagnosis of: i)
-Sinus tachycardia (highly unlikelyin Figure-1, since the
-upright deflection in the middle of the R-R interval in
-lead II looks to be a T wave; It would be very unusual for
-there to be such a long PR interval in sinus tachycardia
-when the rate is this fast); — ii) AFlutter (which it is not
-— as per the above demonstration by Dr. Frick that none
-of the 12 leads demonstrate any sign of 2:1 AV
-conduction); — iii) ATach (Atrial Tachycardia) — which
-might be possible (albeit this would entail a very long PR
-interval); — or, iv) A reentry SVT (ie, either AVNRT or
-orthodromic AVRT — depending on whether the reentry
-circuit was contained within the AV Node, or extended
-beyond the AV Node with inclusion of an Accessory
-Pathway).
-I suspected the answer was iv) = a reentry SVT — with
-the KEY to further distinction between AVNRT vs
-orthodromic AVRT residing with whether retrograde
-atrial activity might be present, and if so — the nature
-of such atrial activity.
-KEY Point: In general — retrograde P waves are
-recognized by the presence of negative deflections in
-one or more of the inferior leads (II,III,aVF) that occur
-after the QRS complex. With AVNRT (in which the
-reentry circuit is entirely contained within the AV Node)
-— the RPʼ interval ( = distance from the QRS until the
-retrograde P wave) tends to be very short, such that we
-either do not see retrograde negative deflections
-(because they are “concealed” within the QRS) or we
-see retrograde P waves occurring at the very end of the
-QRS (often distorting the S wavein lead II, III and/or
-aVF).
-In contrast — with orthodromic AVRT (in which the
-complete path of the reentry circuit will be greater
-becausethe circuit extends outside of the AV Node to
-include a portion of an AP) — there tends to be a longer
-RPʼ interval, in which the negative retrograde deflection
-will usually be seen after the end of the QRS, within the
-ST segment. Exceptions exist! — but the above
-generalities with respect to the length of the RPʼ interval
-often provide an insightful clue as to whether or not the
-patient is likely to have a “concealed” AP that
-participates in the retrograde limb of a reentry SVT
-rhythm.
- 6/15
-So how do we know if the tiny deflections that we see during
-a fast SVT rhythm represent retrogradeP waves?
-The best way to tell — is to scrutinize the QRS complex
-in the repeat ECG obtained after conversion to sinus
-rhythm, to see if the deflections we were questioning
-during the SVT are no longer seen. This is where the
-long lead II rhythm strips at the bottom of each tracing in
-Figure-1 are so helpful — because they provide us with
-multiple consecutive beats that reveal what was
-happening in lead II.
-As suggested in the magnified insert view in lead II of
-ECG #1 — I thought there was a biphasic retrograde P
-wave(REDarrow highlighting a small initial pointed
-upright deflection immediately after the QRS — followed
-by a BLUE arrow highlighting a wider negative
-deflection seen just before the T wave). To Emphasize: I
-was not at all certain
+Initial ECG (ECG 1)
+
+The rhythm was regular, narrow complex tachycardia and was initially interpreted as atrial flutter with 2:1 AV block. The patient received metoprolol 5 mg IV and subsequently converted to sinus rhythm.
+
+Reconsidering the Diagnosis
+
+Metoprolol does not cardiovert atrial flutter or atrial fibrillation; it only slows AV nodal conduction. While spontaneous conversion is possible, successful conversion after metoprolol strongly suggests the rhythm was not atrial flutter.
+
+Alternative diagnoses for a regular narrow-complex tachycardia include:
+
+AVNRT
+
+AVRT
+
+Atrial tachycardia
+
+To differentiate SVT mechanisms, comparison of QRS morphology between sinus rhythm and tachycardia is useful to detect concealed atrial activity.
+
+Key ECG Clue (Lead V3)
+
+Side-by-side comparison of lead V3 showed:
+
+Loss of the R wave during tachycardia (possibly lead position–related)
+
+A terminally positive deflection at the end of the QRS during tachycardia
+
+This terminal deflection cannot be explained by lead placement and is most consistent with atrial activity.
+
+Using marching calipers showed no additional P wave halfway between beats, excluding 2:1 flutter conduction.
+
+This terminal deflection represents a “pseudo R′”, a classic finding of typical AVNRT (often best seen in V1, but in this case visible in V3).
+
+Mechanism of Typical AVNRT
+
+Typical AVNRT occurs in patients with dual AV nodal pathways:
+
+A fast pathway
+
+A slow pathway
+
+During sinus rhythm:
+
+Impulses enter both pathways
+
+The fast pathway reaches the ventricles first
+
+Slow pathway conduction arrives when the His–Purkinje system is refractory and is electrically silent (“concealed conduction”)
+
+Clinical Course
+
+The patient was discharged on amiodarone and therapeutic anticoagulation.
+
+Several days later, she re-presented with dizziness. ECG showed junctional bradycardia with heart rate in the 30s. Amiodarone was held and she was admitted.
+
+Telemetry Findings
+
+Telemetry heart rate trend showed an abrupt rate change, prompting rhythm review.
+
+Rhythm Interpretation (Laddergram Explanation)
+
+Initial beats were junctional escape beats with antegrade ventricular conduction and retrograde conduction up both AV nodal pathways, with concealed conduction via the slow pathway.
+
+A brief burst of atrial ectopy occurred (P waves 5–9).
+
+Early atrial impulses conducted via the fast pathway.
+
+Subsequent impulses found the fast pathway refractory and conducted via the slow pathway, producing progressively longer PR intervals (decremental conduction).
+
+One atrial impulse conducted extremely slowly down the slow pathway; by the time it reached the distal AV node, the fast pathway had recovered, initiating re-entry.
+
+Because the resulting rate was <100 bpm, this was termed atrioventricular nodal reentrant arrhythmia, rather than tachycardia.
+
+Definitive Management
+
+The patient underwent electrophysiology study, which demonstrated easily inducible AVNRT. She underwent successful ablation.
+
+Learning Points
+
+Compare QRS morphology between sinus rhythm and SVT to detect concealed atrial activity, especially a pseudo R′.
+
+Telemetry heart rate trend lines are valuable for identifying arrhythmia onset and termination.
+
+Abrupt termination of a narrow-complex tachycardia with AV nodal blockers strongly favors a node-dependent mechanism (AVNRT or AVRT).

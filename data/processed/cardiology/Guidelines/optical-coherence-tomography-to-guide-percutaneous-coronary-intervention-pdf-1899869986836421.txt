@@ -1,44 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "optical-coherence-tomography-to-guide-percutaneous-coronary-intervention-pdf-1899869986836421.pdf",
-  "converted_date": "2026-01-31T14:45:21.868598",
-  "file_size_bytes": 71144,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/optical-coherence-tomography-to-guide-percutaneous-coronary-intervention-pdf-1899869986836421.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Optical coherence tomography
-to guide percutaneous coronary
-intervention
-Interventional procedures guidance
-Published: 23 February 2014
-www.nice.org.uk/guidance/ipg481
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-
-Optical coherence tomography to guide percutaneous coronary intervention (IPG481)
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Optical coherence tomography to guide percutaneous coronary intervention
 1 Recommendations
 1.1 The evidence on the safety of optical coherence tomography (OCT) to guide
 percutaneous coronary intervention (PCI) shows no major concerns. The
@@ -60,7 +20,7 @@ with no intravascular imaging or PCI with intravascular ultrasound. Research
 outcomes should include data on medium- and long-term clinical outcomes,
 including the need for revascularisation.
 
-Optical coherence tomography to guide percutaneous coronary intervention (IPG481)
+ 
 2 Indications and current treatments
 2.1 Optical coherence tomography (OCT) uses a catheter emitting near-infrared light
 to produce high-resolution images of blood vessel walls. It may be used to assess
@@ -88,7 +48,7 @@ has superseded TD OCT in the UK.
 intravascular ultrasound, and has rapid 3-dimensional reconstruction capability.
 The aim of providing more detailed images is to improve clinical outcome.
 
-Optical coherence tomography to guide percutaneous coronary intervention (IPG481)
+ 
 4 Efficacy
 This section describes efficacy outcomes from the published literature that the Committee
 considered as part of the evidence about this procedure. For more detailed information on
@@ -121,7 +81,7 @@ deferred had a coronary event within an average follow-up of 4.6 months.
 management due to OCT imaging results. They cited as examples identifying
 culprit or non-culprit plaques in acute coronary syndromes, identifying
 
-Optical coherence tomography to guide percutaneous coronary intervention (IPG481)
+ 
 intracoronary or intra-stent thrombus, identifying dissections and complications
 after stenting, examining stent deformation and conformation, identifying modes
 of stent failure including neoatherogenesis, and documenting stent tissue
@@ -151,7 +111,7 @@ The imaging wire became trapped within the struts of a stent and the tip
 fractured and remained within the stent. At 4-month follow-up there had been no
 clinical consequences and angiography showed no flow abnormalities.
 
-Optical coherence tomography to guide percutaneous coronary intervention (IPG481)
+ 
 5.6 Multiple thrombi were reported during OCT imaging in 3 patients presented in
 case reports. These formed during OCT imaging in the left anterior descending
 artery causing total occlusion in 1 patient and subtotal occlusion in 2 others. All
@@ -177,15 +137,3 @@ used. It considered that a high degree of certainty about the clinical utility o
 procedure was therefore necessary, and this underpinned the recommendation in
 section 1.1.
 
-Optical coherence tomography to guide percutaneous coronary intervention (IPG481)
-7 Further information
-Sources of evidence
-The evidence considered by the Interventional Procedures Advisory Committee is
-described in the overview.
-Information for patients
-NICE has produced information for the public on this procedure. It explains the nature of
-the procedure and the guidance issued by NICE, and has been written with patient
-consent in mind.
-ISBN: 978-1-4731-0442-6
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

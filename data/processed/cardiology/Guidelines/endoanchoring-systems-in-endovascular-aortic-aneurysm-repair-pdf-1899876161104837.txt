@@ -1,44 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "endoanchoring-systems-in-endovascular-aortic-aneurysm-repair-pdf-1899876161104837.pdf",
-  "converted_date": "2026-01-31T14:49:19.026311",
-  "file_size_bytes": 64868,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/endoanchoring-systems-in-endovascular-aortic-aneurysm-repair-pdf-1899876161104837.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Endoanchoring systems in
-endovascular aortic aneurysm
-repair
-Interventional procedures guidance
-Published: 25 May 2022
-www.nice.org.uk/guidance/ipg725
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-
-Endoanchoring systems in endovascular aortic aneurysm repair (IPG725)
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Endoanchoring systems in endovascular aortic aneurysm repair
 1 Recommendations
 1.1 For people with unfavourable aneurysm morphology needing an endovascular
 aortic aneurysm repair (EVAR) as a primary procedure, or for people with an
@@ -63,7 +23,7 @@ information to support shared decision making, including NICE's information
 for the public.
 • Ensure that patients (and their families and carers as appropriate) understand
 
-Endoanchoring systems in endovascular aortic aneurysm repair (IPG725)
+ 
 the procedure's safety and efficacy, and any uncertainties about these.
 • Enter details about everyone having endoanchoring systems in endovascular
 aortic aneurysm repair into the National Vascular Registry and review local
@@ -87,7 +47,7 @@ aneurysms).
 Current treatments
 2.2 The standard treatment for aortic aneurysm is either open surgical or
 
-Endoanchoring systems in endovascular aortic aneurysm repair (IPG725)
+ 
 endovascular repair. During open surgical repair, the aneurysm is opened and a
 graft is sewn in above and below the weakened area to allow normal blood flow.
 Endovascular repair is a minimally invasive alternative to open repair. A graft is
@@ -115,7 +75,7 @@ closed.
 The evidence
 3.1 NICE did a rapid review of the published literature on the efficacy and safety of
 
-Endoanchoring systems in endovascular aortic aneurysm repair (IPG725)
+ 
 this procedure. This comprised a comprehensive literature search and detailed
 review of the evidence from 8 sources, which was discussed by the committee.
 The evidence included 2 systematic reviews, 1 non-randomised comparative
@@ -144,7 +104,3 @@ aneurysm morphology and this is where most of the evidence comes from.
 who develop an intraoperative complication such as an endoleak during a
 primary EVAR. Data collection in this group of people would be helpful.
 
-Endoanchoring systems in endovascular aortic aneurysm repair (IPG725)
-ISBN: 978-1-4731-4595-5
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

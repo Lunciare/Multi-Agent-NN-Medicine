@@ -1,40 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "peripheral-arterial-disease-pdf-2098723816645.pdf",
-  "converted_date": "2026-01-31T14:49:52.990591",
-  "file_size_bytes": 127128,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/peripheral-arterial-disease-pdf-2098723816645.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
 Peripheral arterial disease
-Quality standard
-Published: 21 January 2014
-www.nice.org.uk/guidance/qs52
-
-Peripheral arterial disease (QS52)
-
-Peripheral arterial disease (QS52)
-Source guidance ..................................................................................................................................... 16
-Definitions of terms used in this quality statement ............................................................................ 16
-Quality statement 5: Angioplasty for intermittent claudication .............................................. 18
-Quality statement ................................................................................................................................... 18
-Rationale ................................................................................................................................................. 18
-Quality measures .................................................................................................................................... 18
-What the quality statement means for different audiences ............................................................... 19
-Source guidance .....................................................................................................................................20
-Definitions of terms used in this quality statement ............................................................................20
-About this quality standard ........................................................................................................ 21
-Diversity, equality and language ........................................................................................................... 21
-
-Peripheral arterial disease (QS52)
-This standard is based on CG147.
-This standard should be read in conjunction with QS6, QS15, QS28, QS43, QS89,
-QS92, QS100 and QS99.
 Quality statements
 Statement 1 People who have symptoms of, or who are at risk of developing, peripheral
 arterial disease (PAD) are offered a clinical assessment and ankle brachial pressure index
@@ -50,7 +14,7 @@ imaging has confirmed it is appropriate, after advice on the benefits of modifyi
 factors has been given and after a supervised exercise programme has not improved
 symptoms.
 
-Peripheral arterial disease (QS52)
+ 
 Quality statement 1: Identification and
 assessment of peripheral arterial disease
 Quality statement
@@ -75,7 +39,7 @@ Data source: Local data collection.
 are at risk of developing, PAD are offered a clinical assessment and ABPI measurement.
 Data source: Local data collection.
 
-Peripheral arterial disease (QS52)
+ 
 (c) Evidence of local arrangements to ensure that all healthcare practitioners undertaking
 hand-held doppler ultrasound assessment of ABPI are appropriately trained.
 Data source: Local data collection.
@@ -99,7 +63,7 @@ What the quality statement means for different
 audiences
 Service providers ensure that hand-held doppler ultrasounds are adequately available;
 
-Peripheral arterial disease (QS52)
+ 
 that staff are trained to recognise the symptoms of PAD; and that people who have
 symptoms of PAD or who are at risk of developing it are offered a clinical assessment and
 ABPI measurement.
@@ -127,7 +91,7 @@ Symptoms include:
 • pain in the leg when walking that resolves when stopping (intermittent claudication),
 pain in the foot at rest, often made worse by elevation (for example, in bed at night
 
-Peripheral arterial disease (QS52)
+ 
 disturbing sleep and relieved by hanging the foot down)
 • tissue loss (ulceration or gangrene).
 [Adapted from NICE's guideline on peripheral arterial disease]
@@ -150,7 +114,7 @@ ABPI measurement
 Recommendation 1.3.3 in NICE's guideline on peripheral arterial disease provides guidance
 on how this should be done.
 
-Peripheral arterial disease (QS52)
+ 
 Quality statement 2: Comorbidity
 assessment
 Quality statement
@@ -173,7 +137,7 @@ and modifiable risk factors.
 Numerator: the number of people in the denominator receiving an assessment of
 cardiovascular comorbidities and modifiable risk factors.
 
-Peripheral arterial disease (QS52)
+ 
 Denominator: the number of people with PAD.
 Data source: Local data collection. Data on the percentage of patients with PAD in whom
 the last blood pressure reading (measured in the preceding 12 months) is 150/90 mmHg or
@@ -200,7 +164,7 @@ updated 2020), recommendation 1.2.1
 Definitions of terms used in this quality statement
 Assessment of cardiovascular comorbidities and modifiable risk
 
-Peripheral arterial disease (QS52)
+ 
 factors
 This should include a review of:
 • smoking status
@@ -212,7 +176,7 @@ This should include a review of:
 • current antiplatelet therapy.
 [Adapted from NICE's guideline on peripheral arterial disease, recommendation 1.2.1]
 
-Peripheral arterial disease (QS52)
+ 
 Quality statement 3: Supervised exercise
 programmes
 Quality statement
@@ -234,7 +198,7 @@ programme.
 Denominator: the number of people with intermittent claudication.
 Data source: Local data collection.
 
-Peripheral arterial disease (QS52)
+ 
 (b) Proportion of people with intermittent claudication who start a supervised exercise
 programme.
 Numerator: the number of people in the denominator starting a supervised exercise
@@ -259,7 +223,7 @@ audiences
 Service providers ensure the availability of a supervised exercise programme for all people
 with intermittent claudication.
 
-Peripheral arterial disease (QS52)
+ 
 Healthcare practitioners ensure that they offer supervised exercise programmes to all
 people with intermittent claudication.
 Commissioners ensure that they commission supervised exercise programmes that can
@@ -280,7 +244,7 @@ This may involve the following components:
 • encouraging people to exercise to the point of maximal pain.
 [Adapted from NICE's guideline on peripheral arterial disease, recommendation 1.5.2]
 
-Peripheral arterial disease (QS52)
+ 
 Quality statement 4: Imaging
 Quality statement
 People with peripheral arterial disease (PAD) being considered for revascularisation who
@@ -304,7 +268,7 @@ Process
 Proportion of people with PAD being considered for revascularisation needing further
 imaging after a duplex ultrasound who receive MRA.
 
-Peripheral arterial disease (QS52)
+ 
 Numerator: the number of people in the denominator receiving MRA.
 Denominator: the number of people with PAD being considered for revascularisation who
 need further imaging after a duplex ultrasound.
@@ -330,7 +294,7 @@ Definitions of terms used in this quality statement
 Revascularisation
 Any procedure that is used to restore blood flow to an area of the body that is supplied by
 
-Peripheral arterial disease (QS52)
+ 
 narrowed or blocked arteries. This can be done either by making the narrowed arteries
 wider (angioplasty, stenting), or by using another blood vessel to bypass the blocked or
 narrowed artery (bypass surgery).
@@ -356,7 +320,7 @@ ischaemia caused by complete aorto-iliac occlusion (rather than stenosis).
 [Adapted from NICE's guideline on peripheral arterial disease, recommendations 1.5.3,
 1.5.5, 1.6.2 and 1.6.4]
 
-Peripheral arterial disease (QS52)
+ 
 Quality statement 5: Angioplasty for
 intermittent claudication
 Quality statement
@@ -381,7 +345,7 @@ Process
 Proportion of people with intermittent claudication receiving angioplasty who have had
 imaging to confirm angioplasty is appropriate, received advice on the benefits of
 
-Peripheral arterial disease (QS52)
+ 
 modifying risk factors and undergone a supervised exercise programme that did not
 improve symptoms.
 Numerator: the number of people in the denominator who have had imaging to confirm
@@ -409,67 +373,3 @@ People who have pain when walking because of poor circulation are offered angiop
 widen the artery) only when an imaging test has confirmed that angioplasty is suitable,
 and advice on the risk factors of peripheral arterial disease and a supervised exercise
 programme have not improved symptoms.
-
-Peripheral arterial disease (QS52)
-Source guidance
-Peripheral arterial disease: diagnosis and management. NICE guideline CG147 (2012,
-updated 2020), recommendation 1.5.3
-Definitions of terms used in this quality statement
-Intermittent claudication
-A walking- or exercise-induced pain in the lower limbs caused by diminished circulation.
-[NICE's full guideline on peripheral arterial disease]
-
-Peripheral arterial disease (QS52)
-About this quality standard
-NICE quality standards describe high-priority areas for quality improvement in a defined
-care or service area. Each standard consists of a prioritised set of specific, concise and
-measurable statements. NICE quality standards draw on existing NICE or NICE-accredited
-guidance that provides an underpinning, comprehensive set of recommendations, and are
-designed to support the measurement of improvement.
-Expected levels of achievement for quality measures are not specified. Quality standards
-are intended to drive up the quality of care, and so achievement levels of 100% should be
-aspired to (or 0% if the quality statement states that something should not be done).
-However, this may not always be appropriate in practice. Taking account of safety, shared
-decision-making, choice and professional judgement, desired levels of achievement should
-be defined locally.
-Information about how NICE quality standards are developed is available from the NICE
-website.
-See our webpage on quality standards advisory committees for details about our standing
-committees. Information about the topic experts invited to join the standing members is
-available from the webpage for this quality standard.
-NICE has produced a quality standard service improvement template to help providers
-make an initial assessment of their service compared with a selection of quality
-statements. This tool is updated monthly to include new quality standards.
-NICE guidance and quality standards apply in England and Wales. Decisions on how they
-apply in Scotland and Northern Ireland are made by the Scottish government and Northern
-Ireland Executive. NICE quality standards may include references to organisations or
-people responsible for commissioning or providing care that may be relevant only to
-England.
-Diversity, equality and language
-Equality issues were considered during development and equality assessments for this
-quality standard are available. Any specific issues identified during development of the
-
-Peripheral arterial disease (QS52)
-quality statements are highlighted in each statement.
-Commissioners and providers should aim to achieve the quality standard in their local
-context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity and foster good relations. Nothing in this
-quality standard should be interpreted in a way that would be inconsistent with
-compliance with those duties.
-ISBN: 978-1-4731-0427-3
-Endorsing organisation
-This quality standard has been endorsed by NHS England, as required by the Health and
-Social Care Act (2012)
-Supporting organisations
-Many organisations share NICE's commitment to quality improvement using evidence-
-based guidance. The following supporting organisations have recognised the benefit of
-the quality standard in improving care for patients, carers, service users and members of
-the public. They have agreed to work with NICE to ensure that those commissioning or
-providing services are made aware of and encouraged to use the quality standard.
-• Foot In Diabetes UK
-• Royal College of Podiatry
-• Royal College of General Practitioners (RCGP)
-• Royal College of Nursing (RCN)
-• Royal College of Surgeons of Edinburgh
-• Society of Vascular Nurses
-• Vascular Society

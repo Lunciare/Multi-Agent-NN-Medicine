@@ -1,23 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "shortterm-circulatory-support-with-left-ventricular-assist-devices-as-a-bridge-to-cardiac-transplantation-or-recovery-pdf-1899863406100933.pdf",
-  "converted_date": "2026-01-31T14:45:07.867191",
-  "file_size_bytes": 69132,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/shortterm-circulatory-support-with-left-ventricular-assist-devices-as-a-bridge-to-cardiac-transplantation-or-recovery-pdf-1899863406100933.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Short-term circulatory support
-with left ventricular assist
-devices as a bridge to cardiac
-transplantation or recovery
-Interventional procedures guidance
-Published: 28 June 2006
-www.nice.org.uk/guidance/ipg177
+Short-term circulatory support with left ventricular assist devices as a bridge to cardiac
+transplantation or recovery 
 1 Guidance
 1.1 Limited evidence on the safety and efficacy of short-term circulatory
 support with left ventricular assist devices (LVADs) as a bridge to cardiac
@@ -30,8 +12,7 @@ procedure is a temporary measure. In addition, use of NICE's information
 for the public is recommended.
 1.3 Publication of further research will be useful, particularly on the use of
 
-Short-term circulatory support with left ventricular assist devices as a bridge to cardiac
-transplantation or recovery (IPG177)
+ 
 this procedure in patients with cardiogenic shock following acute
 myocardial infarction.
 2 The procedure
@@ -60,8 +41,7 @@ and the outflow pipe is inserted into the systemic arterial system, usually
 the aorta. The LVAD pumps oxygenated blood from the failing left
 ventricle into the systemic arterial system under pressure.
 
-Short-term circulatory support with left ventricular assist devices as a bridge to cardiac
-transplantation or recovery (IPG177)
+ 
 2.3 Efficacy
 2.3.1 In the active arm of a non-randomised controlled study, 78% (32/41) of
 patients survived for a mean of 215 days with LVAD support. In another
@@ -94,8 +74,7 @@ randomised controlled trial noted infection in 8% (1/13) of patients during
 LVAD bridging, and one case series reported an infection rate of 18%
 (43/243).
 
-Short-term circulatory support with left ventricular assist devices as a bridge to cardiac
-transplantation or recovery (IPG177)
+ 
 2.4.2 Definitions of cerebral events varied between studies, which made
 interpretation difficult. Cerebral infarction causing stroke was found to
 have occurred in 21% (55/264) of patients in 1 series. In a second case
@@ -129,8 +108,7 @@ include a right-ventricular assist device (biventricular assist devices).
 The Institute may review this guidance upon publication of further
 evidence.
 
-Short-term circulatory support with left ventricular assist devices as a bridge to cardiac
-transplantation or recovery (IPG177)
+ 
 2.5.3 It was also noted that implantation of an LVAD could unmask previously
 subclinical right ventricular dysfunction.
 2.5.4 These recommendations exclude circulatory support with left ventricular
@@ -142,20 +120,3 @@ diagnosis and management.
 Assessment (HTA) Programme has produced a report on the Evaluation
 of the ventricular assist device programme in the UK (EVAD), which was
 published in November 2006.
-Sources of evidence
-The evidence considered by the interventional procedures advisory committee is
-described in the interventional procedure overview of left ventricular assist devices as a
-bridge to transplantation or to recovery.
-Information for patients
-NICE has produced information on this procedure for patients and carers. It explains the
-nature of the procedure and the guidance issued by NICE, and has been written with
-patient consent in mind.
-Update information
-Minor changes since publication
-January 2012: minor maintenance.
-ISBN: 978-1-4731-4559-7
-
-Short-term circulatory support with left ventricular assist devices as a bridge to cardiac
-transplantation or recovery (IPG177)
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

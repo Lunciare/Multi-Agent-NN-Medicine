@@ -1,56 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "guidance-on-the-use-of-glycoprotein-iibiiia-inhibitors-in-the-treatment-of-acute-coronary-syndromes-pdf-2294582158789.pdf",
-  "converted_date": "2026-01-31T14:44:22.809215",
-  "file_size_bytes": 161378,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/guidance-on-the-use-of-glycoprotein-iibiiia-inhibitors-in-the-treatment-of-acute-coronary-syndromes-pdf-2294582158789.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Guidance on the use of
-glycoprotein IIb/IIIa
-inhibitors in the treatment
-of acute coronary
+Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
 syndromes
-Technology appraisal guidance
-Published: 5 September 2002
-Last updated: 1 March 2010
-www.nice.org.uk/guidance/ta47
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-This guidance replaces TA12.
-This guidance is partially replaced by CG94.
 1 Recommendations
 1.1 This recommendation no longer stands.
 1.2 This recommendation has been updated and replaced by recommendation 1.1.5 in
@@ -72,8 +21,7 @@ immediate complications occur.
 1.8 GP IIb/IIIa inhibitors are not currently licensed in the UK for use as an adjunct to
 thrombolytic therapy in ST-segment-elevation myocardial infarction (STEMI).
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 2 Clinical need and practice
 2.1 Coronary heart disease (CHD) is the most common cause of death in the UK. It is
 a progressive disease. The first presenting symptom is often stable angina (pain
@@ -105,8 +53,7 @@ Recently, the incidence of unstable angina has been estimated at 226 cases per
 100,000 population, which equates to approximately 120,000 cases in England
 and Wales per annum.
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 2.5 In 1999, in England and Wales, there were over 115,000 deaths caused by CHD.
 Although CHD-associated mortality rates are falling by about 4% per year in the
 UK, this does not reflect a fall in incidence of the disease. In addition,
@@ -141,8 +88,7 @@ dose unfractionated heparin, for patients with unstable angina at high risk of
 death or further MI. NICE's guidance recommended intravenous administration of
 GP IIb/IIIa inhibitors to patients undergoing acute or elective PCI.
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 3 The technology
 3.1 Abciximab (ReoPro)
 3.1.1 Abciximab is a monoclonal antibody that targets the glycoprotein (GP) IIb/IIIa
@@ -169,8 +115,7 @@ binding of fibrinogen and other adhesive ligands to the GP IIb/IIIa receptor.
 3.2.2 Eptifibatide is indicated for the prevention of early MI in patients presenting with
 unstable angina or non-Q-wave MI (NSTEMI) who have had chest pain within the
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 last 24 hours and who have electrocardiogram (ECG) changes and/or elevated
 cardiac enzymes. It is administered intravenously at an initial bolus dose of
 180 microgram/kg followed by a maintenance dose of 2.0 microgram/kg/min for
@@ -201,8 +146,7 @@ characteristics.
 70-kg person, the cost per course ranges from £292 to £584, depending on the
 duration of treatment (costs rounded to full vials).
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 4 Evidence and interpretation
 The appraisal committee considered evidence from a number of sources. Each indication
 was considered separately.
@@ -232,8 +176,7 @@ small compared with those of other interventions in acute coronary syndrome
 may be particularly effective in troponin-positive patients. A recently published
 meta-analysis seen by the committee (the Boersma study) analysed the data for
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 various subgroups and suggested that, in those not routinely scheduled for early
 percutaneous coronary intervention (PCI), the rate of cardiac complications is
 reduced following the administration of GP IIb/IIIa inhibitors.
@@ -266,8 +209,7 @@ to those who had acute PCI after MI. All trials were classified as RCTs, and man
 of them were large (with at least 1,000 participants). Outcomes measured
 included death, non-fatal MI, the need for PCI or coronary artery bypass grafting
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 (CABG) after the current procedure, and adverse events.
 4.1.2.2 Again, the results of the trials were not pooled for the assessment report because
 of heterogeneity, which included differences between studies in the inclusion
@@ -299,8 +241,7 @@ in patients undergoing potentially complex PCI, which might include multivessel
 disease, the use of multiple stents, PCI of a vein graft or PCI of bifurcation
 lesions.
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 4.2 Cost effectiveness
 4.2.1 GP IIb/IIIa inhibitors for the medical management of ACSs
 4.2.1.1 The assessment group found no additional cost-effectiveness studies beyond the
@@ -330,8 +271,7 @@ elective PCIs in a UK setting, estimates of cost per quality-adjusted life year
 (QALY) ranged from £6,941 to £9,053 based on the EPILOG trial and from £3,949
 to £5,151 based on the EPISTENT trial. These estimates must be interpreted with
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 caution for the following reasons: the baseline risk of events is different in the UK
 from that in the trials; the assumption that patients surviving the first year will live
 for a further 15 years ignores variability of prognosis; and it may not be valid to
@@ -363,8 +303,7 @@ estimated at £3,966. The additional benefit of use in all patients compared to
 use in high-risk patients alone was gained at a cost per QALY of £91,000.
 When using GP IIb/IIIa inhibitors as an adjunct to PCI was compared with not
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 using them, the base-case cost per QALY was £25,811; this was reduced to
 £11,160 if baseline event rates based on Boersma data were applied.
 4.2.3.2 In summary, the assessment report model, which is the closest representation of
@@ -396,8 +335,7 @@ estimates of cost effectiveness for the UK and, on the balance of clinical and c
 effectiveness, the committee concluded that use of GP IIb/IIIa inhibitors for initial
 medical management in high-risk patients was the preferred treatment strategy.
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 4.3.4 The current licensed indications for the GP IIb/IIIa inhibitors are for use with
 aspirin and unfractionated heparin. However, the committee recognised that low-
 molecular-weight heparin (LMWH) is used widely in the management of ACS in
@@ -425,8 +363,7 @@ immediate complications occur. The low risk of adverse events during such PCI
 procedures is demonstrated by UK audit data submitted by the British Cardiac
 Society and Royal College of Physicians (London).
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 5 Recommendations for further research
 5.1 All of the trials currently available looked at the glycoprotein (GP) IIb/IIIa inhibitors
 in conjunction with heparin, in line with their licensed indications. There is an
@@ -450,8 +387,7 @@ patients with ACS will be necessary.
 factors and troponin levels, so as to assess the value added by the troponin
 result in the determination of risk level.
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 6 Implications for the NHS
 6.1 Replacement of the September 2000 guidance with this revised guidance is not
 anticipated to increase costs to the NHS. Fewer patients undergoing elective
@@ -469,8 +405,7 @@ NHS centres during 2000. However, since there are only limited data as to the
 case-mix of patients undergoing these procedures estimation of budget impact
 cannot be made.
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 7 Implementation and audit
 7.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -500,8 +435,7 @@ used. Further details of suggestions for audit are in section 10.
 inhibitor (eptifibatide or tirofiban) as part of their initial medical management
 (together with aspirin and unfractionated heparin):
 
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
+ 
 • patients with unstable angina who are at high risk of subsequent MI or death
 • patients with NSTEMI who are at high risk of subsequent MI or death.
 7.8 Patients who are at high risk and for whom percutaneous coronary intervention
@@ -516,321 +450,3 @@ complications occur.
 7.11 Local clinical audits on the care of patients with ACS also could include criteria on
 other aspects of care referred to in the National Service Framework for Coronary
 Heart Disease.
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-8 Appraisal committee members
-The appraisal committee is a standing advisory committee of NICE. Its members are
-appointed for a 3-year term. The appraisal committee meets 3 times a month except in
-December, when there are no meetings. The committee membership is split into
-3 branches, with the chair, vice-chair and a number of other members between them
-attending meetings of all branches. Each branch considers its own list of technologies and
-ongoing topics are not moved between the branches.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that appraisal.
-The minutes of each appraisal committee meeting, which include the names of the
-members who attended and their declarations interests, are posted on the NICE website.
-The following is a list of the committee members who took part in the discussions for this
-appraisal.
-Dr Jane Adam
-Radiologist, St George's Hospital, London
-Professor R L Akehurst
-Dean, School of Health-Related Research, Sheffield University
-Dr Sunil Angris
-General Practitioner, Waterhouses Medical Practice
-Professor David Barnett (Chair)
-Professor of Clinical Pharmacology, University of Leicester
-Professor Sir Colin Berry
-Professor of Morbid Anatomy, St Bartholomew's and Royal London's School of Medicine
-Dr Sheila Bird
-MRC Biostatistics Unit, Cambridge
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-Professor Carol Black
-Consultant Physician, Royal Free Hospital and UCL, London
-Professor John Brazier
-Health Economist, University of Sheffield
-Professor Martin Buxton
-Director of Health Economics Research Group, Brunel University
-Professor Mike Campbell
-Statistician, Institute of General Practice and Primary Care, Sheffield
-Dr Karl Claxton
-Health Economist, University of York
-Professor Sarah Cowley
-Professor of Community Practice Development, Kings College, London
-Professor Jack Dowie
-Health Economist, London School of Hygiene and Tropical Medicine, London
-Mr Chris Evennett
-Chief Executive, Mid-Hampshire Primary Care Trust
-Dr Paul Ewings
-Statistician, Taunton and Somerset NHS Trust
-Professor Terry Feest
-Clinical Director and Consultant Nephrologist, Richard Bright Renal Unit, and Chairman of
-the UK Renal Registry
-Professor Gary A Ford
-Professor of Pharmacology of Old Age, Consultant Physician, Wolfson Unit of Clinical
-Pharmacology, University of Newcastle
-Mrs Sue Gallagher
-Chief Executive, Merton, Sutton and Wandsworth Health Authority
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-Dr Trevor Gibbs
-Head, Global Clinical Safety and Pharmacovigilance, GlaxoSmithKline
-Sally Gooch
-Director of Nursing, Mid-Essex Hospital Services Trust
-Mr John Goulston
-Director of Finance, The Royal Free Hampstead NHS Trust
-Professor Trisha Greenhalgh
-Professor of Primary Health Care, University College London
-Miss Linda Hands
-Consultant Vascular Surgeon, John Radcliffe Hospital, Oxford
-Professor Philip Home
-Professor of Diabetes Medicine, University of Newcastle
-Dr Terry John
-General Practitioner, The Firs, London
-Dr Diane Ketley
-Research into Practice Programme Leader, NHS Modernisation Agency
-Dr Mayur Lakhani
-General Practitioner, Highgate Surgery, Leicester, and Lecturer, University of Leicester
-Ruth Lesirge
-Lay Representative; Director, Mental Health Foundation
-Dr George Levvy
-Lay Representative; Chief Executive, Motor Neurone Disease Association
-Dr Gill Morgan
-CEO, North and East Devon Health Authority
-Professor Miranda Mugford
-Health Economist, University of East Anglia
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-Mr M Mughal
-Consultant Surgeon, Lancashire Teaching Hospitals NHS Trust
-Mr James Partridge
-Lay Representative; Chief Executive, Changing Faces
-Siân Richards
-General Manager, Cardiff Local Health Group
-Professor Philip Routledge
-Professor of Clinical Pharmacology, University of Wales
-Dr Rhiannon Rowsell
-Pharmaceutical Physician, AstraZeneca UK Ltd
-Dr Stephen Saltissi
-Consultant Cardiologist, Royal Liverpool University Hospital
-Professor Andrew Stevens (Vice-Chairman)
-Professor of Public Health, University of Birmingham
-Professor Ray Tallis
-Consultant Physician, Hope Hospital, Salford
-Dr Cathryn Thomas
-General Practitioner, and Senior Lecturer, Department of Primary Care and General
-Practice, University of Birmingham
-Professor Mary Watkins
-Head of Institute of Health Studies, University of Plymouth
-Dr Norman Waugh
-Public Health Consultant, University of Southampton
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-9 Sources of evidence considered by the
-committee
-The following documentation and opinion were made available to the Committee:
-• Assessment report prepared by NHS Centre for Reviews and Dissemination and
-Centre for Health Economics:
-－ A Systematic Review Update of the Clinical Effectiveness and Cost Effectiveness
-of Glycoprotein IIb/IIIa Antagonists and A Cost-effectiveness Model Comparing
-Alternative Management Strategies for the Use of Glycoprotein IIb/IIIa Antagonists
-in Non-ST Elevation Acute Coronary Syndromes
-• Manufacturer or sponsor submissions from:
-－ Lilly
-－ Schering Plough
-－ MSD
-• Professional or specialist group submissions from:
-－ British Cardiac Society and Royal College of Physicians (joint submission)
-－ Royal College of General Practitioners
-－ Department of Health and the Welsh Assembly Government
-• Patient or carer group submissions from:
-－ British Heart Foundation
-• Expert perspective:
-－ Dr J McLenachan, Dept of Cardiology, Leeds General Infirmary
-－ Dr Charles Knight, Cardiology Dept, King George Hospital.
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-10 Detail on criteria for audit of the use of
-glycoprotein IIb/IIIa inhibitors in the
-treatment of acute coronary syndromes
-Possible objectives for the audit
-An audit on the appropriateness of the use of glycoprotein (GP) IIb/IIIa inhibitors could be
-carried out to ensure the following:
-• Small-molecule GP IIb/IIIa inhibitors are provided as part of initial medical management
-for patients with unstable angina or with NSTEMI who are at high risk of subsequent
-myocardial infarction (MI) or death.
-• A GP IIb/IIIa inhibitor (abciximab) is provided as an adjunct for patients at high risk for
-whom percutaneous coronary intervention (PCI) is recommended but delayed beyond
-the initial medical management phase.
-• A GP IIb/IIIa inhibitor (abciximab) is considered as an adjunct to PCI for all patients
-with diabetes who are undergoing elective PCI or for those patients undergoing
-complex procedures.
-• A GP IIb/IIIa inhibitor (abciximab) is not provided for patients who are undergoing
-procedurally uncomplicated, elective PCI.
-Possible patients to be included in the audit
-An audit on the first objective above could be carried out on all patients presenting with
-unstable angina or NSTEMI over a suitable time period given the total number of patients
-with these conditions treated in 6 months or 1 year. If clinical coding is reliable, the
-patients can be identified through clinical or procedure codes. If clinical coding for these
-conditions is not entirely reliable, it may be necessary to retrieve cases of patients who are
-coded as unstable angina and those coded as myocardial infarction and screen these
-cases to find patients with NSTEMI.
-An audit on the other objectives could be carried out using all patients booked and on the
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-waiting list for PCI over a suitable time period given the total number of PCIs carried out in
-6 months or 1 year.
-Table 1 Measures that can be used as a basis for the audit
-Criterion Standard Exception Definition of terms
-Clinicians will have to agree locally how the
-initial medical management phase is identified
-for audit purposes.
-A patient in any
-High risk is of subsequent MI or death as
-1 of the following
-determined by clinician judgement based on
-groups receives a
-risk factors such as:
-glycoprotein (GP)
-IIb/IIIa inhibitor:
-• clinical history (including age, previous
-100% of myocardial infarction (MI), previous
-• the patient has
-patients percutaneous coronary intervention (PCI)
-unstable
-with or coronary artery bypass grafting [CABG])
-angina and is
-unstable
-at high risk
-None. • clinical signs, including continuing pain
-angina or
-despite initial treatment
-• the patient has NSTEMI who
-non-ST- are at high
-• clinical investigations such as
-segment- risk.
-electrocardiogram (ECG) changes,
-elevation
-particularly dynamic or unstable patterns
-myocardial
-indicating myocardial ischaemia,
-infarction
-haemodynamic changes and raised cardiac
-(NSTEMI) and
-troponin level, if available at the
-is at high risk.
-appropriate time.
-Clinicians will have to agree locally on how
-high risk is documented for audit purposes.
-In this approach, the audit involves finding the patients in the audit group who are at high
-risk and determining if all those patients had a GP IIb/IIIa inhibitor.
-Another way to audit appropriateness of the use of GP IIb/IIIa inhibitors in initial medical
-management is first to find patients in the audit group who have had small-molecule GP
-IIb/IIIa inhibitors in the initial medical management phase, then to screen those cases to
-see if the patient was at high risk.
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-The measures that could be used in an audit of appropriateness of the use of a GP IIb/IIIa
-inhibitor (abciximab) as an adjunct to PCI are as set out below.
-Table 2 Measures on the appropriateness of GP IIb/IIIa inhibitor as adjunct to PCI
-Criterion Standard Exception Definition of terms
-100% of patients
-A glycoprotein (GP) IIb/IIIa
-who are at high
-inhibitor (abciximab) is provided
-risk and are
-for the patient who is at high risk
-scheduled for a See above for a
-and is recommended for
-PCI but the PCI is None. definition of high
-percutaneous coronary
-delayed beyond risk.
-intervention (PCI) but the PCI is
-the initial medical
-delayed beyond the initial
-management
-medical management phase.
-phase.
-Clinicians will
-have to agree
-locally on what
-A GP IIb/IIIa inhibitor (abciximab) 100% of patients
-constitutes
-is considered for the patient who who have diabetes
-None. evidence that
-has diabetes and is undergoing and are undergoing
-the treatment
-an elective PCI. an elective PCI.
-was considered
-for audit
-purposes.
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-Criterion Standard Exception Definition of terms
-Examples of
-complex
-procedures =
-multi-vessel PCI,
-insertion of
-multiple stents,
-vein graft PCI,
-100% of patients PCI for
-A GP IIb/IIIa inhibitor (abciximab)
-who are bifurcation
-is considered for the patient who
-undergoing a None. lesions
-is undergoing a complex
-complex Clinicians will
-procedure.
-procedure. have to agree
-locally on what
-constitutes
-evidence that
-the treatment
-was considered
-for audit
-purposes.
-100% of patients
-A GP IIb/IIIa inhibitor (abciximab) An
-who are
-is not provided for a patient who unexpected
-undergoing an
-is undergoing a procedurally immediate –
-uncomplicated
-uncomplicated, routine elective complication
-routine elective
-PCI. occurs.
-PCI.
-Another way to audit the appropriateness of the use of a GP IIb/IIIa inhibitor (abciximab) as
-an adjunct to PCI is to screen all patients scheduled for or who have undergone PCI to find
-out whether, if a GP IIb/IIIa inhibitor (abciximab) was administered, the patient met the
-criteria listed in the first 3 measures above.
-Calculation of compliance with the measure
-Compliance with each measure described in the table is calculated as follows:
-Numerator divided by the denominator, multiplied by 100.
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-Numerator: Number of patients whose care is consistent with the criterion plus the
-number of patients who meet any exception.
-Denominator: Number of patients to whom the measure applies.
-Clinicians should review the findings of measurement, identify if practice can be improved,
-agree on a plan to achieve any desired improvement and repeat the measurement of
-actual practice to confirm that the desired improvement is being achieved.
-
-Guidance on the use of glycoprotein IIb/IIIa inhibitors in the treatment of acute coronary
-syndromes (TA47)
-Update information
-March 2010: This guidance was partially updated by NICE's guideline on acute coronary
-syndromes.
-ISBN: 978-1-4731-5633-3

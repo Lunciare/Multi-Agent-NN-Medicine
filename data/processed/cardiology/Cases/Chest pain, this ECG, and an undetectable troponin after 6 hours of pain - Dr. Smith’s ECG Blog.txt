@@ -1,192 +1,49 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Chest pain, this ECG, and an undetectable troponin after 6 hours of pain - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:34.279499",
-  "file_size_bytes": 24684844,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Chest pain, this ECG, and an undetectable troponin after 6 hours of pain - Dr. Smith’s ECG Blog.pdf"
-}
+A middle-aged male presented with acute chest pain.
 
-=== СОДЕРЖАНИЕ ===
+An initial ECG was recorded.
 
-Steve Smith onAugust 5, 2025
-Chest pain, this ECG, and an
-undetectable troponin after
-6 hours of pain
-These ECGs were texted to me by one of our former
-ultrasound fellows, Will Smoot
-A Middle-aged male presented with acute chest pain. 
-This initial ECG was recorded:
-Smith: there are definite hyperacute T-waves in V4-5. So this
-is diagnostic of LAD Occlusion.
-Queen of Hearts:
-
- 1/13
-Here she explains:
-Is she correct?
-New PMcardio for Individuals App 3.0 now includes
-the latest Queen of Hearts model and AI explainability (blue
-heatmaps)! Download now for iOS or Android.
+There are definite hyperacute T-waves in leads V4 and V5. This ECG is diagnostic of LAD occlusion.
 
-(Drs. Smith and Meyers trained the AI Model and are
-shareholders in Powerful Medical).
-Previous from 9 months prior
-It sure looks like the T-waves on the top ECG are now
-hyperacute compared to this prior ECG.
-A repeat ECG was recorded:
-Now the T-waves look bulkier and fatter. This is unequivocally
-diagnostic of LAD Occlusion (OMI)
- 2/13
-The physician activated the cath lab, which required transfer
-to another hospital far away.
-It is great that he did not wait for a troponin!
-Shortly after, the initial troponin returned undetectable.
-Now he was worried that it was a false activation. The
-angiogram had not shown an unequivocal OMI. It showed an
-80% LAD “stenosis” (a “stenosis” does not necessarily mean
-a culprit — stenosis can be a chronic condtion) andappeared
-to be an acute culprit(“unstable appearing plaque”), but he
-was still skeptical that this was OMI, mostly because of the
-undetectable troponin.
-He called me and I assured him that an initial undetectable
-troponin is not unusual in acute OMI.
-He said, “Yes, but the patient had had pain for 6 hours.”
-Later a 2nd troponin I returned at 4461 ng/L. No further
-troponins were measured.
-A post-PCI ECG was recorded:
-There are residual hyperacute T-waves. The Queen sees
-them:
- 3/13
-And another 3 hours later:
-Smith: This one actually looks like it could represent re-
-occlusion (there are again hyperacute T-waves and new ST
-Elevation in V4-6 that meets criteria!), but I have no more
-information on that.
-The Queen agrees:
-Did the LAD Re-occlude? Not sure, but it did ultimately
-reperfuse:
-Shows T-wave inversion in the affected leads (reperfusion T-
-waves)
-Peak troponin I was 10,220 ng/L (typical of a STEMI).
-Echo showed good EF of 60-65% with mild hypokinesis of
-the septal wall.
-Learning Point:
- 4/13
-1. When you have an ECG diagnostic of OMI, do NOT wait
-for troponin because:
-A) myocardium dies while you wait
-B) It might come back negative and make you wait
-even longer for the next one.
-2. 6 hours of pain does NOT necessarily mean 6 hours of
-infarction. There may be on and off ischemia not
-resulting in infarction. Often it is only after the pain
-becomes unrelenting that the patients seeks care. At that
-point, the duration of ischemia may not be sufficient to
-result in an elevated troponin.
-3. An undetectable initial troponin only has a very high
-negative predictive value in the setting of a normal or
-non-diagnostic ECG. In the setting of a diagnostic ECG, it
-is nearly worthless
-We studied the sensitivity and NPV of undetectable
-troponin (below the Limit of Detection – “LoD”) in these 2
-studies:
-Sandoval Y, Smith SW, Love SA, Sexter A, Schulz K, Apple FS.
-Single High-Sensitivity Cardiac Troponin I to Rule Out Acute
-Myocardial Infarction. Am J Med [Internet] 2017;130(9):1076-
-1083.e1. Available from:
+A prior ECG from 9 months earlier was available for comparison. The T-waves on the current ECG are hyperacute compared to the prior tracing.
 
-Sandoval Y, Smith SW, Shah ASV, et al. Rapid Rule-Out of
-Acute Myocardial Injury Using a Single High-Sensitivity
-Cardiac Troponin I Measurement. Clin Chem [Internet]
-2017;63(1):369–76. Available from:
+A repeat ECG was recorded. The T-waves appeared bulkier and fatter. This was unequivocally diagnostic of LAD occlusion (OMI).
 
-Rule-Out Using the LoD (limit of detection) Alone, and in
-Combination with a Normal ECG:
-“In patients with hs-cTnI<LoD at presentation (27% of
-patients), independent of ECG findings, the NPV and
-sensitivity for acute myocardial infarction were 99.6% (95%
-CI, 98.9%-100%) and 98.8% (95% CI, 97.2%-100%),
-respectively (Table 2). Using hs-cTnI<LoD alone, 2 of 170
-patients with acute myocardial infarction were missed,
-corresponding to a miss rate of 1.2% (or 2 of 444 patients
-with an hs-cTnI<LoD, 0.5%).”
-“In comparison with hscTnI<LoD alone, the addition of a
-normal ECG (16% of patients) offered a NPV of 99.6% (95%
-CI, 98.9%-100%) and sensitivity of 99.4% (95% CI,
-98.3%-100%) for acute myocardial infarction. Using hs-
-cTnI<LoD with a normal ECG, only 1 of 170 patients with acute
-myocardial
- 5/13
-infarction was missed, corresponding to a miss rate of 0.6%
-(or 1 of 254 patients with an hs-cTnI<LoD and a normal ECG,
-0.4%).”
-“In the validation cohort, 22% had hs-cTnI LoD, with an NPV
-and diagnostic sensitivity for acute myocardial injury of
-98.8% (97.9–99.7) and 99.3% (98.7–99.8) and an NPV for AMI
-or cardiac death at 30 days of 99.1% (98.2–99.8).”
-In the setting of an ECG diagnostic of OMI, that sensitivity and NPV are
-far lower!
-= = =
-======================================
-MY Comment, by KEN GRAUER, MD (8/5/2025):
-The question I asked more than any other during my years on
-faculty was, “Will the results of the test(s) that you order
-change your management?” Todayʼs case provides an
-optimal example of why I so often asked this question.
-The treating physician in todayʼs case questioned his
-decision to activate the cath lab because the initial
-Troponin came back negative. But as emphasized in Dr.
-Smithʼs Learning Points — the results of the initial
-Troponin in todayʼs case should not in the least alter
-management.
-This is because todayʼs patient presented with new CP
-(Chest Pain) — and, in this context the initial ECG that
-Iʼve reproduced in Figure-1 indicates the need to
-activate the cath lab regardless of what the initial
-Troponin value is (because up to 25% of STEMI+
-infarctions fail to satisfy ‘rule-inʼ values on the initial
-Troponin — Wereski et al — JAMA Cardiology, 2020).
-= = =
-Why is todayʼs Initial ECG Diagnostic of an Acute
-OMI?
-I focus my comment on todayʼs initial ECG — as well as on
-how the 2nd and 3rd tracings shown above in Dr. Smithʼs
-discussion solidify our impression of that 1st tracing.
-In a patient with new CP (such as the middle-aged man
-in todayʼs case) — my “eye” was immediately drawn to
-lead V4 (within the RED rectangle in ECG #1). Given
-modest size of the QRS complex in this lead — the
- 6/13
-overly tall and “bulky” T wave in V4 (that is large
-enough, with a “fat” enough peak and wide enough
-base to “swallow” the diminutive R wave) is clearly
-hyperacute.
-In the context of knowing that lead V4 is hyperacute until
-proven otherwise — neighboring leads V3 and V5 also
-both manifest disproportionately large T waves (albeit
-lead V3 is harder to assess given our inability to know
-how deep the S wave in this lead truly is).
-KEY Point: The lead V1 and V2 electrodes were almost
-certainly placed too high on the chest because: i) Both
-of these leads manifest a terminal rʼ (which is
-uncommon in V1 and highly unusual in lead V2); — ii)
-The P wave in lead V1 is all negative; — and, iii) QRS
-morphology of both leads V1 and V2 resemble the QRS
-appearance in lead aVR (See our page onTechnical
-Misadventures fornumerous examples of leads V1,V2
-misplacement).
-The reason recognition of lead V1,V2 misplacementis
-so relevant in todayʼs case is our finding of hyperacute
-T waves for leads V3,V4,V5. Since the limb leads in
-ECG #1 are non-diagnostic — correct placement of the
-V1,V2 electrodes would add support to our strong
-suspicion of acute LAD OMI.
-BOTTOM Line: Given the history of new CP and the
-hyperacute T waves in leads V3,V4,V5 — even without
-the ability to assess leads V1,V2 — the need for prompt
-cath is already established.
-Figure-1: Comparison of the first 3 ECGs in todayʼs case.
- 7/13
-What
+The physician activated the cath lab, which required transfer to another hospital.
+
+Shortly thereafter, the initial troponin returned undetectable. The physician became concerned that this was a false activation. Angiography did not show an unequivocal occlusion but revealed an 80% LAD stenosis with an unstable-appearing plaque. The undetectable troponin increased skepticism that this was OMI, despite the ECG findings.
+
+It was emphasized that an initial undetectable troponin is not unusual in acute OMI, even after several hours of chest pain.
+
+A second troponin I later returned at 4461 ng/L. No further troponins were measured at that time.
+
+A post-PCI ECG was recorded and showed residual hyperacute T-waves.
+
+Several hours later, another ECG suggested possible re-occlusion, with recurrent hyperacute T-waves and new ST elevation in leads V4–V6 meeting criteria for occlusion.
+
+Ultimately, the LAD reperfused, with subsequent ECGs showing T-wave inversion in the affected leads consistent with reperfusion.
+
+Peak troponin I reached 10,220 ng/L.
+
+Echocardiography showed preserved left ventricular ejection fraction of 60–65% with mild septal wall hypokinesis.
+
+Learning Points
+
+When an ECG is diagnostic of OMI, do not wait for troponin results:
+
+Myocardial tissue is lost while waiting.
+
+An initially negative troponin may delay definitive care.
+
+Six hours of chest pain does not necessarily mean six hours of infarction. Ischemia may be intermittent, and sustained infarction may begin later.
+
+An undetectable initial troponin has high negative predictive value only in the setting of a normal or non-diagnostic ECG. In the presence of a diagnostic ECG, an undetectable troponin is unreliable.
+
+ECG Interpretation Insights
+
+Hyperacute T-waves are characterized by disproportionately tall, bulky, and wide-based T-waves that may appear large enough to obscure the R wave.
+
+Hyperacute T-waves in contiguous anterior leads strongly indicate acute LAD occlusion, even when other leads are non-diagnostic.
+
+Misplacement of precordial leads can obscure or confuse interpretation, but does not negate diagnostic findings in correctly placed leads.
+
+In the setting of new chest pain and diagnostic ECG changes, immediate activation of the cath lab is warranted regardless of initial troponin results.

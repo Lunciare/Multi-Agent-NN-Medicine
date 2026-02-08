@@ -1,89 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "stroke-in-adults-pdf-58292707525.pdf",
-  "converted_date": "2026-01-31T14:51:22.841236",
-  "file_size_bytes": 181025,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/stroke-in-adults-pdf-58292707525.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
 Stroke in adults
-Quality standard
-Published: 29 June 2010
-Last updated: 12 April 2016
-www.nice.org.uk/guidance/qs2
-
-Stroke in adults (QS2)
-
-Stroke in adults (QS2)
-What the quality statement means for different audiences ............................................................. 19
-Source guidance ................................................................................................................................... 19
-Definitions of terms used in this quality statement .......................................................................... 19
-Equality and diversity considerations ................................................................................................ 20
-Quality statement 5: Return to work ......................................................................................... 21
-Quality statement ................................................................................................................................. 21
-Rationale ............................................................................................................................................... 21
-Quality measures .................................................................................................................................. 21
-What the quality statement means for different audiences ............................................................. 22
-Source guidance ................................................................................................................................... 23
-Definitions of terms used in this quality statement .......................................................................... 23
-Equality and diversity considerations ................................................................................................ 23
-Quality statement 6: Regular review of rehabilitation goals ................................................... 24
-Quality statement ................................................................................................................................. 24
-Rationale ............................................................................................................................................... 24
-Quality measures .................................................................................................................................. 24
-What the quality statement means for different audiences ............................................................. 26
-Source guidance ................................................................................................................................... 26
-Definitions of terms used in this quality statement .......................................................................... 26
-Equality and diversity considerations ................................................................................................ 27
-Quality statement 7: Regular review of health and social care needs .................................. 28
-Quality statement ................................................................................................................................. 28
-Rationale ............................................................................................................................................... 28
-Quality measures .................................................................................................................................. 28
-What the quality statement means for different audiences ............................................................. 30
-Source guidance ................................................................................................................................... 30
-Definitions of terms used in this quality statement .......................................................................... 31
-Equality and diversity considerations ................................................................................................ 31
-
-Stroke in adults (QS2)
-Update information .................................................................................................................... 32
-About this quality standard ....................................................................................................... 33
-Diversity, equality and language ......................................................................................................... 33
-
-Stroke in adults (QS2)
-This standard is based on CG68, NG128 and NG236.
-This standard should be read in conjunction with QS15, QS71, QS93, QS100, QS3,
-QS54, QS28, QS24, QS86, QS136 and QS201.
-Quality statements
-Statement 1 Adults presenting at an accident and emergency (A&E) department with
-suspected stroke are admitted to a specialist acute stroke unit within 4 hours of arrival.
-[2010, updated 2016]
-Statement 2 Adults having stroke rehabilitation in hospital or in the community are offered
-at least 3 hours of rehabilitation covering a range of multidisciplinary therapy for a
-minimum of 5 days a week. [2010, updated 2016]
-Statement 3 Adults who have had a stroke have access to a clinical psychologist or a
-clinical neuropsychologist with expertise in stroke rehabilitation who is part of the core
-multidisciplinary stroke rehabilitation team. [new 2016]
-Statement 4 Adults who have had a stroke are offered early supported discharge if the
-core multidisciplinary stroke team assess that it is suitable for them. [new 2016]
-Statement 5 Adults who have had a stroke are offered active management to return to
-work if they wish to do so. [new 2016]
-Statement 6 Adults who have had a stroke have their rehabilitation goals reviewed at
-regular intervals. [2010, updated 2016]
-Statement 7 Adults who have had a stroke have a structured health and social care review
-at 6 months and 1 year after the stroke, and then annually. [new 2016]
-In 2016, this quality standard was updated, and statements prioritised in 2010 were
-updated (2010, updated 2016) or replaced (new 2016). For more information, see update
-information.
-The previous version of the quality standard for stroke in adults is available as a pdf.
-
-Stroke in adults (QS2)
-Quality statement 1: Prompt admission to
-specialist acute stroke units
 Quality statement
 Adults presenting at an accident and emergency (A&E) department with suspected stroke
 are admitted to a specialist acute stroke unit within 4 hours of arrival. [2010, updated
@@ -106,7 +21,7 @@ stroke unit within 4 hours of arrival.
 Data source: Data can be collected from information recorded locally by healthcare
 provider organisations, for example, from clinical or service protocols.
 
-Stroke in adults (QS2)
+ 
 Process
 Proportion of A&E department presentations of suspected stroke in adults in which the
 person is admitted to a specialist acute stroke unit within 4 hours of arrival.
@@ -133,7 +48,7 @@ Service providers (such as secondary care providers) ensure that systems are in 
 adults presenting at an A&E department with suspected stroke to be admitted to a
 specialist acute stroke unit within 4 hours of arrival.
 
-Stroke in adults (QS2)
+ 
 Healthcare professionals admit adults presenting at an A&E department with suspected
 stroke to a specialist acute stroke unit within 4 hours of arrival.
 Commissioners ensure that they commission services that can demonstrate that adults
@@ -160,7 +75,7 @@ rehabilitation. The Stroke Unit Trialists' Collaboration provides 5 key characte
 markers of a good specialist acute stroke unit:
 • a consultant physician with responsibility for stroke
 
-Stroke in adults (QS2)
+ 
 • formal links with patient and carer organisations
 • multidisciplinary meetings at least weekly to plan patient care
 • provision of information to patients about stroke
@@ -168,7 +83,7 @@ Stroke in adults (QS2)
 [Adapted from NICE's guideline on stroke and transient ischaemic attack in over 16s,
 recommendation 1.3.1, and SSNAP]
 
-Stroke in adults (QS2)
+ 
 Quality statement 2: Intensity of stroke
 rehabilitation
 Quality statement
@@ -193,7 +108,7 @@ rehabilitation covering a range of multidisciplinary therapy for a minimum of 5 
 Data source: Data can be collected from information recorded locally by healthcare
 provider organisations, for example, from service or clinical protocols.
 
-Stroke in adults (QS2)
+ 
 Process
 a) Proportion of adults having stroke rehabilitation in hospital who receive at least 3 hours
 of rehabilitation covering a range of multidisciplinary therapy for a minimum of 5 days a
@@ -218,7 +133,7 @@ Data source: Data can be collected from information recorded locally by healthca
 professionals and provider organisations, for example, from patient records. The SSNAP
 clinical audit includes the Modified Rankin Score at 6 months after a stroke.
 
-Stroke in adults (QS2)
+ 
 What the quality statement means for different
 audiences
 Service providers (such as secondary care providers and community care providers)
@@ -247,7 +162,7 @@ A range of multidisciplinary therapy includes physiotherapy, occupational therap
 speech and language therapy. Adults who have had a stroke should be offered all
 rehabilitation therapies that are suitable for their needs, as long as they have the ability to
 
-Stroke in adults (QS2)
+ 
 participate and make progress towards their functional goals. Adults with stroke should be
 able to access rehabilitation at any stage of the stroke care pathway when needed.
 [Adapted from NICE's guideline on stroke rehabilitation in adults, recommendation 1.2.16,
@@ -261,7 +176,7 @@ ensure that therapy is still offered 5 days a week but for a shorter amount of t
 should be given at an intensity that allows the person to actively participate and at a level
 that enables them to make progress.
 
-Stroke in adults (QS2)
+ 
 Quality statement 3: Access to a clinical
 psychologist
 Quality statement
@@ -288,7 +203,7 @@ provider organisations, for example, from service protocols. The Sentinel Stroke
 Audit Programme (SSNAP) organisational audit collects information on the number of
 clinical psychologists for stroke unit beds.
 
-Stroke in adults (QS2)
+ 
 Outcome
 Quality of life for adults who have had a stroke.
 Data source: Data can be collected from information collected locally by healthcare
@@ -314,7 +229,7 @@ The core multidisciplinary stroke team
 The team should comprise the following professionals with expertise in stroke
 rehabilitation:
 
-Stroke in adults (QS2)
+ 
 • consultant physicians specialising in stroke, or rehabilitation medicine
 • nurses
 • physiotherapists
@@ -327,7 +242,7 @@ Stroke in adults (QS2)
 • social workers.
 [NICE's guideline on stroke rehabilitation in adults, recommendation 1.1.3]
 
-Stroke in adults (QS2)
+ 
 Quality statement 4: Early supported
 discharge
 Quality statement
@@ -352,7 +267,7 @@ team assess that it is suitable for them.
 Data source: Data can be collected from information recorded locally by healthcare
 provider organisations, for example, from clinical or service protocols.
 
-Stroke in adults (QS2)
+ 
 Process
 a) Proportion of adults who have had a stroke and are assessed as suitable for early
 supported discharge by the core multidisciplinary stroke team who receive it.
@@ -379,7 +294,7 @@ b) Quality of life for adults who have had a stroke.
 Data source: Data can be collected from information collected locally by healthcare
 professionals and provider organisations, for example, from patient surveys.
 
-Stroke in adults (QS2)
+ 
 What the quality statement means for different
 audiences
 Service providers (such as secondary care providers) ensure that systems are in place to
@@ -406,7 +321,7 @@ on stroke rehabilitation in adults]
 Suitable for early supported discharge
 The core multidisciplinary stroke team will assess whether early supported discharge is
 
-Stroke in adults (QS2)
+ 
 suitable for adults who have had a stroke. The assessment takes into account the person's
 functional, cognitive and social circumstances. This may include, for example, the person's
 ability to move from bed to chair independently or with assistance, and whether a safe and
@@ -432,7 +347,7 @@ may not be suitable for some people because of their living arrangements, for ex
 they are homeless, recent refugees, asylum seekers or migrant workers. It may not be
 suitable for people with significant cognitive and functional impairments.
 
-Stroke in adults (QS2)
+ 
 Quality statement 5: Return to work
 Quality statement
 Adults who have had a stroke are offered active management to return to work if they wish
@@ -456,7 +371,7 @@ Proportion of adults who have had a stroke who receive active management to retu
 work if they wish to do so.
 Numerator – the number in the denominator who receive active management to help them
 
-Stroke in adults (QS2)
+ 
 return to work.
 Denominator – the number of adults who have had a stroke who wish to return to work.
 Data source: Data can be collected from information recorded locally by healthcare
@@ -482,7 +397,7 @@ Adults who have had a stroke and wish to return to work are offered help and sup
 do this. This should include help to identify and manage any problems that might make it
 difficult to return to work.
 
-Stroke in adults (QS2)
+ 
 Source guidance
 Stroke rehabilitation in adults. NICE guideline NG236 (2023), recommendation 1.16.4
 Definitions of terms used in this quality statement
@@ -508,7 +423,7 @@ and educational opportunities.
 Some adults may be unable to work, so other occupational or education activities should
 be considered, including prevocational training.
 
-Stroke in adults (QS2)
+ 
 Quality statement 6: Regular review of
 rehabilitation goals
 Quality statement
@@ -532,7 +447,7 @@ have had a stroke have their rehabilitation goals reviewed at regular intervals.
 Data source: Data can be collected from information recorded locally by healthcare
 provider organisations, for example, from clinical or service protocols.
 
-Stroke in adults (QS2)
+ 
 Process
 a) Proportion of adults who have had a stroke who have their rehabilitation goals agreed
 within 5 days of arrival at A&E.
@@ -559,7 +474,7 @@ b) Readmission rates of adults who have had a stroke.
 Data source: Data can be collected from information recorded locally by healthcare
 professionals and provider organisations, for example, from patient records.
 
-Stroke in adults (QS2)
+ 
 What the quality statement means for different
 audiences
 Service providers (such as primary, secondary and community care providers) ensure that
@@ -583,7 +498,7 @@ Goals for rehabilitation for people after a stroke should:
 • include both short- and long-term elements.
 [NICE's guideline on stroke rehabilitation in adults, recommendation 1.2.7]
 
-Stroke in adults (QS2)
+ 
 Reviewing goals at regular intervals
 Goals should be set within 5 days of arrival at A&E. Reviewing goals should take place at
 intervals suitable to the ability of the individual and nature of the goal, such as at 6 weeks,
@@ -600,7 +515,7 @@ Discussion about goals should take into account any additional needs, such as ph
 sensory or learning disabilities, and the needs of people who do not speak or read English.
 People should have access to an interpreter or advocate if needed.
 
-Stroke in adults (QS2)
+ 
 Quality statement 7: Regular review of
 health and social care needs
 Quality statement
@@ -624,7 +539,7 @@ Data source: Data can be collected from information recorded locally by healthca
 professionals and provider organisations, for example, from clinical protocols and service
 specifications.
 
-Stroke in adults (QS2)
+ 
 Process
 a) Proportion of adults who have had a stroke who have a structured health and social
 care review at 6 months after the stroke.
@@ -649,7 +564,7 @@ and social care review at 6 months and 1 year after the stroke.
 Data source: Data can be collected from information recorded locally by healthcare
 professionals and provider organisations, for example, from patient records.
 
-Stroke in adults (QS2)
+ 
 Outcome
 a) Quality of life for adults who have had a stroke.
 Data source: Data can be collected from information collected locally by healthcare
@@ -675,7 +590,7 @@ then once every year to make sure they are getting the care and support that the
 Source guidance
 Stroke rehabilitation in adults. NICE guideline NG236 (2023), recommendation 1.17.5
 
-Stroke in adults (QS2)
+ 
 Definitions of terms used in this quality statement
 Structured health and social care review
 These reviews should address the person's ability to participate in daily activities and their
@@ -687,80 +602,3 @@ Equality and diversity considerations
 Any review should take into account any additional needs, such as physical, sensory or
 learning disabilities, and the needs of people who do not speak or read English. People
 should have access to an interpreter or advocate if needed.
-
-Stroke in adults (QS2)
-Update information
-April 2016: This quality standard was updated and statements prioritised in 2010 were
-replaced.
-Statements are marked as [new 2016] or [2010, updated 2016]:
-• [new 2016] if the statement covers a new area for quality improvement
-• [2010, updated 2016] if the statement covers an area for quality improvement
-included in the 2010 quality standard and has been updated.
-Statements numbered 3, 5 and 7 in the 2010 version have been updated and included in
-the updated quality standard, marked as [2010, updated 2016].
-The previous version of the quality standard for stroke in adults is available as a pdf.
-Minor changes since publication
-October 2023: Changes have been made to align this quality standard with the updated
-NICE guideline on stroke rehabilitation in adults. Statement 2 on intensity of stroke
-rehabilitation had the minimum time of therapy each day increased. Statement 3 on access
-to a clinical psychologist was amended to include clinical neuropsychologists. Links,
-terminology, definitions, data sources and source guidance sections have also been
-updated throughout.
-May 2019: Changes have been made to align this quality standard with the updated NICE
-guideline on stroke and transient ischaemic attack in over 16s. References and source
-guidance sections have been updated.
-
-Stroke in adults (QS2)
-About this quality standard
-NICE quality standards describe high-priority areas for quality improvement in a defined
-care or service area. Each standard consists of a prioritised set of specific, concise and
-measurable statements. NICE quality standards draw on existing NICE or NICE-accredited
-guidance that provides an underpinning, comprehensive set of recommendations, and are
-designed to support the measurement of improvement.
-Expected levels of achievement for quality measures are not specified. Quality standards
-are intended to drive up the quality of care, and so achievement levels of 100% should be
-aspired to (or 0% if the quality statement states that something should not be done).
-However, this may not always be appropriate in practice. Taking account of safety, shared
-decision making, choice and professional judgement, desired levels of achievement should
-be defined locally.
-Information about how NICE quality standards are developed is available from the NICE
-website.
-See our webpage on quality standards advisory committees for details about our standing
-committees. Information about the topic experts invited to join the standing members is
-available from the webpage for this quality standard.
-NICE has produced a quality standard service improvement template to help providers
-make an initial assessment of their service compared with a selection of quality
-statements. This tool is updated monthly to include new quality standards.
-NICE guidance and quality standards apply in England and Wales. Decisions on how they
-apply in Scotland and Northern Ireland are made by the Scottish government and Northern
-Ireland Executive. NICE quality standards may include references to organisations or
-people responsible for commissioning or providing care that may be relevant only to
-England.
-Diversity, equality and language
-Equality issues were considered during development and equality assessments for this
-quality standard are available. Any specific issues identified during development of the
-
-Stroke in adults (QS2)
-quality statements are highlighted in each statement.
-Commissioners and providers should aim to achieve the quality standard in their local
-context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity and foster good relations. Nothing in this
-quality standard should be interpreted in a way that would be inconsistent with
-compliance with those duties.
-ISBN: 978-1-4731-1806-5
-Endorsing organisation
-This quality standard has been endorsed by NHS England, as required by the Health and
-Social Care Act (2012)
-Supporting organisations
-Many organisations share NICE's commitment to quality improvement using evidence-
-based guidance. The following supporting organisations have recognised the benefit of
-the quality standard in improving care for patients, carers, service users and members of
-the public. They have agreed to work with NICE to ensure that those commissioning or
-providing services are made aware of and encouraged to use the quality standard.
-• Chartered Society of Physiotherapy
-• British Association of Prosthetists and Orthotists
-• Stroke Association
-• Royal College of General Practitioners (RCGP)
-• Association of British Neurologists (ABN)
-• Royal College of Occupational Therapists (RCOT)
-• Royal College of Physicians (RCP)

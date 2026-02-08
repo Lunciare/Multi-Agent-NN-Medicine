@@ -1,44 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "percutaneous-laser-revascularisation-for-refractory-angina-pectoris-pdf-1899867328004293.pdf",
-  "converted_date": "2026-01-31T14:44:42.683042",
-  "file_size_bytes": 69445,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/percutaneous-laser-revascularisation-for-refractory-angina-pectoris-pdf-1899867328004293.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Percutaneous laser
-revascularisation for refractory
-angina pectoris
-Interventional procedures guidance
-Published: 27 May 2009
-www.nice.org.uk/guidance/ipg302
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-
-Percutaneous laser revascularisation for refractory angina pectoris (IPG302)
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Percutaneous laser revascularisation for refractory angina pectoris 
 1 Guidance
 1.1 Current evidence on percutaneous laser revascularisation (PLR) for
 refractory angina pectoris shows no efficacy and suggests that the
@@ -60,7 +20,7 @@ these treatments have either failed or are not clinically suitable.
 2.2.1 Percutaneous laser revascularisation for refractory angina pectoris is
 carried out with the patient under local anaesthesia. A catheter is
 
-Percutaneous laser revascularisation for refractory angina pectoris (IPG302)
+ 
 inserted through the femoral artery, and advanced to the heart under
 fluoroscopic guidance. Ischaemic areas are selected for treatment using
 echocardiography or myocardial perfusion scan and coronary
@@ -92,7 +52,7 @@ PLR-treated patients (median 51%) and medically managed patients
 fraction between patients treated with PLR (64%) and sham therapy
 (63%) at 12-month follow-up (significance not stated).
 
-Percutaneous laser revascularisation for refractory angina pectoris (IPG302)
+ 
 2.3.4 A meta-analysis of three RCTs reported no difference in post-procedural
 exercise tolerance using the Bruce Protocol Stress Test (a treadmill test)
 in patients treated with PLR compared with other interventions. A meta-
@@ -126,7 +86,7 @@ bundle branch block rates following PLR (5% [5/110]) compared with
 medical management (1% [1/111]) (significance and follow-up not stated).
 2.4.3 Randomised controlled trials of 298 and 221 patients reported left
 
-Percutaneous laser revascularisation for refractory angina pectoris (IPG302)
+ 
 ventricular perforation rates of 1% (2/196) and 3% (3/110), respectively, in
 PLR-treated patients (none were reported in patients treated with
 comparators; events occurring during 30-day follow-up or within 24
@@ -155,9 +115,3 @@ NICE guidance'). It explains the nature of the procedure and the guidance issued
 and has been written with patient consent in mind.
 Update information
 Minor changes since publication
-
-Percutaneous laser revascularisation for refractory angina pectoris (IPG302)
-January 2012: minor maintenance.
-ISBN: 978-1-4731-4110-0
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

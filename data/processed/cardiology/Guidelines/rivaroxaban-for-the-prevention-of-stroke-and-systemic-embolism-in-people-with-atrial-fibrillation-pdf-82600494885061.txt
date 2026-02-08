@@ -1,55 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "rivaroxaban-for-the-prevention-of-stroke-and-systemic-embolism-in-people-with-atrial-fibrillation-pdf-82600494885061.pdf",
-  "converted_date": "2026-01-31T14:45:55.340383",
-  "file_size_bytes": 182478,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/rivaroxaban-for-the-prevention-of-stroke-and-systemic-embolism-in-people-with-atrial-fibrillation-pdf-82600494885061.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Rivaroxaban for the
-prevention of stroke and
-systemic embolism in
-people with atrial
+Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
 fibrillation
-Technology appraisal guidance
-Published: 23 May 2012
-Last updated: 2 July 2021
-www.nice.org.uk/guidance/ta256
-
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
-
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
-This guidance should be read in conjunction with NG196.
 1 Recommendations
 1.1 Rivaroxaban is recommended as an option for the prevention of stroke and
 systemic embolism within its licensed indication, that is, in people with non-
@@ -65,8 +15,7 @@ dabigatran etexilate and edoxaban. For people taking warfarin, consider the
 potential risks and benefits of switching to rivaroxaban taking into account their
 level of international normalised ratio (INR) control.
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 2 The technology
 2.1 Rivaroxaban (Xarelto, Bayer HealthCare) is an anticoagulant that directly inhibits
 activated factor X (factor Xa). Factor Xa is a key component in the formation of
@@ -87,8 +36,7 @@ contraindications see the summary of product characteristics.
 a pack of 28×20-mg tablets (MIMS, March 2012). Costs may vary in different
 settings because of negotiated procurement discounts.
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 3 The manufacturer's submission
 The Appraisal Committee considered evidence submitted by the manufacturer of
 rivaroxaban and a review of this submission by the Evidence Review Group (ERG).
@@ -122,8 +70,7 @@ primary outcome, further analyses investigated superiority of rivaroxaban over
 warfarin.
 3.3 More than 50% of people in the trial received treatment for at least 18 months.
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 The median age of study participants was 73 years and 60.3% were men. The
 majority of the trial population (62.4%) had previously received warfarin therapy
 and 36.5% had previously received aspirin. Risk of stroke at baseline was
@@ -166,8 +113,7 @@ baseline, and prior myocardial infarction. Results were summarised by subgroup
 based on data from the safety-on-treatment and intention-to-treat populations.
 3.6 The non-inferiority of rivaroxaban compared with warfarin was demonstrated for
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 the primary outcome (composite of stroke and non-central nervous system
 systemic embolism) in both the per-protocol and safety-on-treatment
 populations. The results for the per-protocol population were HR 0.79 (95%
@@ -203,8 +149,7 @@ found by a systematic literature search. The manufacturer identified 18 studies
 for inclusion in the network meta-analysis:
 • 1 comparing rivaroxaban with warfarin
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 • 7 comparing aspirin with placebo or control
 • 8 comparing warfarin with aspirin
 • 1 comparing a vitamin K antagonist with clopidogrel plus aspirin
@@ -235,8 +180,7 @@ regimen in which the dose is reduced from 150 mg twice daily to 110 mg
 twice daily when the patient reaches the age of 80 years. A fixed-effect
 model was used because of the high degree of homogeneity between the
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 included trials. The efficacy estimates from this network meta-analysis were
 used in the ERG's cost-effectiveness analyses.
 3.10 The manufacturer developed a Markov model that compares rivaroxaban (20 mg
@@ -263,8 +207,7 @@ lifetime time horizon and a UK NHS perspective.
 The ROCKET-AF trial results for the safety-on-treatment population were
 used to inform the efficacy estimates for rivaroxaban compared with
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 warfarin, rivaroxaban compared with warfarin in people whose atrial
 fibrillation is poorly controlled on warfarin, and the vitamin K antagonist-naive
 model populations. The characteristics of the population for the analyses of
@@ -299,8 +242,7 @@ pre-specified secondary therapy at any time, although the risk adjustment
 applied for the remainder of that cycle is that of the primary therapy. The
 probabilities of treatment discontinuation for warfarin and rivaroxaban were
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 based on data from the ROCKET-AF trial. The manufacturer assumed that
 treatment-discontinuation rates for aspirin, dabigatran etexilate and placebo
 were equivalent to that for rivaroxaban, given the similarity of administration
@@ -335,8 +277,7 @@ received warfarin, the ICER was £15,494 per QALY gained.
 gained.
 • For rivaroxaban compared with dabigatran etexilate, rivaroxaban dominated
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 dabigatran etexilate.
 The manufacturer carried out univariate sensitivity analysis on the base case,
 scenario analyses and subgroup analyses. The main drivers of the model
@@ -370,8 +311,7 @@ within and outside recommended INR control
 • not adjusting risk of bleeding by age; not adjusting utility by age
 • the source of myocardial infarction risk for people treated with aspirin
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 • out of date source of post-myocardial infarction mortality risk
 • double counting of re-initiation costs of warfarin monitoring
 • suspending the risk of further events for the subsequent model cycle after an
@@ -405,8 +345,7 @@ person (discussed by the Committee in the ongoing appraisal of dabigatran
 etexilate for the prevention of stroke and systemic embolism in atrial fibrillation)
 increased the ICER to £62,568 per QALY gained.
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 3.21 The ERG was concerned that the trials included in the network meta-analysis
 presented by the manufacturer to compare rivaroxaban with aspirin and
 dabigatran etexilate were heterogeneous. The high levels of heterogeneity were
@@ -440,8 +379,7 @@ discontinuation rates. Therefore, the ERG concluded that the results of the
 probabilistic sensitivity analysis should be taken into account when considering
 its alternative ICER for dabigatran etexilate compared with rivaroxaban. The
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 probabilistic sensitivity analysis indicated that dabigatran etexilate was dominant
 in 45% of the 1,000 runs and dominated in 35% of runs.
 Manufacturer's additional analyses
@@ -472,8 +410,7 @@ for maintenance on warfarin and £135 for re-initiation of warfarin.
 • Case fatality rates of 90 days instead of the 30-day rates in the original
 model.
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 • Updated 'real world' discontinuation rates. For warfarin these came from the
 General Practice Research Database. For rivaroxaban they were calculated by
 applying relative risks from the General Practice Research Database to
@@ -505,8 +442,7 @@ Appraisal Committee's requests):
 with 1 or more risk factors for stroke), an incremental cost of £2,220, a QALY
 gain of 0.2459 resulting in an ICER of £9,031 per QALY gained
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 • for rivaroxaban versus warfarin in the population whose INR is poorly
 controlled on warfarin, the ICER was £4,350 per QALY gained.
 3.27 The ERG provided a critique and exploratory analysis of the manufacturer's
@@ -542,8 +478,7 @@ to use an updated mortality risk post myocardial infarction that took account of
 current use of statins. The ERG's analysis included a fixed annual warfarin INR
 monitoring cost of £242 per person as requested by the Appraisal Committee
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 (see section 3.23) but did not include any disutility associated with warfarin or
 any other treatment (see section 3.24). The ERG's revised analysis for
 rivaroxaban compared with warfarin produced an incremental cost of £1,815, an
@@ -551,8 +486,7 @@ incremental QALY of 0.061 and an ICER of £29,537 per QALY gained.
 3.30 See the manufacturer's submission and the ERG report for full details of all the
 evidence.
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 4 Consideration of the evidence
 4.1 The Appraisal Committee reviewed the data available on the clinical and cost
 effectiveness of rivaroxaban, having considered evidence on the nature of stroke
@@ -587,8 +521,7 @@ trial comparing rivaroxaban with warfarin. It noted that this study was the basi
 the clinical-effectiveness evidence in the manufacturer's submission. The
 Committee noted that the efficacy analysis in the manufacturer's submission had
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 been undertaken on 3 different populations in the ROCKET-AF trial, the intention-
 to-treat set (all randomised patients), the safety-on-treatment set (all intention-
 to-treat patients who had taken at least 1 dose of study drug and were followed
@@ -626,8 +559,7 @@ effectiveness of warfarin could be underestimated if the proportion of time in
 therapeutic range was low, and that the UK context might be better reflected by
 results from centres where the time in therapeutic range in the warfarin arm more
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 closely matched the usual levels in the UK. The Committee concluded that the
 trial results were broadly applicable to a UK setting, but for those already taking
 warfarin the current level of INR control should be taken into account in any
@@ -678,8 +610,7 @@ recruited to the ROCKET-AF trial with a baseline CHADS score of less than 2, but
 2
 concluded that the results of the ROCKET-AF trial were generalisable to UK
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 clinical practice.
 4.6 The Committee discussed the safety data from the ROCKET-AF trial. It noted that
 analysis of the primary safety end point of all major and non-major clinically
@@ -718,8 +649,7 @@ Committee reconsidered the data from the manufacturer's and ERG's network
 meta-analyses and considered the manufacturer's additional indirect comparison
 comparing rivaroxaban with aspirin. The Committee concluded that it would not
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 consider further the clinical effectiveness of rivaroxaban compared with aspirin or
 dabigatran etexilate.
 4.8 The Committee considered the manufacturer's updated base-case analysis for
@@ -755,8 +685,7 @@ manufacturer's economic analysis in favour of rivaroxaban.
 4.10 The Committee discussed the costs associated with warfarin INR monitoring. The
 Committee noted that the manufacturer' model assumed an average annual
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 anticoagulant monitoring cost of £580 per person in the year that treatment is
 first initiated and £535 once the person is stabilised on warfarin. The clinical
 specialists agreed that the annual cost of anticoagulant monitoring for each
@@ -793,12 +722,10 @@ range that could be considered a cost-effective use of NHS resources.
 affecting population groups protected by equality legislation and concluded that
 there were no equality issues relating to this appraisal that needed addressing in
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 the guidance.
 
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
+ 
 5 Implementation
 5.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -815,170 +742,3 @@ available within the period set out in the paragraphs above. This means that, if
 patient has non-valvular atrial fibrillation and the healthcare professional
 responsible for their care thinks that rivaroxaban is the right treatment, it should
 be available for use, in line with NICE's recommendations.
-
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
-6 Appraisal Committee members, and
-NICE project team
-Appraisal Committee members
-The Appraisal Committees are standing advisory committees of NICE. Members are
-appointed for a 3-year term. A list of the Committee members who took part in the
-discussions for this appraisal appears below. There are 4 Appraisal Committees, each with
-a chair and vice chair. Each Appraisal Committee meets once a month, except in
-December when there are no meetings. Each Committee considers its own list of
-technologies, and ongoing topics are not moved between Committees.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that appraisal.
-The minutes of each Appraisal Committee meeting, which include the names of the
-members who attended and their declarations of interests, are posted on the NICE
-website.
-DrJaneAdam(Chair)
-Department of Diagnostic Radiology, St George's Hospital, London
-ProfessorAEAdes
-Professor of Public Health Science, Department of Community Based Medicine, University
-of Bristol
-DrJeremyBraybrooke
-Consultant Medical Oncologist, University Hospitals Bristol NHS Foundation Trust
-DrFionaDuncan
-Clinical Nurse Specialist, Anaesthetic Department, Blackpool Victoria Hospital
-MrsEleanorGrey
-Lay member
-
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
-ProfessorJonathanGrigg
-Professor of Paediatric Respiratory and Environmental Medicine, Barts and the London
-School of Medicine and Dentistry, Queen Mary University, London
-DrPeterHeywood
-Consultant Neurologist, Frenchay Hospital. Bristol
-DrSharonSaintLamont
-Head of Quality and Innovation, North East Strategic Health Authority
-DrIanLewin
-Consultant Endocrinologist, North Devon District Hospital
-DrLouiseLongworth
-Reader in Health Economics, HERG, Brunel University, Uxbridge
-DrAnneMcCune
-Consultant Hepatologist, University Hospitals Bristol NHS Foundation Trust
-ProfessorJohnMcMurray
-Professor of Medical Cardiology, University of Glasgow
-DrAlecMiners
-Lecturer in Health Economics, London School of Hygiene and Tropical Medicine
-MsPamelaRees
-Lay member
-DrAnnRichardson
-Lay member
-DrPaulRobinson
-Medical Director, Merck Sharp & Dohme
-MsEllenRule
-Programme Director, NHS Bristol
-MrStephenSharp
-
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
-Senior Statistician, MRC Epidemiology Unit
-DrPeterSims
-General Practitioner, Devon
-MrCliffSnelling
-Lay member
-MrMikeSpencer
-Assistant Director Patient Experience, Cardiff and Vale University Health Board
-MrsAmeliaStecher
-Associate Director of Individual Funding Requests and Clinical Effectiveness, NHS Kent
-and Medway
-MrDavidThomson
-Lay member
-DrJohnWatkins
-Clinical Senior Lecturer and Consultant in Public Health Medicine, Cardiff University and
-National Public Health Service Wales
-DrAnthonySWierzbicki
-Consultant in Metabolic Medicine and Chemical Pathology, Guy's and St Thomas' Hospitals
-NHS Trust, London
-NICE project team
-Each technology appraisal is assigned to a team consisting of 1 or more health technology
-analysts (who act as technical leads for the appraisal), a technical adviser and a project
-manager.
-HelenTucker
-Technical Lead
-NicolaHay
-Technical Adviser
-
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
-BijalJoshi
-Project Manager
-
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
-7 Sources of evidence considered by the
-Committee
-The Evidence Review Group (ERG) report for this appraisal was prepared by BMJ
-Technology Assessment Group (BMJ-TAG):
-• Edwards SJ, Hamilton V, Nherera L et al. Rivaroxaban for the prevention of stroke and
-systemic embolism in people with atrial fibrillation: a single technology appraisal. BMJ-
-TAG, London (October 2011)
-The following organisations accepted the invitation to participate in this appraisal as
-consultees and commentators. They were invited to comment on the draft scope, the ERG
-report and the appraisal consultation document (ACD). Manufacturers or sponsors were
-also invited to make written submissions. Professional or specialist, patient or carer
-groups, and other consultees, had the opportunity to give their expert views.
-Manufacturers or sponsors, professional or specialist, patient or carer groups, and other
-consultees, also have the opportunity to appeal against the final appraisal determination.
-Manufacturers or sponsors:
-• Bayer HealthCare
-Professional or specialist, and patient or carer groups:
-• Anticoagulation Europe (ACE)
-• Arrhythmia Alliance (AFA Affiliated)
-• Atrial Fibrillation Association (AFA)
-• British Association of Stroke Physicians
-• British Cardiovascular Society
-• British Heart Foundation
-• British Society for Haematology
-• Heart Rhythm UK
-
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
-• Primary Care Cardiovascular Society
-• Royal College of Nursing
-• Royal College of Pathologists
-• Royal College of Physicians
-Other consultees:
-• Department of Health
-• NHS Berkshire East
-• Welsh Government
-Commentator organisations (did not provide written evidence and without the right of
-appeal):
-• BMJ Technology Assessment Group (BMJ-TAG)
-• Boehringer Ingelheim
-• Bristol Myers–Squibb
-• Commissioning Support Appraisals Service
-• Department of Health, Social Services and Public Safety for Northern Ireland
-• Health Care Improvement Scotland
-• Medicines and Healthcare products Regulatory Agency
-• National Institute for Health Research Health Technology Assessment Programme
-The following individuals were selected from clinical specialist and patient expert
-nominations from the non-manufacturer or sponsor consultees and commentators. They
-gave their expert personal view on rivaroxaban by attending the initial Committee
-discussion and providing written evidence to the Committee. They were also invited to
-comment on the ACD.
-• Dr Rhona Maclean, Consultant Haematologist, nominated by Royal College of
-Pathologists – clinical specialist
-
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
-• Ms Fiona Sayers, Head of Nursing, Cardiology and Acute Service, nominated by Royal
-College of Nursing – clinical specialist
-• Professor John Potter, Professor of Ageing Stroke Medicine, nominated by Bayer
-HealthCare – clinical specialist
-• Ms Diane Eaton, nominated by Anticoagulation Europe – patient expert
-• Ms Joanne Jerrome, nominated by Atrial fibrillation Association – patient expert
-Representatives from the following manufacturer or sponsor attended Committee
-meetings. They contributed only when asked by the Committee chair to clarify specific
-issues and comment on factual accuracy.
-• Bayer HealthCare
-
-Rivaroxaban for the prevention of stroke and systemic embolism in people with atrial
-fibrillation (TA256)
-Update information
-July 2021: Section 1.2 was updated to include the other anticoagulants approved by NICE.
-ISBN: 978-1-4731-4189-6

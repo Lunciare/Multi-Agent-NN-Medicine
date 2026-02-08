@@ -1,293 +1,75 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Chest pain 6 days after a negative stress test - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:11.095929",
-  "file_size_bytes": 9680105,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Chest pain 6 days after a negative stress test - Dr. Smith’s ECG Blog.pdf"
-}
+A previously healthy man in his 70s presented to the emergency department with one hour of dull retrosternal chest pain radiating to the left shoulder. He reported no cardiac history and had undergone a stress test six days prior that was reported as normal. He had been given a clean bill of health by his cardiologist.
 
-=== СОДЕРЖАНИЕ ===
+An ECG was obtained at time 0000. No prior ECGs were available.
 
-Steve Smith onAugust 1, 2025
-Chest pain 6 days after a
-negative stress test
-This case comes from Cody Pinnow, a 2nd year EM resident
-who learned EKGs from this blog while working as a cardiac
-
-monitor technician, before medical school.
-A previously healthy 70 something y.o presented to the ER
-with 1 hour of dull, retrosternal chest pain radiating to the left
-shoulder. He reports no cardiac history and actually
-underwent a stress test (unclear type) 6 days prior, which
-was normal. The patient was given a clean bill of health by
-his cardiologist.
-An ECG was obtained at time 0000, no priors were available.
-What do you think?
-= = =
-This ECG was triaged as “No STEMI” and the patient was
-placed in a room. The patientʼs doctor recognized the ECG as
-
- 1/14
-being concerning for OMI, most notably a hyperacute T wave
-in V2, less so in V3 and V4.
-Smith: there may be the beginnings of reperfusion: you can
-see some terminal T-wave inversion in V3 and V4. I would
-ask the patient if the pain is improving.
-Retrospectively, the ECG was ran through the Queen, who
-agrees.
-New PMcardio for Individuals App 3.0 now includes
-the latest Queen of Hearts model and AI explainability (blue
-heatmaps)! Download now for iOS or Android.
+Initial ECG
 
-On evaluation, the patient had continued 8/10 pain. The
-patient was loaded with aspirin and given sublingual
-nitroglycerin. With improving pain, a repeat ECG was obtained
-at time 0058.
-V2 appears less hyperacute, and there are now terminal T-
-wave inventions in V3-V5, suggestive of reperfusion and
-consistent with the patientʼs history of improving ACS
-symptoms.
-The Queen again recognizes this as high confidence OMI,
-without having any information on the patientʼs pain.
- 2/14
-Smith: this version of the Queen diagnoses “OMI” if there is
-either an “Active” OMI or a “Reperfused” OMI.
-We have a more up-to-date algorithm (not publicly available)
-that differentiates “Active” from “reperfused” and also
-diagnoses “Subendocardial Ischemia (SEI)”
-Here is the output of this algorithm:
-Screenshot
-= = =
-A nitroglycerin drip was started and interventional cardiology
-was called. Interventional agreed with the dynamic changes,
-however requested the patientʼs cardiology group be
-consulted before the catheterization was performed given the
-recent reassuring stress test. The patientʼs pain continued to
-improve on nitroglycerin.
-As discussed on this blog previously, stress tests are
-practically USELESS for emergency department risk
-stratification of chest pain.
-Stress tests have not been shown to catch at risk
-plaques:
-1. Smith SW. Jackson E. Hanson K. Bart B. Incidence of MI
-in ED Chest Pain Patients with a Recent Negative Stress
-Imaging Test. Academic Emergency Medicine 2005;
-12(Suppl 5):51.
-2. Walker J, Galuska M, Vega D. Coronary disease in
-emergency department chest pain patients with recent
-negative stress testing. West J Emerg Med. 2010
- 3/14
-Sep;11(4):384-8. Erratum in: West J Emerg Med. 2018
-Nov;19(6):1065. doi: 10.5811/westjem.2018.10.41206.
-PMID: 21079714; PMCID: PMC2967694.
-3. Meyer MC, Mooney RP, Sekera AK. A critical pathway for
-patients with acute chest pain and low risk for short-term
-adverse cardiac events: role of outpatient stress testing.
-Annals of emergency medicine. 2006; 47(5):427-35.
-PMID
-4. Engineer RS, et al. Chest pain after recent stress test: Is
-there a warranty?
-1. Ann Emerg Med 2004;44(4, Supplement):S47.
-2. Available from:
+The ECG was triaged as “No STEMI.”
 
-Stress tests have bad sensitivity for obstructive
-CAD, as low as 45%:
-1. Froelicher VF, Lehmann KG, Thomas R, et al. The
-electrocardiographic exercise test in a population with
-reduced workup bias: diagnostic performance,
-computerized interpretation, and multivariable prediction.
-Veterans Affairs Cooperative Study in Health Services
-#016 (QUEXTA) Study Group. Quantitative Exercise
-Testing and Angiography. Ann Intern Med. 1998;128:(12
-Pt 1)965-74
-An excellent review of the pitfalls and weaknesses of stress
-tests from an emergency department perspective:
+The treating physician recognized the ECG as concerning for occlusion myocardial infarction, most notably a hyperacute T wave in lead V2, with lesser changes in leads V3 and V4.
 
-Back to the Case:
-The patientʼs primary cardiologist recommended obtaining a
-troponin to help decide on catheterization “as the initial ECG
-was relatively unremarkable”. The initial high-sensitivity
-troponin returned at 92 (upper limit for men 22) which
-convinced the cardiology teams that catheterization was
-appropriate. The patient was started on heparin and went for
-catheterization (pain free) at time 0400. He was found to
-have severe triple vessel disease including 50% stenosis of
-the left main, complex stenosis of various parts of the LAD
-with 80% stenosis of the distal LAD. No immediate culprit
-lesion was identified.
-Peak Troponin was not measured.
-Cardiothoracic surgery was consulted and the patient
-successfully underwent CABG x4 the following day. The
-troponin was not trended further. Patientʼs hospital course
- 4/14
-was complicated by atrial fibrillation and volume overload,
-however he is now doing well.
-An ECG several months later for comparison makes the
-hyperacute changes of his first ECG more obvious.
-Smith: this patient was lucky to reperfuse before any
-intervention. You donʼt know which patients will be so lucky
-— so donʼt wait for it to happen!!
-= = =
-======================================
-MY Comment, by KEN GRAUER, MD (8/1/2025):
-As I reviewed todayʼs case in the comfort of my Department) with “1 hour of dull, retrosternal CP (Chest
-Pain)radiating to the left shoulder”.
-Of note, the patient underwent a stresstest (unclear
-type) 6 days earlier — which was reported as “normal”.
-He was therefore “given a clean bill of health” by his
-cardiologist.
-= = =
-The “Details” in this History:
-As noted above in Dr. Smithʼs discussion — Interventional
-cardiology was called to see this patient, but was reluctant to
-perform cardiac catheterization despite ECG changes
-because of the “reassuring” stress test. As one who
-performed and taught residents and my colleague family
-physicians nationally how to perform stress testing over a
-period of decades — Iʼll add the following perspective
-regarding the use of “stress testing”.
- 5/14
-Detail #1: There are many different kinds of “stress
-tests” that might have been performed — so decision-
-making will clearly depend on the specific type of stress
-test that was done (ie, treadmill exercise — echo stress
-— nuclear stress test — cardiac MRI, etc.).
-Detail #2: What were the specific results of the test? For
-example — an exercise treadmill test might be “negative
-for ischemia” — but if an insufficient exercise workload
-was achieved, significant cardiac disease may still be
-present. Or body habitus or other factors may have
-resulted in a “negative” but suboptimally visualized test.
-Detail #3:WHY was a stress test ordered in the 1st
-place, just 6 days before this patient presented with
-new-onset CP? If the reason was for a history of angina
-— then depending on the type of stress test and its
-specific results — a “negative” result might not have
-negated the risk of underlying heart disease. There is an
-“art” to the interpretation of various stress tests that may
-(or may not) have been optimally applied in todayʼs case
-(We simply do not know this from details available
-regarding todayʼs case).
-Detail #4: Most stress tests assess for the presence of
-flow-limiting coronary stenosis. But a majority of infarcts
-arise from non-flow-limiting (less severe) coronary
-stenoses that harbor an unstable plaque that ruptures
-and results in acute coronary occlusion (Fearson —
-Circulation: Cardiovasc Interven 4(6): 539-541, 2011).
-While stress testing may highlight certain patients “at
-risk” of a future event — it will generally not pick up
-whether a plaque is about to become “unstable”.
-The “Details” in Todayʼs ECGs:
-For clarity in Figure-1 — Iʼve placed side-by-side the first 2
-ECGs in todayʼs case.
-The initial ECG (TOP tracing in Figure-1) — was
-classified in triage as, “No STEMI”. The treating
-physician did however recognize the hyperacuteT
-wave in lead V2(less so in leads V3,V4).
-About an hour later — the patient was doing
-better (much less CP after ASA and SL followed by IV
-NTG). A repeat ECG was obtained — and it was noted
-that lead V2 looked less hyperacute, with now terminal T
-wave inversions in leads V3,V4,V5.
-Disposition: At this point — Cardiology recommended
-obtaining a Troponin “to help decide on
-catheterization” — as theinitialECGwas“relatively
-unremarkable”.
- 6/14
-What additional details should be noted in the interpretation
-of ECGs #1 and #2?
-How should these details have influenced management
-decisions?
-= = =
-Figure-1: Comparison of the initial ECG — and
-the repeat ECG in todayʼs case.
-ANSWERS: The details in the interpretation of these 2 ECGs
-Given the history of new-onset CP in this 70-something man
-— the diagnosis of acute OMI should have been made as
-soon asECG #1 was seen.
-The rhythm in ECG #1 is sinus. There is LAHB. But in a
-patient with new-onset CP — our “eye” is captured by
-the 2 leads within the RED rectangle. The hyperacute T
-wave in lead V2 is large enough (and “fat” enough) to
-swallow the small QRS complex in this lead.
-Support that hyperacuity in lead V2 is real — is
-forthcoming from the ST-T wave in lead V3, which
-shows distinct straightening of the ST segment
-takeoff and subtle-but-real terminal T wave inversion.
-Similar findings of concern are seen in other leads
-in ECG #1. These include: i) ST segment
-straightening (in leads V4,V5 — with ST segment
-flattening in lead V6) — and, ii) Terminal T wave
-inversion (BLUE arrows in leads III,aVF; V4,V5).
-Impression: Given the history — ECG #1 is diagnostic of
-an acute OMI, with clear ST-T wave abnormalities in at
- 7/14
-least 7/12 leads. The terminalT wave inversion that is
-seen in 5 leads suggests there has been some degree
-of spontaneous reperfusion of the “culprit” artery. But
-what spontaneously reopens — might just as easily (at
-any moment) spontaneously reclose — which is
-why prompt cath is indicatedon the basis of this initial
-ECG. Regardless of what an initial Troponin might show
-— prompt cath is indicated!
-PEARL: In isolation — I might not be certain that the
-inverted T waves in leads III and aVF
-represent reperfusion T waves (because the T wave
-may at times be normally inverted when the QRS is
-predominantly negative in leads III and/or aVF, as it is in
-ECG #1). However, the subtle-but-real T wave inversion
-in leads V3,V4,V5 is important to appreciate because it
-confirms reperfusion and that this patient has an acute
-evolving OMI.
-Learning Point:
-Isnʼt it much easier to appreciate the dynamic ST-T wave
-changes in Figure-1 when we view the 2 tracings we are
-comparing side-by-side?
-Note that the patientʼs CP is much less at the time ECG
-#2 was recorded. As a result — we should expect
-improvement in this repeat ECG.
-Although subtle — all 3 inferiorleads show signs
-suggestive of reperfusion (ST flattening and beginning T
-wave inversion in lead II — and deeper T inversion in
-leads III,aVF).
-The hyperacute T wave in lead V2 has clearly deflated.
-The T waves in high-lateral leads I and aVL have both
-improved (deflation of the T wave in lead I — and the T
-wave in aVL is less pointed). Retrospectively — this
-comparison suggests that lead I in ECG #1 was also a
-hyperacute T wave.
-ST-T wave morphology has evolved in leads
-V3,V4,V5,V6 (ST segment straightening has evolved
-into ST segment coving with deeper terminal T wave
-inversion).
-Impression: No less than 10/12 leads
-show “dynamic” ST-T wave changes in ECG #2
-compared to ECG #1. There can be no doubt that this
-patient had an acute OMI — which fortunately is now
-showing ST-T wave changes
-of spontaneous reperfusion in 10/12 leads.
-Learning Point: It should not be surprising that when
-cardiac cath was finally performed (4 hours after the
- 8/14
-initial ECG) — that this patient did not have a “culprit”
-lesion identified on cath. Thatʼs because the reason the
-patient was completely pain-free at the time cath was
-performed is (as ECGs #1 and #2 have told us) — that
-there has been spontaneous reperfusion of whichever
-of his multivessel disease arteries had been occluded,
-but had reopened by the time cath was finally done.
-Steve Smith onAugust 1, 2025
-HYPERACUTE T-WAVES LAD REPERFUSION STRESS TEST
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-87-year-old with chest Accuracy of cath lab
-pain activation decisions
-for STEMI-equivalent
-and mimic ECGs:
-Physicians vs. AI
-(PMcardio, queen of
-hearts), and comment
-by John Mandrola on
+There may be early signs of reperfusion, including terminal T-wave inversion in leads V3 and V4.
+
+Clinical Course and Repeat ECG
+
+The patient continued to have severe chest pain rated at 8/10. He was treated with aspirin and sublingual nitroglycerin.
+
+With improving pain, a repeat ECG was obtained at time 0058.
+
+In the repeat ECG, lead V2 appeared less hyperacute. There were now terminal T-wave inversions in leads V3 through V5, suggestive of reperfusion and consistent with improving acute coronary syndrome symptoms.
+
+Dynamic ECG changes were present despite improvement in symptoms.
+
+Management Discussion
+
+A nitroglycerin infusion was started, and interventional cardiology was consulted.
+
+Interventional cardiology agreed that there were dynamic ECG changes but requested consultation with the patient’s cardiology group prior to catheterization due to the recent reassuring stress test.
+
+The patient’s pain continued to improve on nitroglycerin.
+
+Stress tests are unreliable for emergency department risk stratification of chest pain. Stress testing does not reliably detect unstable plaques, and many myocardial infarctions arise from non-flow-limiting coronary lesions.
+
+Stress tests have limited sensitivity for obstructive coronary artery disease and may be as low as 45%.
+
+Biomarkers and Catheterization
+
+The patient’s primary cardiologist recommended obtaining a troponin level to help decide on catheterization, as the initial ECG was felt to be relatively unremarkable.
+
+The initial high-sensitivity troponin returned at 92 (upper limit for men 22).
+
+The patient was started on heparin and underwent cardiac catheterization at approximately 0400 while pain-free.
+
+Cardiac catheterization revealed severe triple-vessel coronary artery disease, including 50% stenosis of the left main coronary artery and complex stenoses throughout the left anterior descending artery, with up to 80% stenosis in the distal LAD. No single acute culprit lesion was identified.
+
+Peak troponin was not measured.
+
+Surgical Management and Outcome
+
+Cardiothoracic surgery was consulted.
+
+The patient underwent coronary artery bypass grafting ×4 the following day.
+
+The hospital course was complicated by atrial fibrillation and volume overload. The patient ultimately recovered and was doing well.
+
+An ECG obtained several months later demonstrated that the hyperacute changes on the initial ECG were more apparent in retrospect.
+
+The patient was fortunate to have spontaneous reperfusion prior to intervention. It is not possible to predict which patients will spontaneously reperfuse.
+
+ECG Interpretation and Learning Points
+
+Given the history of new-onset chest pain, the diagnosis of acute occlusion myocardial infarction should have been made at the time of the initial ECG.
+
+The rhythm was sinus. Left anterior fascicular block was present.
+
+The hyperacute T wave in lead V2 was disproportionately large relative to the QRS complex.
+
+Supporting evidence included ST-segment straightening and terminal T-wave inversion in multiple precordial and inferior leads.
+
+At least 7 of 12 leads showed abnormal ST-T wave morphology on the initial ECG.
+
+Terminal T-wave inversion in multiple leads suggested spontaneous reperfusion, but spontaneous reopening may be transient, and prompt catheterization is indicated regardless of initial troponin values.
+
+Comparison of serial ECGs side-by-side revealed dynamic ST-T wave changes in at least 10 of 12 leads.
+
+Spontaneous reperfusion explains the absence of an identifiable culprit lesion at the time of catheterization.

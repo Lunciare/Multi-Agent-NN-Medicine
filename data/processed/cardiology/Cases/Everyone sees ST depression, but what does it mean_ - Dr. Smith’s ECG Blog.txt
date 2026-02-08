@@ -1,303 +1,123 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Everyone sees ST depression, but what does it mean_ - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:38:01.739410",
-  "file_size_bytes": 13784365,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Everyone sees ST depression, but what does it mean_ - Dr. Smith’s ECG Blog.pdf"
-}
+A man in his 70s with a history of hypertension and type 2 diabetes mellitus presented with acute chest pain that awakened him from sleep around midnight. The pain was substernal, non-radiating, and rated 7/10 in intensity. An ECG was obtained at approximately 4:00 AM.
 
-=== СОДЕРЖАНИЕ ===
+Initial ECG (ECG #1)
 
-Willy Frick onMarch 30, 2025
-Everyone sees ST
-depression, but what does it
-mean?
-Written by Willy Frick
-A man in his 70s with hypertension and type 2 diabetes mellitus
-presented with chest pain which awoke him from sleep around
-midnight. He described it as substernal, non-radiating, 7 out of 10
-intensity. His ECG obtained around 4 AM is shown.
-ECG 1
- 
-What do you think?
-
- 1/16
-I texted this ECG to Dr. Smith without any information and he
-immediately replied: “combination of precordial swirl and South
-African Flag sign, with Swirl predominating. Occlusion proximal to
-septal perforator AND first Diagonal.”
-The Queen of Hearts easily diagnoses OMI. Her confidence is 0.99,
-almost maximal. In particular, we see:
+The initial ECG was clearly abnormal, though it did not meet classic STEMI criteria.
+
+Key findings:
+
+ST depression in inferolateral leads (II, III, aVF, V4–V6)
+
+ST elevation and hyperacute T waves in V1, V2
+
+ST elevation and hyperacute T wave in aVL
+
+Reciprocal ST depression in III
+
+Loss of normal gentle ST elevation in V3
+
+Pattern consistent with a combination of:
+
 Precordial swirl
-STE and hyperacute T waves (HATW) in V1, V2
-Reciprocal STD in the lateral precordium, V4-6
-(Most of) South African Flag
-STE and HATW in aVL and V2 (less apparent in lead I)
-Reciprocal STD in III
-This is diagnostic for LAD OMI involving the septal perforators
-(precordial swirl) and major diagonal (South African Flag). This
-patient should be taken for immediate angiogram.
-The ECG was interpreted as showing “mild ST depressions in leads II,
-III, aVF, V4, V5, V6.” The patient received aspirin 325 mg and
-nitroglycerin 0.4 mg sublingual. According to documentation, his pain
-resolved (but there was no short interval repeat ECG to assure
-normalization). First troponin I (cTnI) was 0.049 ng/mL (ref: < 0.033
-ng/mL).
-The next update in the chart is at 8:10 AM, when repeat cTnI was
-3.788 ng/mL, already a sizable infarct. After this resulted, repeat ECG
-was obtained:
-ECG 2
- 2/16
-Compared to the first, there is obvious improvement, but it is not
-normal and one must wonder whether there could be ongoing
-ischemia. The admitting service described the ECG as having “ST
-depressions in II, III, aVF, V4-V6,” and documented that his pain was
-significantly improved to 2/10 and resolved during the interview.
-PAUSE
-Two thoughts:
-First, there either is ischemic chest pain, or there is not. “Nearly
-gone” means unresolved. To use an analogy, would you be happy to
-drink water with nearly all the sewage filtered out?
-Second, when evaluating a patient with ischemic chest pain, it is the
-clinicianʼs job to elicit symptoms. The specific questions we ask
-encourage various responses. If you tell the patient “This nitro should
-help with the pain…Are you feeling better?” they might give you
-reassurance.
-When I treat patients with suspected ACS, I tell them: “Your
-symptoms are critically important to me. If you feel absolutely normal,
-we can safely wait until the morning. On the other hand, if you have
-ANY chest discomfort [or whatever symptom the patient was
-experiencing] I need to know immediately. Please tell me or tell your
-nurse, because that would be an emergency.”
-Back to the case:
-The patient was started on continuous heparin infusion and taken for
-echocardiogram. Apical views are shown below, first 4 chamber, then
-2 chamber, then 3 chamber.
- 3/16
-AAppiiccaall TTTTEE vviieewwss
-The apex is akinetic. It almost looks like takotsubo except we know
-from ECG and history that it is LAD OMI. The LVEF is ~45% Around
-this time, the patient was evaluated by the cardiology consult service.
-The consult note describes the ECG as showing “STD in the
-inferolateral leads,” making this the third interpretation to overlook
-diagnostic STE and HATW in V1, V2, and aVL.
-The patient was taken for cath. I have included the RAO cranial and
-RAO caudal projections here. Have a look at them and see if you can
-figure out the diagnosis before watching the video that follows where
-I explain. As always, you can read more in the angiography guide.
-RAO cranial
- 4/16
-RAO caudal
-Narrated Video Explanation
- 5/16
-CCoorroonnaarryy VVaassoossppaassmm
-Color scheme for cath films by Willy Frick.
-The angiogram shows exactly what the ECG predicted: LAD occlusion
-involving the septal perforators and the major diagonal vessel. This is
-considered a type 2 MI since it is not due to atherosclerotic plaque
-disruption.
-At around 12:30 PM, the patient received intracoronary nitrogylcerin
-with resolution of vasospasm. Repeat cTnI was still rising when last
-checked, 6.607 ng/mL.
-Discussion:
-Cases like this should infuse us with humility. Documentation said the
-patientʼs chest pain resolved after NTG, but the next note said he had
-only “2/10 pain.” By the time he got to cath 8 hours after his first
-diagnostic ECG, his LAD remained severely spastic with very poor
-flow. If the first ECG had been a STEMI, he would likely have been
-treated emergently. But instead, it was the red-headed stepchild,
-NSTEMI. And this turned into another case of supervised, in-hospital
-anterior wall infarction. Cases like this make it hard to feel
-comfortable delaying intervention due to symptom improvement. If
-the patient comes in with ACS symptoms and ECG showing OMI —
-just get them to the lab.
- 6/16
-This also brings up the general topic of non-atherosclerotic causes of
-myocardial ischemia and infarction. JACC published an elegant trial
-called CorMicA, in which investigators took patients with angina and
-no obstructive coronary disease (also called ANOCA or angina with
-non-obstructive coronary arteries) and performed comprehensive
-coronary evaluation with vasospasm provocation testing and
-microvascular evaluation. The patients were then randomized to
-routine care (in which the treating clinician was blinded to the results
-of the comprehensive assessment) vs stratified medical therapy
-according to the results of the invasive diagnostic procedure.
-CorMicA, JACC 2018
-Patients in the intervention arm had significant improvement in
-symptoms (the primary endpoint) and quality of life. In addition,
-patients in the control arm were 12.5 times more likely to have a
-missed diagnosis!
-Patients with vasospasm should be strongly supported in their efforts
-to quit smoking which is a known risk factor for vasospasm. In
-addition, they should receive calcium channel blockers and long-
-acting nitrates to prevent recurrent spasm.
-Learning points:
-It is your job to ELICIT symptoms of refractory ischemia. Delay
-intervention at your own peril.
-“Much better” is not the same as “completely resolved”
-Coronary vasospasm classically occurs in the middle of the
-night or early morning
-Help patients quit smoking, and treat with calcium channel
-blockers and long acting nitrates
- 7/16
-===================================
-MY Comment, by KEN GRAUER, MD (3/30/2025):
-===================================
-As per Dr. Frick — “Today’s case should infuse us with humility” — as
-there are many aspects of this patient’s care that could have (and should
-have) been improved. Filling us with humility is the frequency with which
-cardiac catheterization (as it is currently performed in most institutions)
-fails to identify all-too-many patients with a significant component
-of either microvascular and/or vasospastic angina (Results cited in Dr.
-Frick’s above discussion, taken from the CorMicA Trial by Ford et al:
-JACC, 2018).
-The problem is not simple — as these non-atherosclerotic causes of
-CP (Chest Pain) run the gamut of symptomatology — and may be
-seen either in patients with pure coronary spasm — or — in patients
-with variable degrees of underlying atherosclerotic disease, upon
-which either a microvascular or vasospastic component
-is superimposed in any one or more of the major coronary
-branches (Matta et al — J Interv Cardiol, 2020 — and — Slavich
-and Patel — Int J Cardiol Heart Vasc, 2016).
-And then there is the issue of MINOCA (Acute MI in patients with
-Non-Obstructive Coronary Arteries) — which is estimated to occur
-in ~10% of patients initially diagnosed as having a STEMI or
-NSTEMI — in which microvascular and vasospastic angina are just
-2 of the potential causes of an MI for which there is no evidence for
-a “culprit” vessel (See My Comments in the June 5,
-2024 post — and the December 19, 2023 post).
-The above said — I focus My Comment today on aspects
-associated with this patient’s presentation and his initial ECG.
-To facilitate comparison of today’s initial ECG with
-the repeat ECG — I’ve put both tracings side-by-side
-in Figure-1.
-QUESTION:
-How to decide IF (and When) cardiac cath is indicated?
- 8/16
-Figure-1: Comparison between the first 2 ECGs in today’s case.
-A Simplified Approach:When to Cath?
-Cardiac cath was not performed in todayʼs case for a full 8
-hours after the initial ECG was recorded. As emphasized by
-Dr. Frick — this delay was entirely unnecessary, since the
-initial ECG was diagnostic of acute LAD
-occlusion until proven otherwise!
-Identification of the primary problem in todayʼs case ( =
-coronary spasm) could not be diagnosed until cardiac
-cath was performed. But the cause of todayʼs symptoms
-and ECG changes is not the main issue here. Instead —
-the principal issue is whether and if so, whencardiac
-cath should be performed in a patient such as the 70-
-something year old man in todayʼs case who presented
-to the ED for severe new-onset CP that awakened him
-from a sound sleep at 4:00 am.
-The Answer to the above clinical question should be simple:
-IF the initial ECG of a patient with new-onset CP is
-clearly abnormal (and clearly suggestive of an ongoing
-acute cardiac event) — then nothing else can possibly
-negate the indication for prompt cardiac catheterization.
-By “clearly abnormal” — this does not mean an ECG that
-satisfies millimeter-based criteria for a STEMI. This is
-because at least 30% of acute OMIs do not initially
-meet STEMI criteria — and many of these acute
-coronary occlusions that eventually do satisfy STEMI
-criteria, only do so after many hours of delay (Ricci,
-Smith, et al — Ann Emerg Med 85(4): 330-340, 2024).
-Although an elevated initial Troponin level may confirm
-acute infarction in progress — this initial Troponin level
- 9/16
-is not a part of the initial decision-making process IF the
-initial ECG is clearly abnormal. This is because the initial
-Troponin level may be normal in as many as 25% of
-patients who present with a STEMI(Wereski, Smith et al
-— JAMA Cardio 5(11):1302-1304, 2020). Therefore, if
-the initial ECG is clearly abnormal — the decision of
-whether or not to perform prompt cath remains the
-same regardless of whether or not the initial Troponin is
-normal or elevated (since a normal initial Troponin in
-no way rules out an acute event).
-And although repeat ECGs may demonstrate ongoing
-evolution of acute infarction — Waiting so that you can
-repeat the ECG should not be a part of the initial
-decision-making process IF the initial ECG is clearly
-abnormal. This is because no matter what a repeat ECG
-shows (ie, worsening — improvement — or no change
-at all) — IF in a patient with new-onset CP
-the initial ECG is clearly abnormal — Waiting only
-delays the indication for prompt cath that has already
-been established (and waiting only means that more
-potentially salvageable myocardium will needlessly be
-lost).
-The Initial ECG in Todayʼs CASE:
-As per Dr. Frick — todayʼs initial ECG is clearly
-abnormal (TOP tracing in Figure-1):
-In todayʼs patient who presents with severe new-
-onset CP — my “eye” was immediately drawn to the 2
-leads within the RED rectangles. In view of the small S
-wave in Lead V1 (ie, There is no LVH) — there simply
-should not be the ST segment straightening and the
-amount of J-point ST elevation that we see in ECG #1.
-In this context — the T wave in neighboringlead V2 is
-also disproportionately tall. An additional subtle-but-
-real finding is the presence of a small initial q wave that
-precedes the small r wave in lead V2 (within the dotted
-BLUE circle).
-The BLUE arrow in neighboring lead V3 highlights loss
-of the small amount of gently upsloping ST elevation that
-is normally seen in lead V3. This is followed by 1-to-2+
-mm of flat or downsloping ST depression in lateral
-chest leads V4,V5,V6.
-The other RED rectangle highlights lead aVL — that
-manifests ST segment coving with >1 mm of ST
-elevation. This ST elevation in lead aVL is complemented
-by clearly abnormal reciprocal ST depression in each of
-the inferior leads.
- 10/16
-BOTTOM Line:Nothing else is needed in todayʼs case to
-establish the need for prompt cath as soon as this can
-be accomplished.
-The Repeat ECG in Todayʼs CASE:
-4 hours later — a repeatECG was obtained (ECG #2 in
-Figure-1). That said — multiple concerns relate to this repeat
-ECG.
-The patient was given sublingual NTG after ECG #1 was
-recorded — which chart records indicate resulted
-in “resolution of the patientʼs CP”. As soon as the
-patientʼs CP was resolved — the repeat ECG should
-have been recorded. Instead — no ECG was repeated
-until 4 hours later, and only then because an elevated
-Troponin value returned from the lab.
-With acute ongoing infarction — the initial ECG should
-be repeated within nomore than 15-20 minutes after the
-initial ECG.
-As per Dr. Frick — 2/10 CP (as was noted at the time
-ECG #2 was recorded) is not the same as 0/10 CP.
-Rather than description of ECG #2 as having “ST
-depression in leads II,III,aVF; V4-V6” as was written by
-the admitting service— there have
-been “dynamic” ECG changes that become obvious by
-the side-by-side comparison of ECG #1 and ECG #2
-afforded in Figure-1(ie, in the form of deflation of the ST
-elevation in leads aVL and V1, and deflation of the
-hyperacute T waves in leads V2,V3). There has also
-been evolution of reperfusion T waves in leads III,aVF;
-and in leads V3-thru-V6.
-BOTTOM Line: Demonstration of these “dynamic” ST-T
-wave changes in association with the reduction in CP
-severity — confirms an ongoing acute event until proven
-otherwise. That said — the indication for prompt cath
-had already been firmly established 4 hours earlier at
-the time the initial ECG was done.
-Willy Frick onMarch 30, 2025
-DIAGONAL BRANCH (D1 OR D2) PRECORDIAL SWIRL SEPTAL OMI
-SOUTH AFRICAN FLAG SIGN SPASM
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-Even in retrospect, no
-one could see it.
- 11/16
-What is Wellens'
-syndrome? And what
-conditions mimic it?
+
+South African Flag sign
+
+This constellation of findings is diagnostic of acute LAD occlusion, involving:
+
+Septal perforators (precordial swirl)
+
+A major diagonal branch (South African Flag pattern)
+
+This ECG represents acute occlusion myocardial infarction (OMI) and warrants immediate cardiac catheterization, regardless of troponin level or symptom improvement.
+
+The Queen of Hearts AI diagnosed OMI with very high confidence (0.99).
+
+Initial Management and Misinterpretation
+
+The ECG was interpreted clinically as showing only “mild ST depression”. The patient received:
+
+Aspirin 325 mg
+
+Sublingual nitroglycerin 0.4 mg
+
+Documentation stated that the patient’s pain “resolved,” but no short-interval repeat ECG was obtained to confirm electrical resolution.
+
+Initial troponin I was mildly elevated (0.049 ng/mL, reference <0.033).
+
+Clinical Deterioration
+
+At 8:10 AM, repeat troponin I was 3.788 ng/mL, indicating a substantial infarction. A repeat ECG (ECG #2) showed improvement compared to ECG #1, but remained clearly abnormal, raising concern for ongoing ischemia.
+
+Despite this:
+
+The ECG was again described as showing only ST depression
+
+Pain was documented as “2/10” and later “resolved”
+
+The distinction between partial improvement and complete resolution was not acted upon
+
+Echocardiography
+
+Transthoracic echocardiogram demonstrated:
+
+Apical akinesis
+
+LVEF approximately 45%
+
+The pattern could superficially resemble takotsubo, but ECG and clinical context were diagnostic of LAD OMI.
+
+Cardiac Catheterization
+
+Cardiac catheterization was delayed approximately 8 hours after the initial diagnostic ECG.
+
+Findings:
+
+Severe LAD vasospasm involving septal perforators and a major diagonal branch
+
+Very poor flow in the LAD
+
+No acute plaque rupture
+
+This was classified as a Type 2 MI (ischemia due to vasospasm rather than atherosclerotic plaque disruption).
+
+Intracoronary nitroglycerin was administered around 12:30 PM, resulting in resolution of vasospasm. Troponin continued to rise, reaching 6.607 ng/mL.
+
+Final Diagnosis
+
+Acute LAD occlusion myocardial infarction due to coronary vasospasm
+
+Mechanism: non-atherosclerotic (vasospastic OMI)
+
+Resulted in a supervised, in-hospital anterior wall infarction due to delayed intervention
+
+Key Clinical Insights
+
+ST depression is not a diagnosis; it is a finding that must be interpreted in pattern and context
+
+Precordial swirl and South African Flag patterns are STEMI-equivalents
+
+Symptom improvement is not sufficient to defer cath unless:
+
+Chest pain is completely resolved
+
+Ischemic ECG changes are completely resolved
+
+“Much better” or “2/10 pain” still represents refractory ischemia
+
+The initial ECG alone is sufficient to mandate cath when clearly abnormal
+
+Troponin values do not guide the initial decision to cath in suspected OMI
+
+Vasospastic and microvascular causes of MI are frequently missed without angiography
+
+Learning Points
+
+Acute coronary occlusion can present without classic STEMI criteria
+
+Coronary vasospasm often occurs at night or early morning
+
+Failure to recognize OMI patterns leads to preventable myocardial injury
+
+If a patient presents with ACS symptoms and a diagnostic ECG for OMI, they belong in the cath lab
+
+Delay based on symptom improvement or fear of false activation can result in large, avoidable infarctions

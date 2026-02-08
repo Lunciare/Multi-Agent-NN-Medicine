@@ -1,43 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "endovascular-stentgrafting-of-popliteal-aneurysms-pdf-1899867868840645.pdf",
-  "converted_date": "2026-01-31T14:47:04.715536",
-  "file_size_bytes": 65993,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/endovascular-stentgrafting-of-popliteal-aneurysms-pdf-1899867868840645.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Endovascular stent-grafting of
-popliteal aneurysms
-Interventional procedures guidance
-Published: 27 April 2011
-www.nice.org.uk/guidance/ipg390
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-
-Endovascular stent-grafting of popliteal aneurysms (IPG390)
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Endovascular stent-grafting of popliteal aneurysms
 1 Guidance
 1.1 Current evidence on endovascular stent-grafting of popliteal aneurysms is limited
 in quantity but shows no major safety concerns. Evidence on efficacy is
@@ -59,7 +20,7 @@ with specific training and experience in the technique.
 1.4 NICE encourages further research into endovascular stent-grafting of popliteal
 aneurysms and may review this procedure on publication of further evidence.
 
-Endovascular stent-grafting of popliteal aneurysms (IPG390)
+ 
 2 The procedure
 2.1 Indications and current treatments
 2.1.1 Popliteal artery aneurysms are the most common peripheral aneurysms. They can
@@ -86,7 +47,7 @@ year for endovascular repair was 84% (36 out of 43), compared with 85% (99 out
 of 116) for open repair (p=0.46). Secondary patency rates at 1 year were 86% (37
 out of 43) for endovascular repair and 95% (110 out of 116) for open repair
 
-Endovascular stent-grafting of popliteal aneurysms (IPG390)
+ 
 (p=0.07). A non-randomised comparative study of 43 patients (56 limbs; 15
 endovascular and 41 open repair) reported primary patency rates of 83% and
 88% respectively at 24-month follow-up (p=not significant). A case series of 60
@@ -118,7 +79,7 @@ Acute thrombosis was reported in 6% (2 out of 23) of aneurysms within 24 hours
 of the procedure in the case series of 29 patients; both aneurysms were
 successfully recanalised with catheter-directed thrombolysis and balloon
 
-Endovascular stent-grafting of popliteal aneurysms (IPG390)
+ 
 angioplasty or rheolytic thrombectomy. In this study, a further 4 patients were
 diagnosed with thrombosis during follow-up (1 was described as acute and 3 as
 subacute).
@@ -143,12 +104,3 @@ developed an audit tool (which is for use at local discretion).
 Sources of evidence
 The evidence considered by the Interventional Procedures Advisory Committee is
 described in the overview.
-
-Endovascular stent-grafting of popliteal aneurysms (IPG390)
-Information for patients
-NICE has produced information for the public on this procedure. It explains the nature of
-the procedure and the guidance issued by NICE, and has been written with patient
-consent in mind.
-ISBN: 978-1-4731-6378-2
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

@@ -1,53 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "guidance-on-the-use-of-drugs-for-early-thrombolysis-in-the-treatment-of-acute-myocardial-infarction-pdf-2294634226885.pdf",
-  "converted_date": "2026-01-31T14:48:05.758906",
-  "file_size_bytes": 157098,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/guidance-on-the-use-of-drugs-for-early-thrombolysis-in-the-treatment-of-acute-myocardial-infarction-pdf-2294634226885.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Guidance on the use of
-drugs for early
-thrombolysis in the
-treatment of acute
-myocardial infarction
-Technology appraisal guidance
-Published: 30 October 2002
-www.nice.org.uk/guidance/ta52
-
 Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
-
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+infarction
 1 Recommendations
 This guidance provides recommendations on the selection of thrombolytic drugs in
 patients with acute myocardial infarction (AMI). Recommendations are made in relation to
@@ -68,8 +20,7 @@ practicalities of administering thrombolytic drugs in pre-hospital settings mean
 that the bolus drugs (reteplase or tenecteplase) are recommended as the
 preferred option.
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 2 Clinical need and practice
 2.1 Acute myocardial infarction (AMI) is caused by blockage of a coronary artery by a
 thrombus or clot. This is usually the result of rupture of an atherosclerotic plaque
@@ -100,8 +51,7 @@ continues to be under-used.
 confirmed diagnosis of AMI. Additionally, their administration in pre-hospital
 settings, principally by ambulance paramedics, is becoming more common.
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 2.7 Early primary percutaneous coronary intervention (PCI) may be an alternative to
 thrombolysis. Despite research evidence of the potential value of early PCI,
 currently few hospital trusts have the capacity to provide it. Treatment delivering
@@ -109,8 +59,7 @@ thrombolytics in combination with glycoprotein IIb/IIIa inhibitors is also the
 subject of research studies. However, these interventions are beyond the scope
 of this appraisal.
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 3 The technology
 3.1 Thrombolytic drugs
 3.1.1 In the UK, four thrombolytic agents are licensed and available to treat AMI. All act
@@ -142,8 +91,7 @@ Product Characteristics for the individual agents.
 streptokinase. It is usually administered as an IV bolus injection before
 thrombolysis, followed by an IV infusion. When given with tenecteplase the
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 heparin dose is weight adjusted. Aspirin (an antiplatelet agent) is also usually
 given with any thrombolytic drug, because it delivers a mortality benefit in its own
 right.
@@ -178,8 +126,7 @@ costs £716 per patient (excluding VAT; BNF 43, March 2002).
 administered as a single (weight-adjusted) IV bolus injection. It is estimated that
 tenecteplase currently accounts for around 1% of thrombolytic drug use in the
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 UK, the manufacturer indicates that the proportion is increasing. Tenecteplase
 costs £700 to £770 per patient (excluding VAT; BNF 43, March 2002).
 3.2 Delivering thrombolytic drugs
@@ -211,8 +158,7 @@ However, paramedics can administer other thrombolytic drugs under local Patient
 Group Directions, and guidelines on their use by paramedics have been
 developed by the Joint Royal Colleges Ambulance Liaison Committee (JRCALC).
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 3.2.6 There are practical difficulties in giving controlled-rate infusions in pre-hospital
 settings, including drug preparation requirements, the practicalities of giving an
 infusion in an ambulance and, for streptokinase, concerns about higher rates of
@@ -232,8 +178,7 @@ Pre-hospital models include:
 • telemetry-supported paramedic administration
 • autonomous paramedic administration.
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 4 Evidence
 The appraisal committee reviewed the evidence from a number of sources.
 4.1 Clinical effectiveness
@@ -262,8 +207,7 @@ the GISSI study, 21-day mortality was 10.7% in patients treated with streptokina
 and 13% in those treated with placebo. This represents a statistically significant
 absolute reduction of 2.3% (risk ratio 0.81; 95% confidence ratio [CI] 0.72 to 0.9).
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 In the ISIS-2 study, vascular mortality at 5 weeks was 9.2% in patients treated
 with streptokinase and 12% in those treated with placebo. This represents a
 statistically significant absolute reduction of 2.8%. These benefits were
@@ -298,8 +242,7 @@ lower in the group treated with accelerated alteplase. A further meta-analysis o
 (or accelerated alteplase), found no significant difference between the 2 drugs in
 terms of mortality up to 35 days (odds ratio 0.94; 95% CI 0.85 to 1.04).
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 Reteplase
 4.1.1.6 Reteplase has also been compared with streptokinase in a study involving 5,986
 patients (the INJECT study). This study found an absolute difference of 0.5%
@@ -334,8 +277,7 @@ not statistically significant (95% CI -0.55% to 0.61%). Given the confidence lim
 tenecteplase and accelerated alteplase can be considered equivalent in terms of
 mortality. However, there was a small but statistically significant reduction in the
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 incidence of bleeding with tenecteplase (26.4% compared with 28.9% in the
 accelerated alteplase group), resulting in fewer blood transfusions in the
 tenecteplase group (4.3% of patients compared with 5.5% in the accelerated
@@ -363,8 +305,7 @@ tenecteplase would also be considered to be superior to streptokinase.
 alteplase depend on the interpretation of GUSTO-III.
 4.1.1.13 Furthermore, if reteplase is considered to be equivalent to accelerated alteplase,
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 then this indirectly implies that reteplase is as effective as tenecteplase.
 4.1.1.14 Important differences in major adverse events between the thrombolytic agents
 are also apparent. The newer drugs are associated with a higher risk of
@@ -397,8 +338,7 @@ Only the USA study (MITI) involved paramedics administering the thrombolytic
 hospital physician attended the patient and administered the drug. In the rural
 Scottish trial (GREAT) a general practitioner undertook assessment and
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 treatment.
 4.1.2.4 The RCTs found that, on average, pre-hospital thrombolysis was administered 58
 minutes earlier than hospital thrombolysis; the differences ranged from 33
@@ -430,8 +370,7 @@ accelerated) in a hospital setting. Three of the articles reported different asp
 of the same cost-effectiveness model. Most studies reported incremental costs
 per life-year gained, and 3 also reported incremental cost per quality-adjusted
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 life year (QALY). Most of the studies were based on the effectiveness results of
 GUSTO-I, in which data on resource use were collected only for USA centres.
 Consequently, the analyses undertaken in Canada, Ireland and France had to
@@ -466,8 +405,7 @@ costs did not differ significantly between treatment groups.
 thrombolytics in a UK setting, and none examining the currently available bolus
 drugs. However, 2 cost-effectiveness models were submitted by manufacturers.
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 4.2.1.6 It is logical to assume that the earlier the administration the greater the reduction
 in damage to the heart. However, while precise assumptions about the survival/
 time-to-treatment curve affect the benefit results in any modelling, it is unlikely
@@ -502,8 +440,7 @@ with streptokinase. For each comparison, the additional benefit (using QALYs) of
 the newer thrombolytic was small, while the additional cost was substantial. The
 cost differences between the newer drugs are relatively small. The most reliable
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 finding is that streptokinase is by far the cheapest drug and although it is a little
 less effective (in terms of discounted QALYs), it is the most cost effective.
 4.2.1.11 Using the adjusted manufacturers' models, the incremental costs per QALY
@@ -535,8 +472,7 @@ general pre-hospital delivery costs for the 2 suitable bolus drugs (reteplase an
 tenecteplase) would be the same, the relative cost effectiveness of the drugs in
 pre-hospital settings is likely to be similar to that in hospital (assuming equal
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 effectiveness of both drugs in each setting). On this basis it was concluded that it
 was not possible to distinguish between reteplase and tenecteplase on grounds
 of cost effectiveness in pre-hospital settings.
@@ -566,8 +502,7 @@ substantially higher than that of streptokinase, the available economic evidence
 demonstrates that the newer drugs have an acceptable incremental cost-
 effectiveness ratio when compared with streptokinase.
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 4.3.1.6 Given that streptokinase is associated with a lower risk of stroke and is a cost-
 effective drug, the committee also considered it appropriate that all of the
 available thrombolytic drugs should be considered as options for use in care
@@ -599,8 +534,7 @@ applicability examined in the pre-hospital studies outlined above.
 4.3.2.3 On the basis of advice from experts that only the bolus drugs were appropriate
 for pre-hospital administration given the practical difficulties explained in section
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 3.2.6, and given that no high-quality evidence was available to differentiate
 reteplase and tenecteplase in terms of clinical effectiveness or cost effectiveness
 in pre-hospital settings, the committee considered that either reteplase or
@@ -616,16 +550,14 @@ develop clear clinical protocols for the use of thrombolytic drugs, such as thos
 developed by the JRCALC, and adopt robust clinical governance arrangements to
 monitor the use of and outcomes associated with these drugs.
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 5 Proposed recommendations for further
 research
 5.1 In light of the ongoing introduction of pre-hospital thrombolysis, it is
 recommended that opportunities for the evaluation of the administration of
 thrombolytic drugs in pre-hospital settings are explored.
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 6 Resource impact for the NHS
 6.1 Using estimates of the total number of people receiving thrombolysis and the
 mixture of thrombolytic drugs used, current annual spending on thrombolytic
@@ -656,8 +588,7 @@ drugs where bolus drugs were not widely used in hospital. Such costs are difficu
 to estimate usefully on the basis of the information available to NICE at the time
 of this appraisal.
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 7 Implementation
 7.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -676,8 +607,7 @@ responsible for their care thinks that alteplase, reteplase, streptokinase or
 tenecteplase are the right treatment, they should be available for use, in line with
 NICE's recommendations.
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 8 Appraisal committee members
 The appraisal committee is a standing advisory committee of NICE. Its members are
 appointed for a 3-year term. A list of the committee members who took part in the
@@ -706,8 +636,7 @@ Consultant Physician, Royal Free Hospital & UCL, London
 Professor John Brazier
 Health Economist, University of Sheffield
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 Professor Martin Buxton
 Director of Health Economics Research Group, Brunel University
 Professor Mike Campbell
@@ -735,8 +664,7 @@ Head, Global Clinical Safety & Pharmacovigilance, GlaxoSmithKline
 Sally Gooch
 Director of Nursing, Mid-Essex Hospital Services Trust
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 Mr John Goulston
 Director of Finance, The Royal Free Hampstead NHS Trust
 Professor Trisha Greenhalgh
@@ -764,8 +692,7 @@ Consultant Surgeon, Chorley and South Ribble NHS Trust
 Mr James Partridge
 Lay Representative; Chief Executive, Changing Faces
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 Siân Richards
 General Manager, Cardiff Local Health Group
 Professor Philip Routledge
@@ -786,8 +713,7 @@ Head of Institute of Health Studies, University of Plymouth
 Dr Norman Waugh
 Public Health Consultant, University of Southampton
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 9 Sources of evidence considered by the
 committee
 The following documentation and opinion were made available to the committee:
@@ -812,8 +738,7 @@ Association
 • Warwickshire Health Authority
 • Welsh Ambulance Services NHS Trust
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 Expert perspectives:
 • Professor Douglas Chamberlain, Chairman, Joint Royal Colleges Ambulance Liaison
 Committee
@@ -821,8 +746,7 @@ Committee
 • Professor Richard Vincent, Consultant Cardiologist and Professor of Medicine, Trafford
 Centre for Medical Research
 
-Guidance on the use of drugs for early thrombolysis in the treatment of acute myocardial
-infarction (TA52)
+ 
 Update information
 Minor changes since publication
 March 2014: Implementation section updated to clarify that thrombolytic drugs are

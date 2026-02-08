@@ -1,55 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "chronic-heart-failure-in-adults-pdf-58304464837.pdf",
-  "converted_date": "2026-01-31T14:51:12.777770",
-  "file_size_bytes": 177698,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/chronic-heart-failure-in-adults-pdf-58304464837.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Chronic heart failure in
-adults
-Quality standard
-Published: 29 June 2011
-Last updated: 3 September 2025
-www.nice.org.uk/guidance/qs9
-
-Chronic heart failure in adults (QS9)
-
-Chronic heart failure in adults (QS9)
-Quality measures ................................................................................................................................... 18
-What the quality statement means for different audiences .............................................................. 19
-Source guidance .................................................................................................................................... 19
-Definitions of terms used in this quality statement ........................................................................... 20
-Quality statement 5: Review of people with chronic heart failure .......................................... 21
-Quality statement .................................................................................................................................. 21
-Rationale ................................................................................................................................................ 21
-Quality measures ................................................................................................................................... 21
-What the quality statement means for different audiences .............................................................. 22
-Source guidance .................................................................................................................................... 22
-Definitions of terms used in this quality statement ........................................................................... 23
-Quality statement 6: Cardiac rehabilitation ..............................................................................25
-Quality statement .................................................................................................................................. 25
-Rationale ................................................................................................................................................ 25
-Quality measures ................................................................................................................................... 25
-What the quality statement means for different audiences .............................................................. 26
-Source guidance .................................................................................................................................... 27
-Definitions of terms used in this quality statement ........................................................................... 27
-Equality and diversity considerations ................................................................................................. 27
-Update information .....................................................................................................................29
-About this quality standard ........................................................................................................30
-Resource impact .................................................................................................................................... 30
-Diversity, equality and language .......................................................................................................... 31
-
-Chronic heart failure in adults (QS9)
-This standard is based on NG106.
-This standard should be read in conjunction with QS13, QS15, QS93, QS103, QS100,
-QS99, QS84, QS76, QS68, QS53, QS43, QS21, QS11, QS8, QS6, QS127, QS120, QS111,
-TA679 and TA773.
+Chronic heart failure in adults
 Quality statements
 Statement 1 Adults presenting in primary care with suspected heart failure have their
 N-terminal pro-B-type natriuretic peptide (NT-proBNP) measured. [2023]
@@ -72,7 +21,7 @@ were updated (2011, updated 2023), remained unchanged (2016), or were replaced
 The previous version of the quality standard for chronic heart failure in adults is available
 as a pdf.
 
-Chronic heart failure in adults (QS9)
+ 
 Quality statement 1: N-terminal pro-B-
 type natriuretic peptide measurement
 Quality statement
@@ -97,7 +46,7 @@ Denominator – the number of adults diagnosed with heart failure by specialist 
 and echocardiography.
 Data source: No routinely collected national data for this measure has been identified.
 
-Chronic heart failure in adults (QS9)
+ 
 Data can be collected from information recorded locally by healthcare professionals and
 provider organisations, for example from patient records.
 Outcome
@@ -121,7 +70,7 @@ Definitions of terms used in this quality statement
 Adults with suspected heart failure
 Adults may be suspected of having heart failure after being:
 
-Chronic heart failure in adults (QS9)
+ 
 • Asked about symptoms:
 － breathlessness – on exertion, at rest, on lying flat (orthopnoea), nocturnal cough,
 or waking from sleep (paroxysmal nocturnal dyspnoea)
@@ -146,7 +95,7 @@ hypertension
 － obesity; for more information, see NICE's clinical knowledge summary on obesity.
 [Adapted from NICE's clinical knowledge summary on chronic heart failure]
 
-Chronic heart failure in adults (QS9)
+ 
 Quality statement 2: Specialist assessment
 Quality statement
 Adults with suspected heart failure have specialist assessment and transthoracic
@@ -172,7 +121,7 @@ Data source: No routinely collected data for this measure has been identified. D
 collected from information recorded locally by healthcare provider organisations, for
 example from service pathways or protocols.
 
-Chronic heart failure in adults (QS9)
+ 
 Process
 a) Proportion of adults with very high levels of NT-proBNP, who have been referred for
 diagnosis, who have transthoracic echocardiography and specialist assessment within
@@ -199,7 +148,7 @@ Hospital admissions due to heart failure.
 Data source: The National Heart Failure Audit contains data on hospital admission rates
 for heart failure.
 
-Chronic heart failure in adults (QS9)
+ 
 What the quality statement means for different
 audiences
 Service providers (such as secondary care) ensure that systems such as referral
@@ -228,7 +177,7 @@ Definitions of terms used in this quality statement
 Specialist assessment
 Specialist assessment includes tests to evaluate for possible aggravating factors and to
 
-Chronic heart failure in adults (QS9)
+ 
 exclude other conditions with similar presentations, and confirm a diagnosis of heart
 failure, including the type of reduced or preserved ejection fraction. It also includes
 assessment for underlying causes where appropriate.
@@ -249,7 +198,7 @@ High levels of NT-proBNP are defined as between 400 and 2,000 ng/litre (47 to 23
 litre). [Adapted from NICE's guideline on chronic heart failure in adults, recommendation
 1.2.4]
 
-Chronic heart failure in adults (QS9)
+ 
 Quality statement 3: Medication for newly
 diagnosed and pre-existing chronic heart
 failure with reduced ejection fraction
@@ -275,7 +224,7 @@ prognosis and preferences should be used when making decisions about these medic
 They should have regular checks to monitor any side effects, until optimal tolerated doses
 are reached.
 
-Chronic heart failure in adults (QS9)
+ 
 Quality measures
 The following measures can be used to assess the quality of care or service provision
 specified in the statement. They are examples of how the statement can be measured,
@@ -303,7 +252,7 @@ Heart Failure Audit.
 c) Proportion of adults with chronic heart failure with reduced ejection fraction that are
 prescribed an MRA.
 
-Chronic heart failure in adults (QS9)
+ 
 Numerator – the number in the denominator that are prescribed an MRA.
 Denominator – the number of adults with chronic heart failure with reduced ejection
 fraction.
@@ -331,7 +280,7 @@ The uptake of MRAs, SGLT2 inhibitors and ARNIs in general practice prescribing f
 with chronic heart failure with reduced ejection fraction will need to be undertaken at a
 local level using any data available. This could include electronic medical records.
 
-Chronic heart failure in adults (QS9)
+ 
 Outcome
 a) Hospital admissions due to heart failure.
 Data source: The National Heart Failure Audit contains data on hospital admission rates
@@ -360,7 +309,7 @@ Adults with chronic heart failure with reduced ejection fraction (when the part 
 heart that pumps blood around the body is not squeezing the blood as well as it should)
 are prescribed appropriate medications for heart failure. The medication is started and
 
-Chronic heart failure in adults (QS9)
+ 
 increased (when applicable) with check-ins for any changes in symptoms, side effects
 and, depending on the medication, based on input from their heart failure doctor.
 Source guidance
@@ -388,7 +337,7 @@ ACE inhibitors (other than angioedema). Primary care prescribers should consider
 advice from a heart failure specialist before starting someone on a angiotensin receptor-
 neprilysin inhibitor (ARNI).
 
-Chronic heart failure in adults (QS9)
+ 
 ARBs licensed for heart failure should be considered for people with angioedema after
 taking an ACE inhibitor, and should be considered for people who have symptoms of
 intolerance of ACE inhibitors and ARNIs.
@@ -412,7 +361,7 @@ ACE inhibitors are less effective in people of African or Caribbean family origi
 professionals should take this into account and ensure that the person receives additional
 treatment promptly if needed.
 
-Chronic heart failure in adults (QS9)
+ 
 Quality statement 4: Review after changes
 in medication
 Quality statement
@@ -437,7 +386,7 @@ Numerator – the number in the denominator in which the person is reviewed with
 Denominator – the number of changes to dose or type of chronic heart failure medication
 in adults with chronic heart failure.
 
-Chronic heart failure in adults (QS9)
+ 
 Data source: No routinely collected national data for this measure has been identified.
 Data can be collected from information recorded locally by healthcare professionals and
 provider organisations, for example from patient records.
@@ -466,7 +415,7 @@ failure, to check for any problems and make sure that the medication is working.
 Source guidance
 Chronic heart failure in adults: diagnosis and management. NICE guideline NG106 (2018,
 
-Chronic heart failure in adults (QS9)
+ 
 updated 2025), recommendations 1.8.1 and 1.8.3
 Definitions of terms used in this quality statement
 Review when medication is changed
@@ -483,7 +432,7 @@ monitoring is needed if the person has significant comorbidity or if their condi
 deteriorated since the previous review. [Adapted from NICE's guideline on chronic heart
 failure in adults, recommendations 1.8.1 and 1.8.2, and expert opinion]
 
-Chronic heart failure in adults (QS9)
+ 
 Quality statement 5: Review of people
 with chronic heart failure
 Quality statement
@@ -508,7 +457,7 @@ Numerator – the number in the denominator who had a review of their condition 
 6 months.
 Denominator – the number of adults with chronic heart failure.
 
-Chronic heart failure in adults (QS9)
+ 
 Data source: No routinely collected national data for this measure has been identified.
 Data can be collected from information recorded locally by healthcare professionals and
 provider organisations, for example from patient records.
@@ -537,7 +486,7 @@ Source guidance
 Chronic heart failure in adults: diagnosis and management. NICE guideline NG106 (2018,
 updated 2025), recommendations 1.8.1 and 1.8.3
 
-Chronic heart failure in adults (QS9)
+ 
 Definitions of terms used in this quality statement
 Review of people with chronic heart failure
 Reviews should include as a minimum:
@@ -564,7 +513,7 @@ team if needed
 • contact details for:
 － a named healthcare coordinator (usually a specialist heart failure nurse)
 
-Chronic heart failure in adults (QS9)
+ 
 － alternative local heart failure specialist care providers, for urgent care or review
 • additional sources of information for people with heart failure.
 For people taking amiodarone the review should include liver and thyroid function tests,
@@ -581,7 +530,7 @@ as to what to do in the event of deterioration. [Adapted from the BNF treatment 
 on chronic heart failure and NICE's guideline on chronic heart failure in adults,
 recommendations 1.1.4, 1.1.7 to 1.1.9, 1.8.1 to 1.8.4, 1.9.3, 1.9.4, and 1.10.5]
 
-Chronic heart failure in adults (QS9)
+ 
 Quality statement 6: Cardiac
 rehabilitation
 Quality statement
@@ -606,7 +555,7 @@ Numerator – the number in the denominator who have a record of referral to a
 personalised programme of cardiac rehabilitation.
 Denominator – the number of adults with chronic heart failure.
 
-Chronic heart failure in adults (QS9)
+ 
 Data source: The National Heart Failure Audit contains data on patients discharged alive
 after an admission with acute heart failure referred as an inpatient to cardiac rehabilitation.
 b) Proportion of adults with chronic heart failure who receive a personalised programme of
@@ -633,7 +582,7 @@ referral pathways to personalised programmes of cardiac rehabilitation that incl
 monitored exercise, a psychological component and an educational component are
 available for adults with chronic heart failure.
 
-Chronic heart failure in adults (QS9)
+ 
 Healthcare professionals (such as GPs, cardiac rehabilitation nurses and specialists in
 cardiac care) ensure that they refer adults diagnosed with chronic heart failure to a
 personalised programme of cardiac rehabilitation, once they are well enough to take part.
@@ -662,7 +611,7 @@ Equality and diversity considerations
 A programme of cardiac rehabilitation should be accessible for all adults with chronic heart
 failure, including those who may be housebound or in a nursing home. A range of formats
 
-Chronic heart failure in adults (QS9)
+ 
 (for example, online, in person) and settings (at home, in the community or in the hospital)
 should be provided so that everyone has their needs met.
 When conducting cardiac rehabilitation in the community or in hospital, measures such as
@@ -677,7 +626,7 @@ people who do not speak or read English. If needed, people should have access to
 interpreter or advocate as set out in NICE's guideline on advocacy services for adults with
 health and social care needs.
 
-Chronic heart failure in adults (QS9)
+ 
 Update information
 September 2025: Changes have been made to align this quality standard with the
 updated NICE guideline on chronic heart failure in adults. Statement 3 on medication for
@@ -700,7 +649,7 @@ included in the 2011 quality standard and was updated in 2016.
 The previous version of the quality standard for chronic heart failure in adults is available
 as a pdf.
 
-Chronic heart failure in adults (QS9)
+ 
 About this quality standard
 NICE quality standards describe high-priority areas for quality improvement in a defined
 care or service area. Each standard consists of a prioritised set of specific, concise and
@@ -730,31 +679,7 @@ Resource impact
 NICE quality standards should be achievable by local services. The potential resource
 impact is considered by the quality standards advisory committee, drawing on resource
 
-Chronic heart failure in adults (QS9)
+ 
 impact work for the source guidance. Organisations are encouraged to use the resource
 impact products from NICE's guideline on chronic heart failure in adults to help estimate
 local costs.
-Diversity, equality and language
-Equality issues were considered during development and equality assessments for this
-quality standard are available. Any specific issues identified during development of the
-quality statements are highlighted in each statement.
-Commissioners and providers should aim to achieve the quality standard in their local
-context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity and foster good relations. Nothing in this
-quality standard should be interpreted in a way that would be inconsistent with
-compliance with those duties.
-ISBN: 978-1-4731-7175-6
-Endorsing organisation
-This quality standard has been endorsed by NHS England, as required by the Health and
-Social Care Act (2012)
-Supporting organisations
-Many organisations share NICE's commitment to quality improvement using evidence-
-based guidance. The following supporting organisations have recognised the benefit of
-the quality standard in improving care for patients, carers, service users and members of
-the public. They have agreed to work with NICE to ensure that those commissioning or
-providing services are made aware of and encouraged to use the quality standard.
-• Alliance for Heart Failure
-• The Pumping Marvellous Foundation
-• British Society for Heart Failure
-• British Association for Nursing in Cardiovascular Care (BANCC)
-• British Cardiovascular Society

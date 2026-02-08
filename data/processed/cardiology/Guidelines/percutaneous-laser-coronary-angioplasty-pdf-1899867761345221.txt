@@ -1,43 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "percutaneous-laser-coronary-angioplasty-pdf-1899867761345221.pdf",
-  "converted_date": "2026-01-31T14:49:20.899294",
-  "file_size_bytes": 64496,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/percutaneous-laser-coronary-angioplasty-pdf-1899867761345221.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Percutaneous laser coronary
-angioplasty
-Interventional procedures guidance
-Published: 26 January 2011
-www.nice.org.uk/guidance/ipg378
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-
-Percutaneous laser coronary angioplasty (IPG378)
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Percutaneous laser coronary angioplasty
 1 Guidance
 1.1 Current evidence on the safety and efficacy of percutaneous laser coronary
 angioplasty is adequate to support the use of this procedure in carefully selected
@@ -56,7 +17,7 @@ percutaneous cutting balloon or coronary artery bypass grafting.
 stenosis or atherosclerotic occlusion, when standard techniques for
 recannalisation are unlikely to succeed or have failed.
 
-Percutaneous laser coronary angioplasty (IPG378)
+ 
 2.2 Outline of the procedure
 2.2.1 Percutaneous laser coronary angioplasty aims to penetrate plaque within
 coronary arteries that is not amenable to standard techniques such as balloon
@@ -87,7 +48,7 @@ postoperative angiographic assessment, coronary stenosis (assessed by the
 percentage of artery diameter blocked) decreased from 83% at baseline to 49%
 following laser angioplasty and to 38% following adjunctive balloon angioplasty
 
-Percutaneous laser coronary angioplasty (IPG378)
+ 
 (absolute figures not stated).
 2.3.2 The RCT of 303 patients treated with laser guidewire or mechanical guidewire
 reported no major adverse cardiac events in 54% (78 out of 144) and 67% (106
@@ -116,7 +77,7 @@ up (absolute figures not stated).
 angiographic success, quality-of-life scores, target vessel revascularisation and
 cardiac enzyme level post procedure.
 
-Percutaneous laser coronary angioplasty (IPG378)
+ 
 2.4 Safety
 2.4.1 The meta-analysis of 9,222 patients treated by laser angioplasty or balloon
 angioplasty reported no difference between the groups in the rate of myocardial
@@ -139,8 +100,3 @@ Information for patients
 NICE has produced information for the public on this procedure. It explains the nature of
 the procedure and the guidance issued by NICE, and has been written with patient
 consent in mind.
-ISBN: 978-1-4731-6372-0
-
-Percutaneous laser coronary angioplasty (IPG378)
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

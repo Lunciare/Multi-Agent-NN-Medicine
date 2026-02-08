@@ -1,69 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "familial-hypercholesterolaemia-pdf-2098661670853.pdf",
-  "converted_date": "2026-01-31T14:50:57.485709",
-  "file_size_bytes": 175858,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/familial-hypercholesterolaemia-pdf-2098661670853.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Familial
-hypercholesterolaemia
-Quality standard
-Published: 13 August 2013
-Last updated: 2 November 2017
-www.nice.org.uk/guidance/qs41
-
-Familial hypercholesterolaemia (QS41)
-
-Familial hypercholesterolaemia (QS41)
-What the quality statement means for different audiences ............................................................ 16
-Source guidance .................................................................................................................................. 16
-Definitions of terms used in this quality statement ......................................................................... 17
-Quality statement 5: Cascade testing .................................................................................... 18
-Quality statement ................................................................................................................................ 18
-Rationale .............................................................................................................................................. 18
-Quality measures ................................................................................................................................. 18
-What the quality statement means for different audiences ............................................................ 20
-Source guidance .................................................................................................................................. 20
-Definitions of terms used in this quality statement ......................................................................... 20
-Quality statement 6: Drug treatment in adults ...................................................................... 22
-Quality statement ................................................................................................................................ 22
-Rationale .............................................................................................................................................. 22
-Quality measures ................................................................................................................................. 22
-What the quality statement means for different audiences ............................................................ 23
-Source guidance .................................................................................................................................. 23
-Definitions of terms used in this quality statement ......................................................................... 24
-Equality and diversity considerations ............................................................................................... 25
-Quality statement 7: Drug treatment in children ................................................................... 26
-Quality statement ................................................................................................................................ 26
-Rationale .............................................................................................................................................. 26
-Quality measures ................................................................................................................................. 26
-What the quality statement means for different audiences ............................................................ 27
-Source guidance .................................................................................................................................. 27
-Definitions of terms used in this quality statement ......................................................................... 28
-Equality and diversity considerations ............................................................................................... 28
-Quality statement 8: Annual review ........................................................................................ 30
-Quality statement ................................................................................................................................ 30
-
-Familial hypercholesterolaemia (QS41)
-Rationale .............................................................................................................................................. 30
-Quality measures ................................................................................................................................. 30
-What the quality statement means for different audiences ............................................................ 31
-Source guidance .................................................................................................................................. 31
-Definitions of terms used in this quality statement ......................................................................... 31
-Update information .................................................................................................................. 33
-About this quality standard ..................................................................................................... 34
-Diversity, equality and language ........................................................................................................ 34
-
-Familial hypercholesterolaemia (QS41)
-This standard is based on CG71.
-This standard should be read in conjunction with QS15, QS43, QS100, QS99, QS140,
-QS120, QS111, QS94 and QS84.
+Familial hypercholesterolaemia
 Quality statements
 Statement 1 Adults with a baseline total cholesterol above 7.5 mmol/l are assessed for a
 clinical diagnosis of familial hypercholesterolaemia (FH).
@@ -79,7 +14,7 @@ Statement 7 Children with FH are assessed for lipid-modifying drug treatment by 
 specialist with expertise in FH in a child-focused setting by the age of 10 years.
 Statement 8 People with FH are offered a structured review at least annually.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Quality statement 1: Diagnosis
 Quality statement
 Adults with a baseline total cholesterol above 7.5 mmol/l are assessed for a clinical
@@ -104,7 +39,7 @@ Process
 Proportion of adults with a baseline total cholesterol above 7.5 mmol/l who are assessed
 for a clinical diagnosis of FH.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Numerator – The number of people in the denominator assessed for a clinical diagnosis of
 FH.
 Denominator – The number of adults with a baseline total cholesterol above 7.5 mmol/l.
@@ -128,7 +63,7 @@ People aged 16 and older.
 Baseline total cholesterol
 The total cholesterol concentration before treatment.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Familial hypercholesterolaemia (FH)
 FH relates to heterozygous FH only.
 Clinical diagnosis of FH
@@ -143,7 +78,7 @@ Equality and diversity considerations
 The statement has been restricted to adults because the criteria for assessment for a
 clinical diagnosis of FH are not appropriate for children and young people under 16 years.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Quality statement 2: Specialist referral
 Quality statement
 People with a clinical diagnosis of familial hypercholesterolaemia (FH) are referred for
@@ -166,7 +101,7 @@ b) Evidence of local arrangements to ensure that a protocol for referral for a s
 assessment is agreed between primary and secondary care.
 Data source: Local data collection.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Process
 Proportion of people with a clinical diagnosis of FH referred for specialist assessment.
 Numerator – The number of people in the denominator referred for specialist assessment.
@@ -190,7 +125,7 @@ Source guidance
 Familial hypercholesterolaemia: identification and management. NICE guideline CG71
 (2008, updated 2019), recommendations 1.2.2 and 1.3.1.17
 
-Familial hypercholesterolaemia (QS41)
+ 
 Definitions of terms used in this quality statement
 Familial hypercholesterolaemia (FH)
 FH relates to heterozygous FH only.
@@ -216,7 +151,7 @@ this should be a specialist with expertise in FH in children and young people.
 Children refers to people younger than 10, young people refers to those aged 10 up to and
 including age 15, and adults refers to people aged 16 and older.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Quality statement 3: DNA testing
 Quality statement
 People with a clinical diagnosis of familial hypercholesterolaemia (FH) are offered DNA
@@ -239,7 +174,7 @@ Numerator – The number of people in the denominator receiving DNA testing as p
 specialist assessment.
 Denominator – The number of people with a clinical diagnosis of FH.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Data source: Local data collection using a dedicated database.
 b) Proportion of people with a clinical diagnosis of FH receiving DNA testing as part of a
 specialist assessment who give informed consent for the test.
@@ -264,7 +199,7 @@ history or other signs are offered DNA testing as part of a specialist assessmen
 Source guidance
 Familial hypercholesterolaemia: identification and management. NICE guideline CG71
 
-Familial hypercholesterolaemia (QS41)
+ 
 (2008, updated 2019), recommendation 1.1.6
 Definitions of terms used in this quality statement
 Familial hypercholesterolaemia (FH)
@@ -282,7 +217,7 @@ DNA testing should test for all gene mutations known to cause FH. Methods should
 the standards set out by the UK Genetic Testing Network. Informed consent should be
 given for DNA testing.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Quality statement 4: Diagnosis in children
 under 10 years
 Quality statement
@@ -306,7 +241,7 @@ Proportion of children at risk of FH who receive a specified diagnostic test by 
 10 years.
 Numerator – The number of people in the denominator who had received a specified
 
-Familial hypercholesterolaemia (QS41)
+ 
 diagnostic test.
 Denominator – The number of children aged 10 years at risk of FH.
 Data source: Local data collection.
@@ -328,7 +263,7 @@ Source guidance
 Familial hypercholesterolaemia: identification and management. NICE guideline CG71
 (2008, updated 2019), recommendation 1.1.15
 
-Familial hypercholesterolaemia (QS41)
+ 
 Definitions of terms used in this quality statement
 Familial hypercholesterolaemia (FH)
 FH relates to heterozygous FH only.
@@ -355,7 +290,7 @@ making decisions impacting their lives. A child-focused facility or space is one
 with the children's needs in mind. [Adapted from NICE's guideline on familial
 hypercholesterolaemia, terms used in this guideline]
 
-Familial hypercholesterolaemia (QS41)
+ 
 Quality statement 5: Cascade testing
 Quality statement
 Relatives of people with a confirmed diagnosis of monogenic familial
@@ -379,7 +314,7 @@ Process
 a) Proportion of untested first-degree relatives of people with a confirmed diagnosis of
 monogenic FH who are offered cascade testing.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Numerator – The number of people in the denominator offered cascade testing.
 Denominator – The number of untested first-degree relatives of people with a confirmed
 diagnosis of monogenic FH.
@@ -403,7 +338,7 @@ Denominator – The number of at-risk, untested second- and third-degree relativ
 people with a confirmed diagnosis of monogenic FH.
 Data source: Local data collection using a dedicated database.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Outcome
 Prevalence of FH.
 Data source: Local data collection using a dedicated database.
@@ -428,7 +363,7 @@ At least first- and second-degree biological relatives and third-degree biologic
 if possible. [Adapted from NICE's guideline on familial hypercholesterolaemia, terms used
 in this guideline]
 
-Familial hypercholesterolaemia (QS41)
+ 
 Familial hypercholesterolaemia (FH)
 FH relates to heterozygous FH only.
 Monogenic FH
@@ -448,7 +383,7 @@ A mechanism for identifying people at risk of a genetic condition by a process o
 tracing. For FH, the test employed is a DNA test where a disease-causing mutation has
 been identified in the index individual/proband.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Quality statement 6: Drug treatment in
 adults
 Quality statement
@@ -472,7 +407,7 @@ Proportion of adults with FH who receive appropriate lipid-modifying drug treatm
 Numerator – The number of people in the denominator receiving appropriate
 lipid-modifying drug treatment.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Denominator – The number of adults with FH.
 Data source: Local data collection.
 Outcome
@@ -495,7 +430,7 @@ Source guidance
 Familial hypercholesterolaemia: identification and management. NICE guideline CG71
 (2008, updated 2019), recommendations 1.3.1.2 to 1.3.1.4, 1.3.1.6 to 1.3.1.8 and 1.3.1.14
 
-Familial hypercholesterolaemia (QS41)
+ 
 Definitions of terms used in this quality statement
 Familial hypercholesterolaemia (FH)
 FH relates to heterozygous FH only.
@@ -521,7 +456,7 @@ Treatment for FH is usually provided by either a specialist with expertise in FH
 through a shared care arrangement. [Adapted from NICE's guideline on familial
 hypercholesterolaemia, recommendations 1.3.1.2 to 1.3.1.6, 1.3.1.11, and terms used in this
 
-Familial hypercholesterolaemia (QS41)
+ 
 guideline]
 Equality and diversity considerations
 The statement has been restricted to adults only because there is currently no evidence
@@ -536,7 +471,7 @@ about the potential risks and benefits of re-starting lipid-modifying drug treat
 mother and breastfed infant. Resins are the only lipid-modifying drug treatment that
 should be considered during breastfeeding.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Quality statement 7: Drug treatment in
 children
 Quality statement
@@ -560,7 +495,7 @@ lipid-modifying drug treatment by a specialist with expertise in FH in a child-f
 setting by the age of 10 years.
 Data source: Local data collection.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Process
 Proportion of children with FH who are assessed for lipid-modifying drug treatment by a
 specialist with expertise in FH in a child-focused setting by the age of 10 years.
@@ -585,7 +520,7 @@ Source guidance
 Familial hypercholesterolaemia: identification and management. NICE guideline CG71
 (2008, updated 2019), recommendation 1.3.1.20
 
-Familial hypercholesterolaemia (QS41)
+ 
 Definitions of terms used in this quality statement
 Familial hypercholesterolaemia (FH)
 FH relates to heterozygous FH only.
@@ -614,14 +549,14 @@ coronary heart disease in women is later than in men, the start of drug treatmen
 several years when they are trying to conceive, and during pregnancy and breastfeeding.
 Because the accumulation of LDL-C burden is similar in boys and girls, this will result in the
 
-Familial hypercholesterolaemia (QS41)
+ 
 exposure to high LDL-C being greater in early adulthood in young women than in their
 male siblings. Gender should not influence a clinician's decision to offer treatment; the
 decision should be made in accordance with the recommendations in NICE's guideline on
 familial hypercholesterolaemia, which indicate that lipid lowering with statins should be
 considered by the age of 10 years.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Quality statement 8: Annual review
 Quality statement
 People with familial hypercholesterolaemia (FH) are offered a structured review at least
@@ -645,7 +580,7 @@ Process
 Proportion of people with FH who receive a structured review at least annually.
 Numerator – The number of people in the denominator who had a structured review within
 
-Familial hypercholesterolaemia (QS41)
+ 
 12 months of the last review or diagnosis.
 Denominator – The number of people with FH.
 Data source: Local data collection using a dedicated database.
@@ -666,7 +601,7 @@ FH relates to heterozygous FH only.
 People with FH
 People should have a diagnosis of FH made by a specialist with expertise in FH.
 
-Familial hypercholesterolaemia (QS41)
+ 
 Structured review
 Structured review should include all the following components if appropriate:
 • recording progress of cascade testing among relatives
@@ -683,13 +618,13 @@ needed to achieve the recommended LDL-C concentration
 • giving advice on contraception and pregnancy (to women and girls only)
 • monitoring growth and pubertal development (in children and young people only).
 
-Familial hypercholesterolaemia (QS41)
+ 
 Update information
 November 2017: Changes were made to definitions and source guidance sections
 throughout to ensure alignment with the updated NICE guideline on familial
 hypercholesterolaemia: identification and management.
 
-Familial hypercholesterolaemia (QS41)
+ 
 About this quality standard
 NICE quality standards describe high-priority areas for quality improvement in a defined
 care or service area. Each standard consists of a prioritised set of specific, concise and
@@ -715,33 +650,3 @@ apply in Scotland and Northern Ireland are made by the Scottish government and N
 Ireland Executive. NICE quality standards may include references to organisations or
 people responsible for commissioning or providing care that may be relevant only to
 England.
-Diversity, equality and language
-Equality issues were considered during development and equality assessments for this
-quality standard are available. Any specific issues identified during development of the
-
-Familial hypercholesterolaemia (QS41)
-quality statements are highlighted in each statement.
-Good communication between healthcare practitioners and people with familial
-hypercholesterolaemia (FH) is essential. Treatment, care and support, and the information
-given about it, should be culturally appropriate. It should also be accessible to people with
-additional needs such as physical, sensory or learning disabilities, and to people who do
-not speak or read English. People with FH should have access to an interpreter or
-advocate if needed.
-Commissioners and providers should aim to achieve the quality standard in their local
-context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity and foster good relations. Nothing in this
-quality standard should be interpreted in a way that would be inconsistent with
-compliance with those duties.
-ISBN: 978-1-4731-0260-6
-Endorsing organisation
-This quality standard has been endorsed by NHS England, as required by the Health and
-Social Care Act (2012)
-Supporting organisations
-Many organisations share NICE's commitment to quality improvement using evidence-
-based guidance. The following supporting organisations have recognised the benefit of
-the quality standard in improving care for patients, carers, service users and members of
-the public. They have agreed to work with NICE to ensure that those commissioning or
-providing services are made aware of and encouraged to use the quality standard.
-• HEART UK
-• Royal College of General Practitioners (RCGP)
-• Royal College of Nursing (RCN)

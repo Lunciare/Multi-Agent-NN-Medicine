@@ -1,22 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "endovascular-stentgraft-placement-in-thoracic-aortic-aneurysms-and-dissections-pdf-1899863103770053.pdf",
-  "converted_date": "2026-01-31T14:51:20.750984",
-  "file_size_bytes": 61881,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/endovascular-stentgraft-placement-in-thoracic-aortic-aneurysms-and-dissections-pdf-1899863103770053.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Endovascular stent–graft
-placement in thoracic aortic
-aneurysms and dissections
-Interventional procedures guidance
-Published: 22 June 2005
-www.nice.org.uk/guidance/ipg127
+Endovascular stent–graft placement in thoracic aortic aneurysms and dissections 
 1 Guidance
 1.1 Current evidence on the safety and efficacy of endovascular stent–graft
 placement in thoracic aortic aneurysms and dissections indicates that it
@@ -31,7 +13,7 @@ and Ireland and the British Society of Interventional Radiology.
 access to facilities for cardiothoracic surgery and cardiopulmonary
 bypass.
 
-Endovascular stent–graft placement in thoracic aortic aneurysms and dissections (IPG127)
+ 
 2 The procedure
 2.1 Indications
 2.1.1 A thoracic aortic aneurysm is a condition in which weakening of the wall
@@ -60,7 +42,7 @@ patients). The overall technical success rate was 93% across 18 studies
 7% (1/14 patients). The proportion of patients who experienced an
 increase in aneurysm size varied from 0% (0/18) to 7% (2/29) of patients.
 
-Endovascular stent–graft placement in thoracic aortic aneurysms and dissections (IPG127)
+ 
 In the study with the largest number of patients, the aneurysm increased
 in size (by ( 5 mm) in 5% (4/84) of patients. The proportion of patients
 who experienced a decrease in aneurysm size varied from 100% (18/18)
@@ -91,22 +73,3 @@ the Sources of evidence.
 2.5 Other comments
 2.5.1 It was noted that there was a lack of long-term data on the durability of
 stent–grafts.
-
-Endovascular stent–graft placement in thoracic aortic aneurysms and dissections (IPG127)
-3 Further information
-Sources of evidence
-The evidence considered by the Interventional Procedures Advisory Committee is
-described in the following document.
-A systematic review of the recent evidence for the efficacy and safety relating to the use
-of endovascular stent–graft (ESG) placement in the treatment of thoracic aortic
-aneurysms, February 2005.
-Information for patients
-NICE has produced information on this procedure for patients and carers. It explains the
-nature of the procedure and the guidance issued by NICE, and has been written with
-patient consent in mind.
-Update information
-Minor changes since publication
-January 2012: minor maintenance.
-ISBN: 978-1-4731-4547-4
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

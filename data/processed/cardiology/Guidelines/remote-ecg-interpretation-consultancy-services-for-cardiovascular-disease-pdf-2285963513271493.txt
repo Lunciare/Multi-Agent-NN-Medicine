@@ -1,22 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "remote-ecg-interpretation-consultancy-services-for-cardiovascular-disease-pdf-2285963513271493.pdf",
-  "converted_date": "2026-01-31T14:49:21.532065",
-  "file_size_bytes": 128606,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/remote-ecg-interpretation-consultancy-services-for-cardiovascular-disease-pdf-2285963513271493.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Remote ECG interpretation
-consultancy services for
-cardiovascular disease
-Medtech innovation briefing
-Published: 27 July 2018
-www.nice.org.uk/guidance/mib152
+Remote ECG interpretation consultancy services for cardiovascular disease
 Summary
 • The technologies described in this briefing are remote electrocardiogram (ECG)
 interpretation consultancy services. They are used for assisting in diagnosing and
@@ -31,7 +13,7 @@ studies including 26,320 adults and children in primary care. The studies show t
 remote ECG interpretation consultancy services may reduce the number of
 unnecessary referrals to secondary care and reduce costs for the NHS.
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 • Key uncertainties around the evidence or technology are that the economic benefits
 are not yet clear and there is a lack of evidence for clinical outcomes. Published
 evidence of clinical utility is only available for 1 out of 6 services in this briefing.
@@ -63,7 +45,7 @@ A cardiac technician, cardiac nurse, consultant cardiologist or specialist consu
 cardiologist such as an electrophysiologist interprets the ECG. Recordings from Holter,
 loop and event monitors can be interpreted live. The signal can be continuously
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 transmitted to allow the interpreter to monitor activity in real time.
 The interpreter returns a report with their ECG interpretation or recommendations to the
 patient's primary care clinician within an agreed timeframe. All 6 of the services in this
@@ -97,7 +79,7 @@ GP and consultant
 cardiologist after
 report is returned.
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 Proposed reporting
 Company Transmission Interpretation Devices Modality
 time
@@ -149,7 +131,7 @@ upload. consultant cardiac
 electro-
 physiologists.
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 Proposed reporting
 Company Transmission Interpretation Devices Modality
 time
@@ -185,7 +167,7 @@ Current NHS pathway or current care pathway
 A standard 12-lead ECG should be offered to:
 • adults when atrial fibrillation is suspected (see NICE's guideline on atrial fibrillation)
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 • people aged 16 and over if they have experienced a blackout (see NICE's guideline on
 transient loss of consciousness)
 • adults with recent onset chest pain, in certain instances (see NICE's guideline on chest
@@ -209,7 +191,7 @@ recommendation for treatment.
 Training may be needed for GPs to learn how to transmit the recorded ECGs and receive
 the reports.
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 Costs
 Technology costs
 Table 2 Cost of remote ECG interpretation consultancy services
@@ -250,7 +232,7 @@ ECG is recording.
 Consultant cardiologist
 e-consultation: £42 per report.
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 Company Cost (excluding VAT) Additional information
 Price depends on client
 Fees for 12-lead ECG interpretation location, reading
@@ -292,7 +274,7 @@ MEOMED free of
 Vale of York CCG.
 charge.
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 Service NHS use Training
 Provided
 Primary Has provided its service to Suffolk CCG for the past
@@ -331,7 +313,7 @@ services and reports on the quality of care provided.
 Some of the services included in this briefing supply or lease medical devices from third
 parties. These devices are regulated under the Medicines and Healthcare products
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 Regulatory Agency's (MHRA) medical devices directive and must carry a CE mark.
 Table 4 Regulatory information
 Company CQC registration Medical device and CE mark
@@ -371,7 +353,7 @@ Smart
 Not registered. No information available.
 Telecardiology
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 Equality considerations
 NICE is committed to promoting equality, eliminating unlawful discrimination and fostering
 good relations between people with particular protected characteristics and others. In
@@ -399,7 +381,7 @@ Table 5 summarises the clinical evidence as well as its strengths and limitation
 Overall assessment of the evidence
 Broomwell Healthwatch and MEOMED were the only services for which there is publicly
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 available information. These services report results from pilot studies in the NHS and focus
 on assessing the clinical utility of the service.
 The primary outcome for all of the studies is the proportion of changes to care plans. The
@@ -440,7 +422,7 @@ Intervention
 and Broomwell Healthwatch compared with standard care.
 comparator(s)
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 Paynter (2008)
 In 15,698 people with symptoms (from 24,541 12-lead ECGs), 87.5%
 were recommended for treatment in primary care; 6.5% were
@@ -482,7 +464,7 @@ Intervention
 and MEOMED compared with standard care.
 comparator(s)
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 Paynter (2008)
 Using the MEOMED service, 78% fewer patients were referred to
 secondary care when compared to the standard pathway. A total of
@@ -515,7 +497,7 @@ All 4 experts were aware of, or had used, the remote electrocardiogram (ECG)
 interpretation services described in this briefing. Two experts believed that the services
 were not being widely used in the NHS, while the other 2 were unsure or did not comment.
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 Level of innovation
 Two experts believed that the services were novel, while another thought they were not.
 One expert believed the services were only a minor iteration of current care that had not
@@ -550,7 +532,7 @@ current ECG might prevent an unnecessary referral or because ECGs taken from Hol
 monitors are more likely to be misinterpreted in primary care; older people or those with
 mobility issues because there would be a reduced need for them to travel to hospital.
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 Potential system impact
 All of the experts agreed that a potential reduction in non-emergency referrals to
 secondary care specialist clinics would be a benefit to the health or care system. One
@@ -585,7 +567,7 @@ an opinion on how the services will adapt to the end of the N3 network but stres
 importance of continued data security. One expert expressed suspicion of services that
 provide diagnostic guidance without assessing clinical presentation.
 
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
+ 
 Three of the experts felt that the technology would be an addition to standard care, rather
 than a replacement. One added that the services could be a replacement for outpatient
 referral where links to local cardiology services are poor. The fourth expert agreed, stating
@@ -615,7 +597,3 @@ an NHS England Regional Innovation-funded audit.
 Development of this briefing
 This briefing was developed for NICE by King's Technology Evaluation Centre. The interim
 process and methods statement sets out the process NICE uses to select topics, and how
-
-Remote ECG interpretation consultancy services for cardiovascular disease (MIB152)
-the briefings are developed, quality-assured and approved for publication.
-ISBN: 978-1-4731-3030-2

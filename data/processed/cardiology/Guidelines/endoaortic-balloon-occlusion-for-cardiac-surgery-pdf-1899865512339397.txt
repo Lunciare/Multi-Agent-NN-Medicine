@@ -1,43 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "endoaortic-balloon-occlusion-for-cardiac-surgery-pdf-1899865512339397.pdf",
-  "converted_date": "2026-01-31T14:51:17.888228",
-  "file_size_bytes": 62345,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/endoaortic-balloon-occlusion-for-cardiac-surgery-pdf-1899865512339397.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Endoaortic balloon occlusion for
-cardiac surgery
-Interventional procedures guidance
-Published: 28 May 2008
-www.nice.org.uk/guidance/ipg261
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-
-Endoaortic balloon occlusion for cardiac surgery (IPG261)
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Endoaortic balloon occlusion for cardiac surgery
 1 Recommendations
 1.1 Current evidence on the safety and efficacy of endoaortic balloon occlusion for
 cardiac surgery is adequate to support the use of this procedure provided that
@@ -57,7 +18,7 @@ conventional open surgery or during minimally invasive cardiac procedures.
 (also known as port-access surgery) that require endovascular aortic occlusion,
 cardioplegia and left ventricular decompression.
 
-Endoaortic balloon occlusion for cardiac surgery (IPG261)
+ 
 2.2.2 A balloon catheter is inserted through the skin into an artery (normally the
 femoral artery in the groin) and manipulated towards the aortic root. The balloon
 at the tip of the catheter is filled with saline to occlude the aorta and prevent
@@ -85,7 +46,7 @@ of 127) and 25% (13 out of 52) of patients who were treated with endoaortic
 balloon occlusion died in hospital.
 2.4.2 The three case series of 306, 209 and 117 patients treated with endoaortic
 
-Endoaortic balloon occlusion for cardiac surgery (IPG261)
+ 
 balloon occlusion all reported aortic dissection in 1% (3 out of 306, 3 out of 209,
 and 1 out of 117) of patients. One aortic dissection in the case series of 151
 patients was judged by the authors to be unrelated to the endoaortic balloon
@@ -116,20 +77,3 @@ noted by the advisers were stroke, inadequate myocardial protection and
 cerebral ischaemia due to balloon misplacement and arterial embolism. The
 advisers noted that this procedure has the potential to reduce stroke risk in
 patients who have a very calcified aorta.
-
-Endoaortic balloon occlusion for cardiac surgery (IPG261)
-2.5 Other comments
-2.5.1 The Committee noted that there have been technical modifications to and
-evolution in the design of the endoaortic balloons with the intention of improving
-their performance; and that newer designs may be associated with lower
-complication rates.
-3 Further information
-Sources of evidence
-The evidence considered by the interventional procedures advisory committee is
-described in the overview.
-Information for patients
-NICE has produced information for the public on this procedure. It explains the nature of
-the procedure and the decision made, and has been written with patient consent in mind.
-ISBN: 978-1-4731-5898-6
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

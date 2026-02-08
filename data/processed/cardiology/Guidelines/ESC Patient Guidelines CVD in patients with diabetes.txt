@@ -1,50 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "ESC Patient Guidelines CVD in patients with diabetes.pdf",
-  "converted_date": "2026-01-31T14:47:37.098479",
-  "file_size_bytes": 889656,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/ESC Patient Guidelines CVD in patients with diabetes.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-ESC Clinical Practice Guidelines for the
-Management of
-Cardiovascular Disease in
-Patients with Diabetes:
-What Patients
-Need to Know
-Image is for illustrative purposes only
-
-What Are Clinical Practice Guidelines?
-Clinical Practice Guidelines are written by a team of healthcare professionals and scientists, and are
-mainly intended for healthcare professionals. They provide diagnosis and treatment recommendations
-based on medical and scientific evidence to ensure that patients receive appropriate care.
-This document is for patients, their families and caregivers, and is based on the longer European
-Society of Cardiology (ESC) Clinical Practice Guidelines for the management of cardiovascular disease
-in patients with diabetes.
-What Will This Document Tell Me?
-Patients with diabetes are at higher risk of developing cardiovascular disease and having
-cardiovascular events, such as heart attacks, than patients without diabetes.
-This guide provides an overview of the latest evidence-based recommendations related to
-cardiovascular disease and diabetes. In particular, it should help you to understand:
-• The different diseases that increase the risk of cardiovascular events in patients with diabetes
-• The treatments that are recommended to reduce cardiovascular risk
-• The lifestyle modifications that can help reduce cardiovascular risk
-If you want to know more about any of the topics in this document, there are links to the appropriate sections
-in the ESC Clinical Practice Guidelines for the management of cardiovascular disease in patients with diabetes.
-If you would like more general information about keeping your heart healthy, you can visit: healthy-heart.org/
-How Will This Document Help Me?
-This document is intended to answer some questions that you may have and support you in
-conversations with your medical team. For example, we hope this document will give you knowledge and
-confidence when discussing treatments so you can share in the decision-making process.
-If you are a healthcare professional, the ESC hopes that this document, translated into the language
-of your patients, will provide them and their caregivers with an understanding of the high risk of
-cardiovascular disease with diabetes and how this can be managed. Please share it widely with your
-patients and colleagues.
+ESC Clinical Practice Guidelines for the Management of Cardiovascular Disease in Patients with Diabetes:
 
 The Risk Of Cardiovascular Events
 Is High With Diabetes
@@ -187,31 +141,3 @@ Communication, relationship development,
 education, empowerment, support, holistic,
 comprehensive & problem-solving,
 self-management
-
-This guide for patients is a simplified version of the ESC Clinical Practice Guidelines for the
-management of cardiovascular disease in patients with diabetes. The full guidelines are
-available in English on the ESC website (escardio.org/Guidelines/Clinical-Practice-Guidelines/
-CVD-and-Diabetes-Guidelines); your healthcare provider will be familiar with its content and
-recommendations. Online translator tools may be able to translate the text and present it in an
-alternative language, with limitations.
-Authors
-• Carolyn Crawford (United Kingdom), ESC Patient Forum, Sophia Antipolis, France
-• Tiny Jaarsma, Department of Health, Medicine and Caring Science, Linköping University, Linköping, Sweden
-• Ekaterini Lambrinou, Department of Nursing, Cyprus University of Technology, Limassol, Cyprus
-• Nikolaus Marx, Department of Internal Medicine I, Cardiology, RWTH Aachen University, Aachen, Germany
-• Dirk Müller-Wieland, Department of Internal Medicine I Cardiology, RWTH Aachen University, Aachen, Germany
-• Katharina Schütt, Department of Internal Medicine I Cardiology, RWTH Aachen University, Aachen, Germany
-Disclaimer
-This material was adapted from the ESC Guidelines for the management of cardiovascular disease in patients with diabetes
-(European Heart Journal 2023 - doi: 10.1093/eurheartj/ehad192) as published on 25 August 2023.
-Copyright © European Society of Cardiology 2023 - All Rights Reserved.
-This material has been published for personal and educational use only. No commercial use is authorised. No part of this document
-may be translated or reproduced in any form without written permission from the ESC. Permission can be obtained upon submission
-of a written request to ESC, Practice Guidelines Department, Les Templiers - 2035, Route des Colles - CS 80179 Biot - 06903 Sophia
-Antipolis Cedex - France. Email: guidelines@escardio.org
-This material was adapted from the ESC Guidelines as an aid to patients and carers. It represents the views of the ESC and was
-produced after careful consideration of the scientific and medical knowledge and the evidence available at the time of their
-publication. The ESC is not responsible in the event of any contradiction, discrepancy and/or ambiguity between the ESC Guidelines
-and any other official recommendations or guidelines issued by the relevant public health authorities, in particular in relation to good
-use of healthcare or therapeutic strategies. Please refer to the preamble of the original guidelines for further details of the role of
-Clinical Practice Guidelines and the individual responsibility of health professionals when making decisions for the care of patients.

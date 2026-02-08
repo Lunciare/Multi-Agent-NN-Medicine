@@ -1,201 +1,39 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "A 69 year old with acute chest pain - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:20.738844",
-  "file_size_bytes": 16267195,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/A 69 year old with acute chest pain - Dr. Smith’s ECG Blog.pdf"
-}
+A 69 year old with acute chest pain
 
-=== СОДЕРЖАНИЕ ===
+This ECG was emailed to me by Sam Ghali.
+“69 year old woman with chest pain.”
 
-Steve Smith onAugust 20, 2024
-A 69 year old with acute
-chest pain
-This ECG was emailed to me by Sam Ghali. (@EM_RESUS)
- 
-“What do you think, Steve? 69 year old woman with chest pain.”
-What do you think?
 I responded: “Suggestion of inferior OMI, but not quite diagnostic.”
-There is an incomplete RBBB. There is minimal STE in lead III with an inverted
-T-wave, suggesting acute MI with some degree of reperfusion. Same in aVF.
-There is minimal reciprocal STD in aVL.There is a normal amount of discordant
-STD in V2.
-Here is the Queen of Hearts interpretation:
-Same as mine! OMI with low confidence.
-Sam responded:
-“I agree. Her pain was getting much better. Echo views on this one were
-difficult. Had prior ECGs that looked very similar but at that time appeared to
-have had an SGA-RCA issue.”
-“I instructed her to let us know immediately if pain came back.”
-“Her pain did return and we recorded a repeat ECG 2:”
-Now it is diagnostic of inferior OMI.
-And the Queen agrees:
-Click here to sign up for Queen of Hearts Access
-Patient went for immediate angiogram.
-Angio shows RCA occlusion (SVG graft to RCA in patient with previous CABG)
-Here are the angiogram images:
- 2/12
-00:06
-00:03
- 3/12
-It looks completely occluded to me, then opened up. But it was called “TIMI-1”
-flow.
+
+There is an incomplete RBBB. There is minimal ST elevation in lead III with an inverted T-wave, suggesting acute MI with some degree of reperfusion. Same in aVF. There is minimal reciprocal ST depression in aVL. There is a normal amount of discordant ST depression in V2.
+
+Queen of Hearts interpretation:
+OMI with low confidence.
+
+The patient’s pain was getting much better. Echo views were difficult. Prior ECGs looked very similar but previously appeared to reflect an SGA-RCA issue. The patient was instructed to report immediately if pain returned.
+
+Pain did return and a repeat ECG was recorded. This ECG was diagnostic of inferior OMI.
+The patient went for immediate angiogram.
+
+Angiography showed RCA occlusion (SVG graft to RCA in a patient with previous CABG). The artery appeared completely occluded and then reopened, described as TIMI-1 flow.
+
 Learning Points:
-1. Use the Queen of Hearts
-2. Record serial ECGs
-===================================
-MY Comment, by KEN GRAUER, MD (8/20/2024):
-===================================
-It is always a challenge to interpret an ECGs from a patient
-with known coronary disease, but no prior tracing for comparison. This is
-especially true in the presence of an underlying conduction defect. So it
-was for me regarding today’s case — as I was initially shown this ECG
-knowing only that the patient had a history of prior CABG.
-For clarity in Figure-1 — I’ve reproduced the 2 ECGs in today’s
-case, and have labeled the ECG findings that immediately “caught
-my eye”.
-Figure-1: I’ve labeled the 2 ECGs in today’s case.
-MY Thoughts on the ECGs in Figure-1:
-As I noted above — I first saw today’s initial ECG knowing only that
-this 69-year old woman had prior CABG, and was now presenting with CP
- 4/12
-(Chest Pain).
-Interpretation of ECG #1 would clearly have been much easier for
-me — IF I had access to this patient’s prior ECG. Given the known
-history of coronary disease — multiple previous ECGs certainly
-were done. That said — the clinical reality is
-that immediate access to prior ECGs will not always be
-available at the time the patient is seen — so it is good practice to
-train oneself in ECG assessment when information is limited.
-The good news in this patient who presented with “chest pain” — is that
-even without access to a prior tracing — the initial ECG in Figure-1
-should be interpreted as highly suspicious for acute OMI until we can
-prove otherwise.
-The rhythm in ECG #1 is sinus at ~60-65/minute. The PR interval is
-normal — but the QRS is wide (at ~0.12 second). The rSR’ complex
-in lead V1 suggests RBBB (Right Bundle Branch Block) — albeit
-this RBBB is atypical in that the terminal S wave in lead I is tiny,
-and no S wave at all is seen in lateral lead V6 (YELLOW arrows
-marking the place where wide, terminal S waves should be seen
-with RBBB conduction).
-There is no chamber enlargement.
-Regarding Q–R–S–T Wave Changes:
-Small and narrow Q waves are seen in high-lateral leads I and aVL.
-These are probably insignificant normal septal Q waves.
-NOTE: Although at first glance, it may seem that there are Q waves
-in leads III and aVF — this is not the case (since the initial QRS
-deflection in leads III and aVF is a small positive deflection = r
-wave).
-Thus, there is an rSR’ complex in right-sided lead III — and in
-inferiorly situated lead aVF. This finding of an rSR’ complex in one or
-both of these leads — is sometimes seen with (and is consistent
-with) the RBBB pattern in lead V1.
-R wave progression in the chest leads loses relevance given the
-early transition that is normally seen with RBBB conduction.
-Regarding ST-T Wave Changes in ECG #1:
-My “eye” was immediately drawn to lead aVF in ECG #1 (within the
-RED rectangle). In a patient with new CP — there is no way the ST
-segment takeoff straightening with slight-but-real ST elevation is a
-“normal” finding. Looking closer — there also appears to be slight-
-but-real terminal T wave inversion in lead aVF (if not a biphasic
-negative-positive terminal T wave in this lead).
-My “eye” was next drawn to lead III in ECG #1 (within the BLUE
-rectangle) — which shows subtle ST elevation, with definite terminal
-T wave inversion.
- 5/12
-Given abnormalities in these 2 inferior leads — my threshold for
-viewing ST-T wave changes in lead II was correspondingly lowered
-— such that I interpreted the J-point ST elevation in this lead as
-clearly abnormal, and supportive of the likelihood
-of acute inferior OMI (BLUE arrow in lead II of ECG #1).
-Further support of inferior OMI could be forthcoming from
-assessment of lead aVL. Unfortunately — the ST-T wave
-appearance in lead aVL is equivocal. Whereas the downsloping ST
-segment in the 3rd complex in this lead is clearly consistent with a
-reciprocal change (as probably also is the near horizontal ST
-segment in the 2nd complex in aVL) — the 1st QRST complex in
-aVL manifests an upsloping ST segment that looked equivocal to
-me. PEARL: This subtle-but-real variation in ST-T wave appearance
-in a given ECG lead is an advanced point that highlights the
-importance of always distinguishing between what is (and is not)
-“real”.
-The ST-T wave in the remaining high-lateral lead ( = lead I) looks
-straightened, but not depressed.
-I found assessment of Chest Lead ST-T wave appearance difficult
-and inconclusive. The ST segment in lead V1 is coved and
-clearly higher than is usually seen with RBBB (BLUE arrow in this
-lead) — as most of the time the J-point in lead V1 with RBBB is
-lower, as we see here in lead V2. That said — in the absence of a
-prior tracing for comparison, I could not draw any conclusions
-regarding the ST flattening in lead V3 and the upright T waves in the
-remaining chest leads (perhaps all residua from the patient’s
-underlying known coronary disease?).
-BOTTOM Line re ECG #1:
-Given the history of new CP in this older patient with known coronary
-disease — I interpreted the ST-T wave appearance in the limb leads as
-suggestive of acute inferior OMI until proven otherwise.
-The T wave inversion in leads III and aVF — might
-reflect reperfusion T waves following inferior OMI. I later learned
-that this patient’s CP was definitely decreasing at the time ECG
-#1 was obtained — which would support the suggestion that these T
-waves represent spontaneous reperfusion.
-Finding a prior ECG could help greatly to clarify what changes were
-new vs old — vs new superimposed on old.
-One “has to be there” — in order to determine IF the ST-T wave
-findings in ECG #1 would (or would not be) enough to activate the
-cath lab on the basis of this initial ECG (and to convince the On-Call
-interventionist to cath the patient). That decision could be facilitated
- 6/12
-by lead-to-lead comparison with one or more of the patient’s prior
-tracings.
-Regardless — obtaining a follow-up ECG within the next 20-30
-minutes as the patient’s CP continued to decrease — might prove
-insightful (ie, IF there was further evolution of reperfusion T waves
-as the patient’s CP continued to decrease — that would suggest
-“dynamic” ST-T wave change in association with CP resolution —
-thereby strengthening the indication for prompt cath).
-The ECG was Repeated:
-Some time after ECG #1 (? how long after?) — the patient’s CP returned,
-and ECG #2 was recorded. As per Dr. Smith — the diagnosis
-of acute inferior OMI is now without doubt.
-Lead-by-Lead comparison between ECG #1 and ECG
-#2 facilitates recognition of all changes (See Figure-1).
-The amount of ST elevation and the hyperacute appearance of the
-ST-T waves in leads III and aVF has obviously increased.
-Abnormal J-point ST elevation in lead II of ECG #2 remains (BLUE
-arrow in this lead).
-The doubt I previously had regarding which of the 3 ST-T waves
-were “real” in lead aVL of ECG #1 — is now completely resolved by
-the increased amount of downsloping reciprocal ST
-depression in lead aVL. Note terminal positivity of the T wave in
-not only lead aVL, but also lead I.
-In the Chest Leads of ECG #2 — I thought that the deeper T wave
-inversion in lead V2, and the now positive T wave in lead V3 —
-might be real changes consistent with posterior OMI.
-My “Guess” (before peeking at the cath film):
-I suspected that cardiac cath would show acute proximal RCA
-OMI — with infero-postero OMI. The ST coving with higher-than-
-usual J-point for RBBB that was seen in lead V1 of ECG #1 — might
-reflect RV involvement — which could have attenuated ST
-depression from posterior OMI (that otherwise would have been
-seen in leads V2,V3). Finally — the slight J-point elevation with
-upright T wave (and lack of terminal rbbb S wave) seen in lead V6
-might be the result of associated lateral infarction in this patient with
-RBBB. Being privilege to seeing prior tracings on this patient might
-have clarified my above speculation.
-“Take- 7/12
-identified at cardiac cath. Therefore — honing one’s ability to predict
-the likely “culprit” artery based on the ECG findings we
-identify can at times prove invaluable in guiding the interventionist
-for knowing which artery(ies) will benefit from PCI.
-P.S.: I think it good practice to always insist on seeing prior ECGs
-oneself — rather than accepting written report on previous ECG
-findings.
-Steve Smith onAugust 20, 2024
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-Back to basics: what's Pre-syncope and a
-going on here? bizarre wide complex
+
+1. Use serial ECGs
+2. Consider OMI even with subtle initial findings
+
+MY Comment, by KEN GRAUER, MD (8/20/2024)
+
+Interpretation of ECGs in patients with known coronary disease and conduction abnormalities is challenging, especially without prior tracings for comparison. In this case, despite lack of prior ECGs, the initial tracing should be considered highly suspicious for acute OMI given new chest pain.
+
+ECG #1 showed sinus rhythm at 60–65 bpm, a wide QRS (~0.12 s), and an atypical RBBB pattern. There was no chamber enlargement. Small narrow Q waves in leads I and aVL were likely normal septal Q waves. No true Q waves were present in leads III or aVF.
+
+ST-T wave abnormalities were most notable in the inferior leads. Lead aVF showed straightened ST takeoff with slight but real ST elevation and terminal T-wave inversion. Lead III showed subtle ST elevation with definite terminal T-wave inversion. Lead II demonstrated abnormal J-point elevation supportive of inferior OMI.
+
+Lead aVL showed equivocal but potentially reciprocal ST depression. Chest lead assessment was difficult without prior ECGs, though lead V1 showed higher-than-expected ST elevation for RBBB, raising suspicion for associated pathology.
+
+Overall, ECG #1 was interpreted as suspicious for acute inferior OMI until proven otherwise, with T-wave inversions possibly reflecting spontaneous reperfusion as chest pain was decreasing.
+
+When chest pain returned, ECG #2 showed clear progression with increased ST elevation and hyperacute ST-T wave changes in leads III and aVF, persistent abnormal ST elevation in lead II, and definitive reciprocal ST depression in aVL. These findings confirmed acute inferior OMI.
+
+Subsequent angiography confirmed the culprit lesion. The case highlights the importance of serial ECGs, careful inferior lead assessment, and maintaining a high index of suspicion for OMI in patients with chest pain and known coronary disease.

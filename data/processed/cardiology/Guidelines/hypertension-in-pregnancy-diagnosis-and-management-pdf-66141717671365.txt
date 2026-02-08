@@ -1,56 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "hypertension-in-pregnancy-diagnosis-and-management-pdf-66141717671365.pdf",
-  "converted_date": "2026-01-31T14:51:19.949771",
-  "file_size_bytes": 322114,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/hypertension-in-pregnancy-diagnosis-and-management-pdf-66141717671365.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Hypertension in
-pregnancy: diagnosis and
-management
-NICE guideline
-Published: 25 June 2019
-Last updated: 17 April 2023
-www.nice.org.uk/guidance/ng133
-
-Hypertension in pregnancy: diagnosis and management (NG133)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Hypertension in pregnancy: diagnosis and management (NG133)
-
-Hypertension in pregnancy: diagnosis and management (NG133)
-Finding more information and committee details .....................................................................59
-Update information .....................................................................................................................60
-
-Hypertension in pregnancy: diagnosis and management (NG133)
-This guideline replaces CG107.
-This guideline is the basis of QS35.
+Hypertension in pregnancy: diagnosis and management
 Overview
 This guideline covers diagnosing and managing hypertension (high blood pressure),
 including pre-eclampsia, during pregnancy, labour and birth. It also includes advice for
@@ -65,7 +13,7 @@ Who is it for?
 to conceive, and who have had a pregnancy complicated by hypertension, and their
 relatives and carers
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Recommendations
 People have the right to be involved in discussions and make informed decisions
 about their care, as described in NICE's information on making decisions about your
@@ -87,7 +35,7 @@ experience symptoms of pre-eclampsia. Symptoms include:
 See the NICE guideline on antenatal care for advice on risk factors and
 symptoms of pre-eclampsia. [2010, amended 2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Antiplatelet agents
 For the indication in recommendations 1.1.2 and 1.1.3, although its use is common in
 UK clinical practice, at the time of publication (June 2019), aspirin did not have a UK
@@ -115,7 +63,7 @@ Factors indicating moderate risk are:
 • family history of pre-eclampsia
 • multi-fetal pregnancy. [2010, amended 2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Other pharmaceutical agents
 1.1.4 Do not use the following to prevent hypertensive disorders during pregnancy:
 • nitric oxide donors
@@ -138,7 +86,7 @@ Lifestyle
 hypertension or at risk of hypertensive disorders during pregnancy as healthy
 pregnant women. See the NICE guideline on antenatal care. [2010, amended
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 2019]
 Diabetes
 1.1.8 For women with pre-existing diabetes or gestational diabetes, see the NICE
@@ -163,7 +111,7 @@ diagnosis of pre-eclampsia, consider re-testing on a new sample, alongside
 clinical review. [2019]
 1.2.7 If using albumin:creatinine ratio as an alternative to protein:creatinine ratio to
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 diagnose pre-eclampsia in pregnant women with hypertension:
 • use 8 mg/mmol as a diagnostic threshold
 • if the result is 8 mg/mmol or above and there is still uncertainty about the
@@ -190,7 +138,7 @@ pregnancy
 • to discuss alternative treatment with the healthcare professional responsible
 for managing their condition, if ACE inhibitors or ARBs are being taken for
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 other conditions such as renal disease. [2010, amended 2019]
 In 2014, the Medicines and Healthcare products Regulatory Agency (MHRA)
 issued a drug safety update on ACE inhibitors and angiotensin II receptor
@@ -217,7 +165,7 @@ Treatment of chronic hypertension
 • healthy eating
 • lowering the amount of salt in their diet.
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Provide this advice in line with the NICE guideline on hypertension in adults.
 [2019]
 1.3.7 Continue with existing antihypertensive treatment if safe in pregnancy, or switch
@@ -246,7 +194,7 @@ daily from 12 weeks. [2019]
 Although its use is common in UK clinical practice, at the time of publication
 (June 2019), aspirin did not have a UK marketing authorisation for this indication.
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Community pharmacies cannot legally sell aspirin as a pharmacy medicine for
 prevention of pre-eclampsia in pregnancy in England. Aspirin for this indication
 must be prescribed. The prescriber should see the summary of product
@@ -274,7 +222,7 @@ hypertension whose blood pressure is lower than 160/110 mmHg, with or without
 antihypertensive treatment, unless there are other medical indications. [2010,
 amended 2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 1.3.15 For women with chronic hypertension whose blood pressure is lower than 160/
 110 mmHg after 37 weeks, with or without antihypertensive treatment, timing of
 birth and maternal and fetal indications for birth should be agreed between the
@@ -303,7 +251,7 @@ pregnancy, stop within 2 days after the birth and change to an alternative
 antihypertensive treatment (for choice of antihypertensive during the postnatal
 period, see the section on antihypertensive treatment during the postnatal
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 period, including during breastfeeding). [2010, amended 2019]
 1.3.20 Offer women with chronic hypertension a medical review 6 to 8 weeks after the
 birth with their GP or specialist as appropriate. [2010, amended 2019]
@@ -327,7 +275,7 @@ factors that require additional assessment and follow-up:
 1.4.3 Offer women with gestational hypertension the tests and treatment listed in
 table 1. [2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Table 1 Management of pregnancy with gestational hypertension
 Management Hypertension: Severe hypertension:
 Admit, but if BP falls below 160/
@@ -374,7 +322,7 @@ only if clinically indicated then only if clinically indicated
 (For advice, see the section on fetal (For advice, see the section on fetal
 monitoring) monitoring
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 1.4.4 Offer placental growth factor (PLGF)-based testing to help rule out pre-eclampsia
 in women presenting with suspected pre-eclampsia (for example, with
 gestational hypertension) between 20 weeks and 36 weeks and 6 days of
@@ -404,7 +352,7 @@ other medical indications. [2010, amended 2019]
 160/110 mmHg after 37 weeks, timing of birth, and maternal and fetal indications
 for birth should be agreed between the woman and the senior obstetrician.
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 [2010, amended 2019]
 1.4.9 If planned early birth is necessary (see recommendation 1.5.7 in the section on
 timing of birth), offer a course of antenatal corticosteroids and magnesium
@@ -433,7 +381,7 @@ choice of antihypertensive during the postnatal period, see the section on
 antihypertensive treatment during the postnatal period, including during
 breastfeeding). [2010, amended 2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 1.4.13 For women with gestational hypertension who did not take antihypertensive
 treatment and have given birth, start antihypertensive treatment if their blood
 pressure is 150/100 mmHg or higher. [2010, amended 2019]
@@ -459,7 +407,7 @@ interventions needed if there are concerns for the wellbeing of the woman or
 baby. Concerns could include any of the following:
 • sustained systolic blood pressure of 160 mmHg or higher
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 • any maternal biochemical or haematological investigations that cause
 concern, for example, a new and persistent:
 － rise in creatinine (90 micromol/litre or more, 1 mg/100 ml or more) or
@@ -484,7 +432,7 @@ of women with pre-eclampsia.
 Full details of the evidence and the committee's discussion are in evidence review C:
 prediction of complications in pre-eclampsia.
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Treatment of pre-eclampsia
 1.5.5 Offer women with pre-eclampsia the tests and treatments listed in table 2. [2019]
 Table 2 Management of pregnancy with pre-eclampsia
@@ -532,7 +480,7 @@ Blood tests function and renal function
 and renal function twice a week
 3 times a week
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Management Hypertension: Severe hypertension:
 Offer fetal heart auscultation at
 Offer fetal heart auscultation at every
@@ -575,7 +523,7 @@ eclampsia:
 antihypertensives in appropriate doses
 • maternal pulse oximetry less than 90%
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 • progressive deterioration in liver function, renal function, haemolysis, or
 platelet count
 • ongoing neurological features, such as severe intractable headache, repeated
@@ -602,7 +550,7 @@ with the NICE guideline on preterm labour and birth. [2010, amended 2019]
 1.5.12 Decide on timing of birth in women with pre-eclampsia as recommended in
 table 3. [2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Table 3 Timing of birth in women with pre-eclampsia
 Weeks of
 Timing of birth
@@ -638,7 +586,7 @@ have given birth, measure blood pressure:
 • at least 4 times a day while the woman is an inpatient
 • at least once between day 3 and day 5 after birth
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 • on alternate days until normal, if blood pressure was abnormal on days 3 to 5.
 [2010]
 1.5.14 In women with pre-eclampsia who did not take antihypertensive treatment and
@@ -668,7 +616,7 @@ amended 2019]
 1.5.19 Offer women with pre-eclampsia who have given birth transfer to community
 care if all of the following criteria have been met:
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 • there are no symptoms of pre-eclampsia
 • blood pressure, with or without treatment, is 150/100 mmHg or less
 • blood test results are stable or improving. [2010, amended 2019]
@@ -694,7 +642,7 @@ measurements if results are normal at 48 to 72 hours. [2010]
 1.5.24 If biochemical and haematological indices are outside the reference range in
 women with pre-eclampsia who have given birth, repeat platelet count,
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 transaminases and serum creatinine measurements as clinically indicated until
 results return to normal. [2010, amended 2019]
 1.5.25 In women with pre-eclampsia who have given birth, carry out a urinary reagent-
@@ -720,7 +668,7 @@ amended 2019]
 1.6.4 In women with gestational hypertension, only carry out cardiotocography if
 clinically indicated. [2010, amended 2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Fetal monitoring in pre-eclampsia or severe gestational
 hypertension
 1.6.5 Carry out cardiotocography at diagnosis of pre-eclampsia or severe gestational
@@ -748,7 +696,7 @@ plan that includes all of the following:
 • fetal indications for birth and if and when antenatal corticosteroids should be
 given
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 • plans for discussion with neonatal paediatricians and obstetric anaesthetists.
 [2010, amended 2019]
 Women who need additional fetal monitoring
@@ -774,7 +722,7 @@ labour. [2010, amended 2019]
 guideline on intrapartum care for women with existing medical conditions or
 obstetric complications and their babies. [2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Blood pressure
 1.7.3 During labour, measure blood pressure:
 • hourly, in women with hypertension
@@ -797,7 +745,7 @@ severe hypertension whose hypertension has not responded to initial treatment.
 [2010, amended 2019]
 1.8 Medical management of severe hypertension,
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 severe pre-eclampsia or eclampsia in a critical care
 setting
 Anticonvulsants
@@ -825,7 +773,7 @@ last fit.
 • Recurrent fits should be treated with a further dose of 2 g to 4 g given
 intravenously over 5 to 15 minutes. [2010, amended 2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 The MHRA has issued a warning about the risk of skeletal adverse effects in
 the neonate following prolonged or repeated use of magnesium sulfate in
 pregnancy. Maternal administration of magnesium sulfate for longer than 5 to
@@ -853,7 +801,7 @@ response to treatment:
 • to identify adverse effects for both the woman and the baby
 • to modify treatment according to response. [2010]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 1.8.8 Consider using up to 500 ml crystalloid fluid before or at the same time as the
 first dose of intravenous hydralazine in the antenatal period. [2010]
 Corticosteroids for fetal lung maturation
@@ -875,7 +823,7 @@ preference. [2010]
 Referral to critical care
 1.8.14 Refer women with severe hypertension or severe pre-eclampsia to the
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 appropriate critical care setting using the criteria in table 4. [2010]
 Table 4 Clinical criteria for choice of critical care level
 Critical care level Clinical criteria
@@ -902,7 +850,7 @@ Level 1 care
 hypertension
 Step-down treatment after the birth
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 1.9 Antihypertensive treatment during the
 postnatal period, including during breastfeeding
 For the indications in recommendations 1.9.4, 1.9.6 and 1.9.8, in 2009, the Medicines
@@ -932,7 +880,7 @@ low levels in breast milk, so the amounts taken in by babies are very small
 and would be unlikely to have any clinical effect
 • most medicines are not tested in pregnant or breastfeeding women, so
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 disclaimers in the manufacturer's information are not because of any specific
 safety concerns or evidence of harm.
 Make decisions on treatment together with the woman, based on her
@@ -960,7 +908,7 @@ consider either:
 1.9.7 When treating women with antihypertensive medication during the postnatal
 period, use medicines that are taken once daily when possible. [2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 1.9.8 Where possible, avoid using diuretics or angiotensin receptor blockers to treat
 hypertension in women in the postnatal period who are breastfeeding or
 expressing milk. [2010, amended 2019]
@@ -995,7 +943,7 @@ hypertension
 (1 in 5 women)
 women) women)
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Prevalence
 of Gestational
 Any hypertension in
@@ -1039,7 +987,7 @@ Long-term risk of cardiovascular disease
 associated with an increased risk of hypertension and cardiovascular disease in
 later life (see table 6). [2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Table 6 Cardiovascular risk in women who have had a hypertensive disorder of
 pregnancy
 Risk of future Any hypertension in Pre-eclampsia in Gestational hypertension Chronic hypertension in
@@ -1082,7 +1030,7 @@ disorders, with their GP or specialist. This may include:
 • avoiding smoking, as recommended in the NICE guideline on tobacco
 • maintaining a healthy lifestyle, as recommended in the NICE guideline on
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 cardiovascular disease
 • maintaining a healthy weight, as recommended in the NICE guideline on
 overweight and obesity management. [2019]
@@ -1106,7 +1054,7 @@ disorders of pregnancy
 increases with an inter-pregnancy interval greater than 10 years. [2010, amended
 2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Long-term risk of end-stage kidney disease
 1.10.7 Tell women with a history of pre-eclampsia who have no proteinuria and no
 hypertension at the postnatal review (6 to 8 weeks after the birth) that although
@@ -1127,7 +1075,7 @@ New hypertension presenting after 20 weeks of pregnancy without significant prot
 HELLP syndrome
 Haemolysis, elevated liver enzymes and low platelet count.
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Hypertension
 Blood pressure of 140 mmHg systolic or higher, or 90 mmHg diastolic or higher. [2019]
 Multi-fetal pregnancy
@@ -1152,7 +1100,7 @@ doppler waveform analysis, or stillbirth.
 Severe hypertension
 Blood pressure over 160 mmHg systolic or over 110 mmHg diastolic.
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Severe pre-eclampsia
 Pre-eclampsia with severe hypertension that does not respond to treatment or is
 associated with ongoing or recurring severe headaches, visual scotomata, nausea or
@@ -1160,7 +1108,7 @@ vomiting, epigastric pain, oliguria and severe hypertension, as well as progress
 deterioration in laboratory blood tests such as rising creatinine or liver transaminases or
 falling platelet count, or failure of fetal growth or abnormal doppler findings.
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Recommendations for research
 As part of the 2019 update, the guideline committee made 6 research recommendations
 on the management of pregnancy with chronic hypertension, pre-eclampsia, fetal
@@ -1182,7 +1130,7 @@ In women who need treatment for hypertension in pregnancy, what are the adverse
 neonatal outcomes associated with maternal use of beta blockers (or mixed alpha-beta
 blockers)? [2019]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 For a short explanation of why the committee made this recommendation for
 research, see the rationale and impact section on chronic hypertension.
 Full details of the evidence and the committee's discussion are in evidence review A:
@@ -1206,7 +1154,7 @@ postnatal management of hypertension.
 5 Fetal monitoring
 In women with hypertensive disorders of pregnancy, what is the optimal fetal monitoring
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 strategy to detect small for gestational age infants? [2019]
 For a short explanation of why the committee made this recommendation for
 research, see the rationale and impact section on fetal monitoring.
@@ -1228,7 +1176,7 @@ gestational hypertension
 What is the role of assessing haematological or biochemical parameters at diagnosis of
 gestational hypertension and during surveillance of gestational hypertension? [2010]
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Rationale and impact
 These sections briefly explain why the committee made the recommendations and how
 they might affect practice. They link to details of the evidence and a full description of the
@@ -1257,7 +1205,7 @@ As PCR and ACR show very high diagnostic accuracy, they should be used in place 
 24-hour urine collection, which is awkward for women and could delay identification of
 proteinuria. However, there are rare occasions when it might be more appropriate to use
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 24-hour collection (for example, women with renal complications), and so the committee
 agreed it should not be ruled out entirely.
 There was good evidence that a PCR of 30 mg/mmol had good diagnostic accuracy,
@@ -1290,7 +1238,7 @@ Not all secondary care units currently use automated dipstick analysis to screen
 proteinuria, so the recommendations might increase the need for automated reagent-strip
 reading devices. However, the accuracy and reliability of screening will be improved,
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 reducing the need for further investigations for some women and correctly identifying
 more women who need further testing or investigations.
 Moving from 24-hour urine collection to spot urine ACR or PCR will save time, with
@@ -1319,7 +1267,7 @@ specified in the recent Control of Hypertension in Pregnancy Study (CHIPS) and t
 guideline on hypertension in adults. There was evidence for target blood pressure levels
 from the large CHIPS trial, so the committee made recommendations based on this.
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 There was some very limited evidence of both benefits and harms for different
 antihypertensive medicines. However, there was not enough evidence to recommend one
 treatment over another. As labetalol, nifedipine and methyldopa had been recommended in
@@ -1352,7 +1300,7 @@ improve consistency of treatment targets.
 Starting treatment for hypertension and offering aspirin to women with chronic
 hypertension who are pregnant are standard care, so these recommendations are not
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 expected to change practice significantly.
 Return to recommendations
 Monitoring and treatment of gestational
@@ -1380,7 +1328,7 @@ standardise practice across the NHS for units that currently use other blood pre
 targets.
 Return to recommendations
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Assessment of women with pre-eclampsia
 Recommendations 1.5.2 to 1.5.4
 Why the committee made the recommendations
@@ -1410,7 +1358,7 @@ women who are admitted to hospital in some centres if admission is not currently
 but might decrease admission in other centres, thus standardising practice.
 Return to recommendations
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Monitoring and treatment of pre-eclampsia and
 timing of birth
 Recommendations 1.5.5, 1.5.7 and 1.5.12
@@ -1443,7 +1391,7 @@ the woman and baby are at risk of adverse outcomes if pregnancy is prolonged. Th
 recommendations were based on those from the previous guideline, and expanded based
 on international guidelines, which were used by the committee in their clinical practice.
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Based on the data from HYPITAT-II study, the committee also agreed that pregnancies in
 women with pre-eclampsia could be managed with continued surveillance to 37 weeks,
 unless there were specific concerns or indications to offer a planned early birth before
@@ -1473,7 +1421,7 @@ second-line medicine was modified from the NICE guideline on hypertension in adu
 angiotensin receptor blockers, thiazide and thiazide-like diuretics are not recommended
 during breastfeeding. Therefore, the committee agreed that beta-blockers should be used
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 as the second-line antihypertensive agent. The committee also agreed that the medicines
 with once-daily administration should be used wherever possible and for this reason the
 committee recommended enalapril in preference to captopril (which is taken 3 times daily)
@@ -1502,14 +1450,14 @@ There was no evidence on which interventions could reduce the risk of recurrence
 hypertensive disorders of pregnancy or future cardiovascular disease, so the committee
 made a research recommendation.
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 How the recommendations might affect practice
 Providing guidance and advice to women on future risks and signposting appropriate care
 and lifestyle advice may be an additional activity for some healthcare professionals,
 compared with current practice.
 Return to recommendations
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 Context
 Hypertensive disorders during pregnancy affect around 8% to 10% of all pregnant women
 and can be associated with substantial complications for the woman and the baby. Women
@@ -1540,7 +1488,7 @@ report from 2017 identified new studies in the following areas:
 The scope of this update was limited to these sections; it did not include other areas being
 looked at by other groups (for example, screening strategies for pre-eclampsia, which is
 
-Hypertension in pregnancy: diagnosis and management (NG133)
+ 
 being evaluated by the UK National Screening Committee), and did not look into
 alternative approaches to categorisation of hypertension in pregnancy (for example,
 looking at treatment for all types of pregnancy hypertension together, rather than within
@@ -1555,67 +1503,3 @@ clinical practice, in order to minimise unnecessary variance and provide optimal
 women and their babies. In doing this, low rates of maternal mortality should be
 maintained, and progress on reduction of maternal morbidity and perinatal morbidity and
 mortality can be pursued.
-
-Hypertension in pregnancy: diagnosis and management (NG133)
-Finding more information and committee
-details
-To find NICE guidance on related topics, including guidance in development, see the NICE
-topic page hypertension.
-For full details of the evidence and the guideline committee's discussions, see the
-evidence reviews. You can also find information about how the guideline was developed,
-including details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting NICE guidelines into practice, see resources to help
-you put NICE guidance into practice.
-
-Hypertension in pregnancy: diagnosis and management (NG133)
-Update information
-April 2023: In recommendations 1.3.12 and 1.4.4, we updated the information about when
-placental growth factor (PLGF)-based testing for pre-eclampsia should be carried out. This
-brings it in line with our diagnostics guidance on PLGF-based testing to help diagnose
-suspected preterm pre-eclampsia.
-June 2019: We have reviewed the evidence on the assessment of proteinuria and the
-treatment of women with chronic and gestational hypertension and pre-eclampsia,
-breastfeeding and advice on discharge. These recommendations are marked [2019].
-We have also made some changes without an evidence review:
-• Combined, updated and clarified advice throughout to make it simpler to follow.
-• Updated advice on pre-eclampsia in line with the NICE guidelines on antenatal care
-and pre-term labour and birth.
-• Amended dose information for aspirin use in pre-eclampsia in line with current national
-guidance.
-• Updated advice on rest, exercise and work for women with pre-eclampsia in line with
-the NICE guideline on antenatal care.
-• Expanded the advice on the risks of angiotensin-converting enzyme (ACE) inhibitors
-to treat hypertension in pregnancy.
-• Expanded and amended the advice on chlorothiazide to thiazide and thiazide-like
-diuretics, because chlorothiazide is no longer widely used.
-• Updated terminology used for various aspects of treatment in line with current
-practice.
-• Updated the advice on when to offer planned early birth and action to take
-beforehand.
-• Updated the advice on continuing antihypertensive treatment after birth, including
-treatment with methyldopa.
-• Added cross references where suitable to NICE guidance on breastfeeding.
-
-Hypertension in pregnancy: diagnosis and management (NG133)
-• Updated guidance if necessary to be more specific on which healthcare professionals
-are responsible for undertaking reviews and checks.
-• Updated scan and test times for women with chronic hypertension in pregnancy, and
-why scans and tests may be needed.
-• Updated advice about creating care plans and who should be involved.
-• Updated advice on anti-convulsants.
-• Updated advice on angiotensin-receptor blockers during breastfeeding.
-• Updated definitions and terms used to reflect current clinical practice.
-These recommendations are marked [2010, amended 2019].
-Recommendations marked [2010] last had an evidence review in 2010. In some cases,
-minor changes have been made to the wording to bring the language and style up to date,
-without changing the meaning.
-Minor changes since publication
-October 2023: We updated links to the NICE guideline on intrapartum care, which has
-been updated.
-October 2022: We added text to indicate that pulse oximetry may be less reliable in
-people with dark skin. We also added a link to the NHS patient safety alert on the risk of
-harm from inappropriate placement of pulse oximeter probes. See recommendation 1.5.7.
-August 2022: We corrected the term 'first pregnancy' to 'nulliparity' in recommendation
-1.1.3.
-ISBN: 978-1-4731-5130-7

@@ -1,238 +1,117 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention_ - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:38:04.712269",
-  "file_size_bytes": 22024522,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Is it possible that this patient with acute chest pain and this ECG does not need emergent intervention_ - Dr. Smith’s ECG Blog.pdf"
-}
+84-year-old male with significant cardiac history (CABG + multiple stents) awoke at 05:00 with chest pressure, diaphoresis, and light-headedness. He arrived to a rural ED ~06:30. Because he was recovering from an influenza-like illness (ILI) and screened positive at triage, his symptoms were initially attributed to viral illness, but an ECG was obtained at 06:49.
 
-=== СОДЕРЖАНИЕ ===
+Initial ECG (06:49) — Why This Does Need Emergent Intervention
 
-emergent intervention?
-Jesse McLaren onMarch 19, 2025
-Is it possible that this patient
-with acute chest pain and
-this ECG does not need
-emergent intervention?
-Case submitted by Andrew Grimes,
-Advanced Care paramedic, with additions from Jesse McLaren and Smith
- 
-An
-84-year-old male with a notable cardiac history (CABG, multiple stents)
-woke at 0500hrs with pressure in his chest, diaphoresis, and light-headedness.
-He presented to a rural ED at approximately 0630hrs. Since he was recovering
-from a recent bout of Influenza-like illness and said yes to several ILI
-screening questions at triage, his chest tightness and diaphoresis were
-initially attributed to this. Still, an ECG was obtained at 0649hrs:
-
- 1/12
-(Digitized by PM Cardio)
-McLaren: The patient has a high pretest
-probability based on age, risk factors and symptoms. Influenza-like illness can
-also trigger plaque rupture. Despite the baseline artifact there’s sinus
-bradycardia, convex ST elevation in III, reciprocal ST depression in aVL and
-possible anterior ST depression – indicating inferoposterior OMI.
-Here’s the Queen
-of Hearts interpretation, drawing attention especially to III and aVL:
-This patient does indeed need emergent intervention. But, alas, as with so
-he ECG findings were not noticed and he did
-many patients, t
-not get it.
-STEMI criteria are only 43% sensitive for OMI. Many arteries in
-NSTEMI-OMI will open up by next day angiogram, after the damage is
-done. But in 34% there is persistent occlusion at next day angiogram.
-And they have nearly double the mortality of NSTEMI with an open
-artery in spite of being younger and healthier at baseline. This means
-that, in the United States alone, of 500,000 NSTEMI,
-170,000 do not get the care they deserve. They end up with
-high mortality and needless heart failure.
-Hung C-S, Chen Y-H, Huang C-C, et al. Prevalence and outcome of patients
-with non-ST segment elevation myocardial infarction with occluded “culprit”
-artery – a systemic review and meta-analysis. Crit Care [Internet]
-2018;22(1):34. Available from: 
-018-1944-x
-Vitals were grossly normal. He was
-treated with MDIs, but when this did not provide any improvement, a cardiac
-workup was ordered. The initial hs-cTn was negative (11 ng/L). He was given two
-separate sprays of nitroglycerin sublingually, neither of which improved his
-pain but did cause him to become briefly hypotensive (<90mmHg SBP).
-McLaren: it is not unusual for troponin < 2
-hours after symptom onset to be in the normal range, which is falsely
- 2/12
-reassuring in the presence of an ECG showing acute coronary occlusion.
-Smith: The ECG is diagnostic of occlusion. Do not wait for troponin!!
-Several hours later, the repeat troponin returned at >600
-ng/L.
-Smith: now there is absolutely no doubt about the diagnosis, even if you have no
-idea how to read an ECG. The patient has acute persistent refrectory chest pain
-and elevated troponin. There is no need for another ECG. Just go to the cath lab!
-Unfortunately, only 6% of patients with very high risk NSTEMI needing the
-cath lab now get managed appropriately.
-Cardiology
-at a larger center was consulted and a repeat ECG was obtained at 1119hrs:
-Smith: there is evidence of reperfusion on the ECG: less STE, more T-wave
-inversion in inferior leads and loss of T-wave size in V4-6. But the patient still
-has pain.
-The cardiologist was concerned about a posterior
-MI and suggested a 15-lead ECG, which was obtained at 1210hrs:
-Smith: there is no need for a posterior ECG! The right
-precordial leads V1-V3 tell you all you need to know. ANY ST
-depression in these leads is OMI until proven otherwise. See
- 3/12
-our article here. When you have a diagnosis of posterior
-OMI, posterior leads may be falsely negative.
-The posterior lead V9 is clearly misplaced, as it should be relatively
-reciprocal (opposite) in morphology to V2.
-McLaren: The
-inferior T wave inversion suggests either reperfusion (if resolved symptoms) or
-subacute refractory ischemia – and from the previous description of pain
-refractory to nitro it is likely the latter. Despite no posterior ST elevation
-there is still anterior ST depression, and an enlarging R in V2 wave from
-posterior infarction.
-Case Continued
-NSTEMI protocol was ordered, and the patient was given
-ASA, enoxaparin, and
-ticagrelor. A stat transfer to the cardiology center was
-ordered. The transfer was
-uneventful and serial ECGs showed no appreciable further
-evolution. The patient
-maintained a 4/10 “pressure” but insisted he was quite
-comfortable.
-On arrival at the cardiac care unit, the patient soon underwent
-PCI. He had a
-100% RCA occlusion which was stented. His LCx was open
-but small, and perfused
-only a small portion of his posterior wall. The cardiologist
-described him as a
-“challenging” case.
-I
-thought this case was interesting with several learning points, including:
-1.
-The initial misdirection
-to ILI
-2.
-Unrecognized ECG signs of
-occlusion
-3. Queen of Hears has no trouble diagnosing OMI
- 4/12
-4.
-Treatment as
-“NSTEMI” despite a 100% RCA occlusion and ongoing pain.
-5. Use of posterior leads can be falsely negative
-6. Posterior leads can be placed erroneously
-7.
-Regarding the ECG, this
-case shows inferior ST elevation with reciprocal depression in aVL that does
-not quite meet STEMI criteria, ST depression maximal in V2-V3 (>97% specific
-for posterior MI), and an increasingly anterior R wave progression indicating
-posterior wall infarction.
-Beware confusing the diagnosis of posterior STEMI by using posterior
-leads…
-7 steps to missing posterior Occlusion MI, and how to avoid them
-Interventionalist at the Receiving Hospital: “No STEMI, no cath. I do not
-accept the transfer.”
-===================================
-MY Comment, by KEN GRAUER, MD (3/19/2025):
-===================================
-Perhaps the most commonly overlooked infarction pattern —
-is posterior OMI. The reason for this is simple: Because of the relative
-location of electrical activity with acute infarction of the LV posterior wall —
-there is no ST elevation on a standard 12-lead ECG.
-Failure to recognize posterior OMI is not a problem IF, as often
-happens — there is clear evidence of associated inferior wall MI
-(which is common because both the RCA and LCx usually supply
-both the posterior and inferior walls of the LV). But when infarction is
-either localized to the posterior wall — or when ECG signs of inferior
-wall involvement are subtle (as in today’s case) — it becomes easy
-for the “unaware” provider to overlook posterior OMI.
-Many providers address the lack of ST elevation on a
-standard ECG by turning to posterior leads. But as we’ve
-shown many times in Dr. Smith’s ECG Blog — having to
-pass through the thick back musculature
-significantly reduces ECG waveform amplitudes, such that
-the sensitivity of posterior leads for picking up posterior OMI
-is lacking.
- 5/12
-Posterior leads are not needed to recognize posterior
-OMI. In a patient with chest pain — the finding of maximal
-ST segment depression in lead V2 and/or V3 and/or V4
-indicates posterior OMI — especially when the shape of
-such ST segment flattening/depression is consistent with
-a positive “Mirror” Test (See My Comment in
-the September 21, 2022 post).
-Today’s CASE is illustrative:
-Because today’s patient presented with “ILI” symptoms (ie, of
-an Influenza-Like Illness) — his chest tightness and diaphoresis
-was attributed to a viral illness. But all patients who present to an
-ED with chest discomfort have an ECG — and the initial ECG in
-today’s case (that I’ve reproduced and labeled in Figure-1) —
-is diagnostic of acute posterior OMI.
-Today’s patient is 84 years old — he has known severe coronary
-disease (prior CABG; multiple stents) — and he was awakened
-from sleep because of chest pressure, diaphoresis and light-
-headedness. Considering this history — any ECG abnormalities
-have to be assumed acute until proven otherwise.
-Considering this history — my “eye” was immediately drawn to the 2
-leads within the RED rectangles. The ST-T wave in lead III is
-“bulky”, coved, ever-so-slightly elevated, and with a hint of terminal
-T wave inversion. In support that this lead III finding is indicative
-of acute inferior OMI — is reciprocal ST depression in lead aVL.
-The 2 leads within
-the BLUE rectangles confirm associated posterior OMI — by the
-presence of ST segment straightening in lead V2 — and flattened
-ST depression in lead V3 (whereas normally — there should be
-slight, gradually upsloping ST elevation in these 2 leads). Especially
-abnormal are the peaked T waves in these 2 chest leads, with size
-of the T wave in lead V2 clearly disproportionate to QRS amplitude
-in V2.
-Other leads (ie, leads II and V6) also manifest T waves that look
-hyperacute — but despite the artifact — it is the ST-T waves in the 4
-leads within the colored rectangles that should indicate
-acute infero-postero OMI until proven otherwise.
- 6/12
-Figure-1: Comparison between the first 2 ECGs in today’s case. (To
-improve visualization — Iʼve digitized the original ECG
-using PMcardio).
-Additional Lessons to be Learned:
-Despite the presentation of new severe chest pressure in a high-risk
-patient — today’s initial ECG was not repeated for over 3
-hours. Especially when the initial tracing manifests ECG findings of
-potential concern — the initial ECG should be repeated within no
-more than 15-30 minutes. Additional serial ECGs should be
-obtained often until you can be confident of the diagnosis.
-As per Dr. McLaren — a initial negative Troponin does not rule
-out an acute event, as some time may be needed before Troponin
-values increase.
-Today’s patient became hypotensive following nitroglycerin.
-Especially when considering acute inferior infarction — NTG-
-induced hypotension should be a prompt to obtain right-
-sided leads to rule out significant RV involvement (See My
-Comment in the July 19, 2020 post).
-Comparison of serial ECGs is best accomplished by placing the 2
-tracings being looked at side-by-side. This is done in Figure-1 —
-and lead-by-lead comparison suggests some of the hyperacute T
-waves are now not as prominent in the repeat ECG (ie, ST
-segments have deflated some in leads II,III,aVF) — there is less ST
-depression in lead aVL — and there has been progression
-of reperfusion T waves (T wave inversion is now clearly seen in
-leads III and aVF — and the T wave in lead V2 is taller). If the
-patient’s symptoms were less in association with the development of
-these reperfusion T waves in ECG #2 — this would be further
-evidence of acute infero-postero OMI in need of prompt cath.
-BOTTOM Line: If, in a patient with new chest pain — the visual
-“picture” of ST-T wave flattening-depression in the 2 leads within the
- 7/12
-BLUE rectangle in Figure-1 is seen — Think acute posterior OMI
-until proven otherwise. There is no need for posterior leads to
-arrive at this conclusion.
-Jesse McLaren onMarch 19, 2025 NONSTEMI
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-Normal ACS care, When ACS care is very
-everything by the delayed, can be
-care could be much perfect. And how
-better. This post specific is Queen of
-explains everything. Hearts?
+Despite baseline artifact, findings were consistent with infero-posterior OMI:
+
+Sinus bradycardia
+
+Convex ST elevation in lead III
+
+Reciprocal ST depression in aVL
+
+Possible anterior ST depression (V2–V3) → posterior involvement
+
+Interpretation: Inferior + posterior occlusive event → inferoposterior OMI until proven otherwise.
+
+Key concept: STEMI criteria are insensitive for OMI; failure to meet STEMI thresholds does not mean “no cath”.
+
+Early Management Pitfalls
+Troponin error
+
+Initial hs-cTn negative (11 ng/L). This falsely reassured the team.
+
+Troponin can be normal in early OMI (especially <2 hours from onset).
+
+In the presence of a diagnostic ECG, an initial normal troponin is not actionable for ruling out occlusion.
+
+Nitroglycerin
+
+Two sprays of SL nitro did not improve pain but caused transient hypotension (SBP <90).
+
+Hypotension after nitro in suspected inferior MI raises concern for preload dependence (possible RV involvement).
+
+Right-sided leads may be considered clinically, but this does not change the need for cath when OMI is present.
+
+Objective Deterioration (Several Hours Later)
+
+Repeat troponin returned >600 ng/L.
+
+At this point, even without ECG interpretation skills:
+
+Persistent chest pain + elevated troponin = high-risk ACS needing urgent invasive strategy.
+
+Repeat ECG (11:19) — Reperfusion Pattern But Ongoing Danger
+
+Repeat ECG showed evidence of reperfusion:
+
+Less ST elevation inferiorly
+
+More T-wave inversion in inferior leads
+
+Loss of T-wave bulk in V4–V6
+
+But: patient still had pain → reperfusion ECG does not equal “safe” if symptoms persist.
+
+Posterior Leads (15-lead ECG at 12:10) — Not Required and Can Mislead
+
+A 15-lead ECG was obtained because posterior MI was suspected.
+
+Core message from the case:
+
+Posterior leads are not necessary to diagnose posterior OMI.
+
+Any ST depression in V1–V3 in chest pain is posterior OMI until proven otherwise.
+
+Posterior leads can be falsely negative due to reduced amplitudes through back musculature.
+
+In this case, V9 was misplaced, further reducing reliability.
+
+Best posterior OMI clue: Maximal ST depression in V2–V3 (very high specificity), plus mirror-test morphology.
+
+Treatment and Outcome
+
+Treated under “NSTEMI protocol” (ASA, enoxaparin, ticagrelor)
+
+Transferred to cardiac center
+
+Still had persistent 4/10 chest pressure, but appeared comfortable
+
+Underwent PCI: 100% RCA occlusion stented
+
+LCx open but small, supplied little posterior wall
+
+Receiving cardiologist described case as “challenging”
+
+Key ECG Pattern (Posterior OMI)
+
+This case demonstrates classic pattern:
+
+Inferior STE with reciprocal STD in aVL (may be subtle, not meeting STEMI criteria)
+
+ST depression maximal in V2–V3 → posterior OMI (high specificity)
+
+Increasing anterior R-wave progression can support posterior infarction
+
+Inferior T-wave inversion can indicate reperfusion or ongoing ischemia depending on symptoms
+
+System-Level Learning Points
+
+High pretest probability matters
+Elderly + known CAD + ischemic symptoms waking from sleep → assume acute coronary pathology.
+
+Do not anchor on ILI
+Viral illness does not exclude MI and can precipitate plaque rupture.
+
+Do not wait for troponin when ECG is diagnostic
+Early troponin can be negative even in true occlusion.
+
+Posterior leads can be falsely negative and can be placed wrong
+Posterior OMI is best diagnosed using V1–V3 mirror findings.
+
+“NSTEMI” label can delay life-saving cath
+Many NSTEMI patients have an occluded artery; delays lead to preventable myocardial loss.
+
+Bottom Line (One Sentence)
+
+In a high-risk chest pain patient, convex STE in III with reciprocal STD in aVL plus maximal STD in V2–V3 is infero-posterior OMI until proven otherwise — and requires emergent cath regardless of initial troponin or symptom attribution to ILI.

@@ -1,43 +1,31 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "bradycardia - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:49.569373",
-  "file_size_bytes": 9401871,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/bradycardia - Dr. Smith’s ECG Blog.pdf"
-}
+Troponins less than 3.
 
-=== СОДЕРЖАНИЕ ===
+Impression
 
-Steve Smith onMay 19, 2025
-bradycardia
- 
-trops lesss than 3
-Impression:
-The left ventricular ejection fraction appears: Grossly
-preserved
-No pericardial effusion identified. 
- 1/7
-RV Dilation present/absent: No significant right ventricular
-dilation
-appreciated
-18m w/o significant history
-Several months of intermittent CP
-Lasts up to a few hours at a time, extends to left arm
-No other associated symptoms
-Worse than usual today
-EKG w/ Mobitz I
-Troponin negative
-## Work-up pending:
-Cardiology recs
-## Expected disposition:
-Pending cardiology recs
-Steve Smith onMay 19, 2025
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-What does this ECG Is this STEMI or
-represent in the setting NSTEMI? Neither. It is
-of OMI.
-troponins?
+The left ventricular ejection fraction appears grossly preserved.
+No pericardial effusion identified.
+No significant right ventricular dilation appreciated.
+
+Clinical Presentation
+
+18-year-old male without significant past medical history.
+
+Several months of intermittent chest pain, lasting up to a few hours at a time, radiating to the left arm.
+
+No other associated symptoms.
+
+Chest pain worse than usual today.
+
+ECG Findings
+
+ECG shows bradycardia with Mobitz I (Wenckebach) atrioventricular block.
+
+Troponin negative.
+
+Workup
+
+Cardiology recommendations pending.
+
+Disposition
+
+Pending cardiology recommendations.

@@ -1,55 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "myocardial-perfusion-scintigraphy-for-the-diagnosis-and-management-of-angina-and-myocardial-infarction-pdf-2294756838853.pdf",
-  "converted_date": "2026-01-31T14:47:22.388477",
-  "file_size_bytes": 153570,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/myocardial-perfusion-scintigraphy-for-the-diagnosis-and-management-of-angina-and-myocardial-infarction-pdf-2294756838853.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Myocardial perfusion
-scintigraphy for the
-diagnosis and management
-of angina and myocardial
-infarction
-Technology appraisal guidance
-Published: 26 November 2003
-Last updated: 1 July 2011
-www.nice.org.uk/guidance/ta73
-
 Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
-
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
-This guidance is partially replaced by CG95 and CG126.
+myocardial infarction
 1 Recommendations
 This appraisal covers the use of myocardial perfusion scintigraphy (MPS) using single
 photon emission computed tomography (SPECT) in the diagnosis and management of
@@ -65,8 +15,7 @@ myocardial infarction or reperfusion interventions.
 This recommendation has been partially updated by recommendations 1.5.2 and
 1.5.12 in NICE's guideline on stable angina.
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 2 Clinical need and practice
 2.1 Coronary artery disease (CAD) is the commonest cause of death in England and
 Wales. It is characterised by the development of lipid-laden coronary arterial
@@ -99,8 +48,7 @@ Assessment Report (see Appendix B) at £1.7 billion; the total annual cost was
 around £7 billion when informal care and productivity losses were included. More
 than 378,000 inpatients were treated for CAD in NHS hospitals in 2000 to 2001.
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 Approximately 28,500 CABG and 39,000 PCI procedures are performed each
 year in the UK.
 2.6 The individual likelihood for CAD can be estimated from age, gender, ethnic
@@ -126,8 +74,7 @@ to 0.2%).
 scintigraphy (MPS) and echocardiography. Imaging techniques such as magnetic
 resonance imaging and positron emission tomography are used less frequently.
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 3 The technology
 3.1 MPS involves the intravenous injection of small amounts of a radioactive tracer to
 evaluate perfusion of living cardiac muscle via the coronary arteries after stress
@@ -160,15 +107,13 @@ measured at rest with ECG-gated SPECT.
 usually related to exercise or pharmacological stimulation given as part of the
 stress component in the procedure, with an associated mortality of around 0.01%
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 and a morbidity of around 0.02%. The radiation exposure from SPECT is similar to
 the exposure from uncomplicated CA.
 3.6 The cost of a SPECT scan is estimated to be around £265, whereas the costs for
 sECG and CA are £104 and £1,103, respectively (2002 NHS reference costs).
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 4 Evidence and interpretation
 The Appraisal Committee considered evidence from a number of sources.
 4.1 Clinical effectiveness
@@ -197,8 +142,7 @@ Assessment Report analysis. There was considerable variation in study size,
 quality and design, but weighted means for sensitivity and specificity were
 reported to be 86% and 74%, respectively. The manufacturer's submission quoted
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 1 publication with sensitivity and specificity for SPECT reported as 91% and 89%,
 respectively, and the American College of Cardiologists and American Heart
 Association Task Force guideline, with average sensitivity and specificity
@@ -229,8 +173,7 @@ follow-up.
 predictor of cardiac death, the relative risk or odds ratios were calculated
 depending on study design. In all studies an abnormal SPECT scan was described
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 as an independent, main or statistically significant predictor of cardiac death. In 4
 studies, with patient numbers ranging from 176 to 947, the relative risk ranged
 between 1.1 and 17.6. In 2 studies, with patient numbers of 248 and 1,182, the
@@ -264,8 +207,7 @@ reviews of a larger number of papers and, because of differences in the inclusio
 criteria, there was little overlap between the studies included in each of the 3
 reviews. Despite the differences in the evidence base of the 3 reviews, similar
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 conclusions were drawn.
 4.2 Cost effectiveness
 4.2.1 The Assessment Group, the manufacturer and the professional group reviewed
@@ -296,8 +238,7 @@ CA if SPECT was positive or non-diagnostic (sECG-SPECT-CA)
 • sECG, followed by CA if sECG was positive or non-diagnostic (sECG-CA)
 • SPECT, followed by CA if SPECT was positive or non-diagnostic (SPECT-CA)
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 • direct CA (CA).
 4.2.5 The results were presented as incremental cost per true-positive diagnosed, per
 accurate diagnosis, per life year gained and per quality-adjusted life year (QALY)
@@ -328,8 +269,7 @@ the direct CA from SPECT-CA involved a modest extra cost per additional QALY
 gained (£942 in the Assessment Report and £4,482 in the manufacturer's
 submission).
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 4.2.9 Several sensitivity analyses showed that the results varied considerably
 depending on the sensitivity or specificity values entered for SPECT and sECG.
 When the impact of the additional independent information provided by SPECT
@@ -362,8 +302,7 @@ important for the establishment of prognosis and management.
 4.3.3 The Committee heard from the clinical experts that SPECT is of value at all levels
 of likelihood for CAD, because it provides highly accurate diagnostic and
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 prognostic information. The experts indicated that, if SPECT and sECG were
 equally accessible in the NHS, there would be a case for the preferential use of
 SPECT in certain groups of patients. However, because of the currently limited
@@ -398,8 +337,7 @@ Committee also recognised the significance of the disutility associated with CA,
 which would favour SPECT and had been omitted from the economic models
 reviewed. It concluded that full consideration of these aspects is likely to improve
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 the cost effectiveness of SPECT.
 4.3.8 The Committee was advised by the experts that SPECT scanning may be
 particularly useful as an initial diagnostic tool in people for whom sECG poses
@@ -418,16 +356,14 @@ Committee therefore concluded that the increased use of SPECT should initially
 be targeted at those groups for whom it provides the greatest benefit in terms of
 cost effectiveness, as expressed in section 1.
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 5 Recommendations for further research
 5.1 Further research is recommended in patients with established CAD regarding the
 value of SPECT relative to other tests of cardiac function such as
 echocardiography, magnetic resonance imaging and positron emission
 tomography in order to inform future assessment of the needs of the NHS.
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 6 Implications for the NHS
 6.1 According to the British Nuclear Cardiology Society survey, there were about
 1,200 SPECT scans per million population in the UK in 2000. The average waiting
@@ -447,8 +383,7 @@ over several years. Once a steady state is achieved, based on the provision of
 4,000 SPECT tests per million population per year, the estimated annual revenue
 cost would be in the order of £27 million.
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 7 Implementation and audit
 7.1 NHS hospitals and all clinicians who care for people with CAD should review
 current diagnostic options available to take account of the guidance set out in
@@ -472,8 +407,7 @@ following myocardial infarction or reperfusion interventions (CABG or PCI).
 for the management of CAD based on the national standards, including standards
 in the National Service Framework.
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 8 Appraisal Committee members and
 NICE project team
 Appraisal Committee members
@@ -501,8 +435,7 @@ Professor of Clinical Pharmacology, University of Leicester
 Dr Sheila Bird
 MRC Biostatistics Unit, Cambridge
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 Professor Rosamund Bryar
 Professor of Community and Primary Care Nursing, St Bartholomew's School of Nursing
 and Midwifery, London
@@ -531,8 +464,7 @@ Consultant Surgeon, Lancashire Teaching Hospitals NHS Trust, Chorley
 Judith Paget
 Chief Executive, Caerphilly Local Health Board, Torfaen
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 Mrs Kathryn Roberts
 Nurse Practitioner, Hyde, Cheshire
 Ms Anne Smith
@@ -553,8 +485,7 @@ Technical Leads
 Kathleen Dalby
 Project Manager
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 9 Sources of evidence considered by the
 Committee
 The following documentation and opinions were made available to the Committee:
@@ -581,8 +512,7 @@ Companies or sponsors:
 • GE Medical Systems
 • Philips Medical Systems
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 • Siemens
 • Tyco Healthcare UK Ltd
 Professional or specialist, and patient or carer groups:
@@ -607,8 +537,7 @@ Commentator organisations (without the right of appeal):
 • Institute of Physics and Engineering in Medicine
 • NHS Confederation
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 • NHS Information Authority
 • NHS Purchasing and Supply Agency
 • NHS Quality Improvement Scotland
@@ -625,8 +554,7 @@ Medicine, Royal Brompton Hospital, London
 • Professor SR Underwood, Professor of Cardiac Imaging, Royal Brompton Hospital,
 London
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 10 Detail on criteria for audit of the use of
 myocardial perfusion scintigraphy for the
 diagnosis and management of angina and
@@ -640,8 +568,7 @@ disease (CAD) and people who have CAD and who remain symptomatic following
 myocardial infarction, CABG or PCI, for a reasonable period for audit, for example, 3 or 6
 months.
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 Measures that could be used as a basis for audit
 Table 1 The measure that could be used in an audit of MPS using SPECT for people
 referred for investigation of CAD
@@ -675,8 +602,7 @@ likelihood of CAD and cholesterol levels or a resting
 of future cardiac electrocardiogram).
 events
 
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
+ 
 Table 2 The measure that could be used in an audit of MPS using SPECT for people with
 established CAD who remain symptomatic following myocardial infarction, CABG or PCI
 Criterion Standard Exception Definition of terms
@@ -704,10 +630,3 @@ Clinicians should review the findings of measurement, identify whether practice 
 improved, agree on a plan to achieve any desired improvement and repeat the
 measurement of actual practice to confirm that the desired improvement is being
 achieved.
-
-Myocardial perfusion scintigraphy for the diagnosis and management of angina and
-myocardial infarction (TA73)
-Update information
-July 2011: This guidance has been partially updated by NICE's guideline on recent-onset
-chest pain of suspected cardiac origin and NICE's guideline on stable angina.
-ISBN: 978-1-4731-6981-4

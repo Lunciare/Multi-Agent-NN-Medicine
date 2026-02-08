@@ -1,44 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "cardiac-contractility-modulation-device-implantation-for-heart-failure-pdf-1899874165721029.pdf",
-  "converted_date": "2026-01-31T14:51:18.049781",
-  "file_size_bytes": 59231,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/cardiac-contractility-modulation-device-implantation-for-heart-failure-pdf-1899874165721029.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Cardiac contractility modulation
-device implantation for heart
-failure
-Interventional procedures guidance
-Published: 26 June 2019
-www.nice.org.uk/guidance/ipg655
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-
-Cardiac contractility modulation device implantation for heart failure (IPG655)
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+ 
 1 Recommendations
 1.1 The evidence on cardiac contractility modulation device implantation for
 heart failure raises no major safety concerns. However, the evidence on
@@ -61,7 +21,7 @@ breathlessness) and swelling of the legs. Other symptoms include
 reduced ability to exercise, fatigue and malaise. Heart failure can be
 caused by structural or functional abnormalities of the heart.
 
-Cardiac contractility modulation device implantation for heart failure (IPG655)
+ 
 Current treatments
 2.2 NICE's guideline describes the diagnosis and management of chronic
 heart failure in adults. Treatments for heart failure include drugs to
@@ -91,7 +51,7 @@ The evidence
 3.1 To inform the committee, NICE did a rapid review of the published
 literature on the efficacy and safety of this procedure. This comprised a
 
-Cardiac contractility modulation device implantation for heart failure (IPG655)
+ 
 comprehensive literature search and detailed review of the evidence
 from 8 sources, which was discussed by the committee. The evidence
 included 1 systematic review, 3 randomised controlled trials (2 of which
@@ -113,6 +73,3 @@ some of the studies.
 severe heart failure, and this underpinned their recommendation for more
 research to identify the group of patients most likely to benefit from this
 procedure.
-ISBN: 978-1-4731-3440-9
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

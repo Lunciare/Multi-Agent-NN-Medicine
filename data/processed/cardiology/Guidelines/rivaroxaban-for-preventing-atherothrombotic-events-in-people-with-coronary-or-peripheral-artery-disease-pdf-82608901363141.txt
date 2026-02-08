@@ -1,52 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "rivaroxaban-for-preventing-atherothrombotic-events-in-people-with-coronary-or-peripheral-artery-disease-pdf-82608901363141.pdf",
-  "converted_date": "2026-01-31T14:50:01.752045",
-  "file_size_bytes": 107756,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/rivaroxaban-for-preventing-atherothrombotic-events-in-people-with-coronary-or-peripheral-artery-disease-pdf-82608901363141.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Rivaroxaban for preventing
-atherothrombotic events in
-people with coronary or
-peripheral artery disease
-Technology appraisal guidance
-Published: 17 October 2019
-www.nice.org.uk/guidance/ta607
-
 Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
-
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
+artery disease
 1 Recommendations
 1.1 Rivaroxaban plus aspirin is recommended within its marketing authorisation, as an
 option for preventing atherothrombotic events in adults with coronary artery
@@ -74,8 +27,7 @@ Why the committee made these recommendations
 People with chronic coronary artery disease or symptomatic peripheral artery disease can
 have atherothrombotic events such as myocardial infarction and stroke.
 
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
+ 
 A clinical trial of people at high risk of ischaemic events shows that, compared with aspirin
 alone, rivaroxaban plus aspirin reduces the risk of having an ischaemic stroke, myocardial
 infarction or dying from cardiovascular disease. However, it increases the risk of bleeding.
@@ -90,8 +42,7 @@ use of NHS resources. Aspirin plus rivaroxaban is therefore recommended as a tre
 option for people at high risk of having atherothrombotic events, who are not identified as
 having an increased risk of bleeding.
 
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
+ 
 2 Information about rivaroxaban
 Marketing authorisation indication
 2.1 Rivaroxaban (Xarelto, Bayer), co-administered with aspirin, is indicated for 'the
@@ -105,8 +56,7 @@ Price
 2.3 The list price for 56 tablets of rivaroxaban 2.5 mg is £50.40 (company
 submission). The treatment period is indefinite.
 
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
+ 
 3 Committee discussion
 The appraisal committee considered evidence submitted by Bayer, a review of this
 submission by the evidence review group (ERG), and the technical report developed
@@ -135,8 +85,7 @@ Patients rely on clinicians to discuss with them the benefits and
 risks of treatment options
 3.1 The patient expert explained that people with coronary or peripheral artery
 
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
+ 
 disease have serious concerns about the risk of having events such as heart
 attack and stroke. They noted that coronary or peripheral artery disease is a
 challenging condition requiring significant lifestyle adjustments, including diet and
@@ -169,8 +118,7 @@ concluded that people with coronary artery disease or peripheral artery disease
 would welcome an additional treatment option with an acceptable benefit-risk
 ratio for the prevention of atherothrombotic events.
 
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
+ 
 Clinical evidence
 It is appropriate to consider the overall COMPASS population for
 decision making
@@ -206,8 +154,7 @@ decision making. However, the committee was aware that, within the overall
 eligible population, clinicians are likely to identify people at highest absolute risk
 of ischaemic events and offer rivaroxaban to those who are likely to have the
 
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
+ 
 highest potential absolute benefit. People at high risk of ischaemic events and no
 known increased bleeding risk will have the most favourable benefit−risk profile.
 The committee concluded that the efficacy results from the whole COMPASS
@@ -240,8 +187,7 @@ CI 1.40 to 2.05; p<0.001). The bleeds in the rivaroxaban plus aspirin group were
 mostly gastrointestinal, with non-significant differences for the other components
 of the primary safety outcome. The committee concluded that rivaroxaban plus
 
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
+ 
 aspirin increases the risk of major bleeding compared with aspirin alone.
 Rivaroxaban should only be used in people at high risk of
 ischaemic events defined by the inclusion criteria of COMPASS
@@ -272,8 +218,7 @@ technology appraisal guidance for the prevention of occlusive vascular events),
 but it is not a relevant comparator for the whole COMPASS population. This is
 because aspirin is the preferred treatment for secondary prevention of
 
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
+ 
 cardiovascular disease in people with stable coronary artery disease, and
 clopidogrel is only recommended when aspirin is unsuitable because of
 contraindication or hypersensitivity. The committee concluded that clopidogrel is
@@ -304,8 +249,7 @@ The company's economic model
 The model is appropriate for decision making
 3.9 The company modelled cost effectiveness using a Markov model with 5 states
 
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
+ 
 (event-free, non-fatal myocardial infarction, ischaemic stroke, intracranial
 haemorrhage and death). These were subdivided into acute event (0 to 3 months
 after an acute event), post-event (3 or more months after an acute event) and
@@ -328,8 +272,7 @@ aspirin is a cost-effective use of NHS resources in people who are at high risk 
 ischaemic events as defined by the inclusion criteria of COMPASS (see
 section 3.6).
 
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
+ 
 4 Implementation
 4.1 Section 7(6) of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -347,28 +290,3 @@ patient has coronary artery disease or symptomatic peripheral artery disease and
 the healthcare professional responsible for their care thinks that rivaroxaban plus
 aspirin is the right treatment, it should be available for use, in line with NICE's
 recommendations.
-
-Rivaroxaban for preventing atherothrombotic events in people with coronary or peripheral
-artery disease (TA607)
-5 Appraisal committee members and NICE
-project team
-Appraisal committee members
-The 4 technology appraisal committees are standing advisory committees of NICE. This
-topic was considered by committee A.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that appraisal.
-The minutes of each appraisal committee meeting, which include the names of the
-members who attended and their declarations of interests, are posted on the NICE
-website.
-NICE project team
-Each technology appraisal is assigned to a team consisting of 1 or more health technology
-analysts (who act as technical leads for the appraisal), a technical adviser and a project
-manager.
-Sana Khan
-Technical lead
-Rufaro Kausi
-Technical adviser
-Thomas Feist
-Project manager
-ISBN: 978-1-4731-3509-3

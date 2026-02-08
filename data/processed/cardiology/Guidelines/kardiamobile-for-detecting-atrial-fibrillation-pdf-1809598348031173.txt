@@ -1,49 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "kardiamobile-for-detecting-atrial-fibrillation-pdf-1809598348031173.pdf",
-  "converted_date": "2026-01-31T14:49:51.157949",
-  "file_size_bytes": 120340,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/kardiamobile-for-detecting-atrial-fibrillation-pdf-1809598348031173.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-KardiaMobile for detecting
-atrial fibrillation
-HealthTech guidance
-Published: 6 January 2022
-Last updated: 25 July 2023
-www.nice.org.uk/guidance/htg606
-
-KardiaMobile for detecting atrial fibrillation (HTG606)
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-KardiaMobile for detecting atrial fibrillation (HTG606)
-
-KardiaMobile for detecting atrial fibrillation (HTG606)
-This guidance replaces MIB232 and MTG64.
+KardiaMobile for detecting atrial fibrillation
 1 Recommendations
 1.1 KardiaMobile is recommended as an option for detecting atrial fibrillation (AF) for
 people with suspected paroxysmal AF, who present with symptoms such as
@@ -61,7 +16,7 @@ palpitations. KardiaMobile is cost saving because of a reduction in diagnostic c
 including the cost of the device. For more information on the cost impact to the NHS, see
 the NICE resource impact summary report.
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 2 The technology
 Technology
 2.1 KardiaMobile is a portable electrocardiogram (ECG) recorder for detecting atrial
@@ -88,7 +43,7 @@ Intended use
 abnormal heart rhythms. This guidance focuses on using KardiaMobile for
 detecting AF in adults referred for ECG monitoring. KardiaMobile would be
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 prescribed by a healthcare professional for people who are experiencing
 arrhythmia symptoms more than 24 hours apart. The healthcare professional will
 advise on the frequency and length of use. The instructions for use state that all
@@ -106,7 +61,7 @@ Costs
 Kardia app is free of cost.
 For more details, see the website for KardiaMobile.
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 3 Evidence
 Clinical evidence
 The main clinical evidence comprises 27 studies including
@@ -131,7 +86,7 @@ reverted back to sinus rhythm before discharge and used KardiaMobile to
 identify recurrence
 • people after stroke or transient ischaemic attack who were monitored using
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 KardiaMobile
 • mixed population including people with known or suspected AF.
 All published evidence is on the single-lead KardiaMobile device. For full
@@ -160,7 +115,7 @@ AF. All interpretations should be reviewed by healthcare professionals for clini
 decision making. It is expected that false positives and negatives are likely to be
 captured by the clinical reviews.
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 Evidence shows that using KardiaMobile reduces time to AF
 detection but there is no direct evidence for clinical outcomes
 after AF diagnosis
@@ -191,7 +146,7 @@ software updates are improving the classification algorithm, and the number of
 unclassified outputs is reducing. Also, around 0.6% to 1.9% of KardiaMobile
 outputs were unreadable. This often happens when an ECG trace has
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 interference and cannot be interpreted by the Kardia app; however, a proportion
 of these can be interpreted by a clinician.
 Cost evidence
@@ -218,7 +173,7 @@ using KardiaMobile could save between £320 and £380 per person over 5 years
 because of the cost of the technology, reductions in repeat testing, referrals to
 secondary care and stroke events.
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 For full details of the cost evidence, see section 9 of the assessment report in the
 supporting documentation.
 The company's cost model was updated to address the limitations
@@ -249,7 +204,7 @@ undiagnosed palpitations
 3.12 The EAC initially did a simple cost calculator to explore the expected costs of
 using KardiaMobile to detect and treat AF over a 1-year time horizon. It then went
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 on to develop a new cost model that better captured the clinical pathway of using
 KardiaMobile for detection and ongoing monitoring of AF, compared with Holter
 monitoring in the NHS. The additional analyses included people presenting with
@@ -261,7 +216,7 @@ per patient over 10 years when KardiaMobile was used for monitoring AF
 recurrence detection in a population at low risk of having a stroke
 (CHA2DS2-VAScC score of 1).
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 4 Committee discussion
 Clinical-effectiveness overview
 Evidence supports using KardiaMobile for improved detection of
@@ -290,7 +245,7 @@ device is commonly used in clinical practice to detect AF, and the use of the
 device provides heart rhythm from multiple angles, and it could have incremental
 benefits in some people to detect other arrhythmias when a good quality
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 electrocardiogram (ECG) trace is available. For AF detection, the committee and
 experts concluded that the single-lead device is suitable in most patients.
 Evidence on using KardiaMobile for people after AF is diagnosed
@@ -319,7 +274,7 @@ compatible mobile device. The committee concluded that KardiaMobile is a
 convenient device that people can use at home to monitor their heart rhythms.
 Patient selection will improve the care pathway and should be
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 guided by clinical judgement
 4.5 Patient selection is important and should be guided by clinical judgement. The
 clinical experts emphasised that devices need to be offered to people on an
@@ -351,7 +306,7 @@ and must stay still while taking an ECG recording
 provides a list of compatible smart devices. The clinical experts said that in their
 experience, most people have access to a smart device, and alternative
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 ambulatory monitors are offered if a person does not have a compatible device.
 The clinical experts also noted that KardiaMobile may not be suitable for people
 who cannot stay still or have problems holding the device; for example, people
@@ -382,7 +337,7 @@ accuracy for KardiaMobile, may be unlikely or may not fully reflect clinical
 practice. The committee concluded that the company's modified model was
 relevant to the decision problem, but still featured limitations, and considered the
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 EAC's additional cost modelling a more appropriate basis for its decision making.
 The EAC's additional cost modelling suggests that KardiaMobile is
 likely to be cost saving in people with suspected AF presenting
@@ -414,41 +369,7 @@ for AF recurrence is complex and varied widely because of patients'
 comorbidities and their medical and treatment history. In clinical practice, there is
 no clear care pathway for monitoring AF recurrence. The committee accepted the
 
-KardiaMobile for detecting atrial fibrillation (HTG606)
+ 
 limitations of the current model and concluded that more information is needed
 about the care pathway for AF recurrence monitoring and its associated resource
 use.
-
-KardiaMobile for detecting atrial fibrillation (HTG606)
-5 Committee members and NICE project
-team
-Committee members
-This topic was considered by NICE's medical technologies advisory committee, which is a
-standing advisory committee of NICE.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that evaluation.
-The minutes of the medical technologies advisory committee, which include the names of
-the members who attended and their declarations of interests, are posted on the NICE
-website.
-NICE project team
-Each medical technologies guidance topic is assigned to a team consisting of 1 or more
-technical analysts (who act as technical leads for the topic), a technical adviser and a
-project manager.
-YingYing Wang and Dionne Bowie
-Health technology assessment analysts
-Lizzy Latimer
-Health technology assessment adviser
-Victoria Fitton
-Project manager
-
-KardiaMobile for detecting atrial fibrillation (HTG606)
-Update information
-July 2023: This guidance was withdrawn between December 2022 and July 2023. During
-this time the supply of KardiaMobile to the NHS was paused while the company worked
-towards meeting the Digital Technology Assessment Criteria (DTAC). These criteria have
-now been met and accepted by NHS England and supply has resumed.
-Minor changes since publication
-December 2025: Medical technologies guidance 64 has been migrated to HealthTech
-guidance 606. The recommendations and accompanying content remain unchanged.
-ISBN: 978-1-4731-7547-1

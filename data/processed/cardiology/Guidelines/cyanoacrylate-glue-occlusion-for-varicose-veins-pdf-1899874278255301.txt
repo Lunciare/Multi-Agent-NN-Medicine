@@ -1,44 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "cyanoacrylate-glue-occlusion-for-varicose-veins-pdf-1899874278255301.pdf",
-  "converted_date": "2026-01-31T14:49:20.688999",
-  "file_size_bytes": 58286,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/cyanoacrylate-glue-occlusion-for-varicose-veins-pdf-1899874278255301.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Cyanoacrylate glue occlusion for
-varicose veins
-Interventional procedures guidance
-Published: 4 March 2020
-www.nice.org.uk/guidance/ipg670
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-
-Cyanoacrylate glue occlusion for varicose veins (IPG670)
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-This guidance replaces IPG526.
+Cyanoacrylate glue occlusion for varicose veins 
 1 Recommendations
 1.1 Evidence on the safety and efficacy of cyanoacrylate glue occlusion for
 varicose veins is adequate to support the use of this procedure provided
@@ -59,7 +19,7 @@ insufficiency may cause fatigue, heaviness, aching, throbbing, itching
 and cramps in the legs. Chronic venous insufficiency can lead to skin
 discoloration, inflammatory dermatitis and ulceration.
 
-Cyanoacrylate glue occlusion for varicose veins (IPG670)
+ 
 Current treatments
 2.2 NICE's guideline describes the diagnosis and management of varicose
 veins. Interventional treatment options include endothermal ablation
@@ -89,7 +49,7 @@ search and detailed review of the evidence from 14 sources, which was
 discussed by the committee. The evidence included 2 systematic
 reviews, 3 randomised controlled trials, 3 non-randomised comparative
 
-Cyanoacrylate glue occlusion for varicose veins (IPG670)
+ 
 studies, 4 case series and 2 case reports. It is presented in table 2 of the
 interventional procedures overview. Other relevant literature is in the
 appendix of the overview.
@@ -107,6 +67,3 @@ reactions was reported to be about 7% and granuloma formation was
 rare.
 3.6 The committee was informed that there are different products available
 for this procedure.
-ISBN: 978-1-4731-3686-1
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

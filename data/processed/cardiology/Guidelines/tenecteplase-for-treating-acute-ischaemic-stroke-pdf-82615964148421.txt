@@ -1,47 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "tenecteplase-for-treating-acute-ischaemic-stroke-pdf-82615964148421.pdf",
-  "converted_date": "2026-01-31T14:49:58.847501",
-  "file_size_bytes": 68568,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/tenecteplase-for-treating-acute-ischaemic-stroke-pdf-82615964148421.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Tenecteplase for treating
-acute ischaemic stroke
-Technology appraisal guidance
-Published: 24 July 2024
-www.nice.org.uk/guidance/ta990
-
-Tenecteplase for treating acute ischaemic stroke (TA990)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Tenecteplase for treating acute ischaemic stroke (TA990)
-
-Tenecteplase for treating acute ischaemic stroke (TA990)
+Tenecteplase for treating acute ischaemic stroke
 1 Recommendations
 1.1 Tenecteplase is recommended, within its marketing authorisation, as an option
 for the thrombolytic treatment of an acute ischaemic stroke in adults:
@@ -70,7 +27,7 @@ For all evidence, see the committee papers. To see what NICE did for alteplase, 
 consideration of the evidence section in NICE's technology appraisal guidance on
 alteplase for treating acute ischaemic stroke.
 
-Tenecteplase for treating acute ischaemic stroke (TA990)
+ 
 2 Information about tenecteplase
 Anticipated marketing authorisation indication
 2.1 Tenecteplase (Metalyse, Boehringer Ingelheim) is indicated 'in adults for the
@@ -85,7 +42,7 @@ submission).
 2.4 Costs may vary in different settings because of negotiated procurement
 discounts.
 
-Tenecteplase for treating acute ischaemic stroke (TA990)
+ 
 3 Implementation
 3.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -105,31 +62,3 @@ available within the period set out in the paragraphs above. This means that, if
 patient has acute ischaemic stroke and the healthcare professional responsible
 for their care thinks that tenecteplase is the right treatment, it should be available
 for use, in line with NICE's recommendations.
-
-Tenecteplase for treating acute ischaemic stroke (TA990)
-4 Evaluation committee members and
-NICE project team
-Evaluation committee members
-The 4 technology appraisal committees are standing advisory committees of NICE. This
-topic was considered by the lead team of the highly specialised technologies evaluation
-committee, which includes the chair and vice chair.
-Committee members are asked to declare any interests in the technology being evaluated.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that evaluation.
-Chair
-Paul Arundel
-Chair, highly specialised technologies evaluation committee
-Iolo Doull
-Vice Chair, highly specialised technologies evaluation committee
-NICE project team
-Each evaluation is assigned to a team consisting of 1 or more health technology analysts
-(who act as technical leads for the evaluation), a technical adviser and a project manager.
-Summaya Mohammad
-Technical lead
-Caron Jones
-Technical adviser
-Leena Issa
-Project manager
-
-Tenecteplase for treating acute ischaemic stroke (TA990)
-ISBN: 978-1-4731-6269-3

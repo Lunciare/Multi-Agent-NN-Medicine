@@ -1,47 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "ivabradine-for-treating-chronic-heart-failure-pdf-82600557030853.pdf",
-  "converted_date": "2026-01-31T14:49:26.818068",
-  "file_size_bytes": 204668,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/ivabradine-for-treating-chronic-heart-failure-pdf-82600557030853.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Ivabradine for treating
-chronic heart failure
-Technology appraisal guidance
-Published: 28 November 2012
-www.nice.org.uk/guidance/ta267
-
-Ivabradine for treating chronic heart failure (TA267)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Ivabradine for treating chronic heart failure (TA267)
-
-Ivabradine for treating chronic heart failure (TA267)
+Ivabradine for treating chronic heart failure
 1 Recommendations
 1.1 Ivabradine is recommended as an option for treating chronic heart failure for
 people:
@@ -62,7 +19,7 @@ multidisciplinary heart failure team. Dose titration and monitoring should be
 carried out by a heart failure specialist, or in primary care by either a GP with a
 special interest in heart failure or a heart failure specialist nurse.
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 2 The technology
 2.1 Ivabradine (Procoralan, Servier Laboratories) is a heart-rate-lowering agent that
 selectively and specifically inhibits the cardiac pacemaker If current, which
@@ -88,7 +45,7 @@ proportion of patients using 2.5 mg (7%) and either 5 mg or 7.5 mg (93%) in the
 SHIFT study (see section 3.1). Costs may vary in different settings because of
 negotiated procurement discounts.
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 3 The manufacturer's submission
 The appraisal committee considered evidence submitted by the manufacturer of
 ivabradine and a review of this submission by the evidence review group (ERG).
@@ -122,7 +79,7 @@ The mean age was 60.4 years, 76% of the patients were men and mostly white.
 Mean heart rate was 79.9 bpm and mean left ventricular ejection fraction was
 29%. Heart failure was ischaemic in 68% of the patients and patients were equally
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 distributed between NYHA class 2, 3 or 4. Alcohol consumption and smoking
 status were also similar between the trial groups, with less than 20% of the
 patients being current smokers in both groups. The background therapies were
@@ -158,7 +115,7 @@ worsening heart failure. This was carried out using a survival analysis based on
 time-to-first event estimated by the Kaplan–Meier method. Secondary and other
 efficacy outcomes included mortality, hospital admission, change in heart rate,
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 change in NYHA class, change in global assessment of heart failure symptoms
 and efficacy in patients aged 70 years or older (post hoc analysis in the main trial
 population).
@@ -190,7 +147,7 @@ compared with placebo for the 5 categories of beta-blocker intake were:
 • HR 0.71; 95% CI 0.55 to 0.93, p=0.012 (no beta-blocker)
 • HR 0.74; 95% CI 0.59 to 0.92, p=0.007 (less than 25% of target dose)
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 • HR 0.81; 95% CI 0.68 to 0.98, p=0.029 (25% or more but less than 50% of
 target dose)
 • HR 0.88; 95% CI 0.72 to 1.07, p=0.193 (50% or more but less than 100% of
@@ -221,7 +178,7 @@ outcomes in the ivabradine group compared with placebo as follows:
 • cardiovascular death (HR 0.83; 95% CI 0.71 to 0.97, p=0.0166)
 • heart failure death (HR 0.61; 95% CI 0.46 to 0.81, p=0.0006)
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 • all-cause death (HR 0.83; 95% CI 0.72 to 0.96, p=0.0109).
 Results similarly favoured ivabradine compared with placebo for:
 • hospital admission for cardiovascular problems (HR 0.79; 95% CI 0.71 to 0.88,
@@ -254,7 +211,7 @@ during the whole study.
 3.14 A mixed regression model was used to estimate quality of life using EQ-5D index
 scores with UK population tariff values. This showed that quality of life improved
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 in the ivabradine group for the population covered by the marketing
 authorisation. The KCCQ disease-specific measure was also used and it showed
 a statistically significant difference of 2.6 (95% CI 0.7 to 4.5, p=0.008) for
@@ -287,7 +244,7 @@ bradycardia and atrial fibrillation, and follow-up data on the reduction in hear
 rate at various time points for the population covered by the marketing
 authorisation.
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 Evidence review group comments – population covered by the
 marketing authorisation
 3.17 The ERG stated that the literature search conducted by the manufacturer was
@@ -323,7 +280,7 @@ recommended target dose of beta-blocker, and 55.4% of the trial population
 covered by the marketing authorisation were treated with 50% or more of the
 recommended dose of beta-blocker despite the recommendations in the SHIFT
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 protocol. It was concerned that the patients who were not treated with the target
 dose of beta-blocker may not have been optimally treated. The ERG also noted
 the low use of cardiac devices in SHIFT and considered that this could have
@@ -359,7 +316,7 @@ more and who are receiving at least 25% of beta-blockers. The ERG also explored
 the efficacy of ivabradine according to NYHA class and in patients aged 70 years
 or older. It noted that the analysis in the NYHA class 4 subgroup was based on
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 small numbers, creating uncertainty about the benefit of ivabradine observed in
 this subgroup. Because the input data used in the exploratory analyses were
 marked as academic-in-confidence by the manufacturer, the results have also
@@ -394,7 +351,7 @@ marketing authorisation. This was to avoid breaking randomisation and reducing
 the predictive power of the risk equations because of smaller sample size.
 However, the risk equations for mortality, hospital admission and quality of life
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 were adjusted for baseline heart rate to predict estimates for the population
 covered by the marketing authorisation with a heart rate of 75 bpm or more.
 3.25 The manufacturer estimated the risk of non-cardiovascular death based on age-
@@ -431,7 +388,7 @@ period, the model assumed that the proportions remained fixed after the trial
 based on the last observation in the trial at 29 months (although the absolute
 numbers in each category were expected to vary according to the number of
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 patients alive).
 3.27 The rate of heart failure, cardiovascular and all-cause hospital admission per
 person month was estimated using a Poisson regression model based on the
@@ -467,7 +424,7 @@ non-elective NHS reference cost data.
 which health-related quality of life was captured with the EQ-5D questionnaire.
 EQ-5D index scores were calculated using UK population tariff values and then
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 analysed using a mixed regression model. Quality of life was modelled to reflect
 patients' baseline characteristics, severity of the disease over time by NYHA
 class, rate of hospital admission (which includes serious adverse events) and
@@ -504,7 +461,7 @@ However, additional costs were included for ivabradine therapy titration
 monthly cost in the ivabradine group from £52 to £202 for the first month.
 3.31 The hospital admission costs used in the model were estimated using the NHS
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 reference costs for heart failure admissions (general ward: £2,308 and cardiac
 ward: £3,295), cardiovascular admissions (general ward: £1,942 and cardiac
 ward: £1,730) and non-cardiovascular admissions (general ward: £2,644). It was
@@ -540,7 +497,7 @@ standard care would have a more than 95% chance of being cost effective
 compared with standard care alone if the maximum acceptable ICER was
 £20,000 per QALY gained.
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 3.35 The manufacturer carried out different scenario analyses to manage uncertainties
 about some of the assumptions in the base-case model. The scenario analyses
 explored the effect on the ICER of: varying the treatment duration of ivabradine;
@@ -576,7 +533,7 @@ generated for this subgroup was £8,735 per QALY gained, and the ICER for a UK
 chronic heart failure patient group taking the target dose of beta-blockers was
 £9,185 per QALY gained.
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 Evidence review group comments
 3.37 The ERG was satisfied with the manufacturer's modelling approach, which was
 transparent, used patient-level data and was consistent with other published
@@ -612,7 +569,7 @@ associated with hospital admission was likely to have captured any serious
 impact of adverse events on quality of life because hospital admission would be
 the main consequence of serious adverse events. The ERG noted that the impact
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 of age adjustment for health-related quality of life was minimal (it increased the
 ICER by £216 per QALY gained). Therefore, it accepted the exclusion of age
 adjustment from the base-case analysis because of the time needed to re-run
@@ -648,7 +605,7 @@ analyses sufficiently addressed any areas of uncertainty.
 3.42 Full details of all the evidence are in the manufacturer's submission and the ERG
 report.
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 4 Consideration of the evidence
 4.1 The appraisal committee reviewed the data available on the clinical and cost
 effectiveness of ivabradine, having considered evidence on the nature of chronic
@@ -680,7 +637,7 @@ authorisation in SHIFT was younger, included a higher proportion of men and
 people with more severe chronic heart failure than the typical chronic heart
 failure population in the UK. It also noted that only a few people from the UK were
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 included in the trial and the use of cardiac devices in the trial was low. The clinical
 specialists and the ERG indicated that the differences in age and severity of
 chronic heart failure may be caused by patient recruitment from specialist heart
@@ -718,7 +675,7 @@ conducted and there was it was plausible biologically that a statistically
 significant mortality benefit will be observed in the subgroup of people with a
 baseline resting heart rate of 75 bpm or more, which reflects the marketing
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 authorisation of ivabradine. However, they were aware the evidence presented
 should be interpreted with a level of caution because the subgroup was identified
 post hoc.
@@ -755,7 +712,7 @@ the comments from the clinical specialists that phosphenes are recognised
 adverse effects of ivabradine, which usually resolve in most patients during
 treatment. The clinical specialists also stated that ivabradine appeared to be
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 much simpler and safer to use compared with most heart failure drugs. The
 committee was concerned that an unusually high proportion of people in the
 population covered by the marketing authorisation who received a beta-blocker
@@ -792,7 +749,7 @@ the severity of their heart failure and that ivabradine is contraindicated in
 unstable heart failure. The committee also heard from the clinical specialists that
 the benefit observed in this subgroup of people would be expected because they
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 are the population with the greatest risk of cardiovascular mortality. However, the
 committee noted that the analysis in this subgroup of people with NYHA class 4
 heart failure was based on small numbers, which limits the robustness of the
@@ -829,7 +786,7 @@ meant in clinical practice. It heard from clinical specialists that it can take 
 months to appropriately titrate beta-blockers to the optimal dose for a patient.
 The committee was aware that to optimise and ensure adherence to beta-blocker
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 therapy, continuous monitoring and education and support of the patient by
 members of the heart failure multidisciplinary team are needed. The committee
 also noted comments from consultees and commentators that there have been
@@ -866,7 +823,7 @@ indicated in ivabradine's marketing authorisation. The committee was aware that
 ivabradine is contraindicated in people whose heart rate is dependent on a
 pacemaker. The committee recognised that there was some uncertainty about
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 the appropriate choice of treatment when people are eligible for both ivabradine
 and cardiac resynchronisation therapy, and concluded that the decision will likely
 be based on the judgement of the treating clinician.
@@ -903,7 +860,7 @@ previous guideline on chronic heart failure (now replaced by NICE's guideline on
 chronic heart failure in adults) defined a specialist as a physician with a
 subspecialty interest in the management of heart failure and who leads a
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 specialist multidisciplinary heart failure team of professionals with appropriate
 competencies from primary and secondary care. The committee concluded that
 ivabradine should be initiated by a heart failure specialist (in line with the NICE
@@ -937,7 +894,7 @@ concluded that the manufacturer's model was robust and the assumptions were
 realistic and conservative.
 4.17 The committee considered the uncertainty around the benefit of ivabradine on
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 cardiovascular mortality given that the ICER ranged between approximately
 £5,600 and £40,600 per QALY gained when the risk of cardiovascular mortality
 was varied using the 95% confidence interval around the mean from the trial
@@ -975,7 +932,7 @@ effectiveness of ivabradine plus standard care compared with standard care
 alone. It noted that ivabradine plus standard care was more effective and cost
 more than standard care. Additionally, it noted that ivabradine was still accruing
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 more QALYs when the confidence interval for the hazard ratio for mortality
 crossed 1 and favoured standard care alone in the model, which suggested that
 ivabradine has a large impact in reducing hospital admissions. The committee
@@ -1012,7 +969,7 @@ recommendations affected access to treatment by this group. The committee
 also noted that older people and women were under-represented in SHIFT. But it
 considered that the recommendation for ivabradine was not based on sex or age,
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 does not vary according to the sex or age of the patient, and that all patients
 would benefit from ivabradine. The committee considered that these were not
 equality issues under the legislation. The committee therefore concluded that its
@@ -1036,7 +993,7 @@ marketing authorisation. The committee therefore concluded that ivabradine
 could be considered a cost-effective use of NHS resources for treating chronic
 heart failure in people covered by the marketing authorisation.
 
-Ivabradine for treating chronic heart failure (TA267)
+ 
 5 Implementation
 5.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -1053,169 +1010,3 @@ available within the period set out in the paragraphs above. This means that, if
 patient has chronic heart failure and the healthcare professional responsible for
 their care thinks that ivabradine is the right treatment, it should be available for
 use, in line with NICE's recommendations.
-
-Ivabradine for treating chronic heart failure (TA267)
-6 Appraisal committee members, and
-NICE project team
-Appraisal committee members
-The appraisal committees are standing advisory committees of NICE. Members are
-appointed for a 3-year term. A list of the committee members who took part in the
-discussions for this appraisal appears below. There are 4 appraisal committees, each with
-a chair and vice chair. Each appraisal committee meets once a month, except in December
-when there are no meetings. Each committee considers its own list of technologies, and
-ongoing topics are not moved between committees.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that appraisal.
-The minutes of each appraisal committee meeting, which include the names of the
-members who attended and their declarations of interests, are posted on the NICE
-website.
-Professor Andrew Stevens
-Chair of Appraisal Committee C, Professor of Public Health, University of Birmingham
-Professor Gary McVeigh
-Vice Chair of Appraisal Committee C, Professor of Cardiovascular Medicine, Queens
-University Belfast and Consultant Physician, Belfast City Hospital
-Dr David Black
-Director of Public Health, Derbyshire County Primary Care Trust
-Dr Daniele Bryden
-Consultant in Intensive Care Medicine and Anaesthesia, Sheffield Teaching Hospitals NHS
-Trust
-Dr Andrew Burnett
-
-Ivabradine for treating chronic heart failure (TA267)
-Director for Health Improvement and Medical Director, NHS Barnet, London
-David Chandler
-Lay member
-Dr Mary Cooke
-Lecturer, School of Nursing, Midwifery and Social Work, University of Manchester
-Dr Chris Cooper
-General Practitioner, St John's Way Medical Centre, London
-Professor Peter Crome
-Consultant Geriatrician and Professor of Geriatric Medicine, Keele University
-Dr Maria Dyban
-General Practitioner, Kings Road Surgery, Glasgow
-Professor Rachel A Elliott
-Lord Trent Professor of Medicines and Health, University of Nottingham
-Dr Greg Fell
-Consultant in Public Health, Bradford and Airedale Primary Care Trust
-Dr Wasim Hanif
-Consultant Physician and Honorary Senior Lecturer, University Hospital Birmingham
-Dr Alan Haycox
-Reader in Health Economics, University of Liverpool Management School
-Professor Cathy Jackson
-Professor of Primary Care Medicine, University of St Andrews
-Dr Peter Jackson
-Clinical Pharmacologist, University of Sheffield
-Dr Janice Kohler
-Senior Lecturer and Consultant in Paediatric Oncology, Southampton University Hospital
-Trust
-
-Ivabradine for treating chronic heart failure (TA267)
-Ms Emily Lam
-Lay member
-Dr Grant Maclaine
-Director, Health Economics and Outcomes Research, BD, Oxford
-Henry Marsh
-Consultant Neurosurgeon, St George's Hospital, London
-Professor Eugene Milne
-Deputy Regional Director of Public Health, North East Strategic Health Authority,
-Newcastle upon Tyne
-Professor Stephen O'Brien
-Professor of Haematology, Newcastle University
-Dr Anna O'Neill
-Deputy Head of Nursing and Healthcare School and Senior Clinical University Teacher,
-University of Glasgow
-Professor Katherine Payne
-Professor of Health Economics, University of Manchester
-Dr Martin Price
-Head of Outcomes Research, Janssen-Cilag, Buckinghamshire
-Dr Peter Selby
-Consultant Physician, Central Manchester University Hospitals NHS Foundation Trust
-Alan Rigby
-Senior Lecturer and Chartered Statistician, University of Hull
-Dr Surinder Sethi
-Consultant in Public Health Medicine, North West Specialised Services Commissioning
-Team, Warrington
-Dr John Stevens
-Lecturer in Bayesian Statistics in Health Economics, School of Health and Related
-
-Ivabradine for treating chronic heart failure (TA267)
-Research, Sheffield
-Professor Matt Stevenson
-Technical Director, School of Health and Related Research, University of Sheffield
-Dr Judith Wardle
-Lay member
-NICE project team
-Each technology appraisal is assigned to a team consisting of 1 or more health technology
-analysts (who act as technical leads for the appraisal), a technical adviser and a project
-manager.
-Nwamaka Umeweni
-Technical Lead
-Bhash Naidoo and Kay Nolan
-Technical Advisers
-Lori Farrar
-Project Manager
-
-Ivabradine for treating chronic heart failure (TA267)
-7 Sources of evidence considered by the
-committee
-The evidence review group (ERG) report for this appraisal was prepared by BMJ
-Technology Assessment Group:
-• Edwards SJ, Barton S, Nherera L, Trevor N, Hamilton V (2012). Ivabradine for the
-treatment of chronic heart failure: A Single Technology Appraisal. BMJ-TAG, London.
-The following organisations accepted the invitation to participate in this appraisal as
-consultees and commentators. They were invited to comment on the draft scope, the ERG
-report and the appraisal consultation document (ACD). The manufacturer or sponsor was
-also invited to make written submissions. Professional or specialist, patient or carer
-groups, and other consultees had the opportunity to give their expert views and, along
-with the manufacturer or sponsor, also have the opportunity to appeal against the final
-appraisal determination.
-Manufacturer or sponsor:
-• Servier Laboratories
-Professional or specialist, and patient or carer groups:
-• South Asian Health Foundation
-• British Association for Nursing in Cardiac Care
-• British Cardiovascular Society
-• British Heart Foundation
-• British Society for Heart Failure
-• Royal College of Nursing
-• Royal College of Physicians
-Other consultees:
-
-Ivabradine for treating chronic heart failure (TA267)
-• Department of Health
-• NHS Devon
-• Welsh Government
-Commentator organisations (did not provide written evidence and without the right of
-appeal):
-• Commissioning Support Appraisals Service
-• Department of Health, Social Services and Public Safety for Northern Ireland
-• Health Care Improvement Scotland
-• Medicines and Healthcare products Regulatory Agency
-• Pfizer
-• National Clinical Guidelines Centre
-The following individuals were selected from clinical specialist and patient expert
-nominations from the non-manufacturer or sponsor consultees and commentators. They
-gave their expert personal view on Ivabradine for the treatment of chronic heart failure by
-attending the initial committee discussion and providing written evidence to the
-committee. They were also invited to comment on the ACD.
-• Professor Martin Cowie, Professor of Cardiology, nominated by British Cardiovascular
-Society – clinical specialist
-• Dr Suzanna Hardman, Consultant Cardiologist, Nominated by Royal College of
-Physicians – clinical specialist
-• Dr Simon Williams, nominated by Servier Laboratories Ltd – clinical specialist
-• Liz Clark, nominated by NHS Devon and Heart Care Partnership – patient expert.
-The following individuals were nominated as NHS commissioning experts by the selected
-NHS trust allocated to this appraisal. They gave their expert and NHS commissioning
-personal view on ivabradine for the treatment of chronic heart failure by attending the
-initial committee discussion and providing written evidence to the committee. They were
-also invited to comment on the ACD.
-
-Ivabradine for treating chronic heart failure (TA267)
-• Tina Teague, Head of Locality Commissioning, selected by NHS Devon – NHS
-Commissioning expert.
-Representatives from the following manufacturer or sponsor attended committee
-meetings. They contributed only when asked by the committee chair to clarify specific
-issues and comment on factual accuracy.
-• Servier Laboratories.
-ISBN: 978-1-4731-5667-8

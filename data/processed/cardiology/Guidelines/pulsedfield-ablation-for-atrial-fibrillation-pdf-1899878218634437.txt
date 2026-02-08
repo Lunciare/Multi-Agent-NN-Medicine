@@ -1,43 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "pulsedfield-ablation-for-atrial-fibrillation-pdf-1899878218634437.pdf",
-  "converted_date": "2026-01-31T14:46:49.574404",
-  "file_size_bytes": 64983,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/pulsedfield-ablation-for-atrial-fibrillation-pdf-1899878218634437.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Pulsed-field ablation for atrial
-fibrillation
-Interventional procedures guidance
-Published: 10 July 2025
-www.nice.org.uk/guidance/ipg806
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-
-Pulsed-field ablation for atrial fibrillation (IPG806)
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Pulsed-field ablation for atrial fibrillation
 1 Recommendations
 1.1 Use pulsed-field ablation as an option to treat atrial fibrillation with standard
 arrangements in place for clinical governance, consent and audit.
@@ -58,7 +19,7 @@ effective at moving blood from the upper to the lower chambers of the heart.
 Symptoms include palpitations, dizziness, shortness of breath, fatigue and chest
 pain. It can have a substantial effect on quality of life. Complications of atrial
 
-Pulsed-field ablation for atrial fibrillation (IPG806)
+ 
 fibrillation include stroke and heart failure. Atrial fibrillation can be transient
 (paroxysmal), lasting longer than 30 seconds but only up to 7 days, or it can be
 persistent, lasting more than 7 days.
@@ -88,7 +49,7 @@ target heart tissue more precisely than thermal ablation, which may reduce the
 risk of damaging surrounding tissues like the oesophagus, nerves, and blood
 vessels.
 
-Pulsed-field ablation for atrial fibrillation (IPG806)
+ 
 The procedure
 2.4 PFA is a catheter ablation technique that uses electric field energy to destroy the
 heart cells that transmit abnormal electrical impulses. In the NHS, the procedure
@@ -120,7 +81,7 @@ summary of key evidence section in the interventional procedures overview.
 Other relevant literature is in the appendix of the overview.
 3.2 The professional experts and the committee considered the key efficacy
 
-Pulsed-field ablation for atrial fibrillation (IPG806)
+ 
 outcomes to be: return to normal sinus rhythm, recurrence of arrhythmia,
 improved quality of life, reintervention rate, and long-term outcomes including
 reduction in stroke.
@@ -143,8 +104,3 @@ fibrillation.
 less post-procedure discomfort than other types of ablation.
 3.11 The committee was told that pulsed-field ablation targets heart tissue more
 specifically than thermal ablation.
-ISBN: 978-1-4731-7084-1
-
-Pulsed-field ablation for atrial fibrillation (IPG806)
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

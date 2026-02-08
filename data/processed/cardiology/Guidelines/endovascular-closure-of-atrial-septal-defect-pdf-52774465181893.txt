@@ -1,43 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "endovascular-closure-of-atrial-septal-defect-pdf-52774465181893.pdf",
-  "converted_date": "2026-01-31T14:44:42.943119",
-  "file_size_bytes": 62621,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/endovascular-closure-of-atrial-septal-defect-pdf-52774465181893.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Endovascular closure of atrial
-septal defect
-Interventional procedures guidance
-Published: 27 October 2004
-www.nice.org.uk/guidance/ipg96
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-
-Endovascular closure of atrial septal defect (IPG96)
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Endovascular closure of atrial septal defect 
 1 Guidance
 1.1 Current evidence on the safety and efficacy of endovascular closure of atrial
 septal defect appears adequate to support the use of this procedure provided
@@ -60,7 +21,7 @@ allows blood to flow from the left atrium to the right atrium, thereby increasin
 the flow of blood to the lungs. This is known as a shunt. Patients with atrial septal
 defects are usually asymptomatic through infancy and childhood. Symptoms such
 
-Endovascular closure of atrial septal defect (IPG96)
+ 
 as exertional dyspnoea, fatigue, palpitations and syncope can occur and
 increasing age carries a higher risk of stroke. Some patients may develop
 congestive heart failure.
@@ -91,7 +52,7 @@ surgery. A large case series of 3,460 patients reported that 97% (3,301 out of
 3,391) of atrial septal defects were successfully closed immediately after the
 procedure. Of the 4% (147 out of 3,460) of patients followed up for 2 years in this
 
-Endovascular closure of atrial septal defect (IPG96)
+ 
 study, all maintained successful closure. A further case series reported that 1% (4
 out of 314) of patients had a significant residual shunt immediately after the
 procedure and 93% (99 out of 107) of patients had a successful closure 1 year
@@ -117,16 +78,3 @@ these to the Medicines and Healthcare products Regulatory Agency (MHRA).
 CardioSEAL, STARFlex and Helex devices for the endovascular closure of atrial
 septal defect. NICE may review the procedure if further data relating to other
 devices become available.
-
-Endovascular closure of atrial septal defect (IPG96)
-3 Further information
-Sources of evidence
-The evidence considered by the Interventional Procedures Advisory Committee is
-described in the overview.
-Information for patients
-NICE has produced information for the public on this procedure. It explains the nature of
-the procedure and the guidance issued by NICE, and has been written with patient
-consent in mind.
-ISBN: 978-1-4731-6225-9
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

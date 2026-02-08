@@ -1,51 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "acute-heart-failure-diagnosis-and-management-pdf-35109817738693.pdf",
-  "converted_date": "2026-01-31T14:47:38.657474",
-  "file_size_bytes": 114186,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/acute-heart-failure-diagnosis-and-management-pdf-35109817738693.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Acute heart failure:
-diagnosis and management
-Clinical guideline
-Published: 8 October 2014
-Last updated: 17 November 2021
-www.nice.org.uk/guidance/cg187
-
-Acute heart failure: diagnosis and management (CG187)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Acute heart failure: diagnosis and management (CG187)
-
-Acute heart failure: diagnosis and management (CG187)
-This guideline is partially replaced by NG208.
-This guideline is the basis of QS103.
+Acute heart failure: diagnosis and management
 Overview
 This guideline covers diagnosing and managing acute heart failure or possible acute heart
 failure in people aged 18 and over. It aims to improve the immediate care of someone who
@@ -345,25 +298,3 @@ with less fluid retention than is usually seen in UK practice, and where length 
 usually much shorter than in UK (and European) practice. Although technically feasible, the
 evidence for benefit on heart failure outcomes is inconsistent and difficult to generalise to
 UK practice. Therefore, a UK-based study of sufficient quality is needed.
-
-Acute heart failure: diagnosis and management (CG187)
-Finding more information and committee
-details
-To find NICE guidance on related topics, including guidance in development, see the NICE
-topic page on cardiovascular conditions.
-For full details of the evidence and the guideline committee's discussions, see the full
-guideline. You can also find information about how the guideline was developed, including
-details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting our guidelines into practice, see resources to help you
-put NICE guidance into practice.
-
-Acute heart failure: diagnosis and management (CG187)
-Update information
-November 2021: We withdrew recommendations 1.6.1 to 1.6.4 on valvular surgery and
-percutaneous intervention because they have been replaced by the NICE guideline on
-heart valve disease.
-Minor changes since publication
-March 2016: MHRA advice on spironolactone and renin-angiotensin system drugs added
-to recommendation 1.5.4.
-ISBN: 978-1-4731-0780-9

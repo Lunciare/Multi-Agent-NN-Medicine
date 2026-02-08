@@ -1,91 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "cardiovascular-disease-prevention-pdf-1996238687173.pdf",
-  "converted_date": "2026-01-31T14:45:07.693336",
-  "file_size_bytes": 491627,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/cardiovascular-disease-prevention-pdf-1996238687173.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Cardiovascular disease
-prevention
-Public health guideline
-Published: 22 June 2010
-www.nice.org.uk/guidance/ph25
-
-Cardiovascular disease prevention (PH25)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Cardiovascular disease prevention (PH25)
-
-Cardiovascular disease prevention (PH25)
-2 Inequalities and their contribution ................................................................................................... 55
-3 Widening health inequalities ............................................................................................................ 55
-4 Food taxes and subsidies ................................................................................................................ 55
-5 Natural experiments ......................................................................................................................... 56
-6 Regular daily intake of 2.5 g of stanols or sterols .......................................................................... 56
-References ................................................................................................................................. 57
-Appendix A: Membership of the Programme Development Group (PDG), the NICE
-project team and external contractors .................................................................................... 65
-Programme Development Group ........................................................................................................ 65
-NICE project team ................................................................................................................................ 66
-External contractors ............................................................................................................................. 67
-Expert testimony .................................................................................................................................. 68
-Appendix B: Summary of the methods used to develop this guidance ............................... 71
-Introduction ........................................................................................................................................... 71
-Key questions ....................................................................................................................................... 71
-Reviewing the evidence ....................................................................................................................... 72
-Economic analysis ................................................................................................................................ 74
-Fieldwork ............................................................................................................................................... 75
-How the PDG formulated the recommendations .............................................................................. 76
-Appendix C: The evidence ....................................................................................................... 78
-Evidence statements ........................................................................................................................... 81
-Additional evidence ..............................................................................................................................104
-Cost-effectiveness evidence .............................................................................................................. 105
-Fieldwork findings ................................................................................................................................ 107
-Appendix D: Gaps in the evidence ...........................................................................................109
-Appendix E: supporting documents ........................................................................................ 110
-Finding more information and committee details ................................................................... 112
-
-Cardiovascular disease prevention (PH25)
-Overview
-This guideline covers the main risk factors linked with cardiovascular disease: poor diet,
-physical inactivity, smoking and excessive alcohol consumption. It aims to reduce the high
-incidence of cardiovascular disease. This, in turn, will help prevent other major causes of
-death and illness, such as type 2 diabetes and many cancers.
-Who is it for?
-• National government
-• NHS and local authorities
-• Industry
-• Commissioners, managers and practitioners working in the above and in the wider
-public, private, voluntary and community sectors
-• Members of the public
-
-Cardiovascular disease prevention (PH25)
+Cardiovascular disease prevention
 Introduction
 The Department of Health (DH) asked the National Institute for Health and Care Excellence
 (NICE) to produce public health guidance on the prevention of cardiovascular disease
@@ -105,7 +18,7 @@ Programme Development Group (PDG) developed the recommendations on the basis of
 reviews of the evidence, economic modelling, expert advice, stakeholder comments and
 fieldwork.
 
-Cardiovascular disease prevention (PH25)
+ 
 Recommendations
 People have the right to be involved in discussions and make informed decisions
 about their care, as described in NICE's information on making decisions about your
@@ -134,7 +47,7 @@ reference, see:
 the state and civil society do?
 － Kelly et al. (2009a) A conceptual framework for public health: NICE's emerging
 
-Cardiovascular disease prevention (PH25)
+ 
 approach.
 － Marmot (2010) Fair society, healthy lives: strategic review of health inequalities in
 England post 2010.
@@ -163,7 +76,7 @@ Who should take action?
 － Advertising Standards Authority
 － Department for Business, Innovation and Skills
 
-Cardiovascular disease prevention (PH25)
+ 
 － Department for Culture, Media and Sport
 － Department for Education
 － Department for Environment, Food and Rural Affairs
@@ -190,7 +103,7 @@ lead to stroke and coronary heart disease. High levels of salt in processed food
 major impact on the total amount consumed by the population.
 • Over recent years the food industry, working with the Food Standards Agency, has
 
-Cardiovascular disease prevention (PH25)
+ 
 made considerable progress in reducing salt in everyday foods. As a result, products
 with no added salt are now increasingly available. However, it is taking too long to
 reduce average salt intake among the population. Furthermore, average intake among
@@ -221,7 +134,7 @@ Nutrition.)
 lead on, the development of EU-wide salt targets for processed foods.
 • Establish an independent system for monitoring national salt levels in commonly
 
-Cardiovascular disease prevention (PH25)
+ 
 consumed foods.
 • Ensure low-salt products are sold more cheaply than their higher salt equivalents.
 • Clearly label products which are naturally high in salt and cannot meaningfully be
@@ -251,7 +164,7 @@ suggests that the following are among the measures that should be considered.
 What action should be taken?
 • Encourage manufacturers, caterers and producers to reduce substantially the amount
 
-Cardiovascular disease prevention (PH25)
+ 
 of saturated fat in all food products. If necessary, consider supportive legislation.
 Ensure no manufacturer, caterer or producer is at an unfair advantage as a result.
 • Create the conditions whereby products containing lower levels of saturated fat are
@@ -281,7 +194,7 @@ that should be considered.
 What action should be taken?
 • Eliminate the use of IPTFAs for human consumption.
 
-Cardiovascular disease prevention (PH25)
+ 
 • In line with other EU countries (specifically, Denmark and Austria), introduce legislation
 to ensure that IPTFA levels do not exceed 2% in the fats and oils used in food
 manufacturing and cooking.
@@ -313,7 +226,7 @@ advertisements would reduce children and young people's exposure to this type of
 advertising by 82%. (Office of Communications annex to consultation on television
 advertising of food and drink to children).
 
-Cardiovascular disease prevention (PH25)
+ 
 Policy goal
 Ensure children and young people under 16 are protected from all forms of marketing,
 advertising and promotions (including product placements) which encourage an unhealthy
@@ -343,7 +256,7 @@ are conducted in a transparent manner that supports public health objectives and
 with best practice. (This includes full disclosure of interests.) To achieve this, the following
 are among the measures that should be considered.
 
-Cardiovascular disease prevention (PH25)
+ 
 What action should be taken?
 • Encourage best practice for all meetings, including lobbying, between the food and
 drink industry and government (and government agencies). This includes full
@@ -373,7 +286,7 @@ the guideline daily amount (GDA) from each category.
 Agency's front-of-pack traffic light labelling system.
 • Develop and implement nutritional labelling for use on shelves or packaging for bread,
 
-Cardiovascular disease prevention (PH25)
+ 
 cakes, meat and dairy products displayed in a loose or unwrapped state or packed on
 the premises. The labelling should be consistent with the Food Standards Agency's
 traffic light labelling system.
@@ -403,7 +316,7 @@ diseases. In addition, assess the potential impact on health inequalities. Asses
 should be carried out using health and policy impact assessment and other similar,
 existing tools.
 
-Cardiovascular disease prevention (PH25)
+ 
 • Monitor the outcomes of policy and programmes after the assessment and use them
 to follow up and amend future plans.
 • Make health impact assessment mandatory in specific scenarios. (Note that strategic
@@ -434,7 +347,7 @@ strict definition of a 'public good' used by some economists.
 factors and is used in a way that optimises the public health outcomes.
 • To achieve this, the following are among the measures that should be considered.
 
-Cardiovascular disease prevention (PH25)
+ 
 What action should be taken?
 • Negotiate at EU and national level to ensure the CAP takes account of public health
 issues. Health benefits should be an explicit, legitimate outcome of CAP spending.
@@ -463,7 +376,7 @@ What action should be taken?
 achieved by allocating a percentage of the integrated block allocation fund to
 schemes which support walking and cycling as modes of transport.
 
-Cardiovascular disease prevention (PH25)
+ 
 • Create an environment and incentives which promote physical activity, including
 physically active travel to and at work.
 • Consider and address factors which discourage physical activity, including physically
@@ -491,7 +404,7 @@ Recommendation 11 Take-aways and other food outlets (see also
 recommendations 23 and 24)
 • Food from take-aways and other outlets (the 'informal eating out sector') comprises a
 
-Cardiovascular disease prevention (PH25)
+ 
 significant part of many people's diet. Local planning authorities have powers to
 control fast-food outlets.
 Policy goal
@@ -518,7 +431,7 @@ prevention policy.
 To achieve this, the evidence suggests that the following are among the measures that
 should be considered.
 
-Cardiovascular disease prevention (PH25)
+ 
 What action should be taken?
 • Ensure data on CVD prevention is available for scrutiny by the public health community
 as a whole.
@@ -548,7 +461,7 @@ is to plan, develop and maintain effective programmes.
 The target population for recommendations 13 to 18 and the list of who should take
 action is outlined below. This is followed by the specific actions to be taken in relation
 
-Cardiovascular disease prevention (PH25)
+ 
 to each element of the programme.
 Whose health will benefit?
 • The population that falls within a local authority, primary care trust (PCT) area or
@@ -573,7 +486,7 @@ interventions.
 regulatory initiatives) which complement existing programmes aimed at individuals at
 high risk of CVD.
 
-Cardiovascular disease prevention (PH25)
+ 
 • Ensure it is sustainable for a minimum of 5 years.
 • Ensure appropriate time and resources are allocated for all stages, including planning
 and evaluation.
@@ -601,7 +514,7 @@ programme development
 What action should be taken?
 • Develop a population-based approach.
 
-Cardiovascular disease prevention (PH25)
+ 
 • Ensure a 'programme theory' is developed and used to underpin the programme
 (Pawson 2001). This should cover the reasons why particular actions are expected to
 have particular outcomes.
@@ -634,7 +547,7 @@ resources
 What action should be taken?
 • Ensure the programme lasts a minimum of 5 years (while subject to annual evaluation
 
-Cardiovascular disease prevention (PH25)
+ 
 reports) to maximise its potential impact.
 • Produce a long-term plan, and gain political commitment, for funding to ensure the
 programme has adequate resources and is sustainable beyond the end of the research
@@ -664,7 +577,7 @@ potential leaders.
 partnerships for agreeing shared priorities with other organisations involved in CVD
 prevention. Ensure senior staff are involved, as appropriate.
 
-Cardiovascular disease prevention (PH25)
+ 
 Recommendation 18 Regional CVD prevention programmes –
 evaluation
 What action should be taken?
@@ -691,7 +604,7 @@ Who should take action?
 • Catering staff.
 • Nursery nurses and workers in pre-school day care settings such as nurseries.
 
-Cardiovascular disease prevention (PH25)
+ 
 • Managers of children's centres.
 What action should they take?
 • Help children and young people to have a healthy diet and lifestyle. This includes
@@ -720,7 +633,7 @@ Who should take action?
 • Government departments and agencies.
 • Local authorities.
 
-Cardiovascular disease prevention (PH25)
+ 
 • NHS organisations.
 • Prison services.
 • The armed forces.
@@ -746,7 +659,7 @@ motorists when developing or redeveloping highways. It also includes developing 
 implementing public sector workplace travel plans that incorporate physical activity
 (see NICE's guideline on physical activity in the workplace). Encourage and support
 
-Cardiovascular disease prevention (PH25)
+ 
 employers in other sectors to do the same.
 • Ensure the need for children and young people to be physically active is addressed
 (see NICE's guideline on physical activity for children and young people). This includes
@@ -775,7 +688,7 @@ Who should take action?
 • PCTs.
 • Regional and local government.
 
-Cardiovascular disease prevention (PH25)
+ 
 What action should they take?
 • Use a variety of methods to assess the potential impact (positive and negative) that all
 local and regional policies and plans may have on rates of CVD and related chronic
@@ -801,7 +714,7 @@ What action should they take?
 • Use bye-laws to regulate the opening hours of take-aways and other food outlets,
 particularly those near schools that specialise in foods high in fat, salt or sugar.
 
-Cardiovascular disease prevention (PH25)
+ 
 • Use existing powers to set limits for the number of take-aways and other food outlets
 in a given area. Directives should specify the distance from schools and the maximum
 number that can be located in certain areas.
@@ -827,7 +740,7 @@ excessively, based on the NHS eatwell guide.
 • The PDG considers that all the recommended measures are cost effective.
 • See the recommendations for research and gaps in the evidence.
 
-Cardiovascular disease prevention (PH25)
+ 
 Public health need and practice
 Cardiovascular disease (CVD) is generally due to reduced blood flow to the heart, brain or
 body caused by atheroma or thrombosis. It is increasingly common after the age of 60, but
@@ -857,7 +770,7 @@ each year (52,000 among men and about 43,000 among women) and around 113,000
 heart attacks per year (67,000 among men and 46,000 among women). New cases of
 heart failure total around 68,000 a year (about 38,000 among men and 30,000 among
 
-Cardiovascular disease prevention (PH25)
+ 
 women).
 Overall, CVD costs the UK approximately £30 billion annually (Luengo-Fernandez et al.
 2006).
@@ -888,7 +801,7 @@ modifiable risk factors (Yusuf et al. 2004):
 • smoking/tobacco use
 • poor diet
 
-Cardiovascular disease prevention (PH25)
+ 
 • high blood cholesterol
 • high blood pressure
 • insufficient physical activity
@@ -917,7 +830,7 @@ cholesterol or blood pressure levels) can rapidly reduce the likelihood of devel
 Actions which impact on the whole population most effectively reduce these risk factors
 (Kelly et al. 2009a).
 
-Cardiovascular disease prevention (PH25)
+ 
 Some population-based prevention programmes have been accompanied by a substantial
 reduction in the rate of CVD deaths. However, the degree to which these are attributable
 to the programme is contested. This is due to a number of reasons including:
@@ -948,7 +861,7 @@ Government policy in many areas influences CVD. The 'Choosing health' white pape
 was supported by delivery plans on food, physical activity and tobacco control, including
 the provision of NHS Stop Smoking Services.
 
-Cardiovascular disease prevention (PH25)
+ 
 Since that time, a wide variety of policy documents have been published including:
 • Active travel strategy (Department for Transport 2010)
 • A smokefree future: a comprehensive tobacco control strategy for England (DH 2010)
@@ -973,7 +886,7 @@ Since that time, a wide variety of policy documents have been published includin
 • The NHS in England: the operating framework for 2008/9 (DH 2007c)
 • Wanless report: securing good health for the whole population (Wanless 2004).
 
-Cardiovascular disease prevention (PH25)
+ 
 Considerations
 The Programme Development Group (PDG) took account of a number of factors and issues
 when developing the recommendations.
@@ -1003,7 +916,7 @@ are not covered in this guidance.
 1.5 The PDG noted that nicotine replacement therapy (NRT) can help to reduce CVD
 among people who are addicted to nicotine. It fully endorses the Tobacco
 
-Cardiovascular disease prevention (PH25)
+ 
 Advisory Group's recommendations on the regulation and marketing of NRT
 (Royal College of Physicians 2007). (The report advocates making NRT more
 acceptable and accessible to people who smoke and who find it impossible to
@@ -1034,7 +947,7 @@ agreed and widely implemented, the PDG did not consider them in detail.
 Population versus individual approach
 1.11 CVD risk factors can be reduced in a number of ways. Two different (and
 
-Cardiovascular disease prevention (PH25)
+ 
 frequently, complementary) approaches are often described as 'individual-' and
 'population-based'. The former involves interventions which tend to give people
 direct encouragement to change their behaviour. It may involve providing
@@ -1069,7 +982,7 @@ number of people may prevent many more cases, rather than treating a small
 number at higher risk. A whole-population approach explicitly focuses on
 changing everyone's exposure to risk (Rose 2008).
 
-Cardiovascular disease prevention (PH25)
+ 
 1.15 There is growing evidence in support of the Rose hypothesis (see point above).
 For instance, data were recently pooled from six general population cohort
 studies involving 109,954 European participants. These data were analysed to
@@ -1102,7 +1015,7 @@ regulations, the physical environment and other 'upstream' factors. This approac
 is likely to reduce, rather than increase, health inequalities and is congruent with
 NICE's guidance on behaviour change.
 
-Cardiovascular disease prevention (PH25)
+ 
 Population-level approaches: cost effectiveness
 1.20 The financial modelling for this guidance shows that considerable cost savings
 could be made. Using a number of conservative assumptions, it found that
@@ -1135,7 +1048,7 @@ Forum 2010). This, in turn, will lead to a rise in type 2 diabetes which can inc
 the risk of CVD. The risk of CHD is particularly high among women with diabetes
 (Barrett-Connor et al. 1991).
 
-Cardiovascular disease prevention (PH25)
+ 
 1.24 Epidemiological studies indicate that approximately 45 to 75% of the recent fall in
 CVD deaths in Westernised industrialised countries was the result of a reduction
 in the major risk factors. This includes a reduction in smoking prevalence and salt
@@ -1170,7 +1083,7 @@ Conversely, rapid rises in CVD mortality have been seen in China and elsewhere,
 principally due to the adoption of a Western diet rich in saturated fats (Critchley
 et al. 2004).
 
-Cardiovascular disease prevention (PH25)
+ 
 1.28 The PDG discussed the nature and quality of evidence relevant to CVD
 prevention in whole populations. As indicated in consideration 3.71, this evidence
 is not drawn from randomised trials alone. The PDG felt it important to consider
@@ -1203,7 +1116,7 @@ However, it concluded that there was insufficient evidence to make a
 recommendation related to CVD prevention. Note: NICE's guideline on maternal
 and child nutrition is referred to in the recommendations.
 
-Cardiovascular disease prevention (PH25)
+ 
 Single risk factors
 1.32 The Strategy Unit report 'Food matters' (2008) concluded that some 70,000
 premature UK deaths could be avoided with a healthier diet. More recently, the
@@ -1236,7 +1149,7 @@ blood pressure. On average, 70% to 90% of people's intake comes from salt
 added during the manufacturing process; only 10% to 30% comes from adding it
 during cooking or at the table. Reducing the population's salt intake will,
 
-Cardiovascular disease prevention (PH25)
+ 
 therefore, involve encouraging the food industry to reduce the salt used in
 processed foods, as well as encouraging people to reduce the salt they add
 themselves. The PDG believes the former will best be achieved by using a
@@ -1271,7 +1184,7 @@ years a maximum of 5 g salt a day (2 g sodium) (Scientific Advisory Committee
 on Nutrition 2003).
 1.41 The PDG discussed the benefits of substituting mono-unsaturated or
 
-Cardiovascular disease prevention (PH25)
+ 
 polyunsaturated fats for saturated fats (Hu 2008) and of reducing total fat
 consumption. Evidence suggests that reducing saturated fat intake from 14% to
 7% of energy intake (to reach the levels seen in Japan) might prevent around
@@ -1306,7 +1219,7 @@ commissioned by the European Parliament advocated that an EU-wide ban on
 IPTFAs should be considered. The PDG noted that IPTFAs have been successfully
 banned in Denmark and New York City.
 
-Cardiovascular disease prevention (PH25)
+ 
 1.45 The WHO review of industrially-produced trans fatty acids noted that people who
 use partially hydrogenated vegetable oils (PHVOs) for cooking would have mean
 trans fatty acids intakes considerably higher than the national average. The same
@@ -1340,7 +1253,7 @@ be incorporated into daily life. Effective interventions to encourage physical
 activity are possible both nationally and locally. For example, NICE has made
 recommendations on how to help people to be physically active in guidelines on
 
-Cardiovascular disease prevention (PH25)
+ 
 walking and cycling, physical activity: brief advice for adults in primary care,
 exercise referral schemes to promote physical activity, physical activity and the
 environment, physical activity in the workplace and physical activity for children
@@ -1373,7 +1286,7 @@ an opportunity to talk about the moral high ground and to occupy it'.
 consumption patterns. They encourage people to change brands and they also
 encourage overall increases in consumption of related brands.
 
-Cardiovascular disease prevention (PH25)
+ 
 1.55 The PDG noted the work of the Advertising Standards Authority and others to
 develop the existing overarching regulatory system that controls food advertising
 aimed at children. Furthermore, the Group noted and praised the important work
@@ -1409,7 +1322,7 @@ locally (Exworthy et al. 2002). Other policy models also provide a potentially
 valuable insight into this complex, non-linear process. Whichever model is
 applied, however, all parties concerned need to acknowledge that the problem is
 
-Cardiovascular disease prevention (PH25)
+ 
 important. In addition, it has to be possible to devise policies to remedy it, and
 there has to be a political willingness to act. Examples from other countries of
 where policy has been successfully used to reduce CVD are particularly valuable
@@ -1440,7 +1353,7 @@ public places, a private members bill supporting local smoking restrictions had
 been developed in case national legislation was delayed.
 1.63 Local authorities and PCTs, working with the private and 'the third sector' in local
 
-Cardiovascular disease prevention (PH25)
+ 
 strategic partnerships (LSPs), have demonstrated their commitment to CVD
 prevention. (The third sector includes voluntary and community groups, social
 enterprises, charities, cooperatives and mutual organisations.) For example, many
@@ -1473,7 +1386,7 @@ studies such as the North Karelia and HeartBeat Wales CVD population
 programmes which took place in the 1970s and 1980s. The age of the studies
 means a number of factors have to be taken into account when considering
 
-Cardiovascular disease prevention (PH25)
+ 
 effectiveness. In particular:
 • The risk factor levels for CVD are likely to have changed. For instance, intake
 of salt and saturated fat and the prevalence of smoking may have fallen,
@@ -1506,7 +1419,7 @@ assumptions. Nevertheless, it suggested that the recommended population-
 based approaches are likely to be consistently cost saving (see considerations
 1.33 and 1.45 and appendix C).
 
-Cardiovascular disease prevention (PH25)
+ 
 Interpreting the evidence
 1.71 The PDG recognised that empirical data alone, even from the best conducted
 investigation, seldom provides a sufficient or complete basis for making
@@ -1538,7 +1451,7 @@ powerful impact on people's diet and physical activity levels. It also has an im
 on climate change and sustainable development (which, in turn, can affect
 health). An analysis of transport patterns in London and how they could be
 
-Cardiovascular disease prevention (PH25)
+ 
 changed indicates the extent of this synergy (Woodcock et al. 2009). One
 scenario described a 'sustainable transport future' featuring more physically
 active travel and low-emission vehicles to cut CO2 emissions by three-fifths. The
@@ -1558,7 +1471,7 @@ more substantial.
 Department of Health-sponsored surveys. These include the National diet and
 nutrition survey (NDNS) and the Low income diet and nutrition survey (LIDNS).
 
-Cardiovascular disease prevention (PH25)
+ 
 Recommendations for research
 The Programme Development Group (PDG) recommends that the following research
 questions should be addressed. It notes that 'effectiveness' in this context relates not only
@@ -1581,7 +1494,7 @@ gap?
 What impact would food taxes and subsidies, particularly in relation to salt, saturated fats
 and fruit and vegetable consumption, have on CVD risk and health inequalities?
 
-Cardiovascular disease prevention (PH25)
+ 
 5 Natural experiments
 Could 'natural' experiments aid understanding of the impact that 'upstream' factors such
 as the social, economic and physical environment have on the incidence and rates of
@@ -1595,7 +1508,7 @@ inequalities?
 More detail on the gaps in the evidence identified during development of this guidance is
 provided in appendix D.
 
-Cardiovascular disease prevention (PH25)
+ 
 References
 Abelson P (2003) Returns on investment in public health. Canberra: Department of Health
 and Ageing
@@ -1622,7 +1535,7 @@ disease? What is stroke?
 British Heart Foundation (2009b) Heartstats: Morbidity from CVD.
 British Heart Foundation (2009c) Heartstats: Numbers dying from CVD and CHD
 
-Cardiovascular disease prevention (PH25)
+ 
 Brownell KD, Warner KE (2009) The perils of ignoring history: big tobacco played dirty and
 millions died. How similar is big food? The Milbank Quarterly 87 (1): 259–94
 Blas E, Gilson L, Kelly MP et al. (2008) Addressing social determinants of health inequities:
@@ -1650,7 +1563,7 @@ Department of Health (2003) Tackling health inequalities: a programme for action
 Department of Health
 Department of Health (2004) Choosing health: making healthy choices easier. London:
 
-Cardiovascular disease prevention (PH25)
+ 
 Department of Health
 Department of Health (2005a) Delivering choosing health: making healthier choices easier.
 London: Department of Health
@@ -1677,7 +1590,7 @@ and management. London: Department of Health
 Department of Health (2009a) Be active be healthy. A plan for getting the nation moving.
 London: Department of Health
 
-Cardiovascular disease prevention (PH25)
+ 
 Department of Health (2009b) NHS 2010 – 2015: from good to great. Preventative, people-
 centred, productive. London: Department of Health
 Department of Health (2010) A smokefree future: a comprehensive tobacco control
@@ -1706,7 +1619,7 @@ Harder T, Bergmann R, Kallischnigg G et al. (2005) Duration of breastfeeding and
 overweight: a meta-analysis. American Journal of Epidemiology 162: 397–403
 He FJ, Marrero NM, MacGregor GA (2008) Salt and blood pressure in children and
 
-Cardiovascular disease prevention (PH25)
+ 
 adolescents. Journal of Human Hypertension 22: 4–11
 Heidemann C, Schulze MB, Franco OH et al. (2008) Dietary patterns and risk of mortality
 from cardiovascular disease, cancer and all causes in a prospective cohort of women.
@@ -1735,7 +1648,7 @@ cardiovascular disease. Brussels: European Health Network
 Lopez-Garcia E, Schulze MB, Fung TT et al. (2004) Major dietary patterns are related to
 plasma concentrations of markers of inflammation and endothelial dysfunction. American
 
-Cardiovascular disease prevention (PH25)
+ 
 Journal of Clinical Nutrition 80: 1029–35
 Ludwig DE, Brownell KD (2009) The case of restaurant calorie labeling regulations. Journal
 of the American Medical Association (4): 434–5
@@ -1763,7 +1676,7 @@ Owen CG, Martin RM, Whincup PH et al. (2006) Does breastfeeding influence risk o
 diabetes in later life? A quantitative analysis of published evidence. American Journal of
 Clinical Nutrition 84: 1043–54
 
-Cardiovascular disease prevention (PH25)
+ 
 Owen CG, Whincup PH, Kaye SJ et al. (2008) Does initial breastfeeding lead to lower blood
 cholesterol in adult life? A quantitative review of the evidence. American Journal of Clinical
 Nutrition 88: 305–14
@@ -1791,7 +1704,7 @@ disease prevention yield significant savings, stronger communities
 Uauy R, Aro A, Clark R et al. (2009) WHO scientific update on trans fatty acids: summary
 and conclusions. European Journal of Clinical Nutrition (63): 68–75
 
-Cardiovascular disease prevention (PH25)
+ 
 Unal B, Critchley J, Capewell S (2005) Modelling the decline in coronary heart disease
 deaths in England and Wales, 1981–2000: comparing contributions from primary
 prevention and secondary prevention. BMJ 331: 614–5
@@ -1809,7 +1722,7 @@ control study. The Lancet 364: 937–52
 Zatonski WA, Willett W (2005) Changes in dietary fat and declining coronary heart disease
 in Poland: population based study. BMJ 331: 187–9
 
-Cardiovascular disease prevention (PH25)
+ 
 Appendix A: Membership of the
 Programme Development Group (PDG),
 the NICE project team and external
@@ -1834,7 +1747,7 @@ Sciences, University of Birmingham; Honorary Consultant in Primary Care, Heart o
 Birmingham Teaching PCT
 Robin Ireland Chief Executive, Heart of Mersey
 
-Cardiovascular disease prevention (PH25)
+ 
 Paul Lincoln Chief Executive, National Heart Forum
 Klim McPherson (Chair) Visiting Professor of Public Health Epidemiology, University of
 Oxford
@@ -1858,7 +1771,7 @@ Catherine Swann Associate Director
 Hugo Crombie Lead Analyst
 Andrew Hoy Analyst
 
-Cardiovascular disease prevention (PH25)
+ 
 Patti White Analyst
 Susan Murray Analyst
 Lorraine Taylor Analyst
@@ -1884,7 +1797,7 @@ programmes aimed at reducing cardiovascular disease within a given population: a
 systematic review of qualitative research was carried out by the Peninsula Technology
 Assessment Group at the Peninsula Medical School, Universities of Exeter and Plymouth.
 
-Cardiovascular disease prevention (PH25)
+ 
 The principal authors were: Ruth Garside, Mark Pearson, Kate Ashton, Tiffany Moxham and
 Rob Anderson.
 Primary research
@@ -1912,7 +1825,7 @@ Management, Royal Holloway University of London.
 Report 3: Expert testimony on salt and cardiovascular disease was carried out by
 Francesco Cappuccio, Clinical Sciences Research Institute, University of Warwick Medical
 
-Cardiovascular disease prevention (PH25)
+ 
 School.
 Report 4: The relationship between commercial interests and risk of cardiovascular
 disease was carried out by Jane Landon, National Heart Forum.
@@ -1941,10 +1854,10 @@ Report 13: Will CVD prevention widen health inequalities? was carried out by Sim
 Capewell, University of Liverpool.
 Report 14: Food manufacturer's perspective was carried out by Frances Swallow and
 
-Cardiovascular disease prevention (PH25)
+ 
 Nicola Currie, Greencore.
 
-Cardiovascular disease prevention (PH25)
+ 
 Appendix B: Summary of the methods
 used to develop this guidance
 Introduction
@@ -1969,7 +1882,7 @@ programmes aimed at reducing CVD (or the risk factors associated with CVD) among
 given population (including subgroups experiencing health inequalities, where the data
 allows)?
 
-Cardiovascular disease prevention (PH25)
+ 
 These questions were made more specific for each review (see reviews for further details).
 Single risk factors were considered using expert testimony. See appendix C.
 Reviewing the evidence
@@ -1994,7 +1907,7 @@ interrupted time series (from 1970 onwards):
 • MEDLINE
 • MEDLINE In Process
 
-Cardiovascular disease prevention (PH25)
+ 
 • PsycINFO
 The following websites were also searched:
 • Centre for the Evaluation of Public Health Interventions, London School of Hygiene &
@@ -2020,7 +1933,7 @@ with CVD.
 Quality appraisal
 Included papers were assessed for methodological rigour and quality using the NICE
 
-Cardiovascular disease prevention (PH25)
+ 
 methodology checklist, as set out in the NICE technical manual 'Methods for the
 development of NICE public health guidance'. Each study was graded (++, +, –) to reflect
 the risk of potential bias arising from its design and execution.
@@ -2046,7 +1959,7 @@ The following databases were searched from 1970 to August 2008:
 The search was limited to articles published from 1970 onwards and in the English
 language.
 
-Cardiovascular disease prevention (PH25)
+ 
 In addition to the general bibliographic database searches, specific searches were
 conducted for each programme found during the general searches to ensure all published
 evaluations, particularly economic evaluations, were identified.
@@ -2076,7 +1989,7 @@ professionals). Each reviewed recommendations made in the following specific are
 － health impact assessments
 － CVD prevention programmes (two case studies)
 
-Cardiovascular disease prevention (PH25)
+ 
 － take-away planning
 － training caterers
 － public sector food provision
@@ -2103,7 +2016,7 @@ following criteria:
 • Strength (type, quality quantity and consistency) of the evidence.
 • The applicability of the evidence to the populations/settings referred to in the scope.
 
-Cardiovascular disease prevention (PH25)
+ 
 • Effect size and potential impact on the target population's health.
 • Impact on inequalities in health between different groups of the population.
 • Equality and diversity legislation.
@@ -2119,7 +2032,7 @@ October 2009. At its meeting in December 2009, the PDG amended the guidance in l
 of comments from stakeholders and experts and the fieldwork. The guidance was signed
 off by the NICE Guidance Executive in May 2010.
 
-Cardiovascular disease prevention (PH25)
+ 
 Appendix C: The evidence
 This appendix lists the evidence statements from four reviews, a cost-effectiveness
 review and a primary research study provided by external contractors (see appendix A)
@@ -2147,7 +2060,7 @@ programmes are more successful than others
 • Cost-effectiveness review:
 － Review 6: Prevention of cardiovascular disease at population level (Question 1;
 
-Cardiovascular disease prevention (PH25)
+ 
 cost-effectiveness)
 Evidence statement R3.E1a indicates that the linked statement is numbered E1a in review
 3. Evidence statement R5.12 indicates that the linked statement is numbered 12 in the
@@ -2174,7 +2087,7 @@ Recommendation 9: additional evidence ER1; CG43 (3)
 Recommendation 10: additional evidence CG43 (4)
 Recommendation 11: evidence statements R4.18a; R4.18b
 
-Cardiovascular disease prevention (PH25)
+ 
 Recommendation 12: IDE
 Recommendation 13: evidence statements R3.E2a–f, R4.2a–c, R4.17a–d, R4.18a–c, R4.19a,
 R4.20a, R4.21a–c, R4.22a, R4.23a–b, R4.24a–d, R4.25a–d, R4.26a–d, R5.2
@@ -2200,7 +2113,7 @@ In addition, the approach taken in recommendations 1 to 12 is supported by the f
 evidence statements: R4.3a, R4.3b, R4.4a, R4.18a, R418b, R418c, R5.9 and additional
 evidence ER10, ER11, ER12, ER13.
 
-Cardiovascular disease prevention (PH25)
+ 
 Evidence statements
 Please note that the wording of some evidence statements has been altered slightly from
 those in the evidence reviews to make them more consistent with each other and NICE's
@@ -2233,7 +2146,7 @@ Twelve studies (seven CBA studies and five RCTs) demonstrate a beneficial net ef
 Five CBA studies demonstrate no net effect or inconclusive net effects and two CBA
 studies demonstrate a disbeneficial net effect. The most optimistic result was from a CBA
 
-Cardiovascular disease prevention (PH25)
+ 
 study, reporting a 5.5mmHg net reduction in diastolic blood pressure. The least optimistic
 result was from a CBA study, reporting a 6mmHg net increase in diastolic blood pressure.
 Fourteen CBA studies and five RCTs demonstrate a mixed effect (majority of programmes
@@ -2266,7 +2179,7 @@ summary effect measures, demonstrate a mixed effect of MRFI on blood glucose. On
 and one CBA study report mixed results: net decreases in men and net increases in
 women, whilst one CBA study demonstrates no net effect.
 
-Cardiovascular disease prevention (PH25)
+ 
 Evidence statement R3.E1g
 Triglyceride levels, high-density lipoprotein/low-density lipoprotein (HDL/LDL) ratio or lipid
 levels: No evidence has been identified on the effects of MRFI programmes on triglyceride
@@ -2297,7 +2210,7 @@ most optimistic result was from a CBA study, reporting a 9% net increase in the 
 fat milk in men. The least optimistic result was from a CBA study, reporting a 1% net
 decrease in the use of low fat milk in women.
 
-Cardiovascular disease prevention (PH25)
+ 
 Evidence statement R3.E1k
 Dietary change – consumption high fat foods: Six CBA studies demonstrate a mixed effect
 of MRFI programmes on the percentage of high-fat foods in the diet (the majority of
@@ -2330,7 +2243,7 @@ Physical activity: Evidence from 11 CBA studies and one RCT (+) provide a mixed 
 for the effect of MRFI programmes on physical activity (the majority of studies are
 disbeneficial). Three CBA studies and two RCTs demonstrate a favourable net effect.
 
-Cardiovascular disease prevention (PH25)
+ 
 Three CBA studies demonstrate inconclusive net effects and four CBA studies
 demonstrate a disbeneficial net effect. The most optimistic result is from a CBA study,
 reporting an 11.5% net increase in the number of people doing strenuous physical activity
@@ -2362,7 +2275,7 @@ CVD knowledge in younger participants and one uncontrolled before-and-after stud
 reports a reduction in effectiveness in reducing salt intake in younger participants. One
 CBA study reports a reduction in effectiveness in promoting CVD awareness in older
 
-Cardiovascular disease prevention (PH25)
+ 
 participants. Two CBA studies report no differences in effectiveness according to age.
 Evidence statement R3.E2d
 Gender: Seven programmes report results of subgroup analysis according to gender. Four
@@ -2394,7 +2307,7 @@ screening programmes directed at large populations in the community or primary c
 However, 16 of the education and mass-media programmes contained screening
 components. Counselling was a key process in many programmes, undertaken individually
 
-Cardiovascular disease prevention (PH25)
+ 
 in 24 programmes and amongst groups in 16 programmes. The 38 programmes varied in
 many other ways. Programme length ranged from one to over 20 years. The size of the
 population addressed ranged from approximately 2,500 to over 1 million. Fourteen of the
@@ -2425,7 +2338,7 @@ Programme type (n=38) Beneficial Inconclusive Disbeneficial No data
 Educational and mass media 9 4 2 16
 Screening 5 0 0 2
 
-Cardiovascular disease prevention (PH25)
+ 
 Net change in systolic BP in mmHg
 Programme type (n=38) Beneficial Inconclusive Disbeneficial No data
 Educational and mass media 6 4 4 17
@@ -2454,7 +2367,7 @@ recognised to be the weakest approach.
 Evidence statement R3.E3c
 Possible variations in effectiveness by other aspects of the nature of the intervention:
 
-Cardiovascular disease prevention (PH25)
+ 
 Over the three reports, many other plausible reasons for the noted variation in
 effectiveness have been identified. These include:
 • duration of programme
@@ -2482,7 +2395,7 @@ These suggest that factors influencing success include: time limitations for pro
 leadership, (including difficulties engaging community members at strategic levels), and
 cooperation between partner organisations.
 
-Cardiovascular disease prevention (PH25)
+ 
 Evidence statement R4.2a
 Four study reports show conflicting evidence about the degree and methods of
 community engagement important for success.
@@ -2509,7 +2422,7 @@ There is evidence from four study reports that high pricing can impact on people
 and willingness to adopt healthy eating behaviours and to participate in organised physical
 activity.
 
-Cardiovascular disease prevention (PH25)
+ 
 Evidence statement R4.7a
 Six study reports discuss factors relating to organisational and strategic issues.
 Evidence statement R4.7b
@@ -2535,7 +2448,7 @@ Evidence statement R4.8d
 Partnerships may have positive effects through interagency learning, increasing the
 visibility of smaller organisations and enhanced funding opportunities.
 
-Cardiovascular disease prevention (PH25)
+ 
 Evidence statement R4.9e
 Two studies note that to sustain the provision of healthier food options, communities need
 to take them up and so they need to be made attractive and clear.
@@ -2559,7 +2472,7 @@ Six study reports make specific comments about funding and resource requirements
 Evidence statement R4 11.b
 Five study reports note the need for those with existing roles and responsibilities to be
 
-Cardiovascular disease prevention (PH25)
+ 
 given resources to take on additional CVD programme work, or for dedicated positions to
 be created. Limited time for school-based staff may be a particular problem.
 Evidence statement R4.12a
@@ -2583,7 +2496,7 @@ Evidence statement R4.14b
 GP uptake was slow and it is suggested that GPs may be less comfortable in health
 promotion roles than their traditional role of secondary prevention.
 
-Cardiovascular disease prevention (PH25)
+ 
 Evidence statement R4.15a
 Evidence relating to staff training were identified by six study reports.
 Evidence statement R4.15b
@@ -2607,7 +2520,7 @@ approaches across populations.
 Evidence statement R4.17c
 Two study reports suggest that successful programmes need to be sensitive to
 
-Cardiovascular disease prevention (PH25)
+ 
 communities' habits and cultural patterns, while a further three describe the important of
 matching programme staff to the social and/or ethnic characteristics of the target
 communities.
@@ -2633,7 +2546,7 @@ Asians that stress from a variety of sources was a noted problem among both men 
 women and this might lead to inability to access essential services or to communicate with
 professionals.
 
-Cardiovascular disease prevention (PH25)
+ 
 Evidence statement R4.20a
 Attitudes to food and cooking: There is evidence from three study reports that specific
 foods and eating patterns may be regarded as important expressions of cultural identity.
@@ -2659,7 +2572,7 @@ better.
 Evidence statement R4.23b
 As well as making personal changes, such 'social health' encouraged changes within the
 
-Cardiovascular disease prevention (PH25)
+ 
 family, within the local community and within the wider social and political community.
 Despite this, one study suggests that men remain less likely to use health services.
 Evidence statement R4.24a
@@ -2686,7 +2599,7 @@ Evidence statement R4.25b
 Two studies report that health concerns, sometimes serious, were motivating factors to
 participate and 2 that feedback of physiological test results was motivating.
 
-Cardiovascular disease prevention (PH25)
+ 
 Evidence statement R4.25c
 Women may be targeted to take heart health practices home, however, 2 studies report on
 difficulties initiating or maintaining family interest and that resistance from family members
@@ -2712,7 +2625,7 @@ Evidence statement R4.26d
 Two studies suggest that the participants may doubt the credibility of health messages,
 with so many sources of, sometimes contradictory, information available. Matching the
 
-Cardiovascular disease prevention (PH25)
+ 
 characteristics of the community may be important.
 Evidence statement R5.2
 Community engagement: Positive community engagement requires trusting, respectful
@@ -2742,7 +2655,7 @@ coordinate and drive complex programmes and motivate and encourage cooperation
 among multiple staff across a number of agencies with a range of responsibilities.
 To fulfil this, staff are needed whose role is dedicated to the programme and those with
 
-Cardiovascular disease prevention (PH25)
+ 
 multiple roles need to have appropriate time freed up.
 Leaders may be needed for the project overall, but also for specific elements of the
 project, for example, to encourage primary care participation or ensure local political or
@@ -2771,7 +2684,7 @@ at informing, motivating and engaging their peers in the community and enhance
 community empowerment.
 Volunteer workers need to be properly trained and supported to ensure that they continue
 
-Cardiovascular disease prevention (PH25)
+ 
 to be involved and don't get burnt out.
 The issues of paying those involved should be considered carefully.
 Evidence statement R5.7
@@ -2798,7 +2711,7 @@ behaviours, empowering the community to maintain positive changes. Short-term pr
 often fail to leave lasting benefits to a community as their short-term goal setting may
 preclude the necessary engagement required.
 
-Cardiovascular disease prevention (PH25)
+ 
 Evidence statement R5.9
 Short time frames: Short time frames for CVD prevention programmes may threaten
 success at a number of levels: implementation, staff engagement and training, community
@@ -2827,7 +2740,7 @@ sufficient time for outcomes to be achieved.
 Multiple methods may be needed to evaluate important aspects of CVD prevention
 programmes, such as community empowerment, that are not all easily captured through
 
-Cardiovascular disease prevention (PH25)
+ 
 numerical outcome data.
 Programmes that measure only population-level changes may not capture large impacts
 for some individuals, and this may be important, especially where health inequalities are
@@ -2852,7 +2765,7 @@ Evidence statement CE5
 Two studies gave results in cost per case prevented for screening compared to no
 intervention. Results ranged from £10,000 to £730,000 per case prevented.
 
-Cardiovascular disease prevention (PH25)
+ 
 Evidence statement CE6
 Two studies gave results per 1% reduction in coronary risk for screening compared to no
 intervention. Results ranged from £2.25 to £5.30 per 1% reduction for 1 person.
@@ -2878,7 +2791,7 @@ the Co-operative Group
 － ER 7: Population and community programmes addressing multiple risk factors to
 prevent cardiovascular disease (CVD): addendum to qualitative study produced by
 
-Cardiovascular disease prevention (PH25)
+ 
 Peninsula Technology Assessment Group for NICE: CVD programme – Heart of
 Mersey (HoM)
 － ER 8: Expert testimony paper on the independent evaluation of 'have a heart
@@ -2907,7 +2820,7 @@ effectiveness analysis.
 effectiveness)'
 • 'Prevention of cardiovascular disease at population level: modelling strategies for
 
-Cardiovascular disease prevention (PH25)
+ 
 primary prevention of cardiovascular disease'.
 Some primary prevention programmes involving education, mass media and screening
 with a general population were found to be effective and cost effective. They may reduce
@@ -2940,7 +2853,7 @@ events across the entire England and Wales population of 50 million would result
 discounted savings of approximately £14 billion per year. Reducing mean population
 cholesterol or blood pressure levels by 5% would result in discounted annual savings of
 
-Cardiovascular disease prevention (PH25)
+ 
 approximately £0.7 billion and £0.9 billion respectively. Reducing population cardiovascular
 risk by even 1% would generate discounted savings of approximately £260 million per year.
 Additional benefits to existing CVD patients, and reductions in other diseases, were not
@@ -2968,7 +2881,7 @@ levels.
 In general, stakeholders felt that the catering recommendations demonstrated how to
 follow good practice.
 
-Cardiovascular disease prevention (PH25)
+ 
 • Local authority planning recommendations (7, 8, 9, 12, 13, 16, 17 and 18 in the
 consultation document)
 Local planning and policy representatives stated that the recommendations needed to
@@ -2984,7 +2897,7 @@ In general, representatives from the NHS and PCTs indicated that the regional CV
 prevention recommendations were appropriate and that they supported current work on
 CVD prevention.
 
-Cardiovascular disease prevention (PH25)
+ 
 Appendix D: Gaps in the evidence
 The Programme Development Group (PDG) identified a number of gaps in the evidence
 related to the programmes under examination based on an assessment of the evidence,
@@ -3001,7 +2914,7 @@ involving the families of those at risk.
 health advisers in helping to prevent CVD.
 The group made 6 recommendations for research.
 
-Cardiovascular disease prevention (PH25)
+ 
 Appendix E: supporting documents
 The supporting documents include:
 • Evidence reviews:
@@ -3028,7 +2941,7 @@ primary prevention of cardiovascular disease.
 － Report 1: The effectiveness of physical activity promotion interventions
 － Report 2: Health policy analysis
 
-Cardiovascular disease prevention (PH25)
+ 
 － Report 3: Expert testimony on salt and cardiovascular disease
 － Report 4: The relationship between commercial interests and risk of
 cardiovascular disease
@@ -3053,16 +2966,3 @@ interventions to address dietary fats
 － Report 14: Food manufacturer's perspective.
 • Fieldwork report: Fieldwork on prevention of cardiovascular disease at population
 level.
-
-Cardiovascular disease prevention (PH25)
-Finding more information and committee
-details
-To find NICE guidance on related topics, including guidance in development, see the NICE
-topic page on acute coronary syndromes.
-For full details of the evidence and the guideline committee's discussions, see the
-evidence. You can also find information about how the guideline was developed, including
-details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting our guidelines into practice, see resources to help you
-put NICE guidance into practice.
-ISBN: 978-1-4731-6246-4

@@ -1,55 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "pipeline-flex-embolisation-device-with-shield-technology-for-the-treatment-of-complex-intracranial-aneurysms-pdf-1809590126310853.pdf",
-  "converted_date": "2026-01-31T14:44:23.630165",
-  "file_size_bytes": 142828,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/pipeline-flex-embolisation-device-with-shield-technology-for-the-treatment-of-complex-intracranial-aneurysms-pdf-1809590126310853.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Pipeline Flex embolisation
-device with Shield
-Technology for the
-treatment of complex
+Pipeline Flex embolisation device with Shield Technology for the treatment of complex
 intracranial aneurysms
-HealthTech guidance
-Published: 30 May 2012
-Last updated: 9 January 2019
-www.nice.org.uk/guidance/htg287
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
-This guidance replaces MTG10.
 1 Recommendations
 1.1 The case for adopting the Pipeline Flex embolisation device with Shield
 Technology in the NHS is supported by the current evidence when it is used in
@@ -68,9 +18,7 @@ Pipeline embolisation devices are used the total procedure cost is estimated as
 embolisation device with Shield Technology to the UK Neurointerventional
 Radiology Group audit database, to increase the evidence base and guide future
 use of this technology.
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 2 The technology
 Description of the technology
 2.1 The Pipeline Flex embolisation device with Shield Technology ('Pipeline';
@@ -99,9 +47,7 @@ sponsor are:
 • A higher rate of complete, permanent occlusion of large/giant intracranial
 aneurysms compared with coiling and stent-assisted coiling, leading to
 reduced rates of retreatment and a decreased risk of haemorrhage.
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 • Increased access to treatment for patients with complex intracranial
 aneurysms. Pipeline offers a new option for treating patients with complex
 intracranial aneurysms which are not suitable for stent-assisted coiling or
@@ -120,9 +66,7 @@ often with concomitant use of stent placement (stent-assisted coiling),
 neurosurgical clipping requiring craniotomy (with or without bypass procedures),
 parent vessel occlusion (by open neurosurgery or by endovascular means) and
 conservative management.
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 3 Clinical evidence
 Summary of clinical evidence
 3.1 Full details of all clinical outcomes considered by the committee are available in
@@ -147,9 +91,7 @@ admission to hospital
 the quality of many of these to be poor and because of duplication in patient
 reporting, the sponsor's submission presented detailed findings on a total of
 139 patients from 2 studies, with a maximum follow-up of 2 years. The studies
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 were Pipeline for Intracranial Treatment of Aneurysms (PITA) and Pipeline for
 Uncoilable or Failed aneurysms (PUFS).
 3.4 Nelson et al. (2011) reported outcomes up to 2 years for the PITA study: a
@@ -182,9 +124,7 @@ PUFS study, the primary effectiveness end point was complete occlusion of the
 aneurysm and absence of parent vessel stenosis greater than 50% at 180 days.
 The probability of exceeding the pre-determined 'success threshold' of 50% was
 statistically significant (p<0.0001; FDA, 2011).
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 3.9 Major ipsilateral stroke or neurological death, as judged by the Clinical Events
 Committee, was reported in 6% (6 of 107) of patients at 180 days in the PUFS
 study (FDA 2011). Ipsilateral stroke was reported in 7% (2 of 31) of patients within
@@ -218,9 +158,7 @@ improved from baseline in 20% (21 of 104) of patients, remained unchanged in
 67% (70 of 104) and deteriorated in 10% (10 of 104) at 180 days follow-up. There
 was an improvement in visual field sensitivity (not otherwise described) from
 baseline in 21% (19 of 89) of patients, no change in 73% (65 of 89) of patients
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 and deterioration in eye function in 6% (5 of 89) of patients at follow-up of
 180 days (FDA 2011). Three case reports described complete resolution of
 symptoms at follow-up ranging from 10 to 26 weeks (Fiorella et al. 2009a, 2009b;
@@ -249,9 +187,7 @@ bleeding is subject to some delay.
 3.19 The committee recognised that patient selection for treatment either by Pipeline
 or by comparator interventions is complex, and needs to be carried out by an
 experienced multidisciplinary team.
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 3.20 The committee noted that most of the clinical evidence came from the United
 States, where patient selection for different types of endovascular interventions
 may differ from the UK, in terms of the treatments selected for intracranial
@@ -266,9 +202,7 @@ are in progress.
 3.23 The committee considered that data collection using a register would be an
 important practical way of developing evidence to guide future practice, in
 addition to the ongoing studies.
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 4 NHS considerations
 System impact
 4.1 No secondary treatments were required at 1-year follow-up among patients in the
@@ -283,9 +217,7 @@ Pipeline offers the only possible means of treatment (an estimated 60 patients
 per year in the UK). For these patients the potential benefits offered by Pipeline
 are important, because they are at high risk of aneurysm rupture and because
 their intracranial aneurysms are unsuitable for other treatments.
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 5 Cost considerations
 Cost evidence
 5.1 The sponsor submitted a de novo cost analysis for Pipeline for the treatment of
@@ -315,9 +247,7 @@ long-term monitoring with annual MRI. The cost associated with stroke was
 assumed to be representative of the cost of rupture. Costs applied to each type
 of retreatment were assumed to be the same as the full cost if that treatment had
 been used initially.
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 5.5 The costs and consequences associated with adverse events were not included
 in the base-case analysis because the sponsor considered there to be
 insufficient reliable data for each treatment group. However, the sponsor did
@@ -350,9 +280,7 @@ outcomes were restricted to the short term (6 months), Pipeline remained cost
 saving compared with stent-assisted coiling (£10,316).
 5.10 Sensitivity analyses carried out by the sponsor showed that the main factors
 influencing the cost analysis were the number and cost of consumables, in
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 particular the numbers of Pipeline embolisation devices and endovascular coils.
 The sponsor carried out sensitivity analysis for the use of 1 to 3 Pipeline
 embolisation devices and separately for 5 to 100 coils.
@@ -386,9 +314,7 @@ analyses demonstrated that reducing the cost of 2 microcatheters for stent-
 assisted coiling from £1,030 to £460.50 reduced the total procedure cost for
 stent-assisted coiling from £37,451 to £36,137.
 5.14 The sponsor's economic modelling also assumed that a balloon is used in 50% of
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 stent-assisted coiling procedures and is not used to insert Pipeline. However, the
 expert advisers stated that use of a balloon is relatively uncommon in the UK for
 stent-assisted coiling procedures. In the exploratory analyses carried out by the
@@ -423,9 +349,7 @@ Pipeline from another. However the external assessment centre was not able to
 judge which study was the best source for duration of procedure and no
 systematic review was carried out. The external assessment centre stated that
 because both studies were appropriately and accurately used in the model no
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 changes were justified with regard to procedure time for stent-assisted coiling or
 Pipeline. The external assessment centre also noted that the sponsor included
 the use of additional endovascular equipment in the model based on the duration
@@ -458,9 +382,7 @@ expert advisers and by data from the sponsor that 2 Pipeline embolisation
 devices were likely to be needed for most patients treated in the UK for complex
 giant or large aneurysms.
 5.20 There was considerable uncertainty about the number of coils likely to be used
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 during stent-assisted coiling. The committee was advised that 40 coils was
 probably an overestimate of the number needed for most complex aneurysms
 and there were suggestions that about 25 to 30 coils might be more typical of the
@@ -494,9 +416,7 @@ are available on clinical use and that the low cost of these drugs and the
 difference in drug use would not be likely to have any significant impact on the
 overall procedure costs for either stent-assisted coiling or Pipeline. The
 committee agreed that the drug cost in the sponsor's base-case analysis was
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 appropriate
 5.25 The committee considered the average duration of the procedure presented in
 the sponsor's base-case analysis. It noted the external assessment centre's view
@@ -529,13 +449,9 @@ management for patients in whom those other options were feasible.
 5.29 For the guidance review, the external assessment centre revised the model to
 reflect updated costs. The main parameter changes were costs associated with
 staff, hospital imaging equipment, drugs, rupture and adverse event costs.
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 Further details of the revised model are in the revised model summary. [2019]
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
+ 
 6 Conclusions
 6.1 The committee concluded that current evidence supports the case for adoption
 of Pipeline when it is used in highly selected patients with complex giant or large
@@ -555,141 +471,3 @@ were not framed on the basis of treating patients for whom there is no other
 viable option apart from conservative management. The committee saw little
 evidence in this patient group and this area of unmet clinical need would benefit
 from further research.
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
-7 Committee members and NICE lead
-team
-Medical technologies advisory committee members
-The medical technologies advisory committee is a standing advisory committee of NICE. A
-list of the committee members who took part in the discussions for this guidance appears
-below.
-Committee members are asked to declare any interests in the technology to be evaluated.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that evaluation.
-The minutes of each medical technologies advisory committee meeting, which include the
-names of the members who attended and their declarations of interests, are posted on the
-NICE website.
-Professor Bruce Campbell (Chair)
-Consultant Vascular Surgeon, Exeter
-Dr Peter Groves (Vice Chair)
-Consultant Cardiologist, Cardiff and Vale NHS Trust
-Dr Dilly Anumba
-Senior Clinical Lecturer/Honorary Consultant Obstetrician and Gynaecologist, University of
-Sheffield
-Ms Susan Bennett
-Lay member
-Professor Bipin Bhakta
-Charterhouse Professor in Rehabilitation Medicine and NHS Consultant Physician,
-University of Leeds
-Dr Keith Blanshard
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
-Consultant Radiologist, Leicester Royal Infirmary
-Dr Martyn Bracewell
-Senior Lecturer in Neurology and Neuroscience, Bangor University
-Dr Daniel Clark
-Head of Clinical Engineering, Nottingham University Hospitals NHS Trust
-Professor Karl Claxton
-Professor of Economics, University of York
-Mrs Gail Coster
-Radiography Manager, Strategy, Planning and Governance, Yorkshire NHS Trust
-Dr Craig Dobson
-General Practitioner and Senior Lecturer in Medical Education and General Practice, Hull
-York Medical School
-Dr Alex Faulkner
-Senior Research Fellow, Centre for Biomedicine & Society, King's College London
-Professor Tony Freemont
-Professor of Osteoarticular Pathology, University of Manchester
-Professor Peter Gaines
-Consultant Interventional Radiologist, Sheffield, Vascular Institute and Sheffield Hallam
-University
-Mr Harry Golby
-Head of Commissioning, Acute, Access and Diagnostics, Salford NHS
-Mr Matthew Hill
-Lay member
-Dr Paul Knox
-Reader in Vision Science, University of Liverpool
-Ms Catherine Leonard
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
-Reimbursement Manager, Medtronic UK
-Dr Susanne Ludgate
-Clinical Director, Devices Medicines and Healthcare Products Regulatory Agency
-Professor Christopher McCabe
-Professor of Health Economics, Institute of Health Sciences, University of Leeds
-Mrs Jacqui Nettleton
-Programme Director, Long Term Conditions, West Sussex PCT
-Professor Sharon Peacock
-Professor of Clinical Microbiology, University of Cambridge
-Professor Brian Pollard
-Professor of Anaesthesia, Manchester University
-Dr Allan Swift
-Director of Quality and Regulatory Affairs, Gen-Probe Life Sciences
-Dr Allan Wailoo
-Reader in Health Economics, School of Health and Related Research, University of
-Sheffield
-Professor Stephen Westaby
-Consultant Cardiac Surgeon, John Radcliffe Hospital, Oxford
-Dr Janelle York
-Lecturer and Researcher in Nursing, University of Salford
-NICE lead team
-Each medical technology assessment is assigned a lead team of a NICE technical analyst
-and technical adviser, an expert adviser, a technical expert, a patient expert, a non-expert
-member of the medical technologies advisory committee and a representative of the
-external assessment centre.
-Suzi Peden
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
-Technical Analyst
-Lizzy Latimer
-Technical Adviser
-Dr Tony Goddard
-Lead Expert Adviser
-Dr Philip White
-Lead Expert Adviser
-Dr Dilly Anumba
-Non-expert MTAC member
-Grace Carolan-Rees and Kathleen Withers
-External assessment centre representatives
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
-8 Sources of evidence considered by the
-committee
-The external assessment centre report for this assessment was prepared by Cedar
-(Clinical evaluation device assessment reporting):
-• Withers K, Carolan-Rees D, Dale M et al. External Assessment Centre report: Pipeline
-embolisation device for the treatment of complex intracranial aneurysms. September
-2011.
-Submissions from the following sponsor:
-• Covidien.
-The following individuals gave their expert personal view on Pipeline by providing their
-expert comments on the draft scope and assessment report.
-• Dr Tony Goddard, Consultant Diagnostic and Interventional Neuroradiologist, British
-Society of Neuroradiologists
-• Dr Robert Lenthall, Consultant Neuroradiologist, British Society of Neuroradiologists
-• Dr Andrew Molyneux, Consultant Neuroradiologist, British Society of Neuroradiologists
-• Dr Philip White, Consultant Neuroradiologist, British Society of Neuroradiologists.
-The following individuals gave their expert personal view on Pipeline in writing by
-completing a patient questionnaire or expert adviser questionnaire provided to the
-committee.
-• Dr Tony Goddard, Consultant Diagnostic and Interventional Neuroradiologist, British
-Society of Neuroradiologists
-• Dr Robert Lenthall, Consultant Neuroradiologist, British Society of Neuroradiologists
-• Dr Andrew Molyneux, Consultant Neuroradiologist, British Society of Neuroradiologists
-• Dr Philip White, Consultant Neuroradiologist, British Society of Neuroradiologists.
-
-Pipeline Flex embolisation device with Shield Technology for the treatment of complex
-intracranial aneurysms (HTG287)
-Update information
-January 2019: This guidance has been updated to include a review of the cost model
-using more recent values. The device name has also been updated. Updated costs
-identified during the guidance review are denoted as [2019].
-Minor changes since publication
-December 2025: Medical technologies guidance 10 has been migrated to HealthTech
-guidance 287. The recommendations and accompanying content remain unchanged.
-ISBN: 978-1-4731-7581-5

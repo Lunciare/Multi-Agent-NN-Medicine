@@ -1,38 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "alcoholmediated-perivascular-renal-sympathetic-denervation-for-resistant-hypertension-pdf-1899878210236357.pdf",
-  "converted_date": "2026-01-31T14:50:25.665108",
-  "file_size_bytes": 66257,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/alcoholmediated-perivascular-renal-sympathetic-denervation-for-resistant-hypertension-pdf-1899878210236357.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Alcohol-mediated perivascular
-renal sympathetic denervation
-for resistant hypertension
-Interventional procedures guidance
-Published: 11 March 2025
-www.nice.org.uk/guidance/ipg801
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-
 Alcohol-mediated perivascular renal sympathetic denervation for resistant hypertension
-(IPG801)
 discrimination, advance equality of opportunity, and foster good relations. Nothing in this
 guidance should be interpreted in a way that would be inconsistent with compliance with
 those duties. Providers should ensure that governance structures are in place to review,
@@ -58,8 +24,7 @@ as lifestyle change
 • complications.
 Why the committee made these recommendations
 
-Alcohol-mediated perivascular renal sympathetic denervation for resistant hypertension
-(IPG801)
+ 
 The evidence for this procedure is limited. It does not show major safety concerns but this
 is based on limited evidence and needs confirming, because this procedure is invasive and
 has potential complications. There is also uncertainty about how well the procedure
@@ -88,8 +53,7 @@ as needed. For resistant hypertension, treatment options include additional
 medicines and device-based antihypertensive therapies (such as radiofrequency
 or ultrasound renal denervation, and carotid baroreceptor stimulation).
 
-Alcohol-mediated perivascular renal sympathetic denervation for resistant hypertension
-(IPG801)
+ 
 The procedure
 2.3 Before the procedure, renal artery imaging is done to evaluate renal arterial
 anatomy.
@@ -118,8 +82,7 @@ procedures overview. Other relevant literature is in the appendix of the overvie
 outcomes to be: reduction in blood pressure, reduction in use of antihypertensive
 medicines, reduction in end-organ damage and improvement in quality of life.
 
-Alcohol-mediated perivascular renal sympathetic denervation for resistant hypertension
-(IPG801)
+ 
 3.3 The professional experts and the committee considered the key safety outcomes
 to be: pain, bleeding and damage to renal arteries or other structures.
 3.4 Patient commentary was sought but none was received.
@@ -134,6 +97,3 @@ confirming over a longer term. So, more evidence is needed on safety.
 3.8 This procedure is a single intervention and not intended to be repeated.
 3.9 Technology has evolved over time and renal accessory arteries can be reached
 using a smaller catheter to achieve a more compete denervation.
-ISBN: 978-1-4731-6784-1
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

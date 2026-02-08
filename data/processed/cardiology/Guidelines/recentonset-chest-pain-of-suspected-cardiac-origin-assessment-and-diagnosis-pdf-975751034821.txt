@@ -1,53 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "recentonset-chest-pain-of-suspected-cardiac-origin-assessment-and-diagnosis-pdf-975751034821.pdf",
-  "converted_date": "2026-01-31T14:49:59.808662",
-  "file_size_bytes": 204871,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/recentonset-chest-pain-of-suspected-cardiac-origin-assessment-and-diagnosis-pdf-975751034821.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Recent-onset chest pain of
-suspected cardiac origin:
-assessment and diagnosis
-Clinical guideline
-Published: 24 March 2010
-Last updated: 30 November 2016
-www.nice.org.uk/guidance/cg95
-
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
-
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
-This guideline partially replaces TA73.
-This guideline is the basis of QS21 and QS68.
-This guideline should be read in conjunction with NG185.
+Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis
 Overview
 This guideline covers assessing and diagnosing recent chest pain in people aged 18 and
 over and managing symptoms while a diagnosis is being made. It aims to improve
@@ -59,7 +10,7 @@ Who is it for?
 • Healthcare professionals
 • Adults with chest pain of recent onset, their families and carers
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 Recommendations
 People have the right to be involved in discussions and make informed decisions
 about their care, as described in NICE's information on making decisions about your
@@ -84,7 +35,7 @@ free language. Include:
 • their purpose, benefits and any limitations of their diagnostic accuracy
 • duration
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 • level of discomfort and invasiveness
 • risk of adverse events. [2010]
 1.1.1.5 Offer information about the risks of diagnostic testing, including any radiation
@@ -111,7 +62,7 @@ elevation myocardial infarction (STEMI) and non-ST-segment-elevation myocardial
 infarction (NSTEMI).
 The guideline addresses assessment and diagnosis irrespective of setting, because
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 people present in different ways. For early management of these conditions, follow the
 NICE guideline on acute coronary syndromes.
 1.2.1 Initial assessment and referral to hospital
@@ -139,7 +90,7 @@ and with episodes often lasting longer than 15 minutes. [2010]
 1.2.1.5 Do not assess symptoms of an ACS differently in men and women. Not all people
 with an ACS present with central chest pain as the predominant feature. [2010]
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 1.2.1.6 Do not assess symptoms of an ACS differently in ethnic groups. There are no
 major differences in symptoms of an ACS among different ethnic groups. [2010]
 1.2.1.7 Refer people to hospital as an emergency if an ACS is suspected (see
@@ -166,7 +117,7 @@ than 72 hours ago and who have no complications such as pulmonary oedema:
 • take into account the length of time since the suspected ACS when
 interpreting the troponin level.
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 Use clinical judgement to decide whether referral is necessary and how
 urgent this should be. [2010]
 1.2.1.11 Refer people to hospital as an emergency if they have a recent (confirmed or
@@ -196,7 +147,7 @@ ACS if there are other changes in the resting 12-lead ECG, specifically Q waves
 and T wave changes. Consider following the NICE guideline on acute coronary
 syndromes if these conditions are likely. Continue to monitor (see
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 recommendation 1.2.3.4). [2010]
 1.2.2.5 Do not exclude an ACS when people have a normal resting 12-lead ECG. [2010]
 1.2.2.6 If a diagnosis of ACS is in doubt, consider:
@@ -223,7 +174,7 @@ myocardial infarction (MI) is suspected. [2010]
 1.2.3.2 Offer people a single loading dose of 300 mg aspirin as soon as possible unless
 there is clear evidence that they are allergic to it.
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 If aspirin is given before arrival at hospital, send a written record that it has been
 given with the person.
 Only offer other antiplatelet agents in hospital. Follow the NICE guideline on acute
@@ -254,7 +205,7 @@ often this should be done, until a firm diagnosis is made. This should include:
 • checking pain relief is effective. [2010]
 1.2.3.5 Manage other therapeutic interventions using the NICE guideline on acute
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 coronary syndromes. [2010]
 1.2.4 Assessment in hospital for people with a suspected acute
 coronary syndrome
@@ -277,7 +228,7 @@ Record:
 • details of previous investigations or treatments for similar symptoms of chest
 pain. [2010]
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 1.2.5 Use of biochemical markers for diagnosis of an acute
 coronary syndrome
 1.2.5.1 Do not use high-sensitivity troponin tests for people in whom ACS is not
@@ -305,7 +256,7 @@ with acute chest pain. [2010]
 • the resting 12-lead ECG findings
 • the pre-test probability of NSTEMI
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 • the length of time since the suspected ACS
 • the probability of chronically elevated troponin levels in some people
 • that 99th percentile thresholds for troponin I and T may differ between sexes.
@@ -333,7 +284,7 @@ Continue to monitor (see recommendation 1.2.3.4). [2010]
 1.2.6.4 When a diagnosis of ACS is confirmed, follow the NICE guideline on acute
 coronary syndromes. [2010]
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 1.2.6.5 Reassess people with chest pain without raised troponin levels and no acute
 resting 12-lead ECG changes to determine whether their chest pain is likely to be
 cardiac.
@@ -362,7 +313,7 @@ history or risk factors raising clinical suspicion. [2016]
 in whom stable angina cannot be excluded by clinical assessment alone,
 additional diagnostic investigations and use of non-invasive functional testing for
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 myocardial ischaemia). [2016]
 1.3.2 Clinical assessment
 1.3.2.1 Take a detailed clinical history documenting:
@@ -386,7 +337,7 @@ cardiomyopathy) and
 • Presence of one or none of the features below is defined as non-anginal
 chest pain.
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 Anginal pain is:
 • constricting discomfort in the front of the chest, or in the neck, shoulders,
 jaw or arms
@@ -411,7 +362,7 @@ into account when estimating people's likelihood of angina:
 revascularisation. [2010]
 1.3.3.5 Unless clinical suspicion is raised based on other aspects of the history and risk
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 factors, exclude a diagnosis of stable angina if the pain is non-anginal (see
 recommendation 1.3.3.1). Features which make a diagnosis of stable angina
 unlikely are when the chest pain is:
@@ -440,7 +391,7 @@ presentation. [2010, amended 2016]
 12-lead ECG. [2010]
 1.3.3.12 Do not offer diagnostic testing to people with non-anginal chest pain on clinical
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 assessment (see recommendation 1.3.3.1) unless there are resting ECG ST-T
 changes or Q waves. [2016]
 1.3.3.13 A number of changes on a resting 12-lead ECG are consistent with CAD and may
@@ -468,7 +419,7 @@ non-anginal chest pain after clinical assessment need no further diagnostic test
 However in a very small number of people, there are remaining concerns that the pain
 could be ischaemic.
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 1.3.4.1 Include the typicality of anginal pain features (see recommendation 1.3.3.1) in all
 requests for diagnostic investigations and in the person's notes. [2010, amended
 2016]
@@ -498,7 +449,7 @@ significance or is non-diagnostic. [2016]
 1.3.5.2 Offer invasive coronary angiography as a third-line investigation when the results
 of non-invasive functional imaging are inconclusive. [2016]
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 1.3.6 Use of non-invasive functional testing for myocardial
 ischaemia
 1.3.6.1 When offering non-invasive functional imaging for myocardial ischaemia use:
@@ -522,7 +473,7 @@ stress-induced wall motion abnormalities. [2010]
 1.3.6.5 Do not use exercise ECG to diagnose or exclude stable angina for people without
 known CAD. [2010]
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 1.3.7 Making a diagnosis following investigations
 Box 1 Definition of significant coronary artery disease
 Significant coronary artery disease (CAD) found during CT coronary angiography is ≥
@@ -546,7 +497,7 @@ coronary angiography or
 • reversible myocardial ischaemia is found during non-invasive functional
 imaging. [2016]
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 1.3.7.2 Investigate other causes of chest pain when:
 • significant CAD (see box 1) is not found during invasive coronary angiography
 or 64-slice (or above) CT coronary angiography or
@@ -560,7 +511,7 @@ Terms used in this guideline
 Chest pain
 The term 'chest pain' is used throughout the guideline to mean chest pain or discomfort.
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 Recommendations for research
 In 2010, the guideline committee made the following recommendations for research. The
 committee's full set of recommendations for research is detailed in the full guideline.
@@ -587,7 +538,7 @@ with chest pain
 In what circumstances should telephone advice be given to people calling with chest pain?
 Is the appropriateness influenced by age, sex or symptoms?
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 Why this is important
 The telephone is a common method of first contact with healthcare services, and
 produces a near uniform emergency response to chest pain symptoms. Such a response
@@ -618,7 +569,7 @@ overcome key problems in much of the existing evidence base.
 Accurate assessment of pre-test likelihood of coronary disease is needed to inform the
 cost-effective choice of investigative technologies such as CT coronary calcium scoring
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 for people with chest pain that may be caused by myocardial ischaemia. The data on
 which pre-test likelihood is based date from 1979 in a US population and may not be
 applicable to contemporary UK populations. There remain continuing uncertainties about
@@ -649,7 +600,7 @@ obtained and that a patient's moral, ethical and spiritual beliefs, expectations
 misconceptions about their condition, have been taken into account. Consideration should
 be given to any communication problems the person may have.
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 Putting this guideline into practice
 NICE has produced tools and resources to help you put this guideline into practice.
 Putting recommendations into practice can take time. How long may vary from guideline to
@@ -678,7 +629,7 @@ there are gaps in current service provision.
 4. Think about what data you need to measure improvement and plan how you will collect
 it. You may want to work with other health and social care organisations and specialist
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 groups to compare current practice with the recommendations. This may also help identify
 local issues that will slow or prevent implementation.
 5. Develop an action plan, with the steps needed to put the guideline into practice, and
@@ -699,7 +650,7 @@ and use of evidence and guidance. See our into practice pages for more informati
 Also see Leng G, Moore V, Abraham S, editors (2014) Achieving high quality care –
 practical experience from NICE. Chichester: Wiley.
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 Context
 Conditions causing chest pain or discomfort, such as an acute coronary syndrome or
 angina, have a potentially poor prognosis, emphasising the importance of prompt and
@@ -730,48 +681,5 @@ necessarily cardiac.
 The term 'chest pain' is used throughout the guideline to mean chest pain or discomfort.
 The guideline will assume that prescribers will use a drug's summary of product
 
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
+ 
 characteristics to inform decisions made with individual patients.
-
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
-Finding more information and committee
-details
-To find NICE guidance on related topics, including guidance in development, see the NICE
-topic page on cardiovascular conditions.
-For full details of the evidence and the guideline committee's discussions, see the full
-guideline. You can also find information about how this guideline was developed, including
-details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting our guidelines into practice, see resources to help you
-put NICE guidance into practice.
-
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
-Update information
-November 2016: New recommendations have been added for the assessment and
-diagnosis of acute chest pain and the assessment and diagnosis of stable chest pain.
-These are marked as [2016].
-Where recommendations end [2010], the evidence has not been reviewed since the
-original guideline.
-We have also made some changes without an evidence review:
-• some 2010 recommendations have been updated to align with the 2016
-recommendations
-• some recommendations have been updated to clarify the use of high-sensitivity
-troponin testing
-• some recommendations have been updated to remove reference to estimate of the
-likelihood of coronary artery disease
-• reference to autopsy as a diagnostic criterion has been removed.
-These recommendations are marked [2010, amended 2016].
-Minor changes since publication
-October 2022: We added text to indicate that pulse oximetry may be less reliable in
-people with dark skin. We also added a link to the NHS patient safety alert on the risk of
-harm from inappropriate placement of pulse oximeter probes. See recommendation 1.2.3.3.
-November 2020: We linked to the updated guideline on acute coronary syndromes.
-August2020: We linked to updated diagnostics guidance in recommendations on use of
-biochemical markers for diagnosis (section 1.2.5).
-January 2020: The title of the guideline was updated to clarify that it covers chest pain of
-suspected cardiac origin. We linked to the universal definition of myocardial infarction in
-
-Recent-onset chest pain of suspected cardiac origin: assessment and diagnosis (CG95)
-recommendation 1.2.6.1 and added a cross-reference to related NICE medical technologies
-guidance at the end of section 1.3.4.
-ISBN: 978-1-4731-2182-9

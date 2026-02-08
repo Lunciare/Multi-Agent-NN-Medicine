@@ -1,66 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "cardiovascular-disease-risk-assessment-and-reduction-including-lipid-modification-pdf-66143902851781.pdf",
-  "converted_date": "2026-01-31T14:44:39.927795",
-  "file_size_bytes": 278016,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/cardiovascular-disease-risk-assessment-and-reduction-including-lipid-modification-pdf-66143902851781.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Cardiovascular disease:
-risk assessment and
-reduction, including lipid
-modification
-NICE guideline
-Published: 14 December 2023
-www.nice.org.uk/guidance/ng238
-
 Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
-
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
-Lipid-lowering treatment for primary prevention of cardiovascular disease .................................. 39
-Statins for secondary prevention of cardiovascular disease ............................................................ 41
-Optimising statin treatment .................................................................................................................. 42
-Lipid target for secondary prevention of cardiovascular disease .................................................... 42
-Assessing response to treatment ........................................................................................................ 46
-Context .........................................................................................................................................48
-Finding more information and committee details .....................................................................49
-Update information .....................................................................................................................50
-
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
-This guideline replaces CG181.
-This guideline is the basis of QS5, QS100, QS208 and QS209.
 Overview
 This guideline covers identifying and assessing risk of cardiovascular disease (CVD) in
 adults without established CVD. It covers lifestyle changes and lipid-lowering treatment
@@ -72,8 +10,7 @@ Who is it for?
 • Healthcare professionals
 • Adults who are at risk of CVD or who have CVD
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Recommendations
 People have the right to be involved in discussions and make informed decisions
 about their care, as described in NICE's information on making decisions about your
@@ -98,8 +35,7 @@ CVD is 10% or more. [2008, amended 2014]
 1.1.5 Discuss the process of risk assessment with the person identified as being at
 risk, including the option of declining any formal risk assessment. [2008]
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 1.1.6 Do not use opportunistic assessment as the main strategy in primary care to
 identify CVD risk in unselected people. [2008]
 Full formal risk assessment
@@ -126,8 +62,7 @@ hypercholesterolaemia) or other inherited disorders of lipid metabolism. [May
 1.1.10 Recognise that CVD risk tools may underestimate risk in certain groups of people,
 including but not limited to:
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 • people treated for HIV
 • people already taking medicines to treat CVD risk factors
 • people who have recently stopped smoking
@@ -153,8 +88,7 @@ needed. [2008, amended May 2023]
 1.1.14 Document the discussion relating to the consultation on risk assessment and the
 person's decision. [2008]
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 1.1.15 Offer people information about their absolute risk of CVD and the absolute
 benefits and harms of any intervention over a 10-year period. [2008]
 1.1.16 Consider using a lifetime risk tool such as QRISK3-lifetime to inform discussions
@@ -181,8 +115,7 @@ decline the offer of treatment, advise them that their CVD risk should be
 reassessed in the future. Record their choice in their medical records. [2008,
 amended 2014]
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 For a short explanation of why the committee made the 2023 recommendation and
 how it might affect practice, see the rationale and impact section on communication
 about risk assessment, lifestyle changes and treatment.
@@ -205,8 +138,7 @@ Behaviour change
 lifestyle in line with NICE's guideline on behaviour change: general approaches.
 [2014, amended May 2023]
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Healthy eating
 For advice on healthy eating, see the NHS eat well guide.
 Cardioprotective diet
@@ -232,8 +164,7 @@ activities in line with the UK Chief Medical Officers' physical activity guideli
 [2008, amended 2014]
 1.3.6 Encourage people who are unable to perform moderate intensity physical activity
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 because of comorbidity, medical conditions or personal circumstances to
 exercise at their maximum safe capacity. [2008, amended 2014]
 1.3.7 Advice about physical activity should take into account the person's needs,
@@ -257,8 +188,7 @@ tobacco. [2008]
 Plant stanols and sterols
 1.3.12 Do not advise any of the following to take plant stanols or sterols to prevent CVD:
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 • people being treated for primary prevention
 • people being treated for secondary prevention
 • people with CKD
@@ -285,8 +215,7 @@ coronary heart disease. [2014]
 20 mmol per litre that is not a result of excess alcohol intake or poor glycaemic
 control. [2014]
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 1.4.7 In people with a triglyceride level between 10 mmol and 20 mmol per litre:
 • repeat the triglyceride measurement with a fasting test (after an interval of
 5 days, but within 2 weeks) and
@@ -313,8 +242,7 @@ guideline on multimorbidity.) [May 2023, amended December 2023]
 tenderness or weakness associated with statin use is small and the rate of severe
 muscle adverse effects (rhabdomyolysis) because of statins is extremely low.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 [May 2023]
 Discuss possible interactions between statins and other
 substances
@@ -339,8 +267,7 @@ obesity management)
 • thyroid-stimulating hormone level in people with symptoms of underactive or
 overactive thyroid. [May 2023, amended December 2023]
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 1.5.6 Do not routinely exclude from statin treatment people who have liver
 transaminase levels that are raised but are less than 3 times the upper limit of
 normal. [May 2023]
@@ -367,8 +294,7 @@ Statins and pregnancy
 1.5.9 Be aware that statins are contraindicated in pregnancy because of the risk to the
 unborn child of exposure to statins. [2014, amended May 2023]
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 1.5.10 Explain that:
 • statins should be stopped if pregnancy is a possibility
 • statins should be stopped 3 months before attempting to conceive
@@ -394,8 +320,7 @@ obesity management.) [May 2023]
 1.6.4 Offer people the opportunity to have their risk of CVD assessed again after they
 have tried to change their lifestyle. [May 2023]
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 1.6.5 If lifestyle change is ineffective or inappropriate offer statin treatment. [May
 2023]
 Treating comorbidities and secondary causes of dyslipidaemia
@@ -419,8 +344,7 @@ diabetes who:
 • have established nephropathy or
 • have other CVD risk factors. [May 2023]
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 1.6.11 Consider statin treatment for the primary prevention of CVD for people aged 18
 to 40 with type 1 diabetes, including those who have had diabetes for 10 years or
 less. [May 2023, amended December 2023]
@@ -445,8 +369,7 @@ details, see the guidance on ezetimibe (TA385, 2016).
 prevention of cardiovascular disease
 These recommendations apply to people with and without type 1 and 2 diabetes. Also see
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 the sections on optimising statin treatment and assessing response to treatment.
 Lipid target for people taking lipid-lowering treatments
 1.7.1 For secondary prevention of CVD, aim for LDL cholesterol levels of 2.0 mmol per
@@ -472,8 +395,7 @@ amended December 2023]
 1.7.3 Offer a lower dose of atorvastatin if any of the following apply:
 • it could react with other drugs
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 • there is a high risk of adverse effects
 • the person would prefer to take a lower dose. [May 2023, amended
 December 2023]
@@ -496,8 +418,7 @@ starting statin treatment. [December 2023]
 Optimising statin treatment
 See the section on optimising statin treatment.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Escalating treatment for people on statins
 1.7.7 Make decisions about escalating lipid-lowering treatment after an informed
 discussion between the clinician and the person about the risks and benefits of
@@ -524,8 +445,7 @@ secondary prevention of CVD.
 Full details of the evidence and the committee's discussion are in evidence review D:
 escalation of lipid-lowering treatment for secondary prevention of CVD.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Assessing response to treatment
 See the section on assessing response to treatment.
 1.8 Statins for primary and secondary prevention of
@@ -549,8 +469,7 @@ See the section on assessing response to treatment.
 1.9.1 If the lipid target for primary or secondary prevention of CVD (see
 recommendation 1.6.1 and recommendation 1.7.1) is not met:
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 • discuss adherence and timing of statin dose with the person
 • encourage them to continue improvements to their diet and lifestyle, and to
 make further changes if appropriate
@@ -578,8 +497,7 @@ Full details of the evidence and the committee's discussion are in evidence revi
 statins: efficacy and adverse effects.
 1.10 Treatment if statins are contraindicated or not
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 tolerated
 Also see the section on assessing response to treatment.
 Primary prevention of cardiovascular disease
@@ -607,8 +525,7 @@ lowering treatments recommended as options in NICE's technology appraisal
 guidance on:
 • alirocumab (TA393, June 2016)
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 • bempedoic acid with ezetimibe (TA694, April 2021)
 • evolocumab (TA394, June 2016)
 • inclisiran (TA733, October 2021).
@@ -631,8 +548,7 @@ When to measure creatine kinase
 1.11.3 Advise people who are being treated with a statin to seek medical advice if they
 develop unexplained muscle symptoms (pain, tenderness or weakness). If this
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 occurs, measure creatine kinase. [May 2023]
 1.11.4 If people report muscle pain, tenderness or weakness while taking a statin and
 have a creatine kinase level less than 5 times the upper limit of normal, reassure
@@ -656,8 +572,7 @@ of CVD. [May 2023, amended December 2023]
 prevention of CVD. [May 2023, amended December 2023]
 1.11.11 During the annual medication review:
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 • discuss and encourage medicines adherence, if the shared decision is to
 continue with lipid-lowering treatment
 • discuss and encourage dietary and lifestyle changes if appropriate
@@ -683,8 +598,7 @@ Adherence to statin treatment
 1.12.1 Do not offer coenzyme Q10 or vitamin D to increase adherence to statin
 treatment. [2014]
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Fibrates
 1.12.2 Do not routinely offer fibrates to prevent CVD. [2014, amended December 2023]
 Nicotinic acid
@@ -707,8 +621,7 @@ Combination treatment
 1.12.7 To prevent CVD, do not offer the combination of a statin with:
 • a bile acid sequestrant (anion exchange resin), a fibrate or nicotinic acid or
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 • an omega 3 fatty acid compound, except icosapent ethyl as described in
 NICE's technology appraisal guidance on icosapent ethyl with statin therapy
 for reducing the risk of cardiovascular events in people with raised
@@ -733,8 +646,7 @@ LDL cholesterol they can produce:
 • fluvastatin: 80 mg
 • rosuvastatin: 5 mg
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 • simvastatin: 20 mg to 40 mg.
 Low-intensity statin
 The following doses for statins are low intensity, based on the percentage reduction in LDL
@@ -747,8 +659,7 @@ A diagnosis of schizophrenia, bipolar disorder or other psychoses. (In line with
 for severe mental health conditions used in the NHS annual health check for people with
 severe mental health conditions.)
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Recommendations for research
 The guideline committee has made the following key recommendations for research.
 1 Simplifying risk assessment
@@ -768,16 +679,14 @@ diabetes
 What is the effectiveness of statins and/or other lipid-lowering treatment in people with
 type 1 diabetes? [May 2023, amended December 2023]
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 For a short explanation of why the committee made this recommendation for
 research, see the rationale section on lipid-lowering treatment for primary prevention
 of CVD.
 Full details of the evidence and the committee's discussion are in evidence review C:
 statins: efficacy and adverse effects.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Rationale and impact
 These sections briefly explain why the committee made the recommendations and how
 they might affect practice.
@@ -807,8 +716,7 @@ with schizophrenia, bipolar disorder and other psychoses. Despite this the commi
 agreed to recommend use of the tool for people with severe mental illness (however
 defined), but clinical judgement should inform interpretation.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 The committee was aware that the NHS Health Check best practice guidance states that
 gender should be recorded as reported by the individual. If the individual discloses gender
 reassignment, they should be provided with CVD risk calculations based on both genders
@@ -842,8 +750,7 @@ for this age group. The committee highlighted it is important that this group be
 for interventions to prevent CVD even though a formal risk assessment would not be
 carried out.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 The evidence for lifetime risk tools was not considered sufficient to recommend their use
 instead of 10-year risk tools. However, the committee agreed they can have value in
 communication of risk. See the section on communication about risk assessment, lifestyle
@@ -873,8 +780,7 @@ The committee agreed that the evidence did not support using lifetime CVD risk
 assessment tools to guide decisions on the need for statin treatment because their
 accuracy could not be reliably assessed.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 However, the committee noted that the usefulness of lifetime risk tools is primarily in
 communicating risk. They agreed by consensus that lifetime risk tools should be
 considered to help inform discussions about risk and motivate lifestyle changes. The
@@ -903,8 +809,7 @@ Aspirin for primary prevention of cardiovascular
 disease
 Recommendation 1.2.1
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Why NICE made the recommendation
 NICE's surveillance team reviewed the evidence about aspirin for the primary prevention of
 CVD. Based on the review, NICE decided to add a do not routinely offer recommendation
@@ -928,8 +833,7 @@ Return to recommendation
 Discussions and assessment before starting statins
 Recommendations 1.5.1 to 1.5.7
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Why the committee made the recommendations
 New evidence on adverse effects while on statins supported the 2014 recommendation.
 Evidence on the risk of muscle pain and rhabdomyolysis with statin use demonstrated a
@@ -957,8 +861,7 @@ Evidence on both the effectiveness and adverse effects of statins showed high-in
 statins are clinically effective and cost effective compared to no statins, low-intensity
 statins, or medium-intensity statins for preventing CVD in people without CVD.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 The committee agreed to retain 20 mg as the recommended starting dose for all people
 starting atorvastatin for primary prevention of CVD. Although there was committee
 consensus that higher doses have a greater effect, they agreed that starting at the lowest
@@ -990,8 +893,7 @@ may be used in some circumstances until QRISK3 is embedded in electronic clinica
 systems (see the panel after recommendation 1.1.8 for details). The 10% threshold applies
 whether QRISK2 or 3 is used.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Despite this, the committee agreed that a more person-centred approach should be
 adopted and recommended atorvastatin 20 mg as an option for people who want to take
 statins, irrespective of their QRISK3 score, or where clinical judgement suggests the
@@ -1020,8 +922,7 @@ The evidence supported the 2014 recommendations on initial treatment with statin
 so they were retained. The recommendation on acute coronary syndromes was amended
 to clarify that a full lipid profile is needed on admission to hospital and 2 to 3 months after
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 starting treatment. See the section on assessing response to treatment for further details.
 How the recommendations might affect practice
 These recommendations are in line with current practice and therefore will not have a
@@ -1043,8 +944,7 @@ cardiovascular disease
 Recommendation 1.7.1, recommendations 1.7.7 to 1.7.10 and recommendations 1.10.3 and
 1.10.4
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Why the committee made the recommendations
 Lipid target
 The committee agreed LDL cholesterol and non-HDL cholesterol levels should be reduced
@@ -1078,8 +978,7 @@ The model estimated the absolute LDL cholesterol target at which it was cost eff
 escalate treatment for people on a high-intensity statin. The analysis explored different
 combinations of lipid-lowering treatments.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Escalation of treatment was cost effective for people on statins with LDL cholesterol levels
 of more than 2.2 mmol per litre. There was a little more uncertainty about the cost
 effectiveness of escalating treatment for people with LDL cholesterol levels between
@@ -1112,8 +1011,7 @@ considered and fully discussed with the person as part of informed shared decisi
 making. Furthermore, the committee agreed that adherence may be lower for people on 2
 pills rather than 1, especially if they are below the target.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Statins are contraindicated or not tolerated
 The committee did not review the evidence for the clinical effectiveness of lipid-lowering
 treatments in people who are statin intolerant or for whom statins are contraindicated but
@@ -1146,8 +1044,7 @@ Framework (QOF). The target recommended in this guideline is similar to the 2023
 QOF, although data showed that, in many people, the QOF target is not being met. In June
 2023, the CVDPREVENT audit reported that 28.7% were meeting the target.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Increased uptake of statins, ezetimibe and other lipid-lowering treatments will result in
 higher medication and monitoring costs to the NHS. It will also contribute to an increased
 workload in primary care, including for GP practices and pharmacies, and in laboratories
@@ -1177,16 +1074,14 @@ The evidence supported the 2008 and 2014 recommendations on when to measure
 creatine kinase, not stopping statins because of an increase in blood glucose or HbA1c and
 restarting statins if stopped because of drug interactions or illness, so they were retained.
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 How the recommendations might affect practice
 The requirement to check lipid levels after changing lipid-lowering treatment, as well as
 after starting treatment, will result in higher monitoring costs. However, calculating LDL
 cholesterol as well as non-HDL cholesterol should not add to the cost per test.
 Return to recommendations
 
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
+ 
 Context
 Cardiovascular disease (CVD) is the leading cause of death worldwide, accounting for
 almost 18 million deaths each year (over 30% of all global deaths). Around 7 million people
@@ -1212,44 +1107,3 @@ Term Plan. By 2029, the ambition in England is for at least 45% of people aged 4
 with a 20% or greater risk of developing CVD in the next 10 years to be on appropriate
 lipid-lowering treatment. Local achievement of this ambition can be monitored using the
 CVDPREVENT audit.
-
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
-Finding more information and committee
-details
-To find NICE guidance on related topics, including guidance in development, see the NICE
-topic page on cardiovascular conditions.
-For full details of the evidence and the guideline committee's discussions, see the
-evidence reviews. You can also find information about how the guideline was developed,
-including details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting our guidelines into practice, see resources to help you
-put NICE guidance into practice.
-
-Cardiovascular disease: risk assessment and reduction, including lipid modification
-(NG238)
-Update information
-December 2023: This guideline updates and replaces NICE guideline CG181 (July 2014).
-We reviewed the evidence and made a new recommendation on the target lipid level for
-secondary prevention of CVD for adults on lipid-lowering treatment. New
-recommendations are marked [December 2023]. We also restructured the guideline to
-provide better navigation. Some of the existing recommendations have been amended to
-be consistent with the new recommendations or for clarification because of the
-restructure.
-Recommendations marked [date 1, amended date 2] had an evidence review in date 1.
-May 2023: We reviewed the evidence and made new recommendations on risk
-assessment tools for primary prevention of CVD, cardioprotective diets and statin
-treatment for primary prevention of CVD. Recommendations for chronic kidney disease
-and initial treatment with statins for secondary prevention of CVD were not changed.
-February 2023: We added a new recommendation on aspirin for primary prevention of
-CVD. This is based on a 2023 surveillance decision.
-July 2014: This guideline updates and replaces NICE guideline CG67 and NICE technology
-appraisal guidance 94.
-Minor changes since publication
-October 2025: We have removed the reference to the online version of QRISK3 because it
-should not be used for direct patient care by healthcare professionals.
-September 2025: We added links to relevant technology appraisal guidance in the
-sections on lipid-lowering treatment for primary prevention of CVD, lipid-lowering
-treatment for secondary prevention of CVD, treatment if statins are contraindicated or not
-tolerated and lipid-lowering treatments that should not be used or not used routinely.
-ISBN: 978-1-4731-5636-4

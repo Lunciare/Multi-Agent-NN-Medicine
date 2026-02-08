@@ -1,233 +1,65 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Baseline wander. But what else do you see_ - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:22.821196",
-  "file_size_bytes": 18383148,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Baseline wander. But what else do you see_ - Dr. Smith’s ECG Blog.pdf"
-}
+An ECG was obtained from a 65-year-old man with ongoing chest pain. He has a history of hypertension and tobacco use and is otherwise healthy. There was no prior ECG for comparison.
 
-=== СОДЕРЖАНИЕ ===
+ECG #1
 
-Magnus Nossen onNovember 8, 2024
-Baseline wander. But what
-else do you see?
-Written by Magnus Nossen
-The below ECG was obtained from a 65 year old man with ongoing chest
-pain. He has a history of hypertension and tobacco use. He is otherwise
-healthy. There is no prior ECG for comparison. What do you think?
-E CG #1 
-Interpretation: The quality of the above ECG is not optimal. There is
-significant baseline wander that does make it more challenging to interpret
-ischemic changes. The ECG shows sinus rhythm at a rate of 90 bpm.
-There is a slightly wide QRS (just about 120ms) consistent with a
-nonspecific intraventricular conduction delay (IVCD). The PR interval is on
-the short side, but there are no clear delta waves.
-
- 1/12
-Despite the baseline wander there is appreciable concordant ST
-segment elevation in lead III. There is likely some very slight concordant
-ST elevation also in lead aVF. The lateral leads I and aVL show
-reciprocal ST depression, with lead aVL showing concordant ST
-depression. The S-wave in lead V2 measures 17mm and the ST segment
-in lead V2 is isoelectric. With the slightly prolonged QRS and significant
-S-wave one would expect some discordant ST elevation in lead V2. In
-other words there is inappropriate isoelectric ST segment in V2.
-Putting all the above findings together, the ECG is very concerning if not
-diagnostic for inferior and posterior OMI. These findings were not
-appreciated by providers. However, due to the nature of the symptoms,
-the patient was treated for ACS and admitted to the hospital. The below
-ECG was obtained 45 minutes after the first one with the patient being
-free of chest pain at the time of recording of ECG #2.
-What do you think now?
-ECG #2
-Again there is sinus rhythm, short PR and IVCD. The ECG now shows
-resolution of the concordant ST segments in the inferior leads. There is
-now a very slight ST elevation in V2, as one would expect appropriate
-discordant ST Elevation, discordant (in the opposite direction) from the
-preceeding majority negative QRS (S-wave).
-The artery has re-perfused.
-There was no comment by the providers on the dynamic ECG changes on
-the repeat ECG.
-The patient in today’s case was lucky to re-perfuse. He remained chest
-pain free and underwent coronary angiography the following day. The
-CAG showed a 99% thrombotic lesion of the proximal RCA, which was
-stented. Due to rapid spontaneous reperfusion, high sensitivity troponin I
-peaked at just under 5000 ng/L.
-This OMI went unrecognized and, had the artery not re-perfused by itself,
-the patient could have suffered a very large myocardial infarction. He was
-diagnosed with NSTEMI.
- 2/12
-What does the Queen of Hearts AI model say about the ECGs in
-today’s case?
-Below: Queen of Hearts interpretation ECG #1
-Below: Queen of hearts interpretation ECG #2
-Discussion: OMI findings can be subtle. Whenever there is a wide QRS
-complex and baseline wander the interpretation is more difficult. The
-Queen of Hearts AI model confidently identifies the first ECG in today’s
-case as occlusion myocardial infarction (OMI HIGH confidence). The
-repeat ECG, after reperfusion is equally confidently recognized as not
-OMI.
-The outcome in today’s case was good but that was not due to expert
-ECG interpretation but rather a bit of luck. The OMI could have been
-recognized if the QoH had been used.
-Smith comment:
-Approximately 33% of cases that everyone would call STEMI reperfuse
-spontaneously (TIMI-1, 2, 3 flow) before they undergo emergent
-angiogram (usually under 90 minute door to balloon time)
-20% have TIMI-3 flow.
-Of all OMI, approximately 43% present with diagnostic ST Elevation. 57%
-do not and are called “NSTEMI.” But many of these OMI will
- 3/12
-spontaneously reperfuse by the time of next day angiogram so that, at
-next day angiogram, 25% of NSTEMI have TIMI-0 flow and 34% have
-TIMI 0-1 flow without collateral flow.
-You don’t know which will reperfuse at the time they present with
-OMI. So all must be treated emergently. Many subtle OMI do not get
-diagnosed until their next-day angiogram, at which time much myocardium
-is lost. They have much higher mortality and worse LV function than the
-NSTEMI with open artery next day.
-Therefore, you must find a way to recognize these subtle OMI at
-arrival in order to get them rapid intervention. Expert or AI ECG
-interpretation is the only way to do so.
-A significant proportion of patients with OMI do not re-perfuse on their own
-and the use of the QoH can provide more timely treatment and a better
-outcome for these patients.
-Click here to sign up for Queen of Hearts Access.
-Learning points:
-With training one can learn to identify OMI despite baseline wander
-and a wide QRS complex.
-The Queen of Hearts already does this very well and can improve
-the management of ACS patients
-We need to better identify patients with ongoing coronary occlusion
-as we cannot count on patients being as lucky at the patient in
-today’s case
-Whenever the ECG has poor quality obtaining a repeat tracing is
-advisable. Sometimes a poor quality tracing is all you have to make
-your decision.
-===================================
-MY Comment, by KEN GRAUER, MD (11/8/2024):
-===================================
-Todayʼs case by Dr. Nossen brings out a series of important
-points:
-As per comments by Drs. Nossen and Smith —
-the initialECG is absolutely diagnostic of acute infero-
-postero OMI.
-As per Dr. Nossen — the presence of both QRS
-wideningandbaselinewander + significant
- 4/12
-artifactmake assessment of acute OMI more
-challenging. That said — this 65-year old man with risk
-factors (smoking, hypertension) — was admitted to the
-hospital for“ongoing CP”that apparently was severe
-enough, such thatthis chest pain (andnot the initial
-ECG) was the reason that cardiac cath was ultimately
-performed (albeit cardiac cath was not done until the
-next day).The point is that todayʼs patient was high-
-risk for having an acute event.
-KEY Point: Although it is understandable that providers may
-have missed the subtle-but-real ST-T wave changes of acute
-OMI on the initial ECG — given the high-risklikelihood for an
-acute event — the technicalconcerns regarding the initial
-ECG should have immediately prompted repeating the ECG:
-Consider Figure-1 — in which I have labeled key findings
-in the limb leads. The question that arises is which of the
-8 beats in the limb leads of the initialECG accurately
-convey ST-T wave appearance?
-For example — IF the only 3 beats seen in the limb leads
-were beats #5,6,7 (within the dotted RED rectangles
-in Figure-1) — it would have been much clearer that
-there is hyperacute ST elevation in lead III, and to
-a lesser extent, also inlead aVF (RED arrows in these
-leads) — with reciprocal ST depression in lead aVL
-(PINK arrows).
-On the other hand — I would not have been at all certain
-about ST elevation in leads III and aVF (nor of reciprocal
-ST depression in lead aVL) — if the only beats seen in
-the limb leads looked like beats #3,4.
-And, as per Dr. Nossen — in the presence of acute
-inferior OMI — loss of the usual normal slight, gently
-upsloping ST elevation in lead V3 indicates
-associated posterior OMI (BLUE arrows in this lead
-showing slight J-point ST depression).
-NOTE: It may help to recognize that the reason for so
-much artifact in the limb leads — is the result of some
-disturbance or movement (ie, tremor? fidgeting?
-scratching?) in the LA electrode.
-As per My Comment in the February 18, 2024 post in
-Dr. Smithʼs ECG Blog — the LA (Left Arm) can be quickly
-identified as the “culprit”extremity because baseline
-artifact is maximal in leads I, III and aVL — present
-but less in leads aVR and aVF — and not present at all in
-lead II.
-Being able to identify within seconds the “culprit”
-extremity responsible for the artifact may suggest a
- 5/12
-“quick fix” (ie, Asking the patient to stop scratching or
-moving the “culprit” extremity) — and
-then repeating the ECG to clarify the true nature of ST-T
-wave appearance.
-Side NOTE: Did you notice how
-much narrower the QRS in lead V4 looks compared to other
-leads? This is because the subtle, terminal part of the QRS in
-V4 goes undetected because it almost entirely lies on the
-baseline (YELLOW arrows in this lead).
-This finding illustrates the importance of always
-using more than a single monitoring lead when
-assessing QRS width in a tachyarrhythmia (since you
-otherwise might mistake a wide tachycardia for an SVT
-— if part of the QRS lies on the baseline in the single
-lead of your 1-lead rhythm strip).
-Figure-1:Iʼve labeled the initialECG in todayʼs case. (To improve
-visualization — Iʼve digitized the original ECG usingPMcardio).
-How Not to Miss “Dynamic” ST-T Wave Changes:
-Not only were the acute ST-T wave findings missed in ECG
-#1 — but the new limb lead ST-T wave changes in ECG
-#2(compared to ECG #1) were also missed. Awareness of the
-following points can avoid overlooking these
-telltale “dynamic” ST-T wave changes:
-We need to be looking for “dynamic” ST-T wave
-changes in serial tracings — because when
-found (especially if the nature of these
-changes correlates with the clinical situation) — they
-are diagnostic of an acute event!
-In todayʼs case — this patient with “ongoing CP” at the
-time of admission — no longer had CP 45 minutes later,
-at the time ECG #2 was obtained. We need to be aware
-that if ST elevation resolves in association with reduced
- 6/12
-(or relieved) CP, with replacement of ST elevation
-by reperfusion T waves (ST depression and/or T wave
-inversion) — that these “dynamic” ST-T wave
-changes tell us that the “culprit” artery
-has spontaneously reperfused!
-PEARL: Unless serial ECGs are comparedside-by-
-side — subtle-but-important ST-T wave changes will be
-missed. These ST-T wave changes between ECG #1 and ECG
-#2 were not seen in todayʼs case.
-LOOK at Figure-2.
-Isnʼt it much easier to recognize reperfusionST-T
-wave changes now that I have placed the limb leads
-from ECG #1 and ECG #2 next to each
-other? (Comparison between RED/PINK vs BLUE arrows
-in Figure-2).
-BOTTOM Line: Even if the acute findings in ECG #1 went
-unrecognized — the occurrence of reperfusionST-T
-waves in association with resolution of CP at the
-time ECG #2 was obtained — would
-have confirmed acute OMIand the need for prompt
-cath (instead of cath being delayed until the next day).
-Figure-2:Comparison of ST-T wave changes in
-the limbleads in ECG #1 vs ECG #2. (To improve visualization —
-Iʼve digitized the original ECG usingPMcardio).
-Magnus Nossen onNovember 8, 2024
-MODIFIED SGARBOSSA CRITERIA SPONTANEOUS REPERFUSION
-   
- 7/12
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-Electrophysiological What does a final
-curiosity. Can you spot diagnosis of STEMI vs.
-it? NSTEMI depend upon?
+The quality of the ECG is not optimal due to significant baseline wander, which makes interpretation of ischemic changes more challenging.
+
+There is sinus rhythm at a rate of 90 bpm. The QRS is slightly wide (approximately 120 ms), consistent with a nonspecific intraventricular conduction delay. The PR interval is short, but there are no clear delta waves.
+
+Despite the baseline wander, there is appreciable concordant ST-segment elevation in lead III. There is likely very slight concordant ST elevation in lead aVF. Leads I and aVL show reciprocal ST depression, with lead aVL showing concordant ST depression.
+
+The S-wave in lead V2 measures 17 mm, and the ST segment in lead V2 is isoelectric. With a slightly prolonged QRS and a significant S-wave, discordant ST elevation would be expected in lead V2. The presence of an isoelectric ST segment in V2 is inappropriate.
+
+Taken together, these findings are very concerning, if not diagnostic, for inferior and posterior occlusion myocardial infarction.
+
+These findings were not appreciated by providers. Due to the nature of the symptoms, the patient was treated for acute coronary syndrome and admitted.
+
+ECG #2 (45 minutes later, chest pain resolved)
+
+There is sinus rhythm with short PR interval and nonspecific intraventricular conduction delay.
+
+The concordant ST-segment elevation in the inferior leads has resolved. There is now very slight ST elevation in V2, representing appropriate discordant ST elevation relative to the preceding predominantly negative QRS complex.
+
+The artery has reperfused.
+
+There was no comment by providers regarding the dynamic ECG changes.
+
+Clinical Outcome
+
+The patient remained chest-pain free and underwent coronary angiography the following day.
+
+Coronary angiography revealed a 99% thrombotic lesion of the proximal right coronary artery, which was stented.
+
+Due to rapid spontaneous reperfusion, high-sensitivity troponin I peaked at just under 5000 ng/L.
+
+This occlusion myocardial infarction went unrecognized and the patient was diagnosed with NSTEMI. Had spontaneous reperfusion not occurred, the patient could have suffered a very large myocardial infarction.
+
+AI Interpretation
+
+The Queen of Hearts AI model identified ECG #1 as occlusion myocardial infarction with high confidence and ECG #2 as not occlusion myocardial infarction following reperfusion.
+
+Discussion
+
+Occlusion myocardial infarction findings can be subtle, especially when the QRS is wide and baseline wander is present.
+
+Approximately 33% of cases that would be called STEMI reperfuse spontaneously before emergent angiography. About 20% have TIMI-3 flow.
+
+Of all occlusion myocardial infarctions, approximately 43% present with diagnostic ST elevation, while 57% do not and are labeled NSTEMI. Many of these will have spontaneous reperfusion by the time of next-day angiography.
+
+At next-day angiography, 25% of NSTEMI have TIMI-0 flow and 34% have TIMI-0–1 flow without collateral circulation.
+
+It is not possible to know at presentation which patients will reperfuse spontaneously. Therefore, all occlusion myocardial infarctions must be treated emergently.
+
+Many subtle occlusion myocardial infarctions are not diagnosed until next-day angiography, at which point substantial myocardium is lost, resulting in higher mortality and worse left ventricular function.
+
+Recognition of subtle occlusion myocardial infarction at presentation requires expert or AI-assisted ECG interpretation.
+
+Learning Points
+
+With training, occlusion myocardial infarction can be identified despite baseline wander and a wide QRS complex.
+
+The Queen of Hearts AI model can identify these cases reliably and improve management of acute coronary syndrome.
+
+Repeat ECG acquisition is advisable whenever ECG quality is poor, though sometimes clinical decisions must be made using imperfect tracings.
+
+Dynamic ST-T wave changes on serial ECGs are diagnostic of acute coronary occlusion and should be actively sought by comparing tracings side-by-side.

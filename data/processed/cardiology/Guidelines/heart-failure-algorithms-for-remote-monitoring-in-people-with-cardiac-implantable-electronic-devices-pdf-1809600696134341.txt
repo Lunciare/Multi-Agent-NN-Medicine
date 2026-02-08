@@ -1,54 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "heart-failure-algorithms-for-remote-monitoring-in-people-with-cardiac-implantable-electronic-devices-pdf-1809600696134341.pdf",
-  "converted_date": "2026-01-31T14:51:21.627931",
-  "file_size_bytes": 149232,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/heart-failure-algorithms-for-remote-monitoring-in-people-with-cardiac-implantable-electronic-devices-pdf-1809600696134341.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Heart failure algorithms
-for remote monitoring in
-people with cardiac
-implantable electronic
-devices
-HealthTech guidance
-Published: 24 October 2024
-www.nice.org.uk/guidance/htg730
-
 Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
-
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
-This guidance replaces MIB298 and DG61.
+electronic devices
 1 Recommendations
 Use as an option
 For people with heart failure
@@ -66,8 +17,7 @@ For people at risk of developing heart failure
 based remote monitoring in people with CIEDs who are at risk of developing heart
 failure, before they can be routinely used in the NHS.
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 More research
 1.4 More research for the technologies in sections 1.2 and 1.3 is needed in the
 populations outlined. This research is needed on:
@@ -93,8 +43,7 @@ heart failure that could lead to hospitalisation or an unscheduled clinic visit 
 heart failure events). Evidence shows that CIEDs used with HeartLogic or TriageHF reduce
 hospitalisations compared with CIEDs used with remote monitoring only. Collection of
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 registry data is recommended for these algorithms to confirm the extent of the benefit
 seen in the studies.
 It is uncertain whether the HeartInsight algorithm can detect early signs of worsening
@@ -109,8 +58,7 @@ additional factors. Clinical trial evidence suggests that CorVue fails to detect
 of worsening heart failure and has a high rate of false-positive alerts (alerts that are not
 followed by a heart failure event). So CorVue is not recommended for use in the NHS.
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 2 Heart failure algorithms
 Clinical need and practice
 2.1 Heart failure is a clinical syndrome caused by any structural or functional cardiac
@@ -139,8 +87,7 @@ recommends that reviews are offered every 6 months for people whose condition
 is stable, but clinical experts highlighted that in practice most people would have
 a review annually. Sometimes clinical reviews are only triggered if the person with
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 the CIED reports worsening symptoms.
 2.4 Some CIEDs have algorithm-based remote monitoring incorporated in the device.
 Heart failure algorithms analyse and collate different clinical data recorded by the
@@ -172,8 +119,7 @@ with the CIED devices.
 previous 12 to 14 days, which changes continuously based on new impedance
 readings. If a consistent drop of daily impedance values is detected (13 or
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 14 consecutive days in congestion) then a congestive event is reported and
 detected during device check-up. Patient alerts can be activated via remote
 monitoring if the person wishes.
@@ -200,8 +146,7 @@ data automatically and daily from the CIED to the BIOTRONIK Home Monitoring
 system via a mobile phone network. Access to HeartInsight has a one-off cost of
 £450 per person. Standard Home Monitoring is a separate cost.
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 HeartLogic (Boston Scientific)
 2.10 HeartLogic is a diagnostic algorithm designed to monitor for early signs of
 worsening heart failure in people with compatible CIEDs. It works with the
@@ -233,8 +178,7 @@ parameters:
 • OptiVol fluid index (which tracks changes in thoracic impedance over time)
 • general activity
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 • night ventricular rate
 • heart rate variability
 • percent of ventricular pacing
@@ -261,8 +205,7 @@ Conventional remote monitoring of heart failure in people with
 CIEDs
 2.12 Standard care for monitoring heart failure in people who have CIEDs is periodic
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 reviews of device function with a cardiac physiologist or cardiologist. A person
 will also have ad hoc reviews of symptoms with a GP, specialist nurse,
 cardiologist or a heart failure team. The number and timing of the reviews varies
@@ -270,8 +213,7 @@ in practice depending on the person's symptoms (see section 2.3). The
 organisation of heart failure monitoring pathways varies in practice between
 different trusts, and even between different hospitals.
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 3 Committee discussion
 The diagnostics advisory committee looked at evidence on algorithm-based remote
 monitoring of heart failure in people with cardiac implantable electronic devices (CIEDs).
@@ -297,8 +239,7 @@ decompensation) may cause unnecessary anxiety. The committee recommended
 more research on people's experiences with having heart failure algorithms
 activated on their CIEDs.
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 Clinical effectiveness
 Prognostic accuracy
 3.3 The committee noted that the heart failure algorithms needed to be considered
@@ -332,8 +273,7 @@ with a key concern being the analysis methods. The committee concluded that it
 is uncertain whether HeartInsight can accurately predict heart failure events.
 3.6 Using the study endpoint of worsening heart failure, HeartLogic showed
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 sensitivity ranging from 70% to 100%, and specificity ranging from 61% to 93%.
 False positives and unexplained alert rates were generally low in 6 studies.
 Statistically significant associations were observed between being in alert and
@@ -368,8 +308,7 @@ In a study this would be classed as a false-positive alert. The committee noted
 that these alerts and the follow up with a person would still be valuable because
 a non-heart-failure clinical event may still require intervention.
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 3.9 Some studies reported high rates of false-positive alerts. But the committee
 noted that all alerts would be reviewed alongside other clinical information and
 discussed with the person before a treatment decision is made. So the
@@ -397,8 +336,7 @@ HeartLogic
 3.13 Evidence suggests that using the HeartLogic algorithm instead of conventional
 remote monitoring, provides statistically significant reductions in:
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 • hospitalisations
 • the rate of heart failure events
 • the length of hospital stays and
@@ -428,8 +366,7 @@ device. The committee noted that failure rates in the studies appear to be high,
 but it is difficult to separate transmission failure due to technical issues from
 transmission failure due to connectivity issues. If data transmission is missed,
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 each algorithm has built-in retry mechanisms that will attempt transmission again.
 Healthcare professionals will be notified if a person's data transmission is missed
 for a number of weeks. The companies commented that they pay stringent
@@ -460,8 +397,7 @@ HeartLogic and TriageHF because study results on the number of unscheduled
 visits would be impacted by false-positive alerts. For CorVue and HeartInsight, no
 published data was available on unscheduled visits, so it was assumed that there
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 was no difference in the number of unscheduled visits between these heart
 failure algorithms and their comparators. This may underestimate the impact that
 false-positive alerts have on the cost-effectiveness estimates for CorVue and
@@ -493,8 +429,7 @@ HeartInsight to be more costly than standard care and equally as effective.
 Threshold analysis showed that only a small reduction in hospitalisations would
 make these heart failure algorithms cost effective.
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 3.20 The EAG's model used published hospitalisation rates for HeartLogic and
 TriageHF. For HeartLogic, the hospitalisation incidence rate ratio of 0.28 was
 calculated from Treskes et al. (2021), which indicates a 72% lower rate of
@@ -527,8 +462,7 @@ benefits could not be captured in the model because of the lack of evidence.
 Modelling of scheduled visits
 3.22 The base case modelled 2 scheduled visits per year, in the intervention and
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 comparator arms. In clinical practice, people who have stable heart failure would
 likely only have 1 scheduled visit per year. Other people may also only have 1 visit
 because of capacity issues. The EAG modelled 2 additional different scenarios for
@@ -561,8 +495,7 @@ a prior diagnosis of heart failure. But results were not reported separately for
 each population and so could not be used by the EAG to model the population of
 people at risk of heart failure. The committee agreed that data is needed on the
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 prognostic accuracy and clinical impact of using heart failure algorithms in this
 population.
 Collection of registry data
@@ -589,8 +522,7 @@ emergency services. Heart failure algorithms could benefit these people,
 because signs of decompensation would be detected and healthcare
 professionals automatically alerted, before the person needs to seek emergency
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 assistance. For this reason, people who are unable to advocate for themselves or
 who have less awareness of their symptoms would also benefit from heart failure
 algorithms. Algorithm-based remote monitoring could also benefit people who
@@ -620,8 +552,7 @@ in clinical practice, they should be used as part of a multidisciplinary special
 heart failure service and specialist staff should be available to review and action
 alerts. Protocols should also be in place to ensure heart failure is properly
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 managed and alerts are responded to in a timely manner. At present, the way
 centres manage heart failure and respond to alerts can vary. This could mean
 that some centres are unable to implement heart failure algorithms into their
@@ -631,8 +562,7 @@ heart failure services in the right direction for providing equitable access.
 Protocols should detail how heart failure alerts fit within the clinical pathway and
 how they should be responded to.
 
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
+ 
 4 Implementation
 NICE intends to develop tools, in association with relevant stakeholders, to help
 organisations put this guidance into practice.
@@ -640,53 +570,3 @@ In addition NICE will support this guidance through a range of activities to pro
 recommendations for further research. NICE will also incorporate the recommendations for
 research in sections 1.2 to 1.4 into its guidance research recommendations database and
 highlight these recommendations to public research bodies.
-
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
-5 Diagnostics advisory committee
-members and NICE project team
-Committee members
-This topic was considered by the diagnostics advisory committee, which is a standing
-advisory committee of NICE.
-Committee members are asked to declare any interests in the test to be evaluated. If it is
-considered there is a conflict of interest, the member is excluded from participating further
-in that evaluation.
-The minutes of each committee meeting, which include the names of the members who
-attended and their declarations of interests, are posted on the NICE website.
-Additional specialist committee members took part in the discussions for this topic:
-Specialist committee members
-Alastair Gray
-Consultant cardiologist, Southern Health and Social Care Trust
-Alison Seed
-Consultant cardiologist, Lancashire Cardiac Centre, Blackpool Victoria Hospital
-Andy Smith
-Lay member
-Daniel Garner
-Consultant cardiologist, Arrowe Park Hospital and Liverpool Heart and Chest Hospital
-Ian Purcell
-Consultant general and interventional cardiologist, Freeman Hospital, Newcastle upon
-Tyne
-
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
-Jennifer Cooke
-Cardiac physiologist, Liverpool Heart and Chest Hospital
-Rushabh Shah
-GP partner and GP with extended roles in cardiology, Radford Medical Practice
-NICE project team
-Each diagnostics evaluation is assigned to a team consisting of a technical analyst (who
-acts as the topic lead), a technical adviser and a project manager.
-Sophie Harrison
-Topic lead
-Frances Nixon
-Technical adviser
-Toni Gasse
-Project manager
-
-Heart failure algorithms for remote monitoring in people with cardiac implantable
-electronic devices (HTG730)
-Update information
-Minor changes since publication
-December 2025: Diagnostics guidance 61 has been migrated to HealthTech guidance 730.
-The recommendations and accompanying content remain unchanged.
-ISBN: 978-1-4731-7402-3

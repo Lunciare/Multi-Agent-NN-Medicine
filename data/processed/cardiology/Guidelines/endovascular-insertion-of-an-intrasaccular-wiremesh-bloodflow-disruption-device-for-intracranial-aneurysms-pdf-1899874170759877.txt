@@ -1,46 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "endovascular-insertion-of-an-intrasaccular-wiremesh-bloodflow-disruption-device-for-intracranial-aneurysms-pdf-1899874170759877.pdf",
-  "converted_date": "2026-01-31T14:46:22.109643",
-  "file_size_bytes": 59425,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/endovascular-insertion-of-an-intrasaccular-wiremesh-bloodflow-disruption-device-for-intracranial-aneurysms-pdf-1899874170759877.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Endovascular insertion of an
-intrasaccular wire-mesh blood-
-flow disruption device for
-intracranial aneurysms
-Interventional procedures guidance
-Published: 14 August 2019
-www.nice.org.uk/guidance/ipg658
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-
-Endovascular insertion of an intrasaccular wire-mesh blood-flow disruption device for
-intracranial aneurysms (IPG658)
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Endovascular insertion of an intrasaccular wire-mesh blood-flow disruption device for intracranial aneurysms 
 1 Recommendations
 1.1 Current evidence on the safety and efficacy of endovascular insertion of
 an intrasaccular wire-mesh blood-flow disruption device for intracranial
@@ -60,8 +18,7 @@ The condition
 by a weakness in the blood vessel wall, usually where it branches. Most
 brain aneurysms only cause noticeable symptoms if they rupture.
 
-Endovascular insertion of an intrasaccular wire-mesh blood-flow disruption device for
-intracranial aneurysms (IPG658)
+ 
 However, large aneurysms may cause local compression symptoms
 before they rupture, such as headache. Rupture of intracranial
 aneurysms causes subarachnoid haemorrhage and is associated with a
@@ -95,8 +52,7 @@ obstructs blood flow into the aneurysm sac, creating blood stasis and
 promoting endothelial growth across the neck of the aneurysm. The
 appropriate device size is selected according to the aneurysm width and
 
-Endovascular insertion of an intrasaccular wire-mesh blood-flow disruption device for
-intracranial aneurysms (IPG658)
+ 
 height.
 2.5 The aim is to prevent the aneurysm from rupturing or to stop further
 bleeding from an aneurysm that has already ruptured.
@@ -120,6 +76,3 @@ damage, thromboembolic complications including device embolisation
 and aneurysm rebleeding.
 3.4 Eight commentaries from patients who had experience of this procedure
 were received, which were discussed by the committee.
-ISBN: 978-1-4731-3483-6
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

@@ -1,61 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "atrial-fibrillation-diagnosis-and-management-pdf-66142085507269.pdf",
-  "converted_date": "2026-01-31T14:44:20.235096",
-  "file_size_bytes": 293717,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/atrial-fibrillation-diagnosis-and-management-pdf-66142085507269.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Atrial fibrillation: diagnosis
-and management
-NICE guideline
-Published: 27 April 2021
-Last updated: 30 June 2021
-www.nice.org.uk/guidance/ng196
-
-Atrial fibrillation: diagnosis and management (NG196)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Atrial fibrillation: diagnosis and management (NG196)
-
-Atrial fibrillation: diagnosis and management (NG196)
-Preventing postoperative atrial fibrillation ........................................................................................ 40
-Managing atrial fibrillation after cardiothoracic surgery ................................................................. 41
-Stopping anticoagulation .................................................................................................................... 42
-Context ....................................................................................................................................... 44
-Finding more information and committee details ................................................................... 45
-Update information ................................................................................................................... 46
-
-Atrial fibrillation: diagnosis and management (NG196)
-This guideline replaces CG180.
-This guideline is the basis of QS93.
-This guideline should be read in conjunction with TA275, TA249, TA355, TA256 and
-TA197.
+Atrial fibrillation: diagnosis and management
 Overview
 This guideline covers diagnosing and managing atrial fibrillation in adults. It includes
 guidance on providing the best care and treatment for people with atrial fibrillation,
@@ -68,7 +11,7 @@ Who is it for?
 • Commissioners and providers
 • People with atrial fibrillation, their families and carers
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Recommendations
 People have the right to be involved in discussions and make informed decisions
 about their care, as described in NICE's information on making decisions about your
@@ -94,7 +37,7 @@ recording:
 • use a 24-hour ambulatory ECG monitor if asymptomatic episodes are
 suspected or symptomatic episodes are less than 24 hours apart
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 • use an ambulatory ECG monitor, event recorder or other ECG technology for
 a period appropriate to detect atrial fibrillation if symptomatic episodes are
 more than 24 hours apart. [2021]
@@ -121,7 +64,7 @@ might affect practice, see the rationale and impact section on stroke risk.
 Full details of the evidence and the committee's discussion are in evidence review C
 and D: tools to predict stroke in people with atrial fibrillation.
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Bleeding risk
 1.2.2 Assess the risk of bleeding when:
 • considering starting anticoagulation in people with atrial fibrillation and
@@ -150,7 +93,7 @@ person taking into account their specific characteristics, for example
 comorbidities, and their individual preferences. For further guidance, see the
 section on enabling patients to actively participate in their care in NICE's
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 guideline on patient experience in adult NHS services. [2021]
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on bleeding risk.
@@ -178,7 +121,7 @@ fibrillation:
 • when TTE demonstrates an abnormality (such as valvular heart disease) that
 warrants further specific assessment
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 • in whom TTE is technically difficult and/or of questionable quality and when
 there is a need to exclude cardiac abnormalities
 • for whom TOE-guided cardioversion is being considered. [2006]
@@ -201,7 +144,7 @@ NICE's guideline on venous thromboembolic diseases
 1.4.2 Follow the recommendations in NICE's guideline on shared decision making.
 [2014]
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Medicines adherences and optimisation
 1.4.3 To support adherence and ensure safe and effective medicines use in people
 with atrial fibrillation, follow the recommendations in NICE's guidelines on
@@ -227,7 +170,7 @@ the recommendations in NICE's guideline on shared decision making.
 medicines in NICE's guideline on medicines adherence and patient decision
 aids in NICE's guideline on medicines optimisation.
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 • Take into account any contraindications for each drug and follow the
 guidance in the British National Formulary and the MHRA advice on direct-
 acting oral anticoagulants, in particular for advice on dosages in people with
@@ -261,7 +204,7 @@ women). [2021]
 1.6.8 Do not withhold anticoagulation solely because of a person's age or their risk of
 falls. [2021]
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Direct-acting oral anticoagulant treatment options
 1.6.9 For direct-acting oral anticoagulants recommended as options in NICE
 technology appraisal guidance for preventing stroke and systemic embolism in
@@ -287,7 +230,7 @@ shown by any of the following:
 • 2 INR values higher than 5 or 1 INR value higher than 8 within the past
 6 months
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 • 2 INR values less than 1.5 within the past 6 months
 • TTR less than 65%. [2014]
 1.6.12 When reassessing anticoagulation, take into account and if possible address the
@@ -311,7 +254,7 @@ indication for anticoagulation in NICE's guideline on acute coronary syndromes.
 1.6.14 Do not offer aspirin monotherapy solely for stroke prevention to people with atrial
 fibrillation. [2014]
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Review of people with atrial fibrillation
 1.6.15 For people who are not taking an anticoagulant, review stroke risk when they
 reach age 65 or if they develop any of the following at any age:
@@ -337,7 +280,7 @@ fibrillation for the prevention of thromboembolism. [2014]
 1.6.19 Do not offer LAAO as an alternative to anticoagulation unless anticoagulation is
 contraindicated or not tolerated. [2014]
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 1.7 Rate and rhythm control
 This section covers rate and rhythm control in non-acute settings. See section 1.8 for rate
 and rhythm control for people presenting acutely (either new onset or destabilisation of
@@ -365,7 +308,7 @@ blockers in NICE's guideline on chronic heart failure. [2021]
 1.7.4 Consider digoxin monotherapy for initial rate control for people with
 non-paroxysmal atrial fibrillation if:
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 • the person does no or very little physical exercise or
 • other rate-limiting drug options are ruled out because of comorbidities or the
 person's preferences. [2021]
@@ -390,7 +333,7 @@ Antiarrhythmic drug therapy
 1.7.8 Assess the need for drug treatment for long-term rhythm control, taking into
 account the person's preferences, associated comorbidities, risks of treatment
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 and likelihood of recurrence of atrial fibrillation. [2014]
 1.7.9 Do not offer class 1c antiarrhythmic drugs such as flecainide or propafenone to
 people with known ischaemic or structural heart disease. [2014]
@@ -420,7 +363,7 @@ fibrillation and
 rate above 70 bpm and
 • are able to understand how to, and when to, take the medication. [2006]
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Cardioversion
 1.7.16 For people having cardioversion for atrial fibrillation that has persisted for longer
 than 48 hours, offer electrical (rather than pharmacological) cardioversion.
@@ -447,7 +390,7 @@ account the person's preferences. In particular, explain that the procedure is n
 always effective and that the resolution of symptoms may not be long-lasting.
 [2021]
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 1.7.21 Consider left atrial surgical ablation at the same time as other cardiothoracic
 surgery for people with symptomatic atrial fibrillation. [2014]
 For NICE interventional procedures guidance on left atrial ablation for atrial fibrillation, see
@@ -473,7 +416,7 @@ antiarrhythmic drugs after ablation.
 Pace and ablate strategy
 1.7.24 Consider pacing and atrioventricular node ablation for people with permanent
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 atrial fibrillation with symptoms or left ventricular dysfunction thought to be
 caused by high ventricular rates. [2014]
 1.7.25 When considering pacing and atrioventricular node ablation, reassess symptoms
@@ -500,7 +443,7 @@ beta-blockers and do not use calcium-channel blockers. [2021]
 circumstances and resources in people with new-onset atrial fibrillation who will
 be treated with a rhythm-control strategy. [2014]
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 1.8.5 If pharmacological cardioversion has been agreed on clinical and resource
 grounds for new-onset atrial fibrillation, offer:
 • a choice of flecainide or amiodarone to people with no evidence of structural
@@ -528,7 +471,7 @@ antithrombotic therapy has been started, based on risk stratification (see
 section 1.2 on assessment of stroke and bleeding risks and section 1.6 on
 stroke prevention). [2006, amended 2014]
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 1.8.9 In people with a confirmed diagnosis of atrial fibrillation of recent onset (less than
 48 hours since onset), offer oral anticoagulation if:
 • stable sinus rhythm is not successfully restored within the same 48-hour
@@ -554,7 +497,7 @@ Preventing postoperative atrial fibrillation
 • reduce the risk of postoperative atrial fibrillation by offering 1 of the following:
 － amiodarone
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 － a standard beta-blocker (that is, a beta-blocker other than sotalol)
 － a rate-limiting calcium-channel blocker (diltiazem or verapamil)
 • do not offer digoxin. [2006, amended 2014]
@@ -580,7 +523,7 @@ Atrial fibrillation after cardiothoracic surgery
 of new-onset postoperative atrial fibrillation after cardiothoracic surgery. [2021]
 1.10.6 If a rhythm-control strategy is chosen, reassess the need for antiarrhythmic drug
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 treatment at a suitable time point (usually at around 6 weeks). [2021]
 Atrial fibrillation after non-cardiothoracic surgery
 1.10.7 Manage postoperative atrial fibrillation after non-cardiothoracic surgery in the
@@ -603,7 +546,7 @@ risk using CHA DS -VASc and ORBIT and a discussion of the person's
 2 2
 preferences. [2021]
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on stopping
 anticoagulation.
@@ -623,7 +566,7 @@ Paroxysmal atrial fibrillation
 Episodes of atrial fibrillation that stop within 7 days, usually within 48 hours, without any
 treatment.
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Recommendations for research
 As part of the 2021 update, the guideline committee made 4 new research
 recommendations (marked [2021]). Research recommendations retained from the
@@ -647,7 +590,7 @@ see the rationale on detection and diagnosis.
 Full details of the evidence and the committee's discussion are in evidence review B:
 accuracy of tests for detection.
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 3 Stopping anticoagulation after ablation
 What is the clinical and cost effectiveness of stopping anticoagulation in people whose
 atrial fibrillation has resolved after ablation? [2021]
@@ -671,7 +614,7 @@ Other recommendations for research
 atrial fibrillation
 What is the comparative effectiveness of the 3 main drug classes used for rate control
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 (beta-blockers, calcium-channel blockers and digoxin) in people aged 75 and over with
 atrial fibrillation in controlling symptoms, improving quality of life and reducing morbidity
 and mortality? [2014]
@@ -679,7 +622,7 @@ and mortality? [2014]
 Can routine data from UK primary care databases clarify stroke risk in people with atrial
 fibrillation according to baseline risk factors and treatment? [2014]
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Rationale and impact
 These sections briefly explain why the committee made the recommendations and how
 they might affect practice.
@@ -707,7 +650,7 @@ The recommendations reflect current good practice and are unlikely to have an im
 practice.
 Return to recommendations
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Stroke risk
 Recommendation 1.2.1
 Why the committee made the recommendations
@@ -744,7 +687,7 @@ anticoagulation are outweighed by the risks of not treating people who need
 anticoagulation. In addition, the ATRIA risk score may result in a time delay in calculating
 the results.
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 The committee also discussed that the evidence for the QStroke risk calculator suggested
 that it might be a useful tool. However, the evidence was limited, and they agreed that
 further research was needed.
@@ -774,7 +717,7 @@ The discrimination data showed little difference between tools in predicting maj
 bleeding, with some outcome measures showing no difference and others showing a slight
 benefit for either ORBIT or HAS-BLED. Evidence showed that ORBIT had a significantly
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 higher specificity and a slighter lower sensitivity than the other tools, but the committee
 agreed that the lower sensitivity would not be a drawback when used to inform
 discussions of risk.
@@ -807,7 +750,7 @@ involve changes to centralised software, it is thought that it will be straightf
 implement and ORBIT will quickly be included in GP systems. Neither tool is included in
 hospital systems although both are widely available on smartphone apps.
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Return to recommendations
 Stroke prevention
 Recommendations 1.6.1 to 1.6.8
@@ -841,7 +784,7 @@ range and the person's preferences should be explored at their next routine appo
 The committee agreed that the existing thresholds for the CHA DS -VASc score threshold
 2 2
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 for anticoagulation are in line with current practice.
 Although bleeding risk scores may occasionally be used as a reason not to offer
 anticoagulation, the committee agreed that they should typically be used as a prompt to
@@ -870,7 +813,7 @@ experience and knowledge.
 The use of beta-blockers or rate-limiting calcium-channel blockers for initial rate-control
 treatment was retained by the committee because this is current practice and there was
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 insufficient evidence to suggest an alternative option. The committee agreed that the
 choice of treatment should still be made based on the symptoms, heart rate, comorbidities
 and preferences of those being treated.
@@ -903,7 +846,7 @@ rate-control drug choices. However, the committee agreed that this already happe
 practice.
 Return to recommendations
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Left atrial ablation
 Recommendations 1.7.19 to 1.7.20
 Why the committee made the recommendations
@@ -937,7 +880,7 @@ ablation. They decided that either cryoballoon or laser ablation could be consid
 radiofrequency point-by-point ablation is not suitable; for example, if a short procedure
 time is a priority or for people with a recent history of decompensated heart failure who
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 are at increased risk of fluid overload. Radiofrequency multi-electrode was not included as
 an alternative due to its lower efficacy relative to cryoballoon and laser ablation and
 concerns about a higher risk of stroke.
@@ -967,7 +910,7 @@ Return to recommendations
 Preventing recurrence after ablation
 Recommendations 1.7.22 and 1.7.23
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Why the committee made the recommendations
 Most of the evidence on preventing recurrence after ablation was for amiodarone. The
 evidence suggested that amiodarone may reduce recurrence of atrial fibrillation after
@@ -999,7 +942,7 @@ but it is anticipated that this could be performed at routine follow-up appointm
 cardiologist.
 Return to recommendations
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Rate and rhythm control for people presenting
 acutely
 Recommendation 1.8.3
@@ -1027,7 +970,7 @@ The committee noted that the most recent studies reviewed showed no benefit from
 statins in reducing atrial fibrillation after cardiothoracic surgery. This contrasted with
 analysis of the evidence overall, which showed a small but definite benefit from statins.
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 The committee agreed that the evidence of no effect in the newer studies was important,
 because these studies were larger and of higher quality than the older studies included in
 the analysis.
@@ -1056,7 +999,7 @@ drug classes, and the committee agreed that they could not recommend a particula
 of drugs based on such limited evidence.
 One larger study comparing mixed rate control and rhythm control with a
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 potassium-channel blocker (amiodarone) with or without rate control suggested little
 difference between the 2 groups. Based on this evidence and their experience, the
 committee decided that rhythm control could be considered but that the evidence no
@@ -1085,7 +1028,7 @@ Return to recommendations
 Stopping anticoagulation
 Recommendations 1.11.1 and 1.11.2
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Why the committee made the recommendations
 There was limited evidence on whether to continue anticoagulation or to stop it and switch
 to aspirin after successful treatment of atrial fibrillation by catheter ablation. The
@@ -1106,7 +1049,7 @@ The committee felt that the recommendation would not constitute a change in prac
 and that there would not be a resource impact on the NHS.
 Return to recommendations
 
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Context
 Atrial fibrillation is the most common heart rhythm disorder (affecting approximately 2% of
 the adult population), and estimates suggest its prevalence is increasing. Atrial fibrillation
@@ -1137,19 +1080,7 @@ The recommendations apply to adults (18 years or older) with atrial fibrillation
 paroxysmal (recurrent), persistent and permanent atrial fibrillation, and atrial flutter. They
 do not apply to people with congenital heart disease precipitating atrial fibrillation.
 
-Atrial fibrillation: diagnosis and management (NG196)
-Finding more information and committee
-details
-To find NICE guidance on related topics, including guidance in development, see the NICE
-topic page on heart rhythm conditions.
-For full details of the evidence and the guideline committee's discussions, see the
-evidence reviews. You can also find information about how the guideline was developed,
-including details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting our guidelines into practice, see resources to help you
-put NICE guidance into practice.
-
-Atrial fibrillation: diagnosis and management (NG196)
+ 
 Update information
 30 June 2021: We further corrected recommendation 1.2.2 on using the ORBIT score to
 assess bleeding risk to reinstate the link to the previous calculation tool, which was
@@ -1174,15 +1105,3 @@ the relevant guidance in the sections on direct-acting oral anticoagulant treatm
 and antiarrhythmic drug therapy.
 August 2023: As part of our work to make our guidance more useful and usable, we are
 testing out some changes to improve the way we present our guidance.
-Recommendations from the following technology appraisals guidance have been brought
-into this guideline:
-• TA275: apixaban
-
-Atrial fibrillation: diagnosis and management (NG196)
-• TA249: dabigatran etexilate
-• TA355: edoxaban
-• TA256: rivaroxaban
-• TA197: dronedarone.
-October 2021: We added a link to NICE's shared decision making guideline in
-recommendation 1.4.2.
-ISBN: 978-1-4731-4043-1

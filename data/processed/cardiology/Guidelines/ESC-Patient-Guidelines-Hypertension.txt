@@ -1,47 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "ESC-Patient-Guidelines-Hypertension.pdf",
-  "converted_date": "2026-01-31T14:47:36.805125",
-  "file_size_bytes": 655684,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/ESC-Patient-Guidelines-Hypertension.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-ESC Clinical Practice Guidelines for the
-Management of
-Elevated Blood Pressure
-and Hypertension:
-What Patients
-Need to Know
-Image is for illustrative purposes only
-
-What are Clinical Practice Guidelines?
-Clinical Practice Guidelines are documents created by healthcare professionals and scientists.
-They are primarily intended for doctors and medical staff and offer recommendations on
-diagnosis and treatment based on the latest available medical and scientific evidence. These
-guidelines help ensure that patients receive the best possible care.
-How will this document help me?
-This guide is designed for patients and their families. It is based on the European Society of
-Cardiology (ESC) Clinical Practice Guidelines for the management of elevated blood pressure
-and hypertension.
-Blood pressure (BP) is the pressure of the blood flowing through your arteries. Like the air pressure
-in car tyres, BP needs to be checked from time to time. If BP is too high – called ‘hypertension’ – it
-can lead to major health problems. You can control your BP with the help of your medical team,
-support from your family and community, and by practising a healthy lifestyle.
-Lifestyle
-Multidisciplinary
-Medications
-medical team
-Patient
-Family Self-care
-This document provides important information to help keep your BP under control. It aims to help you
-understand your condition and give you confidence to work with your healthcare team to make informed
-decisions about BP management, treatment and health.
-
+ESC Clinical Practice Guidelines for the Management of Elevated Blood Pressure and Hypertension:
 What are the risks of high
 blood pressure?
 Many people do not notice or feel unwell when their BP is high, so it is important to be aware of the serious
@@ -322,33 +279,3 @@ White coat hypertension: Elevated blood pressure readings only when at the docto
 due to anxiety. Home readings are normal.
 Masked hypertension: Normal blood pressure readings in the doctor’s office but high readings at
 home, potentially due to less stress in the medical environment.
-
-This guide for patients is a simplified version of the ESC Clinical Practice Guidelines
-for the management of elevated blood pressure and hypertension.
-Authors
-Eva Gerdts, Department of Clinical Science, University of Bergen, Bergen, Norway, and Department of Heart Disease,
-Haukeland University Hospital, Bergen, Norway.
-Julie Harris (United Kingdom), ESC Patient Forum, Sophia Antipolis, France.
-John William McEvoy, Department of Cardiology, University of Galway School of Medicine, Galway, Ireland, and
-National Institute for Prevention and Cardiovascular Health, Galway, Ireland.
-Gerard J. Molloy, School of Psychology, University of Galway, Galway, Ireland.
-Bart Scheenaerts (Belgium), ESC Patient Forum, Sophia Antipolis, France.
-Rhian M. Touyz, Department of Medicine, McGill University, Montreal, Canada, Department of Family Medicine, McGill
-University, Montreal, Canada, and the Research Institute of the McGill University Health Centre, McGill University,
-Montreal, Canada.
-Izabella Uchmanowicz, Faculty of Nursing and Midwifery, Department of Nursing, Wroclaw, Medical University,
-Wroclaw, Poland.
-Disclaimer
-This material was adapted from the 2024 ESC Guidelines for the management of elevated blood pressure and hypertension
-(European Heart Journal 2024 - doi.org/10.1093/eurheartj/ehae178) as published on 30 August 2024.
-Copyright © European Society of Cardiology 2024 - All Rights Reserved.
-This material has been published for personal and educational use only. No commercial use is authorised. No part of this document
-may be translated or reproduced in any form without written permission from the ESC. Permission can be obtained upon submission
-of a written request to ESC, Practice Guidelines Department, Les Templiers - 2035, Route des Colles - CS 80179 Biot - 06903
-Sophia Antipolis Cedex - France. Email: guidelines@escardio.org
-This material was adapted from the ESC Guidelines as an aid to patients and carers. It represents the views of the ESC and
-was produced after careful consideration of the scientific and medical knowledge and the evidence available at the time of their
-publication. The ESC is not responsible in the event of any contradiction, discrepancy and/or ambiguity between the ESC Guidelines
-and any other official recommendations or guidelines issued by the relevant public health authorities, in particular in relation to good
-use of healthcare or therapeutic strategies. Please refer to the preamble of the original guidelines for further details of the role of
-Clinical Practice Guidelines and the individual responsibility of health professionals when making decisions for the care of patients.

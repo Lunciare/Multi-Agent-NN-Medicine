@@ -1,25 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "ESC-heart-failure-patient-guidelines-update-2023.pdf",
-  "converted_date": "2026-01-31T14:49:27.359462",
-  "file_size_bytes": 563190,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/ESC-heart-failure-patient-guidelines-update-2023.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-ESC Clinical Practice Guidelines on
-The Management of
-Chronic and Acute
-Heart Failure:
-Updated
-2023
-What Patients
-Need to Know
-Image is of model used for illustrative purposes only
+ESC Clinical Practice Guidelines on The Management of Chronic and Acute Heart Failure:
 
 What Are Clinical Practice Guidelines?
 Clinical Practice Guidelines are written by a team of healthcare professionals and
@@ -346,34 +325,3 @@ devices and surgical treatments, symptoms can get worse.
 A supportive approach from all members of your multidisciplinary team can improve
 quality of life by balancing medical treatment and symptom control with particular
 reference to mental and spiritual wellbeing.
-
-This guide for patients is a simplified version of the ESC’s Clinical Practice Guidelines
-for the diagnosis and treatment of acute and chronic heart failure. The full guidelines
-are available in English on the ESC website (
-Clinical-Practice-Guidelines/Acute-and-Chronic-Heart-Failure); your cardiologist will
-be familiar with its content and recommendations. Online translator tools may be
-able to translate the text and present it in an alternative language, with limitations.
-If you are interested in more information about heart failure and its diagnosis and
-treatment or the terms used in this document, the Heart Failure Matters website
-( is a good place to start. It contains details about
-heart failure and the medicines used to treat it (presented in 10 different languages).
-Authors
-• Jelena Cˇelutkiene˙, Clinic of Cardiac and Vascular Diseases, Vilnius University, Faculty of Medicine, Vilnius, Lithuania.
-• Inga Drossart, European Society of Cardiology, Sophia Antipolis, France.
-• Tiny Jaarsma, Department of Health, Medicine and Caring Science, Linköping University, Linköping, Sweden.
-• Richard Mindham, United Kingdom, ESC Patient Forum, Sophia Antipolis, France.
-Disclaimer
-The following material was adapted from the ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure
-(European Heart Journal 2021 - doi:10.1093/eurheartj/ehab368) as published on 27 August 2021 and revised on 14 October 2021.
-Copyright © European Society of Cardiology 2022 - All Rights Reserved.
-This material has been published for personal and educational use only. No commercial use is authorised. No part of this document
-may be translated or reproduced in any form without written permission from the ESC. Permission can be obtained upon
-submission of a written request to ESC, Practice Guidelines Department, Les Templiers - 2035, Route des Colles - CS 80179 Biot -
-06903 Sophia Antipolis Cedex - France. Email: guidelines@escardio.org
-This material was adapted from the ESC Guidelines as an aid to patients and carers. It represents the views of the ESC and was
-produced after careful consideration of the scientific and medical knowledge and the evidence available at the time of their
-publication. The ESC is not responsible in the event of any contradiction, discrepancy and/or ambiguity between the ESC Guidelines
-and any other official recommendations or guidelines issued by the relevant public health authorities, in particular in relation to
-good use of healthcare or therapeutic strategies. Please refer to the preamble of the original guidelines, for further details of the
-role of Clinical Practice Guidelines and the individual responsibility of health professionals when making decisions for the care
-of patients.

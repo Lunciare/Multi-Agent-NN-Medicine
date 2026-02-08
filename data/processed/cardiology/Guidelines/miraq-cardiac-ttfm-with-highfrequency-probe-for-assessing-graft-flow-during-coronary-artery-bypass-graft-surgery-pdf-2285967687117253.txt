@@ -1,23 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "miraq-cardiac-ttfm-with-highfrequency-probe-for-assessing-graft-flow-during-coronary-artery-bypass-graft-surgery-pdf-2285967687117253.pdf",
-  "converted_date": "2026-01-31T14:47:37.558719",
-  "file_size_bytes": 104991,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/miraq-cardiac-ttfm-with-highfrequency-probe-for-assessing-graft-flow-during-coronary-artery-bypass-graft-surgery-pdf-2285967687117253.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-MiraQ cardiac TTFM with high-
-frequency probe for assessing
-graft flow during coronary
-artery bypass graft surgery
-Medtech innovation briefing
-Published: 20 June 2023
-www.nice.org.uk/guidance/mib323
+MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
+artery bypass graft surgery 
 Overview
 NICE has developed a medtech innovation briefing (MIB) on MiraQ cardiac TTFM with
 high-frequency probe for assessing graft flow during coronary artery bypass graft surgery.
@@ -26,8 +8,7 @@ potential role in the treatment pathway. A MIB also includes a review of relevan
 evidence and the likely costs of using the technologies, but they are not NICE guidance
 and do not make any recommendations on the value of using the technologies.
 
-MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
-artery bypass graft surgery (MIB323)
+ 
 Summary
 • The technology described in this briefing is the MiraQ cardiac transit time flowmetry
 (TTFM) and high-frequency ultrasound (HFUS) system. It is used for intraoperative
@@ -58,8 +39,7 @@ imaging probe is £8,365 and the TTFM probe is £1,720 (excluding VAT). Standard
 is clinical assessment of graft flow using a variety of techniques, which are selected
 based on surgeon preference.
 
-MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
-artery bypass graft surgery (MIB323)
+ 
 The technology
 MiraQ cardiac (Medistim) combines transit time flow measurement (TTFM) and high-
 frequency ultrasound (HFUS) modalities within a single system. Surgical findings can be
@@ -91,8 +71,7 @@ considered in people whose symptoms are not satisfactorily controlled by medical
 treatment.
 CABG surgery aims to bypass narrowed or blocked segments of the coronary arteries
 
-MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
-artery bypass graft surgery (MIB323)
+ 
 using grafts. Grafts are usually constructed from lengths of the patient's own long
 saphenous vein or internal mammary artery, although other blood vessels are also used.
 Cardiac surgeons use a variety of techniques to avoid technical problems during CABG
@@ -119,8 +98,7 @@ Technology costs
 • MiraQ cardiac TTFM and HFUS system: £81,550
 • unit cost L15 imaging probe: £8,365
 
-MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
-artery bypass graft surgery (MIB323)
+ 
 • unit cost TTFM probe: £1,720
 • annual maintenance costs (based on 10-year lifetime): £2,086.
 Costs of standard care
@@ -149,8 +127,7 @@ during compliance testing to ensure the system meets electromedical safety stand
 requirements. However, the incidences noted above have shown that severe ESD can
 surpass these requirements. Medistim has therefore further issued updated instructions
 
-MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
-artery bypass graft surgery (MIB323)
+ 
 for use which clarify the importance of routinely performing the probe and system
 functionality test before use to ensure that they function properly.
 Equality considerations
@@ -179,8 +156,7 @@ retrospective observational study (Kim et al. 2020).
 There is 1 secondary analysis that is not summarised below because it includes people
 with chronic and end-stage renal disease undergoing coronary artery bypass graft (CABG)
 
-MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
-artery bypass graft surgery (MIB323)
+ 
 surgery (Rosenfeld et al. 2021b).
 The clinical evidence and its strengths and limitations are summarised in the overall
 assessment of the evidence.
@@ -209,8 +185,7 @@ made in 256 people. Of these, in 77% (197 out of 256) this was a result of TTFM 
 Of these, surgical changes were made to the aorta in 74 of 80 people (92.5%), to in situ
 conduits in 10 of 18 people (55.6%), to the proposed coronary target in 73 of 109 people
 
-MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
-artery bypass graft surgery (MIB323)
+ 
 (67.0%) and to grafts in 51 of 79 people (64.6%). In-hospital adverse event rates were 0.3%
 for myocardial infarction, 0.6% for mortality and 1.0% for cerebral events.
 Strengths and limitations
@@ -241,8 +216,7 @@ target location changes in OPCAB (28.6%) versus ONCAB (19.9%) procedures (OR 1.6
 versus venous grafts (4.7% versus 2.4%; OR 2.05; 95% CI 1.29 to 3.37), and inferior versus
 anterior (5.1% versus 2.9%; OR 1.77; 95% CI 1.08 to 2.89) and lateral (5.1% versus 2.8%; OR
 
-MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
-artery bypass graft surgery (MIB323)
+ 
 1.83; 95% CI 1.04 to 3.27) territory grafts.
 Strengths and limitations
 This study is a secondary analysis of Taggart et al. (2020). It suggests that compared with
@@ -268,8 +242,7 @@ cannulation site, the potential opening site of the vessel or the completed anas
 limitation is that the main aim of the study was to evaluate MiraQ TTFM and HFUS in
 relation to postoperative troponin-I release.
 
-MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
-artery bypass graft surgery (MIB323)
+ 
 Kim et al. (2020)
 Study size, design and location
 A retrospective observational study of 53 people undergoing CABG in Korea.
@@ -298,8 +271,7 @@ Sustainability
 The company claims the technology will reduce the use of single-use equipment related to
 the surgical procedure by reducing the need for repeat vascularisation (repeat CABG or
 
-MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
-artery bypass graft surgery (MIB323)
+ 
 percutaneous coronary intervention [PCI]) and the ionising radiation connected to PCI.
 Both the TTFM and HFUS probes can be used on multiple patients after cleaning and
 sterilisation. There is no published evidence to support these claims.
@@ -328,8 +300,7 @@ that it has the potential to replace standard care.
 Potential patient impact
 Two experts said that the primary benefit of the technology for patients is providing
 
-MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
-artery bypass graft surgery (MIB323)
+ 
 surgeons with detailed objective information about the graft condition and graft flow. This
 information can be used to make necessary changes to improve blood flow in the graft
 and potentially reduce long-term graft failure. One expert also highlighted the ability of the
@@ -362,19 +333,3 @@ that larger studies are needed to determine both the clinical and cost effective
 technology, including in different patient groups. Two experts said that the technology
 would be needed for all coronary artery bypass graft (CABG) procedures done in the NHS,
 which is approximately 15,000 a year.
-
-MiraQ cardiac TTFM with high-frequency probe for assessing graft flow during coronary
-artery bypass graft surgery (MIB323)
-Expert commentators
-The following clinicians contributed to this briefing:
-• Dr James Barnard, consultant cardiac surgeon at Wythenshawe Hospital Manchester
-University NHS Foundation Trust. Did not declare any interests.
-• Dr Vipin Zamvar, consultant cardiothoracic surgeon at Royal Infirmary of Edinburgh.
-Did not declare any interests.
-• Professor Thanos Athanasiou, professor of cardiac surgery at Imperial College London
-NHS Trust. Did not declare any interests.
-Development of this briefing
-This briefing was developed by NICE. The interim process and methods statement for
-medtech innovation briefings sets out the process NICE uses to select topics, and how the
-briefings are developed, quality-assured and approved for publication.
-ISBN: 978-1-4371-5265-6

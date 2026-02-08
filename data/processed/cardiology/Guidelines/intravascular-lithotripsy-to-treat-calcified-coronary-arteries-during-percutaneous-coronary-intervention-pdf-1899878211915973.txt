@@ -1,47 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "intravascular-lithotripsy-to-treat-calcified-coronary-arteries-during-percutaneous-coronary-intervention-pdf-1899878211915973.pdf",
-  "converted_date": "2026-01-31T14:44:43.139895",
-  "file_size_bytes": 68560,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/intravascular-lithotripsy-to-treat-calcified-coronary-arteries-during-percutaneous-coronary-intervention-pdf-1899878211915973.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Intravascular lithotripsy to treat
-calcified coronary arteries
-during percutaneous coronary
-intervention
-Interventional procedures guidance
-Published: 5 February 2025
-www.nice.org.uk/guidance/ipg802
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-
 Intravascular lithotripsy to treat calcified coronary arteries during percutaneous coronary
-intervention (IPG802)
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-This guidance replaces IPG673.
+intervention
 1 Recommendations
 1.1 Use intravascular lithotripsy as an option to treat calcified coronary arteries
 during percutaneous coronary intervention with standard arrangements in place
@@ -57,8 +15,7 @@ already have a high risk of cardiovascular complications, but there is no eviden
 intravascular lithotripsy increases this risk. This procedure is widely used and established
 in clinical practice.
 
-Intravascular lithotripsy to treat calcified coronary arteries during percutaneous coronary
-intervention (IPG802)
+ 
 2 The condition, current treatments and
 procedure
 The condition
@@ -83,8 +40,7 @@ Intravascular lithotripsy is another endovascular treatment option for PCI.
 Unmet need
 2.3 Addressing calcified coronary lesions during PCI presents a significant challenge.
 
-Intravascular lithotripsy to treat calcified coronary arteries during percutaneous coronary
-intervention (IPG802)
+ 
 Calcified plaques can hinder stent deployment and expansion, increasing the risk
 of complications such as arterial dissection or inadequate stent expansion.
 Existing options for managing heavily calcified coronary arteries during PCI such
@@ -111,8 +67,7 @@ deflated to allow blood supply to return to the heart.
 2.6 The cycle can be repeated until the lesion has expanded enough to allow optimal
 stent placement or the total pulses available are used.
 
-Intravascular lithotripsy to treat calcified coronary arteries during percutaneous coronary
-intervention (IPG802)
+ 
 3 Committee considerations
 The evidence
 3.1 NICE did a rapid review of the published literature on the efficacy and safety of
@@ -139,8 +94,7 @@ coronary intervention is increasing
 intravascular lithotripsy can be planned beforehand if the percutaneous
 coronary intervention is being done electively
 
-Intravascular lithotripsy to treat calcified coronary arteries during percutaneous coronary
-intervention (IPG802)
+ 
 • the number of procedures recorded in the National Institute for
 Cardiovascular Outcomes Research (NICOR) database has increased rapidly
 over the past few years.
@@ -149,6 +103,3 @@ over the past few years.
 eccentric calcified lesions
 • this procedure may result in less distal embolisation than other procedures
 used to manage calcification.
-ISBN: 978-1-4731-6786-5
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

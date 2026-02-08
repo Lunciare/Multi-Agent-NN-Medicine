@@ -1,25 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "symptoms-of-peripheral-arterial-disease-ramipril-pdf-54116459124188101.pdf",
-  "converted_date": "2026-01-31T14:49:53.799875",
-  "file_size_bytes": 161987,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/symptoms-of-peripheral-arterial-disease-ramipril-pdf-54116459124188101.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Symptoms of peripheral arterial
-disease: ramipril
-Evidence summary
-Published: 30 June 2015
-www.nice.org.uk/guidance/esuom45
-Key points from the evidence
-The content of this evidence summary was up-to-date in June 2015. See summaries
-of product characteristics (SPCs), British national formulary (BNF) or the MHRA or
-NICE websites for up-to-date information.
+Symptoms of peripheral arterial disease: ramipril
 Summary
 The evidence for the efficacy of ramipril in relieving the symptoms of peripheral arterial
 disease is very limited.
@@ -30,7 +9,7 @@ symptom of peripheral arterial disease. However, while these differences were st
 significant, the clinical importance of the results is unclear. No adverse effects were
 reported in 1 study. In the other study, the adverse effect most often reported with ramipril
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 was cough, which led to discontinuation in some cases.
 The studies have many limitations and ramipril has not been compared directly with other
 treatments for intermittent claudication. Higher quality evidence on the efficacy and safety
@@ -74,7 +53,7 @@ reported with ramipril was cough, which led to
 discontinuation in some cases.
 clinical importance unclear).
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 Patient factors Resource implications
 • Renal function should be • The cost of 28 days' treatment with ramipril
 assessed before and during 10 mg is £1.28 for capsules, £1.32 for tablets
@@ -107,7 +86,7 @@ The most common initial symptom of peripheral arterial disease is pain in the le
 walking, which is relieved by rest, known as intermittent claudication.
 Treatment options for intermittent claudication include management of cardiovascular risk
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 factors (for example, smoking, obesity, diabetes, hypertension, using antiplatelet drugs
 and statins), supervised exercise and vasoactive drug treatment (naftidrofuryl oxalate).
 See the NICE guideline on lower limb peripheral arterial disease: diagnosis and
@@ -139,7 +118,7 @@ increased mean maximum walking time (451 seconds, p<0.001) and mean pain-free
 walking time (227 seconds, p<0.001) compared with placebo over 24 weeks. Shahin et
 al. (2013a) reported walking distance rather than time and found that, compared with
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 placebo, ramipril 10 mg daily statistically significantly improved mean maximum
 walking distance (131 m, p=0.001) and mean pain-free walking distance (122 m,
 p=0.001) over 24 weeks. Although unclear from the data reported, improvements from
@@ -175,7 +154,7 @@ maintained in the longer term. It is also not known how ramipril compares with o
 treatments for intermittent claudication because the studies were placebo controlled.
 Full text of evidence review.
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 Context and estimated impact for the NHS
 The cost of 28 days' treatment with ramipril 10 mg is £1.28 for capsules, £1.32 for tablets
 and £358.40 for 2.5 mg/5 ml oral solution (Drug Tariff, October 2015).
@@ -204,7 +183,7 @@ blocked. The usual cause of peripheral arterial disease is atherosclerosis (Cilo
 naftidrofuryl oxalate, pentoxifylline and inositol nicotinate for the treatment of intermittent
 claudication in people with peripheral arterial disease NICE technology appraisal 223).
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 The NICE guideline on lower limb peripheral arterial disease: diagnosis and management
 highlights that the condition is a marker for increased risk of cardiovascular events even
 when it is asymptomatic. The most common initial symptom of peripheral arterial disease
@@ -239,7 +218,7 @@ reviewed after 3 to 6 months and treatment discontinued if there has been no
 symptomatic benefit.
 For more information on the management of peripheral arterial disease, see the NICE
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 clinical knowledge summary on peripheral arterial disease and the NICE pathway on lower
 limb peripheral arterial disease.
 This evidence summary considers the evidence for using ramipril to treat the symptoms of
@@ -267,7 +246,7 @@ The usual dose of ramipril for licensed indications is 1.25 mg daily to 10 mg da
 dose range, the cost of ramipril tablets and capsules is between £1.07 and £1.33 for 28.
 Ramipril 2.5 mg/5 ml oral solution costs £96.00 for 150 ml (Drug Tariff, October 2015).
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 Evidence review
 This evidence summary discusses 2 randomised controlled trials (RCTs) that evaluated
 ramipril for treating intermittent claudication in people with peripheral arterial disease.
@@ -301,7 +280,7 @@ asked to maintain their lifestyle throughout the trial. Baseline characteristics
 reported to be similar between the groups. In Shahin et al. (2013a), participants were
 randomised to receive ramipril 5 mg daily or placebo for 2 weeks, followed by 10 mg
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 daily or placebo for 22 weeks. In this study, the majority of baseline characteristics
 were similar between the groups. The methods of randomisation used suggest
 allocation was concealed in both studies.
@@ -334,7 +313,7 @@ Median maximum walking Not reported 140 metres
 distance
 Current smokers 17/40 (42.5%) 16/33 (48.5%)
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 Diabetes mellitus Excluded 11/33 (33%)
 Hypertension Excluded 20/33 (61%)
 Medications Aspirin 9/40 (22.5%) Antiplatelet drugs 31/33
@@ -368,7 +347,7 @@ time at 24 weeks
 536 seconds
 p<0.001
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 Primary outcome 2: Shahin et Not Not Difference 131 m
 change in mean al. reported reported
 95% CI 62 m to 199 m
@@ -407,7 +386,7 @@ Safety Ahimastos n=20 n=20
 et al.
 (2006)
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 Shahin et n=17 n=12
 al.
 (2013a)
@@ -442,7 +421,7 @@ in the ramipril groups, the mean maximum walking time approximately tripled in A
 et al. (2006) (from 234 seconds to 675 seconds) compared with baseline, which may be
 considered a relevant improvement by patients.
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 Shahin et al. (2013a) (n=33) reported walking distance rather than time and found that,
 compared with placebo, ramipril 10 mg daily statistically significantly improved mean
 maximum walking distance (131 m, p=0.001) and mean pain-free walking distance (122 m,
@@ -476,7 +455,7 @@ include angioedema, hyperkalaemia, renal or hepatic impairment, pancreatitis, se
 reactions and neutropenia/agranulocytosis. Renal function should be assessed before and
 during ramipril treatment, particularly in people with renal impairment.
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 Evidence strengths and limitations
 The Heart Outcomes Prevention Evaluation study showed that ramipril has beneficial
 effects on morbidity and mortality and it is licensed for the reduction of cardiovascular
@@ -513,7 +492,7 @@ conditions (for example, concomitant disease limiting walking, including coronar
 disease, or renal impairment). Participants in Ahimastos et al. (2006) had no history of
 diabetes or hypertension. A higher proportion of participants in Shahin et al. (2013a) had
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 hypertension or diabetes mellitus and took antiplatelet and lipid-lowering drugs than in the
 other study.
 Most of the participants in the studies were white and male (average age about 65 years)
@@ -544,7 +523,7 @@ treatments or placebo for managing symptoms of peripheral arterial disease.
 Costs of 28 days' treatment with ramipril 10 mg daily, the dose used in the studies, are
 shown in table 3.
 
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
+ 
 Table 3 Costs of ramipril treatment
 Cost (excluding VAT; Drug Cost (excluding VAT) of 28 days'
 Tariff, October 2015) treatment at 10 mg daily
@@ -559,71 +538,3 @@ The NHS prescription cost analysis for England 2014 reports that 26 million comm
 prescriptions for ramipril were dispensed in 2014, costing £40 million (net ingredient cost).
 The indications for these prescriptions are not provided but it is likely that most will have
 been for licensed indications. In addition, these data do not include hospital prescriptions.
-Information for the public
-A plain English summary is available on the NICE website. This sets out the main points
-from the evidence summary in non-technical language and may be especially helpful for
-people with symptoms of peripheral arterial disease who are thinking about trying ramipril.
-Relevance to NICE guidance programmes
-The use of ramipril for treating symptoms of peripheral arterial disease is not appropriate
-for referral for a NICE technology appraisal and is not currently planned into any other
-work programme.
-A NICE guideline on lower limb peripheral arterial disease: diagnosis and management
-(CG147) was published in 2012. It incorporates recommendations from the 2011 NICE
-technology appraisal on cilostazol, naftidrofuryl oxalate, pentoxifylline and inositol
-nicotinate for the treatment of intermittent claudication in people with peripheral arterial
-
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
-disease (TA233). A NICE pathway on lower limb peripheral arterial disease brings the
-guidance and supporting information together in a set of interactive topic-based diagrams.
-References
-Ahimastos AA, Lawler A, Reid CM et al. (2006) Brief communication: ramipril markedly
-improves walking ability in patients with peripheral arterial disease: a randomized trial.
-Annals of Internal Medicine 144: 660−4
-Ahimastos AA, Walker PJ, Askew C et al. (2013) Effect of ramipril on walking times and
-quality of life among patients with peripheral artery disease and intermittent claudication:
-a randomized controlled trial. JAMA 309: 453−60
-National Institute for Health and Clinical Excellence (2012) Lower limb peripheral arterial
-disease: diagnosis and management NICE guideline CG147
-National Institute for Health and Clinical Excellence (2011) Cilostazol, naftidrofuryl oxalate,
-pentoxifylline and inositol nicotinate for the treatment of intermittent claudication in people
-with peripheral arterial disease NICE technology appraisal 223
-Shahin Y, Cockcroft JR, Chetter IC (2013a) Randomized clinical trial of angiotensin-
-converting enzyme inhibitor, ramipril, in patients with intermittent claudication. British
-Journal of Surgery 100: 1154−63
-Shahin Y, Barnes R, Barakat H et al. (2013b) Meta-analysis of angiotensin converting
-enzyme inhibitors effect on walking ability and ankle brachial pressure index in patients
-with intermittent claudication. Atherosclerosis 231: 283−90
-Development of this evidence summary
-The integrated process statement sets out the process NICE uses to select topics for the
-evidence summaries for unlicensed/off-label medicines and how the summaries are
-developed, quality assured and approved for publication.
-Expert advisers
-Professor Andrew W Bradbury, Gamgee Professor of Vascular Surgery, University of
-
-Symptoms of peripheral arterial disease: ramipril (ESUOM45)
-Birmingham and Consultant Vascular and Endovascular Surgeon, Heart of England NHS
-Foundation Trust
-Jonothan J Earnshaw, Consultant Vascular Surgeon, Gloucestershire Hospitals NHS
-Foundation Trust
-Professor Cliff Shearman, Professor of Vascular Surgery, University of Southampton
-Declarations of interest
-No relevant interests were declared by any of the expert advisers.
-About this evidence summary
-'Evidence summaries: unlicensed or off-label medicines' summarise the published
-evidence for selected unlicensed or off-label medicines that are considered to be of
-significance to the NHS, where there are no clinically appropriate licensed alternatives.
-The summaries provide information for clinicians and patients to inform their
-decision-making and support the construction and updating of local formularies.
-The summaries support decision-making on the use of an unlicensed or off-label
-medicine for an individual patient, where there are good clinical reasons for its use,
-usually when there is no licensed medicine for the condition requiring treatment, or
-the licensed medicine is not appropriate for that individual.
-The strengths and weaknesses of the relevant evidence are critically reviewed within
-this summary, but this summary is not NICE guidance.
-Copyright
-© National Institute for Health and Care Excellence, 2015. All rights reserved. NICE
-copyright material can be downloaded for private research and study, and may be
-reproduced for educational and not-for-profit purposes. No reproduction by or for
-commercial organisations, or for commercial purposes, is allowed without the written
-permission of NICE.
-ISBN: 978-1-4731-1516-3

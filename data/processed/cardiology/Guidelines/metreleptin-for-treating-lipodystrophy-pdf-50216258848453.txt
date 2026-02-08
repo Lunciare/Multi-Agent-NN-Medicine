@@ -1,47 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "metreleptin-for-treating-lipodystrophy-pdf-50216258848453.pdf",
-  "converted_date": "2026-01-31T14:46:52.754566",
-  "file_size_bytes": 207294,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/metreleptin-for-treating-lipodystrophy-pdf-50216258848453.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Metreleptin for treating
-lipodystrophy
-Highly specialised technologies guidance
-Published: 24 February 2021
-www.nice.org.uk/guidance/hst14
-
-Metreleptin for treating lipodystrophy (HST14)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Metreleptin for treating lipodystrophy (HST14)
-
-Metreleptin for treating lipodystrophy (HST14)
+Metreleptin for treating lipodystrophy
 1 Recommendations
 1.1 Metreleptin is recommended, within its marketing authorisation, as an option for
 treating the complications of leptin deficiency in lipodystrophy for people who are
@@ -74,10 +31,10 @@ modelling are uncertain. Despite this, metreleptin is likely to provide importan
 benefit and improve quality of life for people who have lipodystrophy, parents and carers.
 It also provides value for money within the context of a highly specialised service. So, it is
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 recommended for use in the NHS.
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 2 The condition
 2.1 Lipodystrophy is a rare, heterogeneous group of syndromes characterised by
 complete or partial loss, or absence of, subcutaneous adipose tissue. Without
@@ -110,10 +67,10 @@ thiazolidinediones).
 in 2011 at Addenbrooke's Hospital in Cambridge. Treatment with metreleptin is
 currently provided there as part of an early access programme, under the
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 National Severe Insulin Resistance Service at the hospital.
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 3 The technology
 3.1 Metreleptin (Myalepta, Amryt) is an analogue of the human hormone leptin, which
 is secreted into the circulation from adipocytes. Metreleptin has a UK marketing
@@ -145,7 +102,7 @@ makes metreleptin available to the NHS with a discount. The size of the discount
 is commercial in confidence. It is the company's responsibility to let relevant NHS
 organisations know details of the discount.
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 4 Consideration of the evidence
 The evaluation committee (see section 6) considered evidence submitted by Amryt, the
 views of people with the condition and those who represent them, clinical experts and
@@ -175,7 +132,7 @@ progression or important outcomes such as hyperphagia:
 － There was no evidence on change in patient experience and disease
 progression for people who did not have metreleptin.
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 － Early access programme results did not improve the committee's
 understanding of metreleptin's relative effectiveness in the short or long
 term because they did not include long-term data or patient-reported
@@ -209,7 +166,7 @@ account the full range of factors that might affect its decision, in particular,
 nature of the condition, the clinical effectiveness, value for money and the impact
 beyond direct health benefits.
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 Nature of the condition
 Burden of disease
 4.5 The patient experts explained the all-consuming nature of lipodystrophy. They
@@ -242,7 +199,7 @@ typically present at between 1 to 2 years old, and develop diabetes and damage
 in 1 or more organs by the time they are 2 or 3 years old. However, partial
 lipodystrophy usually presents later, and symptoms are heterogeneous, which
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 makes diagnosis at an early stage of the disease difficult. The clinical experts
 highlighted that an earlier diagnosis is important to prevent disease progression.
 The patient experts supported the view of the clinical experts, stating that partial
@@ -274,7 +231,7 @@ treatment effects were based on changes from baseline in single-arm
 metreleptin treatment studies during the first and second committee
 meetings. The committee noted that there was a lack of evidence on
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 metreleptin's relative treatment effect. In its resubmission, and in response to
 committee's concerns at the second meeting (see section 4.2), the company
 updated its systematic literature review. It used a new search strategy to
@@ -310,7 +267,7 @@ metreleptin. This meant that no conclusion on efficacy could be made from the
 early access programme. The committee welcomed the company's attempt to
 gather additional clinical evidence to supplement the sparse evidence base. It
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 agreed that the new evidence indicated that metreleptin treatment improves
 metabolic outcomes at 36-month follow up. But, the committee did not
 substantially improve its understanding of the relative effectiveness of
@@ -345,7 +302,7 @@ differences in the effects of metreleptin treatment (particularly for changes in
 triglyceride levels) between the early access programme (see section 4.8) and
 the NIH follow-up study (see section 4.7). For example, for people with
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 generalised lipodystrophy, the 12-month change in triglycerides was -3.5 mmol/
 litre (based only on people for whom both baseline and 12-month data were
 available) in the early access programme, compared with -10.54 mmol/litre in the
@@ -384,7 +341,7 @@ significance. The company added that its approach was driven by clinical opinion
 and statistical principles. The committee recognised the limitation of the
 company's indirect treatment comparison. However, it understood the challenges
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 in generating evidence for ultra-rare diseases given the availability of the data.
 The committee concluded that, despite the limitations, it was broadly satisfied
 with the company's methods for the indirect treatment comparison.
@@ -419,7 +376,7 @@ studies is established and widely accepted. The clinical experts explained that
 triglyceride levels were strongly linked to pancreatitis but that the association
 was harder to capture mathematically. The clinical experts agreed that HbA1c and
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 triglyceride levels are used in clinical practice and are considered to be
 reasonably predictive of clinical outcomes. However, the relationship may not be
 identical to that in other disease areas such as diabetes. For example, the risk of
@@ -455,7 +412,7 @@ Clinical and patient-perceived outcomes
 4.13 The clinical studies did not include an objective measure to capture the effect of
 metreleptin on hyperphagia even though, as the patient experts explained, it is a
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 defining characteristic of lipodystrophy with important physical and emotional
 consequences. The clinical experts agreed that treatment targeting hyperphagia
 is critical because eating less means some complications of lipodystrophy will
@@ -494,7 +451,7 @@ moved to local treatment centres where treatment was provided through
 compassionate use programmes. It stated that it intended to capture patient-
 reported outcomes, including hunger scores, as part of its post-authorisation
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 commitments. The committee agreed that any additional information (qualitative
 or quantitative) about the experience of hyperphagia in people with
 lipodystrophy, and the effect metreleptin has on it, could substantially improve its
@@ -526,7 +483,7 @@ and below in men
 • A subgroup of people with partial lipodystrophy from the NIH studies with
 baseline HbA1c 6.5% or more, or triglycerides 5.65 mmol/litre or more, or both
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 (used for model inputs for the economic analysis, including baseline levels of
 metabolic surrogates and changes from baseline of HbA1c). The company
 considered that this subgroup of people with partial lipodystrophy represents
@@ -563,7 +520,7 @@ and with more severe metabolic status (that is, HbA1c and triglyceride levels)
 at baseline. They further explained that the criteria of 'HbA1c above 7.5%' was
 based on the recommended value for a person with diabetes to target in
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 clinical practice. The criteria of 'fasting triglycerides above 5.00 mmol/litre'
 was based on the value above which people with diabetes are at risk of
 pancreatitis. The committee understood the rationale for choosing the further
@@ -596,7 +553,7 @@ time, more than 3 years in the NIH studies and over 2 years in the FHA101
 study, and that several reported TEAEs (such as decreased appetite and
 weight, and hypoglycaemia) were consistent with metreleptin's mechanism of
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 action. The clinical experts suggested that adherence is likely to improve in
 practice as the benefits of metreleptin become clear. The company and
 clinical experts also noted that episodes of pancreatitis improved with
@@ -630,7 +587,7 @@ noted that neutralising antibodies should still be monitored. The committee
 concluded that neutralising antibodies did not seem to be a significant issue, but
 this should still be monitored in the future.
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 Cost to the NHS and value for money
 Company's economic model
 4.17 The company developed a de novo individual patient-level model addressing
@@ -663,7 +620,7 @@ following cycle.
 and can progress to peripheral neuropathy, peripheral arterial disease with
 amputation, and can move to the post-amputation state in the following
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 cycle.
 • Retinopathy sub-model: people start in the 'no retinopathy' state and can
 progress to blindness either directly, or by progressing through various retinal
@@ -696,7 +653,7 @@ Transition probabilities adjusted by HbA1c for sub-models
 of the sub-models that are diabetes-related complications: cardiovascular,
 kidney, neuropathy and retinopathy. Baseline transition probabilities were then
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 adjusted according to the absolute change in HbA1c level from baseline to
 12 months from NIH 991265/20010769, to generate probabilities for people
 having metreleptin. For the liver sub-model, the baseline transition probability for
@@ -731,7 +688,7 @@ only had a minor impact on the cost-effectiveness estimate. The committee
 concluded that it was generally satisfied with the company's approach to
 modelling transition probabilities.
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 Utility decrements for organ complications
 4.20 The committee was aware that the clinical trials of metreleptin did not collect any
 quality-of-life data. In its resubmission, the company did a systematic literature
@@ -766,7 +723,7 @@ burden on carers of -0.0986. This decrement was estimated as the difference
 between the mean value for carers in the Lipodystrophy Caregiver Burden Survey
 (done by the company to explore carers experience in the UK) and the general
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 population norm, obtained from the EQ-5D. The committee was satisfied with the
 company's approach to model carer utility.
 Number of carers
@@ -797,7 +754,7 @@ progression in people with diabetes. This yearly rise continues up to a ceiling 
 clinical opinion from the Delphi panel). The ERG considered this persistence of
 effect after stopping treatment unrealistic. During technical engagement, the
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 company explained that complications associated with diabetes develop over
 many years at a rate and extent that is related to the adequacy of glucose
 control. Therefore, a slow-offset period of treatment effect would be expected
@@ -833,7 +790,7 @@ risk. Additionally, the company applied the persisting lifetime liver benefit in
 addition to the period of treatment effect after stopping treatment. Therefore, the
 experts' statements were not reflected in the model appropriately. The clinical
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 experts explained that some sustained slowing of liver damage may be
 maintained for months when metreleptin is stopped. The ERG remained uncertain
 of the true period and level of benefit when metreleptin is stopped. However, in
@@ -865,7 +822,7 @@ not return fully after stopping treatment, as a utility differential. But, it co
 that the ERG's approach of removing the assumed lifetime maintenance of 50%
 utility differential to both patients and carers is preferred.
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 Stopping rule
 4.26 The company's model structure for metreleptin included a stopping rule for
 people with partial lipodystrophy. At 9 months after the start of metreleptin
@@ -896,7 +853,7 @@ weight between 1 and 3 can be applied when the QALY gain is between
 uncertainty, the undiscounted QALY gains for the scenarios incorporating its
 preferred assumptions did not meet the criteria for applying a QALY weight.
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 Cost-effectiveness results
 4.28 The company's base case showed that metreleptin was associated with an ICER
 of £60,611 per QALY gained for the overall population. The ICER for generalised
@@ -928,7 +885,7 @@ The committee's preferred assumptions were associated with an ICER of
 generalised lipodystrophy was £87,545 per QALY gained, and the ICER for
 partial lipodystrophy was £133,606 per QALY gained.
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 Impact of the technology beyond direct health
 benefits and on the delivery of the specialised
 service
@@ -960,7 +917,7 @@ Other factors
 4.34 The committee discussed the nature of the condition and to what extent the
 severity of lipodystrophy was comparable to other ultra-rare conditions. It
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 understood that hunger was a particular aspect of the condition which caused
 substantial impact on quality of life for people with lipodystrophy and was likely
 to be associated with other comorbidities.
@@ -994,7 +951,7 @@ frameworks. It was aware that there are uncertainties about transition
 probabilities (see section 4.18) and utility values (see section 4.20) sourced from
 other disease areas, transition probabilities adjusted by change in HbA1c (see
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 section 4.19), and metreleptin's assumed treatment effect on organ damage and
 quality of life after stopping treatment (see sections 4.23, 4.24 and 4.25). It also
 noted that metreleptin did not meet the criteria for a QALY weighting to be
@@ -1011,7 +968,7 @@ complications of leptin deficiency in lipodystrophy for people who are either
 lipodystrophy with HbA1c above 58 mmol/mol (7.5%), or fasting triglycerides
 above 5.0 mmol/litre, or both.
 
-Metreleptin for treating lipodystrophy (HST14)
+ 
 5 Implementation
 5.1 Section 8(6) of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -1028,32 +985,3 @@ available within the period set out in the paragraph above. This means that, if 
 patient has lipodystrophy and the doctor responsible for their care thinks that
 metreleptin is the right treatment, it should be available for use, in line with NICE's
 recommendations.
-
-Metreleptin for treating lipodystrophy (HST14)
-6 Evaluation committee members and
-NICE project team
-Evaluation committee members
-The highly specialised technologies evaluation committee is a standing advisory
-committee of NICE.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered that there is a conflict of interest, the member is excluded from
-participating further in that appraisal.
-The minutes of each evaluation committee meeting, which include the names of the
-members who attended and their declarations of interests, are posted on the NICE
-website.
-NICE project team
-Each highly specialised technology appraisal is assigned to a team consisting of 1 or more
-health technology analysts (who act as technical leads for the appraisal), a technical
-adviser and a project manager.
-Aminata Thiam, Orsolya Balogh and Thomas Paling
-Technical leads
-Raisa Sidhu and Yelan Guo
-Technical advisers
-Joanne Ekeledo
-Project manager
-
-Metreleptin for treating lipodystrophy (HST14)
-Update information
-June 2021: We added HbA1c levels in mmol/mol to sections 1.2, 4.14, 4.35 and 4.37 of the
-guidance, to reflect the units used in clinical practice.
-ISBN: 978-1-4731-3472-0

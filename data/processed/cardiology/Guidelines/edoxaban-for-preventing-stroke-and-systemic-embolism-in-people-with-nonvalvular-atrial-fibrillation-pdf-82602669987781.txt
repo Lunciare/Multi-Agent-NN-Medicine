@@ -1,55 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "edoxaban-for-preventing-stroke-and-systemic-embolism-in-people-with-nonvalvular-atrial-fibrillation-pdf-82602669987781.pdf",
-  "converted_date": "2026-01-31T14:49:57.256254",
-  "file_size_bytes": 196207,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/edoxaban-for-preventing-stroke-and-systemic-embolism-in-people-with-nonvalvular-atrial-fibrillation-pdf-82602669987781.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Edoxaban for preventing
-stroke and systemic
-embolism in people with
-non-valvular atrial
-fibrillation
-Technology appraisal guidance
-Published: 23 September 2015
-Last updated: 2 July 2021
-www.nice.org.uk/guidance/ta355
-
 Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
-
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
-This guidance should be read in conjunction with NG196.
+fibrillation 
 1 Recommendations
 1.1 Edoxaban is recommended, within its marketing authorisation, as an option for
 preventing stroke and systemic embolism in adults with non-valvular atrial
@@ -65,8 +15,7 @@ dabigatran etexilate and rivaroxaban. For people taking warfarin, consider the
 potential risks and benefits of switching to edoxaban taking into account their
 level of international normalised ratio (INR) control.
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 2 The technology
 2.1 Edoxaban (Lixiana, Daiichi Sankyo) is an anticoagulant that directly inhibits factor
 X (factor Xa), which is a key component in the formation of blood clots. It is
@@ -89,8 +38,7 @@ product characteristics.
 of treatment is £2.10 (excluding VAT). Costs may vary in different settings
 because of negotiated procurement discounts.
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 3 The company's submission
 The Appraisal Committee considered evidence submitted by Daiichi Sankyo and a review
 of this submission by the Evidence Review Group (ERG).
@@ -126,8 +74,7 @@ score was 2.8 and approximately 53% of patients had a CHADS score of 3 or
 2
 more, indicating that the patient population was at a moderate-to-high risk of
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 stroke. The median age of people in the study was 72 years and 62% were male.
 3.3 The primary efficacy outcome was time to the first stroke (ischaemic or
 haemorrhagic) or systemic embolic event. People in the trial continued treatment
@@ -161,8 +108,7 @@ stroke (ischaemic, haemorrhagic, fatal and disabling) for the mITT analysis set
 (on-treatment period, and overall study period) and the ITT analysis overall study
 period. For the mITT overall study period, edoxaban was shown to be superior to
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 warfarin for haemorrhagic stroke (p=0.001). The results were similar for the mITT
 population, the on-treatment period analysis and the ITT population analysis.
 3.6 The company presented analyses for the primary efficacy results using the mITT
@@ -197,8 +143,7 @@ risk of stroke and systemic embolism in the subgroup with a centre-level TTR of
 less than 60%. When the TTR data were examined by quartiles, however, the
 p value for interaction was 0.50.
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 Health-related quality of life
 3.8 Health-related quality of life data were collected in ENGAGE AF-TIMI 48 using the
 self-administered EQ-5D questionnaire at baseline and then every 3 months, until
@@ -230,8 +175,7 @@ clarification process were difficult to interpret because of the low response ra
 and incomplete analysis. The ERG therefore suggested that it was difficult to
 draw any firm conclusions about any differences in patients' experiences that are
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 attributable to the choice of treatment.
 Adverse effects of treatment
 3.13 The company presented the results of the safety analyses, which included all
@@ -264,8 +208,7 @@ arm. Because of significant differences in the patient characteristics and trial
 design between the 4 trials (for example, ARISTOTLE and RE-LY included people
 with a CHADS2 score of 1 or more, whereas the CHADS2 score was 2 or more in
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 both ENGAGE AF-TIMI 48 and ROCKET-AF) only data from patients with a
 CHADS score of 2 or more from RE-LY and ARISTOTLE were used in the network
 2
@@ -296,8 +239,7 @@ Cost effectiveness
 3.19 The company developed a Markov cohort model to compare edoxaban with
 warfarin, apixaban, rivaroxaban and dabigatran etexilate for preventing stroke
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 and systemic embolism in people with non-valvular atrial fibrillation with 1 or
 more risk factors, such as congestive heart failure, hypertension, age 75 years or
 more, diabetes, previous stroke or transient ischaemic attack, and a CHADS
@@ -335,8 +277,7 @@ equivalent to the hazard ratio estimated in the 'all patients' analysis. If ther
 no available data in the 'all patients' analysis, the hazard ratio was assumed to be
 1.
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 3.22 In the model, people could permanently stop or switch treatment after an
 ischaemic stroke or a haemorrhagic stroke. After stopping treatment and
 switching to a new therapy, the transition probability (of health state and event)
@@ -369,8 +310,7 @@ acute mortality data for ischaemic stroke and haemorrhagic stroke from the
 edoxaban groups of the trial (see sections 3.40 and 3.41).
 3.26 The ERG highlighted that the model overestimated overall survival for both
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 treatment groups compared with ENGAGE AF-TIMI 48, and that this potentially
 underestimated the relative effectiveness of edoxaban compared to warfarin.
 Utility values
@@ -399,8 +339,7 @@ ERG preferred to use EQ-5D data from the Health Survey for England in its
 analysis, because this was a more representative population for the UK. This
 produced an estimated annual utility decrement of -0.00646.
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 Resource use
 3.30 The company used the BNF 68 (July 2014) to obtain drug costs in the model. All
 costs for the health states of ischaemic stroke, haemorrhagic stroke and
@@ -431,8 +370,7 @@ strictly dominated (less effective and more costly) by dabigatran etexilate
 150 mg, which had an incremental cost-effectiveness ratio (ICER) of £7,645 per
 additional QALY gained compared to warfarin (table 1).
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 Table 1 Company's incremental base case (deterministic results)
 Total Inc ICER vs warfarin ICER per QALY gained
 Technology Total costs Inc costs
@@ -474,8 +412,7 @@ treatment, monitoring costs for patients treated with edoxaban (baseline £0,
 upper limit £26.50), and the utility values of stable atrial fibrillation, post-event
 myocardial infarction and haemorrhagic stroke.
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 3.36 The company presented results of subgroup analyses for people with a CHADS
 2
 score of 3 or more, or with a centre-level TTR of 60% or more. In people with a
@@ -507,8 +444,7 @@ Abbreviations: ICER, incremental cost-effectiveness ratio; Inc, incremental; QAL
 adjusted life years.
 3.38 The ERG highlighted that in the company's probabilistic and deterministic
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 analyses edoxaban was dominated (less effective and more costly than at least
 one alternative treatment). However, in the deterministic analysis dabigatran
 etexilate 150 mg dominated (was less costly and more effective than) the other,
@@ -539,8 +475,7 @@ dabigatran 150 mg to 110 mg at age 80
 • acute stroke fatality rate applied to all stroke events (16.8% for ischaemic and
 31.6% for haemorrhagic stroke)
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 • trial data on acute stroke case fatality rates used for all ischaemic and
 haemorrhagic strokes
 • age-adjusted utility decrement per year amended to -0.00646 instead of
@@ -559,8 +494,7 @@ deterministic pairwise ICER to between approximately £15,176 and £15,807, and
 the probabilistic ICER to between £21,728 and £23,634 per QALY gained.
 3.42 See the committee papers for full details of the evidence.
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 4 Consideration of the evidence
 The Appraisal Committee reviewed the data available on the clinical and cost
 effectiveness of edoxaban, having considered evidence on the nature of non-valvular
@@ -594,8 +528,7 @@ risk of stroke rather than CHADS -VASc, which is now used in clinical practice, 
 2
 recommended in the NICE guideline on managing atrial fibrillation. The
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 Committee understood from the clinical expert that the CHADS -VASc scoring
 2
 system was developed to better define those who would benefit from
@@ -634,8 +567,7 @@ the Evidence Review Group (ERG) that this was not consistent across all analysis
 sets. The Committee concluded that there was insufficient evidence to consider
 different treatment effects according to centre-level TTR.
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 4.5 The Committee noted that the company's subgroup analyses for risk of stroke (as
 defined by CHADS score) showed that the hazard ratio for edoxaban compared
 2
@@ -674,8 +606,7 @@ gastrointestinal bleeds in people treated with edoxaban compared with warfarin.
 The Committee was aware that this is not unique to edoxaban, and that clinicians
 are now more experienced in using the newer oral anticoagulants and in
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 managing the adverse events. It also heard from the clinical experts that
 administration of 4-factor prothrombin complex concentrate has been shown to
 reverse the effects of edoxaban. The Committee concluded that the risk–benefit
@@ -710,8 +641,7 @@ perspective and time horizon were appropriate, although it questioned the
 relevance of the inclusion of myocardial infarction. It concluded that the analysis
 was consistent with the NICE reference case.
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 4.10 The Committee considered the clinical-effectiveness estimates used in the
 company's model. It noted that the comparison of edoxaban with warfarin used
 direct evidence from ENGAGE AF-TIMI 48 to inform the company's economic
@@ -748,8 +678,7 @@ concluded that the utility values used in the model, although open to debate,
 were not key drivers of the cost effectiveness.
 4.12 The Committee considered the costs used in the company's model. It noted that
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 costs for ischaemic stroke, haemorrhagic stroke, and systemic embolism were
 based on the Oxford Vascular Study (a cohort study of a UK population) and the
 costs were similar to those used in other NICE technology appraisals for atrial
@@ -786,8 +715,7 @@ warfarin. However, there were very small differences in QALYs and costs between
 the newer oral anticoagulants. The Committee concluded that there was
 insufficient evidence to distinguish between the clinical and cost effectiveness of
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 edoxaban and the newer oral anticoagulants recommended in previous appraisals
 (apixaban, dabigatran etexilate and rivaroxaban). Therefore, edoxaban could be
 recommended as a cost-effective treatment for non-valvular atrial fibrillation in
@@ -810,8 +738,7 @@ appraisal of everolimus. It therefore concluded that the PPRS payment
 mechanism was irrelevant for the consideration of the cost effectiveness of
 edoxaban.
 
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
+ 
 5 Implementation
 5.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -828,138 +755,3 @@ available within the period set out in the paragraphs above. This means that, if
 patient has non-valvular atrial fibrillation and the healthcare professional
 responsible for their care thinks that edoxaban is the right treatment, it should be
 available for use, in line with NICE's recommendations.
-
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
-6 Appraisal Committee members,
-guideline representatives and NICE
-project team
-Appraisal Committee members
-The Appraisal Committees are standing advisory committees of NICE. Members are
-appointed for a 3-year term. A list of the Committee members who took part in the
-discussions for this appraisal appears below. There are 4 Appraisal Committees, each with
-a chair and vice-chair. Each Appraisal Committee meets once a month, except in
-December when there are no meetings. Each Committee considers its own list of
-technologies, and ongoing topics are not moved between Committees.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that appraisal.
-The minutes of each Appraisal Committee meeting, which include the names of the
-members who attended and their declarations of interests, are posted on the NICE
-website.
-Dr Jane Adam (Chair)
-Consultant Radiologist, Department of Diagnostic Radiology, St George's Hospital, London
-Professor Iain Squire (Vice-Chair)
-Consultant Physician, University Hospitals of Leicester
-Dr Graham Ash
-Consultant in General Adult Psychiatry, Lancashire Care NHS Foundation Trust
-Dr Jeremy Braybrooke
-Consultant Medical Oncologist, University Hospitals Bristol NHS Foundation Trust
-Dr Gerardine Bryant
-
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
-GP, Swadlincote, Derbyshire
-Professor Aileen Clarke
-Professor of Public Health and Health Services Research, University of Warwick
-Dr Andrew England
-Senior Lecturer, Directorate of Radiography, University of Salford
-Ms Pamela Rees
-Lay Member
-Dr Paul Robinson
-Medical Director, Merck Sharp & Dohme
-Ms Ellen Rule
-Director of Transformation and Service Redesign, Gloucestershire Clinical Commissioning
-Group
-Dr Brian Shine
-Consultant Chemical Pathologist, John Radcliffe Hospital, Oxford
-Dr Eldon Spackman
-Research Fellow, Centre for Health Economics, University of York
-Mr David Thomson
-Lay member
-Professor Olivia Wu
-Professor of Health Technology Assessment, University of Glasgow
-Dr Nerys Woolacott
-Senior Research Fellow, Centre for Health Economics, University of York
-NICE project team
-Each technology appraisal is assigned to a team consisting of 1 or more health technology
-analysts (who act as technical leads for the appraisal), a technical adviser and a project
-manager.
-
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
-Christian Griffiths
-Technical Lead
-Eleanor Donegan
-Technical Adviser
-Bijal Joshi
-Project Manager
-
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
-7 Sources of evidence considered by the
-Committee
-The Evidence Review Group (ERG) report for this appraisal was prepared by Liverpool
-Reviews and Implementation Group (LRiG):
-• Greenhalgh J, Longworth L, Crossan C, et al., Edoxaban tosylate for preventing stroke
-and systemic embolism in people with non-valvular atrial fibrillation: A Single
-Technology Appraisal, March 2015.
-The following organisations accepted the invitation to participate in this appraisal as
-consultees and commentators. They were invited to comment on the draft scope.
-Companies were also invited to make written submissions. Professional or expert and
-patient or carer groups gave their expert views on edoxaban by making a submission to
-the Committee. Companies, professional or expert and patient or carer groups, and other
-consultees, have the opportunity to appeal against the final appraisal determination.
-Company
-• Daiichi Sankyo UK (edoxaban)
-Professional or expert and patient or carer groups:
-• AntiCoagulation Europe (ACE)
-• Arrhythmia Alliance
-• Association of British Neurologists
-• Atrial Fibrillation Association
-• British Society for Haematology
-• British Thoracic Society
-• Clinical Leaders of Thrombosis (CLOT)
-• Royal College of Pathologists
-
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
-• Royal College of Physicians
-• United Kingdom Clinical Pharmacy Association
-Other consultees:
-• Department of Health
-• NHS England
-• Welsh Government
-Commentator organisations (did not provide written evidence and without the right of
-appeal):
-• Bayer (rivaroxaban)
-• Boehringer Ingelheim (dabigatran etexilate)
-• Bristol–Myers Squibb, Pfizer (apixaban)
-• Department of Health, Social Services and Public Safety for Northern Ireland
-• Health Improvement Scotland
-• Liverpool Reviews & Implementation Group, University of Liverpool
-• National Institute for Health Research Health Technology Assessment Programme
-The following individuals were selected from clinical expert and patient expert nominations
-from the consultees and commentators. They gave their expert personal view on
-edoxaban by providing oral evidence to the Committee.
-• Dr Ameet Bakhai, Consultant Cardiologist and Clinical R&D Deputy Director, nominated
-by organisation representing Daiichi Sankyo UK – clinical expert
-• Miss Nazish Khan, Principal Pharmacist Cardiac Services, nominated by organisation
-representing United Kingdom Clinical Pharmacy Association – clinical expert
-• Miss Laura Wood, nominated by organisation representing Arrhythmia Alliance –
-patient expert
-• Miss Vicki Hill, nominated by organisation representing Atrial Fibrillation Association –
-
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
-patient expert
-Representatives from the following company attended Committee meetings. They
-contributed only when asked by the Committee chair to clarify specific issues and
-comment on factual accuracy.
-• Daiichi Sankyo UK
-
-Edoxaban for preventing stroke and systemic embolism in people with non-valvular atrial
-fibrillation (TA355)
-Update information
-July 2021: Section 1.2 updated to include the other anticoagulants approved by NICE.
-ISBN: 978-1-4731-1440-1

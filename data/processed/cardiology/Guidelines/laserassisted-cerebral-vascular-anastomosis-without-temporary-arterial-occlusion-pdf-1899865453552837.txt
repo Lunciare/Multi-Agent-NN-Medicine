@@ -1,45 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "laserassisted-cerebral-vascular-anastomosis-without-temporary-arterial-occlusion-pdf-1899865453552837.pdf",
-  "converted_date": "2026-01-31T14:49:58.481108",
-  "file_size_bytes": 66452,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/laserassisted-cerebral-vascular-anastomosis-without-temporary-arterial-occlusion-pdf-1899865453552837.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Laser-assisted cerebral vascular
-anastomosis without temporary
-arterial occlusion
-Interventional procedures guidance
-Published: 27 February 2008
-www.nice.org.uk/guidance/ipg252
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-
 Laser-assisted cerebral vascular anastomosis without temporary arterial occlusion
-(IPG252)
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
 1 Guidance
 1.1 Current evidence on the safety and efficacy of laser-assisted cerebral vascular
 anastomosis without temporary arterial occlusion is based on very limited
@@ -60,8 +19,7 @@ neuroradiologist.
 1.4 Publication of safety and efficacy outcomes will be useful. NICE may review the
 procedure upon publication of further evidence.
 
-Laser-assisted cerebral vascular anastomosis without temporary arterial occlusion
-(IPG252)
+ 
 2 The procedure
 2.1 Indications and current treatments
 2.1.1 Aneurysms and other abnormalities of arteries supplying the brain may be
@@ -93,8 +51,7 @@ Sections 2.3 and 2.4 describe efficacy and safety outcomes which were available 
 published literature and which the Committee considered as part of the evidence about
 this procedure. For more details, see the overview.
 
-Laser-assisted cerebral vascular anastomosis without temporary arterial occlusion
-(IPG252)
+ 
 2.3 Efficacy
 2.3.1 In a case series of 77 patients with intracranial aneurysms undergoing bypass
 using laser-assisted cerebral vascular anastomosis without temporary arterial
@@ -125,8 +82,7 @@ assisted cerebral vascular anastomosis without temporary arterial occlusion was
 reported to be 7% (1 out of 15), 6% (2 out of 34), 4% (3 out of 77) and 0% (0 out
 of 1), respectively. The indication for the procedure varied between studies.
 
-Laser-assisted cerebral vascular anastomosis without temporary arterial occlusion
-(IPG252)
+ 
 2.4.2 The case series of 77 patients with intracranial artery aneurysms in whom the
 procedure was used reported persistent deficit caused by ischaemia in 21% (16
 out of 77), by haemorrhage in 5% (4 out of 77) and by other intracranial events in
@@ -144,15 +100,3 @@ arrangements for audit. NICE has identified relevant audit criteria and develope
 an audit tool (which is for use at local discretion).
 3.2 NICE has produced interventional procedures guidance on extracranial to
 intracranial bypass for intracranial atherosclerosis.
-Sources of evidence
-The evidence considered by the Interventional Procedures Advisory Committee is
-described in the overview.
-Information for patients
-NICE has produced information for the public on this procedure. It explains the nature of
-the procedure and the decision made, and has been written with patient consent in mind.
-ISBN: 978-1-4731-6268-6
-
-Laser-assisted cerebral vascular anastomosis without temporary arterial occlusion
-(IPG252)
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

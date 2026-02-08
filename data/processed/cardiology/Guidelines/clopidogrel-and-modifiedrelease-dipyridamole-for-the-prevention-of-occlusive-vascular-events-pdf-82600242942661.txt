@@ -1,53 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "clopidogrel-and-modifiedrelease-dipyridamole-for-the-prevention-of-occlusive-vascular-events-pdf-82600242942661.pdf",
-  "converted_date": "2026-01-31T14:50:58.765354",
-  "file_size_bytes": 176023,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/clopidogrel-and-modifiedrelease-dipyridamole-for-the-prevention-of-occlusive-vascular-events-pdf-82600242942661.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Clopidogrel and modified-
-release dipyridamole for
-the prevention of occlusive
-vascular events
-Technology appraisal guidance
-Published: 15 December 2010
-www.nice.org.uk/guidance/ta210
-
 Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
-
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
-This guidance replaces TA90.
+events
 1 Recommendations
 This guidance applies to people who have had an occlusive vascular event, or who have
 established peripheral arterial disease. For people who have had a myocardial infarction,
@@ -74,8 +26,7 @@ are contraindicated or not tolerated or
 • for people who have had a transient ischaemic attack only if aspirin is
 contraindicated or not tolerated.
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 1.4 Treatment with clopidogrel to prevent occlusive vascular events should be
 started with the least costly licensed preparation.
 1.5 People currently receiving clopidogrel or modified-release dipyridamole either
@@ -83,8 +34,7 @@ with or without aspirin outside the criteria in sections 1.1, 1.2 and 1.3 should
 the option to continue treatment until they and their clinicians consider it
 appropriate to stop.
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 2 Clinical need and practice
 2.1 Occlusive vascular events include ischaemic stroke, transient ischaemic attack
 and myocardial infarction. They occur when blood flow is impeded because an
@@ -118,8 +68,7 @@ multivascular disease.
 2.4 Ischaemic stroke and myocardial infarction are associated with high mortality
 rates. Approximately 23% of people die within 30 days of having a stroke, and of
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 the people who survive, 60% to 70% die within 3 years. Thirty per cent of people
 die from their first myocardial infarction. In terms of morbidity, an occlusive
 vascular event can lead to a stay in hospital, reduced health-related quality of life
@@ -151,8 +100,7 @@ reduce their risk of recurrent occlusive vascular events. GP contracts include
 points for the number of people with coronary heart disease or who have had a
 stroke and who are taking antiplatelet therapy for secondary prevention.
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 3 The technologies
 3.1 Clopidogrel (Plavix, Sanofi-Aventis, Bristol-Myers Squibb) is an irreversible
 adenosine diphosphate-receptor antagonist with antiplatelet properties.
@@ -184,15 +132,13 @@ haemodynamic instability (for example, decompensated heart failure). For full
 details of side effects and contraindications, see the summary of product
 characteristics.
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 3.6 The cost of treatment for 30 days with modified-release dipyridamole alone is
 £7.50 and modified-release dipyridamole plus aspirin is £7.79 per person (BNF,
 edition 60). Costs may vary in different settings because of negotiated
 procurement discounts.
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 4 Evidence and interpretation
 The Appraisal Committee considered evidence from a number of sources.
 4.1 Clinical effectiveness
@@ -221,8 +167,7 @@ major bleeding complication (ESPRIT). In the ESPS-2 trial, 3 discrete primary
 endpoints were reported: stroke, all-cause death, and stroke and/or all-cause
 death. The PRoFESS trial had a single primary endpoint of recurrent stroke.
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 Modified-release dipyridamole compared with aspirin
 4.1.4 The ESPS-2 trial compared modified-release dipyridamole with aspirin. The study
 reported no statistically significant differences in risk reduction for the primary
@@ -255,8 +200,7 @@ were reported for death from all vascular causes and non-fatal stroke (HR 0.78;
 other outcomes, no statistically significant differences were reported between
 the treatments.
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 Modified-release dipyridamole plus aspirin compared with
 modified-release dipyridamole
 4.1.8 In the ESPS-2 trial, modified-release dipyridamole plus aspirin compared with
@@ -288,8 +232,7 @@ occurrence of ischaemic stroke, myocardial infarction or vascular death (14.9%
 relative risk reduction; 95% CI 0.3 to 27.3, p=0.045).
 Modified-release dipyridamole plus aspirin compared with
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 clopidogrel
 4.1.11 The PRoFESS trial investigated the non-inferiority of modified-release
 dipyridamole plus aspirin compared with clopidogrel. The trial reported no
@@ -318,8 +261,7 @@ dipyridamole alone were at statistically significant higher risk of 'any recurre
 stroke' than people treated with either clopidogrel or modified-release
 dipyridamole plus aspirin. The direct and indirect evidence was consistent.
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 4.2 Cost effectiveness
 Bristol-Myers Squibb and Sanofi-Aventis model (clopidogrel)
 4.2.1 The Bristol-Myers Squibb and Sanofi-Aventis model estimated the cost
@@ -354,8 +296,7 @@ sourced from MIMS. All costs were inflated to 2007 to 2008 prices, if necessary.
 The model included the branded price of clopidogrel. Utility values were derived
 from the published literature and were between 0.61 and 0.87. A disutility
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 associated with adverse events of between −0.3 and −0.001 was also applied in
 the model.
 4.2.4 In people who have had an ischaemic stroke, modified-release dipyridamole plus
@@ -388,8 +329,7 @@ model from NICE technology appraisal guidance 90. The model had 5 health
 states: no recurrent stroke, haemorrhagic stroke, recurrent ischaemic stroke,
 vascular death and non-vascular death. People entered the model at the 'no
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 recurrent stroke' state and after each cycle of 6 months could move to any of the
 other 4 states, or remain in the current state. After each cycle, transitions could
 occur to the other states.
@@ -425,8 +365,7 @@ additional cost of £732 and 0.121 additional QALYs per person with an ICER of
 that at a cost-effectiveness threshold of £20,000 per QALY gained, modified-
 release dipyridamole plus aspirin would no longer be cost effective compared
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 with clopidogrel if the price of generic clopidogrel reduced to approximately 50%
 of that of branded clopidogrel.
 Assessment Group model
@@ -460,8 +399,7 @@ economic model and to work out event fatality. An exponential survival function
 was used to model medication continuance over time. Adverse events were
 incorporated into the model.
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 4.2.13 Resource use was measured in terms of clinical events and time spent in chronic
 states, and differed by disability status. Drug costs were taken from the BNF58
 and from the NHS Drug Tariff (January 2010) for generic clopidogrel, which at
@@ -494,8 +432,7 @@ aspirin, followed by aspirin.
 4.2.17 When the generic price for clopidogrel was used, the optimal treatment strategy
 changed so that it began with clopidogrel, followed by modified-release
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 dipyridamole plus aspirin and finally aspirin. This produced an ICER of £13,558
 per QALY gained, compared with the next best strategy of clopidogrel, followed
 by aspirin, followed by modified-release dipyridamole plus aspirin. This strategy
@@ -530,8 +467,7 @@ with treatment with aspirin followed by modified-release dipyridamole. This
 strategy was associated with an additional cost of £567 and 0.062 additional
 QALYs.
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 People who have had a myocardial infarction
 4.2.21 The Assessment Group reported that for people who have had a myocardial
 infarction the optimal treatment strategies were the same regardless of the price
@@ -562,8 +498,7 @@ People with multivascular disease
 4.2.24 The Assessment Group reported that for people with multivascular disease the
 optimal treatment strategies were the same regardless of the price of clopidogrel.
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 Clopidogrel followed by aspirin was the optimal strategy for this group, compared
 with aspirin followed by clopidogrel. For the optimal strategy, treatment was
 associated with an ICER of £2,604 per QALY gained, and incremental costs of
@@ -597,8 +532,7 @@ and that people valued treatments with ease of administration and few side
 effects.
 4.3.3 The Committee discussed the results of the ESPRIT and PRoFESS trials, which
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 became available after the publication of NICE technology appraisal guidance 90.
 The Committee noted that these trials included people who have had an
 ischaemic stroke or a transient ischaemic attack and there was no new evidence
@@ -635,8 +569,7 @@ noted that there is a range of definitions of multivascular disease, but heard f
 the clinical specialists that identifying the subgroup of people with multivascular
 disease was important and clinically meaningful. The Committee discussed the
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 post-hoc analyses from the CAPRIE trial that suggested that this group is at high
 risk of occlusive vascular events and may need more intensive treatment. The
 Committee was aware of the limitations of post-hoc analyses but noted that the
@@ -673,8 +606,7 @@ gained, if the price of generic clopidogrel was about 50% of that of branded
 clopidogrel, modified-release dipyridamole plus aspirin would no longer be cost
 effective compared with clopidogrel. Furthermore, the Committee was aware of
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 comments in response to consultation on the Assessment Report from the
 manufacturer of clopidogrel that for people who have had an ischaemic stroke,
 using a price of £10.90 for clopidogrel produced an ICER of under £500 per QALY
@@ -710,8 +642,7 @@ consultation on the appraisal consultation document, which showed that the
 further reduction of the price of clopidogrel to £5.13 (the price in July 2010) had
 no effect on the optimal treatment strategy. The Committee concluded that for
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 people who have had a myocardial infarction, when treatment with combined
 clopidogrel and aspirin therapy is no longer appropriate, clopidogrel was a cost-
 effective use of NHS resources only for people who have a contraindication to
@@ -748,8 +679,7 @@ clopidogrel for people who have had a transient ischaemic attack because
 clopidogrel is not licensed for this indication. For people who have had a transient
 ischaemic attack, treatment with modified-release dipyridamole plus aspirin
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 followed by aspirin had an ICER of £9,100 per QALY gained compared with
 treatment with aspirin alone. For people who had intolerance to aspirin, treatment
 with modified-release dipyridamole alone had an ICER of £314 per QALY gained
@@ -760,8 +690,7 @@ NHS resources. Modified-release dipyridamole alone was considered to be a
 cost-effective use of NHS resources for people who have had a transient
 ischaemic attack only if aspirin is contraindicated or not tolerated.
 
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
+ 
 5 Implementation
 5.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -779,191 +708,3 @@ the healthcare professional responsible for the care of a patient thinks that
 clopidogrel and modified-release dipyridamole is the right treatment for the
 prevention of occlusive vascular events, it should be available for use, in line with
 NICE's recommendations.
-
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
-6 Appraisal Committee members, and
-NICE project team
-Appraisal Committee members
-The Appraisal Committees are standing advisory committees of NICE. Members are
-appointed for a 3-year term. A list of the Committee members who took part in the
-discussions for this appraisal appears below. There are 4 Appraisal Committees, each with
-a chair and vice chair. Each Appraisal Committee meets once a month, except in
-December when there are no meetings. Each Committee considers its own list of
-technologies, and ongoing topics are not moved between Committees.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that appraisal.
-The minutes of each Appraisal Committee meeting, which include the names of the
-members who attended and their declarations of interests, are posted on the NICE
-website.
-Dr Kathryn Abel
-Reader and Consultant Psychiatrist, Director of Centre for Women's Mental Health,
-University of Manchester
-Dr David Black
-Director of Public Health, Derbyshire County Primary Care Trust
-Dr Daniele Bryden
-Consultant in Intensive Care Medicine, Anaesthesia Sheffield Teaching Hospitals NHS
-Trust
-Professor Mike Campbell
-Statistician, Institute of Primary Care and General Practice, University of Sheffield
-David Chandler
-
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
-Lay Member
-Dr Mary Cooke
-Lecturer, School of Nursing, Midwifery & Social Work, University of Manchester
-Dr Chris Cooper
-General Practitioner, St John's Way Medical Centre, London
-Professor Peter Crome
-Consultant Physician,Bucknall Hospital
-Dr Christine Davey
-Senior Researcher, North Yorkshire Alliance R & D Unit
-Richard Devereaux-Phillips
-Public Affairs and Reimbursement Manager UK & Ireland, Medtronic
-Dr Alan Haycox
-Reader in Health Economics, University of Liverpool Management School
-Professor Catherine Jackson
-Professor of Primary Care Medicine, University of St Andrews
-Dr Peter Jackson
-Clinical Pharmacologist, University of Sheffield
-Henry Marsh
-Consultant Neurosurgeon, St George's Hospital
-Professor Gary McVeigh
-Professor of Cardiovascular Medicine, Queens University Belfast and Consultant Physician
-Belfast City Hospital
-Dr Eugene Milne
-Deputy Medical Director, North East Strategic Health Authority
-Dr Neil Myers
-General Practitioner
-
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
-Dr Richard Nakielny
-Consultant Radiologist, Sheffield Teaching Hospitals Foundation Trust
-Dr Katherine Payne
-Health Economics Research Fellow, University of Manchester
-Dr Danielle Preedy
-Lay Member
-Dr Martin J Price
-Head of Outcomes Research, Janssen-Cilag
-Dr Peter Selby
-Consultant Physician, Central Manchester University Hospitals NHS Foundation Trust
-Dr Surinder Sethi
-Consultant in Public Health Medicine, North West Specialised Services Commissioning
-Team
-Professor Andrew Stevens
-Chair of Appraisal Committee C, Professor of Public Health, University of Birmingham
-Dr Matt Stevenson
-Technical Director, School of Health and Related Research, University of Sheffield
-Professor Paul Trueman
-Health Economics Research Group, Brunel University
-Dr Judith Wardle
-Lay Member
-NICE project team
-Each technology appraisal is assigned to a team consisting of 1 or more health technology
-analysts (who act as technical leads for the appraisal), a technical adviser and a project
-manager.
-Dr Helen Starkie
-
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
-Technical Lead
-Zoe Garrett
-Technical Adviser
-Lori Farrar
-Project Manager
-
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
-7 Sources of evidence considered by the
-Committee
-The assessment report for this appraisal was prepared by Liverpool Reviews and
-Implementation Group:
-• Greenhalgh J, Saborido CM, Bagust A et al. Clopidogrel and modified-release
-dipyridamole for the prevention of occlusive vascular events (review of technology
-appraisal 90), April 2010
-• Greenhalgh J, Saborido CM, Bagust A et al. Clopidogrel and modified-release
-dipyridamole for the prevention of occlusive vascular events (review of technology
-appraisal 90) addendum, April 2010
-• Greenhalgh J, Saborido CM, Bagust A et al. Clopidogrel and modified-release
-dipyridamole for the prevention of occlusive vascular events (review of technology
-appraisal 90) addendum 2, May 2010
-• Greenhalgh J, Saborido CM, Bagust A et al. Clopidogrel and modified-release
-dipyridamole for the prevention of occlusive vascular events (review of technology
-appraisal 90) addendum 3, June 2010
-• Greenhalgh J, Saborido CM, Bagust A et al. Clopidogrel and modified-release
-dipyridamole for the prevention of occlusive vascular events (review of technology
-appraisal 90) addendum 4, June 2010
-The following organisations accepted the invitation to participate in this appraisal as
-consultees and commentators. They were invited to comment on the draft scope,
-assessment report and the appraisal consultation document (ACD). Manufacturers or
-sponsors, professional or specialist, patient or carer groups, and other consultees were
-also invited to make written submissions and have the opportunity to appeal against the
-final appraisal determination.
-Manufacturers or sponsors:
-• Boehringer Ingelheim
-• Bristol-Myers Squibb
-
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
-• Sanofi-Aventis
-Professional or specialist, and patient or carer groups:
-• Anticoagulation Europe (ACE)
-• Diabetes UK
-• Heart Care Partnership (UK)
-• HEART UK
-• Insulin Dependent Diabetes Trust (IDDT)
-• The Stroke Association
-• Association of British Neurologists
-• British Association of Stroke Physicians
-• British Cardiovascular Intervention Society (BCIS)
-• British Cardiovascular Society
-• British Heart Foundation
-• Royal College of Nursing
-• Royal College of Physicians Cardiology Committee
-• The Vascular Society
-Other consultees:
-• Department of Health
-• Welsh Assembly Government
-Commentator organisations (without the right of appeal):
-• Department of Health, Social Services and Public Safety for Northern Ireland
-• Medicines and Healthcare products Regulatory Agency
-• NHS Quality Improvement Scotland
-
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
-• Bayer (aspirin)
-• Galpharm International (aspirin)
-• Liverpool Reviews and Implementation Group, University of Liverpool
-• National Institute for Health Research Health Technology Assessment Programme
-The following individuals were selected from clinical specialist and patient expert
-nominations from the non-manufacturer or sponsor consultees and commentators. They
-participated in the Appraisal Committee discussions and provided evidence to inform the
-Appraisal Committee's deliberations. They gave their expert personal view on clopidogrel
-and modified-release dipyridamole for the prevention of occlusive vascular events (review
-of technology appraisal guidance 90) by attending the initial Committee discussion and/or
-providing written evidence to the Committee. They were also invited to comment on the
-ACD.
-• Dr Russell Smith, Consultant Cardiologist, nominated by British Cardiovascular Society
-– clinical specialist
-• Professor Thompson Robinson, Professor of Stroke Medicine, nominated by British
-Association of Stroke Physicians – clinical specialist
-• David Gerald MBE, Immediate Past President, nominated by Heart Care Partnership
-UK – patient expert
-• Dr Rob Ryckborst, nominated by Insulin Dependent Diabetes Trust – patient expert
-Representatives from the following manufacturers or sponsors attended Committee
-meetings. They contributed only when asked by the Committee chair to clarify specific
-issues and comment on factual accuracy.
-• Boehringer Ingelheim
-• Bristol-Myers Squibb Pharmaceuticals Ltd
-• Sanofi-Aventis
-
-Clopidogrel and modified-release dipyridamole for the prevention of occlusive vascular
-events (TA210)
-Update information
-February 2014: Implementation section updated to clarify that clopidogrel and modified-
-release dipyridamole is recommended as an option for preventing occlusive vascular
-events.
-ISBN: 978-1-4731-6655-4

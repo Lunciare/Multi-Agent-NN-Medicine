@@ -1,47 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "va-ecmo-for-extracorporeal-cardiopulmonary-resuscitation-ecpr-in-adults-with-refractory-cardiac-arrest-pdf-1899878221993669.pdf",
-  "converted_date": "2026-01-31T14:45:57.941470",
-  "file_size_bytes": 80676,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/va-ecmo-for-extracorporeal-cardiopulmonary-resuscitation-ecpr-in-adults-with-refractory-cardiac-arrest-pdf-1899878221993669.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-VA ECMO for extracorporeal
-cardiopulmonary resuscitation
-(ECPR) in adults with refractory
-cardiac arrest
-Interventional procedures guidance
-Published: 22 October 2025
-www.nice.org.uk/guidance/ipg808
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-
 VA ECMO for extracorporeal cardiopulmonary resuscitation (ECPR) in adults with
-refractory cardiac arrest (IPG808)
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-This guidance replaces IPG482.
+refractory cardiac arrest
 1 Recommendations
 For refractory cardiac arrest with a shockable heart
 rhythm or reversible causes
@@ -57,8 +15,7 @@ or irreversible causes, before it can be used in the NHS.
 1.3 This procedure should only be done as part of formal research and an NHS
 research ethics committee needs to have approved its use.
 
-VA ECMO for extracorporeal cardiopulmonary resuscitation (ECPR) in adults with
-refractory cardiac arrest (IPG808)
+ 
 What this means in practice
 For refractory cardiac arrest with a shockable heart rhythm or reversible causes
 There is enough evidence on the safety and efficacy of this procedure for healthcare
@@ -84,8 +41,7 @@ Patient selection should be done by a multidisciplinary team. The procedure shou
 only be done in centres specialising in using VA ECMO for ECPR for refractory cardiac
 arrest and by healthcare professionals with specific training in this procedure.
 
-VA ECMO for extracorporeal cardiopulmonary resuscitation (ECPR) in adults with
-refractory cardiac arrest (IPG808)
+ 
 What research is needed
 More research is needed on:
 • patient selection
@@ -113,8 +69,7 @@ given a continuous infusion of an anticoagulant, usually heparin, to prevent blo
 clotting in the extracorporeal system. ECPR is used when conventional CPR is
 unable to restore spontaneous circulation.
 
-VA ECMO for extracorporeal cardiopulmonary resuscitation (ECPR) in adults with
-refractory cardiac arrest (IPG808)
+ 
 3 Committee discussion
 The condition
 3.1 Cardiac arrest is when normal blood circulation suddenly stops because the heart
@@ -140,8 +95,7 @@ The evidence
 3.4 NICE did a rapid review of the published literature on the efficacy and safety of
 this procedure. This comprised a comprehensive literature search and a detailed
 
-VA ECMO for extracorporeal cardiopulmonary resuscitation (ECPR) in adults with
-refractory cardiac arrest (IPG808)
+ 
 review of the evidence from 13 sources, which was discussed by the committee.
 The evidence included 9 systematic reviews, 1 long-term randomised controlled
 trial follow-up study, 2 retrospective registry studies, and 1 single-centre
@@ -168,8 +122,7 @@ VA ECMO was associated with better outcomes.
 3.13 The committee was informed that outcomes were better in younger people with
 fewer comorbidities.
 
-VA ECMO for extracorporeal cardiopulmonary resuscitation (ECPR) in adults with
-refractory cardiac arrest (IPG808)
+ 
 3.14 The recommendations in this guidance include the use of VA ECMO during
 pregnancy or in the postpartum period.
 3.15 Some people who had VA ECMO have become organ donors, and their organs
@@ -193,23 +146,3 @@ attended and their declarations of interests, are posted on the NICE website.
 Chair
 Tom Clutton-Brock
 Chair, interventional procedures advisory committee
-
-VA ECMO for extracorporeal cardiopulmonary resuscitation (ECPR) in adults with
-refractory cardiac arrest (IPG808)
-NICE project team
-Each evaluation is assigned to a team consisting of 1 or more health technology analysts
-(who act as technical leads for the evaluation), a technical adviser, a project manager and
-an associate director.
-Xia Li, Jessica Wilcock and Helen Gallo
-Technical leads
-Amy Crossley
-Technical adviser
-Alan Ashworth
-Consultant clinical adviser
-Corrina Purdue
-Project manager
-Anastasia Chalkidou and Emily Eaton Turner
-Associate directors
-ISBN: 978-1-4731-7276-0
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

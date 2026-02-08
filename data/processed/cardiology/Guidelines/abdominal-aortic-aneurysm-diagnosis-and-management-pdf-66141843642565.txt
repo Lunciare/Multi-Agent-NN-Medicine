@@ -1,61 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "abdominal-aortic-aneurysm-diagnosis-and-management-pdf-66141843642565.pdf",
-  "converted_date": "2026-01-31T14:48:08.145674",
-  "file_size_bytes": 273654,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/abdominal-aortic-aneurysm-diagnosis-and-management-pdf-66141843642565.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Abdominal aortic
-aneurysm: diagnosis and
-management
-NICE guideline
-Published: 19 March 2020
-www.nice.org.uk/guidance/ng156
-
-Abdominal aortic aneurysm: diagnosis and management (NG156)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Abdominal aortic aneurysm: diagnosis and management (NG156)
-
-Abdominal aortic aneurysm: diagnosis and management (NG156)
-Repairing unruptured aneurysms ....................................................................................................... 39
-Anaesthesia and analgesia during unruptured aneurysm repair ..................................................... 44
-Repairing ruptured aneurysms ............................................................................................................ 45
-Anaesthesia and analgesia during ruptured aneurysm repair ......................................................... 47
-Abdominal compartment syndrome ................................................................................................... 48
-Monitoring for complications after endovascular aneurysm repair ................................................. 48
-Managing endoleaks after endovascular aneurysm repair .............................................................. 50
-Context ....................................................................................................................................... 52
-Finding more information and committee details ................................................................... 53
-
-Abdominal aortic aneurysm: diagnosis and management (NG156)
-This guideline replaces TA167.
+Abdominal aortic aneurysm: diagnosis and management
 Overview
 This guideline covers diagnosing and managing abdominal aortic aneurysms. It aims to
 improve care by helping people who are at risk to get tested, specifying how often to
@@ -67,7 +10,6 @@ Who is it for?
 • Commissioners and providers
 • People with an abdominal aortic aneurysm, and their families and carers
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
 Recommendations
 People have the right to be involved in discussions and make informed decisions
 about their care, as described in NICE's information on making decisions about your
@@ -91,7 +33,7 @@ following risk factors:
 • hypertension
 • they smoke or used to smoke.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 1.1.3 Consider an aortic ultrasound for women aged 70 and over if AAA has not already
 been excluded on abdominal imaging and they have any of the following risk
 factors:
@@ -112,7 +54,7 @@ service, to be seen within 12 weeks of diagnosis.
 1.1.6 Offer an aortic ultrasound to people with a suspected AAA on abdominal
 palpation.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on identifying
 asymptomatic abdominal aortic aneurysms.
@@ -135,7 +77,7 @@ a regional vascular service if:
 • the ultrasound is not immediately available or it is non-diagnostic, and an
 AAA is still suspected.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on identifying
 symptomatic or ruptured abdominal aortic aneurysms.
@@ -160,7 +102,7 @@ Providing information to people with a diagnosed AAA
 • what an AAA is
 • that most AAAs do not cause any problems
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 • that AAAs can rupture, and what this means
 • that AAAs are likely to get larger over time, and that larger AAAs are more
 likely to rupture
@@ -191,7 +133,7 @@ discussion. Encourage them to discuss the options with their family and friends.
 to actively participate in their care in the NICE guideline on patient experience in
 adult NHS services.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on providing
 information to people with a diagnosed AAA.
@@ -215,7 +157,7 @@ Monitoring the risk of rupture
 Use the same surveillance frequency as the NHS AAA screening programme.
 1.2.4 See recommendation 1.1.5 on when to refer people to a regional vascular unit.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on monitoring the risk
 of rupture.
@@ -244,7 +186,7 @@ at a regional vascular service
 • train clinical staff involved in the care of people with a suspected ruptured or
 symptomatic unruptured AAA in the transfer protocol
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 • review the transfer protocol at least every 3 years.
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on emergency
@@ -269,7 +211,7 @@ Predicting surgical outcomes for unruptured aneurysms
 repair of an asymptomatic abdominal aortic aneurysm (AAA), if it will assist in
 shared decision making.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 1.4.2 For guidance on other preoperative tests, see the NICE guideline on routine
 preoperative tests for elective surgery.
 1.4.3 Do not use the following risk assessment tools to determine whether or not repair
@@ -295,7 +237,7 @@ patients who undergo elective abdominal aortic aneurysm repair.
 Predicting surgical outcomes for ruptured aneurysms
 1.4.4 Do not use any single symptom, sign or patient-related risk factor to determine
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 whether aneurysm repair is suitable for a person with a ruptured AAA.
 1.4.5 Do not use patient risk assessment tools (scoring systems) to determine whether
 aneurysm repair is suitable for a person with a ruptured AAA.
@@ -320,7 +262,7 @@ guidance on:
 venous thromboembolism, see the NICE guidelines on surgical site infections and
 reducing the risk of venous thromboembolism.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on improving surgical
 outcomes.
@@ -347,7 +289,7 @@ made jointly by the person and their clinician after assessment of a number of
 factors, including:
 • aneurysm size and morphology
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 • the person's age, life expectancy, fitness for surgery, and any other
 conditions they have
 • the risk of AAA rupture if they do not have repair
@@ -375,7 +317,7 @@ Complex endovascular aneurysm repair
 1.5.6 If open surgical repair and complex EVAR are both suitable options, only consider
 complex EVAR if:
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 • the following has been discussed with the person:
 － the risks of complex EVAR compared with the risks of open surgical
 repair
@@ -398,7 +340,7 @@ research that will determine the clinical and cost effectiveness of complex
 EVAR when compared with conservative management, and all patients are
 entered onto the National Vascular Registry.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 NICE amended recommendations 1.5.1 to 1.5.7, after the committee's proposed
 recommendations were reviewed by NICE's Board.
 For a short explanation of why the committee made these recommendations and how
@@ -423,7 +365,7 @@ aneurysm.
 1.6 Repairing ruptured aneurysms
 1.6.1 Consider endovascular aneurysm repair (EVAR) or open surgical repair for people
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 with a ruptured infrarenal abdominal aortic aneurysm (AAA). Be aware that:
 • EVAR provides more benefit than open surgical repair for most people,
 especially men over 70 and women of any age
@@ -450,7 +392,7 @@ Full details of the evidence and the committee's discussion are in evidence revi
 anaesthesia and analgesia for people having surgical repair of an abdominal aortic
 aneurysm.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 Abdominal compartment syndrome
 1.6.5 Be aware that people can develop abdominal compartment syndrome after EVAR
 or open surgical repair of a ruptured AAA.
@@ -476,7 +418,7 @@ enhanced CT angiography is contraindicated, use contrast-enhanced ultrasound.
 1.7.5 Do not exclude endoleaks based on a negative colour duplex ultrasound alone in
 people who have had EVAR.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on monitoring for
 complications after endovascular aneurysm repair.
@@ -500,7 +442,7 @@ Terms used in this guideline
 This section defines terms that have been used in a specific way for this guideline. For
 general definitions, please see the NICE glossary.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 Standard and complex EVAR
 Standard EVAR is defined as any EVAR procedure:
 • using a standard infrarenal device (an unmodified off-the-shelf stent graft) and
@@ -526,14 +468,14 @@ anatomical features. For AAA repair, these features can include large abdominal 
 defects or intra-abdominal adhesions. A hostile abdomen is most common in people who
 have had multiple previous episodes of intra-abdominal open surgery.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 Infrarenal abdominal aortic aneurysm
 An abdominal aortic aneurysm arising below the arteries that supply the kidneys.
 Permissive hypotension
 A method of fluid administration that aims to reduce bleeding by keeping a person's blood
 pressure within a lower-than-normal range.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 Recommendations for research
 The guideline committee has made the following recommendations for research.
 Key recommendations for research
@@ -560,7 +502,7 @@ repair (EVAR) versus open surgical repair in people for whom open surgical repai
 suitable for:
 • elective repair of an unruptured AAA or
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 • emergency repair of a ruptured AAA?
 Why this is important
 EVAR is a widely performed non-invasive alternative to open surgical repair. However, it is
@@ -589,7 +531,7 @@ Why this is important
 Observational study data suggest an association between diabetes and slower AAA
 growth, and it has been proposed that this may be due to the use of metformin. A
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 randomised controlled trial is needed to determine whether metformin reduces the rate of
 AAA growth and the risk of rupture.
 5 Tranexamic acid for preventing and treating excessive blood
@@ -616,7 +558,7 @@ Other recommendations for research
 repair
 What are the benefits of postoperative use of direct oral anticoagulants (DOACs) for
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 improving outcomes after repair of AAA?
 8 Permissive hypotension
 Does permissive hypotension improve survival of patients undergoing repair of ruptured
@@ -625,7 +567,7 @@ AAA?
 What are the risks, benefits and cost implications of different surveillance protocols in
 people who have undergone EVAR?
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 Rationale and impact
 Identifying asymptomatic abdominal aortic
 aneurysms
@@ -654,7 +596,7 @@ this is the timeframe set by the NHS AAA screening programme.
 How the recommendations might affect practice
 The recommendations outlining key risk factors will increase the number of people being
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 screened and improve AAA diagnosis. The recommendations should also promote equal
 access to healthcare, because they provide guidance on when a potential AAA should be
 investigated in women, who are currently not covered by the NHS AAA screening
@@ -683,7 +625,7 @@ ultrasound is not 100% and several factors can make it difficult to visualise th
 AAA rupture is a life-threatening surgical emergency, they agreed that it would be safest
 to discuss any non-diagnostic ultrasound findings with the regional vascular unit.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 How the recommendations might affect practice
 There is variation in awareness of AAA among non-specialists. Implementing the
 recommendations should reduce this variation and increase the chance of ruptured AAA
@@ -711,7 +653,7 @@ affected postoperative outcomes for people having elective or emergency AAA repa
 post-processing techniques are an established part of clinical practice, the committee
 agreed not to make recommendations in this area.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 How the recommendations might affect practice
 Implementing a consistent measurement method to be used across the NHS (and that
 matches the method used in the NHS AAA screening programme) will improve the
@@ -741,7 +683,7 @@ treatment (see recommendation 1.5.1). Explaining how the decision to repair is m
 help people to better understand the options available.
 The committee emphasised that clinicians should ensure that people understand their
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 options and the balance of risks they face. They noted that several clinic visits, including
 opinions from specialists such as anaesthetists, geriatricians, and cardiologists, are likely
 to be needed.
@@ -766,7 +708,7 @@ Non-surgical interventions for small AAAs are not usually used outside of clinic
 a lack of recommendations will have little impact on practice.
 Return to recommendations
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 Monitoring the risk of rupture
 Why the committee made the recommendations
 Recommendations 1.2.3 and 1.2.4
@@ -793,7 +735,7 @@ There was no evidence on symptoms, signs or risk assessment tools for deciding w
 people with ruptured aneurysms are likely to survive transfer to a regional vascular
 service. Based on their own experience, the committee highlighted specific circumstances
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 (cardiac arrest and persistent loss of consciousness) in which people are unlikely to
 survive transfer and subsequent aortic repair. This will help reduce the number of people
 being given ineffective and invasive treatment at the end of life.
@@ -822,7 +764,7 @@ As there was no evidence specific to the use of permissive hypotension during tr
 people with ruptured or symptomatic AAA, the committee agreed that a consensus
 recommendation was needed in this important clinical area. As a result the committee
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 adapted recommendations from the NICE guideline on assessment and initial management
 for major trauma.
 How the recommendation might affect practice
@@ -852,7 +794,7 @@ The evidence highlighted that none of the risk assessment tools had a high enoug
 predictive accuracy at predicting postoperative outcomes. The specific tools listed are the
 ones for which evidence was available. This evidence led the committee to conclude that
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 these tools would not improve decision-making and could potentially lead to inappropriate
 decisions about patient management. They agreed that this could lead to harm, and
 therefore advised that risk assessment tools should not be used.
@@ -878,7 +820,7 @@ not made based on inappropriate factors or tools. This, in turn, should prevent
 inappropriate decisions being made about whether or not to offer repair.
 Return to recommendations
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 Improving surgical outcomes
 Why the committee made the recommendations
 Recommendations 1.4.6 to 1.4.9
@@ -904,7 +846,7 @@ currently in routine use before AAA repair, so these recommendations should have
 minimal impact on practice.
 Return to recommendations
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 Repairing unruptured aneurysms
 Why NICE made the recommendations
 Recommendations 1.5.1 to 1.5.7
@@ -934,7 +876,7 @@ complications, leading to further procedures.
 Even when taking the short-term benefits of EVAR into account, all plausible cost-
 effectiveness estimates show that EVAR either:
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 • has higher net costs and lower net benefits than open surgical repair or
 • is substantially above the range NICE normally considers to be a cost-effective use of
 NHS resources.
@@ -966,7 +908,7 @@ information to cover when discussing repair with people who have an AAA.
 Complex endovascular aneurysm repair
 The evidence for complex EVAR was limited in quantity and quality. However, complex
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 EVAR grafts and procedures are much more expensive than standard EVAR, so the
 difference in cost between EVAR and open surgical repair is likely to be even greater than
 for infrarenal AAAs. In addition, using standard EVAR stent grafts for complex AAA usually
@@ -999,7 +941,7 @@ decision.
 More evidence on this procedure would be helpful, and NICE has made a recommendation
 for research comparing complex EVAR with open surgical repair.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 EVAR and complex EVAR for specific subgroups of people
 For each of the recommendations, NICE considered whether there were any specific
 groups that would benefit from standard or complex EVAR for unruptured AAAs. We
@@ -1032,7 +974,7 @@ repair when they are younger and healthier. For these reasons, open surgical rep
 unruptured AAAs can be provided with a low incidence of morbidity and mortality.
 • The risk that vascular units will have trouble meeting an increased demand for open
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 surgical repair: All vascular surgeons should be competent to perform open surgical
 repair of AAAs, and the Intercollegiate Surgical Curriculum Programme's Vascular
 surgery curriculum puts more emphasis on open surgical repair than on EVAR. This
@@ -1064,7 +1006,7 @@ Data from the NHS AAA screening programme indicate that the risk of rupture for 
 that are smaller than 5.5 cm is very low.
 The recommendations on EVAR could have a large impact on practice and will also affect
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 the timing and type of information about treatment options given to patients. In light of the
 evidence reviewed, practice needs to be rebalanced towards open surgical repair for
 infrarenal aneurysms. The recommendations will minimise harm by reducing long-term
@@ -1094,7 +1036,7 @@ How the recommendations might affect practice
 The use of an epidural in addition to general anaesthesia for people having open surgical
 repair of an unruptured AAA is already fairly widespread in current practice. Therefore the
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 overall impact of the recommendation is likely to be small, although it may reduce existing
 variation.
 Return to recommendation
@@ -1124,7 +1066,7 @@ better short-term survival after EVAR, whereas the evidence favours open surgica
 for younger men. Therefore, the committee recommended that either EVAR or open
 surgical repair can be considered, and provided detail on the groups for which each
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 approach is likely to be best.
 Complex EVAR is only recommended within the context of an RCT because there is
 currently no evidence to support it as an option for people with ruptured complex AAA.
@@ -1156,7 +1098,7 @@ unruptured aneurysms (see the section on repairing unruptured aneurysms), surgic
 teams may have less opportunity to develop the skills they need to provide EVAR in
 emergency cases. The committee were mindful of this issue, but were convinced by the
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 evidence showing that, overall, people with AAAs would be worse off if EVAR procedures
 were performed for unruptured aneurysms just to maintain EVAR expertise. Elective EVAR
 will still be available in certain circumstances and centralisation of aortic services may
@@ -1186,7 +1128,7 @@ The committee agreed that the potential impact of this recommendation on practic
 unclear, because it is difficult to predict the proportion of people for whom EVAR under
 local infiltrative anaesthesia might be an option. The main aim of this recommendation is to
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 raise awareness of this option.
 Return to recommendation
 Abdominal compartment syndrome
@@ -1211,7 +1153,7 @@ complications from the procedure or need another operation. These risks are lowe
 open surgical repair, so surveillance is not standard practice and in this case the
 committee did not recommend it.
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 The committee noted that the frequency of EVAR surveillance is highly variable in practice.
 In the absence of evidence on how often imaging should be done, the committee agreed a
 recommendation to tailor surveillance to the perceived risk of complications. This should
@@ -1246,7 +1188,7 @@ The committee agreed that it is particularly important not to falsely exclude an
 so the sensitivity of a diagnostic test is more important than its specificity. While colour
 duplex ultrasound is highly accurate at identifying changes in sac size (which may indicate
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 an endoleak), the available evidence shows that it has suboptimal sensitivity for directly
 detecting type I and III endoleaks. In addition, the accuracy of ultrasound was shown to be
 dependent on the operator, so its accuracy may be variable in practice. This variability in
@@ -1275,7 +1217,7 @@ their experience because:
 • healthcare professionals are not all aware that type II endoleaks without sac expansion
 can be managed conservatively
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 • there are circumstances when sac expansion occurs without imaging evidence of a
 leak site (called type V endoleak), and these situations need further investigation.
 How the recommendations might affect practice
@@ -1284,7 +1226,7 @@ practice to intervene for type I and type III endoleaks, and type II endoleaks i
 evidence of aneurysm sac expansion.
 Return to recommendations
 
-Abdominal aortic aneurysm: diagnosis and management (NG156)
+ 
 Context
 Abdominal aortic aneurysms develop when the wall of the aorta in the abdomen weakens,
 causing it to bulge and form a balloon-like expansion. When the abdominal aorta reaches a
@@ -1305,16 +1247,3 @@ falling.
 The prevalence of AAAs is approximately 6 times lower in women, but the rate of
 aneurysm rupture is significantly higher. The guideline committee carefully considered the
 impact of their recommendations on women during guideline development.
-
-Abdominal aortic aneurysm: diagnosis and management (NG156)
-Finding more information and committee
-details
-To find NICE guidance on related topics, including guidance in development, see the NICE
-topic page on aortic aneurysms.
-For full details of the evidence and the guideline committee's discussions, see the
-evidence reviews. You can also find information about how the guideline was developed,
-including details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting our guidelines into practice, see resources to help you
-put NICE guidance into practice.
-ISBN: 978-1-4731-3452-2

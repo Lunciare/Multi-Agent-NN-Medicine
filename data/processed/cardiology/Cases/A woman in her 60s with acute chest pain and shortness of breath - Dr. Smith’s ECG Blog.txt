@@ -1,150 +1,47 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:55.961034",
-  "file_size_bytes": 14421614,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/A woman in her 60s with acute chest pain and shortness of breath - Dr. Smith’s ECG Blog.pdf"
-}
+A woman in her 60s with acute chest pain and shortness of breath
 
-=== СОДЕРЖАНИЕ ===
+A woman in her 60s had acute chest pain and shortness of breath. EMS arrived and recorded this ECG (no baseline ECG available).
 
-Pendell Meyers onMay 13, 2025
-A woman in her 60s with
-acute chest pain and
-shortness of breath
-Written by Pendell Meyers
- 
-A woman in her 60s had acute chest pain and shortness of breath.
-EMS arrived and recorded this ECG (no baseline ECG available):
-What do you think?
-Sinus rhythm, RBBB, and anterolateral OMI pattern with concordant
-STE in V2, inappropriate STD (precordial swirl pattern) in V5 anv V6,
-HATW in I and aVL, with reciprocal STD and negative HATW in III and
-aVF. Proximal LAD OMI would be the most likely cause.
-Here is the Queen of Hearts interpretation: STEMI / STEMI equivalent
-(OMI) with high confidence
-
- 1/10
-This was expertly recognized, and she bypassed the ED and went
-straight to the cath lab, where a proximal total LAD occlusion was
-opened.
-She did well.
-How do we diagnose LAD OMI on the ECG in the presence of Right
-Bundle Branch Block?
-Here is a nice case of chest pain and RBBB, with references, and
-discussion of RBBB and LAD OMI, written mostly by Smith:
-Triska J, George J, Rector G, et al. Acute coronary occlusion in a
-patient with prior known right bundle branch block: Another chink in
-the armor for the ST-elevation myocardial infarction criteria. Ann
-Emerg Med [Internet] 2023;82(2):219–21. Available from:
+Sinus rhythm, RBBB, and anterolateral OMI pattern with concordant STE in V2, inappropriate STD (precordial swirl pattern) in V5 and V6, hyperacute T waves in I and aVL, with reciprocal STD and negative hyperacute T waves in III and aVF. Proximal LAD OMI would be the most likely cause.
 
-content/uploads/2023/09/Acute-Coronary-Occlusion-in-a-
-Patient-With-Prior-Known-Right-Bundle-Branch-Block.pdf
-===================================
-MY Comment, by KEN GRAUER, MD (5/13/2025):
-===================================
-I reviewed today’s initial ECG knowing only that the patient was a woman
-in her 60s who contacted EMS for acute CP (Chest Pain) and shortness
-of breath.
- 2/10
-For clarity in Figure-1 — I’ve reproduced and have labeled
-this initial ECG.
+This was expertly recognized, and she bypassed the ED and went straight to the cath lab, where a proximal total LAD occlusion was opened. She did well.
+
+How do we diagnose LAD OMI on the ECG in the presence of Right Bundle Branch Block?
+Acute coronary occlusion in a patient with prior known right bundle branch block: Another chink in the armor for the ST-elevation myocardial infarction criteria. Ann Emerg Med 2023;82(2):219–21.
+
+
+I reviewed the initial ECG knowing only that the patient was a woman in her 60s who contacted EMS for acute chest pain and shortness of breath.
+
 Interpretation of ECG #1:
-As per Dr. Meyers, in this 60s woman with new CP — the ECG in Figure-
-1 suggests acute LAD OMI until proven otherwise:
-The rate is a bit fast (about 100/minute).
-There is RBBB (Right Bundle Branch Block).
-There are obvious hyperacute ST-T waves in leads I and aVL —
-as well as an unusual biphasic ST-T wave in lead V2 (double RED
-arrows in this lead — with the ST elevation in the initial part of the
-ST segment clearly abnormal given the RBBB that typically results
-in ST-T wave depression).
-There is equally marked reciprocal ST depression in each of
-the inferior leads (II,III,aVF) — as well as in lateral chest leads
-V5,V6.
-Figure-1: I have labeled the initial ECG in today’s case.
-BUT — Is there WPW?
-And then I looked closer at the P wave, PR interval and QRS complex
-in leads V1,V2,V3 (See BLUE arrows in these leads in Figure-2, in which
-I have magnified selected leads from ECG #1).
-Doesn’t the PR interval in these anterior chest leads look short? —
-with in addition, slurring of the initial upward slope of the
-QRS (simulating a delta wave?).
-KEY Point: Regardless of whether or not today’s patient has WPW
-— the magnitude of hyperacute ST-T wave changes in multiple
-leads in this 60s woman with new CP merits prompt cath to define
-the anatomy.
-WPW is notorious for its potential to manifest pseudo-
-infarction patterns. And, in those uncommon situations in which a
-patient with WPW does develop acute MI — alterations in the
-widened QRS complex and resultant changes in ST-T wave
-morphology often serve to mask acute ECG findings, making it
-much more difficult to recognize acute MI on the ECG of a patient
-with WPW.
- 3/10
-The above said — at times the magnitude of ST-T wave abnormality
-resulting from an acute MI will be marked enough to suggest an
-acute event despite the associated presence of WPW (See the July
-11, 2014 post — and My Comment at the bottom of the page in
-the October 13, 2022 post for illustration of these concepts
-regarding pseudo-infarction vs recognition of acute MI in association
-with WPW).
-Figure-2: I’ve magnified selected leads from ECG #1.
-WPW is Unlikely . . .
-While important to consider the possibility of WPW from the appearance of
-atrial activity in relation to neighboring QRS complexes in leads V1,V2,V3
-— I do not think the ECG in Figure-1 represents WPW.
-While I had no idea about the medical history of today’s patient at
-the time I reviewed ECG #1 — it’s helpful to keep in mind that
-discovery of WPW for the 1st time at age 60+ would be rare.
-While the QRS complex in lead V1 of Figure-1 is
-monophasic (ie, lacking the triphasic rsR’ morphology characteristic
-of typical RBBB) — there is a slender initial R wave, followed by a
-wide, terminal S wave in left-sided leads I and V6 — such that QRS
-morphology in today’s 12-lead tracing is consistent with RBBB.
-The magnified view in Figure-2 — suggests that the P wave in lead
-II is not upright (RED arrow in this lead). The P wave is also
-negative in lead III — and positive in lead aVL (PINK arrows in
-these leads) — which suggests a non-sinus rhythm. As a result —
-the PR interval might not be short after all, if the site of the atrial
-impulse arises from a site close to the AV node.
-While the number of leads that manifest definite delta waves in a
-patient with WPW is variable — most leads in Figure-1 do not seem
-to have delta waves.
-Finally, looking closer — it may be that delta waves are
-simulated (and not present) in leads V1 and V3 because the initial
-part of the QRS lies near the baseline.
-Bottom Line:
- 4/10
-Failure to consider WPW (especially in the presence of monophasic
-QRS widening in lead V1 with uncertain atrial activity, and uncertain
-PR interval) — will result in overlooking WPW when it does occur.
-Acutely, in this 60s woman with new CP — regardless of whether or
-not WPW is present, prompt cath is indicated because of the
-extreme ST-T wave changes in multiple leads that would be
-abnormal even if WPW was present.
-There is time to determine if today’s patient has WPW (ie, Review of
-this patient’s previous medical history and prior ECGs should be
-enlightening). In contrast — the decision to perform prompt cath is
-time dependent. Fortunately, this patient’s providers immediately
-recognized the acute ECG findings and expedited cardiac cath —
-that confirmed proximal total LAD occlusion, which was
-successfully stented.
-Pendell Meyers onMay 13, 2025
-HYPERACUTE T-WAVES HYPERACUTE T-WAVES LAD
-LAD OCCLUSION OMI
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-ED Bedside Echo (in Artificial Intelligence
-case one does not Driven Prehospital ECG
-recognize the ECG). Interpretation for the
-Images obtained and Reduction of False
-interpreted by a Positive Emergent
-novice. Cardiac
-Catheterization Lab
-Activations: A
-Retrospective Cohort
-Study
+
+As per Dr. Meyers, in this woman with new chest pain, the ECG suggests acute LAD OMI until proven otherwise:
+
+* Rate ~100/min.
+* RBBB.
+* Hyperacute ST-T waves in I and aVL.
+* Biphasic ST-T wave in V2 (with abnormal STE given RBBB).
+* Marked reciprocal STD in II, III, aVF, V5, V6.
+
+But — Is there WPW?
+
+Magnified V1–V3 suggested: short PR, slurred initial QRS upstroke (delta-like).
+
+Key Point: Regardless of whether or not WPW is present, the magnitude of hyperacute ST-T wave abnormalities in multiple leads requires prompt cath.
+
+WPW can mask or mimic MI, but severe ischemic changes can still be visible despite WPW.
+
+WPW is unlikely:
+
+* Discovery first at age 60+ is rare.
+* QRS morphology consistent with RBBB (initial R then terminal S in left leads).
+* P waves in II negative, in III negative, in aVL positive → non-sinus rhythm possible → PR may not be short.
+* Most leads lack delta waves.
+* Apparent delta in V1/V3 may be baseline artifact.
+
+Bottom line:
+
+Failure to consider WPW can cause misdiagnosis, but in this case the ST-T abnormalities are clearly ischemic regardless of WPW. The correct action is immediate cath.
+
+There is time later to determine WPW status by reviewing prior ECGs and history — but the decision to perform cath is time-sensitive.
+
+Providers recognized the OMI and performed emergent catheterization confirming proximal LAD occlusion, which was successfully stented.

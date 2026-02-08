@@ -1,46 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "artificial-heart-implantation-as-a-bridge-to-transplantation-for-endstage-refractory-biventricular-heart-failure-pdf-1899873858351301.pdf",
-  "converted_date": "2026-01-31T14:49:19.611937",
-  "file_size_bytes": 87949,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/artificial-heart-implantation-as-a-bridge-to-transplantation-for-endstage-refractory-biventricular-heart-failure-pdf-1899873858351301.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Artificial heart implantation as a
-bridge to transplantation for
-end-stage refractory
-biventricular heart failure
-Interventional procedures guidance
-Published: 20 December 2017
-www.nice.org.uk/guidance/ipg602
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-
 Artificial heart implantation as a bridge to transplantation for end-stage refractory
-biventricular heart failure (IPG602)
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+biventricular heart failure
 1 Recommendations
 1.1 Current evidence on the safety and efficacy of total artificial heart implantation
 as a bridge to transplantation for end-stage refractory biventricular heart failure
@@ -62,8 +21,7 @@ implantation as a bridge to transplantation for end-stage refractory biventricul
 heart failure onto an appropriate registry and review local clinical outcomes.
 1.4 Patient selection should be done by a multidisciplinary team experienced in
 
-Artificial heart implantation as a bridge to transplantation for end-stage refractory
-biventricular heart failure (IPG602)
+ 
 managing end-stage refractory biventricular heart failure in patients needing a
 heart transplant, for whom a donor organ is not expected to be available before
 their own heart fails completely.
@@ -91,8 +49,7 @@ the aim that the patient survives while waiting for a donor heart to become
 available (a technique known as 'bridge to transplantation'). In this procedure, the
 device replaces the heart function completely.
 
-Artificial heart implantation as a bridge to transplantation for end-stage refractory
-biventricular heart failure (IPG602)
+ 
 3.2 Implantation of a TAH is done with the patient under general anaesthesia and on
 cardiopulmonary bypass. The native left and right ventricles, and all 4 cardiac
 valves are excised. The TAH device is implanted and attached to the atria, for
@@ -125,8 +82,7 @@ In a non-randomised retrospective comparative study comparing TAH support
 device support survival rates were similar between the groups (p=0.87): 76%
 compared with 72% at 30 days; 63% compared with 61% at 2 months; and 46%
 
-Artificial heart implantation as a bridge to transplantation for end-stage refractory
-biventricular heart failure (IPG602)
+ 
 compared with 53% at 6 months respectively.
 In a case series of 101 patients at risk of imminent death from irreversible
 biventricular heart failure and eligible for transplant, survival to heart
@@ -162,8 +118,7 @@ survival rate at 1 year was 70% (95% CI 63% to 77%) and 31% respectively
 (p<0.001). In the case series of 101 patients with TAH implantation, the overall
 survival at 1, 5, 10 and 15 years was 55% (n=56), 43% (n=35), 28% (n=18), and
 
-Artificial heart implantation as a bridge to transplantation for end-stage refractory
-biventricular heart failure (IPG602)
+ 
 26% (n=3) respectively.
 4.4 In the non-randomised prospective comparative study comparing patients with
 TAH implantation (n=81) with matched historical controls (n=35), quality of life in
@@ -196,8 +151,7 @@ Causes of the 17 deaths before transplantation in the TAH group were multi-
 organ failure (7), procedural or technical complications (4), bleeding (2), sepsis
 (2), congestive heart failure (1) and pulmonary oedema (1). In the same group
 
-Artificial heart implantation as a bridge to transplantation for end-stage refractory
-biventricular heart failure (IPG602)
+ 
 after transplantation, there were 6 deaths (3 graft failure, 1 sepsis, 1 procedural
 or technical complication and 1 multi-organ failure). Rates of deaths in a non-
 randomised retrospective comparative study of 148 patients were not
@@ -234,8 +188,7 @@ ventricular diaphragm on day 124. Fitting complications were reported in 5% (5/
 poor fitting and 3 patients had repeat surgery to reposition the device. Device
 failure was reported in 10% (5/47) of patients in the case series of 47 patients
 
-Artificial heart implantation as a bridge to transplantation for end-stage refractory
-biventricular heart failure (IPG602)
+ 
 with TAH support for more than 1 year; there were 3 membrane ruptures
 (2 patients died), 1 air hole in the driveline and 1 lower pump output. Device
 malfunction (technical problems with the alarm and computer monitoring system
@@ -271,8 +224,7 @@ encephalopathy, 1 metabolic encephalopathy, 4 seizure and 1 syncope) were
 reported in 27% (26/95) of patients in the TAH group in the non-randomised
 prospective comparative study of 130 patients. Transplantation was delayed in
 
-Artificial heart implantation as a bridge to transplantation for end-stage refractory
-biventricular heart failure (IPG602)
+ 
 6 patients. Neurologic events were reported in 16% (16/101) of patients in the
 case series of 101 patients. Strokes were reported in 8% (8/101) of patients (5
 within 9 days). Peripheral emboli (1 celiac artery, 2 spleen, 1 superior mesenteric
@@ -303,9 +255,3 @@ describe any anecdotal or theoretical adverse events.
 arrangements for audit. NICE has identified relevant audit criteria and has
 developed NICE's interventional procedure outcomes audit tool (which is for use
 at local discretion).
-ISBN: 978-1-4731-2751-7
-
-Artificial heart implantation as a bridge to transplantation for end-stage refractory
-biventricular heart failure (IPG602)
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

@@ -1,45 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "endoscopic-saphenous-vein-harvest-for-coronary-artery-bypass-grafting-pdf-1899870052341445.pdf",
-  "converted_date": "2026-01-31T14:47:22.670458",
-  "file_size_bytes": 73284,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/endoscopic-saphenous-vein-harvest-for-coronary-artery-bypass-grafting-pdf-1899870052341445.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Endoscopic saphenous vein
-harvest for coronary artery
-bypass grafting
-Interventional procedures guidance
-Published: 25 June 2014
-www.nice.org.uk/guidance/ipg494
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-
-Endoscopic saphenous vein harvest for coronary artery bypass grafting (IPG494)
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-This guidance replaces IPG343.
+Endoscopic saphenous vein harvest for coronary artery bypass grafting
 1 Recommendations
 1.1 Current evidence on the efficacy and safety of endoscopic saphenous vein
 harvest for coronary artery bypass grafting (CABG) is adequate to support the
@@ -58,7 +17,7 @@ autologous vein or arterial grafts. Vein grafts are most commonly done using the
 great saphenous vein.
 2.2 The conventional method of harvesting the saphenous vein is an 'open' technique
 
-Endoscopic saphenous vein harvest for coronary artery bypass grafting (IPG494)
+ 
 using 1 or more incisions in the leg. This technique may result in local
 complications including wound infection, dehiscence and persistent pain.
 Endoscopic saphenous vein harvest aims to reduce these problems by using
@@ -89,7 +48,7 @@ myocardial infarction combined (hazard ratio [HR] 1.15, 95% CI 0.76 to 1.74,
 p=0.51) in 2,665 propensity-matched patients (533 versus 2,132). A non-
 randomised comparative study of 1,988 patients treated by endoscopic or open
 
-Endoscopic saphenous vein harvest for coronary artery bypass grafting (IPG494)
+ 
 saphenous vein harvest reported overall rates of revascularisation, death and
 myocardial infarction of 6% and 7% respectively (p=0.18) with a mean follow-up of
 22 months.
@@ -121,7 +80,7 @@ incidence of 30-day mortality in patients treated by endoscopic saphenous vein
 harvest than in patients who had open saphenous vein harvest (log-relative risk
 0.71, 95% confidence interval [CI] 0.56 to 0.90, p=0.005). This difference was no
 
-Endoscopic saphenous vein harvest for coronary artery bypass grafting (IPG494)
+ 
 longer statistically significant when only randomised controlled trials were
 analysed (log-relative risk 0.75, 95% CI 0.27 to 2.11, p=0.58). In-hospital mortality
 was 1% after both endoscopic and open saphenous vein harvest in the non-
@@ -156,7 +115,7 @@ By 3 months, the patient had recovered without any neurological sequelae.
 2
 series of 405 patients: 1 patient was successfully treated pharmacologically and
 
-Endoscopic saphenous vein harvest for coronary artery bypass grafting (IPG494)
+ 
 the other needed emergency cardiopulmonary bypass support to complete the
 coronary artery bypass graft surgery.
 5.7 A case report described scrotal distension due to CO and signs of cellulitis in
@@ -185,16 +144,3 @@ or death for endoscopically harvested grafts.
 clinician doing this procedure.
 6.3 The Committee noted positive comments from patients about their experiences
 of the procedure.
-
-Endoscopic saphenous vein harvest for coronary artery bypass grafting (IPG494)
-7 Further information
-Sources of evidence
-The evidence considered by the Interventional Procedures Advisory Committee is
-described in the overview.
-Information for patients
-NICE has produced information for the public on this procedure. It explains the nature of
-the procedure and the guidance issued by NICE, and has been written with patient
-consent in mind.
-ISBN 978-1-4731-0617-8
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

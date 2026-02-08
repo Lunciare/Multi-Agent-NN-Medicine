@@ -1,48 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "acoramidis-for-treating-transthyretin-amyloidosis-with-cardiomyopathy-pdf-2973530505971653.pdf",
-  "converted_date": "2026-01-31T14:50:24.555319",
-  "file_size_bytes": 73063,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/acoramidis-for-treating-transthyretin-amyloidosis-with-cardiomyopathy-pdf-2973530505971653.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Acoramidis for treating
-transthyretin amyloidosis
-with cardiomyopathy
-Technology appraisal guidance
-Published: 14 January 2026
-www.nice.org.uk/guidance/ta1121
-
-Acoramidis for treating transthyretin amyloidosis with cardiomyopathy (TA1121)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Acoramidis for treating transthyretin amyloidosis with cardiomyopathy (TA1121)
-
-Acoramidis for treating transthyretin amyloidosis with cardiomyopathy (TA1121)
+Acoramidis for treating transthyretin amyloidosis with cardiomyopathy
 1 Recommendations
 1.1 Acoramidis can be used, within its marketing authorisation, as an option to treat
 wild-type or hereditary transthyretin amyloidosis with cardiomyopathy in adults.
@@ -67,8 +23,6 @@ works in a similar way to tafamidis and would be offered to the same population.
 Clinical trial evidence suggests that acoramidis is more effective than placebo. Acoramidis
 has not been directly compared in a clinical trial with tafamidis, but an indirect comparison
 suggests that they are likely to have similar clinical effectiveness. There are uncertainties
-
-Acoramidis for treating transthyretin amyloidosis with cardiomyopathy (TA1121)
 with the clinical-effectiveness evidence, including:
 • how effective acoramidis is in people with severe heart failure, and
 • that some people in the trial had both acoramidis and tafamidis.
@@ -79,7 +33,6 @@ For all evidence, see the committee papers. For more information on NICE's evalu
 tafamidis, see the committee discussion section in NICE's technology appraisal guidance
 on tafamidis for treating transthyretin amyloidosis with cardiomyopathy.
 
-Acoramidis for treating transthyretin amyloidosis with cardiomyopathy (TA1121)
 2 Information about acoramidis
 Marketing authorisation indication
 2.1 Acoramidis (Beyonttra, Bayer) is indicated for the 'treatment of wild-type or
@@ -97,7 +50,6 @@ Sustainability
 2.5 For information, the Carbon Reduction Plan for UK carbon emissions is published
 on Bayer's webpage on sustainability.
 
-Acoramidis for treating transthyretin amyloidosis with cardiomyopathy (TA1121)
 3 Implementation
 3.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -117,32 +69,3 @@ available within the period set out in the paragraphs above. This means that, if
 patient has transthyretin amyloidosis with cardiomyopathy and the healthcare
 professional responsible for their care thinks that acoramidis is the right
 treatment, it should be available for use, in line with NICE's recommendations.
-
-Acoramidis for treating transthyretin amyloidosis with cardiomyopathy (TA1121)
-4 Evaluation committee members and
-NICE project team
-Evaluation committee members
-The highly specialised technologies committee is a standing advisory committee of NICE.
-This topic was considered as a cost comparison by the chair, vice chair and a lead team of
-the highly specialised technologies committee.
-Committee members are asked to declare any interests in the technology being evaluated.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that evaluation.
-Chair
-Paul Arundel
-Chair, highly specialised technologies evaluation committee
-NICE project team
-Each evaluation is assigned to a team consisting of 1 or more health technology analysts
-(who act as technical leads for the evaluation), a technical adviser, a project manager and
-an associate director.
-Giacomo De Guisa
-Technical lead
-Lizzie Walker
-Principal technical adviser
-Thomas Feist
-Project manager
-Richard Diaz
-
-Acoramidis for treating transthyretin amyloidosis with cardiomyopathy (TA1121)
-Associate director
-ISBN: 978-1-4731-8034-5

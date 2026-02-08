@@ -1,48 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "ticagrelor-for-preventing-atherothrombotic-events-after-myocardial-infarction-pdf-82604656973509.pdf",
-  "converted_date": "2026-01-31T14:50:59.311296",
-  "file_size_bytes": 102795,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/ticagrelor-for-preventing-atherothrombotic-events-after-myocardial-infarction-pdf-82604656973509.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Ticagrelor for preventing
-atherothrombotic events
-after myocardial infarction
-Technology appraisal guidance
-Published: 14 December 2016
-www.nice.org.uk/guidance/ta420
-
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
-
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
+Ticagrelor for preventing atherothrombotic events after myocardial infarction
 1 Recommendations
 1.1 Ticagrelor, in combination with aspirin, is recommended within its marketing
 authorisation as an option for preventing atherothrombotic events in adults who
@@ -50,7 +6,7 @@ had a myocardial infarction and who are at high risk of a further event.
 Treatment should be stopped when clinically indicated or at a maximum of
 3 years.
 
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
+ 
 2 The technology
 Summary of ticagrelor
 Ticagrelor (Brilique, AstraZeneca) is an oral antagonist of the P2Y12
@@ -79,7 +35,7 @@ dyspnoea, epistaxis, gastrointestinal haemorrhage, subcutaneous or dermal
 bleeding, and bruising. For full details of adverse reactions and
 contraindications, see the summary of product characteristics.
 
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
+ 
 Ticagrelor 60 mg twice daily is the recommended dose when extended
 treatment is needed for patients with a history of myocardial infarction of at
 least 1 year and a high risk of an atherothrombotic event. Treatment may be
@@ -99,13 +55,13 @@ Ticagrelor costs £54.60 for a 56-tablet pack (28 days' supply). Costs may
 Price
 vary in different settings because of negotiated procurement discounts.
 
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
+ 
 3 Evidence
 The appraisal committee considered evidence submitted by AstraZeneca and a review of
 this submission by the evidence review group. See the committee papers for full details of
 the evidence.
 
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
+ 
 4 Committee discussion
 The appraisal committee reviewed the data available on the clinical and cost effectiveness
 of extended therapy with ticagrelor 60 mg twice daily plus aspirin (hereafter referred to as
@@ -136,7 +92,7 @@ guidelines on myocardial infarction with ST-segment elevation: acute
 management and unstable angina and NSTEMI: early management. The clinical
 experts explained that practice varies across the NHS and although clopidogrel
 
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
+ 
 plus aspirin has been the most commonly used treatment for acute coronary
 syndromes, the use of newer therapies such as prasugrel and ticagrelor (each as
 dual antiplatelet therapy with aspirin) is increasing.
@@ -171,7 +127,7 @@ Decision problem: population
 4.4 The committee was aware that the population in the company's decision
 problem, and therefore the focus of the company's submission, was adults who
 
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
+ 
 had a myocardial infarction between 1 and 2 years ago who are at increased risk
 of an atherothrombotic event (referred to by the company as its base-case
 population). The committee noted that the company had defined a narrower
@@ -207,7 +163,7 @@ comparator, it had considered doing an indirect comparison of ticagrelor with
 clopidogrel plus aspirin because there were no trials directly comparing the
 2 treatments. But the company considered this inappropriate (as did the evidence
 
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
+ 
 review group; ERG) because of differences in the design of the trials and the
 patient populations included in the indirect comparison. The committee
 understood from the clinical experts that clopidogrel plus aspirin was commonly
@@ -240,7 +196,7 @@ of ticagrelor.
 in the subgroup of patients from PEGASUS-TIMI 54 who had a myocardial
 infarction between 1 and 2 years ago. The committee noted that ticagrelor
 
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
+ 
 reduced the risk of myocardial infarction, stroke or death from cardiovascular
 causes by 23% compared with placebo. The committee concluded that treatment
 with ticagrelor is clinically effective for people with a history of myocardial
@@ -275,7 +231,7 @@ concluded that the company's incremental cost-effectiveness ratios (ICERs) were
 likely to be overestimates because the parameters used to derive them were for
 the intention-to-treat population and therefore likely to underestimate the effect
 
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
+ 
 of ticagrelor.
 4.10 The committee considered the most plausible ICER on which to base its decision.
 It considered the company's deterministic base-case estimate of £20,636, which
@@ -308,7 +264,7 @@ Pharmaceutical Price Regulation Scheme (PPRS)
 4.12 The committee was aware of NICE's position statement on the Pharmaceutical
 Price Regulation Scheme (PPRS) 2014, and in particular the PPRS payment
 
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
+ 
 mechanism. It accepted the conclusion 'that the 2014 PPRS payment mechanism
 should not, as a matter of course, be regarded as a relevant consideration in its
 assessment of the cost effectiveness of branded medicines'. The committee
@@ -317,7 +273,7 @@ the relevance of the PPRS to this appraisal. It therefore concluded that the PPR
 payment mechanism was not relevant in considering the cost effectiveness of the
 technology in this appraisal.
 
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
+ 
 5 Implementation
 5.1 Section 7(6) of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -335,27 +291,3 @@ person has a history of myocardial infarction and a high risk of an
 atherothrombotic event and the doctor responsible for their care thinks that
 ticagrelor 60 mg plus aspirin is the right treatment, it should be available for use,
 in line with NICE's recommendations.
-
-Ticagrelor for preventing atherothrombotic events after myocardial infarction (TA420)
-6 Appraisal committee members and NICE
-project team
-Appraisal committee members
-The 4 technology appraisal committees are standing advisory committees of NICE. This
-topic was considered by committee C.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that appraisal.
-The minutes of each appraisal committee meeting, which include the names of the
-members who attended and their declarations of interests, are posted on the NICE
-website.
-NICE project team
-Each technology appraisal is assigned to a team consisting of 1 or more health technology
-analysts (who act as technical leads for the appraisal), a technical adviser and a project
-manager.
-Irina Voicechovskaja
-Technical lead
-Nicola Hay, Joanne Holden
-Technical advisers
-Stephanie Yates
-Project manager
-ISBN: 978-1-4731-2219-2

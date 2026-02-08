@@ -1,100 +1,99 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Extremely fast, narrow, regular - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:47.413080",
-  "file_size_bytes": 13467610,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Extremely fast, narrow, regular - Dr. Smith’s ECG Blog.pdf"
-}
+A 39-year-old man with no known past medical history presented with 3 days of palpitations and two episodes of syncope within the prior 8 hours. An ECG was obtained showing an extremely fast, narrow-complex, regular tachycardia.
 
-=== СОДЕРЖАНИЕ ===
+Initial ECG Interpretation
 
-Steve Smith onOctober 8, 2025
-Extremely fast, narrow,
-regular
-This was emailed to me by a reader with this info: 39-year-old
-male with no past medical history presents with 3 days of
-palpitations and 2 episodes of syncope in the past 8 hours.
-(I later heard from a publisher that this is from their book
-and is copyrighted. The sender represented the ECG as
-from her own institution, and gave permission to use it. The
-publisher agrees to let me keep it here with attribution. I
-think the sender really believed that it came from a
-colleague at her own instutution. An honest mistake.)
-This comes from this book, now with permisson:
- 
-
- 1/12
-What is it, and how did I respond?
-My response: “Atrial flutter with 1:1 conduction. This AV node
-conducts too fast. Probably hyperthyroid.” You can see
-flutter waves at a rate just above 300, and a corresponding
-ventricular rate just above 100.
-Case answer: This patientʼs ED workup was consistent with
-thyroid storm. He was chemically cardioverted with
-adenosine after which he
-briefly went into sinus tachycardia before going into atrial
-fibrillation with RVR at ~140 bpm. Atrial fibrillation is
-commonly seen with thyroid storm and will often be
-refractory to rate control or cardioversion until the elevated
-thyroid hormones are treated.
-So was this extremely fast AVNRT, AVRT, or atrial flutter
-with 1:1 conduction? We may never know. Conversion after
-adenosine certainly makes one believe that it is AVNRT or
-orthodromic AVRT, but there do appear to be flutter waves. I
-think AVNRT or AVRT are most likely. In any case, the AV
-node is working VERY fast.
- 2/12
-Learning point: K. Wang, who wrote the fantastic EKG Atlas
-(below) told me years ago that the only way an AV node can
-conduct at this accelerated rate is if the patient is
-hyperthyroid, which results in very high sympathetic tone.
-The literature on this is scant. Other etologies of extreme
-catecholamine surge could (theoretically) do this as well,
-including sympathomimetic drugs, pheochromocytoma, etc.
-Although such rapid conduction can be seen with an
-accessory pathway, that would not have such a narrow
-complex.
-The therapy here is obvious: electrical cardioversion.
-Online version of Dr. Wangʼs Atlas (free)
-Or buy Dr. Wangʼs Atlas here
-See other cases of atrial flutter with 1:1 conduction. But all of
-them have a much slower atrial rate, often due to type 1
-(usually 1c) antidysrhythmic, such as flecainide.
-A young woman with palpitations. What med is she on?
-With what medication is she non-compliant? What
-management?
-Challenging Rhythms in an 80-something Man
-Narrow Complex Tachycardia at a Rate of 220
-Wide-complex tachycardia that didnʼt follow the rules
-And still more
-= = =
-======================================
-MY Comment, by KEN GRAUER, MD (Note that
-although I first published My Comment on 10/7
-— I revised it on 10/8/2025):
-As per Dr. Smithʼs initial reply — I also thought todayʼs ECG
-(that Iʼve reproduced in Figure-1) suggested a single,
-immediate answer = AFlutter (Atrial Flutter) with 1:1 AV
-conduction. That said, to the differential diagnosis — I had to
-add AVRT (AtrioVentricular Reentry Tachycardia), in which an
-AP (Accessory Pathway) participates in the reentry circuit —
- 3/12
-as both orthodromic and antidromic forms of AVRT may on
-rare occasions reach SVT rates this fast.
-The rhythm in Figure-1 — is a regular, exceedingly fast
-narrow-complex tachycardia without clear sign of atrial
-activity. Although there does seem to be suggestion of a
-notching at the very end of the QRS complex in lead II
-(within the BLUE circle) — no such notching is seen in
-the other inferior leads, as it typically is when there is
-retrograde atrial conduction from a reentry SVT rhythm.
-That the indication of atrial activity is uncertain in
-Figure-1 should not be surprising — given how very fast
-the heart rate is (ie, There simply isnʼt much place to put
-P waves given that the R-R interval is entirely taken up
-by the QRS and ST-T wave). Almost like an ambiguous
-image — after looking at this tracing multiple times, I
-wondered
+Key ECG characteristics:
+
+Very fast regular rhythm
+
+Narrow QRS complexes
+
+No clearly visible P waves due to extreme rate
+
+Subtle suggestion of atrial activity at a rate slightly above 300 bpm
+
+Ventricular rate just above 300 bpm (near 1:1 relationship)
+
+Primary interpretation:
+
+Atrial flutter with 1:1 AV conduction, indicating abnormally rapid AV nodal conduction
+
+Differential Diagnosis
+
+Because of the extreme ventricular rate and narrow QRS, the main differential includes:
+
+Atrial flutter with 1:1 AV conduction
+
+AVNRT (AV nodal re-entry tachycardia)
+
+Orthodromic AVRT (accessory pathway–mediated SVT)
+
+Important exclusions:
+
+Ventricular tachycardia is unlikely due to narrow QRS
+
+Antidromic AVRT would usually produce a wide QRS
+
+Although conversion after adenosine favors AVNRT or AVRT, visible flutter-like atrial activity suggests atrial flutter with unusually fast AV conduction.
+
+Clinical Course
+
+Emergency department evaluation revealed thyroid storm.
+
+Management:
+
+Chemical cardioversion with adenosine
+
+Rhythm briefly converted to sinus tachycardia
+
+Subsequently degenerated into atrial fibrillation with rapid ventricular response (~140 bpm)
+
+Atrial fibrillation is commonly associated with thyroid storm and is often:
+
+Refractory to rate control
+
+Difficult to cardiovert until thyroid hormone excess is corrected
+
+Pathophysiologic Insight
+
+The AV node normally cannot conduct at such extreme rates unless:
+
+There is marked sympathetic stimulation
+
+Hyperthyroidism is present
+
+Classic teaching (attributed to K. Wang):
+
+An AV node capable of 1:1 conduction at extremely high atrial rates strongly suggests hyperthyroidism.
+
+Other rare theoretical causes:
+
+Sympathomimetic drug intoxication
+
+Pheochromocytoma
+
+Extreme catecholamine surge
+
+Accessory pathways can conduct rapidly, but typically:
+
+Would not produce such a consistently narrow complex at these rates
+
+Management Principles
+
+Immediate electrical cardioversion is appropriate in unstable patients
+
+Treat the underlying cause (thyroid storm) to achieve durable rhythm control
+
+Arrhythmias associated with thyrotoxicosis often recur until hormone levels normalize
+
+Key Learning Points
+
+Extremely fast, regular, narrow-complex tachycardia should raise suspicion for 1:1 atrial flutter
+
+AV nodal conduction at extreme rates is abnormal
+
+Hyperthyroidism is a key reversible cause of unusually rapid SVT
+
+Adenosine conversion does not definitively distinguish flutter from AVNRT/AVRT
+
+Rhythm control will often fail unless the metabolic driver is addressed

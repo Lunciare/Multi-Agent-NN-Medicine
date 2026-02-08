@@ -1,45 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "percutaneous-thrombectomy-for-intermediaterisk-or-highrisk-pulmonary-embolism-pdf-1899876468474565.pdf",
-  "converted_date": "2026-01-31T14:49:19.227443",
-  "file_size_bytes": 68817,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/percutaneous-thrombectomy-for-intermediaterisk-or-highrisk-pulmonary-embolism-pdf-1899876468474565.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Percutaneous thrombectomy for
-intermediate-risk or high-risk
-pulmonary embolism
-Interventional procedures guidance
-Published: 29 November 2023
-www.nice.org.uk/guidance/ipg778
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-
 Percutaneous thrombectomy for intermediate-risk or high-risk pulmonary embolism
-(IPG778)
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
 1 Recommendations
 High-risk pulmonary embolism (PE) when
 alternative treatments are not suitable
@@ -61,8 +20,7 @@ into NICE's interventional procedure outcomes audit tool (for use at local
 discretion).
 • Discuss the outcomes of the procedure during their annual appraisal to
 
-Percutaneous thrombectomy for intermediate-risk or high-risk pulmonary embolism
-(IPG778)
+ 
 reflect, learn and improve.
 1.3 Healthcare organisations should:
 • Ensure systems are in place that support clinicians to collect and report data
@@ -87,8 +45,7 @@ on safety does not raise any major concerns. Most of the evidence is for interme
 PE. There is no evidence from randomised controlled trials and very little long-term follow-
 up evidence, particularly for patient-reported outcomes.
 
-Percutaneous thrombectomy for intermediate-risk or high-risk pulmonary embolism
-(IPG778)
+ 
 There is an unmet need for people with high-risk PE when alternative treatments are not
 suitable or have failed, and this procedure is the only treatment option. So, this procedure
 is recommended for use with special arrangements for this population.
@@ -116,8 +73,7 @@ thrombectomy. Catheter-directed therapies are usually used if someone has a
 high-risk PE and they cannot have surgery, or when systemic thrombolysis is
 contraindicated or has failed.
 
-Percutaneous thrombectomy for intermediate-risk or high-risk pulmonary embolism
-(IPG778)
+ 
 The procedure
 2.4 In this endovascular procedure, a catheter is inserted percutaneously into the
 peripheral vasculature (usually by a common femoral vein) and advanced through
@@ -147,8 +103,7 @@ overview. Other relevant literature is in the appendix of the overview.
 3.2 The professional experts and the committee considered the key efficacy
 outcomes to be: clot removal, recovery of cardiac function, 30-day mortality or
 
-Percutaneous thrombectomy for intermediate-risk or high-risk pulmonary embolism
-(IPG778)
+ 
 survival, symptomatic relief, long-term patient-reported outcome measures, and
 quality of life.
 3.3 The professional experts and the committee considered the key safety outcomes
@@ -165,6 +120,3 @@ different stages of development.
 3.6 The committee noted that this is a complex procedure and requires a
 multidisciplinary team including clinicians with specific experience in managing
 pulmonary embolism.
-ISBN: 978-1-4731-5545-9
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

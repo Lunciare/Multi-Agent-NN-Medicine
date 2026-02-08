@@ -1,50 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "guidance-on-the-use-of-coronary-artery-stents-pdf-2294753479621.pdf",
-  "converted_date": "2026-01-31T14:45:40.408063",
-  "file_size_bytes": 165454,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/guidance-on-the-use-of-coronary-artery-stents-pdf-2294753479621.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Guidance on the use of
-coronary artery stents
-Technology appraisal guidance
-Published: 22 October 2003
-Last updated: 18 November 2020
-www.nice.org.uk/guidance/ta71
-
-Guidance on the use of coronary artery stents (TA71)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Guidance on the use of coronary artery stents (TA71)
-
-Guidance on the use of coronary artery stents (TA71)
-This guidance replaces TA4.
-This guidance is partially replaced by TA152 and NG185.
+Guidance on the use of coronary artery stents
 1 Recommendations
 1.1 Stents should be used routinely when percutaneous coronary intervention (PCI) is
 the clinically appropriate procedure for people with stable angina.
@@ -65,7 +19,7 @@ guidance on drug-eluting stents for the treatment of coronary artery disease.
 excludes conditions (such as many cases of stable angina) that are adequately
 managed with standard drug therapy. [2003]
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 2 Clinical need and practice
 2.1 CAD is by far the most common cause of heart disease, resulting from the
 narrowing of coronary arteries ('stenosis') caused by deposition of
@@ -96,7 +50,7 @@ transluminal coronary angioplasty (PTCA), involves a non-surgical widening from
 within the artery using a balloon catheter. When inflated, the balloon increases
 the calibre of the artery.
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 2.7 Recently, most PTCA procedures have involved the use of stents. Stents are thin
 wire-mesh structures that act as permanent prosthetic linings to keep the artery
 inflated and maintain its patency. PCI is a generic term to encompass PTCA with
@@ -130,7 +84,7 @@ though the chances of restenosis are greater. This is because the procedure is
 less invasive, has a lower chance of death during the operation, and involves a
 much shorter and less painful recuperation time.
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 2.13 Approximately 39,000 PCI procedures were undertaken in the UK in 2001,
 equating to 663 per million of the population – a rate that had increased at an
 average of 14% per year over the previous 10 years. The rate for the UK remains
@@ -147,7 +101,7 @@ the population. The rate of increase has slowed since the first half of the 1990
 population (750 for each type of intervention). At current growth rates, the
 combined target will be reached by about 2005.
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 3 The technology
 3.1 This appraisal is a review of previous NICE technology appraisal guidance on
 ischaemic heart disease – coronary artery stents (TA4) covering bare metal stent
@@ -180,13 +134,13 @@ accordance with the device-specific instructions for use (IFU).
 3.5 List prices for both BMS and DES differ between manufacturers, and some
 manufacturers produce more than 1 stent in each class, at different prices. Prices
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 for BMS range from about £600 to £900 and for DES from about £1,300 to £1,500
 per stent. For bare-metal and drug-eluting stents that are the same apart from
 their drug-eluting properties, the difference in cost is about £500 to £600. Costs
 may vary in different settings because of negotiated procurement discounts.
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 4 Evidence and interpretation
 The Appraisal Committee considered evidence from a number of sources.
 4.1 Clinical effectiveness
@@ -216,7 +170,7 @@ for the PCI without stents group versus 15.4% for the PCI with BMS group, with
 an odds ratio (OR) of 1.66 (95% confidence interval [CI], 1.45 to 1.90). The
 difference was smaller after 12 months' follow-up but still statistically significant.
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 Of the above 12 trials, 7, involving 3,500 patients, reported data for 12-months'
 follow-up: the MACE rate was 22.0% for the PCI without stents group versus
 18.9% for the PCI with stents group (OR 1.33; 95% CI, 1.12 to 1.58).
@@ -247,7 +201,7 @@ PCI with BMS versus CABG
 versus 25.8% for PCI with BMS (OR 0.41; 95% CI, 0.22 to 0.74). The higher MACE
 rate for PCI with BMS reflects the higher rate of restenosis following this
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 procedure.
 4.1.10 For multiple-vessel disease, the MACE rate was statistically significantly different
 at 12 months' follow-up in 2 trials involving a total of 2,300 patients: 12.3% for
@@ -277,7 +231,7 @@ stent (which has a CE mark), involving 583 patients, yielded a statistically
 significantly lower MACE rate at 6 months: 7.2% for DES versus 18.4% for BMS
 (OR 0.35; 95% CI, 0.21 to 0.59); and at 12 months: 9.7% for DES versus 20.5% for
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 BMS (OR 0.41; 95% CI, 0.25 to 0.67).
 4.1.14.2 Paclitaxel DES have not been demonstrated to show an advantage over BMS in
 either mortality or prevention of MI. However, in a series of trials of the Taxus
@@ -309,7 +263,7 @@ small-calibre arteries, PCIs using a sirolimus DES have shown lower rates of
 restenosis than PCIs using a BMS (for example, 7% versus 20% restenosis at 9
 months in the SIRIUS trial for vessels of mean calibre 2.3 mm).
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 4.1.15.4 In patients with diabetes and those with longer lesions, rates of restenosis
 following PCIs using a sirolimus DES have been higher than those of the 'average'
 patient, but still much lower than following PCIs using the BMS control.
@@ -341,7 +295,7 @@ appraisal in 2000 of PCI with BMS versus PCI without stents, several further
 studies have demonstrated the cost effectiveness of stents in a number of
 patient populations and clinical settings, including elective stenting and stenting
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 immediately following an acute MI.
 PCI with BMS versus CABG
 4.2.3 Comparative data on PCI using BMS versus CABG are available for only 3 years of
@@ -374,7 +328,7 @@ patients who were candidates for both stents and CABG. The clinician consultees
 to the appraisal process, however, vigorously challenged this, stating that
 previous studies had not reached this conclusion.
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 BMS versus DES
 4.2.7 The quality-of-life component of the QALY differences between BMS and DES is
 small, because it relates only to the extent of the differences in restenosis rates.
@@ -403,7 +357,7 @@ registry data.
 4.3.1 The Committee reviewed the evidence available on the clinical and cost
 effectiveness of PCIs using a BMS and DES, having considered evidence on the
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 nature of the condition and the value placed by users on the benefits of BMS and
 DES from clinical experts and those who represent patients with angina. It was
 also mindful of the need to ensure that its advice took account of the efficient
@@ -434,7 +388,7 @@ diabetes have higher restenosis rates than those without diabetes following PCI
 with a BMS, the Review Group's analysis indicated that these higher rates arise
 predominantly from the fact that a much higher proportion of patients with
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 diabetes needing PCI have disease of small-calibre arteries and long lesions than
 is true for the general population of patients requiring PCI.
 4.3.6 The Committee discussed how the RCTs comparing BMS with DES relate to
@@ -469,7 +423,7 @@ grafts and for more complex situations such as bifurcation lesions, but noted th
 there was no robust evidence in this area at present.
 4.3.9 The Committee noted statements from some manufacturers that restenosis rates
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 using a BMS of recent design were low compared with those of other BMS, and
 were comparable with those of the CE-marked DES. The cost-effectiveness
 calculations were not based on evidence comparing these stents with other BMS
@@ -492,7 +446,7 @@ more likely to need a repeat procedure) as for older ones. In none of the cases
 considered was there sufficient evidence of effect to be able to reach any
 conclusion.
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 5 Recommendations for further research
 5.1 Ongoing trials for paclitaxel-eluting stents include TAXUS I (follow-up of a small
 initial study of slow-release formulation versus BMS in patients with either
@@ -524,11 +478,11 @@ shown to be clinically superior to the corresponding BMS are required.
 5.6 Studies to determine whether diabetes is a risk factor for increased rate of
 restenosis following PCI, independent of lesion length and artery calibre, are
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 required. Much of this work could be performed by an analysis of patient-level
 data taken from trials already conducted.
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 6 Implications for the NHS
 6.1 The financial impact of using DES depends on the proportion of stented arteries
 that are narrow or contain long lesions offset against the increased capacity of
@@ -544,7 +498,7 @@ increase the number of new stent procedures. This would have the effect of
 offsetting the cost of the BMS by about £4 million per year. Such cost savings,
 however, will often only be realised in the form of additional capacity.
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 7 Implementation and audit
 7.1 Clinicians carrying out PCIs should review their current practice and policies to
 take account of the guidance set out in section 1.
@@ -564,7 +518,7 @@ apply to each artery.
 measurement of compliance with national standards, including standards in the
 National Service Framework for coronary heart disease.
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 8 Appraisal Committee members and
 NICE project team
 Appraisal Committee members
@@ -591,7 +545,7 @@ Professor of Clinical Pharmacology, University of Leicester
 Dr Sheila Bird
 MRC Biostatistics Unit, Cambridge
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 Professor Rosamund Bryar
 Professor of Community and Primary Care Nursing, St Bartholomew's School of Nursing
 and Midwifery, London
@@ -620,7 +574,7 @@ Dr Terry John
 General Practitioner, The Firs, London
 Mr Muntzer Mughal
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 Consultant Surgeon, Lancashire Teaching Hospitals NHS Trust, Chorley
 Judith Paget
 Chief Executive, Caerphilly Local Health Board, Torfaen
@@ -648,7 +602,7 @@ Technical Lead
 Kathleen Dalby
 Project Manager
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 9 Sources of evidence considered by the
 Committee
 The following documentation and opinions were made available to the Committee:
@@ -674,7 +628,7 @@ Companies or sponsors:
 • Kimal
 • Medtronic Ltd
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 • Sorin Biomedica UK Ltd
 • Terumo UK
 • WL Gore and Associates
@@ -700,7 +654,7 @@ The following individuals were selected from clinical expert and patient advocat
 nominations from the professional or specialist and patient or carer groups. They
 participated in the Appraisal Committee discussions and provided evidence to inform the
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 Appraisal Committee's deliberations. They gave their expert personal view on coronary
 artery stents by attending the initial Committee discussion and/or providing written
 evidence to the Committee. They were also invited to comment on the ACD.
@@ -714,7 +668,7 @@ Hospital NHS Trust, Leicester
 • Mr S Livesey, Consultant Cardiac Surgeon, Southampton General Hospital
 • Professor M Rothman, Consultant Cardiologist, London Chest Hospital
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 Appendix C Detail on criteria for audit of
 the use of coronary artery stents
 Possible objectives for an audit
@@ -744,7 +698,7 @@ b. unstable angina or audit purposes.
 or acute MI
 c. acute MI
 
-Guidance on the use of coronary artery stents (TA71)
+ 
 Criterion Standard Exception Definition of terms
 2. A Cypher or a Taxus stent A. The individual
 is used in a PCI for an has had an MI in
@@ -771,11 +725,3 @@ Clinicians should review the findings of measurement, identify whether practice 
 improved, agree on a plan to achieve any desired improvement and repeat the
 measurement of actual practice to confirm that the desired improvement is being
 achieved.
-
-Guidance on the use of coronary artery stents (TA71)
-Update information
-November 2020: Recommendation 1.1 was updated when NICE's guideline on acute
-coronary syndromes was published.
-July 2008: Recommendations 1.2 to 1.4 of this guidance have been replaced by NICE's
-technology appraisal guidance on coronary artery disease – drug-eluting stents.
-ISBN: 978-1-4731-3929-9

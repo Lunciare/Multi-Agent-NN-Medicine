@@ -1,209 +1,98 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "STEMI positive by conventional algorithm in a high risk post operative patient. - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:28.113778",
-  "file_size_bytes": 11455965,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/STEMI positive by conventional algorithm in a high risk post operative patient. - Dr. Smith’s ECG Blog.pdf"
-}
+Case Summary
 
-=== СОДЕРЖАНИЕ ===
+A man in his late 60s was hospitalized following bilateral lung transplantation for pulmonary fibrosis. His medical history included rheumatoid arthritis and chronic steroid use, both risk factors for coronary artery disease.
 
- 
-Willy Frick onJanuary 21, 2026
-STEMI positive by
-conventional algorithm in a
-high risk post operative
-patient.
-A man in his late 60s was convalescing in the hospital
-following bilateral lung transplantation for pulmonary fibrosis.
-Medical history is also significant for rheumatoid arthritis and
-chronic steroid use (a risk factor for coronary artery disease).
-On postoperative day 2, ECG was obtained.
-ECG 1
-What do you think?
-The GE algorithm interpretation was ** ** ACUTE MI / STEMI
-** **
-Looking closely at this ECG we see:
-Sinus tachycardia (uncommon in OMI in the absence of
-cardiogenic shock)
- 1/10
-Concave ST segments, even with an initial downslope in
-some leads
-Marked asymmetry to the T waves (more gentle
-upslope, sharper downslope)
-Smith: Unfortunately, in LAD OMI, concavity can be present in
-all leads with ST elevation. So that alone does not rule out the
-diagnosis. However, in this case, the concavity is extreme, as
-it is preceded by a very flat ST segment that rapidly turns
-upward, creating a narrow base to the T-wave. Although there
-is a lot of area under the curve of the T-wave, if measured
-from the J-point, there is NOT a lot of area under the curve if
-measured from the point where the complex turns upward
-into the T-wave. In fact, from this point, the T-wave has a very
-narrow base. Moreover, the STE in I and aVL, which might
-indicate proximal LAD occlusion, is not associated with
-inferior ST depression; in fact, there is STE in lead II. This
-would be very unusual in proximal LAD OMI. When I was
-shown this with no information, I said “pericarditis”
-Smith SW. Upwardly concave ST segment morphology is
-common in acute left anterior descending coronary
-occlusion
-When this ECG was run through the Queen of Hearts for
-clinical decision making purposes, the Queen of Hearts saw
-no OMI but with low confidence (meaning OMI must still be
-guarded against aggressively). When I run it through, very
-subtle changes in digitization result in a barely positive
-reading. The AI model puts out a score between 0 and 1
-where 0 is no evidence of OMI and 1 is highest possible risk
-for OMI. The calibration is set so that 0.5 is the cut point for
-“positive” result. When I run the ECG through, the reading is
-0.53.
-Smith: the Queen is amazing at recognizing false positives.
-This recent study showed a decrease in false positive cath
-lab activations from 42% to 8%, while identifying OMI
-correctly on the first ECG in 92% (vs. 70% for standard of
-care). AI-Enabled ECG Analysis Improves Diagnostic
-Accuracy and Reduces False STEMI Activations: A
-Multicenter U.S. Registry
-Case continued: On evaluation, documentation indicates that
-the patient denied chest pain. Bedside echocardiogram
-showed normal wall motion. Physical exam revealed
-prominent friction rub. In this context, the combination of
-history and ECG support refraining from immediate cath lab
-activation.
- 2/10
-Smith: a Friction rub is rarely heard in pericarditis (not
-sensitive) but when it is heard, the diagnosis quite certain
-(high specificity). Other ways to confirm pericarditis:
-pericardial effusion is quite specific. Absence of wall motion
-abnormality is very specific, if they are high quality images.
-Repeat ECG the following day is shown:
-ECG 2
-Trying to read through some of the motion artifact affecting
-some of the leads we wouldʼve been most interested in, this
-ECG shows improvement compared to ECG 1, with ST
-segments still abnormal but on the path to normalization.
-Initial high sensitivity troponin I was elevated at 2676 ng/L,
-but improved to 2080 ng/L on repeat.
-This is likely immunologically mediated post-cardiac injury
-syndrome following pericardiotomy as part of the lung
-transplant, which can be treated with colchicine to reduce the
-risk of recurrence.
-Smith: so although this is not proven by negative troponins
-and/or negative angiogram, the entire clinical picture,
-including the ECG, point toward pericarditis/myocarditis.
-= = =
-======================================
-MY Comment, by KEN GRAUER, MD (1/21/2026):
-Todayʼs case by Dr. Frick features a series of interesting ECG
-findings — that take on a very different significance once the
-history of this patient is known.
-Viewed without the benefit of any history — the 12-lead
-tracing in Figure-1 would clearly raise suspicion of an
- 3/10
-unusual distribution acute injury pattern.
-= = =
-Todayʼs history is enlightening:
-The ECG in Figure-1 was presumably obtained as routine
-on this patientʼs 2nd-post operative day following major
-open-chest surgery for bilateral lung transplantation.
-The patient was not having chest pain.
-Bedside echo showed normal wall motion.
-A prominent pericardial friction rub was heard.
-My Impression: As per Dr. Frick — the above clinical
-scenario strongly suggests PCIS (Post-Cardiac Injury
-Syndrome) as the etiology for the worrisome ECG
-findings in Figure-1(and not acute infarction! ).
-= = =
-What are the ECG Findings?
-As per the Platek at al reference recommended above by Dr.
-Frick (JACC Adv 4(10), 2025) — PCIS entails a group of
-inflammatory pericardial syndromes that occur following
-cardiac injury, as may occur following the extensive bilateral
-lung transplantation procedure that todayʼs patient
-underwent. These syndromes encompass: i) Post-MI
-Syndrome; — ii) Post-pericardiotomy syndrome; — and, iii)
-Post-traumatic pericarditis.
-My Thoughts: I see no reference citing any specific ECG
-picture to expect with PCIS — with ECG findings likely to
-vary depending on the source of cardiac “injury” (PCIS
-may be seen following cardiac surgery with
-pericardiotomy, after pacemaker insertion, ablation
-procedures, PCI, and/or blunt or penetrating chest
-trauma).
-Iʼd therefore expect the ECG to show findings of
-pericarditis combined with those of cardiac injury
-(similar to the array of ECG findings that might be
-seen with acute myopericarditis — depending on
-how diffuse the involved area was).
-= = =
-For clarity in Figure-1 — Iʼve reproduced and labeled todayʼs
-initial ECG.
-The rhythm is sinus tachycardia — with a PVC as the last
-beat.
- 4/10
-As per Dr. Frick — there is concave up (“smiley”-
-configuration) ST elevation in multiple leads ( = leads
-I,aVL; V3,V4,V5,V6) — with ST segment straightening for
-the ST elevation in lead II.
-The amount of this ST elevation is especially marked in
-the chest leads. The shape of this ST elevation is
-consistent with that seen in acute pericarditis, albeit a
-little less generalized (Simple acute pericarditis often
-also results in similar ST elevation in leads aVF and V2).
-Two features I always look for when assessing ECGs for
-possible perricarditis are:
-i) The ST elevation pattern in lead II looks more like that
-in lead I with acute pericarditis (whereas with acute MI
-— the ST segment in lead II is more likely to look like that
-in lead III, which is not the case here);
-ii) With pericarditis — the RATIO of the amount of ST
-elevation to T wave amplitude in lead V6 is
-usually more than 0.25 (ie, height of the ST elevation, as
-measured from the end of the PR segment to the J-point
-— should be more than 1/4 of the height of the T wave in
-lead V6). As shown in Figure-1 — the ST/T wave ratio =
-0.6, which clearly satisfies this criterion.
-NOTE: I review and illustrate these 2 clues (and other
-clues) to the diagnosis of pericarditis in My Comment at
-the bottom of the page in the September 28, 2025 post
-in Dr. Smithʼs ECG Blog.
-Finally — There are impressive “reciprocal”changes to the
-multiple lead ST elevation we see from pericardial
-inflammation:
-Specifically, in right-sidedleads aVR and V1 — there is
-PR segment elevation, T wave inversion, and marked J-
-point ST depression (comparable to the surprisingly
-large amount of ST elevation in the chest leads).
-The remaining right-sided lead ( = lead III) — shows ST
-segment flattening, with subtle T wave inversion.
-= = =
-Concluding Thought: We continually emphasize in Dr. Smithʼs
-ECG Blog how when a patient presents to the ED with new
-cardiac-sounding chest pain — pericarditis is rare. Such
-patients are far more likely to have acute ischemic heart
-disease.
-Todayʼs history is very different. In this different clinical
-context — the ECG in Figure-1 is completely consistent
-with what one might expect with PCIS (Post-Cardiac
-Injury Syndrome) following bilteral lung transplantation.
- 5/10
-= = =
-Figure-1: Iʼve reproduced and labeled todayʼs initial ECG.
-(Below the 12-lead ECG — Iʼve magnified lead V6 to assess
-the ST/T wave ratio).
-= = =
-= = =
-Willy Frick onJanuary 21, 2026
-MYOCARDITIS PERICARDITIS QUEEN KNOWS FALSE POSITIVE
-SHARE    
- PREVIOUS ARTICLE
-Acute chest pain in a 50-
-something: resolves, recurs,
-resolves: Does the ED ECG
-show ?
-SEARCH
- 6/10
+On postoperative day 2, an ECG was obtained.
+
+Initial ECG (ECG 1)
+
+The automated GE algorithm interpretation was “ACUTE MI / STEMI.”
+
+ECG findings:
+
+Sinus tachycardia
+
+Concave ST elevation in multiple leads
+
+Markedly asymmetric T waves (gentle upslope, sharper downslope)
+
+ST segments that are very flat initially, then turn sharply upward into a narrow-based T wave
+
+Additional observations:
+
+ST elevation in I and aVL
+
+No reciprocal ST depression in inferior leads
+
+Presence of ST elevation in lead II
+
+These findings were considered atypical for LAD occlusion.
+
+Clinical Context
+
+The patient denied chest pain
+
+Bedside echocardiogram showed normal wall motion
+
+Physical examination revealed a prominent pericardial friction rub
+
+When analyzed by the Queen of Hearts AI model:
+
+Result: No OMI, but low confidence
+
+AI score was near the positivity threshold (approximately 0.53 on a 0–1 scale)
+
+Given the clinical context + ECG morphology, immediate cath lab activation was deferred.
+
+Follow-Up and Additional Data
+Repeat ECG (ECG 2, next day)
+
+Persistent but improving ST segment abnormalities
+
+Overall trend toward normalization
+
+Biomarkers
+
+Initial high-sensitivity troponin I: 2676 ng/L
+
+Repeat value: 2080 ng/L (downtrending)
+
+Final Interpretation
+
+The overall picture was most consistent with post-cardiac injury syndrome (PCIS) following surgery involving pericardiotomy as part of lung transplantation.
+
+This represents an immunologically mediated pericarditis / myopericarditis, rather than acute coronary occlusion.
+
+Supporting Features for PCIS / Pericarditis
+
+Recent cardiac-adjacent surgery
+
+Absence of chest pain
+
+Normal wall motion on echocardiography
+
+Audible pericardial friction rub
+
+Concave ST elevation
+
+High ST/T wave ratio in lateral leads (e.g., V6)
+
+PR segment elevation and ST depression in aVR and V1
+
+Improving ECG and troponin trend
+
+Key Learning Points
+
+Automated STEMI algorithms have high false-positive rates, especially in postoperative and inflammatory states
+
+Concave ST elevation with narrow-based T waves can mimic OMI
+
+Clinical context is essential: ECG interpretation must not occur in isolation
+
+Pericarditis and PCIS can present with significant ST elevation
+
+AI tools are valuable, particularly for reducing false-positive cath lab activations, but must be interpreted in context
+
+Bottom Line
+
+Despite being STEMI-positive by conventional ECG algorithms, this high-risk postoperative patient did not have acute coronary occlusion. The ECG findings, troponin trend, physical exam, and imaging were most consistent with post-cardiac injury syndrome, and immediate invasive intervention was appropriately avoided.

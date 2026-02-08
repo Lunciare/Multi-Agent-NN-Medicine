@@ -1,306 +1,142 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Seizure in a 30 something - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:57.517710",
-  "file_size_bytes": 29971779,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Seizure in a 30 something - Dr. Smith’s ECG Blog.pdf"
-}
+Case Summary
 
-=== СОДЕРЖАНИЕ ===
+A 30-something woman with no known past medical history presented with new-onset seizure activity. Her husband called EMS after she experienced seizures associated with micturition. There was no known history of epilepsy, syncope, or sudden cardiac death in the family.
 
-Magnus Nossen onSeptember 2, 2024
-Seizure in a 30 something
-Written by Magnus Nossen — with edits by Grauer.
-The patient in today’s case is a 30-something female. She has no known
-previous medical history. Her husband called EMS when the patient
-experienced new onset seizures accompanied by micturition. The ECG
-below was recorded by EMS. What is your assessment?
-ECG #1
-
- 1/16
- 
-Interpretation: ECG #1 shows sinus rhythm at a heart rate of 77 bpm.
-The QRS is narrow with a normal PR interval. QRS axis is normal. There
-is some baseline wander. At first glance, the ECG does not look too
-abnormal. However, cardiac syncope is always a differential diagnosis
-when someone presents with first time seizures. In my experience, the
-pathologic finding in the above ECG is the easiest one to overlook —
-especially if you are in a rush and do not do a systematic review.
-There are a number of things to look for in an ECG that can hint at
-arrhythmia as the cause of an apparent seizure. Below are some of the
-conditions to be aware of:
-1.
-Preexcitation
-2.
-Brugada syndrome.
-3.
-Arrhythmogenic cardiomyopathy
-4.
-Long QT syndrome
-5.
-Hypertrophic cardiomyopathy.
- 2/16
-I find it is easier to measure the QTc when the paper speed is 50mm/s, as
-it is in the image above. I measure the RR interval at 795ms and the QT
-interval at 475ms. The QTc comes out at 533ms, dangerously prolonged.
-En route to the hospital the patient experienced multiple short-lasting
-episodes, with cramping and loss of consciousness. She quickly regained
-consciousness — and was alert in between episodes. One episode was of
-longer duration. The ECGs below were captured on continuous 12-lead
-monitoring during transport!
-ECG #2
- 3/16
-Interpretation of ECG #2:
-Underlying sinus rhythm. The sinus beats have a very prolonged QT-
-interval that seems even longer than in the first ECG. There is a run
-of polymorphic ventricular tachycardia — which given the QT prolongation,
-qualifies as Torsades de Pointes (TdP). This run of TdP is initiated by a
-PVC — but it then self-terminates.
-ECG #3
-Interpretation of ECG #3:
-This rhythm begins as Torsades de Pointes — that then becomes V-Fib.
-This episode self terminated before defibrillation was possible.
-====================================
-Discussion: The patient in today’s case presented with “seizures”. This
-case illustrates why all patients with seizures should have an ECG done.
-This patient was having recurrent episodes of polymorphic ventricular
-tachycardia with an underlying long QT interval ( = Torsades de Pointes).
-In the stabilizing area she received 10mmol magnesium sulfate IV,
-followed by a mantenance drip. Potassium chloride drip was also started.
-Potassium on admission was 3.5mmol/L (Ref 3.6-4.6) and magnesium
-0.88 mmol/L (Ref 0.71-0.94). She stabilized after electrolyte administration
-with no further episodes of TdP.
-Following more detailed questioning — it turned out the patient had
-started taking 9 different herbal remedies to ease lethargy and
-unspecific neurological symptoms. It is unknown exactly what
-specific herbal medicine and what doses that had been ingested.
- 4/16
-Below is a follow up ECG after discontinuation of the herbal remedies.
-The QTc is significantly shorter. It is very likely that the herbal remedies
-caused a lengthening of the QT-interval and led to Torsades de Pointes.
-In today’s case — the QTc shortened after discontinuation of herbal
-remedies. It is important to be aware that this does not rule out congenital
-long QT syndrome (LQTS). The QT interval can be normal in patients with
-LQTS, and sometimes only manifests after a trigger such as hypokalemia
-or certain drugs.
-The patient did not have a positive family history of epilepsy, sudden
-cardiac death (SCD) or recurrent syncope.
-Results from genetic testing for LQTS are pending — and the
-patient has been referred for evaluation of ICD placement.
-Learning Points:
-LQTS can have normal QTc.
-All patients with seizures needs an ECG.
-Herbal remedies can potentially be life threatening
-See this case for another example of ventricular arrhythmia secondary to
-herbal medicine.
-===================================
-MY Comment, by KEN GRAUER, MD (9/2/2024):
-===================================
- 5/16
-Today’s case by Dr. Nossen is fascinating in its complexity — as the
-patient is a previously healthy young adult woman, whose presentation
-was with a new-onset Seizure.
-As noted above — the patient had cardiac syncope following a
-series of episodes of TdP (Torsades de Pointes) — raising the
-question of whether TdP caused her 1st Seizure — or — if it was
-the seizure itself that precipitated her malignant arrhythmia? (See
-Costagliola et al — Ann Clin Transl Neurol 8(7): 1557-1568,
-2021 — for more on the complex “Brain-Heart Interaction” in
-Epilepsy).
-Today’s case is further complicated by what
-I suspect represents body (therefore myocardial) K+ and Mg++
-depletion — given the at best “borderline” serum (ECF) levels of
-these cations reported above in today’s case (ie, 3.5 mEq/L for K+
-and 1.76 mEq/L for Mg++) — given that ECF levels of these
-cations comprise only ~1-2% of total body stores (Jahnen-Dechent
-and Ketteler — Clin Kidney J 5(Suppl 1):i3-i14, 2012 — and —
-Udensi and Tchounwou — Int J Clin Exp Physiol 4(3): 111-122,
-2017).
-Added to this is the fact that today’s patient had been
-taking multiple herbal products for an unknown period of time,
-with it not known which herbal products were being taken, thereby
-also being unknown the potential for interactions by possible herbal
-combinations (See Déléaval et al — HeartRhythm Case Rep
-8(5), 2022— and — Kawatani et al — Oxford Med Case Rep
-2023(9), 2023 — for more on potential proarrhythmic effects,
-including QTc prolongation of herbal products).
-For clarity in Figure-1 — I’ve reproduced the initial ECG in today’s case.
-As per Dr. Nossen — it would be all-too-easy to brush over this ECG as
-being “unremarkable” — IF one was not routinely systematic in the
-interpretation of all ECGs they encounter.
-For review of how Systematic 12-Lead ECG Interpretation not only
-increases accuracy, but also speeds you up — Please check out
-ECG Podcast #1, with outline and link to my talk on this subject in
-theJuly 24, 2024 post in Dr. Smith’s ECG Blog.
-Regarding my Systematic assessment of ECG #1:
-There is significant baseline artifact, as well as baseline
-wander. Keep in mind that your interpretation of the ECGs of your
-patients is part of the medical record. I therefore feel
-it relevant to document (in your dictation/on the medical
-chart) when significant artifact potentially impairs the accuracy of
-your interpretation. Given the importance of accurate measurement
-of the QT interval in this case — noting there is artifact in ECG
-#1 is relevant!
-The rhythm in ECG #1 is sinus at ~75/minute.
- 6/16
-Intervals: The PR interval is slightly prolonged (I measure ~0.22
-second). The QRS complex is normal (ie, not more than 0.10
-second). The QT interval looks to be prolonged (SEE below for
-details).
-The frontal plane axis is normal (about +70 degrees).
-There is no chamber enlargement.
-RegardingQ–R–S–T Changes:
-There appears to be a Q wave in lead aVL (vs an rSr’ ) — which as
-an isolated finding is of uncertain (if any) significance.
-R wave progression is appropriate — with Transition (where the R
-wave becomes taller than the S wave is deep) occurring normally by
-lead V4.
-Assessment of ST-T Waves — is challenging, because of the
-baseline wander and artifact (resulting in changing morphology from
-1 beat-to-the-next) — and — because of the nonspecific ST-T wave
-flattening in multiple leads. However, as shown within the BLUE
-rectangle in Figure-1 — the end limit of the T wave is clearly seen in
-leads V4,V5,V6 (the vertical BLUE line in these leads).
-KEY Point: The QT interval should be measured in THAT lead in which
-you most clearly see the end of the QT interval, and, in which lead the QT
-is longest.
-As shown in Figure-1 — By my calculation, the measured QT = 450
-msec. To determine the QTc — We need to correct this 450 msec.
-value for the patient’s heart rate of ~75/minute.
-There are many ways to estimate the QTc (ie, I illustrate a user-
-friendly method I developed and have used for decades in
-the October 25, 2023 post).
-PEARL #1: Alternatively — MD CALC is a handy link that
-provides near instant correction of the measured QT according to
-heart rate — allowing you to calculate the QTc by any of the 5 most
-commonly used corrective formulas ( = Bazett — Fridericia —
-Framingham — Hodges — Rautaharju). Plugging in the above
-numbers into MD CALC for a heart rate of 75/minute yields
-results between 476-to-503 msec. for the QTc (depending on which
-of these 5 formulas you choose). All of these values are clearly over
-the ~450 msec. that I favor as a “ballpark” upper normal QTc level.
-My Impression of ECG #1: Sinus rhythm at ~75/minute — with
-nonspecific ST-T wave changes and a prolonged QTc. Because of
-the baseline artifact and marked variability in ST-T wave
-morphology from 1 beat-to-the-next — I found it hard to determine if
-there were (or were not) U waves in ECG #1. That said — in a
-patient who develops TdP — the overall ECG appearance of this
-initial ECG is consistent with low K+ and/or low Mg++ (See My
- 7/16
-Comment in the May 9, 2020 post — for more on the ECG
-diagnosis of hypokalemia and hypomagnesemia).
-PEARL #2: The principal abnormal finding on this ECG is QT
-prolongation, here with generalized nonspecific ST-T wave
-abnormalities. Over the years, I have found recall of
-a short LIST of Causes of QT Prolongation to be of invaluable
-assistance. As per My Comment in the March 19, 2019 post of Dr.
-Smith’s ECG Blog — Assuming there is no bundle branch block,
-ischemia or infarction (as these entities can prolong the QT) —
-THINK OF: i) DRUGS (many drugs [including herbal preparations]
-may prolong the QT interval — and combinations of drugs can result
-in marked prolongation); ii) LYTES (ie, Think of low K+, low Mg++,
-low Ca++); and/or, iii) a CNS Catastrophe (ie, stroke, bleed, coma,
-seizure, trauma, brain tumor).
-Application of the above LIST to Today’s Case: All 3 of the
-categories in the above LIST may be contributing to the QTc
-prolongation we see in ECG #1: i) Drugs (This patient was taking a
-number of herbal medications); — ii) Lytes (Probable body
-depletion of K+ and Mg++ — given low normal serum levels of
-these cations and generalized nonspecific ST-T wave abnormalities
-with QTc [or QT-U] prolongation on ECG); — and, iii) CNS (Seizure
-activity).
-P.S.: For another clinical example of how EASY-it-is to overlook a
-long QTc if one is not systematic in approach — Please check out
-the May 3, 2020 post in Dr. Smith’s ECG Blog.
-Figure-1: I labeled the initial ECG in today’s case.
-The Follow-Up ECG in Figure-2:
- 8/16
-The patient in today’s case stopped her herbal remedies. Some time after
-doing so — the ECG shown in Figure-2 was obtained (this being the 4th
-ECG that was shown above in Dr. Nossenʼs discussion).
-QUESTION:
-Dr. Nossen interpreted ECG #4 as showing significant reduction of the
-QTc after the patient stopped her herbal preparations.
-Instead of a decrease in the QTc — Doesnʼt return of the T wave
-to the baseline in lead V3 (at the point just over the RED arrow
-in this lead) suggest that the QTc is increasing?
-Figure-2: The follow-up 12-lead ECG after the
-patient discontinued all herbal remedies. Has the QTc decreased? —
-or is there an increase in the QTc (as suggested by the RED arrow
-in lead V3)?
-ANSWER:
-Rather than highlighting the end of the T wave in lead V3 — I believe
-the RED arrow in this lead marks the end of a fairly large U wave.
-Surprisingly — a distinct U wave is not seen in any other lead, which
-makes it hard to determine what (if any) meaning this single U wave in
-lead V3 has.
-Determination of the QTc is made by measurement of the longest
-QT interval that you can clearly see in any of the 12 leads.
-In Figure-2 — we can clearly delineate the end point of the T wave
-in most leads. I once again used the last 3 chest leads (within the
-BLUE rectangle) — with the vertical BLUE line illustrating
-my measured QT = 370 msec.
- 9/16
-Correcting this measured QT value for
-a heart rate of ~85/minute — and plugging in these values into MD
-CALC results between 414-to-440 msec. for the QTc (depending
-on which of the 5 formulas in MD CALC that you choose).
-CASE Conclusion: The QTc in follow-up ECG #4 shows return of
-the QTc to normal (as per Dr. Nossen’s assessment). Electrolyte
-replacement — cessation of seizure activity — and stopping herbal
-preparations all contributed to normalization of this patient’s QTc,
-with improvement of ST-T wave appearance in most leads.
-As per Dr. Nossen — results of genetic testing for LQTS are
-pending.
-Perhaps this patient may not need ICD placement? — since what
-appears to be a major causative factor (simultaneous ingestion of 9
-herbal preparations) is no longer operative. Further evaluation
-should help provide an answer.
-==============================
-P.S. — for “Purists”: As a longterm “student of French” — I have
-wondered for decades what the “correct” spelling for TdP is. French
-grammar is beautiful and challenging — and I have seen numerous
-versions in anglo texts regarding the spelling of this fascinating
-arrhythmia.
-First described by the French physician, François Dessertenne in
-1966 — the French version of Wikipedia allows for 2 potential
-spellings: i) Torsades de Pointes; and, ii) Torsades de Pointe.
-The English version of Wikipedia adds: iii) Torsade de Pointes and,
-iv) Torsades des Pointes.
-It does gets confusing … So I contacted Dr. Pierre Taboulet (French
-cardiologist with special expertise in the intricacies of ECG interpretation
-— and creator of the wonderful e-cardiogram ECG Blog — that I highly
-recommend for French-speaking clinicians).
-Dr. Taboulet acknowledges that even French-speaking clinicians
-use different terms for TdP. That said, in his words — it really is
-much simpler than it may seem because — “Il y a une “torsade
-de(s) pointes”, ce qui est le phénomène de base — mais quand il y
-en a plusieurs (ce qui en est presque toujours le cas), il y a des
-“torsades de pointes”!
-Loosely TRANSLATED — The basic phenomenon regarding TdP is
-that there is one episode of a “twist” (around the baseline) of the
-QRS tip (or point) — but if a given patient has several runs of TdP
-(which is almost always the case) — then there will be multiple
-episodes with “twist(s)” (around the baseline) of the points (the ups
-& downs of the QRS).
- 10/16
-My sincere THANKS to Dr. Taboulet for explaining this concept that
-I’ve wondered about for decades. His explanation strengthens my
-preference to continue uniformly using “Torsades de Pointes” as the
-written form of TdP. But the reality is that clinicians around the world
-(and in the literature) will continue to use multiple other spellings.
-Magnus Nossen onSeptember 2, 2024
-LONG QT POISONING POLYMORPHIC VENTRICULAR TACHYCARDIA
-SEIZURE TORSADE
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-Single Center Why the sudden shock
-Retrospective after a few days of
-Validation of an malaise?
-Artificial Intelligence
-ECG Model Detecting
-Acute Coronary
-Occlusion
+Because cardiac syncope can masquerade as seizure, an ECG was obtained prehospital.
+
+Initial ECG Findings (ECG #1)
+
+Sinus rhythm, ~75–80 bpm
+
+Narrow QRS, normal axis
+
+Mild baseline wander and artifact
+
+Key abnormality: prolonged QT interval
+
+Measured values (paper speed 50 mm/s):
+
+RR ≈ 795 ms
+
+QT ≈ 450–475 ms
+
+QTc ≈ 500–530 ms (depending on correction formula)
+
+Although the ECG initially appears “near normal,” dangerous QTc prolongation is present and is easy to miss without a systematic approach.
+
+Clinical Course During Transport
+
+While en route to the hospital, the patient had multiple brief episodes of:
+
+Loss of consciousness
+
+Cramping / seizure-like activity
+
+Rapid spontaneous recovery between episodes
+
+Continuous 12-lead monitoring captured malignant arrhythmias.
+
+ECG #2: Torsades de Pointes
+
+Underlying sinus rhythm with marked QT prolongation
+
+Polymorphic ventricular tachycardia
+
+Initiated by a PVC
+
+Self-terminating
+
+Diagnosis: Torsades de Pointes (TdP) due to long QT.
+
+ECG #3: Degeneration to Ventricular Fibrillation
+
+TdP degenerates into ventricular fibrillation
+
+Episode self-terminated before defibrillation
+
+This confirms life-threatening ventricular arrhythmia as the cause of the apparent seizures.
+
+Immediate Management
+
+IV magnesium sulfate 10 mmol bolus
+
+Continuous magnesium infusion
+
+Potassium replacement started
+
+Admission labs:
+
+Potassium: 3.5 mmol/L (low-normal)
+
+Magnesium: 0.88 mmol/L (low-normal)
+
+Despite “near-normal” serum values, total body depletion of K⁺ and Mg²⁺ was suspected and clinically significant.
+
+After electrolyte repletion:
+
+No further TdP episodes
+
+Hemodynamic and rhythm stabilization
+
+Etiology Investigation
+
+Further history revealed the patient had recently started nine different herbal remedies for fatigue and vague neurologic symptoms.
+
+Exact agents and doses unknown
+
+Herbal preparations are well-documented causes of QT prolongation
+
+Drug–drug and herb–herb interactions likely contributed
+
+Follow-Up ECG (After Stopping Herbal Remedies)
+
+Significant QTc shortening
+
+QTc returned to normal range (~420–440 ms)
+
+ST-T wave abnormalities improved
+
+This strongly suggests acquired long QT due to herbal toxicity and electrolyte depletion.
+
+Important Diagnostic Nuances
+
+QTc can normalize after trigger removal
+
+Normal QTc does NOT exclude congenital LQTS
+
+LQTS may only manifest after:
+
+Hypokalemia
+
+Hypomagnesemia
+
+Drugs
+
+CNS events (e.g., seizures)
+
+Genetic testing for congenital LQTS was ordered.
+The patient was referred for ICD evaluation, pending results.
+
+Key Learning Points
+
+All patients with seizures require an ECG
+
+Cardiac syncope and ventricular arrhythmias can mimic epilepsy
+
+QT prolongation is easy to miss without systematic ECG review
+
+Herbal remedies are not benign and can be proarrhythmic
+
+Borderline serum K⁺ and Mg²⁺ may reflect severe total body depletion
+
+TdP is treated with:
+
+Magnesium
+
+Potassium repletion
+
+Removal of offending agents
+
+Bottom Line
+
+This case demonstrates life-threatening Torsades de Pointes masquerading as seizures in a young, previously healthy patient. The cause was most consistent with acquired long QT from herbal remedies and electrolyte depletion, emphasizing the critical role of ECG screening in all seizure presentations and the hidden danger of “natural” supplements.

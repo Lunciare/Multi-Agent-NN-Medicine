@@ -1,61 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "venous-thromboembolic-diseases-diagnosis-management-and-thrombophilia-testing-pdf-66141847001797.pdf",
-  "converted_date": "2026-01-31T14:44:42.492781",
-  "file_size_bytes": 304524,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/venous-thromboembolic-diseases-diagnosis-management-and-thrombophilia-testing-pdf-66141847001797.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Venous thromboembolic
-diseases: diagnosis,
-management and
-thrombophilia testing
-NICE guideline
-Published: 26 March 2020
-Last updated: 2 August 2023
-www.nice.org.uk/guidance/ng158
-
 Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
-
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
-Finding more information and committee details ..................................................................... 51
-Update information .....................................................................................................................52
-
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
-This guideline replaces CG144.
-This guideline is the basis of QS201.
 Overview
 This guideline covers diagnosing and managing venous thromboembolic diseases in
 adults. It aims to support rapid diagnosis and effective treatment for people who develop
@@ -72,8 +15,7 @@ Who is it for?
 • First-degree relatives of people with inherited thrombophilia or other venous
 thromboembolic diseases
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 Recommendations
 People have the right to be involved in discussions and make informed decisions
 about their care, as described in NICE's information on making decisions about your
@@ -100,8 +42,7 @@ Recently bedridden for 3 days or more, or major surgery within 12 weeks
 requiring general or regional anaesthesia
 Localised tenderness along the distribution of the deep venous system 1
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 Clinical feature Points
 Entire leg swollen 1
 Calf swelling at least 3 cm larger than asymptomatic side 1
@@ -132,8 +73,7 @@ anticoagulation for suspected DVT or PE) and
 • a proximal leg vein ultrasound scan with the result available within 24 hours.
 [2012, amended 2020]
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 1.1.5 For people with a positive proximal leg vein ultrasound scan:
 • offer or continue anticoagulation treatment (see the section on
 anticoagulation treatment for confirmed DVT or PE) or
@@ -162,8 +102,7 @@ D-dimer test result:
 amended 2020], or
 － short-term anticoagulation when used for primary VTE prevention in
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 people with COVID-19 (see the recommendations on VTE prophylaxis in
 the NICE guideline on managing COVID-19) [2023]
 • think about alternative diagnoses [2012, amended 2020]
@@ -190,8 +129,7 @@ scan with the result available within 24 hours. [2012, amended 2020]
 • positive, follow the actions in recommendation 1.1.5 [2012]
 • negative, follow the actions in recommendation 1.1.7, that is:
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 － stop interim therapeutic anticoagulation, but do not stop:
 ◇ long-term anticoagulation when used for secondary prevention
 [2012], or
@@ -214,8 +152,7 @@ test if laboratory facilities are not immediately available. [2020]
 1.1.14 When using a point-of-care or laboratory D-dimer test, consider an age-adjusted
 D-dimer test threshold for people aged over 50. [2020]
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 For a short explanation of why the committee made the 2020 recommendations and
 how they might affect practice, see the rationale and impact section on D-dimer
 testing.
@@ -242,8 +179,7 @@ embolism and supporting document: refresh of recommendation 1.1.16 on the PERC
 rule.
 1.1.17 If PE is suspected, use the 2-level PE Wells score (table 2) to estimate the clinical
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 probability of PE. [2012]
 Table 2 Two-level PE Wells score
 Clinical feature Points
@@ -276,8 +212,7 @@ irradiation, assess the suitability of a ventilation/perfusion single photon
 emission computed tomography (V/Q SPECT) scan or, if a V/Q SPECT scan is
 not available, a V/Q planar scan, as an alternative to CTPA.
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 If a CTPA, V/Q SPECT or V/Q planar scan cannot be done immediately, offer
 interim therapeutic anticoagulation (see the section on interim therapeutic
 anticoagulation for suspected DVT or PE). [2012, amended 2020]
@@ -303,8 +238,7 @@ in the NICE guideline on managing COVID-19) [2023]
 signs and symptoms of PE and when and where to seek further medical
 help. [2012, amended 2020]
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 PE unlikely (Wells score 4 points or less)
 1.1.21 Offer people with an unlikely PE Wells score (4 points or less):
 • a D-dimer test with the result available within 4 hours if possible (see the
@@ -333,8 +267,7 @@ initial management in people with COVID-19.
 Full details of the evidence and the committee's discussion are in evidence review I:
 diagnosing VTE in people with COVID-19.
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 Signs or symptoms of both DVT and PE
 1.1.22 For people who present with signs or symptoms of both DVT and PE, carry out
 initial diagnostic investigations for either DVT or PE, basing the choice of
@@ -362,8 +295,7 @@ treatment for low-risk PE.
 Full details of the evidence and the committee's discussion are in evidence review E:
 outpatient treatment of low-risk pulmonary embolism.
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 1.3 Anticoagulation treatment for suspected or
 confirmed DVT or PE
 NICE has produced a visual summary of the recommendations on anticoagulation
@@ -391,8 +323,7 @@ function, prothrombin time (PT) and activated partial thromboplastin time
 anticoagulation treatment
 • review, and if necessary act on, the results of baseline blood tests within
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 24 hours of starting interim therapeutic anticoagulation. [2020]
 Anticoagulation treatment for confirmed DVT or PE
 1.3.5 Offer anticoagulation treatment for at least 3 months to people with confirmed
@@ -418,8 +349,7 @@ until the international normalised ratio (INR) is at least 2.0 in 2 consecutive
 readings, followed by a VKA on its own. [2020]
 1.3.9 Do not routinely offer unfractionated heparin (UFH) with a VKA to treat confirmed
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 proximal DVT or PE unless the person has renal impairment or established renal
 failure (see recommendations 1.3.13 and 1.3.14) or an increased risk of bleeding.
 [2020]
@@ -445,8 +375,7 @@ NICE's information on prescribing medicines.
 1.3.13 Offer people with confirmed proximal DVT or PE and renal impairment (estimated
 creatinine clearance between 15 ml/min and 50 ml/min) one of:
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 • apixaban
 • rivaroxaban
 • LMWH for at least 5 days followed by:
@@ -471,8 +400,7 @@ In March 2020, most anticoagulants were off label for the treatment of DVT or PE
 people with active cancer. See NICE's information on prescribing medicines.
 1.3.15 Offer people with active cancer and confirmed proximal DVT or PE
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 anticoagulation treatment for 3 to 6 months. Review at 3 to 6 months according
 to clinical need. For recommendations on treatment after 3 to 6 months, see the
 section on long-term anticoagulation for secondary prevention. [2020]
@@ -499,8 +427,7 @@ Treatment failure
 • check adherence to anticoagulation treatment
 • address other sources of hypercoagulability
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 • increase the dose of anticoagulant or change to an anticoagulant with a
 different mode of action. [2020]
 NICE technology appraisal guidance on anticoagulation
@@ -525,8 +452,7 @@ prevention
 anticoagulant with people who have had anticoagulation treatment for 3 months
 (3 to 6 months for people with active cancer) after a proximal DVT or PE. Follow
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 the recommendations on shared decision making and supporting adherence in
 the NICE guidelines on medicines optimisation, medicines adherence and patient
 experience in adult NHS services. [2020]
@@ -556,8 +482,7 @@ or more and cannot be modified. [2020]
 1.4.7 Take into account the person's preferences and their clinical situation when
 selecting an anticoagulant for long-term treatment. [2020]
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 1.4.8 For people who do not have renal impairment, active cancer, established triple
 positive antiphospholipid syndrome or extreme body weight (less than 50 kg or
 more than 120 kg):
@@ -581,8 +506,7 @@ label. See NICE's information on prescribing medicines. [2020]
 preferences at least once a year for people taking long-term anticoagulation
 treatment or aspirin. [2020]
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 For a short explanation of why the committee made the 2020 recommendations on
 reviewing anticoagulation treatment and how they might affect practice, see the
 rationale and impact section on long-term anticoagulation for secondary prevention.
@@ -608,8 +532,7 @@ treatment
 • taking anticoagulants if they are planning pregnancy or become pregnant
 • how anticoagulants may affect activities such as sports and travel
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 • when and how to seek medical help. [2012]
 1.5.2 Give people who are having anticoagulation treatment information and an
 'anticoagulant alert card' that is specific to their treatment. Advise them to carry
@@ -634,8 +557,7 @@ PE
 haemodynamic instability(see also the section on anticoagulation treatment for
 PE with haemodynamic instability). [2012]
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 1.6.3 Do not offer pharmacological systemic thrombolytic therapy to people with PE
 and haemodynamic stability with or without right ventricular dysfunction (see
 also the section on anticoagulation treatment for DVT or PE). If the person
@@ -659,8 +581,7 @@ recommendation on treatment failure. [2020]
 removed at the earliest possible opportunity. Document the strategy and review it
 if the clinical situation changes. [2020]
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 For a short explanation of why the committee made the 2020 recommendations and
 how they might affect practice, see the rationale and impact section on IVC filters.
 Full details of the evidence and the committee's discussion are in evidence review H:
@@ -685,8 +606,7 @@ renal and hepatic function, PT and APTT, and offer a physical examination.
 PE unless they have relevant clinical symptoms or signs (for further information,
 see the NICE guideline on suspected cancer). [2020]
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 For a short explanation of why the committee made the 2020 recommendations and
 how they might affect practice, see the rationale and impact section on investigations
 for cancer.
@@ -712,8 +632,7 @@ Terms used in this guideline
 Active cancer
 Receiving active antimitotic treatment; or diagnosed within the past 6 months; or recurrent
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 or metastatic; or inoperable. Excludes squamous skin cancer and basal cell carcinoma.
 Estimated creatinine clearance
 Creatinine clearance estimated using the Cockcroft and Gault formula; see the BNF's
@@ -735,8 +654,7 @@ Clinical prediction rule for estimating the probability of DVT or PE. There are 
 versions of Wells scores available. This guideline recommends the 2-level DVT Wells score
 and the 2-level PE Wells score.
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 Recommendations for research
 The guideline committee has made the following recommendations for research.
 Key recommendations for research
@@ -760,8 +678,7 @@ see the rationale section on anticoagulation treatment for confirmed DVT or PE.
 Full details of the evidence and the committee's discussion are in evidence review D:
 pharmacological treatment in people with suspected or confirmed DVT and/or PE.
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 3 Prediction tools compared with clinical judgement
 What is the prognostic accuracy of a tool to predict both VTE recurrence and major
 bleeding compared with clinical judgement in people with unprovoked proximal DVT or PE?
@@ -783,8 +700,7 @@ Other recommendations for research
 What is the optimal pharmacological treatment strategy for DVT or PE in people who use
 intravenous drugs? [2020]
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 For a short explanation of why the committee made the recommendation for research,
 see the rationale section on anticoagulation treatment for DVT or PE in people who
 use intravenous drugs.
@@ -803,8 +719,7 @@ What is the clinical and cost effectiveness of clot removal using catheter-direc
 thrombolytic therapy or pharmacomechanical thrombolysis compared with standard
 anticoagulation therapy for the treatment of acute proximal DVT? [2012]
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 Rationale and impact
 These sections briefly explain why the committee made the recommendations and how
 they might affect practice. They link to details of the evidence and a full description of the
@@ -833,8 +748,7 @@ respiratory support will be receiving prophylactic or therapeutic doses of antic
 depending on the severity of illness. They agreed that it may not be appropriate to stop
 this management, even when the results of the imaging investigations are negative. This is
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 because immunothrombosis occurring at the capillary level associated with COVID-19 is
 beyond the sensitivity of standard CT pulmonary angiogram. NICE's guideline on managing
 COVID-19 has advice on when to stop anticoagulation for primary prevention in this
@@ -863,8 +777,7 @@ The committee agreed that, if both laboratory-based and point-of-care D-dimer te
 are immediately available, laboratory testing is preferable because it provides more
 rigorous quality assurance and greater certainty of diagnostic accuracy. However, if
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 laboratory-based testing is not immediately available, the committee were in agreement
 that offering immediate point-of-care testing is more beneficial for patients than delaying
 diagnosis by waiting for laboratory testing. Although point-of-care tests are more
@@ -898,8 +811,7 @@ proportion of primary care centres already use point-of-care testing. Facilities
 care testing are only needed if rapid laboratory testing is not available.
 The number of D-dimer tests that are adjusted for age is likely to increase, leading to a
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 reduction in the number of additional investigations for VTE.
 Return to recommendations
 Pulmonary embolism rule-out criteria (the PERC
@@ -931,8 +843,7 @@ The committee noted that the studies evaluating PERC all took place in emergency
 departments. But they could see no reason why its use should be limited to this setting or
 why the diagnostic accuracy of PERC would differ in other settings such as outside of the
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 hospital. They reiterated that it was the experience of diagnosing PE that was important
 for applying the rule as opposed to the setting.
 People with COVID-19 are considered to have a higher risk of VTE than the general
@@ -963,8 +874,7 @@ outpatient treatment. However, no evidence showed that outpatient treatment is l
 effective or less safe than inpatient treatment for people with low-risk PE. The committee
 agreed that outpatient care offers substantial benefits for people with PE and for hospital
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 services and should be considered for those with suspected or confirmed low-risk PE.
 The committee emphasised the importance of clear arrangements for monitoring and
 follow-up to ensure that outpatients receive the same quality of care as inpatients. They
@@ -993,8 +903,7 @@ benefits in terms of safety and convenience. However, they acknowledged that loc
 protocols or availability of anticoagulants for suspected VTE may necessitate the use of
 different anticoagulants before and after diagnosis.
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 The committee agreed that when choosing an interim anticoagulant, clinicians should
 always take individual clinical circumstances into account, including whether the person is
 at an extreme of body weight, has PE with haemodynamic instability, renal impairment,
@@ -1028,8 +937,7 @@ its use because they were aware that it may be needed in rare circumstances.
 Unfractionated heparin (UFH) was associated with increased bleeding complications,
 greater recurrence rates of VTE and higher mortality rates than other treatments so the
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 committee did not think it should be offered routinely. They recognised that it may be a
 suitable option for some people with VTE.
 Anticoagulation treatment for DVT or PE in people at extremes of body weight
@@ -1058,8 +966,7 @@ if treatment needs to be stopped.
 The committee did not review the evidence on thrombolytic therapy and the 2012
 recommendation that it be considered for this population is unchanged.
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 Anticoagulation treatment for DVT or PE with renal impairment or established
 renal failure
 Renal impairment increases the risk of anticoagulants accumulating in the body, which can
@@ -1094,8 +1001,7 @@ effects of apixaban and dabigatran were similar in people with and without cance
 Economic evidence based on these studies showed apixaban to be the most cost-
 effective option, although the evidence for apixaban was based on a relatively small
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 number of people.
 The committee agreed that, if suitable, a DOAC should be considered to treat VTE in
 people with active cancer but, because of the limitations of the evidence, they could not
@@ -1129,8 +1035,7 @@ DOAC compared with those taking LMWH and a VKA. Although people with
 antiphospholipid syndrome were not included in the evidence review, the committee
 agreed that it is important to include a recommendation highlighting the need to offer
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 LMWH with a VKA to this group.
 Anticoagulation treatment for DVT or PE in people who use intravenous drugs
 VTE can be difficult to treat in people who use intravenous drugs. They often have
@@ -1160,8 +1065,7 @@ For people with active cancer, it is expected that there will be an increase in 
 DOACs and a concomitant decrease in the use of more expensive treatments such as
 LMWH alone. This will also reduce the amount of district nursing support needed to
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 provide assistance with parenteral therapies.
 For people with VTE and antiphospholipid syndrome, the use of DOACs is expected to
 decrease.
@@ -1190,8 +1094,7 @@ VTE or the risk of bleeding are not sufficiently accurate or validated to be use
 basis for a decision, and that using them in such a manner might result in incorrect
 predictions and subsequent harm to the person. However, they also agreed that, in certain
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 circumstances, a clinical prediction tool can be a useful adjunct to discussion with people
 offered long-term anticoagulation treatment. For bleeding risk, evidence on the HAS-BLED
 score showed that it can identify people with unprovoked proximal DVT or PE who are at
@@ -1226,8 +1129,7 @@ There was a lack of evidence on longer-term treatment for people with renal impa
 active cancer, antiphospholipid syndrome or extremes of body weight. Based on their
 clinical experience, the committee agreed that continuing the current treatment, if it is well
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 tolerated, should be considered for people in these groups, taking into account their
 preferences and clinical situation.
 For people who do not continue anticoagulation treatment, evidence showed that aspirin is
@@ -1261,8 +1163,7 @@ be expected to lower costs by reducing the need for clinical visits, INR monitor
 managing bleeding events. The use of aspirin may increase for people who decline long-
 term anticoagulation. This may reduce VTE recurrence in people who would otherwise not
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 receive treatment.
 Return to recommendations
 Inferior vena caval filters
@@ -1296,8 +1197,7 @@ They also agreed to retain the 2012 advice to remove the IVC filter when anticoa
 no longer contraindicated, adding that anticoagulation treatment should be established
 before the IVC filter is removed.
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 There was very limited evidence on the use of IVC filters for people who have a PE while
 taking anticoagulation treatment for an initial proximal DVT or PE. The evidence suggested
 a reduction in short-term mortality from all causes in people in this group who had an IVC
@@ -1328,8 +1228,7 @@ people who have no signs or symptoms. Moreover, these investigations can be cost
 consuming, potentially invasive or pose a radiation risk, and cause anxiety. The committee
 therefore agreed that further investigations for cancer should not be offered to people
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 without relevant signs or symptoms.
 How the recommendations might affect practice
 A physical examination and a review of medical history is current practice for people with
@@ -1337,8 +1236,7 @@ unprovoked DVT or PE. The recommendations can be expected to reduce costs by
 reducing further investigations for cancer in people without symptoms or signs.
 Return to recommendations
 
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
+ 
 Context
 In venous thromboembolism (VTE), a blood clot forms in a vein, usually in the deep veins
 of the legs or pelvis. This is known as deep vein thrombosis, or DVT. The blood clot can
@@ -1356,103 +1254,3 @@ indicates higher risk of VTE and elevated D-dimer levels in people with COVID-19
 addition, a Healthcare Safety Investigation Branch (HSIB) report published in March 2022
 reported difficulties in using the PERC for ruling out pulmonary embolism. This 2023
 update includes updated recommendations in these areas.
-
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
-Finding more information and committee
-details
-To find our guidance on related topics, including guidance in development, see the NICE
-topic page on embolism and thrombosis.
-For full details of the evidence and the guideline committee's discussions, see the
-evidence reviews. You can also find information about how the guideline was developed,
-including details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting our guidelines into practice, see resources to help you
-put NICE guidance into practice.
-
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
-Update information
-August 2023: We have reviewed the evidence on the use of Wells score and D-dimer in
-the diagnostic pathways for pulmonary embolism (PE) and deep vein thrombosis (DVT) in
-people with COVID-19, and updated recommendations.
-We have also refreshed the wording in recommendation 1.1.16 on the use of the pulmonary
-embolism rule-out criteria (PERC).
-Recommendations are marked [2023] if the evidence has been reviewed. The
-recommendation marked [2020, amended 2023] has been refreshed without an evidence
-review.
-Recommendations marked [2012] and [2012, amended 2020] last had an evidence review
-in 2012. Recommendations marked [2020] last had an evidence review in 2020.
-March 2020: This guideline updates and replaces NICE guideline CG144 (published June
-2012, updated November 2015).
-We have reviewed the evidence and made new recommendations on:
-• D-dimer testing
-• the PERC rule for PE
-• outpatient management of low-risk PE
-• anticoagulation treatment for suspected and confirmed DVT or PE
-• reviewing anticoagulation treatment after DVT or PE
-• inferior vena caval filters
-• investigations for cancer for people with suspected or confirmed DVT or PE.
-These recommendations are marked [2020].
-We have also made some changes without an evidence review:
-
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
-• In section 1.1 on diagnosis and initial management we have:
-－ replaced '24-hour dose of a parenteral anticoagulant' with 'interim therapeutic
-anticoagulation' because the updated guideline includes direct-acting oral
-anticoagulants (DOACs)
-－ amended recommendation 1.1.4 to clarify that the D-dimer test should be carried
-out before interim therapeutic anticoagulation is started because anticoagulation
-can affect the D-dimer result
-－ added 'stop interim therapeutic anticoagulation' to replace '24-hour dose' and
-ensure that interim anticoagulation is not continued when it is no longer needed
-－ added a limit of 4 hours for D-dimer test results to correspond with the limit of
-4 hours recommended for proximal leg vein ultrasound scan results
-－ changed 'offer a mechanical intervention' if PE is identified to 'consider a
-mechanical intervention' to align with the updated recommendations on
-mechanical interventions
-－ defined renal impairment in people with suspected PE as 'severe (estimated
-creatinine clearance less than 30 ml/min)' to clarify that investigation with CTPA is
-not excluded in all degrees of renal impairment.
-• In section 1. 5 on information and support for people having anticoagulation treatment
-we have:
-－ added information about animal products contained in direct-acting
-anticoagulants
-－ updated the link to the section in the NICE guideline 'Venous thromboembolism:
-reducing the risk' on information for people concerned about using animal
-products.
-• In section 1.9 on thrombophilia testing we have:
-－ changed 'do not offer thrombophilia testing' to 'do not offer testing for hereditary
-thrombophilia' to differentiate between hereditary thrombophilia and
-antiphospholipid syndrome, which is an acquired form of thrombophilia. This is to
-align with the addition of a recommendation on anticoagulation treatment for
-people with triple positive antiphospholipid syndrome in the updated guideline
-
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
-(NG158)
-－ added wording to the recommendation on testing for antiphospholipid antibodies
-to ensure that clinicians are aware that anticoagulants can affect the
-interpretation of thrombophilia test results.
-• In the section 'Terms used in this guideline' we have:
-－ added a definition of 'active cancer' for clarification
-－ amended the definition of 'unprovoked DVT or PE' to reflect the 2020 guideline
-committee's use of the term.
-These recommendations are marked [2012, amended 2020]
-Recommendations marked [2012] last had an evidence review in 2012. Those marked
-[2015] last had an evidence review in 2015.
-Minor changes since publication
-March 2025: We updated links to relevant technology appraisal guidance in the section on
-NICE technology appraisal guidance on anticoagulation treatment for confirmed DVT or
-PE.
-September 2022: In recommendation 1.1.21 we clarified that the 4-hour time window for
-the D-dimer test result applies to any setting. See the surveillance decision for more
-information.
-August 2022: We amended and clarified recommendation 1.1.11, and corrected an error in
-the visual summary.
-July 2022: We clarified the information in recommendations 1.1.6, 1.1.7, 1.1.20 and 1.1.21
-about stopping interim therapeutic anticoagulation. We also corrected a cross-reference in
-recommendation 1.1.11.
-October 2021: We added a link to NICE's guideline on shared decision making in
-recommendation 1.3.1.
-ISBN: 978-1-4731-5295-3

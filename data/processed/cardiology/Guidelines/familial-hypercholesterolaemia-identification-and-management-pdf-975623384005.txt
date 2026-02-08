@@ -1,52 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "familial-hypercholesterolaemia-identification-and-management-pdf-975623384005.pdf",
-  "converted_date": "2026-01-31T14:49:54.880554",
-  "file_size_bytes": 188643,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/familial-hypercholesterolaemia-identification-and-management-pdf-975623384005.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Familial
-hypercholesterolaemia:
-identification and
-management
-Clinical guideline
-Published: 27 August 2008
-Last updated: 4 October 2019
-www.nice.org.uk/guidance/cg71
-
-Familial hypercholesterolaemia: identification and management (CG71)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Familial hypercholesterolaemia: identification and management (CG71)
-
-Familial hypercholesterolaemia: identification and management (CG71)
-This guideline is the basis of QS41.
+Familial hypercholesterolaemia: identification and management
 Overview
 This guideline covers identifying and managing familial hypercholesterolaemia (FH), a
 specific type of high cholesterol that runs in the family, in children, young people and
@@ -57,7 +9,7 @@ Who is it for?
 • Commissioners and providers
 • Children, young people and adults, and their families and carers
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 Recommendations
 People have the right to be involved in discussions and make informed decisions
 about their care, as described in NICE's information on making decisions about your
@@ -82,7 +34,7 @@ amended 2019]
 as these are the people who are at highest risk of FH. [2017]
 1.1.3 For people with a personal or family history of premature coronary heart disease
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 (an event before 60 years in an index individual or first-degree relative), but
 whose total cholesterol is unknown, offer to measure their total cholesterol.
 [2017]
@@ -114,7 +66,7 @@ relatives, the age and cause of death, and smoking history should be
 documented. If possible, the index individual should verify this information with
 other family members. [2008]
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 1.1.11 Ultrasonography of the Achilles tendon is not recommended in the diagnosis of
 FH. [2008]
 1.1.12 Coronary heart disease risk estimation tools, such as QRISK2 and those based on
@@ -144,7 +96,7 @@ considered. [2008]
 second- and, when possible, third-degree biological relatives of people with a
 genetic diagnosis of FH. [2017]
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 1.2.2 Healthcare professionals should offer all people with FH a referral to a specialist
 with expertise in FH for confirmation of diagnosis and initiation of cascade
 testing. [2008]
@@ -170,7 +122,7 @@ than 50% from baseline (that is, LDL-C concentration before treatment). [2008]
 1.3.1.4 Ezetimibe monotherapy is recommended as an option for treating primary
 heterozygous-familial hypercholesterolaemia in adults in whom initial statin
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 therapy is contraindicated. [2016]
 1.3.1.5 Ezetimibe monotherapy is recommended as an option for treating primary
 heterozygous-familial hypercholesterolaemia in adults who cannot tolerate statin
@@ -201,7 +153,7 @@ within a specialist centre. [2008]
 expertise in FH if treatment with the maximum tolerated dose of a high-intensity
 statin and ezetimibe does not achieve a recommended reduction in LDL-C
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 concentration of greater than 50% from baseline (that is, LDL-C concentration
 before treatment). [2008]
 1.3.1.12 Healthcare professionals should offer adults with FH a referral to a specialist with
@@ -230,7 +182,7 @@ Children and young people
 1.3.1.17 Healthcare professionals should offer all children and young people diagnosed
 with, or being investigated for, a diagnosis of FH a referral to a specialist with
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 expertise in FH in children and young people. This should be in an appropriate
 child and young person-focused setting that meets the standards within the
 National service framework for children, young people and maternity services.
@@ -260,7 +212,7 @@ heart disease in early adulthood, healthcare professionals with expertise in FH 
 children and young people should consider offering:
 • a higher dose of statin than is licensed for use in the appropriate age group
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 and/or
 • more than 1 lipid-modifying drug therapy and/or
 • lipid-modifying drug therapy before the age of 10 years. [2008]
@@ -288,7 +240,7 @@ concordance with lipid-modifying drug therapy. [2008]
 1.3.1.31 When the decision has been made to offer adults or children and young people
 with FH treatment with a statin, baseline liver and muscle enzymes (including
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 transaminases and creatine kinase, respectively) should be measured before
 initiation of therapy. However, people with raised liver or muscle enzymes should
 not routinely be excluded from statin therapy. [2008]
@@ -314,7 +266,7 @@ advice. [2008]
 of fruit and vegetables a day, in line with national guidance for the general
 population. Examples of what constitutes a portion can be found at NHS Live
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 Well. [2008]
 1.3.2.5 Healthcare professionals should advise people with FH to consume at least
 2 portions of fish a week (1 of which should be oily fish). Pregnant women with
@@ -342,7 +294,7 @@ Chief Medical Officers' physical activity guidelines for more information). [200
 Weight management
 1.3.2.11 Healthcare professionals should offer people with FH who are overweight or
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 obese appropriate advice and support to achieve and maintain a healthy weight
 in line with NICE's guideline on overweight and obesity management. [2008]
 Alcohol consumption
@@ -368,7 +320,7 @@ on varenicline for smoking cessation. [2008]
 LDL-lowering apheresis
 1.3.3.1 Healthcare professionals should consider offering LDL apheresis for the
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 treatment of adults and children and young people with homozygous FH (see
 recommendations 1.1.8 and 1.1.16). The timing of initiation of LDL apheresis should
 depend on factors such as the person's response to lipid-modifying drug therapy
@@ -398,7 +350,7 @@ weight heparin. [2008]
 1.3.3.8 People with FH who are receiving anti-platelet therapy should have this
 continued if they are receiving treatment with LDL apheresis. [2008]
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 Liver transplantation
 1.3.3.9 Healthcare professionals should consider offering liver transplantation as an
 option for the treatment of people with homozygous FH after treatment with
@@ -425,7 +377,7 @@ members. [2008]
 1.4.1.5 Healthcare professionals should offer people with FH and their families written
 advice and information about patient support groups. [2008]
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 1.4.2 Information and counselling on contraception for women
 and girls with FH
 1.4.2.1 When lipid-modifying drug therapy is first considered for women and girls, the
@@ -455,7 +407,7 @@ and they should be offered an urgent referral to an obstetrician for a fetal
 assessment. Women should be fully informed about the nature and purpose of
 the assessment. [2008]
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 1.4.3.4 Women with FH who have conceived while taking statins or other systemically
 absorbed lipid-modifying drug therapy and have had a fetal assessment should
 be given time, opportunity and full information to consider their options (including
@@ -483,7 +435,7 @@ include at least the first- and second-degree relatives- and, when possible, thi
 degree biological relatives. If there are still relatives who have not been tested,
 further action should be discussed. [2008]
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 1.5.1.4 Healthcare professionals should update the family pedigree of a person with FH
 and note any changes in the coronary heart disease status of their relatives as
 part of the structured review. This should include at least the first- and second-
@@ -514,7 +466,7 @@ disease. [2008]
 1.5.2.5 In asymptomatic children and young people with heterozygous FH, evaluation of
 coronary heart disease is unlikely to detect clinically significant disease and
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 referral should not be routinely offered. [2008]
 Terms used in this guideline
 Adults with FH
@@ -539,7 +491,7 @@ An event is defined as angina, acute coronary syndrome, myocardial infarction, n
 coronary artery bypass grafting, need for percutaneous coronary intervention or definite
 coronary artery disease on coronary angiography.
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 Dutch Lipid Clinic Network (DLCN) criteria or score
 A method of assessing whether a person has FH. It is based on personal and family
 medical history, clinical signs, LDL-C concentration and DNA testing. A score is attributed
@@ -566,7 +518,7 @@ are different, this state is called 'compound heterozygous'. In general, the ove
 both states is similar, in that LDL-C concentrations are very high. Both groups of patients
 have the same clinical pattern and high risk of cardiovascular disease.
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 For clinical purposes, both homozygous FH and compound heterozygous FH can be
 regarded as behaving in a similar manner. Therefore, for the purposes of this guideline the
 term 'homozygous FH' is used to also encompass compound heterozygous FH.
@@ -594,7 +546,7 @@ other unusual features are recorded.
 Premature coronary heart disease
 For the purpose of this guideline, this refers to a coronary event that has occurred before
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 60 years of age in an index individual or first-degree relative.
 Proband
 The affected (index) individual through whom a family with a genetic disorder is
@@ -622,7 +574,7 @@ with lipid-laden histiocytes (macrophages in connective tissue).
 A distinctive feature of FH that most frequently affects the Achilles tendons but can also
 involve tendons on the back of the hands, elbows and knees.
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 Third-degree biological relative
 A person's biological great grandparent, great grandchild, great aunt, great uncle, first
 cousin, grandnephew or grandniece.
@@ -630,7 +582,7 @@ Urgent referral
 For the purposes of this guideline, urgent referral is as soon as possible with a maximum of
 14 days.
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 Recommendations for research
 The guideline committee has made the following recommendations for research.
 As part of the 2017 update, the standing committee made research recommendations on
@@ -661,7 +613,7 @@ cholesterol and LDL-C concentrations to identify people with FH through primary 
 database searching affects the diagnostic yield of FH. Additionally, there is a lack of data
 on the ethnicity, age and triglyceride concentration of people with FH identified through
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 primary care database searching. These should be included as outcomes in future
 research. [2017]
 2 Long-term monitoring of sub-clinical
@@ -690,7 +642,7 @@ with an LDL-C concentration below which carotid IMT is normal and where thickeni
 absent, and above which it is abnormal and where thickening is observed. Outcomes
 should include fasting serum total and LDL-C concentration, carotid artery IMT, and
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 growth and pubertal development. [2008]
 4 LDL apheresis for people with heterozygous FH
 What are the appropriate indications, effectiveness and safety of LDL apheresis in people
@@ -719,7 +671,7 @@ number of conflicting studies have suggested a small increase in fetal abnormali
 mother has taken statins during the first trimester, but there are not sufficient data to
 provide an accurate estimate of the level of risk. There is also limited information on the
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 risk of pregnancy (including cardiac death) in a woman with FH.
 Data on the incidence of cardiac problems in pregnancy and incidence of fetal
 malformation would inform future recommendations. This could reduce uncertainty for
@@ -745,7 +697,7 @@ Consideration should also be given to the feasibility of conducting a long-term 
 trial to compare the differences in morbidity or mortality attributable to early diagnosis
 using routine monitoring or symptom-based investigation. [2008]
 
-Familial hypercholesterolaemia: identification and management (CG71)
+ 
 Context
 In some people, a high cholesterol concentration in the blood is caused by an inherited
 genetic defect known as familial hypercholesterolaemia (FH). A raised cholesterol
@@ -772,53 +724,3 @@ versus placebo) were updated. Since the original guideline was published in 2008
 cascade testing may now be more cost effective, and DNA diagnosis technology has
 changed greatly. In addition, more evidence has been identified on the use of high-
 intensity statins, and on the safety profile of statins in children and young people.
-
-Familial hypercholesterolaemia: identification and management (CG71)
-Finding more information and committee
-details
-To find NICE guidance on related topics, including guidance in development, see the NICE
-topic page on lipid disorders.
-For full details of the evidence and the guideline committee's discussions, see the full
-guideline and appendices. You can also find information about how the guideline was
-developed, including details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting our guidelines into practice, see resources to help you
-put NICE guidance into practice.
-
-Familial hypercholesterolaemia: identification and management (CG71)
-Update information
-October 2019: Recommendation 1.1.1 was amended to be clearer about when to suspect
-familial hypercholesterolaemia.
-November 2017: We reviewed the evidence and made new recommendations on case
-finding, diagnosis and statin monotherapy. These recommendations are marked [2017].
-We also made some changes without an evidence review:
-• Some wording was updated to emphasise that familial hypercholesterolaemia should
-be thought about as a potential diagnosis.
-• A clarification was added about the QRISK2 score.
-• Nicotinic acid was removed from the recommendations.
-• Recommendations on statins were updated.
-• A new recommendation cross-referring to the NICE technology appraisal guidance on
-alirocumab and evolocumab was added to section 1.3.1.
-These recommendations are marked [2008, amended 2017].
-Recommendations marked [2016] last had an evidence review in 2016, and those marked
-[2008] last had an evidence review in 2008. In some cases, minor changes have been
-made to the wording to bring the language and style up to date, without changing the
-meaning.
-July 2016: Recommendations 1.3.1.4 to 1.3.1.9 have been replaced and are adapted from
-NICE technology appraisal guidance on ezetimibe for treating primary heterozygous-
-familial and non-familial hypercholesterolaemia. TA385 has replaced TA132, the original
-source for these recommendations. They have been changed to remove reference to non-
-familial hypercholesterolaemia, which TA385 also covers.
-Minor changes since publication
-March 2025: Links were updated following publication of NICE's guideline on overweight
-
-Familial hypercholesterolaemia: identification and management (CG71)
-and obesity management.
-September 2023: We updated the definition of high-intensity statin.
-November 2020: Recommendations 1.3.2.8 to 1.3.2.10 were amended to direct readers to
-the 2019 UK Chief Medical Officers' physical activity guidelines, and the original
-recommendation 1.3.2.11 was removed as it is now covered by the changes made to
-recommendation 1.3.2.8. Footnotes were incorporated into the text to improve
-accessibility.
-December 2017: The definition of high-intensity statin was amended.
-ISBN: 978-1-4731-1290-2

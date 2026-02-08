@@ -1,44 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "leadless-cardiac-pacemaker-implantation-for-bradyarrhythmias-pdf-1899873986002117.pdf",
-  "converted_date": "2026-01-31T14:49:48.045465",
-  "file_size_bytes": 67636,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/leadless-cardiac-pacemaker-implantation-for-bradyarrhythmias-pdf-1899873986002117.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Leadless cardiac pacemaker
-implantation for
-bradyarrhythmias
-Interventional procedures guidance
-Published: 29 August 2018
-www.nice.org.uk/guidance/ipg626
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-
-Leadless cardiac pacemaker implantation for bradyarrhythmias (IPG626)
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Leadless cardiac pacemaker implantation for bradyarrhythmias
 1 Recommendations
 1.1 Evidence on the safety of leadless cardiac pacemaker implantation for
 bradyarrhythmias shows that there are serious but well-recognised
@@ -63,7 +23,7 @@ implantation, and provide them with clear written information. In addition, the
 use of NICE's information for the public on leadless cardiac pacemaker
 implantation for bradyarrhythmias is recommended.
 
-Leadless cardiac pacemaker implantation for bradyarrhythmias (IPG626)
+ 
 1.3 Further research in people who could have conventional cardiac
 pacemaker implantation should report the patient selection criteria and
 compare leadless pacemakers with conventional pacemakers. Follow-up
@@ -94,7 +54,7 @@ disorders and heart failure. If untreated, bradycardia may lead to fatigue,
 fainting, palpitations, dizziness, heart failure and an increased risk of
 death.
 
-Leadless cardiac pacemaker implantation for bradyarrhythmias (IPG626)
+ 
 Current treatments
 2.2 Bradyarrhythmias are managed with pacemakers, as described in NICE
 technology appraisal guidance on dual-chamber pacemakers for
@@ -131,7 +91,7 @@ from the catheter and the catheter is removed. If the position is
 suboptimal, the pacemaker can be detached from the endocardium and
 repositioned prior to final release of the delivery catheter.
 
-Leadless cardiac pacemaker implantation for bradyarrhythmias (IPG626)
+ 
 2.4 The pacemaker is programmed using an external programmer that
 transmits signals to it. The pacemaker can be retrieved using a catheter
 retrieval system, if device dislodgement is discovered at follow-up.
@@ -158,19 +118,3 @@ effusion, device dislodgement, battery failure, revision rates and duration
 of device function.
 3.4 Three submissions were received from patient organisations and were
 discussed by the committee.
-
-Leadless cardiac pacemaker implantation for bradyarrhythmias (IPG626)
-Committee comments
-3.5 The leadless cardiac pacemakers currently available are only used for
-right ventricular pacing, and are not suitable for people who need
-sequential pacing or dual-chamber pacing.
-3.6 Problems related to battery life have been reported for 1 device.
-3.7 Different devices are available or in development for use in this
-procedure, and the technology and their attachment mechanisms are
-evolving. There is limited evidence on efficacy and safety for some of
-these devices.
-3.8 The committee was informed that different manufacturers offer different
-types of training programmes.
-ISBN: 978-1-4731-3060-9
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

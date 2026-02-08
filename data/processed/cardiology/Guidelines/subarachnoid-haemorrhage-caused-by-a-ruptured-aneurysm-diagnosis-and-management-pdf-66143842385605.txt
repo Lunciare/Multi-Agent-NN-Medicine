@@ -1,61 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "subarachnoid-haemorrhage-caused-by-a-ruptured-aneurysm-diagnosis-and-management-pdf-66143842385605.pdf",
-  "converted_date": "2026-01-31T14:51:17.636572",
-  "file_size_bytes": 253536,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/subarachnoid-haemorrhage-caused-by-a-ruptured-aneurysm-diagnosis-and-management-pdf-66143842385605.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Subarachnoid haemorrhage
-caused by a ruptured
-aneurysm: diagnosis and
-management
-NICE guideline
-Published: 23 November 2022
-www.nice.org.uk/guidance/ng228
-
 Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
-
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
-Investigations to detect aneurysms in relatives ............................................................................... 44
-Information and support ..................................................................................................................... 45
-Context ....................................................................................................................................... 47
-Finding more information and committee details ................................................................... 48
-Update information ................................................................................................................... 49
-
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
 Overview
 This guideline covers diagnosing and treating an aneurysmal (caused by a ruptured
 aneurysm) subarachnoid haemorrhage and its complications. It provides recommendations
@@ -68,8 +11,7 @@ Who is it for?
 confirmed subarachnoid haemorrhage caused by a ruptured aneurysm
 • People with an aneurysmal subarachnoid haemorrhage, their families and carers
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 Recommendations
 People have the right to be involved in discussions and make informed decisions
 about their care, as described in NICE's information on making decisions about your
@@ -93,8 +35,7 @@ of the headache.
 1.1.3 Bear in mind that:
 • A 'thunderclap' headache (a sudden severe headache, typically peaking in
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 intensity within 1 to 5 minutes) is a red-flag symptom of subarachnoid
 haemorrhage.
 • Thunderclap headache is associated with other conditions or causes such as
@@ -124,8 +65,7 @@ senior clinical decision-maker to assess the person and think about alternative
 diagnoses.
 1.1.7 Refer the person for an urgent non-contrast CT head scan if review in secondary
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 care by a senior clinical decision-maker confirms unexplained thunderclap
 headache, or other signs and symptoms that suggest subarachnoid
 haemorrhage. Be aware that the diagnostic accuracy of CT head scans is highest
@@ -151,8 +91,7 @@ Diagnosing a subarachnoid haemorrhage
 1.1.10 Diagnose a subarachnoid haemorrhage if the non-contrast CT head scan shows
 blood in the subarachnoid space.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 1.1.11 If a CT head scan done within 6 hours of symptom onset and reported and
 documented by a radiologist shows no evidence of a subarachnoid haemorrhage:
 • do not routinely offer a lumbar puncture
@@ -176,8 +115,7 @@ the need for, or timing of, transfer of care to a specialist neurosurgical centr
 aware that the risk of rebleeding is highest within 24 hours of the onset of
 symptoms.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on diagnosing a
 subarachnoid haemorrhage.
@@ -203,8 +141,7 @@ contraindicated.
 • DSA or MRA shows an intracranial arterial aneurysm and
 • the pattern of subarachnoid blood is compatible with aneurysm rupture.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 1.1.23 Think about other diagnoses if DSA or MRA does not show an intracranial arterial
 aneurysm.
 For a short explanation of why the committee made these recommendations and how
@@ -225,8 +162,7 @@ Reducing the risk of venous thromboembolism
 subarachnoid haemorrhage in line with the NICE guideline on venous
 thromboembolism in over 16s.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on medical
 management.
@@ -253,8 +189,7 @@ treatment plan (see recommendations 1.5.5 to 1.5.7).
 1.2.8 If interventional treatment is planned, ensure that it is carried out at the earliest
 opportunity to prevent rebleeding. Be aware that the risk of rebleeding is highest
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 within 24 hours of the onset of symptoms.
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on managing the
@@ -277,8 +212,7 @@ Unexplained neurological deterioration
 haemorrhage, offer a non-contrast CT head scan as the first diagnostic
 investigation to determine the cause.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on monitoring and
 investigating for deterioration.
@@ -302,8 +236,7 @@ they might affect practice, see the rationale and impact section on hydrocephalu
 Full details of the evidence and the committee's discussion are in evidence review G:
 detecting hydrocephalus and evidence review H: managing hydrocephalus.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 Delayed cerebral ischaemia
 1.3.6 Ensure euvolaemia (normal blood volume) in people with delayed cerebral
 ischaemia after an aneurysmal subarachnoid haemorrhage and consider
@@ -328,8 +261,7 @@ plan.
 Full details of the evidence and the committee's discussion are in evidence review S:
 patient information.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 Rehabilitation
 1.4.3 Offer rehabilitation after aneurysmal subarachnoid haemorrhage in line with the
 NICE guidelines on stroke rehabilitation in adults and rehabilitation after critical
@@ -355,8 +287,7 @@ Managing non-culprit (unruptured) aneurysms
 and a neurosurgeon should evaluate the options for managing non-culprit
 (unruptured) aneurysms, including:
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 • endovascular coiling
 • neurosurgical clipping
 • conservative management and follow-up monitoring.
@@ -383,8 +314,7 @@ Technology for the treatment of complex intracranial aneurysms
 • NICE interventional procedures guidance on endovascular insertion of an intrasaccular
 wire-mesh blood-flow disruption device for intracranial aneurysms
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 • NICE interventional procedures guidance on coil embolisation of unruptured
 intracranial aneurysms.
 Managing other conditions after discharge from hospital
@@ -409,8 +339,7 @@ subarachnoid haemorrhage in line with the NICE guideline on headaches in over
 12s.
 1.4.13 Be aware that headaches in people with a history of aneurysmal subarachnoid
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 haemorrhage:
 • are common and generally benign
 • may be due to chronic hydrocephalus if the person has additional symptoms
@@ -437,8 +366,7 @@ save lives or prevent aneurysmal subarachnoid haemorrhages
 • testing is usually limited to people with at least 2 first-degree relatives
 (father, mother, sister or brother) who have had an aneurysmal subarachnoid
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 haemorrhage.
 Tell people where they can find more information about testing for relatives,
 such as the NHS webpage on diagnosis of brain aneurysm.
@@ -464,8 +392,7 @@ capacity.
 haemorrhage to the needs and preferences of the person (and their family or
 carers if appropriate).
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 At diagnosis
 1.5.5 Explain to the person (and their family or carers if appropriate) what an
 aneurysmal subarachnoid haemorrhage is and what the treatment options are,
@@ -491,8 +418,7 @@ haemorrhage. Base the information on specialist assessment by the MDT of the
 person's medical circumstances, including:
 • the effectiveness of the treatment of the ruptured aneurysm
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 • the presence and growth of additional aneurysms
 • their smoking status.
 1.5.9 Give the person advice on returning to their usual activities including work,
@@ -516,14 +442,12 @@ Senior clinical decision-maker
 A clinician with the necessary training and experience to assess people with suspected
 subarachnoid haemorrhage, confirm subarachnoid haemorrhage symptoms and signs, and
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 refer people for further investigation. This may be a consultant, a staff-grade, associate-
 specialist or specialty doctor, or a doctor in a training grade who has been delegated to do
 this because they have the necessary competencies.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 Recommendations for research
 The guideline committee has made the following recommendations for research.
 Key recommendations for research
@@ -545,8 +469,7 @@ severity scoring systems.
 What is the clinical and cost effectiveness of nimodipine in the management of aneurysmal
 subarachnoid haemorrhage?
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 For a short explanation of why the committee made this recommendation for
 research, see the rationale section on nimodipine.
 Full details of the evidence and the committee's discussion are in evidence review D:
@@ -569,8 +492,7 @@ risk of subsequent subarachnoid haemorrhage.
 Other recommendations for research
 6 Interventions for aneurysmal subarachnoid haemorrhage in
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 people with major neurological deficit
 What is the outcome of intervention to prevent rebleeding in people who present with or
 rapidly develop severe neurological deficits as a consequence of acute aneurysmal
@@ -595,8 +517,7 @@ research, see the rationale section on monitoring and investigating for deterior
 Full details of the evidence and the committee's discussion are in evidence review E:
 monitoring for raised intracranial pressure and vasospasm.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 9 Intracranial hypertension
 What is the impact of routine monitoring of intracranial hypertension on subsequent
 management and outcome in people with aneurysmal subarachnoid haemorrhage who are
@@ -621,8 +542,7 @@ research, see the rationale section on delayed cerebral ischaemia.
 Full details of the evidence and the committee's discussion are in evidence review F:
 management of delayed cerebral ischaemia.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 12 Blood pressure targets
 What is the clinical and cost effectiveness of a lower blood pressure treatment target
 relative to the standard blood pressure treatment target for people with aneurysmal
@@ -641,8 +561,7 @@ research, see the rationale section on investigations to detect aneurysms in rel
 Full details of the evidence and the committee's discussion are in evidence review T:
 investigating relatives of people with aneurysmal subarachnoid haemorrhage.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 Rationale and impact
 These sections briefly explain why the committee made the recommendations and how
 they might affect practice.
@@ -673,8 +592,7 @@ committee noted that these symptoms and signs of subarachnoid haemorrhage can al
 be caused by a number of other conditions. Therefore, a senior clinician should confirm
 the assessment of subarachnoid haemorrhage and arrange immediate referral for further
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 investigation.
 There is good evidence showing that non-contrast CT head scans carried out within
 6 hours of symptom onset are highly accurate and can be used to rule out a diagnosis of
@@ -704,8 +622,7 @@ be managed with analgesics in line with standard clinical practice. Headache is 
 treated with simple analgesics such as paracetamol, escalating to opioids as needed. The
 committee agreed that the sedative and pupillary effect of opioid analgesics should be
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 taken into account when doing a neurological assessment, but should not preclude their
 use.
 How the recommendations might affect practice
@@ -735,8 +652,7 @@ When a lumbar puncture is indicated, the committee agreed that it should be done
 12 hours after symptom onset, when bilirubin formation is sufficient to be detected
 reliably. The committee considered that the diagnostic accuracy of earlier lumbar puncture
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 (to detect blood in the cerebrospinal fluid) is likely to be low because it can take several
 hours for blood to appear in the lumbar subarachnoid sac.
 There was limited evidence on the relative accuracy of non-contrast CT head scanning at
@@ -766,8 +682,7 @@ Return to recommendations
 Detecting an aneurysm
 Recommendations 1.1.18 to 1.1.23
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 Why the committee made the recommendations
 Evidence showed that CT angiography has a high level of accuracy in identifying
 aneurysms causing subarachnoid haemorrhage but evidence for the diagnostic accuracy
@@ -796,8 +711,7 @@ statistical imprecision around the summary effect estimates, with wide confidenc
 intervals crossing the thresholds for clinical significance.
 The committee noted that the studies in the evidence review were conducted in the
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 1980s, with a lack of more recent evidence. In most of the studies, nimodipine was
 commenced up to 96 hours after ictus and continued for up to 3 weeks before
 neurosurgical management. Therefore, the committee had reservations about the
@@ -831,8 +745,7 @@ with a subarachnoid haemorrhage before their aneurysm is secured and after it is
 Short-course tranexamic acid
 Evidence on tranexamic acid in the management of aneurysmal subarachnoid
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 haemorrhage was mixed, and most was from small studies from the 1970s and 1980s.
 Some of the evidence suggested that short courses of intravenous tranexamic acid
 started immediately after diagnosis and before a planned intervention (endovascular
@@ -859,8 +772,7 @@ endovascular coiling or neurosurgical clipping, if suitable, can secure the aneu
 prevent rebleeding.
 The committee acknowledged that interventional treatment is not suitable for some people
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 who have a major neurological deficit after an aneurysmal subarachnoid haemorrhage, and
 that the costs of long-term nursing care or rehabilitation can be considerable. Very little
 evidence was found for this group, so the committee made a recommendation for research
@@ -895,8 +807,7 @@ neurosurgical centres. For people admitted during weekends, endovascular coiling
 be available from the same interventional neuroradiology teams who will provide
 thrombectomy for stroke, in line with the recommendations on thrombectomy in the NICE
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 guideline on stroke and transient ischaemic attack in over 16s. However, provision of
 neurosurgical clipping during weekends may necessitate changes to services such as the
 setting up of appropriate networks.
@@ -927,8 +838,7 @@ recommendation is likely to stop this type of monitoring in centres that use it 
 practice. CT head scans are used to investigate unexplained neurological deterioration in
 current practice and the recommendation will not affect this.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 Return to recommendations
 Hydrocephalus
 Recommendations 1.3.3 to 1.3.5
@@ -958,8 +868,7 @@ be confirmed based on a comparison of current CT head scans with previous CT or 
 head scans.
 In current clinical practice most people with persisting or progressive symptoms and
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 radiological evidence of ventricular dilatation are offered drainage of cerebrospinal fluid,
 which improves symptoms in the majority. If the likelihood of symptom improvement is
 uncertain, some clinicians advocate a trial of temporary drainage, for example, serial
@@ -989,8 +898,7 @@ advocating routine monitoring of intracranial pressure to guide intervention (su
 drainage of cerebrospinal fluid, hypertonic saline or vasopressor therapy) to lower
 intracranial pressure and maintain cerebral perfusion. Other clinicians favour management
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 without intracranial pressure monitoring.
 Intracranial pressure can be monitored by inserting an intracranial pressure bolt or using
 an external ventricular drain inserted to manage acute hydrocephalus. The committee
@@ -1019,8 +927,7 @@ vasopressors to manage delayed cerebral ischaemia.
 How the recommendation might affect practice
 The recommendation reflects current practice.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 Return to recommendation
 Follow-up care plan
 Recommendations 1.4.1 and 1.4.2
@@ -1046,8 +953,7 @@ imaging should be considered, based on the person's clinical situation and risk 
 How the recommendation might affect practice
 The recommendation reflects current practice.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 Return to recommendation
 Managing non-culprit (unruptured) aneurysms
 Recommendations 1.4.5 to 1.4.7
@@ -1075,8 +981,7 @@ Managing other conditions after discharge from
 hospital
 Recommendations 1.4.8 to 1.4.14
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 Why the committee made the recommendations
 Hypertension
 Uncontrolled hypertension is recognised to be a risk factor for aneurysmal subarachnoid
@@ -1107,8 +1012,7 @@ specific long-term medicines to relieve headaches as a consequence of subarachno
 haemorrhage. The committee agreed that headache should be assessed, diagnosed and
 managed in line with NICE's guideline on headaches in over 12s.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 The committee agreed, based on their experience, that headaches are common and
 generally benign in people who have had a subarachnoid haemorrhage, but in some
 people may indicate chronic hydrocephalus.
@@ -1138,8 +1042,7 @@ anxiety and a consequent increase in visits to GPs and emergency departments. Mo
 the optimal timing and frequency of investigations to detect and monitor intracranial
 aneurysms in first-degree relatives is unknown.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 The committee were aware that the NHS does not currently support routine screening for
 intracranial arterial aneurysms in relatives and any change in NHS policy could have a
 significant resource impact.
@@ -1168,8 +1071,7 @@ at discharge. They also stressed the importance of information about their medic
 and what to expect after discharge, including common symptoms, possible complications
 and where they can get advice and support.
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 The committee used their experience to agree topics that should be included, as a
 minimum, in the information given. They highlighted the importance of ease of access to
 information for people throughout their care pathway.
@@ -1184,8 +1086,7 @@ subarachnoid haemorrhage varies widely. The recommendations are expected to
 encourage discussion that is tailored to the person's preferences.
 Return to recommendations
 
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
+ 
 Context
 Subarachnoid haemorrhage is a bleed into the fluid-filled subarachnoid space around the
 brain and spinal cord. Spontaneous subarachnoid haemorrhage accounts for 5% of all
@@ -1209,24 +1110,3 @@ effectiveness of treatment. It provides recommendations based on current evidenc
 covering initial assessment, diagnostic investigations, treatment options, management of
 complications and follow-up care. It also identifies areas where evidence is lacking and
 recommends research to help inform future guidance.
-
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
-Finding more information and committee
-details
-To find NICE guidance on related topics, including guidance in development, see the NICE
-topic page on cranial aneurysms.
-For full details of the evidence and the guideline committee's discussions, see the
-evidence reviews. You can also find information about how the guideline was developed,
-including details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting our guidelines into practice, see resources to help you
-put NICE guidance into practice.
-
-Subarachnoid haemorrhage caused by a ruptured aneurysm: diagnosis and management
-(NG228)
-Update information
-Minor changes since publication
-September 2023: We amended recommendation 1.1.11 to add that any alternative
-diagnoses should be discussed with a senior clinical decision-maker.
-ISBN: 978-1-4731-4815-4

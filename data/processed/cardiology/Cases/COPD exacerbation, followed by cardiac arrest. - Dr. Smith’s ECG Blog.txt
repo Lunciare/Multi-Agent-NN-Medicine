@@ -1,34 +1,61 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "COPD exacerbation, followed by cardiac arrest. - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:50.650495",
-  "file_size_bytes": 17712598,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/COPD exacerbation, followed by cardiac arrest. - Dr. Smith’s ECG Blog.pdf"
-}
+An elderly woman with a history of COPD called emergency services for severe shortness of breath. On EMS arrival, she was cyanotic with increased work of breathing. During transport, she developed a bradycardic cardiac arrest. Return of spontaneous circulation (ROSC) was achieved.
 
-=== СОДЕРЖАНИЕ ===
+A bedside echocardiogram showed a markedly enlarged right ventricle and a very small left ventricle. Based on the clinical presentation and echo findings, a provisional diagnosis of pulmonary embolism was made.
 
-Steve Smith onJanuary 4, 2026
-COPD exacerbation,
-followed by cardiac arrest.
-An elderly woman called 911 for SOB. She had a history of
-COPD. On arrival, she was cyanotic and had increased work
-of breathing. En route to the hospital, she had a bradycardic
-arrest.
-She had ROSC, and a Bedside echo showed a large RV
-and very small LV. The providers made a provisional
-diagnosis of pulmonary embolism based on this clinical
-presentation.
-Here is the first ECG:
-Screenshot
-What do you think?
-There is atrial fibrillation. There is RBBB with right axis
-deviation (deep S-wave in I, with R/S ratio < 1), including a
-
-probable left posterior fascicular block. The R-wave
- 1/12
-amplitude in right precordial leads is very large. I saw this on
-the EKG system before I ever knew
+Initial ECG Findings
+
+The first ECG showed:
+
+Atrial fibrillation
+
+Right bundle branch block (RBBB)
+
+Right axis deviation (deep S wave in lead I with R/S ratio < 1)
+
+Findings consistent with a probable left posterior fascicular block
+
+Very large R-wave amplitudes in the right precordial leads
+
+These ECG findings are consistent with acute right ventricular strain.
+
+Key Diagnostic Considerations
+
+In a patient with sudden respiratory failure, cardiac arrest, a dilated right ventricle on echocardiography, and an ECG showing acute right heart strain (RBBB, right axis deviation, tall R waves in V1–V2), massive pulmonary embolism must be strongly considered.
+
+However, severe COPD exacerbation with dynamic hyperinflation can also produce:
+
+Acute RV dilation
+
+Reduced LV preload and apparent LV “collapse”
+
+Marked ECG changes mimicking acute pulmonary embolism
+
+Clinical Insight
+
+Acute cor pulmonale from severe obstructive lung disease can closely mimic massive pulmonary embolism both clinically and electrocardiographically. Differentiation requires integration of:
+
+Clinical context
+
+Echocardiographic findings
+
+ECG features
+
+Response to ventilation and oxygenation
+
+Misattributing RV strain solely to pulmonary embolism without considering severe COPD-related pathophysiology can lead to diagnostic anchoring.
+
+Learning Points
+
+Severe COPD exacerbation can cause:
+
+Acute RV pressure overload
+
+Profound hypoxia and hypercapnia
+
+Electrical patterns resembling massive PE
+
+Cardiac arrest in COPD patients is often driven by hypoxia and dynamic hyperinflation rather than primary coronary occlusion.
+
+ECG patterns of right heart strain are not specific for pulmonary embolism and must be interpreted in full clinical context.
+
+Bedside echocardiography is critical but should not be interpreted in isolation.

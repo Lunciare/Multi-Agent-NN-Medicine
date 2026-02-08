@@ -1,44 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "transmyocardial-laser-revascularisation-for-refractory-angina-pectoris-pdf-1899867326324677.pdf",
-  "converted_date": "2026-01-31T14:49:27.553974",
-  "file_size_bytes": 66311,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/transmyocardial-laser-revascularisation-for-refractory-angina-pectoris-pdf-1899867326324677.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Transmyocardial laser
-revascularisation for refractory
-angina pectoris
-Interventional procedures guidance
-Published: 27 May 2009
-www.nice.org.uk/guidance/ipg301
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-
-Transmyocardial laser revascularisation for refractory angina pectoris (IPG301)
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Transmyocardial laser revascularisation for refractory angina pectoris
 1 Guidance
 1.1 Current evidence on transmyocardial laser revascularisation (TMLR) for refractory
 angina pectoris shows no efficacy, based on objective measurements of
@@ -57,7 +17,7 @@ interventions (percutaneous coronary intervention or coronary artery bypass
 surgery). For patients with refractory angina, these treatments have either failed
 or are not clinically suitable.
 
-Transmyocardial laser revascularisation for refractory angina pectoris (IPG301)
+ 
 2.2 Outline of the procedure
 2.2.1 Transmyocardial laser revascularisation (TMLR) for refractory angina pectoris is
 carried out with the patient under general anaesthesia. Ischaemic areas are
@@ -89,7 +49,7 @@ improvement (from baseline) in total exercise time in TMLR-treated patients
 compared with those treated medically at 6-month follow-up (pooled mean
 difference 120.1 seconds; 95% CI 4.5 to 235.7).
 
-Transmyocardial laser revascularisation for refractory angina pectoris (IPG301)
+ 
 2.3.3 A meta-analysis of 3 studies (total 135 patients) reported an improvement from
 baseline in angina score (measured using four-point scales) in TMLR-treated
 patients compared with those treated medically, with a reduction in mean
@@ -121,7 +81,7 @@ reported that thromboembolic events occurred more frequently in TMLR-treated
 patients (10% [9 of 92]) than those treated medically (3% [3 of 90]), but
 significance and follow-up were not stated.
 
-Transmyocardial laser revascularisation for refractory angina pectoris (IPG301)
+ 
 2.4.4 A case series of 169 TMLR-treated patients reported that 14% (23 of 169)
 developed acute non-inflammatory pericarditis following the procedure (sequelae
 not reported). In a case series of 20 TMLR-treated patients, acute mitral
@@ -146,15 +106,3 @@ pectoris, and also on TMLR performed concomitantly with CABG.
 revascularisation for refractory angina pectoris, technology appraisal guidance on
 myocardial perfusion scintigraphy for the diagnosis and management of angina
 and myocardial infarction, and a guideline on managing stable angina.
-
-Transmyocardial laser revascularisation for refractory angina pectoris (IPG301)
-Sources of evidence
-The evidence considered by the Interventional Procedures Advisory Committee is
-described in the systematic review.
-Information for patients
-NICE has produced information on this procedure for patients and carers. It explains the
-nature of the procedure and the guidance issued by NICE, and has been written with
-patient consent in mind.
-ISBN: 978-1-4731-5904-4
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

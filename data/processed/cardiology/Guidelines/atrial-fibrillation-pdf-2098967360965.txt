@@ -1,55 +1,6 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "atrial-fibrillation-pdf-2098967360965.pdf",
-  "converted_date": "2026-01-31T14:44:38.272467",
-  "file_size_bytes": 148369,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/atrial-fibrillation-pdf-2098967360965.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Atrial fibrillation
-Quality standard
-Published: 9 July 2015
-Last updated: 7 February 2018
-www.nice.org.uk/guidance/qs93
-
-Atrial fibrillation (QS93)
-
-Atrial fibrillation (QS93)
-What the quality statement means for different audiences .............................................................. 15
-Source guidance .................................................................................................................................... 16
-Definitions of terms used in this quality statement ........................................................................... 16
-Quality statement 5: Referral for specialised management ................................................... 18
-Quality statement .................................................................................................................................. 18
-Rationale ................................................................................................................................................ 18
-Quality measures ................................................................................................................................... 18
-What the quality statement means for different audiences .............................................................. 19
-Source guidance .................................................................................................................................... 20
-Definitions of terms used in this quality statement ........................................................................... 20
-Quality statement 6 (developmental): Self-monitoring of anticoagulation ........................... 21
-Developmental quality statement ........................................................................................................ 21
-Rationale ................................................................................................................................................ 21
-Quality measures ................................................................................................................................... 21
-What the quality statement means for different audiences .............................................................. 22
-Source guidance .................................................................................................................................... 23
-Definitions of terms used in this quality statement ........................................................................... 23
-Equality and diversity considerations ................................................................................................. 24
-Update information .................................................................................................................... 25
-About this quality standard ....................................................................................................... 26
-Resource impact .................................................................................................................................... 26
-Diversity, equality and language .......................................................................................................... 27
-
-Atrial fibrillation (QS93)
-This standard is based on NG196 and HTG353.
-This standard should be read in conjunction with QS3, QS6, QS9, QS11, QS21, QS28,
-QS84, QS15, QS2, QS100, QS103, QS120 and QS183.
+Atrial fibrillation 
 Quality statements
 Statement 1 Adults with non-valvular atrial fibrillation and a CHA DS -VAS stroke risk
-2 2 C
 score of 2 or above are offered anticoagulation.
 Statement 2 Adults with atrial fibrillation are not prescribed aspirin as monotherapy for
 stroke prevention.
@@ -62,16 +13,14 @@ are referred for specialised management within 4 weeks.
 Statement 6 (developmental) Adults with atrial fibrillation on long-term vitamin K
 antagonist therapy are supported to self-manage with a coagulometer.
 
-Atrial fibrillation (QS93)
+ 
 Quality statement 1: Anticoagulation to
 reduce stroke risk
 Quality statement
 Adults with non-valvular atrial fibrillation and a CHA DS -VAS stroke risk score of 2 or
-2 2 C
 above are offered anticoagulation.
 Rationale
 Adults with non-valvular atrial fibrillation and a CHA DS -VAS stroke risk score of 2 or
-2 2 C
 above are at a much higher risk of having a stroke than the general population.
 Anticoagulation therapy can help to prevent strokes by reducing the likelihood of a blood
 clot forming. A person's bleeding risk should be taken into account in reaching a decision
@@ -84,19 +33,16 @@ and can be adapted and used flexibly.
 Structure
 Evidence of local arrangements and written clinical protocols to ensure that adults with
 non-valvular atrial fibrillation and a CHA DS -VAS stroke risk score of 2 or above are
-2 2 C
 offered anticoagulation.
 Data source: Local data collection.
 Process
 Proportion of adults with non-valvular atrial fibrillation and a CHA DS -VAS stroke risk
-2 2 C
 
-Atrial fibrillation (QS93)
+ 
 score of 2 or above who receive anticoagulation.
 Numerator – the number in the denominator who receive anticoagulation.
 Denominator – the number of adults with non-valvular atrial fibrillation and a
 CHA DS -VAS stroke risk score of 2 or above.
-2 2 C
 Data source: Local data collection. Data can be collected using the NHS Quality and
 Outcomes Framework indicator AF007.
 Outcome
@@ -108,19 +54,16 @@ audiences
 Service providers (primary, secondary and tertiary care services) have written clinical
 protocols in place to ensure that anticoagulation is offered to adults with non-valvular
 atrial fibrillation and a CHA DS -VAS stroke risk score of 2 or above.
-2 2 C
 Healthcare professionals offer anticoagulation to adults with non-valvular atrial fibrillation
 and a CHA DS -VAS stroke risk score of 2 or above.
-2 2 C
 Commissioners commission primary, secondary and tertiary care services with written
 clinical protocols to ensure that adults with non-valvular atrial fibrillation and a
 CHA DS -VAS stroke risk score of 2 or above are offered anticoagulation.
-2 2 C
 Adults with a type of atrial fibrillation called 'non-valvular' who are identified by their
 doctor as being at higher risk of having a stroke are offered treatment with a medicine
 called an anticoagulant, to lower their risk of having a blood clot that could cause a stroke.
 
-Atrial fibrillation (QS93)
+ 
 Source guidance
 Atrial fibrillation: diagnosis and management. NICE guideline 196 (2021), recommendation
 1.6.3
@@ -139,7 +82,7 @@ Although ORBIT is the best tool for this purpose, other bleeding risk tools may 
 used until it is embedded in clinical pathways and electronic systems. [Adapted from
 NICE's guideline on atrial fibrillation, recommendation 1.2.2]
 
-Atrial fibrillation (QS93)
+ 
 Quality statement 2: Use of aspirin
 Quality statement
 Adults with atrial fibrillation are not prescribed aspirin as monotherapy for stroke
@@ -162,7 +105,7 @@ stroke prevention.
 Numerator – the number in the denominator who are prescribed aspirin as monotherapy
 for stroke prevention.
 
-Atrial fibrillation (QS93)
+ 
 Denominator – the number of adults with atrial fibrillation.
 Data source: Local data collection. Data can be collected using the Royal College of
 Physicians' Sentinel Stroke National Audit Programme (SSNAP), question 2.1.6.
@@ -186,12 +129,12 @@ Definitions of terms used in this quality statement
 Aspirin as monotherapy for stroke prevention
 Adults with atrial fibrillation might be taking aspirin for a variety of other conditions; if so,
 
-Atrial fibrillation (QS93)
+ 
 this may result in the person taking aspirin (for the other conditions) as well as
 anticoagulants. If a person chooses not to take anticoagulants, this decision and the
 reason(s) for it should be documented. [NICE's 2014 full guideline on atrial fibrillation]
 
-Atrial fibrillation (QS93)
+ 
 Quality statement 3: Discussing options
 for anticoagulation
 Quality statement
@@ -217,7 +160,7 @@ Process
 Proportion of adults with atrial fibrillation who are prescribed anticoagulation who discuss
 the options with their healthcare professional at least once a year.
 
-Atrial fibrillation (QS93)
+ 
 Numerator – the number in the denominator who discuss the options with their healthcare
 professional at least once a year.
 Denominator – the number of adults with atrial fibrillation who are prescribed
@@ -244,7 +187,7 @@ Adults with atrial fibrillation who are prescribed an anticoagulant have the cha
 with their doctor at least once a year about the types of anticoagulant they could have and
 the advantages and disadvantages of each.
 
-Atrial fibrillation (QS93)
+ 
 Source guidance
 Atrial fibrillation: diagnosis and management. NICE guideline 196 (2021), recommendations
 1.4.1, 1.6.1 and 1.6.3 to 1.6.5
@@ -266,7 +209,7 @@ into account any additional needs, such as physical, sensory or learning disabil
 people who do not speak or read English. People should have access to an interpreter or
 advocate if needed.
 
-Atrial fibrillation (QS93)
+ 
 Quality statement 4: Anticoagulation
 control
 Quality statement
@@ -290,7 +233,7 @@ a) Proportion of adults with atrial fibrillation taking a vitamin K antagonist w
 time in therapeutic range (TTR) recorded at each visit for INR assessment.
 Numerator – the number in the denominator who have their TTR recorded at each visit for
 
-Atrial fibrillation (QS93)
+ 
 INR assessment.
 Denominator – the number of adults with atrial fibrillation taking a vitamin K antagonist.
 Data source: Local data collection.
@@ -314,7 +257,7 @@ control.
 Commissioners commission secondary care services that have written clinical protocols
 for reassessing anticoagulation in adults with atrial fibrillation who are taking a vitamin K
 
-Atrial fibrillation (QS93)
+ 
 antagonist and have poor anticoagulation control.
 Adults with atrial fibrillation who are taking a type of anticoagulant called a vitamin K
 antagonist (such as warfarin) have their anticoagulation treatment reassessed if regular
@@ -339,7 +282,7 @@ Reassessing anticoagulation
 The NICE guideline on atrial fibrillation recommends that the following factors should be
 taken into account and addressed if they are contributing to poor anticoagulation control:
 
-Atrial fibrillation (QS93)
+ 
 • cognitive function
 • adherence to prescribed therapy
 • illness
@@ -350,7 +293,7 @@ risks and benefits of alternative stroke prevention strategies should be evaluat
 discussed with the person. [Adapted from NICE's guideline on atrial fibrillation,
 recommendations 1.6.12 and 1.6.13]
 
-Atrial fibrillation (QS93)
+ 
 Quality statement 5: Referral for
 specialised management
 Quality statement
@@ -374,7 +317,7 @@ Proportion of adults with atrial fibrillation whose treatment fails to control t
 who are referred for specialised management within 4 weeks.
 Numerator – the number in the denominator who are referred for specialised management
 
-Atrial fibrillation (QS93)
+ 
 within 4 weeks.
 Denominator – the number of adults with atrial fibrillation whose treatment fails to control
 their symptoms.
@@ -398,7 +341,7 @@ Adults with atrial fibrillation who still have symptoms after treatment are refe
 4 weeks for specialised care that aims to ease their symptoms and reduce their risk of
 having a stroke or heart failure.
 
-Atrial fibrillation (QS93)
+ 
 Source guidance
 Atrial fibrillation: diagnosis and management. NICE guideline 196 (2021), recommendation
 1.5.1
@@ -417,7 +360,7 @@ provided through a package of care that covers key elements of service provision
 to the person with atrial fibrillation. Formally documenting key elements of the service can
 help to ensure that it has been delivered. [NICE's 2014 full guideline on atrial fibrillation]
 
-Atrial fibrillation (QS93)
+ 
 Quality statement 6 (developmental):
 Self-monitoring of anticoagulation
 Developmental quality statements set out an emergent area of cutting-edge service
@@ -441,7 +384,7 @@ Evidence of local arrangements for adults with atrial fibrillation on long-term 
 antagonist therapy to be supported to self-manage with a coagulometer.
 Data source: Local data collection.
 
-Atrial fibrillation (QS93)
+ 
 Process
 Proportion of adults with atrial fibrillation on long-term vitamin K antagonist therapy who
 are supported to self-manage with a coagulometer.
@@ -467,7 +410,7 @@ provide support for people using the coagulometers.
 Commissioners ensure that secondary care providers have coagulometers for
 self-monitoring available and offer them to adults with atrial fibrillation who are on
 
-Atrial fibrillation (QS93)
+ 
 long-term vitamin K antagonist therapy, and provide support for their use.
 Adults with atrial fibrillation who are taking a vitamin K antagonist over a long time are (if
 appropriate) offered a monitor they can use to help check how well the treatment is
@@ -494,7 +437,7 @@ and clinicians involved in their care should regularly review their ability to s
 Equipment for self-monitoring should be regularly checked using reliable quality-control
 procedures, and by testing patients' equipment against a healthcare professional's
 
-Atrial fibrillation (QS93)
+ 
 coagulometer which is checked in line with an external quality assurance scheme. Ensure
 accurate patient records are kept and shared appropriately. [NICE's HealthTech guidance
 on atrial fibrillation and heart valve disease: self-monitoring coagulation status using point-
@@ -506,7 +449,7 @@ self-monitoring should be considered. Coagulometers currently come at a cost to 
 with atrial fibrillation, so reasonable adjustments should be made for the socioeconomic
 status of the adult.
 
-Atrial fibrillation (QS93)
+ 
 Update information
 February 2018: The source guidance and definitions for statement 6 have been updated to
 ensure alignment with the updated NICE diagnostics guidance on self-monitoring
@@ -525,7 +468,7 @@ April 2021: Source guideline recommendation numbers were updated throughout and
 definitions for statements 1 and 2 were amended in line with the updated NICE guideline
 on atrial fibrillation.
 
-Atrial fibrillation (QS93)
+ 
 About this quality standard
 NICE quality standards describe high-priority areas for quality improvement in a defined
 care or service area. Each standard consists of a prioritised set of specific, concise and
@@ -554,7 +497,7 @@ impact is considered by the quality standards advisory committee, drawing on res
 impact work for the source guidance. Organisations are encouraged to use the resource
 impact products for the NICE guideline on atrial fibrillation to help estimate local costs.
 
-Atrial fibrillation (QS93)
+ 
 Diversity, equality and language
 During the development of this quality standard, equality issues were considered and
 equality assessments for this quality standard are available. Any specific issues identified
@@ -564,20 +507,3 @@ context, in light of their duties to have due regard to the need to eliminate un
 discrimination, advance equality of opportunity and foster good relations. Nothing in this
 quality standard should be interpreted in a way that would be inconsistent with
 compliance with those duties.
-ISBN: 978-1-4731-1286-5
-Endorsing organisation
-This quality standard has been endorsed by Department of Health and Social Care, as
-required by the Health and Social Care Act (2012)
-Supporting organisations
-Many organisations share NICE's commitment to quality improvement using evidence-
-based guidance. The following supporting organisations have recognised the benefit of
-the quality standard in improving care for patients, carers, service users and members of
-the public. They have agreed to work with NICE to ensure that those commissioning or
-providing services are made aware of and encouraged to use the quality standard.
-• Anticoagulation Europe
-• Arrhythmia Alliance
-• Alzheimer's Society
-• UK Clinical Pharmacy Association (UKCPA)
-• AF Association
-• Heart Valve Voice
-• Society for Acute Medicine (SAM)

@@ -1,49 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "highsensitivity-troponin-tests-for-the-early-rule-out-of-nstemi-pdf-1809596466861253.pdf",
-  "converted_date": "2026-01-31T14:49:23.076626",
-  "file_size_bytes": 232569,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/highsensitivity-troponin-tests-for-the-early-rule-out-of-nstemi-pdf-1809596466861253.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-High-sensitivity troponin
-tests for the early rule out
-of NSTEMI
-HealthTech guidance
-Published: 26 August 2020
-www.nice.org.uk/guidance/htg552
-
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
-
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
-This guidance replaces DG15 and DG40.
+High-sensitivity troponin tests for the early rule out of NSTEMI
 1 Recommendations
 1.1 The following high-sensitivity troponin tests are recommended as options for the
 early rule out of non-ST-segment elevation myocardial infarction (NSTEMI) in
@@ -67,7 +22,7 @@ detection, which will vary depending on the assay being used. If this sample
 is positive it should not be used to rule in NSTEMI.
 • Multiple sample strategies, which typically include a sample at initial
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 assessment followed by a second sample taken at 30 minutes to 3 hours (if
 clinically appropriate) and use of 99th percentile thresholds or thresholds at
 or near the limit of detection of the assay.
@@ -98,11 +53,11 @@ reagents as alternative versions of the tests that do have diagnostic accuracy e
 and were included in the economic model. The main difference is that they are run on
 different analysers. They are therefore also recommended.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 Although the TriageTrue test has the potential to be cost effective, its diagnostic accuracy
 when used on whole blood is uncertain.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 2 The diagnostic tests
 Clinical need and practice
 2.1 Chest pain and suspected myocardial infarction were the cause of about 5% of all
@@ -134,7 +89,7 @@ an emergency department with chest pain and suspected acute coronary
 syndrome. Since that guidance was published, NICE's guideline on recent-onset
 chest pain of suspected cardiac origin has been updated to include high-
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 sensitivity troponin tests. But stakeholder feedback suggests that high-sensitivity
 troponin testing used with early rule-out strategies has not been routinely
 adopted in the NHS and, if it has, there is wide variation in how it is being done.
@@ -158,7 +113,7 @@ percentile cut-offs are:
 Each 99th percentile has a coefficient of variation (CV) of less than 10%. The
 test can detect troponin I in more than 97% of the reference population.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 ARCHITECT STAT High Sensitive Troponin-I assay (Abbott
 Diagnostics)
 2.7 The ARCHITECT test is designed to be used in a laboratory with the Abbott
@@ -186,7 +141,7 @@ particle chemiluminescent immunoassay for the in-vitro quantitative
 determination of troponin I in serum and plasma samples. Test results are
 available in 18 minutes. Recommended 99th percentile cut-offs are:
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 • 47.34 ng/litre in lithium heparin and 46.47 ng/litre in serum for the whole
 population
 • 36.99 ng/litre in lithium heparin and 39.59 ng/litre in serum for women
@@ -213,7 +168,7 @@ Dimension EXL analyser. It is a magnetic latex particle chemiluminescent
 immunoassay for the in-vitro quantitative determination of troponin I in serum and
 plasma samples. Test results are available in 18 minutes. Recommended 99th
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 percentile cut-offs are:
 • 60.4 ng/litre in lithium heparin and 58.2 ng/litre in serum for the whole
 population
@@ -240,7 +195,7 @@ the Roche cobas e411, e601, and e602 analysers. The company says that
 performance is the same when used on these analysers. The test can also be run
 on the cobas e801 analyser, which is designed for very high throughput as both a
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 standard and STAT test. The Elecsys test is a sandwich
 electrochemiluminescence immunoassay for in-vitro quantitative determination of
 troponin T in serum and plasma samples. Results are available in 18 minutes with
@@ -268,7 +223,7 @@ analysers: VITROS ECi/ECiQ/3600 Immunodiagnostic Systems and the VITROS
 5600/XT 7600 Integrated System. It is an immunometric immunoassay for the in-
 vitro quantitative determination of troponin I in serum and plasma samples. Test
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 results are available in 15 minutes. Recommended 99th percentile cut-offs are:
 • 11 ng/litre in lithium heparin and serum for the whole population
 • 9 ng/litre in lithium heparin and serum for women
@@ -286,7 +241,7 @@ The comparator
 2.17 The comparator was standard troponin testing over 10 to 12 hours from symptom
 onset used with early rule-out strategies.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 3 Evidence
 The diagnostics advisory committee considered evidence on high-sensitivity troponin
 tests for the early rule out of non-ST-segment elevation myocardial infarction (NSTEMI)
@@ -315,7 +270,7 @@ single high-sensitivity test were assessed using the QUADAS-2 tool. Studies that
 provided data for 2 or more high-sensitivity tests were assessed using the
 QUADAS-2C tool.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 Randomised controlled trials
 3.6 Both trials used the ARCHITECT test.
 3.7 The High-STEACS trial evaluated the implementation of an early rule-out strategy
@@ -344,7 +299,7 @@ High-STEACS concluded that implementing an early rule-out strategy was not
 associated with any increase in myocardial infarction or cardiovascular death
 within 1 year of initial presentation.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 Diagnostic test accuracy
 Elecsys troponin T-high sensitive assay
 3.11 Summary estimates of sensitivity and specificity from testing a single sample,
@@ -377,7 +332,7 @@ ARCHITECT STAT High Sensitive Troponin-I assay
 diagnostic threshold of the 99th percentile for the general population were 75%
 (95% CI 65 to 82) and 94% (95% CI 94 to 96) respectively, based on data from 5
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 studies. These estimates were similar if the analysis was restricted to studies that
 excluded people with STEMI. The summary estimates of sensitivity and
 specificity, using a limit of detection threshold (2 ng/litre) in a single sample taken
@@ -409,7 +364,7 @@ combining an initial concentration of less than 5 ng/litre and an absolute chang
 in troponin concentration, from 0 to 1 hour, of less than 4 ng/litre), giving
 sensitivity and specificity estimates of 99% (95% CI 94 to 100) and 70% (95% CI
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 66 to 74) respectively for NSTEMI. The second study assessed a similar strategy,
 but with repeat testing at 2 hours. The sensitivity estimates were similar for the 2
 strategies, but the specificity of the 2-hour repeat testing strategy was higher
@@ -436,7 +391,7 @@ less than 5 ng/litre and an absolute change in troponin concentration, from 0 to
 1 hour, of less than 3 ng/litre. The reported sensitivity of this strategy was 100%
 (95% CI 97 to 100) and the specificity was 66% (95% CI 62 to 70) for NSTEMI.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 ADVIA Centaur high-sensitivity Troponin I assay
 3.20 Three studies evaluated the ADVIA Centaur test. Using a rule-out threshold of
 2 ng/litre in a single sample taken on presentation, the sensitivity and specificity
@@ -468,7 +423,7 @@ and an absolute change of less than 2 ng/litre within 1 hour. The sensitivity of
 strategy was 100% (95% CI 97 to 100) and specificity was 66% (95% CI 62 to 69)
 for NSTEMI.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 Diagnostic accuracy in relevant subgroups
 3.23 The EAG identified some data on the subgroups described in the scope for this
 guidance. In a study using the Elecsys test and a 99th percentile threshold on a
@@ -501,7 +456,7 @@ women.
 how diagnostic performance varies with renal function. All studies show a
 decrease in specificity as renal function decreases.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 Comparative diagnostic accuracy for more than 1 test
 3.26 Seven studies reported accuracy data for more than 1 test.
 3.27 The APACE study provided data on the ESC 0/1-hour pathway using the Elecsys,
@@ -533,7 +488,7 @@ in men at 3 hours, or
 • an absolute change of less than 50% of the 99th percentile at 0 to 3 hours.
 The sensitivity and specificity estimates for the ESC 0/3-hour rule-out
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 pathway were both less than 97% using either test.
 3.30 The HIGH-US study compared 2 Siemens tests (Atellica and ADVIA Centaur),
 using 3 low thresholds and a single sample at presentation. The results showed
@@ -562,7 +517,7 @@ EAG noted that the key drivers of cost effectiveness in the included studies wer
 the accuracy of high-sensitivity troponin tests, and the efficiency of decision
 making once test results were available.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 3.35 The most recent study (Ambavane et al. 2017) reported that a 1-hour strategy
 using high-sensitivity troponin testing had higher sensitivity (87% compared with
 69%) but lower specificity (96% compared with 97%) than standard care. The
@@ -599,7 +554,7 @@ litre at 0 hours
 OR under 12 ng/litre at 0 hours AND an absolute change of less
 than 3 ng/litre at 0 to 1 hour
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 Strategy
 Test Strategy
 number
@@ -644,7 +599,7 @@ ADVIA
 Centaur
 15 Atellica Under 2 ng/litre at 0 hours
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 Strategy
 Test Strategy
 number
@@ -684,7 +639,7 @@ The following health states were included:
 • no acute coronary syndrome and no unstable angina (no ACS, no UA)
 • unstable angina (UA)
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 • post-acute myocardial infarction, treated and untreated (post-AMI)
 • post-acute myocardial infarction with reinfarction (post-AMI with reinfarction)
 • death.
@@ -713,7 +668,7 @@ ensure that the decision tree period and the first cycle summed to 1 year).
 Discount rates of 3.5% and a half-cycle correction were applied for both costs
 and effects.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 Model inputs
 3.41 Estimates for the model input parameters were retrieved from the literature and
 from consulting experts. Accuracy estimates were derived from the systematic
@@ -758,7 +713,7 @@ Vista than 2 ng/litre at 0 to 1 hour (0.02) (0.02)
 10 ARCHITECT Less than 4 ng/litre at 0 hours
 (0.01) (0.01)
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 Sensitivity Specificity
 Number Test Strategy
 (SE) (SE)
@@ -805,7 +760,7 @@ per litre of blood.
 duration of hospital stay in hours before discharge or acute myocardial infarction
 treatment. For test strategies that involved a subsequent test conditional on the
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 outcome of the first test, the rule-out rate for the presentation sample was used
 to calculate the number of subsequent tests. The resource use included a delay
 from the time at which sampling could be done to the time at which results
@@ -836,7 +791,7 @@ treated.
 • Unstable angina is always correctly diagnosed, so is treated.
 • The reinfarction probability for the 'post-AMI with reinfarction' health state is
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 equal to the reinfarction probability for the 'post-AMI' health state.
 • The increased post-acute myocardial infarction reinfarction and mortality
 probabilities for untreated acute myocardial infarction were assumed to last
@@ -869,7 +824,7 @@ high-sensitivity troponin testing resulted in probabilistic incremental cost-
 effectiveness ratios (ICERs) ranging between £34,307 and £36,842,603 savings
 per QALY lost.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 3.49 In the secondary analysis, standard troponin was the cheapest and the least
 effective testing strategy. Compared with standard troponin testing, high-
 sensitivity troponin testing resulted in probabilistic ICERs ranging between
@@ -893,7 +848,7 @@ At extreme values (based on 95% confidence intervals) of these inputs,
 standard troponin testing remains cheaper and less effective than the high-
 sensitivity troponin tests.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 4 Committee discussion
 Quick, accurate tests may reduce anxiety for
 patients and carers
@@ -919,7 +874,7 @@ The comparative accuracy of the different tests is uncertain
 4.3 There were concerns about the level of clinical evidence available for some of the
 tests. Most diagnostic accuracy results related to the Elecsys (30 studies) and
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 ARCHITECT (9 studies) tests. Other tests had less evidence available but were
 mostly still acceptable. The committee noted that there was also limited evidence
 comparing the diagnostic performance of 1 test with another. This meant that
@@ -951,7 +906,7 @@ different test strategies based on specificity because the number of true
 negatives would be affected by the prevalence of NSTEMI in each of the different
 study populations.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 High-sensitivity troponin tests should be used alongside clinical
 judgement
 4.6 Clinical experts noted that the clinical context in which decisions on discharging
@@ -986,7 +941,7 @@ with men. The committee considered that using sex-specific 99th percentile
 thresholds to help diagnose NSTEMI could be a step towards reducing this health
 inequality. It concluded that, when NSTEMI is not ruled out using early rule-out
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 test strategies, NICE's guideline on recent-onset chest pain of suspected cardiac
 origin may be used to help diagnose myocardial infarction, and the use of sex-
 specific thresholds at the 99th percentile should be considered (see section 5.2).
@@ -1015,7 +970,7 @@ concluded that further evidence on TriageTrue's diagnostic performance when
 used on whole blood at the point of care is needed before the test can be
 recommended for use in clinical practice.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 The Alinity, Dimension EXL and Elecsys STAT tests are likely to
 have the same performance as alternative versions of tests
 4.10 The Alinity and Dimension EXL tests were not included in the economic model
@@ -1046,7 +1001,7 @@ manageable and ensure that those considered were likely to be safe in practice.
 The prognostic benefits associated with a false positive high-
 sensitivity troponin test should be incorporated into decision
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 making
 4.12 The secondary analysis incorporated prognostic benefits associated with false
 positive high-sensitivity troponin test results. Clinical experts noted that it is now
@@ -1078,7 +1033,7 @@ not have a substantial effect on the cost-effectiveness results. In addition, cl
 experts noted that people having standard troponin testing and who get a
 negative test result would probably have a hospital length of stay of 24 hours
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 rather than the 14 hours assumed in the economic model. So the benefits of
 using early rule-out strategies may have been underestimated. The external
 assessment group (EAG) commented that changing this assumption would be
@@ -1109,7 +1064,7 @@ and again at 1 to 3 hours after the initial test
 • multiple sample strategies in which people only had a second test (1 hour to
 3 hours after the initial test) if the first test result could not be used to rule
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 out acute myocardial infarction.
 The multiple sample strategies incorporated different thresholds, including
 those at or close to the limit of detection, the general (mixed) population
@@ -1136,7 +1091,7 @@ evidence used to provide the diagnostic accuracy inputs in the model, so
 concluded that further research was needed on the TriageTrue test before it
 could be recommended for routine clinical use.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 Research considerations
 Further research to understand the 99th percentile in population
 subgroups would be useful
@@ -1148,14 +1103,14 @@ without renal disease and black, Asian and minority ethnic groups. The
 committee considered that it would be helpful to have a better understanding of
 differences in the 99th percentile between these subgroups.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 5 Recommendations for further research
 5.1 Further research is recommended on the diagnostic performance of the
 TriageTrue high-sensitivity troponin test using samples at point of care.
 5.2 Further research is recommended on how using sex-specific 99th percentile
 thresholds affects treatment decisions and clinical outcomes for men and women.
 
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
+ 
 6 Implementation
 NICE will support this guidance through a range of activities to promote the
 recommendations for further research. The research proposed will be considered by the
@@ -1163,51 +1118,3 @@ NICE Medical Technologies Evaluation Programme research facilitation team for
 developing specific research study protocols as appropriate. NICE will also incorporate the
 research recommendations in section 5 into its guidance research recommendations
 database and highlight these recommendations to public research bodies.
-
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
-7 Diagnostics advisory committee
-members and NICE project team
-Committee members
-This topic was considered by the diagnostics advisory committee, which is a standing
-advisory committee of NICE.
-Committee members are asked to declare any interests in the test to be assessed. If it is
-considered there is a conflict of interest, the member is excluded from participating further
-in that assessment.
-The minutes of each committee meeting, which include the names of the members who
-attended and their declarations of interests, are posted on the NICE website.
-Additional specialist committee members took part in the discussions for this topic:
-Specialist committee members
-Professor Richard Body
-Clinical Professor of Emergency Medicine, University of Manchester
-Mr Antony Chuter
-Lay specialist
-Professor Paul Collinson
-Professor of Cardiovascular Biomarkers, St George's University Hospitals NHS Foundation
-Trust
-Professor Nicholas Mills
-Chair of Cardiology and Consultant Cardiologist, University of Edinburgh
-Mr Alan Reid
-Scheme Organiser UK NEQAS Cardiac Markers
-
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
-Professor Adam Timmis
-Professor of Clinical Cardiology, Barts Heart Centre
-Mrs Helen Titu
-Advanced Practitioner Emergency Medicine/Cardiology, Wrightington, Wigan and Leigh
-NHS Foundation Trust
-NICE project team
-Each diagnostics assessment is assigned to a team consisting of a technical analyst (who
-acts as the topic lead), a technical adviser and a project manager.
-Simon Webster
-Topic lead
-Frances Nixon
-Technical adviser
-Donna Barnes
-Project manager
-
-High-sensitivity troponin tests for the early rule out of NSTEMI (HTG552)
-Update information
-Minor changes since publication
-December 2025: Diagnostics guidance 40 has been migrated to HealthTech guidance
-552. The recommendations and accompanying content remain unchanged.
-ISBN: 978-1-4731-7381-1

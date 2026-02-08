@@ -1,51 +1,11 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "va-ecmo-for-postcardiotomy-cardiogenic-shock-in-adults-pdf-1899878269022917.pdf",
-  "converted_date": "2026-01-31T14:46:20.016009",
-  "file_size_bytes": 77629,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/va-ecmo-for-postcardiotomy-cardiogenic-shock-in-adults-pdf-1899878269022917.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-VA ECMO for postcardiotomy
-cardiogenic shock in adults
-Interventional procedures guidance
-Published: 18 December 2025
-www.nice.org.uk/guidance/ipg810
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-
-VA ECMO for postcardiotomy cardiogenic shock in adults (IPG810)
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-This guidance replaces IPG482.
+VA ECMO for postcardiotomy cardiogenic shock in adults 
 1 Recommendation
 1.1 Venoarterial extracorporeal membrane oxygenation (VA ECMO) can be used in
 the NHS during the evidence generation period as an option to manage
 postcardiotomy cardiogenic shock (PCS) in adults. There must be enhanced
 informed consent and auditing of outcomes.
 
-VA ECMO for postcardiotomy cardiogenic shock in adults (IPG810)
+ 
 What this means in practice
 There are uncertainties around the safety and efficacy of VA ECMO to manage PCS. It
 could be used if needed while more evidence is generated.
@@ -73,7 +33,7 @@ Patient selection should be done by a multidisciplinary team. The procedure coul
 done in centres specialising in managing PCS and by healthcare professionals with
 specific training in this procedure.
 
-VA ECMO for postcardiotomy cardiogenic shock in adults (IPG810)
+ 
 What evidence generation is needed
 Healthcare professionals must collect data specifically around the safety and efficacy of
 this procedure, including on:
@@ -101,7 +61,7 @@ system, usually through the femoral or axillary artery or ascending aorta. Peopl
 are usually given a continuous infusion of an anticoagulant, usually heparin, to
 prevent blood clotting in the extracorporeal system. For people with poor kidney
 
-VA ECMO for postcardiotomy cardiogenic shock in adults (IPG810)
+ 
 function, a haemofiltration unit may be added to the circuit.
 3 Committee discussion
 The condition
@@ -124,7 +84,7 @@ heart time to recover. ECMO provides circulatory support and allows time for
 other treatments to promote recovery, or may be a bridge to a long-term
 mechanical solution or transplant. It aims to improve patient outcomes.
 
-VA ECMO for postcardiotomy cardiogenic shock in adults (IPG810)
+ 
 The evidence
 3.4 NICE did a rapid review of the published literature on the efficacy and safety of
 this procedure. This comprised a comprehensive literature search and detailed
@@ -152,7 +112,7 @@ other types of data collection such as registries could be useful.
 or in the postpartum period.
 3.12 Clinical experts advised that this procedure could have a better outcome when it
 
-VA ECMO for postcardiotomy cardiogenic shock in adults (IPG810)
+ 
 is used for post-transplant support because of primary graft dysfunction.
 3.13 Some people who had VA ECMO have become organ donors and their organs
 have been transplanted.
@@ -176,25 +136,3 @@ If it is considered there is a conflict of interest, the member is excluded from
 further in that evaluation.
 The minutes of each committee meeting, which include the names of the members who
 attended and their declarations of interests, are posted on the NICE website.
-
-VA ECMO for postcardiotomy cardiogenic shock in adults (IPG810)
-Chair
-Tom Clutton-Brock
-Chair, interventional procedures advisory committee
-NICE project team
-Each evaluation is assigned to a team consisting of 1 or more health technology analysts
-(who act as technical leads for the evaluation), a consultant clinical adviser, a project
-manager and an associate director.
-Xia Li, Jessica Wilcock and Helen Gallo
-Technical leads
-Amy Crossley
-Technical adviser
-Alan Ashworth
-Consultant clinical adviser
-Corrina Purdue
-Project manager
-Anastasia Chalkidou and Emily Eaton Turner
-Associate directors
-ISBN: 978-1-4731-7488-7
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

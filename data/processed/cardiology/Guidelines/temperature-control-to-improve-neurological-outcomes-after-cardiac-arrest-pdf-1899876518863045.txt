@@ -1,45 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "temperature-control-to-improve-neurological-outcomes-after-cardiac-arrest-pdf-1899876518863045.pdf",
-  "converted_date": "2026-01-31T14:46:20.738790",
-  "file_size_bytes": 69987,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/temperature-control-to-improve-neurological-outcomes-after-cardiac-arrest-pdf-1899876518863045.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Temperature control to improve
-neurological outcomes after
-cardiac arrest
-Interventional procedures guidance
-Published: 23 January 2024
-www.nice.org.uk/guidance/ipg782
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-
-Temperature control to improve neurological outcomes after cardiac arrest (IPG782)
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-This guidance replaces IPG386.
+Temperature control to improve neurological outcomes after cardiac arrest
 1 Recommendations
 To prevent fever
 1.1 Use temperature control as an option to prevent fever and improve neurological
@@ -57,7 +16,7 @@ research ethics committee needs to have approved its use.
 1.5 More research, in the form of randomised controlled trials, is needed on:
 • patient selection
 
-Temperature control to improve neurological outcomes after cardiac arrest (IPG782)
+ 
 • timing of the intervention
 • degree and duration of temperature control
 • neurological outcomes
@@ -84,7 +43,7 @@ The condition
 fails to contract effectively. The underlying abnormal cardiac rhythms most
 commonly associated with cardiac arrest are:
 
-Temperature control to improve neurological outcomes after cardiac arrest (IPG782)
+ 
 • ventricular fibrillation (VF)
 • asystole
 • pulseless electrical activity
@@ -111,7 +70,7 @@ mechanism by which cooling may protect against brain injury is unclear. Possible
 mechanisms include reductions in metabolic demand, release of excitatory
 neurotransmitters and inflammation after ischaemia.
 
-Temperature control to improve neurological outcomes after cardiac arrest (IPG782)
+ 
 2.5 Temperature control is done using either:
 • surface techniques (for example, heat exchange cooling pads, cooling
 blankets and ice packs), or
@@ -138,7 +97,7 @@ outcomes to be:
 • reduction in long-term neurological disability
 • independent living
 
-Temperature control to improve neurological outcomes after cardiac arrest (IPG782)
+ 
 • quality of life
 • reduction in length of critical care and hospital stay.
 3.3 The professional experts and the committee considered the key safety outcomes
@@ -156,6 +115,3 @@ arrest.
 before admission to hospital can cause side effects such as pulmonary oedema.
 3.7 The committee was informed that additional RCTs comparing temperature control
 for fever prevention with no intervention are unlikely to be done.
-ISBN: 978-1-4731-5686-9
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

@@ -1,16 +1,1 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Endothelial Cell Regulation of Lipid Uptake During Feeding and Fasting _ Arteriosclerosis, Thrombosis, and Vascular Biology.html",
-  "converted_date": "2026-01-31T14:51:23.337513",
-  "file_size_bytes": 558851,
-  "original_format": "html",
-  "document_type": "Articles",
-  "source_folder": "Articles",
-  "full_path": "00_RAW_CARDIOLOGY/Articles/Endothelial Cell Regulation of Lipid Uptake During Feeding and Fasting _ Arteriosclerosis, Thrombosis, and Vascular Biology.html"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Endothelial Cell Regulation of Lipid Uptake During Feeding and Fasting | Arteriosclerosis, Thrombosis, and Vascular Biology
-Abstract
 Long-chain fatty acids in the blood are prevented from unfettered movement into nonfenestrated tissues or the arterial wall. During fasting, nonesterified FAs are released from adipose tissue into the circulation and bind to albumin, forming a complex >65 kDa, with limited ability to efficiently cross endothelial cell (EC) barriers without a specific receptor. For this reason, nonhepatic tissue distribution of circulating FA parallels EC expression of the FA-binding protein CD36 (cluster of differentiation 36). The deletion of CD36 in ECs reduces nonesterified FA uptake by the heart, muscle, and brown adipose tissue. The other major transport system for FAs is via lipoproteins. Circulating FAs are contained within TRLs (triglyceride-rich lipoproteins), chylomicrons during the postprandial period, and VLDL (very low-density lipoprotein) both postprandially and during fasting. LPL (lipoprotein lipase) on capillary ECs releases FAs from TRLs and likely allows their passage into tissues, in part, via a CD36-independent process. ECs can also internalize lipoprotein particles, followed by the transendothelial movement of lipids. In this review, we will discuss the pathways of EC uptake of FAs from circulation, how this process affects both EC and tissue biology, and the importance of these processes for systemic metabolism and vascular health. We will conclude with speculations on methods to modulate EC FA uptake and their implications for human health.

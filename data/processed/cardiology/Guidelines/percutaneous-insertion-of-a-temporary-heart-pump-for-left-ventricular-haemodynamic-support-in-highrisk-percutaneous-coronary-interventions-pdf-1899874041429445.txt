@@ -1,36 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "percutaneous-insertion-of-a-temporary-heart-pump-for-left-ventricular-haemodynamic-support-in-highrisk-percutaneous-coronary-interventions-pdf-1899874041429445.pdf",
-  "converted_date": "2026-01-31T14:51:21.808704",
-  "file_size_bytes": 66024,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/percutaneous-insertion-of-a-temporary-heart-pump-for-left-ventricular-haemodynamic-support-in-highrisk-percutaneous-coronary-interventions-pdf-1899874041429445.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Percutaneous insertion of a
-temporary heart pump for left
-ventricular haemodynamic
-support in high-risk
-percutaneous coronary
-interventions
-Interventional procedures guidance
-Published: 28 November 2018
-www.nice.org.uk/guidance/ipg633
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-
 Percutaneous insertion of a temporary heart pump for left ventricular haemodynamic
-support in high-risk percutaneous coronary interventions (IPG633)
+support in high-risk percutaneous coronary interventions
 All problems (adverse events) related to a medicine or medical device used for treatment
 or in a procedure should be reported to the Medicines and Healthcare products Regulatory
 Agency using the Yellow Card Scheme.
@@ -61,9 +30,6 @@ and efficacy and provide them with clear written information to support shared
 decision-making. In addition, the use of NICE's information for the public on
 percutaneous insertion of a temporary heart pump for left ventricular
 haemodynamic support is recommended.
-
-Percutaneous insertion of a temporary heart pump for left ventricular haemodynamic
-support in high-risk percutaneous coronary interventions (IPG633)
 • Details of all patients should be entered into the British Cardiovascular
 Intervention Society percutaneous coronary interventions database (BCIS PCI
 database).
@@ -92,9 +58,6 @@ or in urgent procedures. The aim is to support the patient's circulatory
 system, provide blood flow to increase cardiac output, unload the
 ventricle and improve blood flow to maintain haemodynamic stability.
 This minimises myocardial ischemia and reduces the risk of
-
-Percutaneous insertion of a temporary heart pump for left ventricular haemodynamic
-support in high-risk percutaneous coronary interventions (IPG633)
 haemodynamic collapse during the procedure. Intra-aortic balloon
 pumps or extra-corporeal pumps may be used for temporary
 percutaneous mechanical haemodynamic support. Percutaneous left
@@ -124,9 +87,6 @@ comprehensive literature search and detailed review of the evidence
 from 10 sources, which was discussed by the committee. The evidence
 included 4 systematic reviews, 3 case series, 1 randomised controlled
 trial and 2 case reports, and is presented in table 2 of the interventional
-
-Percutaneous insertion of a temporary heart pump for left ventricular haemodynamic
-support in high-risk percutaneous coronary interventions (IPG633)
 procedures overview. Other relevant literature is in appendix A of the
 overview.
 3.2 The specialist advisers and the committee considered the key efficacy
@@ -151,9 +111,3 @@ include patients who have had previous coronary artery surgery.
 technology.
 • More than 1 device is available for use in this procedure and the technology is
 evolving.
-ISBN: 978-1-4731-3168-2
-
-Percutaneous insertion of a temporary heart pump for left ventricular haemodynamic
-support in high-risk percutaneous coronary interventions (IPG633)
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

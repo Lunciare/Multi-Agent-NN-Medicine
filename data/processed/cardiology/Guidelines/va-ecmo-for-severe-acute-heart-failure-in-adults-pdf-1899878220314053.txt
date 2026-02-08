@@ -1,44 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "va-ecmo-for-severe-acute-heart-failure-in-adults-pdf-1899878220314053.pdf",
-  "converted_date": "2026-01-31T14:49:29.093779",
-  "file_size_bytes": 88391,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/va-ecmo-for-severe-acute-heart-failure-in-adults-pdf-1899878220314053.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-VA ECMO for severe acute heart
-failure in adults
-Interventional procedures guidance
-Published: 22 October 2025
-www.nice.org.uk/guidance/ipg807
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-
-VA ECMO for severe acute heart failure in adults (IPG807)
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-This guidance replaces IPG482.
+VA ECMO for severe acute heart failure in adults
 1 Recommendations
 As a bridge to recovery, heart transplant or
 implanted LVAD
@@ -54,7 +14,7 @@ transplant or an implanted LVAD is unsuitable, before it can be used in the NHS.
 1.3 This procedure should only be done as part of formal research and an NHS
 research ethics committee needs to have approved its use.
 
-VA ECMO for severe acute heart failure in adults (IPG807)
+ 
 What this means in practice
 As a bridge to recovery, a heart transplant or an implanted LVAD
 There is enough evidence on the safety and efficacy of this procedure for healthcare
@@ -82,7 +42,7 @@ into the cardiogenic shock module in the Intensive Care National Audit and Resea
 Centre Case Mix Programme.
 Who should be involved in the procedure
 
-VA ECMO for severe acute heart failure in adults (IPG807)
+ 
 Patient selection should be done by a multidisciplinary team. The procedure could be
 done in centres specialising in managing severe acute heart failure and by healthcare
 professionals with specific training in this procedure.
@@ -108,7 +68,7 @@ from VA ECMO. This may be because of the cause of their severe acute heart failu
 because of their comorbidities. For this group, more research is needed on who might
 benefit from VA ECMO, so it should only be used in research.
 
-VA ECMO for severe acute heart failure in adults (IPG807)
+ 
 2 Information about the procedure
 2.1 Venoarterial extracorporeal membrane oxygenation (VA ECMO) can be used for
 adults with severe acute heart failure as a bridge to recovery, or to having a heart
@@ -136,7 +96,7 @@ failure (see NICE's guideline on acute heart failure: diagnosis and management).
 Acute heart failure includes sudden significant deterioration in people with known
 cardiac dysfunction or the new onset of symptoms in people without previous
 
-VA ECMO for severe acute heart failure in adults (IPG807)
+ 
 cardiac dysfunction. Treatment involves medicines, including diuretics and
 inotropes, and invasive treatments such as:
 • electrophysiological interventions such as pacemakers or implantable
@@ -165,7 +125,7 @@ controlled trials, 1 retrospective registry study, 2 single centre retrospective
 studies, and 1 review and case series. It is presented in the summary of key
 evidence section in the interventional procedures overview. Other relevant
 
-VA ECMO for severe acute heart failure in adults (IPG807)
+ 
 literature is in the appendix of the overview.
 3.5 The professional experts and the committee considered the key efficacy
 outcomes to be: survival, restoration of organ function, and bridging to recovery,
@@ -191,7 +151,7 @@ perfusion has been in use.
 3.13 The recommendations in this guidance include the use of VA ECMO during
 pregnancy or in the postpartum period.
 
-VA ECMO for severe acute heart failure in adults (IPG807)
+ 
 3.14 The committee was told that a high level of nursing expertise and input from a
 perfusionist are needed to support people on VA ECMO.
 3.15 Some people who had VA ECMO have become organ donors, and their organs
@@ -212,36 +172,3 @@ Pregnancy and maternity are protected characteristics under the Equality Act
 (2010). Women, trans men and non-binary people with severe acute heart
 failure who are pregnant, or who have recently been pregnant, may need to
 access this intervention.
-4 Committee members and NICE project
-team
-This topic was considered by NICE's interventional procedures advisory committee, which
-is a standing advisory committee of NICE.
-
-VA ECMO for severe acute heart failure in adults (IPG807)
-Committee members are asked to declare any interests in the technology to be evaluated.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that evaluation.
-The minutes of each committee meeting, which include the names of the members who
-attended and their declarations of interests, are posted on the NICE website.
-Chair
-Tom Clutton-Brock
-Chair, interventional procedures advisory committee
-NICE project team
-Each evaluation is assigned to a team consisting of 1 or more health technology analysts
-(who act as technical leads for the evaluation), a consultant clinical adviser, a project
-manager and an associate director.
-Xia Li, Jessica Wilcock and Helen Gallo
-Technical leads
-Amy Crossley
-Technical adviser
-Alan Ashworth
-Consultant clinical adviser
-Corrina Purdue
-Project manager
-Anastasia Chalkidou and Emily Eaton Turner
-Associate directors
-ISBN: 978-1-4731-7252-4
-
-VA ECMO for severe acute heart failure in adults (IPG807)
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

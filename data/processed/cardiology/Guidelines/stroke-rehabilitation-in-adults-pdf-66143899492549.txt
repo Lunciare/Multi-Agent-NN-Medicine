@@ -1,87 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "stroke-rehabilitation-in-adults-pdf-66143899492549.pdf",
-  "converted_date": "2026-01-31T14:46:00.423366",
-  "file_size_bytes": 372816,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/stroke-rehabilitation-in-adults-pdf-66143899492549.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Stroke rehabilitation in
-adults
-NICE guideline
-Published: 18 October 2023
-www.nice.org.uk/guidance/ng236
-
-Stroke rehabilitation in adults (NG236)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Stroke rehabilitation in adults (NG236)
-
-Stroke rehabilitation in adults (NG236)
-Telerehabilitation ................................................................................................................................... 52
-Fatigue ................................................................................................................................................... 53
-Vision ...................................................................................................................................................... 55
-Hearing ................................................................................................................................................... 56
-Mouth care ............................................................................................................................................. 57
-Swallowing ............................................................................................................................................. 58
-Communication ...................................................................................................................................... 59
-Robot-assisted arm training ................................................................................................................. 60
-Walking therapies and group circuit training ...................................................................................... 61
-Mirror therapy for the upper or lower limb ......................................................................................... 62
-Music therapy and interventions ......................................................................................................... 64
-Managing shoulder pain ....................................................................................................................... 64
-Spasticity ............................................................................................................................................... 65
-Returning to work .................................................................................................................................. 68
-Self-management interventions .......................................................................................................... 68
-Community participation programmes ................................................................................................ 69
-Context ........................................................................................................................................ 70
-Finding more information and committee details .................................................................... 71
-Update information .................................................................................................................... 72
-
-Stroke rehabilitation in adults (NG236)
-This guideline replaces CG162.
-This guideline is the basis of QS2 and QS181.
-Overview
-This guideline covers rehabilitation after stroke for over 16s. It aims to ensure people are
-assessed for common problems and conditions linked to stroke, and get the care and
-therapy they need. It includes recommendations on the organisation and delivery of
-rehabilitation in hospital and the community.
-NICE has also produced a guideline on the diagnosis and initial management of stroke
-transient ischaemic attack in over 16s.
-Who is it for?
-• Healthcare professionals
-• Social care practitioners
-• Commissioners and providers
-• Voluntary organisations
-• All adults and young people aged 16 and over who have had a stroke and their families
-and carers
-
-Stroke rehabilitation in adults (NG236)
+Stroke rehabilitation in adults
 Recommendations
 People have the right to be involved in discussions and make informed decisions
 about their care, as described in NICE's information on making decisions about your
@@ -107,7 +24,7 @@ from a specialist stroke team in the community. [2013, amended 2023]
 • be led by a core multidisciplinary stroke rehabilitation team (see
 recommendation 1.1.3) with expertise in working alongside people who have
 
-Stroke rehabilitation in adults (NG236)
+ 
 had a stroke, and their families and carers, to manage the changes
 experienced as a result of stroke
 • provide access to other services that may be needed, for example:
@@ -133,7 +50,7 @@ following professionals with expertise in stroke rehabilitation:
 • clinical psychologists or clinical neuropsychologists
 • orthoptists
 
-Stroke rehabilitation in adults (NG236)
+ 
 • rehabilitation assistants
 • social workers. [2013, amended 2023]
 1.1.4 Throughout the care pathway, document the roles and responsibilities of
@@ -163,7 +80,7 @@ supported discharge
 1.1.8 Once the person has left hospital after having a stroke, continue their
 care and rehabilitation for as long as it continues to help them achieve
 
-Stroke rehabilitation in adults (NG236)
+ 
 their treatment goals. [2023]
 1.1.9 Offer early supported discharge to people after stroke who can move
 from a bed to a chair independently or with assistance, as long as a safe
@@ -194,7 +111,7 @@ family members and carers (as appropriate), and provide this to all
 relevant health and social care providers. [2013]
 1.1.13 Before transfer of care from hospital to home:
 
-Stroke rehabilitation in adults (NG236)
+ 
 • establish that the person has a safe and enabling home environment (for
 example, check that their home or care home has the necessary equipment,
 any adaptations have been made, and that carers have the support they need
@@ -225,7 +142,7 @@ own homes. [2013]
 1.1.16 Local health and social care providers should have standard operating
 procedures to ensure the safe transfer and long-term care of people
 
-Stroke rehabilitation in adults (NG236)
+ 
 after stroke, including those in care homes. This should include timely
 exchange of information between different providers using local
 protocols. [2013]
@@ -252,7 +169,7 @@ to ensure their safety and comfort:
 • their communication, including their ability to understand and follow
 instructions and to convey their needs and wishes
 
-Stroke rehabilitation in adults (NG236)
+ 
 • their nutritional status and hydration (follow NICE's guidelines on stroke and
 transient ischaemic attack in over 16s and nutrition support for adults). [2013]
 1.2.2 Perform a full medical assessment of the person after stroke, including
@@ -282,7 +199,7 @@ admission and discharge:
 Health Stroke Scale and the Barthel Index
 • feed this information back to the multidisciplinary team regularly. [2013]
 
-Stroke rehabilitation in adults (NG236)
+ 
 1.2.5 Take into account the impact of stroke on the person's family, friends
 and carers and, if appropriate, identify sources of support for them.
 [2013]
@@ -309,7 +226,7 @@ goals. [2013]
 each goal-setting meeting. [2013]
 1.2.11 Review people's goals at regular intervals during their stroke
 
-Stroke rehabilitation in adults (NG236)
+ 
 rehabilitation. [2013]
 Planning rehabilitation
 1.2.12 Provide information and support to enable the person after stroke and
@@ -336,7 +253,7 @@ Intensity of stroke rehabilitation
 1.2.15 For information on high-intensity mobilisation during the first 24 hours
 after the onset of stroke symptoms, see recommendation 1.7.3 in the
 
-Stroke rehabilitation in adults (NG236)
+ 
 section on early mobilisation in NICE's guideline on stroke and transient
 ischaemic attack in over 16s. [2023]
 1.2.16 Offer needs-based rehabilitation to people after stroke. This should be
@@ -366,7 +283,7 @@ communication or cognitive needs (for example, by holding joint speech
 and language therapy and physiotherapy sessions for those with
 communication difficulties). [2023]
 
-Stroke rehabilitation in adults (NG236)
+ 
 1.2.22 When planning or delivering rehabilitation for people after they have left
 hospital:
 • check whether they will be at their own home or elsewhere after discharge (for
@@ -394,7 +311,7 @@ and any training or technical support they need to use it. [2023]
 are:
 • benefiting from this method of delivering therapy and
 
-Stroke rehabilitation in adults (NG236)
+ 
 • are not developing symptoms or signs of depression. [2023]
 For a short explanation of why the committee made the 2023 recommendations and
 how they might affect practice, see the rationale and impact section on
@@ -423,7 +340,7 @@ informal carers, see NICE's guideline on supporting adult carers.
 impairment is identified, carry out a detailed assessment using valid,
 reliable and responsive tools before designing a treatment programme.
 
-Stroke rehabilitation in adults (NG236)
+ 
 [2013]
 1.5.2 Provide education and support for people after stroke, and their families
 and carers, to help them understand the extent and impact of cognitive
@@ -452,7 +369,7 @@ relevant functional tasks, taking into account the underlying impairment.
 Interventions could include:
 • increasing the person's own awareness of the memory impairment
 
-Stroke rehabilitation in adults (NG236)
+ 
 • enhancing learning using errorless learning and elaborative techniques (making
 associations, use of mnemonics and internal strategies related to encoding
 information such as 'preview, question, read, state, test')
@@ -480,7 +397,7 @@ take into account the type or complexity of the person's
 neuropsychological presentation and relevant personal history. [2013]
 1.6.3 Support and educate people and their families and carers to help them
 
-Stroke rehabilitation in adults (NG236)
+ 
 make an emotional adjustment after stroke, recognising that their
 psychological needs may change over time and in different settings.
 [2013]
@@ -507,7 +424,7 @@ optional tool for the assessment of fatigue.
 1.8.1 Offer people who are in hospital after stroke a specialist orthoptist
 assessment as soon as possible. If this cannot be done before discharge,
 
-Stroke rehabilitation in adults (NG236)
+ 
 offer the person an urgent outpatient appointment. [2023]
 1.8.2 Offer eye movement therapy to people who have persisting hemianopia
 (blindness in 1 half of the visual field of 1 or both eyes) after stroke.
@@ -533,7 +450,7 @@ how they might affect practice, see the rationale and impact section on hearing.
 Full details of the evidence and the committee's discussion are in evidence review D:
 optimal tool for hearing assessment.
 
-Stroke rehabilitation in adults (NG236)
+ 
 1.10 Mouth care
 1.10.1 Assess oral hygiene in people after stroke using national or local
 protocols. [2023]
@@ -560,7 +477,7 @@ is coughing or choking while eating or drinking. [2023]
 1.11.4 If the person has dysphagia and is unable to take tablets, review the
 need for the medication and, if it is still needed, change either its
 
-Stroke rehabilitation in adults (NG236)
+ 
 formulation or the route of administration. [2023]
 1.11.5 Support people who have oropharyngeal dysphagia (OPD) to eat and
 drink as safely as possible, using 1 or more of the following methods (as
@@ -590,7 +507,7 @@ guidelines on nutrition support for adults and stroke and transient
 ischaemic attack in over 16s. [2013]
 1.11.11 If the person with dysphagia is at risk of aspiration but wishes to eat and
 
-Stroke rehabilitation in adults (NG236)
+ 
 drink without the assistance of aids and interventions (such as the
 methods listed in recommendations 1.11.5 to 1.11.7 for people with OPD):
 • respect their choice (in line with NICE's guideline on patient experience in adult
@@ -619,7 +536,7 @@ supervised by a specialist speech and language therapist working
 collaboratively with other appropriately trained people (for example,
 speech and language therapy assistants, carers and friends, or members
 
-Stroke rehabilitation in adults (NG236)
+ 
 of the voluntary sector). [2013]
 1.12.6 Provide opportunities for people with communication difficulties after
 stroke to have conversations and social contact with people who have
@@ -650,7 +567,7 @@ communication props
 and health and social care staff) to develop supportive communication skills to
 maximise the person's communication potential
 
-Stroke rehabilitation in adults (NG236)
+ 
 • help people with aphasia or dysarthria, and their families and carers, to adjust
 to communication impairment
 • support people with communication difficulties to rebuild their identity
@@ -679,7 +596,7 @@ how it might affect practice, see the rationale and impact section on communicat
 Full details of the evidence and the committee's discussion are in evidence review K:
 computer-based tools for speech and language therapy.
 
-Stroke rehabilitation in adults (NG236)
+ 
 1.13 Movement
 1.13.1 Provide physiotherapy for people after stroke who have weakness in
 their trunk or upper or lower limbs, sensory disturbance or balance
@@ -709,7 +626,7 @@ to continue the programme independently. [2013]
 independently, ensure physiotherapists supply any necessary
 information about interventions and adaptations to the provider so they
 
-Stroke rehabilitation in adults (NG236)
+ 
 can make sure the programme is:
 • safe for the person and
 • tailored to their needs and goals.
@@ -737,7 +654,7 @@ established. [2013]
 1.13.13 Teach the person after stroke, and their family members and carers, how
 to put the splint on and take it off, care for it and monitor for signs of
 
-Stroke rehabilitation in adults (NG236)
+ 
 redness and skin breakdown. Provide a point of contact for the person if
 concerned. [2013]
 Electrical stimulation therapy for the upper limb
@@ -764,7 +681,7 @@ robot-assisted arm training.
 Constraint-induced movement therapy
 1.13.19 Consider constraint-induced movement therapy for people after stroke
 
-Stroke rehabilitation in adults (NG236)
+ 
 who have movement of 20 degrees of wrist extension and 10 degrees of
 finger extension. Be aware of potential adverse events (such as falls, low
 mood and fatigue). [2013]
@@ -792,7 +709,7 @@ and group circuit training.
 Full details of the evidence and the committee's discussion are in evidence review L:
 circuit training for walking.
 
-Stroke rehabilitation in adults (NG236)
+ 
 Electromechanical gait training
 1.13.24 Offer electromechanical gait training to people after stroke only in the
 context of a research study. [2013]
@@ -820,7 +737,7 @@ programme. [2023]
 Sessions should be:
 • around 30 minutes long, held at least 5 times per week over 4 weeks and
 
-Stroke rehabilitation in adults (NG236)
+ 
 • supervised initially and, if necessary, for longer. [2023]
 For a short explanation of why the committee made the 2023 recommendations and
 how they might affect practice, see the rationale and impact section on mirror therapy
@@ -846,7 +763,7 @@ use the results of the assessment to decide how to manage the pain.
 shoulder pain. [2013, amended 2023]
 1.14.4 Consider 1 or more of the following options for managing shoulder pain:
 
-Stroke rehabilitation in adults (NG236)
+ 
 • taping
 • neuromuscular electrical stimulation (NMES)
 • intra-articular corticosteroid injection
@@ -872,7 +789,7 @@ manage focal or generalised spasticity in people after stroke:
 • splints, when needed (see the section on wrist and hand splints)
 • advice on identifying and managing triggers of spasticity. [2023]
 
-Stroke rehabilitation in adults (NG236)
+ 
 1.15.5 For people who have focal spasticity of the upper limb after stroke,
 consider treatment with either Dysport at a dose of up to 1,000 units per
 treatment or with Xeomin at a dose of up to 400 units per treatment,
@@ -899,7 +816,7 @@ how they might affect practice, see the rationale and impact section on spastici
 Full details of the evidence and the committee's discussion are in evidence review P:
 spasticity.
 
-Stroke rehabilitation in adults (NG236)
+ 
 1.16 Self-care
 1.16.1 Provide occupational therapy for people after stroke who are likely to
 benefit from it and to address difficulties with activities of daily living.
@@ -929,7 +846,7 @@ Returning to work
 1.16.4 Identify any return-to-work issues for the person as soon as possible
 after stroke. Review these regularly and manage them actively, for
 
-Stroke rehabilitation in adults (NG236)
+ 
 example by:
 • identifying the physical, cognitive, communication and psychological demands
 of the job (such as multi-tasking by answering emails and telephone calls in a
@@ -957,7 +874,7 @@ Self-management interventions
 NICE has made a recommendation for research about self-management interventions for
 people after stroke.
 
-Stroke rehabilitation in adults (NG236)
+ 
 For a short explanation of why the committee made this recommendation for
 research, see the rationale section on self-management interventions.
 Full details of the evidence and the committee's discussion are in evidence review F:
@@ -986,7 +903,7 @@ incontinence in neurological disease and faecal incontinence in adults.
 [2013]
 1.17.5 Review the health and social care needs of people after stroke, and the
 
-Stroke rehabilitation in adults (NG236)
+ 
 needs of their carers, at 6 months and then annually. These reviews
 should cover participation in activities of everyday life to ensure that
 people's goals are met. [2013]
@@ -1011,7 +928,7 @@ Apraxia of speech
 Difficulty in controlling the muscles for speech because of damage to the brain, which can
 affect speech or changes in the rhythm or rate of speaking.
 
-Stroke rehabilitation in adults (NG236)
+ 
 Community participation programmes
 Programmes encouraging involvement in social activities that either take place outside the
 home or are non-domestic. They focus on providing education, support or practice in
@@ -1039,12 +956,12 @@ which has a bed area, dining area, gym, and access to assessment kitchens.
 Telerehabilitation
 Rehabilitation delivered remotely instead of face-to-face interaction between the person
 
-Stroke rehabilitation in adults (NG236)
+ 
 after stroke and the healthcare professional. Components can include interventions,
 supervision, education, consultations and counselling. This may be delivered in real time
 (synchronous) or with delay where immediate response is not required (asynchronous).
 
-Stroke rehabilitation in adults (NG236)
+ 
 Recommendations for research
 Key recommendations for research
 1 Intensity of rehabilitation – therapy for 7 days a week
@@ -1066,7 +983,7 @@ difficulties
 For people after stroke with communication difficulties, what is the optimal tool for
 assessing fatigue? [2023]
 
-Stroke rehabilitation in adults (NG236)
+ 
 For a short explanation of why the committee made this recommendation for
 research, see the rationale section on fatigue.
 Full details of the evidence and the committee's discussion are in evidence review B:
@@ -1087,7 +1004,7 @@ research, see the rationale section on managing shoulder pain.
 Full details of the evidence and the committee's discussion are in evidence review O:
 shoulder pain.
 
-Stroke rehabilitation in adults (NG236)
+ 
 Other recommendations for research
 6 Tools for fatigue
 What is the clinical and cost effectiveness of the Fatigue Severity Scale, Fatigue
@@ -1107,7 +1024,7 @@ optimal tool for hearing.
 8 Prevalence of hearing problems
 What is the prevalence of hearing problems in people after stroke? [2023]
 
-Stroke rehabilitation in adults (NG236)
+ 
 For a short explanation of why the committee made this recommendation for
 research, see the rationale section on hearing.
 Full details of the evidence and the committee's discussion are in evidence review D:
@@ -1130,7 +1047,7 @@ self-management.
 What is the impact of telerehabilitation on cognition and mood for people after stroke?
 [2023]
 
-Stroke rehabilitation in adults (NG236)
+ 
 For a short explanation of why the committee made this recommendation for
 research, see the rationale section on telerehabilitation.
 Full details of the evidence and the committee's discussion are in evidence review G:
@@ -1154,7 +1071,7 @@ eating and drinking.
 What is the clinical and cost effectiveness of neuromuscular electrical stimulation (NMES)
 to improve oesophageal dysphagia after stroke? [2023]
 
-Stroke rehabilitation in adults (NG236)
+ 
 For a short explanation of why the committee made this recommendation for
 research, see the rationale section on swallowing.
 Full details of the evidence and the committee's discussion are in evidence review I:
@@ -1177,7 +1094,7 @@ music therapy.
 What is the clinical and cost effectiveness of diagnostic assessment to decide the choice
 of management for shoulder pain after stroke? [2023]
 
-Stroke rehabilitation in adults (NG236)
+ 
 For a short explanation of why the committee made this recommendation for
 research, see the rationale section on managing shoulder pain.
 Full details of the evidence and the committee's discussion are in evidence review O:
@@ -1201,7 +1118,7 @@ What is the clinical and cost effectiveness of neuromuscular electrical stimulat
 transcutaneous electrical stimulation (TENS) and functional electrical stimulation (FES)
 compared to usual care for people who have spasticity after a stroke? [2023]
 
-Stroke rehabilitation in adults (NG236)
+ 
 For a short explanation of why the committee made this recommendation for
 research, see the rationale section on spasticity.
 Full details of the evidence and the committee's discussion are in evidence review P:
@@ -1213,7 +1130,7 @@ research, see the rationale section on mirror therapy for the upper or lower lim
 Full details of the evidence and the committee's discussion are in evidence review Q:
 mirror therapy.
 
-Stroke rehabilitation in adults (NG236)
+ 
 Rationale and impact
 These sections briefly explain why the committee made the recommendations and how
 they might affect practice or services.
@@ -1241,7 +1158,7 @@ used to assess carers' wellbeing), or to hospital readmission rates. An increase
 which is a clinically important harm, was seen in a limited number of studies. However, the
 committee noted this did not cause an increase in the rates of hospital readmission. The
 
-Stroke rehabilitation in adults (NG236)
+ 
 published evidence also suggested that early supported discharge was cost effective
 when compared to usual care.
 Qualitative evidence also found that people after stroke, their families and carers, and
@@ -1274,7 +1191,7 @@ help them meet their rehabilitation goals, is current practice so is not expecte
 significant resource impact.
 Return to recommendations
 
-Stroke rehabilitation in adults (NG236)
+ 
 Intensity of stroke rehabilitation
 Recommendations 1.2.15 to 1.2.22
 Why the committee made the recommendations
@@ -1309,7 +1226,7 @@ made recommendation for research into the clinical and cost effectiveness of pro
 rehabilitation for 7 days a week. They also made recommendations for research into the
 possible benefits of more intensive cognitive and psychological therapy, and of more
 
-Stroke rehabilitation in adults (NG236)
+ 
 intensive swallowing therapy.
 The studies also revealed several factors that could encourage people, or prevent them
 from, fully participating in rehabilitation therapies. These were supported by the personal
@@ -1339,7 +1256,7 @@ them when needed. The committee also wanted to emphasise that anyone involved in
 telerehabilitation (including families or carers) should get training in how to use the
 equipment if they need it.
 
-Stroke rehabilitation in adults (NG236)
+ 
 Some detrimental effects were noticed in some people who had telerehabilitation,
 particularly the effect on mood. The reasons for this are unknown. Therefore, the
 committee agreed that anyone receiving telerehabilitation should be monitored carefully
@@ -1369,7 +1286,7 @@ research is needed on specific treatments for fatigue, the committee agreed that
 standardised assessment would:
 • help with identifying and characterising the symptom
 
-Stroke rehabilitation in adults (NG236)
+ 
 • help ensure the rehabilitation team take fatigue into account when setting goals for
 people after stroke
 • provide a clear baseline measure for treatment trials.
@@ -1399,7 +1316,7 @@ Modified Fatigue Impact Scale are short assessments that can be filled in by the
 after stroke, so the associated costs will be low.
 Return to recommendations
 
-Stroke rehabilitation in adults (NG236)
+ 
 Vision
 Recommendation 1.8.1
 Why the committee made the recommendation
@@ -1428,7 +1345,7 @@ unit is the same as that for assessment using basic screening and validated scre
 tools.
 Return to recommendation
 
-Stroke rehabilitation in adults (NG236)
+ 
 Hearing
 Recommendations 1.9.1 to 1.9.4
 Why the committee made the recommendations
@@ -1460,7 +1377,7 @@ and often do not include the use of a questionnaire, so this may lead to a chang
 practice. It is also possible that there will be an increase in audiology referrals.
 Return to recommendations
 
-Stroke rehabilitation in adults (NG236)
+ 
 Mouth care
 Recommendations 1.10.1 to 1.10.3
 Why the committee made the recommendations
@@ -1493,7 +1410,7 @@ toothbrushes, mouthwash and oral gels with antibacterial or antifungal propertie
 will also be an additional cost in purchasing these items for services that do not currently
 use them.
 
-Stroke rehabilitation in adults (NG236)
+ 
 Return to recommendations
 Swallowing
 Recommendations 1.11.2 to 1.11.7, and recommendation 1.11.11
@@ -1526,7 +1443,7 @@ stimulation (NMES) improved quality of life, reduced dysphagia and chest infecti
 helped people to return to a normal diet. The evidence on the effect of NMES on mortality
 was uncertain because of small trial sizes and short follow-up times. The committee noted
 
-Stroke rehabilitation in adults (NG236)
+ 
 that, while a clinically important harm was reported in the evidence, this was unlikely to be
 related to the use of NMES because the intervention was found to reduce dysphagia and
 chest infections, and it was unlikely that the intervention would cause death in another
@@ -1559,7 +1476,7 @@ Return to recommendations
 Communication
 Recommendation 1.12.8
 
-Stroke rehabilitation in adults (NG236)
+ 
 Why the committee made the recommendation
 The evidence for computer-based tools for speech and language therapy varied in quality
 and was uncertain because of the complexity of the interventions and the risks of bias and
@@ -1590,7 +1507,7 @@ function or the ability to complete daily activities – improvements the commit
 would be more important to people after stroke. The studies did not reveal any other
 benefits to using these devices, for example, in improving measures of quality of life or
 
-Stroke rehabilitation in adults (NG236)
+ 
 activities of daily living, or in the incidence of spasticity.
 These devices are expensive to purchase and maintain, and a large study found their use
 was not cost effective. In view of this, and the wide range of studies that showed they had
@@ -1620,7 +1537,7 @@ interacting with other people who have had a stroke. They agreed this peer suppo
 helped people to know what to expect from their rehabilitation, share solutions to
 problems and engage more with therapy.
 
-Stroke rehabilitation in adults (NG236)
+ 
 Overall, studies showed group circuit training, with or without an educational element,
 improved 6-minute walk test scores (a measure of how far the person can walk). People
 who took part in group circuit training with an educational element did not perform as well
@@ -1651,7 +1568,7 @@ The committee reviewed evidence from studies on mirror therapy that varied in se
 the time period after stroke and the participants' affected limbs. In some cases, mirror
 therapy was also combined with other therapies. Despite these differences, the studies
 
-Stroke rehabilitation in adults (NG236)
+ 
 showed mirror therapy led to improved outcomes for people after stroke, especially in their
 activities of daily living, and this was still the case after their 6-month follow-up. The
 committee agreed these outcomes should be the main focus of this type of treatment.
@@ -1685,7 +1602,7 @@ Additional resources may be required because healthcare professionals will need 
 provide initial training and then to supervise the therapy for around 4 weeks for some
 people. However, most people are likely to be able to continue with mirror therapy
 
-Stroke rehabilitation in adults (NG236)
+ 
 unsupervised after initial training. There may be additional costs for stroke units if they
 need to purchase mirrors, especially if people can take them home. However, these will
 usually be returned and reused.
@@ -1713,7 +1630,7 @@ everyday and social activities).
 Managing shoulder pain
 Recommendations 1.14.2 and 1.14.4
 
-Stroke rehabilitation in adults (NG236)
+ 
 Why the committee made the recommendations
 The evidence on interventions for shoulder pain was limited because it did not explore the
 underlying causes of pain. Post-stroke shoulder pain can be caused by various factors (for
@@ -1743,7 +1660,7 @@ spasticity (which affects a particular limb or part of a limb) because focal spa
 more likely to improve with treatment aimed at a specific area of the body. Most of the
 available evidence was on focal spasticity, particularly of the upper limb.
 
-Stroke rehabilitation in adults (NG236)
+ 
 Spasticity can be difficult to treat, so it is important that people after stroke, and their
 families and carers, are given information on the condition. This will help ensure they know
 when to seek help but also to understand that spasticity is a difficult condition to manage.
@@ -1777,7 +1694,7 @@ recommendation for research to compare the clinical and cost effectiveness of Bo
 Dysport and Xeomin with each other and to usual care for focal spasticity, including in the
 lower limb.
 
-Stroke rehabilitation in adults (NG236)
+ 
 The committee looked at 3 forms of electrical stimulation therapy for focal spasticity:
 functional electrical stimulation (FES), NMES and transcutaneous electrical stimulations
 (TENS). All were found to reduce spasticity and improve the ability to use the affected limb
@@ -1812,7 +1729,7 @@ Measures such as splinting, stretching and offering advice on how to avoid trigg
 routinely used in current practice. Botulinum toxin A is widely used for focal spasticity but
 the recommendation for 2 forms, to be used at a certain dose and only for the upper limb,
 
-Stroke rehabilitation in adults (NG236)
+ 
 is likely to be cost saving. Electrical stimulation therapy is also widely available and,
 although most units do not have access to all 3 forms, this recommendation will have a
 minimal effect on practice. Oral baclofen is a low-cost medicine that is widely available in
@@ -1839,7 +1756,7 @@ The committee did not make any recommendations for self-management interventions
 which focus on empowering the person after stroke to manage their own symptoms (for
 example through components like problem-solving, goal-setting, decision-making, self-
 
-Stroke rehabilitation in adults (NG236)
+ 
 monitoring or using coping strategies). This is because they were not found to be more
 clinically effective than other interventions. The evidence was supported by the
 committee's own experiences of self-management interventions, although some
@@ -1871,7 +1788,7 @@ funding from grants. Availability and programme type also varies. This recommend
 may increase the demand for community participation programmes.
 Return to the recommendation
 
-Stroke rehabilitation in adults (NG236)
+ 
 Context
 Stroke can have a devastating impact on the lives of people, their families and carers.
 Morbidity from stroke is the single largest cause of complex impairments and limitations on
@@ -1892,46 +1809,3 @@ Within such services, specialist multidisciplinary teams of appropriately skille
 professionals work together to deliver goal-directed rehabilitation with the aim of helping
 people to relearn any skills they may have lost, improve their quality of life and enable
 them to live as independently as possible.
-
-Stroke rehabilitation in adults (NG236)
-Finding more information and committee
-details
-To find NICE guidance on related topics, including guidance in development, see the NICE
-topic page on stroke and transient ischaemic attack.
-For full details of the evidence and the guideline committee's discussions, see the
-evidence reviews. You can also find information about how the guideline was developed,
-including details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting our guidelines into practice, see resources to help you
-put NICE guidance into practice.
-
-Stroke rehabilitation in adults (NG236)
-Update information
-October 2023: We have reviewed the evidence and made new recommendations on:
-• telerehabilitation
-• hearing
-• fatigue
-• mouth care
-• robot-assisted arm training, mirror therapy for the upper or lower limb and group
-circuit training
-• spasticity
-• return-to-work programmes
-• community participation programmes
-These recommendations are marked [2023].
-We have also reviewed the evidence and made new or updated recommendations on:
-• transfer of care from hospital to community, including early supported discharge
-• intensity of stroke rehabilitation
-• vision
-• swallowing
-• shoulder pain.
-These recommendations are marked [2023]. We also removed a recommendation for
-research about the clinical and cost effectiveness of intensive rehabilitation because the
-evidence for this was reviewed for the 2023 version of the guideline.
-We have updated some recommendations without an evidence review to bring them in line
-with current terminology and practice.
-
-Stroke rehabilitation in adults (NG236)
-These recommendations are marked [2013, amended 2023].
-In some cases, minor changes have been made to the wording to bring the language and
-style up to date, without changing the meaning.
-ISBN: 978-1-4731-5481-0

@@ -1,57 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "chronic-heart-failure-in-adults-diagnosis-and-management-pdf-66141541311685.pdf",
-  "converted_date": "2026-01-31T14:51:11.752678",
-  "file_size_bytes": 216334,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/chronic-heart-failure-in-adults-diagnosis-and-management-pdf-66141541311685.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Chronic heart failure in
-adults: diagnosis and
-management
-NICE guideline
-Published: 12 September 2018
-Last updated: 3 September 2025
-www.nice.org.uk/guidance/ng106
-
-Chronic heart failure in adults: diagnosis and management (NG106)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Chronic heart failure in adults: diagnosis and management (NG106)
-
-Chronic heart failure in adults: diagnosis and management (NG106)
-Current practice .................................................................................................................................... 36
-Finding more information and committee details .....................................................................38
-Update information .....................................................................................................................39
-
-Chronic heart failure in adults: diagnosis and management (NG106)
-This guideline replaces CG108.
-This guideline is the basis of QS167, QS9 and QS181.
+Chronic heart failure in adults: diagnosis and management
 Overview
 This guideline covers diagnosing and managing chronic heart failure in people aged 18 and
 over. It aims to improve diagnosis and treatment to increase the length and quality of life
@@ -61,7 +8,7 @@ Who is it for?
 • Healthcare professionals
 • People with heart failure and their families and carers
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 Recommendations
 People have the right to be involved in discussions and make informed decisions about
 their care, as described in NICE's information on making decisions about your care.
@@ -87,7 +34,7 @@ failure, for example, a specialist heart failure pharmacist. [2018 amended
 2025]
 1.1.2 The specialist heart failure MDT should:
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 • diagnose heart failure
 • give information to people with newly diagnosed heart failure (see the
 section on giving information to people with heart failure)
@@ -113,7 +60,7 @@ long-term conditions review
 person with heart failure and shared with the specialist heart failure MDT
 • arrange access to specialist heart failure services if needed. [2018]
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 Care after an acute event
 For recommendations on the diagnosis and management of acute heart failure, see NICE's
 guideline on acute heart failure.
@@ -139,7 +86,7 @@ rehabilitation and access to social care
 needed
 • contact details for
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 － a named healthcare coordinator (usually a specialist heart failure nurse)
 － alternative local heart failure specialist care providers, for urgent care or
 review.
@@ -165,7 +112,7 @@ assessment and transthoracic echocardiography within 6 weeks. [2018]
 an untreated person makes a diagnosis of heart failure less likely
 • the level of serum natriuretic peptide does not differentiate between heart
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 failure with preserved, mildly reduced and reduced ejection fraction. [2018,
 amended 2025]
 1.2.6 Review alternative causes for symptoms of heart failure in people with NT-
@@ -195,7 +142,7 @@ professional standards to perform transthoracic echocardiography. Do not allow
 the need and demand for these investigations to compromise quality. [2003,
 amended 2018]
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 1.2.10 Ensure that those reporting echocardiography are experienced in doing so.
 [2003]
 1.2.11 Think about alternative methods of imaging the heart (for example, radionuclide
@@ -221,7 +168,7 @@ precipitating factors, type of cardiac dysfunction and correctable causes. [2010
 Heart failure caused by valve disease
 1.2.15 Refer people with heart failure caused by valve disease for specialist assessment
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 and advice regarding follow-up. See the section on referral for echocardiography
 and specialist assessment in NICE's guideline on heart valve disease. [2003]
 Reviewing existing diagnoses
@@ -246,7 +193,7 @@ consultation:
 risk
 • encourage the person and their family or carers to ask any questions they
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 have. [2018]
 1.4 Treating people with newly diagnosed and pre-
 existing heart failure with reduced ejection
@@ -272,7 +219,7 @@ of intolerance to ARNIs:
 • offer a beta-blocker, MRA and SGLT2 inhibitor and
 • consider an ARB. [2025]
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 For a short explanation of why the committee made these recommendations and how
 they might affect practice, see the rationale and impact section on treatment
 combinations for heart failure with reduced ejection fraction.
@@ -297,7 +244,7 @@ heart failure with reduced ejection fraction.
 Full details of the evidence and the committee's discussion are in evidence review C:
 IV iron therapy for heart failure.
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 Specialist treatment
 Ivabradine
 1.4.8 Ivabradine is recommended as an option in NICE technology appraisal guidance
@@ -321,7 +268,7 @@ Calcium-channel blockers
 1.4.12 Avoid verapamil, diltiazem and short-acting dihydropyridine agents in people with
 heart failure with reduced ejection fraction. [2003, amended 2018]
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 1.5 Treating people with newly diagnosed and pre-
 existing heart failure with mildly reduced or
 preserved ejection fraction
@@ -347,7 +294,7 @@ combinations for heart failure with mildly reduced ejection fraction.
 Full details of the evidence and the committee's discussion are in evidence review B:
 medicines for heart failure with mildly reduced ejection fraction.
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 Preserved ejection fraction
 See recommendations 1.7.1 and 1.7.2 for guidance on how to introduce the medicines listed
 in recommendations 1.5.4 and 1.5.5. See also the section on other treatments and advice
@@ -375,7 +322,7 @@ covered by recommendations 1.4.1, 1.4.3, 1.4.4, and 1.5.1 to 1.5.5. [2018, amend
 failure multidisciplinary team (MDT) should consider liaising with a renal
 physician. [2018, amended 2025]
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 1.7 Starting and monitoring medication use
 Tailoring treatment
 1.7.1 Use the person's medical history and findings from their clinical assessment, their
@@ -400,7 +347,7 @@ receptor-neprilysin inhibitor (ARNI), angiotensin II receptor blocker (ARB) or
 mineralocorticoid receptor antagonist (MRA), measure the person's renal function
 and electrolyte levels. [2025]
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 1.7.4 If the person is taking an ACE inhibitor, ARNI, ARB or MRA, measure their renal
 function and electrolyte levels:
 • 1 to 2 weeks after starting treatment
@@ -427,7 +374,7 @@ reviews A: medicines for heart failure with reduced ejection fraction, B: medici
 heart failure with mildly reduced ejection fraction and D: MRA for heart failure with
 preserved ejection fraction.
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 Beta-blockers
 1.7.9 Do not withhold treatment with a beta-blocker solely because of age or the
 presence of peripheral vascular disease, erectile dysfunction, diabetes, interstitial
@@ -452,7 +399,7 @@ confirm a clinical impression of toxicity or non-adherence. [2003]
 1.7.15 Interpret the serum digoxin concentration in the clinical context as toxicity may
 occur even when the concentration is within the therapeutic range. [2003]
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 1.8 Clinical review
 1.8.1 Monitor all people with heart failure. Provide:
 • a clinical assessment of functional capacity, fluid status, cardiac rhythm
@@ -478,7 +425,7 @@ reduced ejection fraction and an estimated glomerular filtration rate (eGFR) mor
 than 60 ml per minute per 1.73 m2, consider measuring N-terminal pro-B-type
 natriuretic peptide as part of optimising treatment. [2018]
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 1.9 Other treatments and advice for all types of
 heart failure
 Diuretics
@@ -502,7 +449,7 @@ anticoagulant therapies. [2018]
 with a history of thromboembolism, left ventricular aneurysm or intracardiac
 thrombus. [2003]
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 Vaccinations
 1.9.7 Offer people with heart failure an annual vaccination against influenza. [2003]
 1.9.8 Offer people with heart failure vaccination against pneumococcal disease (only
@@ -524,7 +471,7 @@ Continue to review the need to restrict salt or fluid. [2018]
 1.9.11 Advise people with heart failure to avoid salt substitutes that contain potassium.
 [2018]
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 Smoking and alcohol
 See NICE's guidance on smoking and tobacco and alcohol.
 Air travel
@@ -545,7 +492,7 @@ resynchronisation therapy
 1.10.3 Implantable cardioverter defibrillators and cardiac resynchronisation therapy are
 recommended as options in NICE technology appraisal guidance for treating
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 heart failure with reduced ejection fraction. For full details, see the guidance on
 implantable cardioverter defibrillators and cardiac resynchronisation therapy
 (TA314, 2014).
@@ -573,7 +520,7 @@ rehabilitation programme. The programme:
 • should be preceded by an assessment to ensure that it is suitable for the
 person
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 • should be provided in a format and setting (at home, in the community or in
 the hospital) that is easily accessible for the person
 • should include a psychological and educational component
@@ -600,7 +547,7 @@ NICE's guideline on care of dying adults in the last days of life. [2018]
 Terms used in this guideline
 Note: Heart failure is, by definition, symptomatic.
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 Heart failure with preserved ejection fraction
 Heart failure with left ventricular ejection fraction of 50% or more, plus a structural issue in
 the heart including 2 or more of the following:
@@ -617,7 +564,7 @@ Heart failure with left ventricular ejection fraction of 40% or less.
 Mineralocorticoid receptor antagonist
 A medicine that antagonises the action of aldosterone at mineralocorticoid receptors.
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 Recommendations for research
 The guideline committee has made the following recommendations for research.
 Key recommendations for research
@@ -640,7 +587,7 @@ heart failure
 What is the optimal imaging technique for the diagnosis of heart failure?
 4 The impact of advanced kidney disease on the natriuretic
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 peptide threshold for diagnosing heart failure
 What are the optimal NT-proBNP thresholds for diagnosing heart failure in people with
 stage IIIb, IV or V chronic kidney disease?
@@ -650,7 +597,7 @@ failure at specific clinically relevant thresholds (for example, sensitivity, sp
 negative predictive value and positive predictive value at a threshold of 50% risk of
 mortality at 1 year)?
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 Rationale and impact
 These sections briefly explain why the committee made the recommendations and how
 they might affect practice.
@@ -679,7 +626,7 @@ treatment with an angiotensin receptor-neprilysin inhibitor (ARNI), beta-blocker
 showed reduced all-cause and cardiovascular mortality for the group of people taking the
 treatment combination with an ARNI. More falls were seen in those taking an ARNI, while
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 hyperkalaemia was more common among those taking an ACE inhibitor. The committee
 agreed that an ARNI can replace an ACE inhibitor in people who remain symptomatic when
 receiving the combination of ACE inhibitor, beta-blocker, MRA and SGLT2 inhibitor.
@@ -710,7 +657,7 @@ showed reduced hospitalisation for heart failure. One study showed a significant
 hypophosphatemia with ferric carboxymaltose. As hypophosphatemia can be monitored
 and treated, the committee agreed that the risk of this did not outweigh the expected
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 benefits of IV iron.
 There was evidence that IV iron therapy is cost-effective in people with heart failure with
 reduced ejection fraction and iron deficiency and so the committee focused on this
@@ -738,7 +685,7 @@ Why the committee made the recommendations
 Evidence suggested each of the following medicines reduce hospitalisation for heart
 failure, and possibly mortality, in people with heart failure with mildly reduced ejection
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 fraction: angiotensin-converting enzyme (ACE) inhibitor, angiotensin II receptor blocker
 (ARB), beta-blocker and mineralocorticoid receptor antagonist (MRA). In practice, an ACE
 inhibitor and ARB would not be prescribed together because of the lack of additional
@@ -768,7 +715,7 @@ Evidence showed treatment with a mineralocorticoid receptor antagonist (MRA) red
 hospitalisation for heart failure and may also improve all-cause and cardiovascular
 mortality in people with heart failure with preserved ejection fraction. However, there was
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 an increased risk of hyperkalaemia. Although this requires careful monitoring and
 management the committee agreed this should not prevent them from recommending
 MRAs for this population group.
@@ -796,7 +743,7 @@ neprilysin inhibitors (ARNIs) could be prescribed by primary care prescribers wi
 advice of a heart failure specialist. However, in some circumstances, advice from a heart
 specialist might be needed and so should be considered.
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 Evidence showed that angiotensin-converting enzyme (ACE) inhibitors, angiotensin
 receptor-neprilysin inhibitors (ARNIs), angiotensin II receptor blockers (ARBs) and
 mineralocorticoid receptor antagonists (MRAs) can affect renal function and electrolyte
@@ -825,7 +772,7 @@ Return to recommendations 1.7.1 and 1.7.2
 Return to recommendations 1.7.3 to 1.7.5 and 1.7.7 and 1.7.8
 Return to recommendations 1.7.10, 1.7.11 and 1.7.13
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 Context
 Key facts and figures
 Heart failure is a complex clinical syndrome of symptoms and signs caused by impaired
@@ -855,7 +802,7 @@ with heart failure due to stiff ventricle, called heart failure with preserved e
 in addition to some evidence for treating those with heart failure with mildly reduced
 ejection fraction.
 
-Chronic heart failure in adults: diagnosis and management (NG106)
+ 
 In people with heart failure with reduced ejection fraction there will be a need to change
 the ethos of stepwise introduction of medicines and allow early initiation of multiple
 medicines before optimising the doses of each. The reason for the different approach
@@ -864,32 +811,3 @@ introduction of each medicine class, and the tendency of all classes of medicine
 blood pressure which, when exaggerated by optimising the dose of some of the
 medicines, can render the person unable to receive further treatment with other
 medicines.
-
-Chronic heart failure in adults: diagnosis and management (NG106)
-Finding more information and committee
-details
-To find out what NICE has said on related topics, including guidance in development, see
-the NICE topic page on cardiovascular conditions.
-For full details of the evidence and the guideline committee's discussions, see the
-evidence reviews and full guideline. You can also find information about how the guideline
-was developed, including details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting our guidelines into practice, see resources to help you
-put NICE guidance into practice.
-
-Chronic heart failure in adults: diagnosis and management (NG106)
-Update information
-September 2025: We have reviewed the evidence on treating and monitoring heart failure
-with reduced ejection fraction, mildly reduced ejection fraction and preserved ejection
-fraction. Recommendations are marked [2025] if the evidence has been reviewed.
-September 2018: This guideline updates and replaces NICE guideline CG108 (published
-August 2010). NICE guideline CG108 updated and replaced NICE guideline CG5 (published
-July 2003).
-Minor changes since publication
-December 2025: We amended the rationale for recommendation 1.7.2 to clarify our advice
-on the prescribing of angiotensin receptor-neprilysin inhibitors (ARNIs) by primary care
-prescribers.
-October 2025: We amended the rationale for recommendation 1.7.10 to clarify that an ECG
-should be carried out before prescribing a beta-blocker.
-November 2021: We added links to NICE's guideline on heart valve disease.
-ISBN: 978-1-4731-7169-5

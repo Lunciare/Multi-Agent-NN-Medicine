@@ -1,48 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "volanesorsen-for-treating-familial-chylomicronaemia-syndrome-pdf-50216257168837.pdf",
-  "converted_date": "2026-01-31T14:51:10.444784",
-  "file_size_bytes": 181199,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/volanesorsen-for-treating-familial-chylomicronaemia-syndrome-pdf-50216257168837.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Volanesorsen for treating
-familial chylomicronaemia
-syndrome
-Highly specialised technologies guidance
-Published: 21 October 2020
-www.nice.org.uk/guidance/hst13
-
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
-
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+Volanesorsen for treating familial chylomicronaemia syndrome
 1 Recommendations
 1.1 Volanesorsen is recommended, within its marketing authorisation, as an option
 for treating familial chylomicronaemia syndrome in adults with genetically
@@ -66,7 +22,7 @@ volanesorsen is likely to provide important clinical and psychological benefits 
 with familial chylomicronaemia syndrome, and value for money within the context of a
 highly specialised service. It is therefore recommended for use in the NHS.
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 2 The condition
 2.1 Familial chylomicronaemia syndrome (FCS) is a rare genetic metabolic disorder of
 lipid metabolism caused by homozygous mutations in the lipoprotein lipase gene.
@@ -100,11 +56,11 @@ with volanesorsen in the UK.
 Access to Medicines Scheme at several specialist centres. The company
 explained that, at the time of evaluation, 20 people were having volanesorsen
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 (with treatment duration ranging from 1 to 15 months). A further 5 people have
 been identified to start treatment.
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 3 The technology
 3.1 Volanesorsen (Waylivra, Akcea) is an antisense oligonucleotide inhibitor of
 apolipoprotein C-III (apoC-III) production. ApoC-III inhibits the metabolism of
@@ -138,12 +94,12 @@ monitoring schedules, see the summary of product characteristics.
 3.4 The price of volanesorsen for a single-use syringe (285 mg) is £11,394 (excluding
 VAT; company's evidence submission). The company has a commercial
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 arrangement. This makes volanesorsen available to the NHS with a discount. The
 size of the discount is commercial in confidence. It is the company's responsibility
 to let relevant NHS organisations know details of the discount.
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 4 Consideration of the evidence
 The evaluation committee (see section 6) considered evidence submitted by Akcea
 Therapeutics, the views of people with the condition, those who represent them and
@@ -172,7 +128,7 @@ their families and carers, to get support. The committee concluded that FCS is a
 rare, serious and potentially life-threatening condition that can affect the lives of
 people with the condition, and their families and carers.
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 Unmet need
 4.2 The clinical experts explained that FCS is a relentless condition, and that
 currently there are no effective drug treatments available. They noted that, in the
@@ -202,7 +158,7 @@ Clinical evidence
 assessed the efficacy and safety of volanesorsen (n=33) compared with
 placebo (n=33). Volanesorsen was administered by subcutaneous injection
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 (285 mg) once weekly. After the 52-week trial period, patients could either
 have a 13-week follow up or enter the APPROACH OLE open-label extension
 study.
@@ -236,7 +192,7 @@ level of additional uncertainty was unclear. The committee agreed that this
 introduced uncertainty into consideration of the clinical data, but concluded
 that it was acceptable for decision making.
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 Generalisability of the trial population to clinical practice
 4.5 Most of the patients in the company's clinical trials had a genetic diagnosis of
 FCS, in line with the marketing authorisation. The committee discussed whether
@@ -268,7 +224,7 @@ with high TG levels.
 Dosing
 4.7 The volanesorsen dose stated in the marketing authorisation was not used in the
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 clinical trials or for the population in the EAMS (see section 4.4). The committee
 discussed the implications of this for interpreting the evidence on volanesorsen's
 clinical efficacy and safety. It queried the frequent dose adjustments and pauses
@@ -304,7 +260,7 @@ important outcome that shows an effect of volanesorsen. The ERG explained
 that, at subsequent time points, the decrease in TG levels was generally lower
 than that seen at month 3 in APPROACH, but that any possible waning effect of
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 volanesorsen is probably small. This was supported by additional evidence from
 APPROACH OLE that became available during consultation, although the ERG also
 noted that follow up in studies did not appear to go beyond around 3 to 4 years.
@@ -339,7 +295,7 @@ concentration alone may not be an adequate surrogate for AP in people with FCS.
 This is because the relationship between TGs and chylomicrons (the lipoprotein
 particles that transport triglycerides derived from dietary fat from the intestine to
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 the rest of the body via lipoprotein lipase activity) may be more relevant for this
 condition. Because FCS is caused by a defect in lipoprotein lipase, TGs cannot be
 converted in people with this condition, resulting in chylomicron accumulation
@@ -371,7 +327,7 @@ placebo (9.1%, 3 out of 33) at month 3 (odds ratio: 99.69, 95% CI 15.75 to
 631.06; p<0.0001). Generally, a reduction in TG levels at month 3 or a
 moderate-to-high relative reduction in TG levels was seen. The ERG noted
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 that this showed that a substantial proportion of patients were likely to
 continue treatment after stopping rules are applied (see section 3.1). The
 clinical experts explained that it is difficult to identify a population threshold
@@ -404,7 +360,7 @@ abdominal pain during the on-treatment period in APPROACH did not show a
 statistically significant difference between treatment arms. However, an
 exploratory analysis showed that, among those who had abdominal pain at
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 baseline in APPROACH (17 out of 66 patients across the 2 arms), patients having
 volanesorsen (7 out of 33) had a statistically significant reduction in the average
 maximum intensity of abdominal pain, compared with those on placebo (10 out
@@ -437,7 +393,7 @@ EQ-5D values were very high for both treatment arms (utility more than 0.97) in
 APPROACH. The committee noted that this was not in line with the patient
 testimonies, which indicated that FCS substantially affects every aspect of their
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 lives. One patient expert explained that the EQ-5D does not measure the aspects
 of quality of life that FCS affects, for example, strict adherence to a low-fat diet
 and the effect of that on their family and social lives. The committee noted that
@@ -468,7 +424,7 @@ Company's economic model
 low-fat diet with standard care. The model had 2 components: a 3-month
 decision tree model and a long-term Markov model. In each 3-month model
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 cycle, patients moved between TG bands or remained in the same band, had AP,
 developed chronic pancreatitis or died. Patients with historical AP moved to the
 recurrent AP category when having AP. Treatment with volanesorsen was
@@ -498,7 +454,7 @@ general course of the condition, although it recalled the uncertainty in the
 relationship between TG levels and risk of AP in people with FCS (see
 section 4.10).
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 Model assumptions
 Assumptions on volanesorsen's indirect and direct effects on AP
 4.19 In the model, the company assumed that volanesorsen would reduce the risk of
@@ -531,7 +487,7 @@ volanesorsen once every 2 weeks dosing from APPROACH, APPROACH OLE and
 COMPASS compared with the pooled event rates of placebo from APPROACH
 and COMPASS in patients with a history of AP). The ERG highlighted that both
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 estimates were subject to considerable risk of bias because 0.13 was derived
 from a before–after comparison using patients as their own controls, and 0.35
 may be confounded because there was no placebo arm in APPROACH OLE. It also
@@ -565,7 +521,7 @@ people would stop treatment or pause doses in the trials and the EAMS,
 regardless of dosing regimen even after being on treatment for 2 or 3 years.
 Therefore, this trend seems to support some late treatment stopping.
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 4.23 The company explained that, because of the strengthened monitoring schemes
 put in place since APPROACH, fewer people in the EAMS have stopped treatment.
 This is perhaps because these patients have the highest risk of AP and it is
@@ -600,7 +556,7 @@ the EAMS. It therefore concluded that the ERG's exponential curve best reflected
 the likely change in stopping rate with volanesorsen in clinical practice over time,
 and that this assumption should be used in the model.
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 Source of utility data
 4.25 The utility data collected in APPROACH were not used in the model. The company
 explained that this was because utility values for both treatment arms were
@@ -634,7 +590,7 @@ model. It assigned the high TG utility value from the vignette to those with a T
 level of more than 22.6 mmol per litre, and the low TG utility value from the
 vignette to remaining patients. The ERG explained that this logic was not
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 consistent with the vignette or the original submission, pointing out that people
 with TG levels between 10 mmol per litre or more to less than 22.6 mmol per litre
 should not be considered as having non-elevated TGs. The committee
@@ -669,7 +625,7 @@ engaging with their families, was substantial. They also explained that not gett
 recurrent pain and being able to go out and socialise with their families made a
 lot of difference to them and their families.
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 4.30 The ERG was concerned that the new decrement may be an overestimation. It
 noted that, in the literature, the loss in utility with existing mental or
 musculoskeletal conditions would be 0.01. It also noted that volanesorsen does
@@ -702,7 +658,7 @@ specialised technologies programme (2017) specifies that a most plausible ICER
 of below £100,000 per QALY gained for a highly specialised technology is
 normally considered an effective use of NHS resources. For a most plausible ICER
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 above £100,000 per QALY gained, judgements about the acceptability of the
 highly specialised technology as an effective use of NHS resources must take
 account of the magnitude of the incremental therapeutic improvement, as
@@ -734,7 +690,7 @@ supportive care and using the committee's preferred assumptions. Taking
 this into account, the committee concluded that the most plausible ICER
 could be considered an effective use of NHS resources for highly specialised
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 technologies.
 Impact of the technology beyond direct health
 benefits and on the delivery of the specialised
@@ -764,7 +720,7 @@ product characteristics advises that the use of volanesorsen should be avoided
 during pregnancy. Therefore, the committee concluded that it would be
 inappropriate to consider pregnant women as a specific subgroup. It also noted
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 that it was not presented with data on the use of volanesorsen during pregnancy,
 or how the drug could influence the outcome of pregnancy (it does not cross the
 blood barrier). The committee concluded that any recommendations would apply
@@ -798,7 +754,7 @@ cost-effective use of NHS resources for highly specialised technologies.
 Therefore, the committee recommended volanesorsen as an option for treating
 FCS.
 
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
+ 
 5 Implementation
 5.1 Section 8(6) of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -818,27 +774,3 @@ available within the period set out in the paragraph above. This means that, if 
 patient has familial chylomicronaemia syndrome and the doctor responsible for
 their care thinks that volanesorsen is the right treatment, it should be available
 for use, in line with NICE's recommendations.
-
-Volanesorsen for treating familial chylomicronaemia syndrome (HST13)
-6 Evaluation committee members and
-NICE project team
-Evaluation committee members
-The highly specialised technologies evaluation committee is a standing advisory
-committee of NICE.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered that there is a conflict of interest, the member is excluded from
-participating further in that appraisal.
-The minutes of each evaluation committee meeting, which include the names of the
-members who attended and their declarations of interests, are posted on the NICE
-website.
-NICE project team
-Each highly specialised technology appraisal is assigned to a team consisting of 1 or more
-health technology analysts (who act as technical leads for the appraisal), a technical
-adviser and a project manager.
-Orsolya Balogh
-Technical lead
-Yelan Guo
-Technical adviser
-Joanne Ekeledo
-Project manager
-ISBN: 978-1-4731-3887-2

@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "ESC-Patient-Guidelines-Atrial-Fibrillation.pdf",
-  "converted_date": "2026-01-31T14:51:20.592595",
-  "file_size_bytes": 6237585,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/ESC-Patient-Guidelines-Atrial-Fibrillation.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-ESC Clinical Practice Guidelines for the
-Management of
-Atrial Fibrillation:
-What Patients
-Need to Know
-Image is for illustrative purposes only
-
+ESC Clinical Practice Guidelines for the Management of Atrial Fibrillation:
 What are Clinical Practice Guidelines
 and what is this document?
 Clinical Practice Guidelines provide recommendations on how to diagnose and treat patients based on
@@ -361,31 +342,3 @@ the hospital. Your risk factors and need for blood thinners should continue to b
 your community physician.
 If you are troubled by your AF, then you should seek attention so that your treatment plan can be changed.
 If you suffer a black-out or are worried by chest pain, then seek emergency advice.
-
-This guide for patients is a simplified version of the ESC Clinical Practice Guidelines
-for the management of atrial fibrillation.
-Authors
-Inge Mølgaard (Denmark) ESC Patient Forum, Sophia Antipolis, France.
-Inga Drossart, European Society of Cardiology, Sophia Antipolis, France.
-Jeremy Dwight (United Kingdom) ESC Patient Forum, Sophia Antipolis, France.
-Tiny Jaarsma, Health, Medicine, and Caring Science, Linkoping University, Linkoping, Sweden & Deparment of
-Cardiology, University Medical Center Utrecht, Utrecht, Netherlands.
-Tom J. R. De Potter, Department of Cardiology, OLV Hospital, Aalst, Belgium.
-Isabelle C. Van Gelder, Department of Cardiology, University of Groningen, University Medical Center Groningen,
-Groningen, Netherlands.
-Dipak Kotecha, Institute of Cardiovascular Sciences, University of Birmingham, United Kingdom & NIHR Birmingham
-Biomedical Research Centre, University Hospitals Birmingham NHS Foundation Trust, Birmingham, United Kingdom.
-Disclaimer
-This material was adapted from the 2024 ESC Guidelines for the management of atrial fibrillation (European Heart Journal 2024 -
-doi:10.1093/eurheartj/ehae176) as published on 30 August 2024.
-Copyright © European Society of Cardiology 2024 - All Rights Reserved.
-This material has been published for personal and educational use only. No commercial use is authorised. No part of this document
-may be translated or reproduced in any form without written permission from the ESC. Permission can be obtained upon submission
-of a written request to ESC, Practice Guidelines Department, Les Templiers - 2035, Route des Colles - CS 80179 Biot - 06903 Sophia
-Antipolis Cedex - France. Email: guidelines@escardio.org
-This material was adapted from the ESC Guidelines as an aid to patients and carers. It represents the views of the ESC and was
-produced after careful consideration of the scientific and medical knowledge and the evidence available at the time of their
-publication. The ESC is not responsible in the event of any contradiction, discrepancy and/or ambiguity between the ESC Guidelines
-and any other official recommendations or guidelines issued by the relevant public health authorities, in particular in relation to good
-use of healthcare or therapeutic strategies. Please refer to the preamble of the original guidelines for further details of the role of
-Clinical Practice Guidelines and the individual responsibility of health professionals when making decisions for the care of patients.

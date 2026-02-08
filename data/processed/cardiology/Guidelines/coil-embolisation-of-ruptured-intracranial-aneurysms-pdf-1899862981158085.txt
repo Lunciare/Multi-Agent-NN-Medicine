@@ -1,21 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "coil-embolisation-of-ruptured-intracranial-aneurysms-pdf-1899862981158085.pdf",
-  "converted_date": "2026-01-31T14:46:01.914676",
-  "file_size_bytes": 56549,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/coil-embolisation-of-ruptured-intracranial-aneurysms-pdf-1899862981158085.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Coil embolisation of ruptured
-intracranial aneurysms
-Interventional procedures guidance
-Published: 26 January 2005
-www.nice.org.uk/guidance/ipg106
+Coil embolisation of ruptured intracranial aneurysms
 1 Guidance
 1.1 Current evidence on the safety and efficacy of coil embolisation of
 ruptured intracranial aneurysms appears adequate to support use of the
@@ -84,12 +67,3 @@ management of stroke, including subarachnoid haemorrhage.
 Sources of evidence
 The evidence considered by the Interventional Procedures Advisory Committee is
 described in the overview to this guidance.
-
-Coil embolisation of ruptured intracranial aneurysms (IPG106)
-Information for patients
-NICE has produced information on this procedure for patients and carers ('Understanding
-NICE guidance'). It explains the nature of the procedure and the guidance issued by NICE,
-and has been written with patient consent in mind.
-ISBN: 978-1-4731-3986-2
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

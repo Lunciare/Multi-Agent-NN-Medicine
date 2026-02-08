@@ -1,43 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "laser-sheath-removal-of-pacing-leads-pdf-52774278744517.pdf",
-  "converted_date": "2026-01-31T14:48:04.207938",
-  "file_size_bytes": 59057,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/laser-sheath-removal-of-pacing-leads-pdf-52774278744517.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Laser sheath removal of pacing
-leads
-Interventional procedures guidance
-Published: 23 June 2004
-www.nice.org.uk/guidance/ipg63
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-
-Laser sheath removal of pacing leads (IPG63)
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Laser sheath removal of pacing leads
 1 Guidance
 1.1 Current evidence on the safety and efficacy of laser sheath removal of pacing
 leads appears adequate to support the use of this procedure provided that the
@@ -59,7 +20,7 @@ the surrounding scar tissue. If this fails, open chest surgery may be required.
 Alternatively, in some cases, the leads may be detached from the pacemaker unit
 and simply left inside the patient.
 
-Laser sheath removal of pacing leads (IPG63)
+ 
 2.2 Outline of the procedure
 2.2.1 Laser sheaths are similar to standard extraction sheaths, but vaporise rather than
 tear the scar tissue surrounding the pacing leads. The use of laser sheaths
@@ -89,7 +50,7 @@ largest case series, major complications (defined as cardiac tamponade,
 haemothorax, pulmonary embolism, lead migration and death) were observed in
 2% (31 out of 1,684) of patients, and 1% (13 out of 1,684) of patients died in
 
-Laser sheath removal of pacing leads (IPG63)
+ 
 hospital. For more details, see the overview.
 2.4.2 The Specialist Advisors considered the complications of laser sheath removal of
 pacing leads to be similar to those of standard extraction techniques. They
@@ -107,6 +68,3 @@ Information for patients
 NICE has produced information for the public on this procedure. It explains the nature of
 the procedure and the guidance issued by NICE, and has been written with patient
 consent in mind.
-ISBN: 978-1-4731-6199-3
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

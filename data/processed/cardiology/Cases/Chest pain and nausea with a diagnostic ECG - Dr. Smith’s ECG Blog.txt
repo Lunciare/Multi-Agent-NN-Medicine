@@ -1,122 +1,61 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Chest pain and nausea with a diagnostic ECG - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:25.100971",
-  "file_size_bytes": 17189184,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Chest pain and nausea with a diagnostic ECG - Dr. Smith’s ECG Blog.pdf"
-}
+A man in his 40s called emergency medical services for acute symptoms including chest pain, abdominal pain, nausea, and diarrhea.
 
-=== СОДЕРЖАНИЕ ===
+An EMS ECG was obtained.
 
-Pendell Meyers onJuly 14, 2025
-Chest pain and nausea with
-a diagnostic ECG
-Written by Pendell Meyers, sent by anonymous
-A man in his 40s called EMS for acute symptoms including
-chest pain, abdominal pain, nausea, and diarrhea.
-Here is his EMS ECG:
- 
-What do you think?
-Critical hyperkalemia, with sine wave appearance. Please try
-to ignore the Zoll machineʼs “***STEMI***”!
-PM Cardio Queen of Hearts does not cause a false positive
-STEMI alert in this case:
-
- 1/10
-New PMcardio for Individuals App 3.0 now includes
-the latest Queen of Hearts model and AI explainability (blue
-heatmaps)! Download now for iOS or
-Android. 
-individuals/ (Drs. Smith and Meyers trained the AI Model and
-are shareholders in Powerful Medical.)
-Paramedics administered 2gm calcium gluconate and
-continuous albuterol nebulizer, followed by this repeat ECG:
-Much improvement in width and morphology, but still more
-improvement could likely be achieved with more calcium.
-On arrival to the ED, the bedside venous blood gas revealed a
-potassium level of 9.1 mEq/L.
-An old ECG from weeks ago was available for comparison:
-The patient had missed dialysis, complicated by a
-dysfunctional AV graft.
-More calcium was administered, as well as insulin and
-glucose.
-Here is a repeat ECG:
- 2/10
-An emergent dialysis access catheter was placed, and
-dialysis was successful. The patient survived.
-======================================
-MY Comment, by KEN GRAUER, MD
-(7/14/2025):
-A good general rule is that IF a patient presents with stable
-vital signs and an ECG that looks, “too wide (and/or too
-unreal) to be true” — that the reason for this appearance is
-likely to be either: i) Artifact; or, ii) Hyperkalemia.
-In todayʼs case — the paramedics presumably knew the
-ECG was correctly recorded (and/or perhaps they were
-able to elicit some history from the patient predisposing
-to renal insufficiency). This left hyperkalemia as the
-most likely explanation for todayʼs initial ECG (that Iʼve
-reproduced in Figure-1).
-Of the 12 leads in ECG #1 — it is lead V4 (within the RED
-rectangle in ECG #1) that caught my attention as looking
-“real”, albeit with a dramatically widened QRS complex.
-NOTE: ECG #1 is a prehospital tracing. In the United
-States (? in other countries) — many of the prehospital
-ECG machines automatically “cut off” QRS R wave or S
-wave amplitude that exceeds 10 or more millimeters —
-which accounts for the straight line appearance in those
-leads to which I added YELLOW arrows.
-PEARL #1: Be aware that selected patients may manifest
-surprisingly normal vital signs and alertness despite
-potentially lethal serum K+ levels (such as the 9.1 mEq/L
-venous level for the patient in todayʼs case).
-The EMS Team correctly suspected severe
-hyperkalemia in ECG #1 as the cause of marked QRS
-widening without sign of atrial activity (and as a result —
-they correctly administered empiriccalcium gluconate
-IV).
- 3/10
-To Emphasize (As per Dr. Meyers) — there is no need to
-verify a low serum level of K+ before giving empiric IV
-Calcium when the tracing in front of you resembles the
-initial EMS ECG in todayʼs case. This ECG is diagnostic
-of critically elevated serum K+, with need for immediate
-treatment (and there is no downside to giving empiric IV
-Calcium in this situation).
-For review of the ECG findings of Hyperkalemia — Check out
-My Comment at the bottom of the page in the January 26,
-2020 post in Dr. Smithʼs ECG Blog. Many of these findings
-are seen in ECG #2 (with these findings still present after 2
-gm of IV Calcium Gluconate + continuous Albuterol
-nebulizer). These ECG findings include:
-Marked QRS widening (to ≥0.14 second in ECG #2).
+Initial ECG Interpretation
+
+Critical hyperkalemia with a sine wave appearance.
+
+The ECG machine produced a false positive “STEMI” alert.
+
+The Queen of Hearts model did not identify this ECG as STEMI.
+
+Prehospital Management and Repeat ECG
+
+Paramedics administered 2 grams of calcium gluconate and continuous albuterol nebulization.
+
+A repeat ECG showed improvement in QRS width and morphology, though additional improvement was anticipated with further calcium administration.
+
+Emergency Department Findings
+
+On arrival to the emergency department, a bedside venous blood gas revealed a potassium level of 9.1 mEq/L.
+
+An older ECG from weeks prior was available for comparison.
+
+The patient had missed dialysis due to a dysfunctional arteriovenous graft.
+
+Additional calcium was administered, along with insulin and glucose.
+
+A subsequent ECG showed further improvement.
+
+Definitive Management and Outcome
+
+An emergent dialysis access catheter was placed.
+
+Dialysis was performed successfully.
+
+The patient survived.
+
+ECG Interpretation and Teaching Points
+
+If a patient presents with stable vital signs and an ECG that appears excessively wide or unreal in morphology, the most likely explanations are artifact or hyperkalemia.
+
+In this case, hyperkalemia was the cause of marked QRS widening with absence of atrial activity.
+
+There is no need to verify serum potassium levels before administering empiric intravenous calcium when the ECG is diagnostic of severe hyperkalemia.
+
+ECG findings of severe hyperkalemia include:
+
+Marked QRS widening
+
 Absent P waves
-Tall, peaked and pointed T waves in multiple leads (RED
-arrows in ECG #2 — that highlight an “Eiffel Tower-like”
-T wave appearance, in which these symmetric, tall
-pointed T waves manifest a surprisingly narrow base).
-Occasional pointed T waves that are negative (BLUE
-arrows in ECG #2).
-Brugada Phenocopy (See My Comment at the bottom of
-the page in the January 13, 2025 post).
-Appreciation for the ECG changes of marked hyperkalemia
-that we see in ECG #1 and ECG #2 — become readily
-apparent when we compare these tracings to ECG #3, which
-is a baseline tracing from todayʼs patient, recorded when
-serum K+ was normal.
- 4/10
-Figure-1: To facilitate comparison — Iʼve reproduced the first 3 tracings in
-todayʼs case.
-Pendell Meyers onJuly 14, 2025
-COMPUTER FALSE POSITIVE HYPERK HYPERKALEMIA
-QUEEN KNOWS FALSE POSITIVE SINE WAVE
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-Why did it take 70 Is it Always Best to
-years for this to cause Activate when
-trouble? And what are Convinced of Acute
-the markers of risk in OMI in a STEMI World?
-this ECG?
+
+Tall, peaked, symmetric T waves with narrow bases
+
+Occasionally inverted peaked T waves
+
+Brugada phenocopy patterns
+
+Selected patients may remain alert and hemodynamically stable despite critically elevated serum potassium levels.
+
+Comparison with a baseline ECG recorded during normal potassium levels highlights the dramatic ECG changes caused by hyperkalemia.

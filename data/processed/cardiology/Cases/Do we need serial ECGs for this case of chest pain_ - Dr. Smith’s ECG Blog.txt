@@ -1,164 +1,86 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Do we need serial ECGs for this case of chest pain_ - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:38:06.551478",
-  "file_size_bytes": 13401399,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Do we need serial ECGs for this case of chest pain_ - Dr. Smith’s ECG Blog.pdf"
-}
+A 40-something patient called emergency services for approximately 30 minutes of left-sided chest pain radiating to the right arm and shoulder. Radiation to the right shoulder (and especially to both shoulders) is a high-risk symptom for acute coronary occlusion.
 
-=== СОДЕРЖАНИЕ ===
+Initial Prehospital ECG (22:38)
 
-Steve Smith onMay 2, 2025
-Do we need serial ECGs for
-this case of chest pain?
-From Drew Williams
-A 40-something patient called 911 for 30 minutes of left sided chest
-pain radiating to right arm/shoulder (Smith aside: radiation to right
-shoulder is a really high risk symptom, and especially radiation to
-both shoulders).
- 
-A prehospital ECG was recorded at 2238.
-The Zoll conventional computer interpretation said “nonspecific ST-T
-abnormalities”
-What do you think?
-This was sent to me by Drew with no information. My interpretation
-was “Acute OMI.” Why? There are hyperacute T-waves in III and aVF,
-and reciprocally inverted hyperacute T-wave in aVL. There is also a
-flattened ST segment in V2. So this is OMI affecting the inferior and
-posterior walls.
-
-Here is the PMCardio Queen of Hearts ECG AI Model:
- 1/11
-She sees the inferior OMI but apparently does not see the posterior
-OMI. Nevertheless, she recommends “Immediate invasive strategy.”
-The medics did not activate the cath lab based on this ECG. They did
-record more serial ECGs:
-At 2244 (time 6 minutes after first):
-At 2246:
-At 2254 (16 min):
-At this time, the cath lab was activated.
-Here is the angiogram:
- 2/11
-Very tight RCA stenosis, with some flow beyond.
-It was stented.
-Learning Point:
-Acute OMI can be extremely subtle on the ECG, but still be
-diagnostic. The Queen of Hearts can help you see it.
-Recording serial ECGs is critical if you donʼt see the OMI on the first
-one, and important even if you do.
-===================================
-MY Comment, by KEN GRAUER, MD (5/2/2025):
-===================================
-Credit to the EMS team for their excellent work in today’s case!
-The EMS team immediately recognized the high-probability risk of
-today’s 40-something year old patient — who presented with new-
-onset CP (Chest Pain), radiating to his right arm/shoulder.
-The team recognized the abnormal initial ECG that was immediately
-recorded.
-They appropriately obtained rapid-succession serial ECGs — and
-successfully enabled cath lab activation with the recording of the 4th
-ECG.
-End Result: Thanks to the excellent work of the EMS team — the
-order for cath lab activation was made within 16 minutes of
-recording the 1st ECG — which is hours sooner than all-too-
- 3/11
-many cases sent our way for review/discussion in Dr. Smith’s ECG
-Blog.
-I focus My Comment on several additional pointers that make for a
-few recurrent themes that we regularly address on Dr. Smith’s ECG Blog.
-By way of illustration in Figure-1 — I have reproduced and
-placed next-to-each-other 3 of the 4 ECGs in today’s case (ECG #3
-shown above in Dr. Smith’s discussion — was obtained just 2
-minutes after ECG #2, and is essentially unchanged from that ECG
-#2).
-Figure-1: Comparison between the 1st, 2nd and 4th ECGs in today’s
-case.
-Additional Pointers:
-Given the history in today’s case of new-onset worrisome CP — ECG
-#1 by itself (as indicated by Dr. Smith) — is already diagnostic of
-an acute infero-postero OMI until proven otherwise. Pending receptive
-physician providers — the cath lab could have been activated at
-22:39 (ie, within one minute of seeing ECG #1).
-Although subtle — T waves in each of the inferior leads of ECG
-#1 are larger and “fatter”-at-their-peak and wider-at-their-base than
-expected (given relative amplitude of the QRS in each of these
-respective leads).
-To Emphasize: Recognition that the T waves in these inferior leads
-of ECG #1 are hyperacute is subtle — BUT — we know it is
-“real” until proven otherwise because: i) The patient’s history is very
- 4/11
-worrisome; ii) These abnormal T waves are seen in all 3 of the
-inferior leads; iii) There is reciprocal ST depression in lead aVL (as
-well as subtle ST segment straightening and slight depression in
-lead I, which is the other high-lateral limb lead); and, iv) As per the
-next bullet — leads V2 and V3 indicate associated acute posterior
-OMI.
-One of my favorite ways to verify that subtle limb lead findings
-potentially suggestive of acute inferior OMI are “real” — is to focus
-on leads V2 and V3. Both of these anterior chest leads normally
-manifest slight, upward-sloping ST elevation. As a result —
-the BLUE arrows that I’ve drawn in these leads in this patient
-with new CP are diagnostic of acute posterior OMI —
-and that finding confirms the acute inferior OMI that we suspected
-in the limb leads (because of the usual common blood supply
-provided by the RCA to these 2 areas).
-KEY Point:
-Unless comparison of serial tracings is accomplished with both ECGs you
-are comparing placed next-to-each-other — you will miss subtle-but-
-important changes!
-Isn’t it EASIER to compare ECG #1 and ECG #2 from Figure-1, in
-which I have placed these tracings next-to-each-other?
-Isn’t it EASY to see slight-but-definite increase in the relative size
-(and volume) of the T waves in each of the inferior leads in ECG
-#2? (again — relative to QRS amplitude in these leads).
-In addition — the degree of reciprocal ST depression in lead
-aVL is clearly increased in ECG #2 compared to ECG #1.
-NOTE: If there was any doubt about whether ECG #1 indicated a
-need for immediate cath — that doubt would have been eliminated
-by the “dynamic” ST-T wave changes in ECG #2, that have
-occurred in just 6 minutes since ECG #1 was recorded.
-Regarding ECG #4:
-The acute inferior MI is now with this 4th serial ECG obvious from across
-the room (ie, There is increasing ST elevation in leads III and aVF — with
-the hyperacute T wave in lead III now surpassing R wave amplitude in this
-lead).
-===========================
-Learning Points:
-The diagnosis of acute infero-postero OMI in today’s case — can be
-made solely by the history and the initial ECG. While excellent
-work by the EMS team is accomplished, to document what
-transpires over the ensuing 16 minutes en route to the hospital
-— no other ECG is needed to know that prompt cath lab activation
- 5/11
-is indicated (unless you are faced with having to convince a
-skeptical cardiologist — in which case, hopefully ECG #2 will be all
-that is needed).
-Troponins will certainly be drawn. But as we’ve often emphasized
-on Dr. Smith’s ECG Blog — the initial (and even the 2nd) Troponin
-may be negative despite acute OMI — so there is nothing that we
-will learn about the need for prompt cath from these first few
-Troponin values. (Troponin may give us a “rear-view mirror look” at
-relative size of the MI).
-BEST use of serial ECGs — is to indicate the presence and
-relative severity of CP on a scale of 1-to-10 for each serial
-ECG. As we have often emphasized — correlation of each ECG
-with the presence and severity of CP at the time each ECG is
-recorded — may provide invaluable insight as to whether the
-“culprit” vessel has spontaneously opened or has once again
-spontaneously closed.
-Today’s case provides a wonderful illustration of the phenomenon
-of “dynamic” ST-T wave changes — that on occasion may serve
-to remove any doubt that might remain as to whether an acute event
-is actively ongoing.
-Steve Smith onMay 2, 2025
-INFERIOR OMI SUBTLE PREHOSPITAL ECG SERIAL ECG
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-What is this rhythm? Chest pain. Is this EKG
-And what should we completely Normal?
-do about it? First hs troponin T = 32
-ng/L. Management?
-Diagnosis?
+The automated ECG interpretation reported “nonspecific ST-T abnormalities.”
+Expert interpretation identified acute occlusion myocardial infarction (OMI).
+
+Key findings:
+
+Hyperacute T waves in inferior leads III and aVF
+
+Reciprocal inverted hyperacute T wave in aVL
+
+Subtle ST-segment flattening in V2
+
+Pattern consistent with inferior OMI with associated posterior involvement
+
+These findings are subtle but diagnostic in the correct clinical context.
+
+AI Interpretation
+
+The PMCardio Queen of Hearts model identified inferior OMI and recommended an immediate invasive strategy, though it did not explicitly identify posterior involvement.
+
+Serial ECGs
+
+EMS recorded multiple serial ECGs:
+
+22:44 (6 minutes after first ECG)
+
+22:46
+
+22:54 (16 minutes after first ECG)
+
+Over these recordings:
+
+Inferior T waves became progressively more hyperacute
+
+Reciprocal ST depression in aVL increased
+
+Inferior ST elevation became increasingly obvious
+
+After the fourth ECG, the cath lab was activated.
+
+Angiographic Findings
+
+Coronary angiography revealed a critical RCA stenosis with residual flow, which was successfully stented.
+
+Diagnostic Insights
+
+Acute OMI can be ECG-diagnostic while still extremely subtle, especially early in its course. Hyperacute T waves—disproportionately tall, bulky, and wide relative to QRS amplitude—may be the only early sign.
+
+Posterior OMI can be detected indirectly:
+
+Leads V2–V3 normally show mild ST elevation
+
+ST flattening or depression in these leads during chest pain is abnormal
+
+This supports the diagnosis of inferior-posterior OMI when inferior lead findings are subtle
+
+Role of Serial ECGs
+
+Serial ECGs are critical when:
+
+The first ECG is equivocal or under-recognized
+
+Dynamic ST-T changes evolve over minutes
+
+Convincing skeptical consultants of an acute occlusive process
+
+However, in this case, the initial ECG alone, combined with a high-risk history, was sufficient to justify immediate cath lab activation.
+
+Learning Points
+
+Acute OMI may be present despite “nonspecific” computer ECG interpretations
+
+Hyperacute T waves can be diagnostic even without clear ST elevation
+
+Reciprocal changes (especially in aVL) strongly support true ischemia
+
+Posterior OMI is often missed unless V2–V3 are carefully assessed
+
+Serial ECGs should always be compared side-by-side
+
+Troponin values do not guide the decision to activate the cath lab in ECG-diagnostic OMI
+
+Correlating ECG changes with pain severity provides insight into vessel occlusion and reperfusion

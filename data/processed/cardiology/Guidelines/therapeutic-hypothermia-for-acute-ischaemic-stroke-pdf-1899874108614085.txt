@@ -1,43 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "therapeutic-hypothermia-for-acute-ischaemic-stroke-pdf-1899874108614085.pdf",
-  "converted_date": "2026-01-31T14:49:23.222666",
-  "file_size_bytes": 60787,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/therapeutic-hypothermia-for-acute-ischaemic-stroke-pdf-1899874108614085.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Therapeutic hypothermia for
-acute ischaemic stroke
-Interventional procedures guidance
-Published: 29 May 2019
-www.nice.org.uk/guidance/ipg647
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-
-Therapeutic hypothermia for acute ischaemic stroke (IPG647)
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+Therapeutic hypothermia for acute ischaemic stroke
 1 Recommendations
 1.1 Current evidence on the safety of therapeutic hypothermia for acute
 ischaemic stroke shows that there are serious complications. Evidence
@@ -61,7 +22,7 @@ haemorrhagic stroke.
 Current treatments
 2.2 Patients suspected to be having an acute ischaemic stroke should have
 
-Therapeutic hypothermia for acute ischaemic stroke (IPG647)
+ 
 rapid assessment and early intervention with specialist care according to
 NICE's guideline on stroke and transient ischaemic attack in over 16s.
 Recanalisation strategies, such as thrombolysis, attempt to re-establish
@@ -91,7 +52,7 @@ mechanical thrombectomy or other vascular reperfusion techniques.
 2.6 The aim of the procedure is to reduce the risk of secondary brain
 damage.
 
-Therapeutic hypothermia for acute ischaemic stroke (IPG647)
+ 
 3 Committee considerations
 The evidence
 3.1 To inform the committee, NICE did a rapid review of the published
@@ -118,8 +79,3 @@ temperatures can be difficult to achieve.
 3.7 This procedure should be differentiated from targeted temperature
 management more generally, which also includes treatment and
 prevention of pyrexia.
-ISBN: 978-1-4731-3369-3
-
-Therapeutic hypothermia for acute ischaemic stroke (IPG647)
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

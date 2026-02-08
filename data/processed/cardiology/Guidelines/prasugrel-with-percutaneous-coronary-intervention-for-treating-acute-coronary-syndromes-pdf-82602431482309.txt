@@ -1,53 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "prasugrel-with-percutaneous-coronary-intervention-for-treating-acute-coronary-syndromes-pdf-82602431482309.pdf",
-  "converted_date": "2026-01-31T14:48:18.813284",
-  "file_size_bytes": 249216,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/prasugrel-with-percutaneous-coronary-intervention-for-treating-acute-coronary-syndromes-pdf-82602431482309.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Prasugrel with
-percutaneous coronary
-intervention for treating
-acute coronary syndromes
-Technology appraisal guidance
-Published: 23 July 2014
-www.nice.org.uk/guidance/ta317
-
 Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
-
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
-This guidance replaces TA182.
 1 Recommendations
 This guidance replaces NICE's technology appraisal guidance 182 on prasugrel for the
 treatment of acute coronary syndromes with percutaneous coronary intervention.
@@ -58,8 +9,7 @@ elevation myocardial infarction [NSTEMI] or ST segment elevation myocardial
 infarction [STEMI]) having primary or delayed percutaneous coronary
 intervention.
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 2 Clinical need and practice
 2.1 Acute coronary syndromes refers to a group of symptoms associated with acute
 myocardial ischaemia with or without infarction. It encompasses a spectrum of
@@ -93,8 +43,7 @@ respectively. Twice as many men had myocardial infarctions as women.
 2.4 Long-term management of acute coronary syndromes includes the use of aspirin
 in combination with a thienopyridine (clopidogrel, prasugrel) or
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 acyclopentyl-triazolo-pyrimidine (ticagrelor). NICE has produced guidelines on
 myocardial infarction with ST-segment-elevation: The acute management of
 myocardial infarction with ST-segment-elevation (now replaced by NICE's
@@ -130,8 +79,7 @@ intervention in October 2009, generic formulations of clopidogrel have become
 available and NICE has published its appraisal of ticagrelor (NICE's technology
 appraisal guidance on ticagrelor for the treatment of acute coronary syndromes).
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 3 The technology
 3.1 Prasugrel (Efient, Eli Lilly and Company/Daiichi-Sankyo) is an oral inhibitor of
 platelet activation and aggregation. It works by the irreversible binding of its
@@ -164,8 +112,7 @@ characteristics.
 The cost of treatment for 12 months is £628.47 (excluding VAT). Costs may vary
 in different settings because of negotiated procurement discounts.
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 4 Evidence and interpretation
 The Appraisal Committee considered evidence submitted by the manufacturer of
 enzalutamide and a review of this submission by the Evidence Review Group (ERG).
@@ -196,8 +143,7 @@ composite end points were also included. Major safety end points included
 thrombolysis in myocardial infarction (TIMI) major bleeding not related to
 coronary artery bypass graft (CABG), non-CABG-related TIMI life-threatening
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 bleeding, and TIMI major bleeding (a fall in haemoglobin of 5 g/100 ml or more) or
 minor bleeding (a fall in haemoglobin of 3 g to less than 5 g/100 ml).
 4.1.4 Wiviott et al. (2011) reported the results for a core clinical cohort of the
@@ -232,8 +178,7 @@ patients [2.4%] and prasugrel 133 of 6,813 patients [2.1%], hazard ratio 0.89 [9
 CI 0.70 to 1.12], p=0.31); non-fatal strokes (clopidogrel 60 of 6,795 patients [1.0%]
 and prasugrel 61 of 6,813 patients [1.0%], hazard ratio 1.02 [95% CI 0.71 to 1.45],
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 p= 0.93); or deaths from any cause (clopidogrel 197 of 6,795 patients [3.2%] and
 prasugrel 188 of 6,813 patients [3.0%], hazard ratio 0.95 [95% CI 0.78 to 1.16],
 p=0.64).
@@ -268,8 +213,7 @@ greater reduction in ischaemic events without an observed increase in non-
 CABG-related TIMI major bleeding, and therefore showed a greater net
 treatment benefit with prasugrel compared with clopidogrel.
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 Assessment Group's report
 4.1.9 The Assessment Group's report focused on the results of the core clinical cohort
 population of TRITON-TIMI 38, as reported in Wiviott et al. (2011). The
@@ -306,8 +250,7 @@ thrombolysis in myocardial infarction [TIMI] major bleed; clopidogrel 641 of
 difference between the 2 groups in terms of the number of patients with
 non-CABG-related TIMI major bleeding (clopidogrel 73 of 5,337 patients [1.5%]
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 and prasugrel 91 of 5,390 patients [1.9%], hazard ratio 1.24 [95% CI 0.91 to 1.69],
 p=0.17). The Assessment Group commented that the results for both composite
 outcomes appeared to be driven by the number of non-fatal myocardial
@@ -342,8 +285,7 @@ Group noted that the clinical effectiveness of prasugrel appeared to be
 consistent across the range of subgroups presented, including STEMI, unstable
 angina or NSTEMI and patients with and without diabetes. It highlighted that no
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 specific clinical-effectiveness data were available for patients with STEMI and
 diabetes, STEMI without diabetes, unstable angina or NSTEMI with diabetes, or
 unstable angina or NSTEMI without diabetes. The Assessment Group also
@@ -378,8 +320,7 @@ whereas a loading dose of 600 mg may be administered in clinical practice in
 England and Wales.
 • The majority (74%) of patients in the trial received the clopidogrel loading
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 dose during the percutaneous coronary intervention procedure. In clinical
 practice in England and Wales, patients undergoing planned percutaneous
 coronary intervention receive the clopidogrel loading dose before the
@@ -411,8 +352,7 @@ Assessment Group was therefore unable to draw any conclusions about the
 health-related quality of life of patients treated with prasugrel or clopidogrel in
 the TRITON-TIMI 38 trial.
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 Prasugrel compared with ticagrelor
 4.1.20 The Assessment Group noted that there were no trials directly comparing
 prasugrel with ticagrelor. It considered performing an indirect comparison
@@ -448,8 +388,7 @@ clopidogrel were evident for the end points of total major and minor bleed
 (hazard ratio 1.11 [95% CI 1.03 to 1.20], p=0.008) and non-CABG-related major
 bleed (hazard ratio 1.19 [95% CI 1.02 to 1.38], p=0.03).
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 4.1.23 The Assessment Group stated that the TITRON-TIMI 38 and PLATO trials were
 not comparable, and so a comparison between prasugrel and ticagrelor based on
 these trials was inappropriate. It noted that TRITON-TIMI 38 and PLATO were
@@ -483,8 +422,7 @@ October 2018 (the final data collection date for primary outcome measure is
 October 2016). The results of this study should allow a formal comparison of the
 efficacy of prasugrel compared with ticagrelor.
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 Submission statements from other consultees
 4.1.26 A professional group commented that although evidence supporting the use of
 prasugrel in STEMI treated by primary percutaneous coronary intervention is
@@ -518,8 +456,7 @@ percutaneous coronary intervention or by other means and in patients with
 diabetes and acute coronary syndromes of any variety (STEMI, NSTEMI or
 unstable angina).
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 4.2 Cost effectiveness
 Manufacturer's economic model
 4.2.1 The manufacturer submitted an economic model similar to the model described in
@@ -552,8 +489,7 @@ patients with events included in the analysis. Therefore, the manufacturer
 conducted a systematic review of the literature to identify studies relevant to the
 modelled trial population. Mean utility decrements for acute coronary syndromes
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 (0.041) and stroke or myocardial infarction (0.052) were taken directly from a US
 study (Sullivan et al., 2006) that was designed to produce a specific list of
 preference weights for use in economic evaluations; the study used the US
@@ -589,8 +525,7 @@ recommended to be treated with a 5 mg maintenance dose), the ICER was
 • For the core clinical cohort (excluding prior stroke or transient ischaemic
 attack and those weighing less than 60 kg, or aged 75 years or older), the
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 ICER was £11,796 per QALY gained.
 • For the unstable angina or NSTEMI licensed population (excluding patients
 with prior stroke or transient ischaemic attack and including patients who are
@@ -621,8 +556,7 @@ following:
 • amending the long-term relative risks of mortality (by ignoring the impact of
 acute coronary syndromes before events that occurred in the TRITON-
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 TIMI 38 trial)
 • reducing the incidence of non-fatal myocardial infarctions such that the
 underlying rate was 50% of that of the trial.
@@ -653,8 +587,7 @@ identified, none of the papers met the full inclusion criteria that had been set
 review identified the 3 studies included in the manufacturer's review of
 cost-effectiveness evidence – two from a US perspective and one which used the
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 economic model originally submitted during NICE's technology appraisal
 guidance 182 on prasugrel for the treatment of acute coronary syndromes with
 percutaneous coronary intervention but these were excluded by the Assessment
@@ -687,8 +620,7 @@ manufacturer's submission or the most recent publication. In place of these
 data, the Assessment Group extracted the outcomes from the manufacturer's
 short-term model for the 4 mutually exclusive subgroups of the core clinical
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 cohort and used these as the initial conditions for surviving patients entering
 the Assessment Group's long-term state-transition model.
 4.2.13 For the long-term projection, the Assessment Group used a modified version of
@@ -724,8 +656,7 @@ adviser had confirmed that CAPRIE data was an appropriate trial source for
 extrapolating long-term vascular events and that no better source had become
 available since 2010. The CAPRIE trial was a double-blind placebo comparison of
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 clopidogrel with aspirin involving 19,185 patients with atherosclerotic vascular
 diseases manifested as either ischaemic stroke, myocardial infarction or
 symptomatic peripheral arterial disease. Only CAPRIE data from 5,741 patients
@@ -762,8 +693,7 @@ annual cost in the event-free or myocardial infarction-only health state is £61
 health state it is £1,804.06 (standard error £92.04, 95% CI
 £1,623.66 to £1,984.47) and in the disabling stroke health state it is £5,537.72
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 (standard error £282.54, 95% CI £4,983.95 to £6,091.50).
 4.2.18 The Assessment Group obtained the continuing health-state EQ-5D utility value
 for patients who were event-free or suffered a non-fatal myocardial infarction
@@ -799,8 +729,7 @@ costs and outcomes. The Assessment Group's model generated results at the
 end of every year from trial randomisation. However, deterministic results were
 reported at 1, 5, 10, 20 and 40 years, and probabilistic results at 5 and 40 years.
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 4.2.21 The Assessment Group assumed that follow-up secondary prophylaxis was
 limited to low-dose aspirin. The Assessment Group stated that it made this
 assumption for convenience and to avoid the possibility of obscuring the primary
@@ -836,8 +765,7 @@ incremental QALYs 0.297).
 £224,302 per QALY gained (incremental cost £422, incremental QALYs 0.002).
 The ICER decreased to £29,607 per QALY gained at year 5 of follow up
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 (incremental cost £465, incremental QALYs 0.016), £13,370 per QALY gained at
 year 10 (incremental cost £482, incremental QALYs 0.036), and at year 40 the
 ICER had decreased to £6,626 per QALY gained (incremental cost £555,
@@ -874,8 +802,7 @@ which indicated that uncertainty from event incidence and fatality rates had the
 largest effect on the estimated ICER (ranging between £2,500 and £6,500 per
 QALY gained). Probabilistic analysis at 40 years of follow up resulted in a lower
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 estimated ICER of £4,154 per QALY gained (incremental cost £212 and
 incremental QALYs 0.051).
 Summary of the deterministic base-case results from the
@@ -914,8 +841,7 @@ of the different economic models used. In particular, in the current appraisal b
 manufacturer and the Assessment Group used the whole licensed population in their
 models, rather than the typical/median patient profile used in the model for the original
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 appraisal (see sections 4.2.1 and 4.2.11). Also, in the current appraisal the Assessment
 Group used data from the CAPRIE trial in its long-term model rather than data from
 TRITON-TIMI 38 (see section 4.2.15).
@@ -950,8 +876,7 @@ alternative to clopidogrel or ticagrelor. The Committee heard from patient exper
 and clinical specialists that, overall, prasugrel is a useful addition to the treatment
 options available. It has a potentially key advantage over clopidogrel because of
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 its faster antiplatelet action. However, the Committee also noted that prasugrel
 increased the chance of (potentially fatal) bleeding compared with clopidogrel.
 The Committee also heard from the clinical specialists that there was variation in
@@ -987,8 +912,7 @@ Committee was aware that since the publication of the ACCOAST results, the
 summary of product characteristics for prasugrel had been updated to explicitly
 state that in patients with unstable angina or NSTEMI, if angiography is
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 performed within 48 hours of admission, the loading dose should only be given at
 the time of percutaneous coronary intervention. The clinical specialist highlighted
 that the results from TRILOGY (designed to compare the effectiveness of
@@ -1025,8 +949,7 @@ clinical effectiveness of prasugrel compared with clopidogrel in the
 TRITON-TIMI 38 trial. Firstly, the Committee heard from clinical specialists that, in
 clinical practice, clopidogrel is administered several hours before percutaneous
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 coronary intervention (preloading) in most non-urgent procedures carried out in
 England. Additionally, the preloaded dose of clopidogrel is often 600 mg. This
 dose and timing of clopidogrel therefore differed from that used in
@@ -1065,8 +988,7 @@ clopidogrel group in the trial than might be experienced in a similar cohort of
 patients having percutaneous coronary intervention in routine clinical practice in
 England. As a result, the advantages of prasugrel over clopidogrel in preventing
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 cardiovascular events may have been overstated in the overall trial population
 and core clinical cohort population of the TRITON-TIMI 38 study.
 4.3.5 A second source of uncertainty concerning the clinical data from TRITON-TIMI 38
@@ -1103,8 +1025,7 @@ clopidogrel in terms of net clinical benefit for either the overall trial popula
 the Committee's preferred population, the core clinical cohort (see section 4.3.3).
 The Committee therefore considered whether there were any identifiable
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 subgroups of patients for whom prasugrel might show superiority over
 clopidogrel with less uncertainty.
 4.3.7 The Committee considered the clinical evidence for prasugrel in the subgroup of
@@ -1140,8 +1061,7 @@ clopidogrel-resistant (that is, patients whose platelet levels do not respond
 adequately to the dosage of clopidogrel with which they are treated). The
 Committee understood that these patients may be at risk of further events if their
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 treatment is not adjusted adequately, but the Committee was aware that it was
 not routine clinical practice to test for platelet response to clopidogrel. The
 Committee heard from the clinical specialists that in around a quarter of patients
@@ -1178,8 +1098,7 @@ dose since the publication of the original appraisal of prasugrel, which include
 data from the TRILOGY trial (see section 4.3.2). The Committee was aware that
 safety data for the 5 mg dose of prasugrel from the TRILOGY trial had led to an
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 update of the information on the 5 mg dose in the drug's summary of product
 characteristics. However, the Committee noted that it had not been presented
 with any evidence for the efficacy of the lower dose of prasugrel and, therefore,
@@ -1215,8 +1134,7 @@ was associated with a significantly lower risk of stent thrombosis, ticagrelor w
 associated with a significantly lower risk of any major bleeding and major
 bleeding associated with cardiac surgery. The Committee concluded that, on
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 balance, it was not able to distinguish the clinical effectiveness of prasugrel and
 ticagrelor in patients with STEMI, unstable angina, or NSTEMI. However, in the
 case of STEMI only, there was some support for the possibility of clinical
@@ -1251,8 +1169,7 @@ from prasugrel dominating to £6,626 per QALY gained at 40 years), however, at
 diabetes were over £20,000 per QALY gained (£29,607 and £52,288 per QALY
 gained respectively). The Committee noted that the QALY gains for prasugrel
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 over the 40-year time horizon for the STEMI without diabetes and the unstable
 angina or NSTEMI without diabetes subgroups were small (0.084 and 0.053
 respectively), as was the difference in costs between prasugrel and clopidogrel
@@ -1289,8 +1206,7 @@ clopidogrel in patients with unstable angina or NSTEMI with and without
 diabetes. The Committee noted that for patients with unstable angina or NSTEMI
 and diabetes, prasugrel dominated clopidogrel at the 40-year time horizon. For
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 patients with unstable angina or NSTEMI without diabetes, the 40-year ICER from
 the Assessment Group's model was £4,700 per QALY gained. It accepted that the
 difference between the TRITON-TIMI 38 trial and clinical practice in the time
@@ -1312,8 +1228,7 @@ similar cost-effectiveness of prasugrel compared with clopidogrel and that of
 ticagrelor compared with clopidogrel, and their similar treatment costs, it was
 reasonable to accept that prasugrel is similarly cost-effective to ticagrelor.
 
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
+ 
 5 Implementation
 5.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -1330,151 +1245,3 @@ available within the period set out in the paragraphs above. This means that if 
 person has acute coronary syndromes and the healthcare professional
 responsible for their care thinks that prasugrel is the right treatment, it should be
 available for use, in line with NICE's recommendations.
-
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
-6 Appraisal Committee members and
-NICE project team
-Appraisal Committee members
-The Appraisal Committees are standing advisory committees of NICE. Members are
-appointed for a 3-year term. A list of the Committee members who took part in the
-discussions for this appraisal appears below. There are 4 Appraisal Committees, each with
-a chair and vice chair. Each Appraisal Committee meets once a month, except in
-December when there are no meetings. Each Committee considers its own list of
-technologies, and ongoing topics are not moved between Committees.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that appraisal.
-The minutes of each Appraisal Committee meeting, which include the names of the
-members who attended and their declarations of interests, are posted on the NICE
-website.
-Professor Andrew Stevens
-Chair of Appraisal Committee C, Professor of Public Health, University of Birmingham
-Professor Eugene Milne
-Vice Chair of Appraisal Committee C, Director of Public Health, City of Newcastle upon
-Tyne
-Professor Kathryn Abel
-Director of Centre for Women's Mental Health, University of Manchester
-Dr David Black
-Medical Director, NHS South Yorkshire and Bassetlaw
-David Chandler
-Lay member
-
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
-Gail Coster
-Advanced Practice Sonographer, Mid Yorkshire Hospitals NHS Trust
-Professor Peter Crome
-Honorary Professor, Dept of Primary Care and Population Health, University College
-London
-Professor Rachel A Elliott
-Lord Trent Professor of Medicines and Health, University of Nottingham
-Dr Greg Fell
-Consultant in Public Health, Bradford Metropolitan Borough Council
-Dr Alan Haycox
-Reader in Health Economics, University of Liverpool Management School
-Dr Janice Kohler
-Formerly Senior lecturer and consultant in paediatric oncology, Southampton University
-Hospitals Trust
-Emily Lam
-Lay member
-Dr Nigel Langford
-Consultant in Clinical Pharmacology and Therapeutics and Acute Physician, Leicester
-Royal Infirmary
-Dr Allyson Lipp
-Principal Lecturer, University of South Wales
-Dr Claire McKenna
-Research Fellow in Health Economics, University of York
-Professor Gary McVeigh
-Professor of Cardiovascular Medicine, Queens University Belfast and Consultant Physician,
-Belfast City Hospital
-Henry Marsh
-
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
-Consultant Neurosurgeon, St George's Hospital, London
-Professor Stephen O'Brien
-Professor of Haematology, Newcastle University
-Dr Anna O'Neill
-Deputy Head of Nursing & Healthcare School and Senior Clinical University Teacher,
-University of Glasgow
-Alan Rigby
-Academic Reader, University of Hull
-Professor Peter Selby
-Consultant Physician, Central Manchester University Hospitals NHS Foundation Trust
-Professor Matt Stevenson
-Technical Director, School of Health and Related Research, University of Sheffield
-Dr Paul Tappenden
-Reader in Health Economic Modelling, School of Health and Related Research, University
-of Sheffield
-Professor Robert Walton
-Clinical Professor of Primary Medical Care, Barts and The London School of Medicine &
-Dentistry
-Dr Judith Wardle
-Lay member
-NICE project team
-Each technology appraisal is assigned to a team consisting of 1 or more health technology
-analysts (who act as technical leads for the appraisal), a technical adviser and a project
-manager.
-Helen Tucker and Ella Fields
-Technical Leads
-
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
-Nicola Hay
-Technical Adviser
-Nicole Fisher
-Project Manager
-
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
-7 Sources of evidence considered by the
-Committee
-The assessment report for this appraisal was prepared by Liverpool Reviews and
-Implementation Group:
-• Greenhalgh, J, et al. (2013) Prasugrel with percutaneous coronary intervention for
-treating acute coronary syndromes (review of TA182).
-The following organisations accepted the invitation to participate in this appraisal as
-consultees and commentators. They were invited to comment on the draft scope,
-assessment report and the appraisal consultation document (ACD). Manufacturers or
-sponsors, professional or specialist and patient or carer groups, and other consultees,
-were also invited to make written submissions and have the opportunity to appeal against
-the final appraisal determination.
-Manufacturers or sponsors:
-• Eli Lilly and Company/Daiichi-Sankyo
-Professional or specialist and patient or carer groups:
-• Pumping Marvellous Foundation
-• South Asian Health Foundation
-• British Cardiovascular Intervention Society
-• British Heart Foundation
-• Royal College of Nursing
-• Royal College of Physicians
-Other consultees:
-• Department of Health
-• NHS Fylde & Wyre CCG
-
-Prasugrel with percutaneous coronary intervention for treating acute coronary syndromes
-(TA317)
-• Welsh Government
-Commentator organisations (without the right of appeal):
-• Commissioning Support Appraisals Service
-• Department of Health, Social Services and Public Safety- Northern Ireland
-• Health Improvement Scotland
-• Medicines and Healthcare products Regulatory Agency
-The following individuals were selected from clinical specialist and patient expert
-nominations from the consultees and commentators. They participated in the Appraisal
-Committee discussions and provided evidence to inform the Appraisal Committee's
-deliberations. They gave their expert personal view on prasugrel with percutaneous
-coronary intervention for treating acute coronary syndrome by attending the initial
-Committee discussion and/or providing written evidence to the Committee. They were also
-invited to comment on the ACD.
-• Professor Nick Curzen, Professor of Interventional Cardiology, nominated by British
-Cardiovascular Intervention Society – clinical specialist
-• Dr Tim Kinnaird, Consultant Cardiologist, nominated by Eli Lilly and Company
-• Nick Hartshorne-Evans, CEO, nominated by the Pumping Marvellous Foundation –
-patient expert
-Representatives from the following manufacturers or sponsors attended Committee
-meetings. They contributed only when asked by the Committee chair to clarify specific
-issues and comment on factual accuracy.
-• Eli Lilly and Company
-ISBN 978-1-4731-0658-1

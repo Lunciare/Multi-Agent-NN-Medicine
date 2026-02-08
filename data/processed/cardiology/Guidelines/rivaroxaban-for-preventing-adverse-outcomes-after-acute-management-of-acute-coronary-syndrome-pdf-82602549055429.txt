@@ -1,53 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "rivaroxaban-for-preventing-adverse-outcomes-after-acute-management-of-acute-coronary-syndrome-pdf-82602549055429.pdf",
-  "converted_date": "2026-01-31T14:49:50.517394",
-  "file_size_bytes": 193614,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/rivaroxaban-for-preventing-adverse-outcomes-after-acute-management-of-acute-coronary-syndrome-pdf-82602549055429.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Rivaroxaban for preventing
-adverse outcomes after
-acute management of acute
-coronary syndrome
-Technology appraisal guidance
-Published: 25 March 2015
-www.nice.org.uk/guidance/ta335
-
 Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
-
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
-This guidance replaces ESNM27.
+syndrome
 1 Recommendations
 1.1 Rivaroxaban is recommended as an option within its marketing authorisation, in
 combination with aspirin plus clopidogrel or aspirin alone, for preventing
@@ -63,8 +15,7 @@ after starting treatment. Clinicians should regularly reassess the relative bene
 and risks of continuing treatment with rivaroxaban and discuss them with the
 patient.
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 2 The technology
 2.1 Rivaroxaban (Xarelto, Bayer), co-administered with aspirin alone or with aspirin
 plus clopidogrel or ticlopidine, is indicated for the prevention of atherothrombotic
@@ -95,8 +46,7 @@ duration of therapy. Assuming a treatment duration of 12 months, total acquisiti
 costs are £766.50. Costs may vary in different settings because of negotiated
 procurement discounts.
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 3 The company's submission
 The Appraisal Committee considered evidence submitted by the company that
 manufactures rivaroxaban and a review of this submission by the Evidence Review Group
@@ -131,8 +81,7 @@ not fixed because the trial was event-driven (that is, the time needed to obtain
 least 983 primary efficacy end-point events across both strata and at least
 728 primary efficacy events in stratum 2). The mean duration of treatment was
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 13.1 months.
 3.3 The company considered the baseline patient characteristics of those enrolled
 into ATLAS-ACS 2-TIMI 51 to be generally similar between the treatment groups.
@@ -167,8 +116,7 @@ range of secondary composite end points were also included. These were:
 non-CABG TIMI major bleeding [major bleeding assessed using 'Thrombolysis
 in Myocardial Infarction' criteria not related to coronary-artery bypass
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 grafting])
 • composite of CV death, MI, stroke or severe recurrent ischaemia needing
 revascularisation
@@ -209,8 +157,7 @@ across a number of subgroups for the whole trial population only (combined
 2.5 mg twice daily and 5 mg twice daily doses of rivaroxaban). These included
 age, sex, creatinine clearance, previous MI, stroke or transient ischaemic attack
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 (TIA) and index event (STEMI, NSTEMI or unstable angina). The company stated
 that in general, rivaroxaban treatment was consistently associated with improved
 outcomes across all major subgroups (with the exception of the subgroup
@@ -250,8 +197,7 @@ HR 0.55 HR 0.89 HR 0.72
 CV death 95% CI 0.41 to 0.74 95% CI 0.69 to 1.15 95% CI 0.57 to 0.90
 p<0.001 p=0.360 p=0.004
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 2.5 mg Rivaroxaban bd versus 5 mg Rivaroxaban bd versus Combined rivaroxaban dose versus
 All strata n=12,353
 placebo placebo placebo
@@ -287,8 +233,7 @@ for 1117 (86.3%) patients. During discussions with the US Food and Drug
 Administration (FDA), concerns were raised about the level of missing data as a
 result of the incomplete follow up of patients who withdrew from the trial. The
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 company therefore made extensive efforts to obtain vital status information on
 patients who withdrew consent. This reduced the proportion of patients with
 unknown vital status to 3.2% (495 patients) in the intention to treat (ITT) analysis
@@ -323,8 +268,7 @@ confidence interval [CI]: 1.97, 6.01) for the 2.5 mg rivaroxaban twice-daily gro
 4.4 (95% CI 2.55 to 7.60) for the rivaroxaban 5 mg twice-daily group and 3.91
 (95% CI 2.32 to 6.59) for the rivaroxaban combined-dose group.
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 Cost effectiveness
 3.14 The company submitted a de novo Markov cohort model comparing rivaroxaban
 2.5 mg twice daily with standard care (clopidogrel plus aspirin or aspirin alone) in
@@ -359,8 +303,7 @@ specific types of event were recorded when patients had 2 or fewer events.
 When 3 events happened, it was assumed that there was 1 event of each type
 (that is an MI, an ischaemic stroke and a HS/ICH).
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 3.17 The health states corresponding to bleeding and revascularisations were
 assumed to be transient health states and when a patient entered these states a
 one-off cost and utility decrement was applied. These transient health states
@@ -395,8 +338,7 @@ the licensed population.
 3.21 The UK marking authorisation for rivaroxaban states that 'extension of treatment
 beyond 12 months should be done on an individual patient basis as experience up
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 to 24 months is limited'. To reflect this, the company adjusted the proportion of
 patients who continued on rivaroxaban treatment in the second year (that is from
 48 to 60 weeks on wards). The proportion of patients selected was to allow an
@@ -432,8 +374,7 @@ and the stroke (post 12 months) health states was taken. Utility values were
 assumed to be the same for both rivaroxaban and standard care following any
 event. For multiple event states, the utility values of two events that had occurred
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 were multiplied together. The company stated that this allowed for worsening
 health-related quality of life following multiple events to be taken into account.
 The utility value for the event-free health state was assumed to remain constant
@@ -466,8 +407,7 @@ acute coronary syndrome in England are usually older, with a mean age of
 highlighted that the EMA's assessment report noted that patients in the trial were
 considered to be at low risk. Patients in the trial had little comorbidity, lower than
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 usual use of percutaneous coronary intervention and included a relatively small
 proportion of people aged over 75 years or who had impaired renal impairment
 with creatinine clearance less than 50 ml/min. As a result, the findings from
@@ -503,8 +443,7 @@ ATLAS-ACS 2-TIMI 51, rather than the licensed population). This briefing
 document states that 'the proposition that a lower dose of an antithrombotic drug
 is significantly more effective than a higher dose lacks biological plausibility'. The
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 ERG also noted that the EMA's assessment report concluded that these findings
 may partly have been due to chance. The ERG therefore considered the hazard
 ratios from the combined dose to be more plausible than those of the individual
@@ -540,8 +479,7 @@ had multiple events in separate time cycles. Second, for patients who had
 multiple events in separate time cycles any improvement over time that they may
 have experienced was ignored. Finally, for those patients who transition into the
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 multiple event states from the single event states, the first event was not tracked.
 The ERG commented that there were 2 solutions to this problem. First, a more
 complicated state transition cohort model could be developed so that cost and
@@ -575,8 +513,7 @@ economic model.
 modelled in the multiple event states. If a hypothetical patient transitioned into
 the multiple event states from a single event state, their utility in the multiple
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 event state could be understated, because improvement in utility after the first
 event had been ignored. The ERG stated that that this problem was again related
 to the inability of the model to distinguish when events had occurred. The ERG
@@ -611,8 +548,7 @@ rivaroxaban). The ERG considered a range of additional fatal bleeding events
 ranging from no additional fatal bleeding events (company's base case) to
 20 additional bleeding events. Because there were 21 fatal bleeding events in the
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 combined rivaroxaban treatment arms of the total population in
 ATLAS-ACS 2-TIMI 51, the ERG considered that 20 additional fatal bleeding
 events was an unfavourable scenario for the rivaroxaban 2.5 mg twice-daily dose.
@@ -639,8 +575,7 @@ already occurred, was amended.
 cycle length in the observation period.
 3.45 Full details of all the evidence are in the committee papers.
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 4 Consideration of the evidence
 4.1 The Appraisal Committee reviewed the data available on the clinical and cost
 effectiveness of rivaroxaban, having considered evidence on the nature of acute
@@ -676,8 +611,7 @@ ATLAS-ACS 2-TIMI 51 was 4.6 days, but the majority of patients in England have
 been discharged from hospital by then. The clinical experts further explained that
 if rivaroxaban was started in secondary care this could result in patients staying
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 in hospital longer, which would not happen if it was started in primary care. The
 Committee heard from its GP members that, after an acute coronary syndrome
 event, patients would usually be seen by their GP within 1 week of being
@@ -712,8 +646,7 @@ Clinical effectiveness
 4.4 The Committee considered the clinical-effectiveness data from the
 ATLAS-ACS 2-TIMI 51 trial comparing rivaroxaban in combination with aspirin plus
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 clopidogrel or aspirin alone against aspirin plus clopidogrel or aspirin alone. It
 noted that this formed the basis of the clinical-effectiveness evidence in the
 company's submission. The Committee considered that the ATLAS-ACS 2-TIMI 51
@@ -750,8 +683,7 @@ licensed indication.
 groups in the trial (2.5 mg twice daily and 5 mg twice daily) for the individual
 components of the composite efficacy end point that had been identified by the
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 ERG (see section 3.31). It was aware that for some individual outcomes the
 2.5 mg twice-daily dose appeared to have a greater efficacy than the 5 mg
 twice-daily dose. The ERG considered that it was unlikely that the 2.5 mg
@@ -788,8 +720,7 @@ lost from the trial (see section 3.10). The Committee was aware of the ERG's
 concerns that missing data may result in informative censoring (that is, patients
 who drop out, and whose data are therefore censored, have different outcomes
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 to those who remain in the trial) leading to bias. The Committee was aware from
 the company that extensive efforts had been made to trace trial participants, to
 clarify reasons for withdrawal and to find out if they had died. The company
@@ -826,8 +757,7 @@ associated with rivaroxaban. The Committee was aware that the results for the
 licensed population showed that there was a dose-dependent increase in the
 rate of non-CABG TIMI major bleeds (major bleeding assessed using
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 'Thrombolysis in Myocardial Infarction' criteria not related to coronary-artery
 bypass grafting) for rivaroxaban added to antiplatelet therapy compared with
 antiplatelet therapy alone. It noted that in the 2.5 mg rivaroxaban twice-daily arm
@@ -863,8 +793,7 @@ Cost effectiveness
 exploratory sensitivity analyses performed by the ERG. The Committee noted
 that the ICERs presented by the company in its base-case analysis and in the
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 ERG's exploratory sensitivity analyses were all lower than £10,000 per QALY
 gained. The Committee was aware of the ERG's concerns about the structure of
 the company's economic model and, in particular, that the model is relatively
@@ -901,8 +830,7 @@ rivaroxaban is added to aspirin or aspirin plus clopidogrel and it would be
 important for clinicians to carefully assess a person's individual bleeding risk and
 for patients to have an informed discussion with their clinician about the potential
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 risks and benefits before starting treatment with rivaroxaban. The Committee
 noted that the summary of product characteristics states that after initiation,
 there should be regular assessment of the risks and benefits of continuing
@@ -912,8 +840,7 @@ The Committee concluded that it was appropriate that a formal assessment of
 whether to continue treatment should be made no later than 12 months after
 starting rivaroxaban.
 
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
+ 
 5 Implementation
 5.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -931,146 +858,3 @@ patient has had acute management of acute coronary syndrome and the
 healthcare professional responsible for their care thinks that rivaroxaban is the
 right treatment, it should be available for use, in line with NICE's
 recommendations.
-
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
-6 Appraisal Committee members,
-guideline representatives and NICE
-project team
-Appraisal Committee members
-The Appraisal Committees are standing advisory committees of NICE. Members are
-appointed for a 3-year term. A list of the Committee members who took part in the
-discussions for this appraisal appears below. There are 4 Appraisal Committees, each with
-a chair and vice chair. Each Appraisal Committee meets once a month, except in
-December when there are no meetings. Each Committee considers its own list of
-technologies, and ongoing topics are not moved between Committees.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that appraisal.
-The minutes of each Appraisal Committee meeting, which include the names of the
-members who attended and their declarations of interests, are posted on the NICE
-website.
-Dr Jane Adam (Chair)
-Consultant radiologist, Department of Diagnostic Radiology, St George's Hospital, London
-Dr Graham Ash
-Consultant in General Adult Psychiatry, Lancashire Care NHS Foundation Trust
-Professor Thanos Athanasiou
-Professor of Cardiovascular Sciences and Cardiac Surgery, Imperial College London;
-Consultant Cardiothoracic Surgeon, Imperial College Healthcare NHS Trust
-Dr Simon Bond
-Senior Statistician, Cambridge Clinical Trials Unit
-
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
-Dr Jeremy Braybrooke
-Consultant Medical Oncologist, University Hospitals Bristol NHS Foundation Trust
-Dr Gerardine Bryant
-GP, Swadlincote, Derbyshire
-Professor Aileen Clarke
-Professor of Public Health & Health Services Research, University of Warwick
-Dr Andrew England
-Senior Lecturer, Directorate of Radiography, University of Salford
-Dr Brian Hawkins
-Chief Pharmacist, Cwm Taf Health Board, South Wales
-Dr Peter Heywood
-Consultant Neurologist, Frenchay Hospital, Bristol
-Dr Anne McCune
-Consultant Hepatologist, University Hospitals Bristol NHS Foundation Trust
-Professor John McMurray
-Professor of Medical Cardiology, University of Glasgow
-Dr Alec Miners
-Senior Lecturer in Health Economics, London School of Hygiene and Tropical Medicine
-Dr Mohit Misra
-GP, Queen Elizabeth Hospital, London
-Ms Sarah Parry
-Clinical Nurse Specialist, Paediatric Pain Management, Bristol Royal Hospital for Children
-Ms Pamela Rees
-Lay member
-Dr Ann Richardson
-Lay member
-
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
-Dr Paul Robinson
-Medical Director, Merck Sharp & Dohme
-Ms Ellen Rule
-Director of Transformation and Service Redesign, Gloucestershire Clinical Commissioning
-Group
-Dr Brian Shine
-Consultant Chemical Pathologist, John Radcliffe Hospital, Oxford
-Dr Peter Sims
-GP, Devon
-Mr David Thomson
-Lay member
-Dr John Watkins
-Clinical Senior Lecturer, Cardiff University; Consultant in Public Health Medicine, National
-Public Health Service Wales
-Professor Olivia Wu
-Professor of Health Technology Assessment, University of Glasgow
-NICE project team
-Each technology appraisal is assigned to a team consisting of 1 or more health technology
-analysts (who act as technical leads for the appraisal), a technical adviser and a project
-manager.
-Helen Tucker and Mary Hughes
-Technical Leads
-Nicola Hay
-Technical Adviser
-Bijal Joshi
-Project Manager
-
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
-7 Sources of evidence considered by the
-Committee
-The Evidence Review Group (ERG) report for this appraisal was prepared by the School of
-Health and Related Research (ScHARR), The University of Sheffield:
-• Pandor A, Pollard D, Stevenson M, et al., Rivaroxaban for the prevention of adverse
-outcomes in patients after the acute management of acute coronary syndrome: a
-single technology appraisal (August 2014)
-The following organisations accepted the invitation to participate in this appraisal as
-consultees and commentators. They were invited to comment on the draft scope, the ERG
-report and the appraisal consultation document (ACD). Companies were also invited to
-make written submissions. Professional or specialist and patient or carer groups, and other
-consultees, had the opportunity to give their expert views. Companies, professional or
-specialist and patient or carer groups, and other consultees, also have the opportunity to
-appeal against the final appraisal determination.
-Company:
-• Bayer (rivaroxaban)
-Professional or specialist and patient or carer groups:
-• British Heart Foundation
-• Pumping Marvellous
-• Royal College of Nursing
-• Royal College of Pathologists
-• Royal College of Physicians
-• United Kingdom Clinical Pharmacy Association
-Other consultees:
-• Department of Health
-
-Rivaroxaban for preventing adverse outcomes after acute management of acute coronary
-syndrome (TA335)
-• NHS England
-• Welsh Government
-Commentator organisations (did not provide written evidence and without the right of
-appeal):
-• Department of Health, Social Services and Public Safety for Northern Ireland
-• Healthcare Improvement Scotland
-• Medicines and Healthcare products Regulatory Agency
-• National Institute for Health Research Health Technology Assessment Programme
-• School of Health and Related Research Sheffield (ScHARR)
-The following individuals were selected from clinical expert and patient expert nominations
-from the consultees and commentators. They gave their expert personal view on
-rivaroxaban by attending the initial Committee discussion and providing written evidence
-to the Committee. They were also invited to comment on the ACD.
-• Dr James Cotton, Consultant Cardiologist, nominated by organisation representing
-British Cardiovascular Intervention Society – clinical expert
-• Professor Carlo Di Mario, Consultant Cardiologist, nominated by organisation
-representing Bayer – clinical expert
-• Mr Nick Hartshorne-Evans, nominated by organisation representing Pumping
-Marvellous Foundation – patient expert
-• Ms Jayne Knowles-Smith, nominated by organisation representing Pumping
-Marvellous Foundation – patient expert
-Representatives from the following company attended Committee meetings. They
-contributed only when asked by the Committee chair to clarify specific issues and
-comment on factual accuracy.
-• Bayer
-ISBN: 978-1-4731-1092-2

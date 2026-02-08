@@ -1,296 +1,153 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Is it important to try to determine the culprit vessel based on ECG_ - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:42.082675",
-  "file_size_bytes": 24839187,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Is it important to try to determine the culprit vessel based on ECG_ - Dr. Smith’s ECG Blog.pdf"
-}
+Case Summary
 
-=== СОДЕРЖАНИЕ ===
+A man in his 60s with hypertension and prior stroke presented with 3 days of crushing substernal chest pain, radiating to the right arm. He reported intermittent chest pain for months, but never this severe or prolonged. Based on symptoms alone, acute OMI was highly likely even before ECG review.
 
-Willy Frick onJanuary 5, 2025
-Is it important to try to
-determine the culprit vessel
-based on ECG?
-Written by Willy Frick
-A man in his 60s with hypertension and prior stroke presented with
- 
-three days of crushing chest pain. He reported intermittent chest pain
-for the last few months, but never lasting this long. He described it as
-substernal with radiation into the right arm.
-With all of this information, we can feel reasonably confident even
-before looking at the ECG that we are dealing with OMI.
-What do you think?
-Right away, we notice different populations of R waves. On the V1
-rhythm strip, R4 and R5 look like natively conducted beats. (Note,
-they are not sinus since the P waves are upside down in aVF. It looks
-like a low atrial rhythm.) The other beats are wider and have a 
-different origin — more on this later. Unfortunately, although natively
- 1/15
-conducted beats are the best ones for evaluating ischemia, we only
-have a few! Or do we?
-Although printed ECGs in North America typically display 2.5 seconds
-of each lead plus one or more 10 second rhythm strips, most
-machines actually gather data for 10 seconds of all 12 leads! (I
-recently learned from Dave Richley that modern machines collect 10
-seconds of data from leads I and II plus V1-V6. They do not actually
-measure III, aVL, aVR, aVF but rather calculate them.)
-Smith comment: this is one of the major obstacles that Powerful
-Medical needed to overcome in digitizing 12-lead ECG images: all
-digital ECG recordings are 10 seconds of each lead, but the images
-only display 2.5 seconds. So 75% of the image is missing! Most
-computer scientists in the 12-lead ECG world said it was impossible.
-But they did it. They were also able to produce an XML file with 10
-seconds of each lead out of these JPG, PNG, or PDF files. This is
-critical because AI needs an XML file for analysis.
-Case Continued
-I like to take advantage of this fact by opening up the ECG in the
-reading software and reformatting it into 12 channels of rhythm.
- 2/15
-Before reading further, see if you can figure out the rhythm. My
-interpretation is described in reference to the lead II rhythm strip
-below with annotations for clarity.
-Beats 4 and 5 have the narrowest QRS of all. These must be
-natively conducted beats. Note that the P waves indicated by
-the blue arrows have a superior axis (i.e. they are inverted in
-the inferior leads). Sinus rhythm has an inferior axis, so this
-must be a low atrial rhythm.
-Beats 1-2 and 7-10 are wider, uniform, and regular. In context of
-reperfused OMI (I will come back to this), we commonly see
-AIVR. This QRS complex is almost exactly 120 ms, which is on
-the narrow end for ventricular origin. And AIVR is commonly
-closer to 80-110 bpm. Still, this would be very fast for a
-junctional or ventricular escape rhythm under normal
-circumstances, so I favor AIVR.
-The red arrows associated with R waves 3 and 6 indicate P
-waves with sinus morphology — upright in I, II, aVF. (They are
-upside down in V1 and V2, but this is probably because the
-electrodes are too high.) Additionally, the PR intervals are very
-short and the QRS complexes are intermediate in morphology
-between the AIVR beats. Hence they are fusion beats [fusion
-between ventricular (wide) and conducted (narrow)]. R3 is
-mostly AIVR morphology, and R6 is mostly sinus conducted
-morphology.
- 3/15
-The green arrows indicate atrial activity that appears to have
-been beaten out by the AIVR (i.e., did not conduct because the
-AIVR beat came first). I doubt retrograde conduction because
-the RP interval is variable between 8 and 9. If the atrial activity
-were due to retrograde conduction, the interval from the R wave
-to the retrograde P wave would likely be the same between the
-two beats.
-Moving on to ischemia, the ECG shows reperfused inferoposterior
-infarct. Specifically focusing on beats 4 and 5, we see:
-TWI in II, III, aVF
-Overly upright posterior reperfusion T waves most pronounced
-in V2-3*
-Reciprocally upright T waves in I/aVL (we would expect them to
-be inverted with the LVH strain pattern)
-*Some of this may be the expected T wave in a patient with LVH
-strain pattern. It is hard to be sure, but this nuance does not impact
-the overall diagnosis.
-Back to the case:
-Unfortunately for the patient, he presented on Friday morning to a
-facility that did not have cath lab coverage until the following Monday.
-The cardiology consultant notes that pain is “almost resolved.”
-Remember that in OMI, chest pain is a sign of ongoing infarction.
-“Almost resolved” means it is NOT resolved. There is active
-infarction. There either is ischemic chest pain or there is not.
-The patient was loaded with aspirin and clopidogrel and started on
-continuous heparin infusion with plan for cath Monday. The note says
-that “if symptoms become refractory,” the patient will need to be
-transferred for urgent cath over the weekend. (What does refractory
-mean if not days of unresolved chest pain which persists after
-starting medical therapy?) Initial hsTnI was 14,114 ng/L, repeat 12,651
-ng/L, none further checked. Echocardiogram showed inferior wall
-hypokinesis. The patient was evaluated Saturday with no changes to
-plan.
-On Sunday, the patient complained of dyspnea and angina while
-ambulating. Repeat ECG is shown.
- 4/15
-Again, we see reperfusion in the inferior and posterior territories.
-There is just a hint of coving in leads III and aVF suggesting a
-component of active ischemia which fits with persistent pain.
-The Queen of Hearts recognizes this as reperfused OMI:
-This was interpreted by cardiology as “suggestive of anterior wall ST
-elevation MI.” Yes, you read that right. It was hand written in two
-places in the note, so definitely not an accident.
-Smith: yes, it is suggestive of anterior MI — of OLD anterior MI. But
-also of subacute inferior OMI.
-Perhaps the cardiologist was attempting serial comparison and
-thought there was new STE in V3 without realizing that the prior ECG
-shows AIVR and fusion beats in V3. Fortunately for the patient, this
-mistaken interpretation at least got him urgently transferred to a cath
-capable facility where he underwent urgent angiography.
-If interested, you can review the angiography in detail on my
-coronary angiography guide where you will find a lot more
-information about coronary angiography generally.
-Here is an LAO cranial view showing TIMI 0 in the mid to distal RCA
- 5/15
-Angiography was interpreted as showing chronic total occlusion of
-the RCA. (We know from the ECG that the RCA is actually the acute
-culprit!) The patient received DES to mid LAD and DES to diagonal,
-with no intervention to the culprit RCA.
-Unfortunately, wrong vessel PCI is very common. In a prospective
-cohort of patients presenting with NSTEMI, 27% of patient receiving
-PCI had intervention solely to uninvolved arteries. In the same cohort,
-almost HALF (46%) have either the wrong infarct related artery
-selected, or the ultimate diagnosis is not ischemic in the first place!
-Not surprisingly, the patient had persistent pain after PCI, continuing
-through the night. The following day, he returned to lab where a
-different operator performed repeat angiography. The second
-operator described the RCA as an acute thrombotic occlusion and
-placed three overlapping stents. The final shot is shown.
-SSccrreeeenn RReeccoorrddiinngg 22002255 0011 0033 aatt 1122 5544 2299 PPMM
- 6/15
-Learning points:
-Just because the cath report describes a lesion as “CTO” does
-not mean it is. It may still be an acute culprit.
-Wrong vessel PCI is very common, it happens in about 1 in 4
-NSTEMIs.
-Angiography has inherent limitations. About half of NSTEMI
-diagnoses are incorrect.
-As always, effective OMI care requires putting the ECG in
-context of the patientʼs symptoms.
-Here is another video explanation of a case in which the
-ECG was critical in finding the culprit:
-Right Ventricular MI seen on ECG helps Angiographer to find Culprit Lesion
-===================================
-MY Comment, by KEN GRAUER, MD (1/5/2025):
-===================================
-Awareness that many modern ECG machines do not display
-all of the data they gather when writing out an ECG is a
-greatly underused concept. That said, uncovering much of
-this unused extra data by routinely displaying each beat
-in each of the 12 leads would not only prove cumbersome —
-but it would be unnecessary in the great majority of tracings
-that lack the great degree of morphology variation seen in
-todayʼs case.
-Todayʼs case by Dr. Frick illustrates an exception to the
-above generality. By reformatting the data collected into
-12 channels of the rhythm — Dr. Frick facilitated
-interpretation not only of todayʼs initial 12-lead ECG —
-but he also provides insight into the mechanism of
-todayʼs fascinating initial rhythm.
-I focus my comment on exploring this mechanism.
-Thanks to Dr. Frick — I was able to obtain a long lead
-II rhythm strip. In Figure-1 — I combine this derived lead
-II with the already displayed lead V1 rhythm strip to facilitate
-clarifyingatrial activity in todayʼs initial tracing.
-Without Dr. Frickʼs reformatting the 10 beats in todayʼs
-initial tracing into 12 channels of rhythm — I
- 7/15
-would never have realized that there are 2 atrial foci in
-the initial rhythm.(Although P wave morphology of sinus
-P waves may vary some from one beat to the next — I
-would not expect as much variation as we abruptly see
-for just 2 beats in todayʼs initial rhythm).
-As per Dr. Frick — the P waves that precede beats #4
-and #5 are predominantly negative in lead II, therefore
-presumably of low atrial origin (BLUE arrow P waves in
-Figure-1).
-RED arrows in Figure-1 highlight sinus P waves that are
-upright in lead II. Of these, P waves c and f are the only
-P waves clearly seen. Dr. Frick pointed out P
-waves h and i that appear shortly after beats #8 and 9 in
-lead II (albeit they are not seen in lead V1).
-Given sinus P waves f, h and i — it seems logical that
-another on-time sinus P wave will almost certainly be
-hiding within the QRS complex of beat #7 (WHITE
-arrow).
-Motivated to look even closer for “hidden” P waves —
-the slight angulation just before the QRS of beat #2 is
-not present in other beats (strongly suggesting
-that b represents another on-time sinus P wave).
-Finally — the subtle notch that simulates an rʼ deflection
-at the end of the QRS of beat #1 falls in a perfect place
-to be hiding a final on-time sinus P wave. (This rhythm
-simply makes more sense if we postulate more regular
-atrial activity — and the highlighted atrial deflections
-support this premise).
-Whereas atrial activity is best displayed in the long lead II
-rhythm strip of todayʼs initial ECG — I thought the variation in
-QRST morphology to be best displayed in the long lead V1.
-As per Dr. Frick — the pathology underlying todayʼs case
-is an acute inferior OMI — now with reperfusion T
-waves (best seen in the inferior leads of this initial
-tracing) and with AIVR
-(Accelerated IdioVentricular Rhythm) that is so
-commonly seen as a reperfusion arrhythmia.
-Focusing on QRST morphology in lead V1 of Figure-1 —
-beats #1,2; and 7,8,9,10 are all wide and not preceded by
-any P wave. These are all ventricular beats at a regular
-and slightly accelerated rate of ~60/minute (which is
-perfectly consistent with AIVR).
-The 2 low atrial P waves ( = d and e) are conducted
-normally to the ventricles (ie, beats #4 and 5 are narrow
-QRS complexes).
-Beats #3 and #6 are Fusion beats (F). We know this —
-because both of these beats: i) Manifest a QRS and T
- 8/15
-wave morphology that is intermediate to the beat before
-and the beat after it (ie, QRST morphology of beat #3 is
-intermediate to that of beats #2 and #4 — and QRST
-morphology of beat #6 is intermediate to that of beats
-#5 and #7); — and, ii) Both beats #3 and 6 are preceded
-by P waves that have a chance to partially conduct (and
-as would be expected with fusion beats — beat #6 with
-a slightly longer PR interval provides slightly more time
-for the sinus P wave preceding it to conduct in the
-ventricles, which is why fusion beat #6 looks more like
-normally conducted beats #4 and 5 than does beat #3
-which is preceded by a shorter PR interval).
-Why was AIVR able to appear in this initial tracing?
-Whereas the R-R interval of ventricular beats in Figure-
-1 remains quite constant — the atrial rate of sinus P
-waves varies somewhat. As a result — slowing of the
-sinus P wave rate facilitates intermittent appearance of
-either a low atrial escape rhythm or of AIVR.
-P.S.: As often occurs — there may be slight lag in the
-intermittent appearance of AIVR. But the “theme” of this
-initial rhythm, is that OMI reperfusion results in a slightly
-accelerated AIVR that in general makes its presence
-around the time that the sinus rate slows. A longer
-period of monitoring would be needed to know for
-certain — but the back-and-forth between wide and
-narrow QRS complexes is almost like that seen with
-isorhythmic AV dissociation, albeit complicated by low
-atrial escape.
-Figure-1: Combined lead II and lead V1 rhythm strip.
-My Proposed Laddergram:
-Sinus P waves a,b and g are not conducted to the
-ventricles — because ventricular beats #1,2 and 7 have
-rendered the AV nodal area refractory to
-supraventricular impulses.
-Sinus P waves h and i are not conducted to the
-ventricles — because these P waves occur after the
-QRS of beats #8 and 9 during the ARP (Absolute
-Refractory Period).
- 9/15
-Escape low atrial impulses d and e occur at just the right
-time to be able to conduct normally to the ventricles to
-produce beats #4 and 5.
-Sinus P wave c occurs just before the QRS of beat #3.
-As a result — this P wave is only able to conduct a short
-distance in the ventricles before being stopped by the
-AIVR impulse. This fusion beat therefore looks very
-much like other AIVR impulses.
-Sinus P wave f manifests a slightly longer PR interval
-than did c. As a result — this P wave penetrates further
-in the ventricles — which leads to a fusion beat that
-looks much more like normally conducted beats #4 and
-#5.
-Figure-2: Proposed laddergram for today’s initial rhythm.
-Willy Frick onJanuary 5, 2025
-AIVR CTO (CHRONIC TOTAL OCCLUSION) FUSION BEAT
-REPERFUSION
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-Torsade in a patient Syncope, chest pain,
-with left bundle branch and inferior ST
-block: is there a long Elevation with
-QT? (And: Left Bundle Reciprocal ST
-Pacing). depression in aVL
+ECG Interpretation — Rhythm First
+
+The initial ECG showed multiple QRS morphologies, indicating more than one rhythm mechanism.
+
+Key rhythm findings (best seen after reformatting ECG into 12-channel rhythm):
+
+Narrow QRS beats (beats 4–5)
+
+True natively conducted beats
+
+Preceded by P waves inverted in inferior leads → low atrial rhythm
+
+These beats are the most reliable for ischemia assessment
+
+Wide, regular beats (beats 1–2, 7–10)
+
+Uniform morphology, ~120 ms QRS
+
+Rate ~80–100 bpm
+
+Consistent with AIVR (Accelerated Idioventricular Rhythm)
+
+Typical reperfusion arrhythmia
+
+Fusion beats (beats 3 and 6)
+
+Intermediate morphology between narrow and wide beats
+
+Occur when sinus impulse partially conducts into ventricle already depolarized by AIVR
+
+Atrial activity without conduction
+
+Atrial impulses sometimes blocked because ventricular depolarization occurred first
+
+Not retrograde conduction (variable RP intervals)
+
+Conclusion (rhythm):
+Reperfused OMI with AIVR + low atrial rhythm + fusion beats, consistent with acute ischemia followed by partial reperfusion.
+
+ECG Interpretation — Ischemia
+
+Focusing on the narrow conducted beats (4–5):
+
+Inferior leads (II, III, aVF):
+
+T-wave inversion → inferior infarction
+
+V2–V3:
+
+Overly upright T waves → posterior reperfusion
+
+I / aVL:
+
+Upright T waves where inversion would be expected with LVH strain → reciprocal reperfusion pattern
+
+Diagnosis from ECG:
+Reperfused inferoposterior OMI, most consistent with RCA occlusion.
+
+Clinical Course and System Failure
+
+Patient presented to a hospital without cath lab coverage over the weekend
+
+Chest pain documented as “almost resolved”
+
+In OMI, this means NOT resolved
+
+Managed medically (ASA, clopidogrel, heparin), cath deferred to Monday
+
+hs-troponin extremely elevated (>14,000 ng/L)
+
+Echo: inferior wall hypokinesis
+
+On Sunday:
+
+Patient developed dyspnea and exertional angina
+
+Repeat ECG showed:
+
+Persistent inferior/posterior reperfusion
+
+Subtle coving in III and aVF → ongoing ischemia
+
+Cath Lab Errors
+First Angiography:
+
+RCA described as “chronic total occlusion (CTO)”
+
+PCI performed to LAD and diagonal branches
+
+Culprit RCA not treated
+
+Patient had persistent chest pain overnight
+
+Second Angiography (next day, different operator):
+
+RCA recognized as acute thrombotic occlusion
+
+Three overlapping stents placed
+
+Culprit finally treated
+
+Core Lessons
+1. ECG Can Identify the Culprit Vessel
+
+This ECG correctly localized the infarct to the RCA
+
+Angiography misidentified the culprit vessel
+
+2. Wrong-Vessel PCI Is Common
+
+~27% of NSTEMIs receive PCI to uninvolved arteries
+
+~46% have either:
+
+Wrong infarct-related artery treated, or
+
+No ischemic diagnosis at all
+
+3. “CTO” on Angiography ≠ Chronic
+
+ECG evidence + symptoms must override cath labels
+
+4. Chest Pain Is Binary in OMI
+
+“Almost resolved” = ongoing infarction
+
+Refractory pain means immediate cath, regardless of timing or logistics
+
+5. AIVR Is a Reperfusion Marker
+
+Presence of AIVR strongly suggests:
+
+Recent reperfusion
+
+Recently occluded artery
+
+It does not mean the problem is over
+
+Key Takeaways for Practice
+
+Always integrate ECG + symptoms, not cath alone
+
+Identify the culprit vessel on ECG whenever possible
+
+Use narrow conducted beats to assess ischemia
+
+AIVR + fusion beats in chest pain = recent OMI
+
+Delayed or wrong-vessel PCI leads to avoidable myocardial loss

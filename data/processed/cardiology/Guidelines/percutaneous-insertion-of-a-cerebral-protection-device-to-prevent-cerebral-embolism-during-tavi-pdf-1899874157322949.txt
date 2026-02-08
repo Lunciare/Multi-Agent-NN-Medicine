@@ -1,46 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "percutaneous-insertion-of-a-cerebral-protection-device-to-prevent-cerebral-embolism-during-tavi-pdf-1899874157322949.pdf",
-  "converted_date": "2026-01-31T14:49:48.210315",
-  "file_size_bytes": 63078,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/percutaneous-insertion-of-a-cerebral-protection-device-to-prevent-cerebral-embolism-during-tavi-pdf-1899874157322949.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Percutaneous insertion of a
-cerebral protection device to
-prevent cerebral embolism
-during TAVI
-Interventional procedures guidance
-Published: 12 June 2019
-www.nice.org.uk/guidance/ipg650
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-
 Percutaneous insertion of a cerebral protection device to prevent cerebral embolism
-during TAVI (IPG650)
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
+during TAVI
 1 Recommendations
 1.1 The evidence on percutaneous insertion of a cerebral protection device
 to prevent cerebral embolism during transcatheter aortic valve
@@ -63,8 +22,7 @@ NICE's information for the public is recommended.
 multidisciplinary team that is considering the suitability of TAVI.
 1.4 This procedure should only be done in specialised centres, and only by
 
-Percutaneous insertion of a cerebral protection device to prevent cerebral embolism
-during TAVI (IPG650)
+ 
 clinicians and teams with specific training and experience in complex
 endovascular interventions. Centres doing this procedure should have
 both cardiac and vascular surgical support for the emergency treatment
@@ -95,8 +53,7 @@ carotid arteries. It is deployed to protect the ostia of the brachiocephalic
 (innominate) artery and the left common carotid artery. It may also
 protect the left subclavian artery, depending on the type of device used.
 
-Percutaneous insertion of a cerebral protection device to prevent cerebral embolism
-during TAVI (IPG650)
+ 
 It works either by filtering dislodged debris from the blood, or by
 deflecting dislodged debris away from the cerebral circulation to the
 systemic circulation. The device is removed at the end of the TAVI
@@ -125,8 +82,7 @@ outcomes to be: vascular damage and bleeding.
 Committee comments
 3.5 There are different types of devices available to prevent cerebral
 
-Percutaneous insertion of a cerebral protection device to prevent cerebral embolism
-during TAVI (IPG650)
+ 
 embolism during TAVI, and they work in different ways. The committee
 noted that most of the evidence it reviewed came from 1 type of device,
 and that the technology is evolving.
@@ -140,6 +96,3 @@ challenging and the methods for doing it may have differed between the
 studies.
 3.9 The valves used for the TAVI procedure differ, but cerebral protection
 benefit during TAVI has been demonstrated across all valve types.
-ISBN: 978-1-4731-3428-7
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

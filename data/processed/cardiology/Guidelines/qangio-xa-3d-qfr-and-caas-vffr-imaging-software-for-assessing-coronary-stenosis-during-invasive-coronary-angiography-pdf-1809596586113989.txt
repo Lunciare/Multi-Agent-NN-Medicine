@@ -1,48 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "qangio-xa-3d-qfr-and-caas-vffr-imaging-software-for-assessing-coronary-stenosis-during-invasive-coronary-angiography-pdf-1809596586113989.pdf",
-  "converted_date": "2026-01-31T14:46:51.308628",
-  "file_size_bytes": 213070,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/qangio-xa-3d-qfr-and-caas-vffr-imaging-software-for-assessing-coronary-stenosis-during-invasive-coronary-angiography-pdf-1809596586113989.pdf"
-}
 
-=== СОДЕРЖАНИЕ ===
-
-QAngio XA 3D QFR and
-CAAS vFFR imaging
-software for assessing
-coronary stenosis during
-invasive coronary
-angiography
-HealthTech guidance
-Published: 17 March 2021
-www.nice.org.uk/guidance/htg571
-
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-This guidance replaces MIB146 and DG43.
 1 Recommendations
 1.1 There is not enough evidence to recommend using QAngio XA 3D quantitative
 flow ratio (QAngio QFR) and CAAS vessel fractional flow reserve (CAAS vFFR)
@@ -1022,35 +978,3 @@ NICE Medical Technologies Evaluation Programme research facilitation team for
 developing specific research study protocols as appropriate. NICE will also incorporate the
 research recommendations in section 5 into its guidance research recommendations
 database and highlight these recommendations to public research bodies.
-
-7 Diagnostics advisory committee
-members and NICE project team
-Committee members
-This topic was considered by the diagnostics advisory committee, which is a standing
-advisory committee of NICE.
-Committee members are asked to declare any interests in the test to be assessed. If it is
-considered there is a conflict of interest, the member is excluded from participating further
-in that assessment.
-The minutes of each committee meeting, which include the names of the members who
-attended and their declarations of interests, are posted on the NICE website.
-Additional specialist committee members took part in the discussions for this topic:
-Specialist committee members
-Dr Gerald Clesham
-Consultant cardiologist, Essex Cardiothoracic Centre
-Ms Diane Davies
-Lay specialist
-Dr Timothy Fairbairn
-Consultant cardiologist, Liverpool Heart and Chest Hospital
-Dr Ian Purcell
-Consultant general and interventional cardiologist, Freeman Hospital
-NICE project team
-Each diagnostics assessment is assigned to a team consisting of a technical analyst (who
-acts as the topic lead), a technical adviser and a project manager.
-
-Ewa Rupniewska and Simon Webster
-Topic leads
-Frances Nixon and Peter O'Neill
-Technical advisers
-Donna Barnes
-Project manager
-ISBN: 978-1-4731-7384-2

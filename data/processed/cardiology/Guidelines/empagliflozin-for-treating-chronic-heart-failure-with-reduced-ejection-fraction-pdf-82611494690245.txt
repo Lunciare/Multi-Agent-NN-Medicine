@@ -1,49 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "empagliflozin-for-treating-chronic-heart-failure-with-reduced-ejection-fraction-pdf-82611494690245.pdf",
-  "converted_date": "2026-01-31T14:47:38.151269",
-  "file_size_bytes": 115823,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/empagliflozin-for-treating-chronic-heart-failure-with-reduced-ejection-fraction-pdf-82611494690245.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Empagliflozin for treating
-chronic heart failure with
-reduced ejection fraction
-Technology appraisal guidance
-Published: 9 March 2022
-www.nice.org.uk/guidance/ta773
-
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
-
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
-This guidance should be read in conjunction with QS9.
+Empagliflozin for treating chronic heart failure with reduced ejection fraction
 1 Recommendations
 1.1 Empagliflozin is recommended as an option for treating symptomatic
 chronic heart failure with reduced ejection fraction in adults, only if it is
@@ -72,7 +27,7 @@ of dying from cardiovascular causes compared with placebo plus standard care. It
 shows that it reduces the likelihood of hospitalisation for heart failure. There are no trials
 directly comparing empagliflozin with the most appropriate comparator, dapagliflozin.
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 However, an indirect comparison suggests that empagliflozin is likely to be similar to
 dapagliflozin in reducing the risk of dying and the likelihood of hospitalisations for heart
 failure.
@@ -82,7 +37,7 @@ Increased monitoring or changes to other medicines being taken may be needed for
 treating heart failure with empagliflozin. So, it should only be started on advice from a
 heart failure specialist.
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 2 Information about empagliflozin
 Marketing authorisation indication
 2.1 Empagliflozin (Jardiance, Boehringer Ingelheim) has a marketing
@@ -97,7 +52,7 @@ pack (excluding VAT; BNF online, accessed November 2021). The annual
 treatment cost is £476.98. Costs may vary in different settings because
 of negotiated procurement discounts.
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 3 Committee discussion
 The appraisal committee considered evidence submitted by Boehringer Ingelheim, a
 review of this submission by the evidence review group (ERG) and responses from
@@ -123,7 +78,7 @@ new treatment option for symptomatic chronic heart failure with reduced
 ejection fraction. It also concluded that people with the condition and
 healthcare professionals would welcome a new treatment option.
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 The treatment pathway
 People should be optimised on standard care before having a
 sodium-glucose co-transporter 2 (SGLT2) inhibitor
@@ -158,7 +113,7 @@ appraisal
 3.3 The final scope for this appraisal listed 2 comparators: individually
 optimised standard care without empagliflozin, and dapagliflozin as an
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 add-on to standard care. The company stated that individually optimised
 standard care was the most relevant comparator. That is, people should
 have the most appropriate treatments used for standard care before
@@ -194,7 +149,7 @@ NHS clinical practice
 comparing empagliflozin plus standard care with placebo plus standard
 care. Standard care could include medical therapy with an ACE inhibitor,
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 an ARB, a beta blocker or an MRA. The trial included people aged at least
 18 who had had a diagnosis of chronic heart failure for at least 3 months.
 They had moderate to severe heart failure with reduced ejection fraction.
@@ -229,7 +184,7 @@ treat analyses showed that empagliflozin plus standard care reduced the
 incidence of the primary outcome by 25.0% compared with placebo plus
 standard care (hazard ratio [HR] 0.75; 95% confidence interval [CI] 0.65
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 to 0.86; p<0.0001). At a median follow up of 16 months, results showed
 that 19.4% of people having empagliflozin plus standard care had an
 event compared with 24.7% in the placebo group. The committee
@@ -265,7 +220,7 @@ mortality and renal function. The committee was aware that the ERG had
 explored this uncertainty in the cost–utility analysis (see section 3.8).
 The committee noted that there were some baseline differences in the
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 Bucher indirect treatment comparison between people in EMPEROR-
 Reduced and DAPA-HF. People in EMPEROR-Reduced may have had a
 more severe renal impairment than people in DAPA-HF. This meant that
@@ -295,7 +250,7 @@ the company's choice of KCCQ-CSS states in the model. The committee
 concluded that the company's model structure was appropriate for
 decision making.
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 Cost-effectiveness estimates
 Empagliflozin is recommended as an option for treating chronic
 heart failure with reduced ejection fraction
@@ -329,7 +284,7 @@ comparison. These scenarios included the following assumptions:
 failure for empagliflozin
 • survival benefit for dapagliflozin, a reduction in hospitalisations for heart failure
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 and an improvement in renal function for empagliflozin.
 For the assumption of equal effectiveness, the results showed no difference in
 total costs or quality-adjusted life years between the 2 treatments. The results
@@ -362,7 +317,7 @@ failure. So, it could not be considered a step-change in treatment.
 However, the committee concluded that it could be considered a relevant
 addition to current treatments and increase clinical choice.
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 Other factors
 No equalities considerations were identified
 3.10 The committee noted that the meta-analysis by Zannad et al. (2020; see
@@ -397,7 +352,7 @@ the summary of product characteristics states an assessment of renal
 function is recommended before starting empagliflozin and this should
 be done periodically during treatment. So, the committee considered that
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 monitoring should be done by the most appropriate healthcare
 professional. The committee further noted that NICE's technology
 appraisal guidance on dapagliflozin for treating chronic heart failure with
@@ -407,7 +362,7 @@ concluded that a heart failure specialist should advise on starting
 empagliflozin and monitoring should be done by the most appropriate
 healthcare professional.
 
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
+ 
 4 Implementation
 4.1 Section 7 of the National Institute for Health and Care Excellence
 (Constitution and Functions) and the Health and Social Care Information
@@ -427,27 +382,3 @@ means that, if a patient has heart failure with reduced ejection fraction
 and the doctor responsible for their care thinks that empagliflozin is the
 right treatment, it should be available for use, in line with NICE's
 recommendations.
-
-Empagliflozin for treating chronic heart failure with reduced ejection fraction (TA773)
-5 Appraisal committee members and
-NICE project team
-Appraisal committee members
-The 4 technology appraisal committees are standing advisory committees of NICE. This
-topic was considered by committee C.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that appraisal.
-The minutes of each appraisal committee meeting, which include the names of the
-members who attended and their declarations of interests, are posted on the NICE
-website.
-NICE project team
-Each technology appraisal is assigned to a team consisting of 1 or more health technology
-analysts (who act as technical leads for the appraisal), a technical adviser and a project
-manager.
-Victoria Gillis-Elliott
-Technical lead
-Victoria Kelly
-Technical adviser
-Gavin Kenny
-Project manager
-ISBN: 978-1-4731-4472-9

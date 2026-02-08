@@ -1,52 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "hypertension-in-adults-diagnosis-and-management-pdf-66141722710213.pdf",
-  "converted_date": "2026-01-31T14:45:04.023224",
-  "file_size_bytes": 294071,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/hypertension-in-adults-diagnosis-and-management-pdf-66141722710213.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Hypertension in adults:
-diagnosis and management
-NICE guideline
-Published: 28 August 2019
-Last updated: 21 November 2023
-www.nice.org.uk/guidance/ng136
-
-Hypertension in adults: diagnosis and management (NG136)
-Your responsibility
-The recommendations in this guideline represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, professionals
-and practitioners are expected to take this guideline fully into account, alongside the
-individual needs, preferences and values of their patients or the people using their service.
-It is not mandatory to apply the recommendations, and the guideline does not override the
-responsibility to make decisions appropriate to the circumstances of the individual, in
-consultation with them and their families and carers or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Local commissioners and providers of healthcare have a responsibility to enable the
-guideline to be applied when individual professionals and people using services wish to
-use it. They should do so in the context of local and national priorities for funding and
-developing services, and in light of their duties to have due regard to the need to eliminate
-unlawful discrimination, to advance equality of opportunity and to reduce health
-inequalities. Nothing in this guideline should be interpreted in a way that would be
-inconsistent with complying with those duties.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Hypertension in adults: diagnosis and management (NG136)
-
-Hypertension in adults: diagnosis and management (NG136)
-This guideline replaces CG127.
-This guideline partially replaces NG28.
-This guideline is the basis of QS181, QS28 and QS209.
+Hypertension in adults: diagnosis and management
 Overview
 This guideline covers identifying and treating primary hypertension (high blood pressure)
 in people aged 18 and over, including people with type 2 diabetes. It aims to reduce the
@@ -58,7 +10,7 @@ Who is it for?
 • Commissioners and providers
 • People who have or may have high blood pressure, their families and carers
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Recommendations
 People have the right to be involved in discussions and make informed decisions
 about their care, as described in NICE's information on making decisions about your
@@ -85,7 +37,7 @@ measure blood pressure manually using direct auscultation over the brachial
 artery. [2011]
 1.1.3 Healthcare providers must ensure that devices for measuring blood pressure are
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 properly validated, maintained and regularly recalibrated according to
 manufacturers' instructions. See the British and Irish Hypertension Society's
 website for a list of validated blood pressure monitoring devices. [2004]
@@ -114,7 +66,7 @@ persist despite addressing likely causes. [2004, amended 2023]
 1.1.7 If the blood pressure drop is less than the thresholds in recommendation 1.1.6
 despite suggestive symptoms and the baseline measurement was previously
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 taken from a seated position, repeat the measurements this time starting with the
 person lying on their back. [2023]
 1.1.8 Consider referring the person for further specialist assessment if blood pressure
@@ -141,7 +93,7 @@ blood pressure 180/120 mmHg or higher. [2019]
 1.2.4 If ABPM is unsuitable or the person is unable to tolerate it, offer home blood
 pressure monitoring (HBPM) to confirm the diagnosis of hypertension. [2019]
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 1.2.5 While waiting for confirmation of a diagnosis of hypertension, carry out:
 • investigations for target organ damage (see recommendation 1.3.3), followed
 by
@@ -170,7 +122,7 @@ consider carrying out investigations for alternative causes of the target organ
 damage (for information on investigations, see NICE's guidelines on chronic
 kidney disease and chronic heart failure). [2011]
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 1.2.10 If hypertension is not diagnosed, measure the person's clinic blood pressure at
 least every 5 years subsequently, and consider measuring it more frequently if
 the person's clinic blood pressure is close to 140/90 mmHg. [2011]
@@ -195,7 +147,7 @@ For guidance on the early identification and management of chronic kidney diseas
 NICE's guideline on chronic kidney disease.
 1.3.1 Use a formal estimation of cardiovascular risk to discuss prognosis and
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 healthcare options with people with hypertension, both for raised blood pressure
 and other modifiable risk factors. [2004]
 1.3.2 Estimate cardiovascular risk in line with the recommendations on identifying and
@@ -222,7 +174,7 @@ continue to offer it periodically. [2004]
 exercise can reduce blood pressure. Offer appropriate guidance and written or
 audiovisual materials to promote lifestyle changes. [2004]
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 1.4.3 Ask about people's alcohol consumption and encourage a reduced intake if they
 drink excessively, because this can reduce blood pressure and has broader
 health benefits. See the recommendations for practice in NICE's guideline on
@@ -252,7 +204,7 @@ Starting antihypertensive drug treatment
 NICE has produced a patient decision aid on treatment options for hypertension to help
 people and their healthcare professionals discuss the different types of treatment and
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 make a decision that is right for each person.
 For advice on shared decision making for medicines, see the information on patient
 decision aids in NICE's guideline on medicines optimisation.
@@ -281,7 +233,7 @@ treatment. [2019]
 1.4.12 Consider antihypertensive drug treatment in addition to lifestyle advice for adults
 aged under 60 with stage 1 hypertension and an estimated 10-year risk below
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 10%. Bear in mind that 10-year cardiovascular risk may underestimate the lifetime
 probability of developing cardiovascular disease. [2019]
 1.4.13 Consider antihypertensive drug treatment in addition to lifestyle advice for
@@ -305,7 +257,7 @@ clinic blood pressure targets for people aged 80 and over. The tables cover peop
 hypertension (with or without type 2 diabetes) as well as people with chronic kidney
 disease or type 1 diabetes.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Table 1: Clinic blood pressure targets for people aged under 80
 Clinic blood
 Person under 80 with: pressure Source
@@ -352,7 +304,7 @@ to creatinine ratio less than 70 mg/
 140/90 disease (recommendation 1.6.1)
 mmol
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 • chronic kidney disease plus albumin
 Below NICE's guideline on chronic kidney
 to creatinine ratio of 70 mg/mmol or
@@ -382,7 +334,7 @@ diagnostic thresholds). [2019]
 • information about what to do if they are not achieving their target blood
 pressure.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Be aware that the corresponding measurements for HBPM are 5 mmHg lower
 than for clinic measurements (see recommendation 1.2.8 for diagnostic
 thresholds). [2019]
@@ -411,7 +363,7 @@ Full details of the evidence and the committee's discussion are in evidence revi
 monitoring the response to treatment.
 1.4.23 Use the same blood pressure targets for people with and without cardiovascular
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 disease. [2022]
 For a short explanation of why the committee made the recommendation on blood
 pressure targets for people with cardiovascular disease and how this might affect
@@ -436,7 +388,7 @@ hypertension in NICE's guideline on type 2 diabetes in adults. For guidance on c
 antihypertensive drug treatment in people with type 1 diabetes, see also the section on
 control of cardiovascular risk in NICE's guideline on type 1 diabetes.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Note that ACE inhibitors and angiotensin II receptor antagonists should not be used in
 pregnant or breastfeeding women or women planning pregnancy unless absolutely
 necessary, in which case the potential risks and benefits should be discussed. Follow
@@ -466,7 +418,7 @@ antagonists: not for use in pregnancy, how to use for breastfeeding and
 clarification on breastfeeding.
 1.4.31 For people with cardiovascular disease:
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 • Follow the recommendations for disease-specific indications in the NICE
 guideline on their condition (for example, when prescribing an ACE inhibitor
 or an ARB for secondary prevention of myocardial infarction). Relevant
@@ -495,7 +447,7 @@ treatment who:
 recommendation 1.4.30 for adults of Black African or African–Caribbean
 family origin) or
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 • are aged under 55 but not of Black African or African–Caribbean family origin.
 [2019]
 Follow the MHRA safety advice on ACE inhibitors and angiotensin II receptor
@@ -523,7 +475,7 @@ such as bendroflumethiazide or hydrochlorothiazide. [2019]
 or hydrochlorothiazide, who have stable, well-controlled blood pressure, continue
 with their current treatment. [2019]
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 For a short explanation of why the committee made the 2019 recommendations and
 how they might affect practice, see the rationale and impact section on step 1
 treatment.
@@ -547,7 +499,7 @@ the choice of 1 of the following drugs in addition to step 1 treatment:
 family origin who do not have type 2 diabetes taking step 1 treatment, consider
 an ARB, in preference to an ACE inhibitor, in addition to step 1 treatment. [2019]
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Step 3 treatment
 1.4.44 Before considering next step treatment for hypertension:
 • review the person's medications to ensure they are being taken at the
@@ -573,7 +525,7 @@ having resistant hypertension. [2019]
 home blood pressure recordings.
 • Assess for postural hypotension.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 • Discuss adherence (see recommendation 1.4.40). [2019]
 1.4.48 For people with confirmed resistant hypertension, consider adding a fourth
 antihypertensive drug as step 4 treatment or seeking specialist advice. [2019]
@@ -601,7 +553,7 @@ treatment.
 Full details of the evidence and the committee's discussion are in evidence review G:
 step 4 treatment.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 1.5 Identifying who to refer for same-day specialist
 review
 1.5.1 If a person has severe hypertension (clinic blood pressure of 180/120 mmHg or
@@ -629,7 +581,7 @@ who to refer for same-day specialist review.
 Full details of the evidence and the committee's discussion are in evidence review I:
 same-day specialist review.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Terms used in this guideline
 This section defines terms that have been used in a particular way for this guideline. For
 other definitions see the NICE glossary.
@@ -657,7 +609,7 @@ High blood pressure at repeated clinical encounters.
 Stage 1 hypertension
 Clinic blood pressure ranging from 140/90 mmHg to 159/99 mmHg and subsequent ABPM
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 daytime average or HBPM average blood pressure ranging from 135/85 mmHg to 149/
 94 mmHg.
 Stage 2 hypertension
@@ -675,7 +627,7 @@ White-coat effect
 A discrepancy of more than 20/10 mmHg between clinic and average daytime ABPM or
 average HBPM blood pressure measurements at the time of diagnosis.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Recommendations for research
 The 2019 and 2022 guideline committees have made the following recommendations for
 research.
@@ -697,7 +649,7 @@ see the rationale on starting antihypertensive drug treatment.
 Full details of the evidence and the committee's discussion are in evidence review C:
 initiating treatment.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 3 Blood pressure targets for people aged over 80
 What is the optimum blood pressure target for people aged over 80 with treated primary
 hypertension (with or without cardiovascular disease)? [2022]
@@ -721,7 +673,7 @@ see the rationale on relaxation therapies.
 Full details of the evidence and the committee's discussion are in evidence review H:
 relaxation therapies.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Other recommendations for research
 6 Same-day hospital specialist assessment
 Which people with extreme hypertension (220/120 mmHg or higher) or emergency
@@ -743,14 +695,14 @@ haemorrhagic stroke
 What are the optimal blood pressure targets in adults with prior ischaemic or haemorrhagic
 stroke, and does this vary by age? [2022]
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 For a short explanation of why the committee made the recommendation for research,
 see the rationale and impact section on blood pressure targets for people with
 cardiovascular disease.
 Full details of the evidence and the committee's discussion are in the evidence review
 J: blood pressure targets.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Rationale and impact
 These sections briefly explain why the committee made the recommendations and how
 they might affect practice. They link to details of the evidence and a full description of the
@@ -780,7 +732,7 @@ on their experience and knowledge, the committee members agreed that a cut-off o
 15 mmHg would be more suitable than 20 mmHg, which was specified in the 2011
 recommendations. This is in line with recent evidence that suggests a small difference in
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 arm blood pressure is associated with an increased risk of cardiovascular events, possibly
 due to vascular damage.
 ABPM correlates well with invasive blood pressure measurement and can identify both
@@ -812,7 +764,7 @@ anticipated that the long-term benefits of accurate diagnosis and treatment (suc
 avoiding over diagnosis and unnecessary treatment) will outweigh any initial costs.
 Return to recommendations
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Relaxation therapies
 Why the committee deleted the recommendation on relaxation
 therapies
@@ -845,7 +797,7 @@ reduce blood pressure, but committee consensus was that uptake has been low.
 Therefore, current practice will not be affected by the removal of the 2011
 recommendation.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Starting antihypertensive drug treatment
 Recommendations 1.4.9 to 1.4.14
 Why the committee made the recommendations
@@ -878,7 +830,7 @@ depend on the person's preferences and their individual risk of cardiovascular d
 The recommendations highlight the importance of discussing the person's preferences for
 treatment and encouraging lifestyle changes.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Some studies investigated the benefits of treating hypertension in people with lower
 cardiovascular risk or people with blood pressure below 140/90 mmHg. However, some of
 these studies were not directly relevant because they included a high proportion of
@@ -913,7 +865,7 @@ of any age. The committee agreed that a number of factors should be considered w
 discussing treatment options in this group and noted that healthcare professionals should
 refer to NICE's guideline on multimorbidity for further advice.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 How the recommendations might affect practice
 The recommendations will have a significant impact on practice because more people will
 now be eligible for treatment. It is difficult to predict the extent of the impact because
@@ -944,7 +896,7 @@ compared with clinic monitoring, and the greatest blood pressure reduction was a
 with pharmacist input. However, the evidence was insufficient for the committee to make a
 recommendation.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 The committee decided to retain the 2011 recommendation on using clinic blood pressure,
 but also agreed that the updated guideline should support home monitoring for people
 who wish to use it. The committee discussed the importance of patient choice and agreed
@@ -975,7 +927,7 @@ Recommendations 1.4.15 to 1.4.22
 Why the committee made the recommendations
 No evidence was identified to determine whether cardiovascular risk or blood pressure
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 targets should be used. The committee agreed that in the absence of evidence the focus
 should be on blood pressure targets, based on their expertise and experience of current
 practice.
@@ -1011,7 +963,7 @@ in adults) suggested a blood pressure target below 130/80 mmHg in the presence o
 target organ damage such as kidney, cerebrovascular or eye disease. The committee
 noted that the evidence behind this recommendation was based on 2 small studies in
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 people without hypertension. They also had concerns about the relevance of the study
 design. The committee were also aware of trial data showing less benefit in populations
 with type 2 diabetes with fewer additional risk factors. The committee therefore agreed
@@ -1046,7 +998,7 @@ higher target blood pressure compared to that recommended previously may reduce
 adverse events and may lead to fewer appointments and reduced drug use.
 Return to recommendations
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Blood pressure targets for people with cardiovascular disease
 Recommendation 1.4.23
 Why the committee made the recommendation
@@ -1076,7 +1028,7 @@ recommends a lower blood pressure target for people after stroke. However, the n
 quality indicators used in primary care do not use a lower blood pressure target for people
 with cardiovascular disease (including stroke and transient ischaemic attack).
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Return to recommendation
 Choosing antihypertensive drug treatment for
 people with cardiovascular disease
@@ -1104,7 +1056,7 @@ common this is. As people with cardiovascular disease are commonly prescribed mo
 than 1 antihypertensive drug, any impact on prescribing would be limited.
 Return to recommendation
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Step 1 treatment
 Recommendations 1.4.32 to 1.4.39
 Why the committee made the recommendations
@@ -1138,7 +1090,7 @@ NICE's guideline on type 2 diabetes in adults. That guideline recommended that a
 with type 2 diabetes of any age should start on an angiotensin-converting enzyme (ACE)
 inhibitor as step 1 treatment (except women with a possibility of becoming pregnant and
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 people of Black African or African–Caribbean family origin). The committee discussed the
 evidence for this and agreed that it was sufficient to support and retain this
 recommendation. The committee agreed it should be broadened to include the choice of
@@ -1169,7 +1121,7 @@ Why the committee made the recommendations
 No evidence for step 2 or step 3 treatment was identified that was relevant to determining
 the best sequence for step 2 and step 3 antihypertensive treatment. Some of the studies
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 available on drug treatments for hypertension were not included in this review because
 they were designed to inform step 1 treatment. Others did not reflect UK clinical practice.
 For details of these studies see evidence review F: step 2 and step 3 treatment.
@@ -1198,7 +1150,7 @@ Return to recommendations
 Step 4 treatment
 Recommendations 1.4.46 to 1.4.52
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Why the committee made the recommendations
 No evidence on step 4 treatment was identified that could be used to formulate new
 recommendations. However, the committee reviewed the 2011 recommendations and
@@ -1231,7 +1183,7 @@ There might be a small reduction in step 4 treatment with more thorough checks t
 confirm resistant hypertension. However, this may also result in an increase in blood
 pressure measurements to appropriately confirm resistant hypertension where this is not
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 already being done.
 Return to recommendations
 Identifying who to refer for same-day specialist
@@ -1262,7 +1214,7 @@ with extreme hypertension (220/120 mmHg or higher) or emergency symptoms. The
 committee members developed a recommendation for research on same-day hospital
 specialist assessment to help inform future recommendations.
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 How the recommendations might affect practice
 The emergency symptoms listed in the recommendation may lead to more referrals to
 hospital. However, people with emergency symptoms will benefit from urgent treatment
@@ -1276,7 +1228,7 @@ hypertension and additional symptoms that suggest accelerated hypertension is ev
 smaller; therefore, resource impact is unlikely to be substantial.
 Return to recommendations
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 Context
 High blood pressure (hypertension) is one of the most important, treatable causes of
 premature morbidity and mortality in the world. It is a major risk factor for stroke,
@@ -1308,71 +1260,7 @@ hypertension) remains challenging. New data was also reviewed in this area and t
 recommendations updated.
 There is uncertainty in current practice about which people with symptomatic very high
 
-Hypertension in adults: diagnosis and management (NG136)
+ 
 blood pressure (accelerated hypertension) to refer for immediate assessment. The
 available evidence was reviewed and new recommendations made to provide guidance for
 primary care on when to refer.
-
-Hypertension in adults: diagnosis and management (NG136)
-Finding more information and committee
-details
-To find NICE guidance on related topics, including guidance in development, see the NICE
-topic page on hypertension.
-For full details of the evidence and the guideline committee's discussions, see the
-evidence reviews. You can also find information about how the guideline was developed,
-including details of the committee.
-NICE has produced tools and resources to help you put this guideline into practice. For
-general help and advice on putting our guidelines into practice, see resources to help you
-put NICE guidance into practice.
-
-Hypertension in adults: diagnosis and management (NG136)
-Update information
-November 2023: We updated recommendations 1.1.5, 1.1.6 and 1.4.16 and made 2 new
-recommendations (1.1.7 and 1.1.8) on how to measure and manage postural hypotension
-(see the February 2023 surveillance report). We also added 2 tables to the section on
-monitoring treatment and blood pressure targets to summarise blood pressure targets in
-this guideline and NICE's guidelines on type 1 diabetes and chronic kidney disease (see
-the November 2023 surveillance report).
-March 2022: We have reviewed the evidence on blood pressure targets for people with
-cardiovascular disease, and made a new recommendation. This is marked [2022].
-We have also reassessed the evidence on antihypertensive drug treatment, and made a
-new recommendation for people with cardiovascular disease. This is marked [2022].
-For recommendations ending [2019, amended 2022], we have not reviewed the evidence
-for people without cardiovascular disease. We have made minor changes to the wording of
-the recommendations without changing the intent. For an explanation of these changes,
-see the rationale and impact section on blood pressure targets for people with
-cardiovascular disease.
-August 2019: We have reviewed the evidence and made new recommendations on
-diagnosis, monitoring and drug treatment for hypertension, and identifying who to refer for
-same-day specialist review. These recommendations are marked [2019].
-We have also made some changes without an evidence review:
-• the information on cuff size for measuring blood pressure was moved to avoid
-repetition
-• plasma glucose testing was replaced with glycated haemoglobin (HbA1C) to reflect
-current practice
-• a note was added because of concerns about the risks of salt substitutes in some
-groups
-• the information on when to refer to the hypertension in pregnancy guideline was made
-clearer.
-
-Hypertension in adults: diagnosis and management (NG136)
-These recommendations are marked [2004, amended 2019] or [2011, amended 2019].
-Recommendations marked [2004], [2006], [2008], [2009] and [2011] last had an
-evidence review in that year. In some cases minor changes have been made to the
-wording to bring the language and style up to date, without changing the meaning.
-Recommendations 1.2.11 and 1.4.24 (marked [2009]) were originally published in
-section 1.4 of NICE's guideline on type 2 diabetes in adults, which was updated by this
-guideline.
-Minor changes since publication
-June 2024: We corrected recommendation 1.4.26 to read 'antihypertensive' instead of
-'hypertensive'.
-October 2023: We corrected a link to an evidence review.
-July 2022: In recommendation 1.5.1 we clarified the options for people with a blood
-pressure of 180/120 mmHg or more and no target organ damage.
-November 2021: We added a link to the blood pressure@home scheme in
-recommendation 1.4.17.
-December 2019: Recommendation 1.4.13 was amended to clarify that it applies to adults
-over 80 with stage 1 hypertension. We also made changes to introductory text to clarify
-that recommendations apply to all adults, including those with type 2 diabetes, unless
-links to other NICE guidelines indicate that treatment differs.
-ISBN: 978-1-4731-5589-3

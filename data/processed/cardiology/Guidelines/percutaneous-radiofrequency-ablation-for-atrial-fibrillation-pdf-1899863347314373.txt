@@ -1,21 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "percutaneous-radiofrequency-ablation-for-atrial-fibrillation-pdf-1899863347314373.pdf",
-  "converted_date": "2026-01-31T14:49:11.181855",
-  "file_size_bytes": 67118,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/percutaneous-radiofrequency-ablation-for-atrial-fibrillation-pdf-1899863347314373.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Percutaneous radiofrequency
-ablation for atrial fibrillation
-Interventional procedures guidance
-Published: 26 April 2006
-www.nice.org.uk/guidance/ipg168
+Percutaneous radiofrequency ablation for atrial fibrillation
 1 Guidance
 1.1 Current evidence on the safety and efficacy of percutaneous
 radiofrequency ablation for atrial fibrillation appears adequate to support
@@ -31,7 +14,7 @@ arrangements for cardiac surgical support in the event of complications.
 1.4 This procedure should only be performed by cardiologists with extensive
 experience of other types of ablation procedures.
 
-Percutaneous radiofrequency ablation for atrial fibrillation (IPG168)
+ 
 1.5 The National Institute for Cardiovascular Outcomes Research runs the
 National Congenital Heart Disease Audit database and clinicians are
 encouraged to enter all patients undergoing percutaneous
@@ -61,7 +44,7 @@ symptomatic patients with atrial fibrillation refractory to anti-arrhythmic
 drug therapy or where medical therapy is contraindicated because of co-
 morbidity or intolerance.
 
-Percutaneous radiofrequency ablation for atrial fibrillation (IPG168)
+ 
 2.2 Outline of the procedure
 2.2.1 Percutaneous radiofrequency ablation is a minimally invasive procedure
 that is usually carried out under sedation. A catheter is inserted into the
@@ -96,7 +79,7 @@ medication (p < 0.001). Patients receiving percutaneous radiofrequency
 ablation had a 54% reduction in risk of death compared with those
 receiving medication (p < 0.001).
 
-Percutaneous radiofrequency ablation for atrial fibrillation (IPG168)
+ 
 2.3.3 A large survey reported that 76% (6644/8745) of treated patients had
 resolution of symptoms of atrial fibrillation after a median follow-up of 12
 months (this proportion ranged from 22% to 91% among different
@@ -127,7 +110,7 @@ stenosis.
 ablation and cryoablation for atrial fibrillation in association with other
 cardiac surgery.
 
-Percutaneous radiofrequency ablation for atrial fibrillation (IPG168)
+ 
 3.2 NICE has also developed interventional procedures guidance on high-
 intensity focused ultrasound ablation for atrial fibrillation as an
 associated procedure with other cardiac surgery and a guideline on the
@@ -140,9 +123,3 @@ Information for patients
 NICE has produced information for patients and carers on this procedure. It explains the
 nature of the procedure and the guidance issued by NICE, and has been written with
 patient consent in mind.
-Update information
-Minor changes since publication
-May 2006: minor maintenance.
-ISBN: 978-1-4731-4553-5
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.

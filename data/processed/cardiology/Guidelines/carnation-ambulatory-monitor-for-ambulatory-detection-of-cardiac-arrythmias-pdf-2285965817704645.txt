@@ -1,22 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "carnation-ambulatory-monitor-for-ambulatory-detection-of-cardiac-arrythmias-pdf-2285965817704645.pdf",
-  "converted_date": "2026-01-31T14:46:20.559102",
-  "file_size_bytes": 105001,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/carnation-ambulatory-monitor-for-ambulatory-detection-of-cardiac-arrythmias-pdf-2285965817704645.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Carnation Ambulatory Monitor
-for ambulatory detection of
-cardiac arrythmias
-Medtech innovation briefing
-Published: 14 September 2021
-www.nice.org.uk/guidance/mib276
+Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias
 Summary
 • The technology described in this briefing is Carnation Ambulatory Monitor (CAM). It is
 an ambulatory cardiac monitor used for detecting cardiac arrhythmias.
@@ -30,7 +12,7 @@ including a total of 125 adults and children. They show that CAM is at least as 
 as other ambulatory cardiac monitors in adults with suspected arrhythmias.
 • Key uncertainties around the evidence are that the study sample sizes are small.
 
-Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias (MIB276)
+ 
 • The cost of CAM is between £110 and £145 per person (if the analysis is done in the
 hospital) or £150 to £200 per person (if the analysis is done externally by the
 company; all excluding VAT), depending on the number of days recorded, if the device
@@ -64,7 +46,7 @@ Holter monitor which is generally used for between 24 and 48 hours, which makes 
 suitable for people with symptoms of arrhythmia that happen more than 24 hours apart.
 The device is also wire free and is water resistant, meaning that it can be worn in the
 
-Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias (MIB276)
+ 
 shower and during exercise. However, users are advised to avoid showering or strenuous
 exercise for at least 24 hours after applying the patch. They also recommend avoiding
 environments or activities that lead to excessive sweating and advise against any activity
@@ -94,7 +76,7 @@ placing and activating the device and a patient diary. The device would be presc
 consultant cardiologist in a secondary or tertiary care setting. Patients need to press the
 button on the device and record the time and date in their diary if they experience any
 
-Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias (MIB276)
+ 
 symptoms of their suspected arrhythmia.
 Costs
 Technology costs
@@ -121,7 +103,7 @@ could be used as an alternative to the Holter monitor. This device can be used f
 14 days, meaning that longer recordings can be done compared with Holter monitors.
 Because the device can be posted back, an additional hospital appointment is not needed.
 
-Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias (MIB276)
+ 
 The company offers free training on device usage, fitting and data analysis (using their
 software). The software is provided for free and can be installed on as many computers in
 the hospital as needed.
@@ -150,7 +132,7 @@ available on request by contacting mibs@nice.org.uk.
 Published evidence
 Four studies are summarised in this briefing.
 
-Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias (MIB276)
+ 
 This includes 3 prospective comparative studies in adults and 1 retrospective single-arm
 study in children. A total of 125 people were included in the studies.
 The clinical evidence and its strengths and limitations is summarised in the overall
@@ -178,7 +160,7 @@ NUUBO vest, CAM, Novacor 'R' test 4) for 2 weeks each in randomised order. All p
 also had dual chamber permanent pacemakers implanted, which detect arrhythmias to a
 high level of sensitivity and specificity.
 
-Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias (MIB276)
+ 
 Key outcomes
 CAM measures of atrial fibrillation burden were compared with the implanted pacemaker.
 The CAM device was found to correlate with the pacemaker (R-square value 0.9618). CAM
@@ -208,7 +190,7 @@ Key outcomes
 A total of 86.7 plus or minus 0.6 arrhythmias were detected using Zio XT and 121.7 plus or
 minus 2.1 for CAM (p<0.001). Of the arrhythmias identified, atrial tachycardia was most
 
-Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias (MIB276)
+ 
 diagnosed, and was more frequently identified with CAM than Zio XT (22.3 plus or minus
 0.6 compared with 8.7 plus or minus 3.2, p<0.001). ECG clarity was ranked as high in all
 29 CAM reports (100%) and on 4.5 (16%) of the Zio XT reports (p<0.001). Higher ECG
@@ -236,7 +218,7 @@ Strengths and limitations
 The study compared 2 devices at the same time on the same person, which allowed direct
 data comparison. However, the CAM patch was only used for 24 hours (in line with normal
 
-Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias (MIB276)
+ 
 Holter monitor use) which limits the evidence on comfort of CAM patch use for up to
 14 days.
 Romme et al. (2021)
@@ -261,7 +243,7 @@ device is also smaller than other patch monitors and the battrode can be recycle
 device packaging is made of paper and cardboard which can be recycled. There is no
 published evidence to support these claims.
 
-Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias (MIB276)
+ 
 Recent and ongoing studies
 • Optimized Continuous 7-day Detection of Arrhythmias in Dialysis Population by a
 Patch With a High Resolution Differentiation of Atrial Activity. ClinicalTrials.gov
@@ -291,7 +273,7 @@ Potential patient impact
 Two experts said that when compared with Holter monitors, these patch-type devices are
 less intrusive because there is no need for cables and they are smaller and water resistant
 
-Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias (MIB276)
+ 
 (and so does not need to be removed when showering). One expert said that longer
 monitoring is also likely to improve diagnostic yield, especially in those with relatively
 infrequent symptoms. If diagnostic yield is improved it is also likely to reduce the need for
@@ -326,7 +308,7 @@ expert said that it would be useful to have a 14-day monitoring study comparing 
 similar patch-type devices used in the NHS. One expert said that larger population studies
 would be needed. One expert said that cost compared with Holter monitors would be a
 
-Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias (MIB276)
+ 
 barrier to wider uptake of the device. They said that there would be a reduction in capital
 cost but an increase in consumables cost if the device replaced Holter monitoring.
 Patient organisation comments
@@ -345,24 +327,3 @@ This includes people with syncope who may only faint once or twice a month or th
 paroxysmal atrial fibrillation. This could prevent repeat hospital appointments which could
 reduce the costs and time associated with traveling to and waiting for multiple
 appointments.
-Expert commentators
-The following clinicians contributed to this briefing:
-• Dr Rhys Beynon, consultant cardiologist and electrophysiologist, University Hospital of
-the North Midlands. Did not declare any interests.
-• Dr Mark Tanner, consultant cardiologist and honorary clinical senior lecturer, University
-Hospitals Sussex NHS Foundation Trust and Imperial College London. Dr Tanner has
-had a consultancy agreement with I Rhythm Technologies (manufacturer of Zio XT),
-providing expert opinion for an electrocardiogram validation study in 2020.
-• Vince Walker, senior chief cardiac physiologist and electrophysiology lead, University
-Hospitals of North Midlands. Did not declare any interests.
-
-Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias (MIB276)
-Representatives from the following patient organisations contributed to this briefing:
-• Syncope Trust And Reflex anoxic Seizures (STARS)
-• AF Association
-• Arrhythmia Alliance.
-Development of this briefing
-This briefing was developed by NICE. The interim process and methods statement for
-medtech innovation briefings sets out the process NICE uses to select topics, and how the
-briefings are developed, quality-assured and approved for publication.
-ISBN: 978-1-4731-4257-2

@@ -1,180 +1,113 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Even in retrospect, no one could see it. - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:23.607498",
-  "file_size_bytes": 17414322,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Even in retrospect, no one could see it. - Dr. Smith’s ECG Blog.pdf"
-}
+A 60-year-old woman with known coronary artery disease presented with new chest pain. The case ECG was sent to Dr. Smith by a former resident who is highly skilled at ECG interpretation for occlusion myocardial infarction (OMI).
 
-=== СОДЕРЖАНИЕ ===
+Presentation ECG (ECG #1)
 
-Steve Smith onMarch 27, 2025
-Even in retrospect, no one
-could see it.
-This was sent to me by a former resident who is outstanding at
-reading ECGs for OMI.
-“Hi Steve wonder what you think of this ecg in a 60 yo woman w cp,
-known CAD”
-Presentation ECG (ECG 1):
- 
-Here is her previous from one week prior when she presented with
-heart failure and trops were “negative” (ECG 2):
-My response: “They both look like active ischemia. The top one
-
-(ECG 1) looks like “precordial swirl“, which is LAD Occlusion. The
- 1/11
-previous ECG also shows active ischemia.”
-The Queen of Hearts diagnosed “Subendocardial Ischemia“
-More explanation: Both have some lateral precordial ST depression
-which looks like subendocardial ischemia. However, the presentation
-ECG (ECG 1) has large, bulky T-waves. By itself, it is very concerning
-for LAD Occlusion with Precordial Swirl morphology, but especially
-when comparing to the old one, those features of hyperacute T-
-waves really stand out.
-He stated later that he gave her 1 sublingual NTG and her pain went
-down to 1/10. He did not repeat an ECG.
-His response:
-“Yeah, thatʼs what I was afraid of. This is a retrospective ask because
-with the most recent ECG (ECG 1), I admitted her with new Chest Pain
-and a modest troponin elevation that I thought was progression of
-bad multi-vessel disease but she ultimately proved to have acute
-LAD occlusion that didnʼt go to Cath for almost 24 hrs and Iʼm kicking
-myself.
-Smith: In other words, he saw it in retrospect.
-“That is what I was worried about in retrospect. Big MI. They stopped trending
-trop at 5000 ng/L of hs trop I. EF 20% down from 50%.”
-“And… they hit the carotid trying to place an Impella, caused a big hematoma
-where she had precipitous airway occlusion. Just awful all around. I’ll check for
-updates and other ekgs when I log in later today.”
-Post cath ekg here. She’s in impella dependent cardiogenic shock w new renal
-failure.
-Now there is a new intraventricular conduction defect (IVCD) that is
-very much like true Left Bundle (LBBB).
-It is Smith Modified Sgarbossa Negative, but that is because the
-damage is done.
-Smith: “Sorry about all that.”
- 2/11
-Former Resident: “Yeah. Me too. Appreciate your feedback. I couldnʼt
-get anyone else to agree with me on the OMI findings even in
-retrospect and it was driving me crazy.”
-Smith: In other words, no one else could see the OMI, even in
-retrospect. I could see it because Pendell and I have described and
-coined the term “Precordial Swirl”. We have a paper In Press at the
-Journal of Electrocardiology that defines it based on a lot of data.
-The Queen of Hearts did not diagnose OMI, but she did see
-ischemia.
-Refractory ischemia needs the cath lab emergently.
-When can you say that the ischemia has resolved and the patient
-does not need emergent angiography?
-Both:
-1) Pain is resolved completely
-2) ST depression is competely resolved
-In this case, the pain was still 1/10. He told me that he did not see any
-inpatient notes about the presence or absence of pain. He did not
-get a repeat ECG after the NTG.
-SUMMARY: This devastating OMI could have been reperfused
-quickly if the presence of refractory pain had been acted upon,
-regardless of the ECG. Troponin was elevated and pain was
-refractory. Why was it not acted upon? I canʼt say I know for
-certain. This former resident is one of the smartest and most diligent
-I have ever known, but the pressure to not activate the cath lab
-because of a possible false positive activation is intense.
-It is better to have a false positive activation than it is to have a
-disaster like this, and all members of the team should be
-encouraged to support taking the patient for angiogram when there
-is any doubt!!
-===================================
-MY Comment, by KEN GRAUER, MD (3/27/2025):
-===================================
-Today’s case by Dr. Smith is subtle — and EASY to overlook because of
-how abnormal this patient’s previous ECG is.
- 3/11
-This 60-year old woman clearly presented to the ED as a higher-
-risk patient — given her history of known coronary disease, now
-with new chest pain.
-To facilitate comparison in Figure-1 — I’ve put today’s initial ECG
-(TOP tracing) — together with this patient’s previous ECG from 1
-week earlier (LOWER tracing). Of note — Troponin was normal at
-the time ECG #2 was recorded, so there was no acute infarction in
-association with this tracing.
-PEARL: The KEY for assessing serial tracings is to systematically
-compare ECG findings by going lead-by-lead. It does not matter if you
-look first at the previous tracing or at the most current tracing — as long
-as you then systematically compare one lead in one of the tracings with
-the same lead in the next tracing — and then repeat this process for each
-of the 12 leads in both tracings.
-The Clinical Reality: If you do not keep both tracings close to each
-other as you go lead-by-lead comparing ECG findings —
-You will miss subtle abnormalities. I believe this was the problem in
-today’s case.
-The previous ECG is very abnormal …
-Letʼs begin with ECG #2 — which is the previous tracing that
-was recorded ~1 week earlier at the time of a heart failure
-exacerbation.
-The rhythm in ECG #2 is sinus at ~75/minute, with several early
-beats. The PR interval is normal — the QRS is narrow — and the
-QTc may be borderline prolonged.
-There is marked left axis, consistent with LAHB
-(Left Anterior HemiBlock).
-Voltage criteria for LVH are satisfied (R wave in lead aVL ≥12 mm).
-There is poor R wave progression with delayed transition (The R
-wave does not get taller than the S wave is deep until between
-leads V5-to-V6).
-Regarding ST-T wave findings — There is fairly diffuse ST
-segment flattening with slight depression in multiple leads — with
-ST coving and slight elevation in lead aVR.
-Impression: Although the downsloping ST depression in high
-lateral leads I and aVL could reflect LV “strain” — the overall picture
-in this tracing is that of DSE (Diffuse Subendocardial Ischemia).
-That said — We are told that Troponins were negative at the time
-this ECG was recorded. So, while ECG #2 may be indicative of
-significant (even multi-vessel) coronary disease — it
-is not diagnostic of acute coronary occlusion.
- 4/11
-Figure-1: Comparison between the first 2 ECGs in today’s case.
-Why an Acute Event was Not Diagnosed in ECG #1:
-Note that both the frontal plane axis and precordial lead QRS morphology
-for the 2 tracings in Figure-1 are very similar (with the exception of
-predominant positivity for the QRS in lead V6 of ECG #2 — whereas
-transition never occurs in ECG #1). As a result of this similarity in axis and
-overall QRS morphology — any slight changes in ST-T wave morphology
-are likely to be “real”.
-What differences do YOU see between the 2 tracings?
-ANSWER:
-The heart rate is somewhat faster in ECG #1. Once again there are some
-early beats that appear to be supraventricular.
-The most concerning difference in ST-T wave morphology
-between ECG #1 and ECG #2 — is seen within the RED rectangle.
-In this patient with new CP (Chest Pain) — Isn’t it much easier to
-appreciate the taller T waves in leads V1,V2,V3 with these 2 ECGs
-placed next to each other?
-Other changes are more subtle.
-I thought the ST-T waves in each of the 4 leads highlighted by BLUE
-arrows looked more acute (ie, with more angled and deeper ST
-depression).
-Lead aVR shows more ST elevation.
- 5/11
-Impression: As per Dr. Smith — New ST elevation in anterior leads V1,V2
-— with more ST depression in lateral chest lead V6 — is consistent
-with precordial swirl (See the October 15, 2022 post — for multiple
-examples of Swirl — and My Comment at the bottom of the page for
-qualitative summary of ST-T wave changes with this entity). The increased
-ST depression in multiple leads in ECG #2, with more ST elevation in aVR
-— is consistent with severe underlying coronary disease
-with worsening ischemia.
-Isn’t it much easier to recognize subtle-but-important
-differences between 2 serial tracings by putting both ECGs next to
-each other, and then going lead-by-lead in your assessment?
-Steve Smith onMarch 27, 2025
-DIFFUSE SUBENDOCARDIAL ISCHEMIA PRECORDIAL SWIRL
-REFRACTORY CHEST PAIN
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-Can you localize the Everyone sees ST
-culprit lesion on depression, but what
-angiogram without does it mean?
-taking ECG findings
-into account?
+The initial ECG showed:
+
+Lateral precordial ST depression
+
+Large, bulky T-waves in the anterior precordial leads
+
+Overall appearance concerning for active ischemia
+
+By itself, the ECG could be interpreted as subendocardial ischemia. However, the anterior T-waves were disproportionately large and bulky, raising concern for acute LAD occlusion, particularly a pattern known as precordial swirl.
+
+Prior ECG (ECG #2, one week earlier)
+
+A comparison ECG from one week earlier was available. At that time:
+
+The patient presented with heart failure
+
+Troponins were negative
+
+ECG demonstrated:
+
+Sinus rhythm ~75 bpm
+
+Left anterior fascicular block
+
+Voltage criteria for LVH
+
+Poor R-wave progression
+
+Diffuse ST flattening and mild ST depression
+
+ST elevation in aVR
+
+This ECG was consistent with diffuse subendocardial ischemia (DSE) in the setting of severe multivessel coronary disease, but not acute coronary occlusion.
+
+Critical Comparison (ECG #1 vs ECG #2)
+
+When the two ECGs are placed side-by-side and compared lead-by-lead, several important differences become apparent:
+
+Heart rate was faster in ECG #1
+
+Anterior leads V1–V3 showed clearly taller T-waves
+
+ST depression appeared deeper and more acute in multiple leads
+
+ST elevation in aVR was more pronounced
+
+Loss of R-wave progression was worse in ECG #1
+
+These changes, in the context of new chest pain, were consistent with precordial swirl, a subtle ECG pattern associated with acute LAD occlusion, even when classic ST-elevation criteria are not met.
+
+Clinical Course
+
+The treating physician administered one sublingual nitroglycerin, after which the patient’s pain improved from severe to 1/10, but did not fully resolve. No repeat ECG was obtained.
+
+The patient was admitted with the working diagnosis of progression of chronic multivessel disease and modest troponin elevation. She ultimately proved to have acute LAD occlusion, but did not undergo catheterization for almost 24 hours.
+
+Outcomes:
+
+Large anterior myocardial infarction
+
+Troponin I peaked above 5000 ng/L
+
+Left ventricular ejection fraction dropped from 50% to 20%
+
+Post-cath ECG showed a new intraventricular conduction defect resembling LBBB
+
+The ECG was Smith-modified Sgarbossa negative, reflecting completed myocardial injury
+
+The patient developed cardiogenic shock, required Impella support, and suffered acute renal failure
+
+During Impella placement, the carotid artery was inadvertently cannulated, causing a large hematoma and airway compromise
+
+Key Insight
+
+Even in retrospect, multiple clinicians could not see the OMI, despite the devastating outcome. Recognition was possible only because the concept of precordial swirl had been previously described and studied.
+
+The Queen of Hearts AI did not diagnose OMI, but did identify ischemia. Importantly, refractory ischemia requires emergent angiography, even if OMI is not explicitly diagnosed.
+
+When Is Emergent Angiography NOT Required?
+
+Ischemia can be considered resolved only if both conditions are met:
+
+Chest pain is completely resolved
+
+ST depression is completely resolved
+
+In this case:
+
+Pain persisted at 1/10
+
+ST depression was still present
+
+No repeat ECG was obtained to document resolution
+
+Summary and Learning Points
+
+Refractory chest pain + ischemic ECG = emergent cath, regardless of whether classic OMI criteria are met
+
+Subtle ECG patterns like precordial swirl can represent acute LAD occlusion
+
+Comparing ECGs side-by-side, lead-by-lead is essential
+
+Troponin elevation confirms injury but should not delay action
+
+Fear of false-positive cath lab activation can lead to catastrophic outcomes
+
+It is far better to activate unnecessarily than to miss an occlusive MI
+
+This case illustrates how subtle, under-recognized ECG patterns combined with persistent symptoms can represent true coronary occlusion, even when most observers — including experts — fail to recognize it in real time.

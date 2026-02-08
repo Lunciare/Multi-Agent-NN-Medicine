@@ -1,48 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "ticagrelor-for-the-treatment-of-acute-coronary-syndromes-pdf-82600373952709.pdf",
-  "converted_date": "2026-01-31T14:50:01.173449",
-  "file_size_bytes": 189259,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/ticagrelor-for-the-treatment-of-acute-coronary-syndromes-pdf-82600373952709.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Ticagrelor for the
-treatment of acute
-coronary syndromes
-Technology appraisal guidance
-Published: 26 October 2011
-www.nice.org.uk/guidance/ta236
-
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
-Your responsibility
-The recommendations in this guidance represent the view of NICE, arrived at after careful
-consideration of the evidence available. When exercising their judgement, health
-professionals are expected to take this guidance fully into account, alongside the
-individual needs, preferences and values of their patients. The application of the
-recommendations in this guidance is at the discretion of health professionals and their
-individual patients and do not override the responsibility of healthcare professionals to
-make decisions appropriate to the circumstances of the individual patient, in consultation
-with the patient and/or their carer or guardian.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to provide the funding required to
-enable the guidance to be applied when individual health professionals and their patients
-wish to use it, in accordance with the NHS Constitution. They should do so in light of their
-duties to have due regard to the need to eliminate unlawful discrimination, to advance
-equality of opportunity and to reduce health inequalities.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
-
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+Ticagrelor for the treatment of acute coronary syndromes
 1 Recommendations
 1.1 Ticagrelor in combination with low-dose aspirin is recommended for up to
 12 months as a treatment option in adults with acute coronary syndromes (ACS)
@@ -66,7 +22,7 @@ of at least 50%, or cerebral revascularisation; diabetes mellitus; peripheral ar
 disease; or chronic renal dysfunction, defined as a creatinine clearance of less
 than 60 ml per minute per 1.73 m2 of body-surface area.
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 2 The technology
 2.1 Ticagrelor (Brilique, AstraZeneca) is an oral antagonist at the P2Y adenosine
 12
@@ -94,7 +50,7 @@ and contraindications, see the SPC.
 ticagrelor is £54.60 for a pack of 56 tablets (28 days). Costs may vary in different
 settings because of procurement discounts.
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 3 The manufacturer's submission
 The Appraisal Committee considered evidence submitted by the manufacturer of
 ticagrelor and a review of this submission by the Evidence Review Group (ERG). This
@@ -127,7 +83,7 @@ primary end point event, then patients who had not yet been followed for
 trial, 1,878 participants had experienced events, and the median duration of
 treatment was 9.1 months. Secondary end points included: myocardial infarction;
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 stroke; death from vascular causes; death from any cause; a composite of
 myocardial infarction, stroke and death from any cause; and a composite of
 myocardial infarction, stroke, severe recurrent cardiac ischaemia, recurrent
@@ -163,7 +119,7 @@ difference in the primary safety end point of 'major' bleeding between the
 ticagrelor plus aspirin and clopidogrel plus aspirin groups (11.6% versus 11.2%
 respectively; p=0.43), or in the end point of bleeding defined by the Thrombolysis
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 in Myocardial Infarction (TIMI) scale. Both were analysed according to which
 treatment a patient took, rather than to which a patient had been randomised;
 these findings were consistent across all major subgroups. Patients randomised
@@ -201,7 +157,7 @@ many ways, both including populations with ACS, both comparing the
 intervention plus aspirin to clopidogrel plus aspirin, and both sharing the same
 primary end point. However, there were important differences in the use of PCI
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 and medical management, in the size and timing of the loading dose of
 clopidogrel, and in assessing myocardial infarction. Although the manufacturer
 considered the indirect comparison inappropriate, it cited a published paper
@@ -235,7 +191,7 @@ incorporate major clinical events. Patients in the model had ACS (STEMI, NSTEMI
 or unstable angina) and included patients whose condition was managed
 medically or with PCI or CABG; the model therefore reflected the marketing
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 authorisation for ticagrelor. The model compared ticagrelor plus aspirin with
 clopidogrel plus aspirin.
 3.10 The 1-year decision tree contained 4 mutually exclusive health states: non-fatal
@@ -271,7 +227,7 @@ to be the same as that of death at least 1 year after the index ACS event.
 3.12 For the 1-year decision tree, the manufacturer used a parametric time-to-event
 survival model with a Weibull distribution to determine the baseline risk (that is,
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 the risk of cardiovascular events and death in the clopidogrel group). The
 manufacturer then applied HRs reflective of the effectiveness of ticagrelor from
 the PLATO study to this baseline risk to determine the risk in patients taking
@@ -308,7 +264,7 @@ total healthcare costs associated with ticagrelor and clopidogrel. Resource use
 included costs from randomisation to the time of discharge from hospital, as well
 as after discharge from hospital to the end of the PLATO study. The manufacturer
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 also included in sensitivity analyses the costs of a visit to the GP and of a blood
 test to check renal function, as stipulated in the SPC for ticagrelor.
 3.15 In its deterministic base case (40-year time horizon), the manufacturer's model
@@ -343,7 +299,7 @@ gained, the probability of ticagrelor plus aspirin being cost effective compared
 with clopidogrel plus aspirin was 76.6%. At £20,000 per QALY gained, the
 probability of ticagrelor plus aspirin being cost effective compared with
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 clopidogrel plus aspirin was 99.9%.
 3.19 The manufacturer's submission also provided results for ticagrelor plus aspirin
 compared with prasugrel plus aspirin for the subgroup receiving PCI, based on
@@ -377,7 +333,7 @@ weeks (from NICE's previous guideline on MI: secondary prevention, now
 replaced by NICE's guideline on myocardial infarction: cardiac rehabilitation and
 prevention of further cardiovascular disease). From statements in the 'clinical
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 need and practice' and 'evidence and interpretation' sections of NICE's
 technology appraisal guidance on drug-eluting stents for the treatment of
 coronary artery disease, the ERG concluded that standard practice for STEMI
@@ -414,7 +370,7 @@ across 25 pre-specified and 8 post-hoc subgroups, without adjustment for
 multiple comparisons. The ERG expressed concern about the large number of
 subgroups and potential overemphasis of any statistically significant results from
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 these analyses, which might have occurred by chance alone. With these caveats
 noted, the ERG observed that the regional analysis showed that in the USA,
 patients randomised to ticagrelor plus aspirin did worse than those randomised
@@ -450,7 +406,7 @@ non-fatal myocardial infarction health state to the end of the decision-tree par
 the model, then progress to the 'post-myocardial infarction' state for all remaining
 cycles until death (whether from cardiovascular or non-cardiovascular causes).
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 Similarly, patients may instead have a non-fatal stroke as their first event (after
 the initial presentation with ACS) during a cycle, and then progress to the post-
 stroke state until death. The ERG considered that this structure does not
@@ -486,7 +442,7 @@ ERG established that these inaccuracies represented an 8% underestimate of
 benefits from ticagrelor plus aspirin compared with clopidogrel plus aspirin and
 suggested that the ICER presented by the manufacturer may be an overestimate.
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 3.30 The ERG acknowledged that use of healthcare resources was estimated in the
 model using data from an imbedded health economic study, which collected
 details of hospital care received by patients during the PLATO trial. For the
@@ -523,7 +479,7 @@ variables – survival gain at 12 months, life expectancy at 12 months, the mean
 long-term utility value and the mean long-term discounted cost per patient year.
 The most favourable ICERs for ticagrelor plus aspirin are £3,407 per QALY gained
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 for all patients, £3,551 per QALY gained for the STEMI group, £3,350 per QALY
 gained for the NSTEMI group and £3,405 per QALY gained for the group with
 unstable angina. Incorporating the least favourable combination of assumptions
@@ -544,7 +500,7 @@ and safety of ticagrelor compared with prasugrel remains unknown.
 3.34 Full details of all the evidence are in the manufacturer's submission and the ERG
 report.
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 4 Consideration of the evidence
 4.1 The Appraisal Committee reviewed the data available on the clinical and cost
 effectiveness of ticagrelor, having considered evidence on the nature of ACS and
@@ -576,7 +532,7 @@ manufacturer based its submission on a large trial, PLATO, which compared
 ticagrelor plus aspirin with clopidogrel plus aspirin. The Committee noted that
 ticagrelor plus aspirin reduced the relative risk of myocardial infarction, stroke
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 and death from vascular causes by 16% compared with clopidogrel plus aspirin.
 The Committee also noted that if the components of the primary end point were
 considered individually, the reductions in myocardial infarction and death from
@@ -613,7 +569,7 @@ randomised to clopidogrel, only approximately one-fifth received a loading dose
 in the range (600 to 675 mg) recommended in the UK (600 mg). The Committee
 also noted that not all patients in the PLATO trial received treatment for
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 12 months and that the median duration of treatment was 9 months. The
 Committee heard that the results presented included those censored before
 12 months. The Committee noted that the Kaplan–Meier curves depicting the 2
@@ -650,7 +606,7 @@ would be unlikely to substantially reduce the effectiveness of ticagrelor plus
 aspirin relative to clopidogrel plus aspirin.
 4.7 The Committee discussed the concerns about safety and adverse effects
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 associated with ticagrelor. The Committee heard that dyspnoea (shortness of
 breath), ventricular pauses, increases in serum uric acid and increases in serum
 creatinine from baseline were statistically significantly more common in the
@@ -688,7 +644,7 @@ interaction by whether a patient had a positive or negative test for troponin we
 positive (p value for interaction 0.41 and 0.29 respectively). Lastly, no evidence of
 statistical or biological plausibility was presented to support effect modification
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 by presentation of ACS, and there are no trials using ticagrelor for the primary
 prevention of cardiovascular disease. Therefore, the Committee concluded that
 providing specific recommendations only for patients with STEMI and NSTEMI
@@ -722,7 +678,7 @@ noted that if the model had included the possibility of more than 1 cardiovascul
 event after the index event, and had accounted for the increased risk of a
 cardiovascular event associated with having had prior events, then the ICERs for
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 ticagrelor compared with clopidogrel would be lower than in the manufacturer's
 base case. This is because at the end of the 1-year decision tree, more patients
 on clopidogrel than on ticagrelor had experienced a myocardial infarction or
@@ -759,7 +715,7 @@ Committee therefore agreed that only patients with STEMI that cardiologists
 intend to treat with primary PCI should be treated with ticagrelor. The Committee
 heard that there is a spectrum of severity with respect to unstable angina. The
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 Committee was aware that in clinical practice in the UK a diagnosis of unstable
 angina could be made using less stringent criteria than those defined in the
 PLATO trial. The Committee agreed that only patients with unstable angina
@@ -796,7 +752,7 @@ considered to represent good value for money by NICE, the high incidence of
 ACS in England and Wales means that ticagrelor would substantially impact
 budgets were it approved for use. The primary care trust expert noted that this
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 would invariably lead to reduced spending elsewhere for health, which would
 include cardiology services. The Committee noted further comments received
 from consultees that affordability was an issue that NHS commissioners needed
@@ -807,7 +763,7 @@ Committee noted that NICE's guide to the methods of technology appraisal
 states that budget impact and affordability are not relevant to its decision
 making.
 
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
+ 
 5 Implementation
 5.1 Section 7 of the National Institute for Health and Care Excellence (Constitution
 and Functions) and the Health and Social Care Information Centre (Functions)
@@ -824,177 +780,3 @@ available within the period set out in the paragraphs above. This means that, if
 patient has acute coronary syndrome and the healthcare professional responsible
 for their care thinks that ticagrelor is the right treatment, it should be available for
 use, in line with NICE's recommendations.
-
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
-6 Recommendations for further research
-6.1 Clinical trials should be conducted comparing ticagrelor with prasugrel in people
-with ACS.
-6.2 Further research into whether ticagrelor is particularly beneficial in any clinical or
-biological subgroups would be useful.
-
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
-7 Appraisal Committee members and NICE
-project team
-Appraisal Committee members
-The Appraisal Committee is 1 of NICE's standing advisory committees. Its members are
-appointed for a 3-year term. A list of the Committee members who took part in the
-discussions for this appraisal appears below. The Appraisal Committee meets 3 times a
-month except in December, when there are no meetings. The Committee membership is
-split into 3 branches, each with a chair and vice chair. Each branch considers its own list of
-technologies, and ongoing topics are not moved between the branches.
-Committee members are asked to declare any interests in the technology to be appraised.
-If it is considered there is a conflict of interest, the member is excluded from participating
-further in that appraisal.
-The minutes of each Appraisal Committee meeting, which include the names of the
-members who attended and their declarations of interests, are posted on the NICE
-website.
-Dr Amanda Adler (Chair)
-Consultant Physician, Addenbrooke's Hospital
-Dr Ray Armstrong
-Consultant Rheumatologist, Southampton General Hospital
-Dr Jeff Aronson
-Reader in Clinical Pharmacology, University Department of Primary Health Care, University
-of Oxford
-Dr Peter Barry
-Consultant in Paediatric Intensive Care, Leicester Royal Infirmary
-Dr Michael Boscoe
-Consultant Cardiothoracic Anaesthetist, Royal Brompton and Harefield NHS Foundation
-
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
-Trust
-Professor John Cairns
-Professor of Health Economics Public Health and Policy, London School of Hygiene and
-Tropical Medicine
-Dr Mark Chakravarty
-External Relations Director, Pharmaceuticals and Personal Health, Oral Care Europe
-Mr Mark Chapman
-Health Economics and Market Access Manager, Medtronic UK
-Professor Fergus Gleeson
-Consultant Radiologist, Churchill Hospital, Oxford
-Mrs Eleanor Grey
-Lay member
-Dr Neil Iosson
-General Practitioner
-Mr Terence Lewis
-Lay Member
-Dr Ruairidh Milne
-Director of Strategy and Development and Director for Public Health Research at the NIHR
-Evaluation, Trials and Studies Coordinating Centre at the University of Southampton
-Dr Rubin Minhas
-General Practitioner and Clinical Director, BMJ Evidence Centre
-Dr Peter Norrie
-Principal Lecturer in Nursing, DeMontfort University
-Dr Sanjeev Patel
-Consultant Physician and Senior Lecturer in Rheumatology, St Helier University Hospital
-Dr John Pounsford
-
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
-Consultant Physician, Frenchay Hospital, Bristol
-Dr Casey Quinn
-Lecturer in Health Economics, Division of Primary Care, University of Nottingham
-Dr John Rodriguez
-Assistant Director of Public Health, NHS Eastern and Coastal Kent
-Mr Navin Sewak
-Primary Care Pharmacist, NHS Hammersmith and Fulham
-Mr Roderick Smith
-Finance Director, West Kent Primary Care Trust
-Mr Cliff Snelling
-Lay Member
-Professor Ken Stein (Vice Chair)
-Professor of Public Health, Peninsula Technology Assessment Group (PenTAG), University
-of Exeter
-Professor Andrew Stevens
-Professor of Public Health, Department of Public Health and Epidemiology, University of
-Birmingham
-Dr Rod Taylor
-Professor in Health Services Research, Peninsula Medical School, Universities of Exeter
-and Plymouth
-Mr Tom Wilson
-Director of Contracting and Performance, NHS Tameside and Glossop
-NICE project team
-Each technology appraisal is assigned to a team consisting of 1 or more health technology
-analysts (who act as technical leads for the appraisal), a technical adviser and a project
-manager.
-
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
-Raisa Sidhu
-Technical Lead
-Joanna Richardson
-Technical Adviser
-Jeremy Powell
-Project Manager
-
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
-8 Sources of evidence considered by the
-Committee
-The Evidence Review Group (ERG) report for this appraisal was prepared by the Liverpool
-Reviews and Implementation Group (LRiG):
-• Bagust A, Boland A, Blundell M et al. Ticagrelor for the treatment of acute coronary
-syndromes, February 2011
-The following organisations accepted the invitation to participate in this appraisal as
-consultees and commentators. They were invited to comment on the draft scope, the ERG
-report and the appraisal consultation document (ACD). Manufacturers or sponsors were
-also invited to make written submissions. Professional or specialist, patient or carer
-groups, and other consultees, had the opportunity to give their expert views.
-Manufacturers or sponsors and professional or specialist and patient or carer groups also
-have the opportunity to appeal against the final appraisal determination.
-Manufacturers or sponsors:
-• AstraZeneca
-Professional or specialist, and patient or carer groups:
-• Action Heart
-• British Cardiovascular Intervention Society (BCIS)
-• British Cardiovascular Society
-• British Heart Foundation
-• Heart Care Partnership (UK)
-• HEART UK
-• Royal College of Nursing
-• Royal College of Physicians
-
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
-• South Asian Health Foundation
-Other consultees:
-• Department of Health
-• NHS Bradford and Airedale
-• Oxfordshire PCT
-• Welsh Assembly Government
-Commentator organisations (did not provide written evidence and without the right of
-appeal):
-• Bristol–Myers Squibb
-• British National Formulary
-• British Society for Cardiovascular Research
-• Commissioning Support Appraisals Service
-• Daiichi Sankyo
-• Department of Health, Social Services and Public Safety for Northern Ireland
-• Eli Lilly
-• Healthcare Improvement Scotland
-• Medicines and Healthcare products Regulatory Agency (MHRA)
-• Sanofi–Aventis
-The following individuals were selected from clinical specialist and patient expert
-nominations from the non-manufacturer or sponsor consultees and commentators. They
-gave their expert personal view on ticagrelor by attending the initial Committee discussion
-and providing written evidence to the Committee. They are invited to comment on the
-ACD.
-• Nick Curzen, nominated by the Royal College of Physicians – clinical specialist
-• Professor Anthony Gershlick, Consultant Cardiologist, University Hospitals of
-
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
-Leicester, nominated by the Royal College of Physicians, Consultant Cardiologist,
-Southampton University Hospitals – clinical specialist
-• Liz Clark, nominated by the Heart Care Partnership – patient expert
-• John Miller, nominated by the Heart Care Partnership – patient expert
-The following individuals were nominated as NHS Commissioning experts by the selected
-PCT allocated to this appraisal. They gave their expert and NHS commissioning personal
-view on ticagrelor by attending the initial Committee discussion and providing written
-evidence to the Committee. They are invited to comment on the ACD.
-• Greg Fell, Consultant in Public Health, NHS Bradford and Airedale selected by NHS
-Bradford and Airedale – NHS Commissioning expert
-Representatives from the following manufacturer or sponsor attended Committee
-Meetings. They contributed only when asked by the Committee chair to clarify specific
-issues and comment on factual accuracy.
-• AstraZeneca
-
-Ticagrelor for the treatment of acute coronary syndromes (TA236)
-Update information
-February 2014: Implementation section updated to clarify that ticagrelor is recommended
-as an option for treating acute coronary syndromes.
-ISBN: 978-1-4731-6689-9

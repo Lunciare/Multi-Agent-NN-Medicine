@@ -1,174 +1,87 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "A 15 year old with acute chest pain - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:27.202455",
-  "file_size_bytes": 12075203,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/A 15 year old with acute chest pain - Dr. Smith’s ECG Blog.pdf"
-}
+A 15 year old with acute chest pain
 
-=== СОДЕРЖАНИЕ ===
+This was sent to me real time by an outstanding former EM resident, Quin Stevens.
 
-Steve Smith onAugust 25, 2025
-A 15 year old with acute
-chest pain
-This was sent to me real time by an outstanding former EM
-resident, Quin Stevens.
-Quin wrote that a 15 year old presented with sudden onset
-chest pressure one hour prior. There were no symptoms of
-viral illness.
+Quin wrote that a 15 year old presented with sudden onset chest pressure one hour prior. There were no symptoms of viral illness.
+
 Here is his ED ECG:
- 
+
 What do you think?
-There is quite a bit of ST Elevation in I and aVL, with
-reciprocal ST depression in lead III, as well as V1-V3. In an
-adult, one would need to assume OMI until proven otherwise.
-Interestingly, the Queen of Hearts said “Not OMI with low 
-confidence.” The model output was 0.35 and it must be
- 1/10
-above 0.50 to have 98% specificity. Iʼm not certain what the
-specificity is at 0.35.
-I sent the ECG real time to my EKG Nerdz friends without any
-info. The response was “OMI”.
-When I told them it was from a 15yo, they wrote that “it could
-be myocarditis, but doesnʼt look like pericarditis.” Those were
-my exact thoughts. “I would have a low threshold for
-angiogram.” Also my exact thoughts.
+
+There is quite a bit of ST Elevation in I and aVL, with reciprocal ST depression in lead III, as well as V1–V3. In an adult, one would need to assume OMI until proven otherwise.
+
+Interestingly, the Queen of Hearts said “Not OMI with low confidence.” The model output was 0.35 and it must be above 0.50 to have 98% specificity. I’m not certain what the specificity is at 0.35.
+
+I sent the ECG real time to my EKG Nerdz friends without any info. The response was “OMI”.
+
+When I told them it was from a 15yo, they wrote that “it could be myocarditis, but doesn’t look like pericarditis.” Those were my exact thoughts. “I would have a low threshold for angiogram.” Also my exact thoughts.
+
 So I texted back to encourage an angiogram.
+
 So she called cardiology.
-Then the first troponin I returned at 11,000 ng/L. This is typical
-of subacute OMI or of myocarditis. Both would have
-reciprocal ST depression. Both would have wall motion
-abnormalities.
-Now it is OMI until proven otherwise. There is simply no way
-to tell the difference with this data between acute OMI and
-myocarditis. Only angiogram can tell you if intervention is
-necessary. Only MRI can make the definitive diagnosis of MI
-vs. myocarditis, but that takes time.
- 2/10
-To not do an angiogram is to play Russian Roulette with a
-childʼs heart. Maybe the probability is 20:1 for myocarditis
-over OMI, but children do get acute MI. They can have
-atherosclerosis (just because it is rare does not mean it is
-impossible — it is especially likely in an adolescent with acute
-chest pain, an ischemic ECG, and a very high troponin). They
-can also have coronary spasm, coronary aneurysms
-(especially if they had Kawasaki disease, which can go
-undiagnosed), coronary dissection.
-So my ex-resident called cardiology and transferred the
-patient to a pediatric hospital. The cardiologist said that they
-will “Trend Troponins,” and not do an emergent cath
-“because it is so exceedingly rare.”
-“Trending troponins” is the most useless management
-imaginable. Is there any way that this is going to aid in the
-diagnosis? And if they keep going up, isnʼt that just waiting for
-myocardium to die? That is like saying: “Letʼs wait until the
-heart is dead to invervene.”
-Quin, now 2 months out of residency, is now having to deal
-with the skepicism of consultants. She wrote:
-“I felt helpless when talking to both the Peds EM doc and
-peds cardiologist when I was trying to explain my worry and
-concern. Because I have read enough of your blogs to know
-how these conversations go and the consequences. I kinda
-wish I would have asked… “out of curiosity, what would
-make you activate the cath lab in an adolescent? Because if
-not this then… nothing? And the other thing that came to
-mind is… anything is “exceedingly rare” if you never look for
-it!”
-I added that “And rare does not mean non-existent. How will
-you find the rare case and treat it on time if you donʼt look?”
-I looked for literature on this, and the pediatricians in the
-literature on elevated troponin make the final diagnosis of
-myocarditis without using angiogram or MRI. I donʼt think they
-have any idea how many might have acute MI. See references
-below.
-They did not do an angiogram. I received no more info on the
-“trended troponins”.
-Pendell wrote sarcastically: “Always nice to risk a young life
-instead of doing a procedure that has close to zero risk for a
-young healthy patient.“
+
+Then the first troponin I returned at 11,000 ng/L. This is typical of subacute OMI or of myocarditis. Both would have reciprocal ST depression. Both would have wall motion abnormalities.
+
+Now it is OMI until proven otherwise. There is simply no way to tell the difference with this data between acute OMI and myocarditis. Only angiogram can tell you if intervention is necessary. Only MRI can make the definitive diagnosis of MI vs. myocarditis, but that takes time.
+
+To not do an angiogram is to play Russian Roulette with a child’s heart. Maybe the probability is 20:1 for myocarditis over OMI, but children do get acute MI. They can have atherosclerosis (just because it is rare does not mean it is impossible — it is especially likely in an adolescent with acute chest pain, an ischemic ECG, and a very high troponin). They can also have coronary spasm, coronary aneurysms (especially if they had Kawasaki disease, which can go undiagnosed), coronary dissection.
+
+So my ex-resident called cardiology and transferred the patient to a pediatric hospital. The cardiologist said that they will “Trend Troponins,” and not do an emergent cath “because it is so exceedingly rare.”
+
+“Trending troponins” is the most useless management imaginable. Is there any way that this is going to aid in the diagnosis? And if they keep going up, isn’t that just waiting for myocardium to die? That is like saying: “Let’s wait until the heart is dead to intervene.”
+
+Quin, now 2 months out of residency, is now having to deal with the skepticism of consultants. She wrote:
+
+“I felt helpless when talking to both the Peds EM doc and peds cardiologist when I was trying to explain my worry and concern. Because I have read enough of your blogs to know how these conversations go and the consequences. I kinda wish I would have asked… ‘out of curiosity, what would make you activate the cath lab in an adolescent? Because if not this then… nothing?’ And the other thing that came to mind is… anything is ‘exceedingly rare’ if you never look for it!”
+
+I added that “And rare does not mean non-existent. How will you find the rare case and treat it on time if you don’t look?”
+
+I looked for literature on this, and the pediatricians in the literature on elevated troponin make the final diagnosis of myocarditis without using angiogram or MRI. I don’t think they have any idea how many might have acute MI. See references below.
+
+They did not do an angiogram. I received no more info on the “trended troponins”.
+
+Pendell wrote sarcastically: “Always nice to risk a young life instead of doing a procedure that has close to zero risk for a young healthy patient.”
+
 Blog Cases: Young patients with MI. N = 18.
- 3/10
+
 Blog Cases: Young women with MI. N = 19.
+
 Look at this horrific case of a 17 year old with chest pain:
 
-troponin/
 References:
-What is the Significance of Elevated Troponin I in Children
-and Adolescents? A Diagnostic Approach.
-Role of Troponin Determination to Diagnose Chest Pain in
-the Pediatric Emergency Department
+What is the Significance of Elevated Troponin I in Children and Adolescents? A Diagnostic Approach.
+Role of Troponin Determination to Diagnose Chest Pain in the Pediatric Emergency Department
+
 ======================================
+
 MY Comment, by KEN GRAUER, MD
 (8/25/2025):
-My impression on seeing todayʼs case was similar to that of
-Dr. Smith, and to those of our EKG Nerdz colleagues:
-IF the patient is an adult — then acute OMIuntil proven
-otherwise.
+
+My impression on seeing today’s case was similar to that of Dr. Smith, and to those of our EKG Nerdz colleagues:
+
+IF the patient is an adult — then acute OMI until proven otherwise.
 IF an adolescent — then probably myocarditis.
-For clarity in Figure-1 — Iʼve reproduced todayʼs tracing from
-this presumably healthy 15-year old who presented with
-sudden onset chest pressure of 1 hour duration. The
-abnormalities are undeniable:
-There is ST elevation in high-lateral leads I and aVL,
-which especially in lead aVL with its high J-point takeoff
-and ST segment straightening looks acute (RED arrows
-in these leads). The small narrow q waves in these high-
-lateral leads are of uncertain significance.
-While one might attribute ST elevation in an adolescent
-to “repolarization abnormalities” — the ST depression
- 4/10
-seen in leads III,aVF and in the anterior leads (BLUE
-arrows) is not a finding of benign repolarization in
-patients with new symptoms.
-Iʼve highlighted the lateral chest lead ST elevation in
-leads V5,V6 with GRAY arrows — since as isolated
-findings, this would be consistent with repolarization
-changes (but it isnʼt in association with the above-noted
-findings in 7 other leads).
-= = =
-Figure-1: Iʼve labeled todayʼs initial tracing.
-= = =
-As per Dr. Smith — acute MI can occur in otherwise healthy
-adolescents (Ramphul et al — Arch Med Sci Atheroscler Dis
-8(1):177-181, 2023 — and — Lande and Ben Shachar —
-Pediatrics 120(4):e938-43, 2007 — and — Rakash et al —
-JACC 81(8), 2023).
-Assuming no cocaine/illicit drug use — Anomalous Coronary
-Artery is a rare but potentially life-threatening congenital
-defect in which the first symptom may be an acute MI or
-sudden death (Borns et al — Front Cardiovasc Med
-22(7):559794, 2020).
-= = =
+
+For clarity in Figure-1 — I’ve reproduced today’s tracing from this presumably healthy 15-year old who presented with sudden onset chest pressure of 1 hour duration. The abnormalities are undeniable:
+
+There is ST elevation in high-lateral leads I and aVL, which especially in lead aVL with its high J-point takeoff and ST segment straightening looks acute (RED arrows in these leads). The small narrow q waves in these high-lateral leads are of uncertain significance.
+
+While one might attribute ST elevation in an adolescent to “repolarization abnormalities” — the ST depression seen in leads III, aVF and in the anterior leads (BLUE arrows) is not a finding of benign repolarization in patients with new symptoms.
+
+I’ve highlighted the lateral chest lead ST elevation in leads V5, V6 with GRAY arrows — since as isolated findings, this would be consistent with repolarization changes (but it isn’t in association with the above-noted findings in 7 other leads).
+
+Figure-1: I’ve labeled today’s initial tracing.
+
+As per Dr. Smith — acute MI can occur in otherwise healthy adolescents (Ramphul et al — Arch Med Sci Atheroscler Dis 8(1):177–181, 2023 — and — Lande and Ben Shachar — Pediatrics 120(4):e938–43, 2007 — and — Rakash et al — JACC 81(8), 2023).
+
+Assuming no cocaine/illicit drug use — Anomalous Coronary Artery is a rare but potentially life-threatening congenital defect in which the first symptom may be an acute MI or sudden death (Borns et al — Front Cardiovasc Med 22(7):559794, 2020).
+
 BOTTOM LINE
-We all know and accept that acute OMI is rare in otherwise
-healthy adolescents. And, the literature I was able to find
-suggests from retrospective studies that cardiac
-catheterization in otherwise healthy adolescents with chest
-pain and abnormal ECGs usually does not change
-management. But rare ≠ never.
- 5/10
-At the least — todayʼs 15-year old patient has acute
-myocarditis (despite no symptoms of acute viral
-illness).
-That said — I donʼt know how to rule out an acute OMI or
-some rare congenital abnormality (like an anomalous
-coronary artery) in an adolescent with new acute
-symptoms — a clearly abnormal ECG — and a serum
-Troponin value = 11,000 ng/L.
-I donʼt know how “trending Troponins” will possibly
-change the situation in todayʼs case (ie, What will be
-different regardless if serial Troponins trend toward
-normal — or increase to 50,000?).
-Steve Smith onAugust 25, 2025
-CHILDREN MYOCARDITIS OR OMI? PEDIATRIC YOUNG
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-It's best to recognize Severe chest pain,
-OMI before deciding resolved. Serial
-not to intervene troponins nearly
-undetectable at 3 ng/L
-SEARCH
- 6/10
+
+We all know and accept that acute OMI is rare in otherwise healthy adolescents. And, the literature I was able to find suggests from retrospective studies that cardiac catheterization in otherwise healthy adolescents with chest pain and abnormal ECGs usually does not change management. But rare ≠ never.
+
+At the least — today’s 15-year old patient has acute myocarditis (despite no symptoms of acute viral illness).
+
+That said — I don’t know how to rule out an acute OMI or some rare congenital abnormality (like an anomalous coronary artery) in an adolescent with new acute symptoms — a clearly abnormal ECG — and a serum Troponin value = 11,000 ng/L.
+
+I don’t know how “trending Troponins” will possibly change the situation in today’s case (ie, what will be different regardless if serial Troponins trend toward normal — or increase to 50,000?).

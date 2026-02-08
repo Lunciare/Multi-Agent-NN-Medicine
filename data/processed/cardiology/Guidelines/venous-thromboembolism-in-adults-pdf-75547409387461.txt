@@ -1,50 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "venous-thromboembolism-in-adults-pdf-75547409387461.pdf",
-  "converted_date": "2026-01-31T14:49:56.053214",
-  "file_size_bytes": 166310,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/venous-thromboembolism-in-adults-pdf-75547409387461.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Venous thromboembolism
-in adults
-Quality standard
-Published: 19 August 2021
-www.nice.org.uk/guidance/qs201
-
-Venous thromboembolism in adults (QS201)
-
-Venous thromboembolism in adults (QS201)
-Quality statement 4: Venous thromboembolism anticoagulation review .............................. 17
-Quality statement ................................................................................................................................... 17
-Rationale ................................................................................................................................................. 17
-Quality measures .................................................................................................................................... 17
-What the quality statement means for different audiences ............................................................... 18
-Source guidance ..................................................................................................................................... 19
-Definitions of terms used in this quality statement ............................................................................ 19
-Equality and diversity considerations ..................................................................................................20
-Quality statement 5: Follow-up for outpatients with low-risk pulmonary embolism ............ 21
-Quality statement ................................................................................................................................... 21
-Rationale ................................................................................................................................................. 21
-Quality measures .................................................................................................................................... 21
-What the quality statement means for different audiences ...............................................................22
-Source guidance .....................................................................................................................................23
-Definition of terms used in this quality statement ..............................................................................23
-Equality and diversity considerations ..................................................................................................24
-Update information .....................................................................................................................25
-About this quality standard ........................................................................................................27
-Resource impact ..................................................................................................................................... 27
-Diversity, equality and language ...........................................................................................................28
-
-Venous thromboembolism in adults (QS201)
-This standard replaces QS3 and QS29.
-This standard is based on NG89 and NG158.
-This standard should be read in conjunction with QS2 and QS120.
+Venous thromboembolism in adults 
 Quality statements
 Statement 1 People aged 16 and over who are in hospital and assessed as needing
 pharmacological venous thromboembolism (VTE) prophylaxis start it as soon as possible
@@ -68,7 +22,7 @@ reducing the risk in hospital and the 2013 quality standard for venous thromboem
 adults: diagnosis and management that are still supported by the evidence may still be
 useful at a local level. The 2010 and 2013 quality standards are available as PDFs.
 
-Venous thromboembolism in adults (QS201)
+ 
 Quality statement 1: Timing of
 pharmacological venous
 thromboembolism prophylaxis
@@ -94,7 +48,7 @@ Data source: Data can be collected from information recorded locally by healthca
 professionals and provider organisations, for example from service protocols and
 prescribing systems.
 
-Venous thromboembolism in adults (QS201)
+ 
 Process
 Proportion of people aged 16 and over who are in hospital and assessed as needing
 pharmacological VTE prophylaxis who start it within 14 hours of hospital admission.
@@ -123,7 +77,7 @@ doctors) prescribe pharmacological VTE prophylaxis to people aged 16 and over wh
 in hospital and assessed as needing pharmacological VTE prophylaxis. They discuss the
 medicine with the person and involve them in making decisions about it, and give them
 
-Venous thromboembolism in adults (QS201)
+ 
 verbal and written information on the importance of using pharmacological VTE
 prophylaxis correctly and possible side effects. They make sure that the person starts
 treatment as soon as possible and within 14 hours of hospital admission. For people at
@@ -155,7 +109,7 @@ specific recommendations on different timings and types of pharmacological VTE
 prophylaxis. [NICE's guideline on venous thromboembolism in over 16s, recommendations
 1.1.4, 1.1.6 and 1.1.7]
 
-Venous thromboembolism in adults (QS201)
+ 
 Hospital admission
 Admission as an inpatient, where a bed is provided for 1 or more nights, or admission as a
 day patient, where a bed is provided for a procedure including surgery or chemotherapy
@@ -175,7 +129,7 @@ animal origin and this may be of concern to some people because of religious or 
 beliefs. The suitability, advantages and disadvantages of alternatives to heparin should be
 discussed with the person.
 
-Venous thromboembolism in adults (QS201)
+ 
 Quality statement 2: Venous
 thromboembolism risk assessment for
 people with lower limb immobilisation
@@ -199,7 +153,7 @@ discharged with lower limb immobilisation are assessed to identify their risk of
 Data source: Data can be collected from information recorded locally by healthcare
 professionals and provider organisations, for example from service protocols.
 
-Venous thromboembolism in adults (QS201)
+ 
 Process
 Proportion of people aged 16 and over who are discharged with lower limb immobilisation
 who are assessed to identify their risk of VTE.
@@ -228,7 +182,7 @@ discharged with lower limb immobilisation to identify their risk of VTE and deci
 they need pharmacological VTE prophylaxis. They discuss the outcome of the assessment
 with the person and involve them in making decisions about pharmacological VTE
 
-Venous thromboembolism in adults (QS201)
+ 
 prophylaxis if it is needed. They also give verbal and written information to people and
 their family members or carers about the signs and symptoms of VTE, how to reduce their
 risk of VTE and how to seek help if VTE is suspected, as well as the benefits and possible
@@ -260,7 +214,7 @@ decision taken to temporarily manage the affected limb in a way that would preve
 weight-bearing status or use of that limb, or both. [Adapted from NICE's guideline on
 venous thromboembolism in over 16s, terms used in this guideline, and expert opinion]
 
-Venous thromboembolism in adults (QS201)
+ 
 Equality and diversity considerations
 Statement 2 highlights that people are given verbal and written information on the signs
 and symptoms of VTE, how to reduce their risk of VTE and how to seek help if VTE is
@@ -271,7 +225,7 @@ disability, impairment or sensory loss, information should also be provided as s
 NHS England's Accessible Information Standard or the equivalent standards for the
 devolved nations.
 
-Venous thromboembolism in adults (QS201)
+ 
 Quality statement 3: Proximal leg vein
 ultrasound scan for a 'likely' deep vein
 thrombosis Wells score
@@ -297,7 +251,7 @@ people aged 18 and over with a DVT Wells score of 2 points or more within 4 hour
 being requested.
 Data source: Data can be collected from information recorded locally by healthcare
 
-Venous thromboembolism in adults (QS201)
+ 
 professionals and provider organisations, for example from staff rotas.
 Process
 Proportion of people aged 18 and over with a DVT Wells score of 2 points or more who
@@ -325,7 +279,7 @@ Healthcare professionals (such as GPs, specialists and nurses) are aware of refe
 pathways for proximal leg vein ultrasound scans, and refer people aged 18 and over with a
 DVT Wells score of 2 points or more to have this imaging. If it is not possible to obtain the
 
-Venous thromboembolism in adults (QS201)
+ 
 scan result within 4 hours, they offer a D-dimer test, then interim therapeutic
 anticoagulation and an ultrasound scan within 24 hours.
 Commissioners ensure that services have referral pathways and written clinical protocols
@@ -354,7 +308,7 @@ Recently bedridden for 3 days or more, or major surgery within 12 weeks
 1
 requiring general or regional anaesthesia
 
-Venous thromboembolism in adults (QS201)
+ 
 Clinical feature Points
 Localised tenderness along the distribution of the deep venous system 1
 Entire leg swollen 1
@@ -377,7 +331,7 @@ this may be of concern to some people because of religious or ethical beliefs. T
 suitability, advantages and disadvantages of alternatives to heparin should be discussed
 with the person.
 
-Venous thromboembolism in adults (QS201)
+ 
 Quality statement 4: Venous
 thromboembolism anticoagulation review
 Quality statement
@@ -403,7 +357,7 @@ Data source: Data can be collected from information recorded locally by healthca
 professionals and provider organisations, for example from service specifications.
 b) Evidence of local systems to identify and invite people aged 18 and over taking long-
 
-Venous thromboembolism in adults (QS201)
+ 
 term anticoagulation treatment after a VTE for a review at least once a year.
 Data source: Data can be collected from information recorded locally by healthcare
 professionals and provider organisations, for example from service specifications.
@@ -430,7 +384,7 @@ treatment after a VTE for a review at 3 months and then at least once a year. Th
 ensure that staff have the time to carry out the reviews and that they review and update
 the information, advice and support given to people when they started having
 
-Venous thromboembolism in adults (QS201)
+ 
 anticoagulation treatment.
 Healthcare professionals (such as GPs, specialists and nurses) carry out a review for
 people aged 18 and over taking anticoagulation treatment after a VTE after 3 months of
@@ -461,7 +415,7 @@ Definitions of terms used in this quality statement
 Review at 3 months
 A review after 3 months of anticoagulation treatment to assess and discuss the benefits
 
-Venous thromboembolism in adults (QS201)
+ 
 and risks of continuing, stopping or changing the anticoagulant with the person having
 treatment, and to review and update the information, advice and support given when they
 started having anticoagulation treatment. [Adapted from NICE's guideline on venous
@@ -487,7 +441,7 @@ may be of concern to some people because of religious or ethical beliefs. The su
 advantages and disadvantages of alternatives to heparin should be discussed with the
 person.
 
-Venous thromboembolism in adults (QS201)
+ 
 Quality statement 5: Follow-up for
 outpatients with low-risk pulmonary
 embolism
@@ -513,7 +467,7 @@ outpatient treatment for suspected or confirmed low-risk PE have an agreed plan 
 monitoring and follow-up.
 Data source: Data can be collected from information recorded locally by healthcare
 
-Venous thromboembolism in adults (QS201)
+ 
 professionals and provider organisations, for example from service specifications or local
 protocols.
 b) Evidence that information is available for people aged 18 and over having outpatient
@@ -540,7 +494,7 @@ audiences
 Service providers (such as secondary care services) ensure that healthcare professionals
 have the time and resources to discuss and agree a plan for monitoring and follow-up with
 
-Venous thromboembolism in adults (QS201)
+ 
 people having outpatient treatment for suspected or confirmed low-risk PE.
 Healthcare professionals (such as specialists, specialist nurses and allied health
 professionals) discuss and agree a plan for monitoring and follow-up with people having
@@ -556,129 +510,3 @@ suspected or confirmed low-risk PE.
 People who are having outpatient treatment for a pulmonary embolism are given written
 information on signs and symptoms they should look out for and who to contact if they
 need help or advice, including out-of-hours services.
-Source guidance
-Venous thromboembolic diseases: diagnosis, management and thrombophilia testing.
-NICE guideline NG158 (2020, updated 2023), recommendation 1.2.4
-Definition of terms used in this quality statement
-Agreed plan for follow-up
-A plan for follow-up that is agreed with the person having outpatient treatment for
-suspected or confirmed low-risk PE. They should be given:
-• written information on symptoms and signs to look out for, including the potential
-complications of thrombosis and of treatment
-• direct contact details of a healthcare professional or team with expertise in thrombosis
-who can discuss any new symptoms or signs, or other concerns
-
-Venous thromboembolism in adults (QS201)
-• information about out-of-hours services they can contact when their healthcare team
-is not available.
-[NICE's guideline on venous thromboembolic diseases, recommendation 1.2.4]
-Equality and diversity considerations
-NICE's guideline on venous thromboembolic diseases covers people aged 18 and over as
-the evidence for the recommendations focused on this age group. This statement applies
-to people aged 18 and over, but clinical judgement should be used when treating people
-aged under 18 having outpatient treatment for suspected or confirmed low-risk PE.
-Statement 5 highlights that people are given written information on symptoms and signs to
-look out for, including the potential complications of thrombosis and of treatment.
-Information should be in a format that suits their needs and preferences. It should be
-accessible to people who do not speak or read English, and it should be culturally
-appropriate and age appropriate. For people with additional needs related to a disability,
-impairment or sensory loss, information should also be provided as set out in NHS
-England's Accessible Information Standard or the equivalent standards for the devolved
-nations.
-
-Venous thromboembolism in adults (QS201)
-Update information
-August 2021: This quality standard updates and replaces the quality standards on venous
-thromboembolism in adults: reducing the risk in hospital (published June 2010), and
-venous thromboembolism in adults: diagnosis and management (published March 2013).
-The topic was identified for update following the annual review of quality standards. The
-review identified:
-• changes in the priority areas for improvement
-• new guidance on venous thromboembolic diseases: diagnosis, management and
-thrombophilia testing (NG158)
-• that the quality standards on venous thromboembolism in adults: reducing the risk in
-hospital (QS3) and venous thromboembolism in adults: diagnosis and management
-(QS29) should be combined.
-Statements are marked as:
-• [new 2021] if the statement covers a new area for quality improvement
-• [2010 or 2013, updated 2021] if the statement covers an area for quality improvement
-included in the 2010 or 2013 quality standard and has been updated.
-Statement 5 in the 2010 version has been updated and is included in the updated quality
-standard, marked as [2010, updated 2021].
-Statements 2 and 8 in the 2013 version have been updated and are included in the
-updated quality standard, marked as [2013, updated 2021].
-The 2010 quality standard on venous thromboembolism in adults: reducing the risk in
-hospital and the 2013 quality standard for venous thromboembolism in adults: diagnosis
-and management are available as PDFs.
-Minor changes since publication
-August 2023: Changes have been made to align this quality standard with the updated
-NICE guideline on venous thromboembolic diseases. The rationale for statement 3 has
-
-Venous thromboembolism in adults (QS201)
-been amended and links, data sources and source guidance references have been
-updated throughout.
-
-Venous thromboembolism in adults (QS201)
-About this quality standard
-NICE quality standards describe high-priority areas for quality improvement in a defined
-care or service area. Each standard consists of a prioritised set of specific, concise and
-measurable statements. NICE quality standards draw on existing NICE or NICE-accredited
-guidance that provides an underpinning, comprehensive set of recommendations, and are
-designed to support the measurement of improvement.
-Expected levels of achievement for quality measures are not specified. Quality standards
-are intended to drive up the quality of care, so achievement levels of 100% should be
-aspired to (or 0% if the quality statement states that something should not be done).
-However, this may not always be appropriate in practice. Taking account of safety, shared
-decision making, choice and professional judgement, desired levels of achievement should
-be defined locally.
-Information about how NICE quality standards are developed is available from the NICE
-website.
-See our webpage on quality standard advisory committees for details of standing
-committee 3 members who advised on this quality standard. Information about the topic
-experts invited to join the standing members is available from the webpage for this quality
-standard.
-NICE has produced a quality standard service improvement template to help providers
-make an initial assessment of their service compared with a selection of quality
-statements. This tool is updated monthly to include new quality standards.
-NICE guidance and quality standards apply in England and Wales. Decisions on how they
-apply in Scotland and Northern Ireland are made by the Scottish government and Northern
-Ireland Executive. NICE quality standards may include references to organisations or
-people responsible for commissioning or providing care that may be relevant only to
-England.
-Resource impact
-NICE quality standards should be achievable by local services. The potential resource
-
-Venous thromboembolism in adults (QS201)
-impact is considered by the quality standards advisory committee, drawing on resource
-impact work for the source guidance. Organisations are encouraged to use the resource
-impact products for the source guidance to help estimate local costs:
-• resource impact statement for NICE's guideline on venous thromboembolism in
-over 16s
-• resource impact statement, template and report for NICE's guideline on venous
-thromboembolic diseases.
-Diversity, equality and language
-Equality issues were considered during development and equality assessments for this
-quality standard are available. Any specific issues identified during development of the
-quality statements are highlighted in each statement.
-Commissioners and providers should aim to achieve the quality standard in their local
-context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity and foster good relations. Nothing in this
-quality standard should be interpreted in a way that would be inconsistent with
-compliance with those duties.
-ISBN: 978-1-4731-4251-0
-Endorsing organisation
-This quality standard has been endorsed by NHS England, as required by the Health and
-Social Care Act (2012)
-Supporting organisations
-Many organisations share NICE's commitment to quality improvement using evidence-
-based guidance. The following supporting organisations have recognised the benefit of
-the quality standard in improving care for patients, carers, service users and members of
-the public. They have agreed to work with NICE to ensure that those commissioning or
-providing services are made aware of and encouraged to use the quality standard.
-
-Venous thromboembolism in adults (QS201)
-• Royal College of Nursing (RCN)
-• Thrombosis UK
-• Clinical Leaders of Thrombosis (CLOT)
-• British Geriatrics Society
-• British Thoracic Society (BTS)

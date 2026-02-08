@@ -1,216 +1,99 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Chest (or abdominal_) pain and ECG artifact. - Dr. Smith’s ECG Blog.pdf",
-  "converted_date": "2026-01-31T14:37:42.994095",
-  "file_size_bytes": 17891949,
-  "original_format": "pdf",
-  "document_type": "Cases",
-  "source_folder": "Cases",
-  "full_path": "00_RAW_CARDIOLOGY/Cases/Chest (or abdominal_) pain and ECG artifact. - Dr. Smith’s ECG Blog.pdf"
-}
+An elderly woman presented with one day of chest and right arm pain, as well as abdominal pain. There was associated tingling and numbness in the right hand and generalized weakness, worse on the right side.
 
-=== СОДЕРЖАНИЕ ===
+Initial ECG
 
-Steve Smith onNovember 23, 2024
-Chest (or abdominal?) pain
-and ECG artifact.
-An elderly woman presented with one day of chest and right arm
-pain, and also abdominal pain. There was associated tingling and
-numbness in the right hand and generalized weakness, worse on the
-right side.
-A triage ECG was recorded:
-Smith: there is widespread artifact, except in lead III. Since lead III is
-not artifactual, one can deduce that the artifact is caused by
-movement of the right arm electrode, so that electrode should
-be moved and the ECG re-recorded. This makes it difficult to
-assess.
-But one can see that there is some ST depression in lead III,
-which should always make you think that it is reciprocal to 
-some, often minimal, STE in aVL (of high lateral OMI). Thus,
-aVL, I, and V2 must be scrutinized, but they are distorted by
-artifact.
-
- 1/13
-This is extremely easy to overlook, unless there is a high
-suspicion of OMI.
-Single limb lead electrode artifact is explained here, in a
-case of Arterial Pulse Tapping Artifact (APTA): Bizarre
-(Hyperacute??) T-waves
-Clinical course: The provider recognized artifact, but did not
-see anything worrisome and regrets not ordering another.
-Labs, including troponins, were ordered and the patient needed be
-placed in the waiting room pending a bed.
-When the provider next looked up lab results, it was noticed that the
-first troponin was 45,000 ng/L. This is then a large MI, but it is
-subacute.
-There was a previous ECG available for review:
-This shows baseline STE in inferior leads, including lead III.
-At the time is was recorded, there was no a myocardial infarction; this
-was baseline STE (normal variant)
-This previous ECG confirms that the STD in lead III is very abnormal
-Due to the very high troponin, the patient was brought to the critical
-care area and another ECG was recorded:
-Sinus rhythm with PVCs
- 2/13
-There is inferior STD with STE and a coved ST segment in
-aVL. There is STE in V5-6. There are new Q-waves in aVL,
-V5-6.
-It is diagnostic of OMI, but this is SUBACUTE OMI
-I sent this ECG to my “EKG Nerdz” friends, without any clinical info at
-all and they answered “OMI”
-The Queen said: “STEMI-Equivalent with High Confidence:”
-Notice she sees findings in both normal beats and PVCs.
-There was some question of whether the patient was having
-abdominal pathology, and she also had a history of aortic pathology,
-so a chest abd/pelvic with aorta angiogram was ordered.
-If this were ACUTE (vs. SUBACUTE) OMI, that would result in an
-undesirable delay.
-But this is clearly a subacute MI, with most of the damage done. How
-do I know?
-1) Very high initial troponin of 45,000 ng/L
-2) A full day of chest pain
-3) Q-waves on the ECG, with some T-wave inversion
-Here is one frame of the CT scan which includes the heart:
- 3/13
-Can you spot the infarct?
-Here is an arrow pointing to it:
-The Cath Lab was activated.
-Angiogram:
-100% occluded ramus intermedius. The ramus is an occasional
-artery between the circumflex and the LAD, and often takes the place
-of a large first diagonal, and has the same distribution.
-It was opened and stented.
-Here are the troponins:
- 4/13
-Echo:
-Normal LV size and hyperdynamic systolic function with an estimated EF of
-77%.
-Regional wall motion abnormality–mid anterior akinesis.
-Compared to TTE from 7/3/24: the anterior regional wall motion abnormality is
-new and is consistent with ischemia/infarction in the LAD territory
-===================================
-MY Comment, by KEN GRAUER, MD (11/23/2024):
-===================================
-There are several insightful aspects of today’s case.
-Marked artifact in the initial ECG (TOP tracing in Figure-1) —
-makes assessment of the limb leads difficult — since lead III (within
-the BLUE rectangle) is the only undistorted lead. But in a patient
-with CP (Chest Pain) — the T wave in this single undistorted limb
-lead clearly looks to be hyperacute (disproportionately “bulky”
-considering modest size of the QRS in this lead).
-I next looked at leads V2,V3,V4 for sign of posterior OMI — since
-CP + hyperacute T wave in lead III + suggestion of posterior
-OMI would be enough to greatly enhance my confidence of acute
-OMI in this initial tracing. Unfortunately — artifact distortion of the
-the ST segments in these 3 chest leads prevents drawing any
-conclusions. But, in this patient with CP — ECG #1 needs to be
-immediately repeated!
-As per Dr. Smith — the fact that artifact in ECG #1 is maximal
-in leads I and II (with lead III undistorted) — points to the RA
-extremity as the “culprit” (See My Comment in the December 5,
-2022 post of Dr. Smith’s ECG Blog for review on how to determine
-the “culprit” extremity within seconds).
- 5/13
-Figure-1: Comparison between the initial ECG and the
-repeat ECG in today’s case.
-The 2nd ECG:
-Assessment of the next ECG in today’s case (BOTTOM tracing in Figure-
-1) — provides its own set of insightful observations:
-Overall — the artifact is decidedly less in ECG #2. That said — Note
-how the “culprit” extremity has changed! Here limb lead artifact is
-maximal in leads I, III and aVL — with lead II no more than
-minimally affected. Note also that instead of the artifact distorting
-the entire recording of 5/6 limb leads (as it did in ECG #1) — the
-artifact distortion in ECG #2 is primarily of the baseline! This
-localizes the source of artifact to the LA electrode (rather than
-pointing to a tremulous RA extremity — as was the case in ECG
-#1, in which large amplitude artifactual deflections were seen
-throughout in the affected limb lead recordings).
-Although the artifact in ECG #2 should also prompt repeating the ECG —
-we nevertheless can draw important conclusions from this 2nd tracing.
-The rhythm is ventricular bigeminy (each of the even-numbered
-beats in ECG #2 is a PVC).
-That every-other-beat in ECG #2 is a PVC (and not a PAC
-conducted with RBBB aberration) — can be established by the fact
-that underlying sinus P waves continue throughout the
-tracing (YELLOW arrows in the long lead II rhythm strip showing
-on-time sinus P waves producing subtle distortion of the
-beginning of the ST segment of each PVC). In addition,
-the direction of the initial deflection in 4 of the chest leads
-is different for sinus beats and the PVCs (whereas sinus beats
- 6/13
-#9,11,13 in leads V1-thru-V4 all manifest an initial R wave —
-beas #8,10,12 all manifest an initial negative deflection).
-PEARL: As we have occasionally seen in other cases in Dr.
-Smithʼs ECG Blog — it is the PVCs (and not the sinus-
-conducted beats)that provide more incriminating
-evidence of an ongoing acute event.
-Consider lead aVL (within the PURPLE rectangle) — in which the
-most markedly abnormal ST elevation is seen in beats #4 and #6
-(with the tricky aspect of beat #4 being the lead change marker that
-hides the QRS of beat #4).
-Lead I appears to show abnormal ST elevation in both sinus beats
-and the PVC in this lead — although artifact make assessment
-difficult in this lead.
-But BLUE arrows in lateral chest leads V5 and V6 show what
-appears to be disproportionately elevated J-point ST elevation in the
-PVC ( = beat #12).
-================================
-Links to Examplesof ARTIFACT:
-Artifact is a reality of clinical practice — so comfort in
-assessing tracings with artifact is essential. What follows
-below is my expanding list of technical “misadventures” —
-most from Dr. Smithʼs ECG Blog — some from other
-sources (NOTE:As I did not previously keep track of these —
-there are additional examples of artifact sprinkled through Dr.
-Smithʼs ECG Blog that I have not yet included here … ).
-The November 8, 2024 post — artifact complicating OMI
-assessment.
-The June 15, 2024 post ( = Today’s case by Dr. Frick) —
-re Telemetry artifact that simulates PMVT.
-The May 18, 2024 post — re the effect of baseline artifact.
-The January 15, 2024 post — for an OMI despite lots
-of artifact!
-The September 15, 2023 post — for PTA (Pulse-Tap
-Artifact).
-The April 6, 2023 post —
-excessive baseline artifact misdiagnosed as AFib (instead
-of sinus rhythm with AV Wenckebach — as in Figure-4 in
-this post).
-The March 17, 2023 post — for PTA.
-The January 17, 2023 post — for PTA.
- 7/13
-The October 21, 2022 post — for “artifactual VT”.
-The November 10, 2020 post — for PTA.
-The October 17, 2020 post — for a 70-year old woman
-with “Artifactual VT“.
-The September 27, 2019 post — for the Rowlands &
-Moore article with the above-noted formulas for recognizing
-the “culprit” extremity.
-The September 22, 2019 post — intermittent ST-T wave
-artifact.
-The August 26, 2019 post — baseline artifact.
-The January 30, 2018 post — for PTA.
-Brief review by Tom Bouthillet on some common causes of
-artifact.
-Additional review of ECG artifacts by Pérez-Riera et al (Ann
-Noninvasic Electrocardiol 23:e12494, 2018)
-VT Artifact — by Knight et al: NEJM 341:1270-1274, 1999.
-Artifact simulating VFib — CLICK HERE.
-More VT-VFib artifact — CLICK HERE.
-Artifact simulating AFlutter — CLICK HERE.
-Parkinsonian Tremor vs AFlutter — CLICK HERE.
-Left Leg artifact — CLICK HERE.
-Should the cath lab be activated? — CLICK HERE.
-Left Arm artifact — CLICK HERE.
-More PMVT vs Torsades artifact — CLICK HERE.
-Steve Smith onNovember 23, 2024
-ARTERIAL PULSE TAPPING ARTIFACT ARTIFACT CT SCAN
-SUBACUTE MI
-SHARE    
- PREVIOUS ARTICLE NEXT ARTICLE 
-A woman in her 40s Coronary Angiography
-with acute chest pain Guide by Willy Frick --
-and shortness of Everything you ever
-breath wanted to know about
-the Cath Lab
+There is widespread artifact, except in lead III. Since lead III is not artifactual, the artifact is caused by movement of the right arm electrode, and the ECG should be re-recorded.
+
+Despite artifact, there is ST depression in lead III. ST depression in lead III should raise concern for reciprocal ST elevation in aVL, suggestive of high lateral occlusion myocardial infarction. Leads aVL, I, and V2 must be scrutinized, but they are distorted by artifact.
+
+This finding is extremely easy to overlook unless there is high suspicion for occlusion myocardial infarction.
+
+Initial Clinical Course
+
+The provider recognized artifact but did not identify concerning findings and did not order a repeat ECG.
+
+Laboratory studies, including troponins, were ordered, and the patient was placed in the waiting room pending bed availability.
+
+The first troponin returned at 45,000 ng/L, indicating a large myocardial infarction that was subacute.
+
+Prior ECG
+
+A previous ECG showed baseline ST elevation in inferior leads, including lead III. At that time, there was no myocardial infarction, and this represented baseline ST elevation.
+
+This prior ECG confirms that the ST depression in lead III on the current ECG is abnormal.
+
+Repeat ECG
+
+The patient was brought to the critical care area and another ECG was recorded.
+
+There is sinus rhythm with premature ventricular complexes.
+
+There is inferior ST depression with ST elevation and a coved ST segment in aVL. There is ST elevation in leads V5–V6. There are new Q waves in leads aVL, V5–V6.
+
+This ECG is diagnostic of occlusion myocardial infarction, but it is subacute.
+
+Interpretation and Timing
+
+The ECG shows STEMI-equivalent findings.
+
+This represents subacute myocardial infarction, as evidenced by:
+
+Very high initial troponin of 45,000 ng/L
+
+One full day of chest pain
+
+Q waves with T-wave inversion
+
+Imaging
+
+Computed tomography of the chest, abdomen, and pelvis with aortic angiography was performed due to concern for abdominal pathology and prior aortic disease.
+
+A frame of the CT scan including the heart demonstrates the infarct.
+
+Angiography
+
+Coronary angiography revealed 100% occlusion of the ramus intermedius. The ramus intermedius is an occasional artery between the circumflex and the LAD and often takes the place of a large first diagonal, with the same myocardial distribution.
+
+The vessel was opened and stented.
+
+Biomarkers
+
+Serial troponins were markedly elevated.
+
+Echocardiography
+
+Left ventricular size was normal with hyperdynamic systolic function and an estimated ejection fraction of 77%.
+
+There was a regional wall motion abnormality with mid-anterior akinesis.
+
+Compared to transthoracic echocardiography from 7/3/24, the anterior regional wall motion abnormality was new and consistent with ischemia or infarction in the LAD territory.
+
+ECG Artifact Analysis
+
+Marked artifact in the initial ECG made limb lead assessment difficult, with lead III being the only undistorted lead.
+
+Artifact maximal in leads I and II with lead III spared indicates the right arm electrode as the source.
+
+In the repeat ECG, artifact was primarily baseline distortion and localized to the left arm electrode.
+
+Rhythm Findings on Repeat ECG
+
+The rhythm is ventricular bigeminy, with every other beat being a premature ventricular complex.
+
+Underlying sinus P waves continue throughout the tracing, confirming PVCs rather than aberrantly conducted PACs.
+
+In this case, the PVCs provided more incriminating evidence of acute ischemia than sinus-conducted beats.
+
+Learning Points
+
+Single-lead clarity can be critical when artifact is present.
+
+ST depression in lead III should prompt scrutiny for reciprocal ST elevation in aVL.
+
+ECG artifact should always prompt immediate repeat ECG acquisition.
+
+Dynamic comparison of ECGs is essential.
+
+Premature ventricular complexes may reveal ischemic changes more clearly than sinus beats.
+
+Subacute occlusion myocardial infarction may already have extensive myocardial damage at presentation.

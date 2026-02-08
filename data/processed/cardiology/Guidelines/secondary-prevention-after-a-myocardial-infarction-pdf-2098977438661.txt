@@ -1,59 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "secondary-prevention-after-a-myocardial-infarction-pdf-2098977438661.pdf",
-  "converted_date": "2026-01-31T14:50:53.945371",
-  "file_size_bytes": 130280,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/secondary-prevention-after-a-myocardial-infarction-pdf-2098977438661.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Secondary prevention after
-a myocardial infarction
-Quality standard
-Published: 4 September 2015
-www.nice.org.uk/guidance/qs99
-
-Secondary prevention after a myocardial infarction (QS99)
-
-Secondary prevention after a myocardial infarction (QS99)
-Source guidance .................................................................................................................................... 17
-Definitions of terms used in this quality statement ........................................................................... 17
-Quality statement 5 (developmental): Options for cardiac rehabilitation ............................. 18
-Quality statement .................................................................................................................................. 18
-Rationale ................................................................................................................................................ 18
-Quality measures ................................................................................................................................... 18
-What the quality statement means for different audiences .............................................................. 19
-Source guidance .................................................................................................................................... 20
-Definitions of terms used in this quality statement ........................................................................... 20
-Update information .................................................................................................................... 21
-About this quality standard ....................................................................................................... 22
-Resource impact .................................................................................................................................... 22
-Diversity, equality and language .......................................................................................................... 23
-
-Secondary prevention after a myocardial infarction (QS99)
-This standard is based on NG185.
-This standard should be read in conjunction with QS103, QS100, QS88, QS84, QS82,
-QS80, QS68, QS53, QS52, QS43, QS41, QS28, QS21, QS11, QS9, QS8, QS6 and QS5.
-Quality statements
-Statement 1 Adults admitted to hospital with a myocardial infarction (MI) have an
-assessment of left ventricular function before discharge.
-Statement 2 Adults admitted to hospital with an MI are referred for cardiac rehabilitation
-before discharge.
-Statement 3 Adults admitted to hospital with an MI have the results of investigations and a
-plan for future treatment and monitoring shared with their GP.
-Statement 4 Adults referred to a cardiac rehabilitation programme after an MI have an
-assessment appointment within 10 days of discharge from hospital.
-Statement 5 (developmental) Adults referred to a cardiac rehabilitation programme after
-an MI are offered sessions during and outside working hours and the choice of
-undertaking the programme at home, in the community or in a hospital setting.
-
-Secondary prevention after a myocardial infarction (QS99)
-Quality statement 1: Assessment of left
-ventricular function
+Secondary prevention after a myocardial infarction
 Quality statement
 Adults admitted to hospital with a myocardial infarction (MI) have an assessment of left
 ventricular function before discharge.
@@ -76,7 +21,7 @@ Evidence of local arrangements to ensure that adults admitted to hospital with a
 an assessment of left ventricular function before discharge.
 Data source: Local data collection.
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Process
 Proportion of discharges from hospital after an MI where the patient had an assessment of
 left ventricular function while in hospital.
@@ -100,14 +45,14 @@ Source guidance
 Acute coronary syndromes. NICE guideline NG185 (2020), recommendations 1.1.27 and
 1.2.27
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Definitions of terms used in this quality statement
 Assessment of left ventricular function
 Left ventricular function can be assessed using a variety of methods, including
 echocardiography, cardiac magnetic resonance imaging (MRI), angiography and nuclear
 imaging. [Expert opinion]
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Quality statement 2: Referral for cardiac
 rehabilitation
 Quality statement
@@ -132,7 +77,7 @@ Process
 Proportion of discharges from hospital after an MI where the patient was referred for
 cardiac rehabilitation while in hospital.
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Numerator – the number in the denominator where the patient was referred for cardiac
 rehabilitation while in hospital.
 Denominator – the number of discharges from hospital after an MI.
@@ -159,7 +104,7 @@ Source guidance
 Acute coronary syndromes. NICE guideline NG185 (2020), recommendations 1.8.1 and
 1.8.13
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Definitions of terms used in this quality statement
 Cardiac rehabilitation
 Cardiac rehabilitation is a coordinated and structured programme designed to remove or
@@ -172,7 +117,7 @@ Cardiac rehabilitation programmes should include a range of interventions with h
 education, lifestyle advice, stress management and physical exercise components. [NICE's
 guideline on acute coronary syndromes, recommendations 1.8.1 and 1.8.19]
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Quality statement 3: Communication with
 primary care
 Quality statement
@@ -199,7 +144,7 @@ Structure
 Evidence of local arrangements to ensure that adults admitted to hospital with an MI have
 the results of investigations and a plan for future treatment and monitoring shared with
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 their GP.
 Data source: Local data collection.
 Process
@@ -223,7 +168,7 @@ b) Rates of uptake and adherence to cardiac rehabilitation.
 Data source: Local data collection.
 c) Patient experience of GP services.
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Data source: Local data collection.
 What the quality statement means for different
 audiences
@@ -250,7 +195,7 @@ People admitted to hospital with an MI may have several investigations of cardia
 while in hospital. These may include coronary angiography and should include assessment
 of left ventricular function. [Expert opinion]
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Plan for future treatment and monitoring
 A plan for future treatment and monitoring after an MI should include details of:
 • any further revascularisation procedures
@@ -261,7 +206,7 @@ A plan for future treatment and monitoring after an MI should include details of
 • referral for cardiac rehabilitation.
 [Expert opinion]
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Quality statement 4: Cardiac
 rehabilitation – assessment appointment
 Quality statement
@@ -286,7 +231,7 @@ programme after an MI have an assessment appointment within 10 days of discharge
 hospital.
 Data source: Local data collection.
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Process
 a) Proportion of referrals to a cardiac rehabilitation programme from hospital where the
 patient attends an assessment appointment within 10 days of discharge after an MI.
@@ -313,7 +258,7 @@ Commissioners commission services that have the capacity to give adults referred
 cardiac rehabilitation programme after an MI an assessment appointment within 10 days of
 discharge.
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Adults referred to a cardiac rehabilitation programme after a heart attack have an
 appointment for an assessment within 10 days of leaving hospital. Starting cardiac
 rehabilitation as soon as possible encourages people to take part in the programme and
@@ -338,7 +283,7 @@ Cardiac rehabilitation programmes should include a range of interventions with h
 education, lifestyle advice, stress management and physical exercise components. [NICE's
 guideline on acute coronary syndromes, recommendations 1.8.1 and 1.8.19]
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Quality statement 5 (developmental):
 Options for cardiac rehabilitation
 Developmental quality statements set out an emergent area of cutting-edge service
@@ -364,7 +309,7 @@ Evidence of local arrangements to provide cardiac rehabilitation programmes duri
 outside working hours and the choice of undertaking programmes at home, in the
 community or in a hospital setting.
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 Data source: Local data collection.
 Process
 Proportion of people referred to a cardiac rehabilitation programme who are offered
@@ -391,88 +336,10 @@ choice of programmes during and outside working hours, and a choice of undertaki
 programme at home, in the community or in a hospital setting.
 Commissioners commission cardiac rehabilitation services that have the capacity and
 
-Secondary prevention after a myocardial infarction (QS99)
+ 
 expertise to provide programmes during and outside working hours and the choice of
 undertaking the programme at home, in the community or in a hospital setting.
 Adults referred to a cardiac rehabilitation programme can choose a programme in the
 daytime or outside working hours, at a hospital, in the local area or at home. Having a
 choice of time and place means that they are more likely to be able to take part in a
 programme.
-Source guidance
-Acute coronary syndromes. NICE guideline NG185 (2020), recommendations 1.8.1 and 1.8.9
-Definitions of terms used in this quality statement
-Cardiac rehabilitation
-Cardiac rehabilitation is defined as a coordinated and structured programme designed to
-remove or reduce the underlying causes of cardiovascular disease, as well as to provide
-the best possible physical, mental and social conditions, so that people can, by their own
-efforts, continue to play a full part in their community. A healthier lifestyle and slowed or
-reversed progression of cardiovascular disease can also be achieved. [NICE's full guideline
-on acute coronary syndromes]
-Cardiac rehabilitation programmes should include a range of interventions with health
-education, lifestyle advice, stress management and physical exercise components. [NICE's
-guideline on acute coronary syndromes, recommendations 1.8.1 and 1.8.19]
-
-Secondary prevention after a myocardial infarction (QS99)
-Update information
-Minor changes since publication
-December 2024: Source guidance references have been updated to align this quality
-standard with the updated NICE guideline on acute coronary symptoms.
-November 2020: The source guidance references for the quality statements were
-changed to align this quality standard with the NICE guideline on acute coronary
-syndromes.
-
-Secondary prevention after a myocardial infarction (QS99)
-About this quality standard
-NICE quality standards describe high-priority areas for quality improvement in a defined
-care or service area. Each standard consists of a prioritised set of specific, concise and
-measurable statements. NICE quality standards draw on existing NICE or NICE-accredited
-guidance that provides an underpinning, comprehensive set of recommendations, and are
-designed to support the measurement of improvement.
-Expected levels of achievement for quality measures are not specified. Quality standards
-are intended to drive up the quality of care, and so achievement levels of 100% should be
-aspired to (or 0% if the quality statement states that something should not be done).
-However, this may not always be appropriate in practice. Taking account of safety, shared
-decision-making, choice and professional judgement, desired levels of achievement should
-be defined locally.
-Information about how NICE quality standards are developed is available from the NICE
-website.
-See our webpage on quality standards advisory committees for details about our standing
-committees. Information about the topic experts invited to join the standing members is
-available from the webpage for this quality standard.
-NICE has produced a quality standard service improvement template to help providers
-make an initial assessment of their service compared with a selection of quality
-statements. This tool is updated monthly to include new quality standards.
-NICE guidance and quality standards apply in England and Wales. Decisions on how they
-apply in Scotland and Northern Ireland are made by the Scottish government and Northern
-Ireland Executive. NICE quality standards may include references to organisations or
-people responsible for commissioning or providing care that may be relevant only to
-England.
-Resource impact
-NICE quality standards should be achievable by local services. The potential resource
-impact is considered by the quality standards advisory committee, drawing on resource
-
-Secondary prevention after a myocardial infarction (QS99)
-impact work for the source guidance. Organisations are encouraged to use the resource
-impact products for NICE's guideline on acute coronary syndromes to help estimate local
-costs.
-Diversity, equality and language
-Equality issues were considered during development and equality assessments for this
-quality standard are available. Any specific issues identified during development of the
-quality statements are highlighted in each statement.
-Commissioners and providers should aim to achieve the quality standard in their local
-context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity and foster good relations. Nothing in this
-quality standard should be interpreted in a way that would be inconsistent with
-compliance with those duties.
-ISBN: 978-1-4731-1423-4
-Endorsing organisation
-This quality standard has been endorsed by NHS England, as required by the Health and
-Social Care Act (2012)
-Supporting organisations
-Many organisations share NICE's commitment to quality improvement using evidence-
-based guidance. The following supporting organisations have recognised the benefit of
-the quality standard in improving care for patients, carers, service users and members of
-the public. They have agreed to work with NICE to ensure that those commissioning or
-providing services are made aware of and encouraged to use the quality standard.
-• HEART UK
-• Association of Chartered Physiotherapists in Cardiac Rehabilitation (ACPICR)

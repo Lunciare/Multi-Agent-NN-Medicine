@@ -1,44 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "bioresorbable-stent-implantation-to-treat-coronary-artery-disease-pdf-1899876216532165.pdf",
-  "converted_date": "2026-01-31T14:48:05.915530",
-  "file_size_bytes": 61931,
-  "original_format": "pdf",
-  "document_type": "Guidelines",
-  "source_folder": "Guidelines",
-  "full_path": "00_RAW_CARDIOLOGY/Guidelines/bioresorbable-stent-implantation-to-treat-coronary-artery-disease-pdf-1899876216532165.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Bioresorbable stent implantation
-to treat coronary artery disease
-Interventional procedures guidance
-Published: 3 August 2022
-www.nice.org.uk/guidance/ipg732
-Your responsibility
-This guidance represents the view of NICE, arrived at after careful consideration of the
-evidence available. When exercising their judgement, healthcare professionals are
-expected to take this guidance fully into account, and specifically any special
-arrangements relating to the introduction of new interventional procedures. The guidance
-does not override the individual responsibility of healthcare professionals to make
-decisions appropriate to the circumstances of the individual patient, in consultation with
-the patient and/or guardian or carer.
-All problems (adverse events) related to a medicine or medical device used for treatment
-or in a procedure should be reported to the Medicines and Healthcare products Regulatory
-Agency using the Yellow Card Scheme.
-Commissioners and/or providers have a responsibility to implement the guidance, in their
-local context, in light of their duties to have due regard to the need to eliminate unlawful
-discrimination, advance equality of opportunity, and foster good relations. Nothing in this
-guidance should be interpreted in a way that would be inconsistent with compliance with
-
-Bioresorbable stent implantation to treat coronary artery disease (IPG732)
-those duties. Providers should ensure that governance structures are in place to review,
-authorise and monitor the introduction of new devices and procedures.
-Commissioners and providers have a responsibility to promote an environmentally
-sustainable health and care system and should assess and reduce the environmental
-impact of implementing NICE recommendations wherever possible.
-This guidance replaces IPG492.
+Bioresorbable stent implantation to treat coronary artery disease 
 1 Recommendations
 1.1 Evidence on the efficacy of bioresorbable stent implantation to treat coronary
 artery disease is inadequate. Evidence on its safety has shown an increased risk
@@ -110,17 +70,3 @@ coronary patency, a reduced myocardial infarction rate and reduced mortality.
 to be: death, myocardial infarction, in-stent thrombosis and need for further
 intervention.
 3.4 Patient commentary was sought but none was received.
-
-Bioresorbable stent implantation to treat coronary artery disease (IPG732)
-Committee comments
-3.5 The committee noted that most of the evidence came from a single device, which
-has now been withdrawn from the market. This device was associated with an
-increased risk of complications in the longer term, including myocardial infarction
-and death.
-3.6 The committee was informed that:
-• the rate of stent bioresorption varies between people who have had a stent
-implanted and also between different types of device
-• there are new generation devices being developed.
-ISBN: 978-1-4731-4686-0
-Endorsing organisation
-This guidance has been endorsed by Healthcare Improvement Scotland.
