@@ -1,19 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Arrhythmia - Cardiology Explained - NCBI Bookshelf.pdf",
-  "converted_date": "2026-01-31T14:40:01.837606",
-  "file_size_bytes": 674558,
-  "original_format": "pdf",
-  "document_type": "Textbooks",
-  "source_folder": "Textbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Textbooks/Arrhythmia - Cardiology Explained - NCBI Bookshelf.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Arrhythmia - Cardiology Explained - NCBI Bookshelf
-NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
-Ashley EA, Niebauer J. Cardiology Explained. London: Remedica; 2004.
+Arrhythmia - Cardiology Explained
 Chapter 8 Arrhythmia
 Introduction
 Arrhythmia is an area of cardiology often feared by generalists. This might be related to the
@@ -53,10 +38,6 @@ bradycardia include shortness of breath, fatigue, lethargy, nausea, mental confu
 and presyncope or syncope. If there is hemodynamic compromise and interruption of cerebral
 perfusion is prolonged, grand mal seizures may result (Stokes–Adams attacks). The causes of
 bradycardia are outlined in Table 2.
-Table 2
- 1/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
 Causes of bradycardia.
 Treatment
 Acute bradycardia only requires treatment if it is associated with hemodynamic compromise or
@@ -101,8 +82,7 @@ mixed forms of the condition, pacing only prevents symptoms due to asystole or
 bradyarrhythmia; it does not prevent neurologic symptoms due to reflex hypotension.
 Syncope
  2/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 Syncope is defined as a sudden transient loss of consciousness and postural tone with
 spontaneous recovery. A careful diagnostic evaluation, though often difficult, is imperative in all
 patients. A vast variety of conditions may result in syncope, including any condition causing
@@ -145,8 +125,7 @@ Malignant vasovagal syncope
 In malignant vasovagal syncope, the sympathetic system is activated via a trigger, usually venous
 pooling, which forces vigorous contraction of a poorly filled ventricle. This stimulates the
  3/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 mechanoreceptors in the ventricular wall, which lead (via C fibers and the brainstem) to
 overactivation of the parasympathetic system, and thus bradycardia and hypotension. This reflex
 is named Bezold–Jarisch after those who first described it (see Figure 3).
@@ -186,8 +165,7 @@ AV block. In most cases, treatment is unnecessary. Routine prophylactic permanen
 recommended unless the patient is symptomatic with presyncope, recurrent syncope, or
 bradycardia that exacerbates congestive heart failure or angina.
  4/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 Figure 5
 Electrocardiogram of type I second-degree atrioventricular
 block (Wenckebach).
@@ -230,8 +208,7 @@ right bundle branch block.
 In fact, both LBBB and RBBB are found in the "normal" population. New LBBB is cause for
 concern, and if it can clearly be related to an acute episode of chest pain then it probably
  5/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 indicates MI. Both RBBB and LBBB probably indicate increased risk for cardiovascular disease;
 however, neither on its own is an indication for pacing.
 Fascicular block
@@ -268,8 +245,7 @@ Nonspecific intraventricular conduction defect
 Another term that is sometimes used is "nonspecific intraventricular conduction defect". This
 usually refers to an abnormal ECG that does not clearly fit any of the patterns described above.
  6/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 The QRS complex will generally not be wide, but the waveform will be atypical. It is of
 unknown significance, but is likely to be benign.
 Tachyarrhythmia
@@ -311,8 +287,7 @@ complexes and no P waves. Initial management involves interventions to increase 
 These should only be carried out on a monitored patient, and include:
 Figure 13
  7/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 Electrocardiogram of atrioventricular nodal re-entrant tachycardia.
 Figure 14
 Mechanisms of re-entrant tachycardia. AVN: atrioventricular
@@ -357,8 +332,7 @@ The medical treatment of acute arrhythmias in WPW syndrome depends on the type o
 tachycardia. ECG results can help to determine this. A narrow complex indicates that accessory
 pathway re-entry is occurring. Treatment should include vagal maneuvers and adenosine as
  8/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 above. A broad complex is likely to be seen when AF is present, and can be particularly
 dangerous in WPW syndrome. It is characterized by rapid, irregular, wide complexes and should
 be treated by immediate direct current (DC) cardioversion. Adenosine, verapamil, and digoxin
@@ -401,8 +375,7 @@ arrest protocol should be immediately instituted (see Chapter 1, Cardiac arrest)
 If the patient is only mildly compromised or suffering recurrent episodes, other therapeutic
 options are:
  9/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 IV amiodarone
 IV magnesium
 IV lidocaine (lignocaine) (no left ventricular [LV] dysfunction)
@@ -445,8 +418,7 @@ Atrial fibrillation
 AF is the single most common cardiac arrhythmia. It is a condition where there is disorganized
 electrical and mechanical activity of the atria with a mechanism of multiple re-entrant wavelets.
  10/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 It may be chronic or occur in a paroxysmal fashion (see Table 6). On the ECG, it is recognized as
 an irregular rhythm with absent P waves (see Figure 18). Low-amplitude wavelets are frequently
 seen, but in many cases the baseline is flat. Usually, the ventricular response is controlled by the
@@ -489,8 +461,7 @@ anticoagulation
 rate control (if necessary)
 antiarrhythmics (the choice of which is guided by symptoms)
  11/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 Most recent studies show that even patients with paroxysmal AF or successful cardioversion
 should remain on anticoagulation (warfarin, international normalized ratio [INR] 2–3) since
 these individuals have a greater risk of cerebrovascular events than of bleeding complications.
@@ -535,8 +506,7 @@ cardioversion, patients should continue warfarin for at least 4 weeks. This is b
 thromboembolic risk relates to "stunned" atria that do not resume normal mechanical function
 during this time.
  12/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 Famous Scots
 The first insight into the mechanism of irregular pulse in atrial fibrillation was provided by
 James Mackenzie, a Scottish GP who used an ink polygraph to record and label jugular
@@ -579,8 +549,7 @@ their quality of life. Since its invention, advances in programmability, telemet
 sense and pace two chambers have improved the level of care that can be provided.
 Miniaturization has made the process of implantation more straightforward and long-term
  13/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 complications less common. Advances in pacemaker technology mean that several new
 indications are likely to be added to the standard ones (see Table 7).
 Table 7
@@ -624,8 +593,7 @@ ventilation or RV filling; and QT sensors that respond to the shortening of the 
 interval by catecholamines.
 Implantation
  14/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 Pacemaker implantation is carried out under sedation. Leads are inserted via the subclavian or
 cephalic vein into the RA and/or RV. Atrial leads are J-shaped and are positioned in the right
 atrial appendage (anteriorly and superiorly in the RA). Ventricular leads are positioned in the RV
@@ -669,8 +637,7 @@ point to deterioration of old wires or loss of insulation properties. Subclavian
 vena cava occlusion is more common with multiple lead systems. Classic signs include unilateral
 superficial vein engorgement around the upper thorax, neck, and face.
  15/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 Erosion occasionally occurs if the pacemaker box becomes gradually more superficial. Unless it
 causes chronic pain, or erodes completely, it does not demand referral. Some patients move their
 own box back and forward under the skin (Twiddler's syndrome). This can cause hemorrhage or
@@ -714,8 +681,7 @@ Patient follow-up
 Application of a magnet to many pacemaker generators reveals the current battery status by
 pacing with a fixed pacing rate or "magnet rate". The pacemaker rate decreases in most models
  16/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
+ 
 with declining battery charge. When a decrease indicates exhaustion of one battery capacity, the
 pulse generator should be replaced.
 Implantable cardioverter defibrillators
@@ -757,40 +723,3 @@ Measurements are usually taken from several intracardiac sites, allowing identif
 node function and recovery, sinoatrial conduction, AV nodal conduction, and triggered
 ventricular arrhythmias. Treatment is with radiofrequency stimulation, which can ablate
 accessory pathways or interrupt re-entry circuits.
- 17/18
-
- Arrhythmia - Cardiology Explained - NCBI Bookshelf
-Drugs in arrhythmia
-Table 10 describes the Vaughan-Williams classification of antiarrhythmic drugs, and Figure 21
-outlines the drugs used in the treatment of arrhythmia.
-Table 10
-The Vaughan-Williams classification of antiarrhythmic drugs.
-Figure 21
-Drugs used in the treatment of arrhythmia. The typical
-cardiac action potential is also shown: a fast sodium current
-and slower calcium current depolarize cardiac cells. The
-plateau phase caused by calcium entry contributes to the long
-refractory period, (more...)
-Further reading
-1. Fuster V, Ryden LE, Asinger RW. et al. ACC/AHA/ESC Guidelines for the Management of
-Patients With Atrial Fibrillation: Executive Summary. A Report of the American College of
-Cardiology/American Heart Association Task Force on Practice Guidelines and the
-European Society of Cardiology Committee for Practice Guidelines and Policy
-Conferences (Committee to Develop Guidelines for the Management of Patients With
-Atrial Fibrillation) Developed in collaboration with the North American Society of Pacing
-and Electrophysiology. Eur Heart J. 2001;22:1852–923. [PubMed: 11601835]
-2. Guidelines for Clinical Intracardiac Electrophysiological and Catheter Ablation
-Procedures. A report of the American College of Cardiology/American Heart Association
-Task Force on practice guidelines. (Committee on Clinical Intracardiac Electrophysiologic
-and Catheter Ablation Procedures). Developed in collaboration with the North American
-Society of Pacing and Electrophysiology. Circulation. 1995;92:673–91. [PubMed:
-7634483]
-3. Silverman ME. From rebellious palpitations to the discovery of auricular fibrillation:
-contributions of Mackenzie, Lewis and Einthoven. Am J Cardiol. 1994;73:384–9.
-[PubMed: 8109554]
-4. Wolff L, Parkinson J, White PD. Bundle-branch block with short P-R interval in healthy
-young people prone to paroxysmal tachyardia. Am Heart J. 1930;5:685. [PMC free article:
-PMC6932258] [PubMed: 17040283]
-Copyright © 2004, Remedica.
-Bookshelf ID: NBK2219
- 18/18

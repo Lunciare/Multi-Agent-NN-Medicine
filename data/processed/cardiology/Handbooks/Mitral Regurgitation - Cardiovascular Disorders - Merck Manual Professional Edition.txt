@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:06.312007",
-  "file_size_bytes": 490968,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Mitral Regurgitation
-(Mitral Insufficiency)
-By Guy P. Armstrong, MD, Waitemata District Health Board and Waitemata Cardiology, Auckland
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2025
 Mitral regurgitation (MR) is incomplete closure of the mitral valve causing
 backflow from the left ventricle (LV) into the left atrium during systole. MR can
 be primary (common causes are mitral valve prolapse and rheumatic fever) or
@@ -43,9 +23,6 @@ Acute dilation of the left ventricle due to myocarditis or myocardial ischemia
 Mechanical failure of a prosthetic mitral valve
 Common causes of chronic mitral regurgitation are intrinsic valve pathology including mitral valve
 prolapse (primary MR) or distortion of a normal valve by dilatation and impairment of the left ventricle
- 1/11
-
- Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
 and/or the mitral annulus (secondary MR).
 Primary (organic) MR pathology is most often mitral valve prolapse or rheumatic heart disease. Less
 common causes are connective tissue disorders, congenital cleft mitral valve, and radiation-induced
@@ -92,8 +69,7 @@ Asymmetrically
 focal) coronary occlusion)
 tented
  2/11
-
- Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Mitral
 Type of Mitral Mitral Leaflet Left Ventricular
 Regurgitation
@@ -127,10 +103,6 @@ and secondary pulmonary hypertension causes right ventricular hypertrophy. A reg
 thrill) may also be palpable in severe cases.
 AUDIO
 Mitral Regurgitation Murmur
- 3/11
-
- Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
-AUDIO
 Mitral Regurgitation Murmur With Third Heart Sound (S3)
 On auscultation, the cardinal sign of mitral regurgitation is a holosystolic (pansystolic) murmur, heard
 best at the apex with the diaphragm of the stethoscope when the patient is in the left lateral decubitus
@@ -164,9 +136,6 @@ echocardiography is used to detect regurgitant flow and pulmonary hypertension. 
 3-dimensional echocardiography is used to evaluate the leaflet morphology and motion; to determine
 the cause and severity of MR (see table Grading of Mitral Regurgitation), the presence and extent of
 annular calcification, and the size and function of the LV and LA; and to detect pulmonary hypertension.
- 4/11
-
- Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
 When it is acute, severe MR may not be apparent on color Doppler echocardiography, but suspicion is
 raised when acute heart failure is accompanied by hyperdynamic LV systolic function.
 Mitral Regurgitation
@@ -184,13 +153,6 @@ Regurgitant fraction 30–50% > 50%
 * The narrowest diameter of the fluid stream downstream of an abnormal valve orifice; it is
 slightly smaller than the anatomic valve orifice.
 MR = mitral regurgitation.
-Data from Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the
-Management of Patients With Valvular Heart Disease: Executive Summary: A Report of the
-American College of Cardiology/American Heart Association Joint Committee on Clinical
-Practice Guidelines. Circulation 143(5):e35–e71, 2021. doi: 10.1161/CIR.0000000000000932
- 5/11
-
- Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
 If endocarditis or valvular thrombi are suspected, transesophageal echocardiography (TEE) can
 provide a more detailed view of the mitral valve and LA. TEE, with 3-dimensional imaging when feasible,
 is also indicated to evaluate the mechanism of MR in more detail when mitral valve repair instead of
@@ -204,8 +166,7 @@ Periodic exercise testing (stress ECG) is often performed to detect any decrease
 which would prompt consideration of surgical intervention. Periodic echocardiography is performed to
 detect progression of MR.
  6/11
-
- Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Phonocardiographic Characteristics of Heart Murmurs
 Treatment of Mitral Regurgitation
 Mitral valve repair preferred for primary MR
@@ -216,8 +177,7 @@ progression and so have no role in asymptomatic MR with preserved LV function. H
 or dysfunction is present, therapy using an angiotensin II receptor blocker, neprilysin inhibitor (eg,
 sacubitril, combined with the angiotensin II blocker valsartan), aldosterone antagonist, and/or
  7/11
-
- Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 vasodilating beta-blocker (eg, carvedilol) is indicated. In secondary MR, these medications can reduce
 the severity of MR and may improve prognosis.
 If the ECG shows left bundle branch block, then biventricular pacing may be beneficial for secondary
@@ -255,8 +215,7 @@ occurred (3). Therefore, only severe secondary MR should be treated when CABG is
 treat ischemia.
 Choice of intervention
  8/11
-
- Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 In primary mitral regurgitation, the closer the mitral valve intervention mimics the native valve, the
 better for LV preservation and mortality. Hence, the order of preference is:
 1. Repair with leaflet remodelling and chordal replacement
@@ -290,48 +249,17 @@ thromboembolism. A mitral bioprosthetic valve requires anticoagulation with warf
 postoperatively. Long-term non-vitamin K oral anticoagulants or warfarin can be considered in patients
 with a bioprosthetic valve and atrial fibrillation (see also Anticoagulation for patients with a prosthetic
 cardiac valve or native valve disease).
-Treatment references
-1. Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of
-Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of
- 9/11
-
- Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
-Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation
-143(5):e35–e71, 2021. doi: 10.1161/CIR.0000000000000932
-2. Farhan S, Silbiger JJ, Halperin JL, et al: Pathophysiology, Echocardiographic Diagnosis, and
-Treatment of Atrial Functional Mitral Regurgitation: JACC State-of-the-Art Review [published
-correction appears in J Am Coll Cardiol 2023 Feb 21;81(7):711]. J Am Coll Cardiol 80(24):2314–2330,
-2022. doi:10.1016/j.jacc.2022.09.046
-3. Michler RE, Smith PK, Parides MK, et al: Two-year outcomes of surgical treatment of moderate
-ischemic mitral regurgitation. N Engl J Med 374:1932–1941, 2016. doi: 10.1056/NEJMoa1602003
-4. Goldstein D, Moskowitz AJ, Gelijns AC, et al: Two-year outcomes of surgical treatment of severe
-ischemic mitral regurgitation. N Engl J Med 374:344–353, 2016. doi: 10.1056/NEJMoa1512913
-5. Feldman T, Kar S, Elmariah S, et al: Randomized comparison of percutaneous repair and surgery
-for mitral regurgitation: 5-year results of EVEREST II. J Am Coll Cardiol 66:2844–2854, 2015. doi:
-10.1016/j.jacc.2015.10.018
-6. Obadia JF, Messika-Zeitoun D, Leurent G, et al: Percutaneous repair or medical treatment for
-secondary mitral regurgitation. N Engl J Med 379:2297–2306, 2018. doi: 10.1056/NEJMoa1805374
-7. Stone GW, Lindenfeld J, Abraham WT, et al: Transcatheter mitral-valve repair in patients with
-heart failure. N Engl J Med 379:2307–2318, 2018. doi: 10.1056/NEJMoa1806640
 Prognosis for Mitral Regurgitation
 Prognosis of mitral regurgitation varies by duration, severity, and cause.
 Some MR worsens and eventually becomes severe. Once MR becomes severe, approximately 8% of
 asymptomatic patients become symptomatic each year thereafter.
 Approximately 15% of patients with chronic moderate or severe MR require surgical intervention, with
 surgical intervention being more common in primary versus secondary MR (1).
-Prognosis reference
-1. Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of
-Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of
-Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation
-143(5):e35–e71, 2021. doi: 10.1161/CIR.0000000000000932
 Key Points
 Common causes of mitral regurgitation (MR) include mitral valve prolapse, rheumatic
 fever, and left ventricular dilation or infarction.
 Acute MR may cause acute pulmonary edema and cardiogenic shock or sudden cardiac
 death.
- 10/11
-
- Mitral Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
 Chronic MR causes slowly progressive symptoms of heart failure and, if atrial fibrillation
 develops, palpitations.
 Typical heart sounds are a holosystolic murmur that is heard best at the apex, radiates
@@ -339,6 +267,3 @@ toward the left axilla, increases in intensity with handgrip or squatting, and d
 intensity with standing or the Valsalva maneuver.
 Symptomatic patients and those meeting certain echocardiographic criteria benefit from
 valve replacement or repair.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 11/11

@@ -1,24 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Tricuspid Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:48.588141",
-  "file_size_bytes": 413358,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Tricuspid Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Tricuspid Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Tricuspid Regurgitation
 (Tricuspid Insufficiency; Tricuspid Incompetence)
-By Guy P. Armstrong, MD, Waitemata District Health Board and Waitemata Cardiology, Auckland
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2025
 Tricuspid regurgitation (TR) is insufficiency of the tricuspid valve causing
 backflow of blood from the right ventricle to the right atrium during systole.
 The most common cause is dilation of the right ventricle. Symptoms and signs
@@ -42,9 +23,6 @@ Idiopathic myxomatous degeneration
 Marfan syndrome
 Medications (eg, ergotamine, fenfluramine, phentermine)
 Rheumatic fever
- 1/8
-
- Tricuspid Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
 Valvular abnormalities caused by infective endocarditis
 Secondary tricuspid regurgitation is due to leaflet tethering, which is the result of reduced leaflet
 coaptation caused by annular dilation (typical of right atrial dilation [atrial secondary] caused by chronic
@@ -54,7 +32,6 @@ distortion). Iatrogenic causes include pacemaker leads that cross the tricuspid 
 sustained during RV endomyocardial biopsy or other right heart catheterizations (pacemaker lead
 associated secondary) (see table Mechanisms of Tricuspid Regurgitation).
 Long-standing severe TR may lead to RV dysfunction–induced heart failure and atrial fibrillation.
-TABLE
 Mechanisms of Tricuspid Regurgitation
 Right
 Typical Ventricular Size, Potential
@@ -81,14 +58,6 @@ associated
 or damages leaflets replacement
 * Patient selection based upon patient characteristics is critical, and individualization of
 therapy is necessary.
-Etiology reference
-1. Badano LP, Tomaselli M, Muraru D, Galloo X, Li CHP, Ajmone Marsan N. Advances in the
-Assessment of Patients With Tricuspid Regurgitation: A State-of-the-Art Review on the
-Echocardiographic Evaluation Before and After Tricuspid Valve Interventions. J Am Soc Echocardiogr
-2024;37(11):1083-1102. doi:10.1016/j.echo.2024.07.008
- 2/8
-
- Tricuspid Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
 Symptoms and Signs of Tricuspid Regurgitation
 Tricuspid regurgitation usually causes no symptoms, but some patients experience neck pulsations due
 to elevated jugular pressures. Symptoms of severe TR include peripheral edema, fatigue, abdominal
@@ -122,9 +91,6 @@ Severe TR is characterized echocardiographically by ≥ 1 of the following (1):
 Two-dimensional failure of coaptation or flail leaflet
 Dense, triangular, early peaking, continuous wave Doppler of TR jet
 Large flow convergence zone proximal to the valve
- 3/8
-
- Tricuspid Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
 Large regurgitant jet on color Doppler (≥ 50% of right atrial area)
 Systolic flow reversal in the hepatic veins (specific for severe TR)
 Vena contracta width > 7 mm
@@ -147,23 +113,7 @@ severe TR.
 Cardiac catheterization is indicated for accurate measurement of pulmonary pressure when TR is severe
 and to evaluate coronary anatomy when surgery is planned. Catheterization findings include a
 prominent right atrial c-v pressure wave during ventricular systole.
- 4/8
-
- Tricuspid Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
 Phonocardiographic Characteristics of Heart Murmurs
-Diagnosis reference
-1. Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA Guideline for the Management of
-Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American
-Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in
-Circulation. 2021 Feb 2;143(5):e229. doi: 10.1161/CIR.0000000000000955.] [published correction
-appears in Circulation. 2023 Aug 22;148(8):e8. doi: 10.1161/CIR.0000000000001177.] [published
-correction appears in Circulation. 2023 Nov 14;148(20):e185. doi: 10.1161/CIR.0000000000001190.]
-[published correction appears in Circulation. 2024 Sep 17;150(12):e267. doi:
-10.1161/CIR.0000000000001284.]. Circulation. 2021;143(5):e72-e227.
-doi:10.1161/CIR.0000000000000923
- 5/8
-
- Tricuspid Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
 Treatment of Tricuspid Regurgitation
 Treatment of cause
 Sometimes annuloplasty or valve repair or replacement
@@ -199,28 +149,8 @@ last > 10 years (3, 4). A bioprosthetic valve requires temporary anticoagulation
 for patients with a prosthetic cardiac valve or native valve diseases).
 Progress is being made toward a percutaneous valve repair procedure. Early studies have shown
 improvement in the degree of regurgitation and in right-sided hemodynamics (5). Development of a
- 6/8
-
- Tricuspid Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
 percutaneous repair procedure will allow lower risk repair much earlier in the natural history of severe
 TR (6).
-Treatment references
-1. Dreyfus J, Juarez-Casso F, Sala A, et al: Benefit of isolated surgical valve repair or replacement for
-functional tricuspid regurgitation and long-term outcomes stratified by the TRI-SCORE. Eur Heart J.
-45(42):4512–4522, 2024. doi:10.1093/eurheartj/ehae578
-2. Gammie JS, Chu MWA, Falk V, et al: Concomitant tricuspid repair in patients with degenerative
-mitral regurgitation. N Engl J Med 386(4):327–339, 2022. doi: 10.1056/NEJMoa2115961
-3. Anselmi A, Ruggieri VG, Harmouche M, et al: Appraisal of Long-Term Outcomes of Tricuspid
-Valve Replacement in the Current Perspective. Ann Thorac Surg 101(3):863–871, 2016.
-doi:10.1016/j.athoracsur.2015.09.081
-4. Burri M, Vogt MO, Hörer J, et al: Durability of bioprostheses for the tricuspid valve in patients
-with congenital heart disease. Eur J Cardiothorac Surg 50(5):988–993, 2016.
-doi:10.1093/ejcts/ezw094
-5. Dreyfus J, Galloo X, Taramasso M, et al: TRI-SCORE and benefit of intervention in patients with
-severe tricuspid regurgitation. Eur Heart J 45(8):586–597, 2024. doi:10.1093/eurheartj/ehad585
-6. Vahanian A, Beyersdorf F, Praz F, et al: 2021 ESC/EACTS Guidelines for the management of
-valvular heart disease [published correction appears in Eur Heart J 2022 Jun 1;43(21):2022. doi:
-10.1093/eurheartj/ehac051]. Eur Heart J 43(7):561–632, 2022. doi:10.1093/eurheartj/ehab395
 Prognosis for Tricuspid Regurgitation
 Severe tricuspid regurgitation ultimately has a poor prognosis, even if it is initially well-tolerated for
 years. Less severe TR also affects prognosis, though no study has conclusively shown that early
@@ -237,12 +167,6 @@ Jugular venous distention may occur; severe TR may cause abdominal distension,
 hepatic enlargement, and peripheral edema.
 Heart sounds include a holosystolic murmur heard best at the left middle or lower
 sternal border or at the epigastrium when the patient is sitting upright or standing; the
- 7/8
-
- Tricuspid Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
 murmur becomes louder with inspiration.
 TR is usually well tolerated, but severe cases may require annuloplasty, valve repair, or
 valve replacement.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 8/8

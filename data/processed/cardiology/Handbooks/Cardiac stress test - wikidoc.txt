@@ -1,21 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Cardiac stress test - wikidoc.pdf",
-  "converted_date": "2026-01-31T14:36:04.389993",
-  "file_size_bytes": 499717,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Cardiac stress test - wikidoc.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Search WikiDoc
-Search Try Exact Match
 Cardiac stress test
-Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailt
-o:charlesmichaelgibson@gmail.com)
 A Cardiac Stress Test is a medical test performed to
 evaluate arterial blood flow to (and indirectly the amount of
 oxygen that will reach) the myocardium (heart muscle)
@@ -50,7 +33,7 @@ progression, before the artery lumen becomes severely stenosed, or compromised.
 So the major limitation of the stress test approach, is that it needs a high grade stenosis as an
 indicator of heart attack risk. High grade stenosis, while being a good indicator of advanced
 arterial disease, is not the major cause for the majority of heart attacks. This issue is also reflected
-Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
+  OK
  1/8
 
 in the results of the COURAGE trial[1], which demonstrated that "intensive pharmacologic therapy
@@ -97,7 +80,7 @@ anatomic detection methods and (b) physiologic measurement methods.
 Examples of anatomic methods include: (1) coronary calcium scoring by CT, (2) carotid IMT
 (intimal medial thickness) measurement by ultrasound, e.g. IntiMaTe, and (3) IVUS.
 Examples of physiologic methods include: (1) lipoprotein subclass analysis, (2) HbA1c, (3) hs-CRP,
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
 and (4) homocysteine.
  3/8
 
@@ -143,7 +126,7 @@ depends on factors such as concurrent medications and diseases. Dobutamine is us
 a patient has asthma or severe COPD, takes the medication theophylline or has ingested coffee or
 chocolate (anything with caffeine), or has 2nd or 3rd degree AV block (a type of heart block).
 Adenosine or dipyridamole is generally used when a patient has poorly controlled hypertension,
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
 glaucoma, or has left bundle branch block (LBBB, another type of heart block). It is well known
  4/8
 
@@ -190,7 +173,7 @@ long-standing experience that some people could exercise all the way to maximum 
 rate, have no abnormal symptoms and completely normal stress test results, only to die of a
 massive heart attack within a few days to weeks. While anecdotal and not quantitative, these
 observations have long demonstrated the unreliability of the stress test approach as a means of
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  5/8
 
 diagnosing arterial disease before serious health problems occur. From the 1960s to 1990s, despite
@@ -237,7 +220,7 @@ atheroma which produce heart attacks. Stress test methods do not evaluate blood 
 ventricle heart muscle. Thus stress test results are often falsely negative for many people, in terms
 of predicting who is at high risk for myocardial infarction due to atheroma or ruptured "vulnerable
 plaques".
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  6/8
 
 It has become clear that stress testing recognizes most people at risk for heart attacks too late,
@@ -256,39 +239,3 @@ See also
 • Metabolic equivalent - METs
 • Robert A. Bruce - invented Bruce treadmill protocol
 • Stress testing
-References
-Additional Resources
-• Circulation, Fletcher et al. AHA Exercise • A. de González (2004). "Risk of cancer from
-Standards for Testing. 201:104:1694. diagnostic X-rays: estimates for the UK and
-• National Guideline Clearinghouse. Cardiac 14 other countries". The Lancet. 363 (9406):
-Stress Test Supplement. 345–351..
-ICSI:2003Nov.26p.87. • Morin (2003). "Radiation Dose in Computed
-• Michael Jerosch-Herold (2004). "Analysis of Tomography of the Heart". Circulation. 107:
-myocardial perfusion MRI". Journal of 917–922..
-Magnetic Resonance Imaging. 19 (6): 758– • Chung EK, Tighe D (1997). Pocket Guide to
-770.. Stress Testing (
-• Thomson LE (2004). "Magnetic resonance
-imaging for the assessment of myocardial
-viability". Journal of Magnetic Resonance
-Imaging. 19 (6): 771–788..
-External links
-• Stress Test Info from the American Heart Association (
-html?identifier=4568)
-• NIH Medline Entry (
-• Stress test FAQ's (
-• Adenosine Nuclear Stress Test (
-• Dobutamine Nuclear Stress Test (
-ar.pdf)
-de:Ergometrie he:הירטמוגרא nl:Inspannings-ECG sq:Ergometria
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 7/8
-
-Template:WikiDoc Sources CME Category::Cardiology
-Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
-Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
-Physical Examination | Lab Tests | Drugs
-Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
-There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
-Licensing | Disclaimers | Avoid Plagiarism | Policies
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 8/8

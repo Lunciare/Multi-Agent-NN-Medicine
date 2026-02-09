@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:36.018002",
-  "file_size_bytes": 1176920,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Pericarditis
-By Brian D. Hoit, MD, Case Western Reserve University School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised May 2024
 Pericarditis is inflammation of the pericardium, often with fluid accumulation in
 the pericardial space. Pericarditis may be caused by many disorders (eg,
 infection, myocardial infarction, trauma, tumors, metabolic disorders) but is
@@ -40,12 +21,6 @@ The pericardium is richly innervated with sympathetic and somatic afferents. Str
 mechanoreceptors sense changes in cardiac volume and tension and may be responsible for
 transmitting pericardial pain. The phrenic nerves are embedded in the parietal pericardium and are
 vulnerable to injury during surgery on the pericardium.
-Anatomy reference
-1. Hoit BD. Anatomy and Physiology of the Pericardium. Cardiol Clin 2017;35(4):481-490.
-doi:10.1016/j.ccl.2017.07.002
- 1/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
 Pathophysiology of Pericarditis
 Pericarditis may be
 Acute
@@ -82,8 +57,7 @@ may initially present for evaluation of cirrhosis. Constriction of the left atri
 may elevate pulmonary venous pressure. Occasionally, pleural effusion develops.
 There are several variants of constrictive pericarditis:
  2/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Chronic constrictive pericarditis, usually requiring pericardiectomy as definitive treatment
 Subacute (early stage) constrictive pericarditis, developing weeks to months after an inciting
 injury and managed initially with medical therapy
@@ -92,11 +66,6 @@ or after medical therapy
 Effusive-constrictive pericarditis characterized by pericardial constriction involving the
 visceral pericardium with significant pericardial effusion sometimes requiring treatment for
 cardiac tamponade
-Pathophysiology reference
-1. Imazio M, Gaita F, LeWinter M. Evaluation and Treatment of Pericarditis: A Systematic Review
-[published correction appears in JAMA 2015 Nov 10;314(18):1978] [published correction appears in
-JAMA 2016 Jan 5;315(1):90. Dosage error in article text]. JAMA 2015;314(14):1498-1506.
-doi:10.1001/jama.2015.12763
 Etiology of Pericarditis
 Acute pericarditis may result from infection, autoimmune or inflammatory disorders, uremia, trauma,
 myocardial infarction (MI), cancer, radiation therapy, or certain medications (see table Causes of Acute
@@ -112,15 +81,11 @@ with transmural infarction (2). Pericarditis occurs after pericardiotomy (called
 syndrome) in 5 to 30% of cardiac operations (3). Postpericardiotomy syndrome, post-MI syndrome, and
 traumatic pericarditis (which includes iatrogenic pericarditis, after, eg, percutaneous cardiac
 intervention, pacemaker placement, and ablation) comprise the post-cardiac injury syndrome.
-TABLE
 Causes of Acute Pericarditis
 Cause Examples
 Rheumatoid arthritis
 Systemic rheumatic diseases Systemic lupus erythematosus (SLE)
 Systemic sclerosis
- 3/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
 Cause Examples
 Gram-negative bacilli
 Haemophilus influenzae (in children)
@@ -155,8 +120,7 @@ Inflammatory disorders Inflammatory bowel disease
 Sarcoidosis
 Myocardial infarction —
  4/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Examples
 Amebiasis
 Parasitic infections Echinococcosis
@@ -189,8 +153,7 @@ Chronic pericarditis with large effusion (serous, serosanguineous, or bloody) is
 by metastatic tumors (5), most often by lung carcinoma, breast carcinoma, sarcoma, melanoma,
 leukemia, or lymphoma.
  5/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Hypothyroidism may cause pericardial effusion and cholesterol pericarditis. Cholesterol pericarditis is a
 rare disorder that may be associated with myxedema, in which a chronic pericardial effusion has a high
 level of cholesterol that triggers inflammation and pericarditis.
@@ -203,19 +166,6 @@ malignant tumors, MI, and tuberculosis. Hemopericardium (accumulation of blood w
 pericardium) may lead to pericarditis or pericardial fibrosis; common causes include chest trauma,
 iatrogenic injury (eg, resulting from cardiac catheterization, pacemaker insertion, central venous line
 placement), and rupture of a thoracic aortic aneurysm.
-Etiology references
-1. Lador A, Hasdai D, Mager A, et al. Incidence and Prognosis of Pericarditis After ST-Elevation
-Myocardial Infarction (from the Acute Coronary Syndrome Israeli Survey 2000 to 2013 Registry
-Database). Am J Cardiol 2018;121(6):690-694. doi:10.1016/j.amjcard.2017.12.006
-2. Shahar A, Hod H, Barabash GM, Kaplinsky E, Motro M. Disappearance of a syndrome: Dressler's
-syndrome in the era of thrombolysis. Cardiology 1994;85(3-4):255-258. doi:10.1159/000176683
-3. Lehto J, Kiviniemi T. Postpericardiotomy syndrome after cardiac surgery. Ann Med
-2020;52(6):243-264. doi:10.1080/07853890.2020.1758339
-4. Janus SE, Hoit BD. Effusive-constrictive pericarditis in the spectrum of pericardial compressive
-syndromes [published correction appears in Heart 2021 Nov;107(22):e17]. Heart Published online
-January 15, 2021. doi:10.1136/heartjnl-2020-316664
-5. Corey GR, Campbell PT, Van Trigt P, et al. Etiology of large pericardial effusions. Am J Med
-1993;95(2):209-213. doi:10.1016/0002-9343(93)90262-n
 Symptoms and Signs of Pericarditis
 Some patients present with symptoms and signs of inflammation (acute pericarditis); others present
 with those of fluid accumulation (pericardial effusion) or constriction.
@@ -225,10 +175,6 @@ over months).
 Acute pericarditis
 Acute pericarditis tends to cause chest pain, fever, and a pericardial rub, sometimes with dyspnea. The
 first evidence can be tamponade, with hypotension, shock, or pulmonary edema.
- 6/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
-AUDIO
 Pericardial Friction Rub
 Because the innervation of the pericardium and myocardium is the same, the chest pain of pericarditis
 is sometimes similar to that of myocardial inflammation or ischemia: Dull or sharp precordial or
@@ -264,8 +210,7 @@ inspiration. (However, pulsus paradoxus can also occur in chronic obstructive pu
 [COPD], bronchial asthma, pulmonary embolism, right ventricular infarction, and noncardiogenic shock.)
 Heart sounds are muffled unless the effusion is small. Loculated effusions and eccentric or localized
  7/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 hematoma may cause localized tamponade, in which only selected cardiac chambers are compressed.
 In these cases, physical, hemodynamic, and some echocardiographic signs may be absent.
 Constrictive pericarditis
@@ -300,8 +245,7 @@ Serial ECGs may be needed to show abnormalities. The ECG in acute pericarditis m
 abnormalities confined to ST and PR segments and T waves, usually in most leads. (ECG changes in lead
 aVR are generally in the opposite direction of other leads.) Unlike MI, acute pericarditis does not cause
  8/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 reciprocal depression in ST segments (except in leads aVR and V1), and there are no pathologic Q waves.
 ECG changes in pericarditis can occur in 4 stages although not all stages are present in all cases.
 Stage 1: ST segments show upward concave elevation; the PR segments may be depressed
@@ -327,8 +271,7 @@ Because the pain of pericarditis may resemble that of acute MI or pulmonary infa
 (eg, serum cardiac biomarker measurement, lung scan) may be required if the history and ECG findings
 are atypical for pericarditis. Troponin is often elevated in acute pericarditis due to epicardial
  9/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 inflammation, so it cannot discriminate between pericarditis, acute infarction, and pulmonary
 embolism. Very high levels of troponin may indicate myopericarditis. The CK-MB (creatine kinase muscle
 band isoenzyme) level, which is less sensitive than the troponin level, is usually normal in acute
@@ -354,8 +297,7 @@ Patients with a normal ECG, small (< 1 cm on echocardiogram, or 100 mL) effusion
 findings from the history and examination may be observed with serial examination and
 echocardiography. Other patients must be evaluated further to determine etiology.
  10/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Constrictive pericarditis
 Diagnosis may be suspected based on clinical, ECG, chest x-ray, and Doppler echocardiography findings,
 but cardiac catheterization and CT (or MRI) are often required. Rarely, right heart biopsy is needed to
@@ -381,8 +323,7 @@ inspiration and away from the left ventricle during expiration) and hepatic vein
 reversal (which occurs due to a dissociation of intracardiac and intrathoracic pressures and enhanced
 ventricular interaction) can also be visible in constrictive pericarditis.
  11/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Respiration-related ventricular septal shift, preserved or increased medial annular velocity, and hepatic
 vein expiratory diastolic flow reversal collectively are referred to as the Mayo criteria, but each factor is
 independently associated with constrictive pericarditis (3).
@@ -415,12 +356,6 @@ echocardiography and catheterization), can confirm constrictive pericarditis (2)
 When no pericardial thickening or fluid is seen, the diagnosis of restrictive cardiomyopathy
 is favored but not proved.
 A normal pericardial thickness does not exclude constrictive pericarditis.
- 12/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
-CT Scan of a Patient with Constrictive Pericarditis
-IMAGE
-© 2017 ELLIOT K. FISHMAN, MD.
 Increased T2-weighted short TI inversion recovery (STIR) signal and late gadolinium enhancement on
 cardiac MRI can document active inflammation and resolution of constriction in response to anti-
 inflammatory therapy, whereas their absence suggests chronic constrictive pericarditis that is unlikely to
@@ -442,8 +377,7 @@ not an indication for pericardiocentesis.
 If tamponade is suspected but not yet confirmed (eg, by clinical findings and echocardiography), right
 heart (Swan-Ganz) catheterization may be done. In cardiac tamponade:
  13/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 There is no early diastolic dip in the ventricular pressure record.
 Diastolic pressures are elevated (about 10 to 30 mm Hg) and equal in all cardiac chambers
 and in the pulmonary artery.
@@ -481,8 +415,7 @@ Anti-DNA and anti-RNA antibody tests may be useful. A tuberculin skin test (usua
 gamma release assay is done, but thees tests can give false-negative results; TB pericarditis can be ruled
 out only by culture of pericardial fluid for acid-fast bacilli.
  14/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Diagnosis references
 1. Adler Y, Charron P, Imazio M, et al: 2015 ESC Guidelines for the diagnosis and management of
 pericardial diseases: The Task Force for the Diagnosis and Management of Pericardial Diseases of
@@ -520,14 +453,6 @@ cardiac tamponade. Close, early follow-up is important in patients who are not h
 causative medications (eg, anticoagulants, procainamide, phenytoin) are stopped. For cardiac
 tamponade, immediate pericardiocentesis (see figure Pericardiocentesis) is done; removal of even a
 small volume of fluid may be lifesaving.
- 15/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
-Ultrasound-Guided Pericardioce...
-VIDEO
- 16/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
 Pericardiocentesis
 Except in emergencies (eg, cardiac tamponade), pericardiocentesis, a potentially lethal
 procedure, should be done using echocardiographic guidance in a cardiac catheterization
@@ -553,8 +478,7 @@ subatmospheric levels. If continued drainage is needed, a plastic catheter may b
 through the needle into the pericardium and the needle withdrawn. The catheter may be
 removed when drainage is less than 25–50 mL/24 hours (usually 2–4 days).
  17/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Pain can usually be controlled with colchicine (eg, 0.5 or 0.6 to 1.0 or 1.2 mg), aspirin (325 to 650 mg
 orally every 4 to 6 hours), or other NSAIDs (eg, ibuprofen 600 to 800 mg orally every 6 to 8 hours) (1). A
 proton pump inhibitor should be considered to improve the gastric tolerability of NSAIDs. The intensity
@@ -574,8 +498,7 @@ routinely because they enhance viral multiplication and recurrence is common whe
 tapered; colchicine may be particularly useful during the corticosteroid taper. An alternative approach
 that may have a lower rate of recurrence is the use of prednisone at a lower dose (0.2 to 0.5 mg/kg
  18/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 orally once a day) for 2 to 4 weeks followed by a slow taper over approximately 3 months. Tuberculous
 and pyogenic pericarditis should be excluded before corticosteroid therapy is initiated. Intrapericardial
 2
@@ -615,8 +538,7 @@ fibrillation, hepatic dysfunction, pericardial calcification) usually require pe
 patients with mild symptoms (because they derive little benefit), heavy calcification, or extensive
 myocardial damage may be poor surgical candidates.
  19/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 The mortality rate for pericardial resection may approach 40% in patients with New York Heart
 Association (NYHA) functional class IV (see table New York Heart Association Classification of Heart
 Failure). Patients who have constrictive pericarditis due to irradiation or a systemic rheumatic disease
@@ -654,11 +576,7 @@ corticosteroids may be added for selected patients in whom the cause is noninfec
 Effusions usually respond to treatment of the cause, but recurrent or persistently
 symptomatic effusions may require drainage (percutaneous or surgical).
  20/21
-
- Pericarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Symptomatic chronic constrictive pericarditis usually requires pericardial resection,
 although patients with early stage constrictive pericarditis can be treated with a trial of
 pharmacotherapy first.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 21/21

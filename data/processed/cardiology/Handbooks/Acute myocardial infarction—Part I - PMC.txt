@@ -1,26 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Acute myocardial infarction—Part I - PMC.pdf",
-  "converted_date": "2026-01-31T14:36:49.695145",
-  "file_size_bytes": 2075939,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Acute myocardial infarction—Part I - PMC.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
 Acute myocardial infarction—Part I - PMC
-As a library, NLM provides access to scientific literature. Inclusion in an NLM database
-does not imply endorsement of, or agreement with, the contents by NLM or the National
 Institutes of Health.
-Learn more: PMC Disclaimer | PMC Copyright Notice
-BMJ. 2002 Apr 6;324(7341):831–834. doi: 10.1136/bmj.324.7341.831
-Acute myocardial infarction—Part I
-Francis Morris, William J Brady
-Article notes Copyright and License information
-PMCID: PMC1122768 PMID: 11934778
 In the clinical assessment of chest pain, electrocardiography is an essential adjunct to the clinical
 history and physical examination. A rapid and accurate diagnosis in patients with acute myocardial
 infarction is vital, as expeditious reperfusion therapy can improve prognosis. The most frequently
@@ -36,7 +15,7 @@ Left bundle branch block
 ST segment depression or enzymatic change are not indications for thrombolytic treatment
  1/18
 
- Acute myocardial infarction—Part I - PMC
+  
 In the early stages of acute myocardial infarction the electrocardiogram may be normal or near
 normal; less than half of patients with acute myocardial infarction have clear diagnostic changes on
 their first trace. About 10% of patients with a proved acute myocardial infarction (on the basis of
@@ -67,7 +46,7 @@ waves may develop within one to two hours of the onset of symptoms of acute myoc
 though often they take 12 hours and occasionally up to 24 hours to appear. The presence of
  2/18
 
- Acute myocardial infarction—Part I - PMC
+  
 pathological Q waves, however, does not necessarily indicate a completed infarct. If ST segment
 elevation and Q waves are evident on the electrocardiogram and the chest pain is of recent onset, the
 patient may still benefit from thrombolysis or direct intervention.
@@ -99,7 +78,7 @@ consequently carries a worse prognosis.
 Localisation of site of infarction
  3/18
 
- Acute myocardial infarction—Part I - PMC
+  
 The distribution of changes recorded in acute myocardial infarction allows the area of infarction to be
 localised, thus indicating the site of arterial disease. Proximal arterial occlusions tend to produce the
 most widespread electrocardiographic abnormalities. The anterior and inferior aspects of the heart
@@ -128,7 +107,7 @@ clavicular line). Lead V4R should be recorded as soon as possible in all patient
 infarction, as ST segment elevation in right ventricular infarction may be short lived.
  4/18
 
- Acute myocardial infarction—Part I - PMC
+  
 The diagnosis of right ventricular infarction is important as it may be associated with
 hypotension. Treatment with nitrates or diuretics may compound the hypotension,
 though the patient may respond to a fluid challenge
@@ -152,100 +131,6 @@ must be differentiated from posterior myocardial infarction. The use of posterio
 show ST segment elevation in patients with posterior infarction. These additional leads therefore
 provide valuable information, and they help in identfying the patients who may benefit from urgent
 reperfusion therapy.
- 5/18
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
-Sequence of changes seen during evolution of myocardial infarction
- 6/18
-🔍
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
-Hyperacute T waves
- 7/18
-🔍
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
-Anterior myocardial infarction with gross ST segment elevation (showing “tombstone” R
-waves)
- 8/18
-🔍
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
-Pathological Q waves in inferior and anterior leads
- 9/18
-🔍
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
-Long standing ST segment elevation and T wave inversion associated with a previous
-anterior myocardial infarction (echocardiography showed a left ventricular aneurysm)
- 10/18
-🔍
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
-An inferolateral myocardial infarction with reciprocal changes in leads I, aVL, V1, and V2
- 11/18
-🔍
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
-Reciprocal changes: presence of widespread ST segment depression in the anterolateral
-leads strongly suggests that the subtle inferior ST segment elevation is due to acute
-infarction
- 12/18
-🔍
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
-Placement of right sided chest leads
- 13/18
-🔍
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
-Acute inferior myocardial infarction with associated right ventricular infarction
- 14/18
-🔍
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
-Acute inferior myocardial infarction with right ventricular involvement
- 15/18
-🔍
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
-Position of V7, V8, and V9 on posterior chest wall
- 16/18
-🔍
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
-Isolated posterior infarction with no associated inferior changes (note ST segment
-depression in leads V1 to V3)
- 17/18
-🔍
-
- Acute myocardial infarction—Part I - PMC
-Figure.
-Open in a new tab
 ST segment elevation in posterior chest leads V8 and V9
 Footnotes
 The ABC of clinical electrocardiography is edited by Francis Morris, consultant in emergency
@@ -255,5 +140,3 @@ director, and vice chair, department of emergency medicine, University of Virgin
 VA, USA; and John Camm, professor of clinical cardiology, St George's Hospital Medical School,
 London. The series will be published as a book in the summer.
 Articles from The BMJ are provided here courtesy of BMJ Publishing Group
- 18/18
-🔍

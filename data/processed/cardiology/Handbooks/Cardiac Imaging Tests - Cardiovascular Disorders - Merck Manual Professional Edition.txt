@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Cardiac Imaging Tests - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:48.109675",
-  "file_size_bytes": 1245825,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Cardiac Imaging Tests - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Cardiac Imaging Tests - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Cardiac Imaging Tests
-By Thomas Cascino, MD, MSc, Michigan Medicine, University of Michigan;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Dec 2023
 Cardiac imaging tests can delineate cardiac structure and function. Standard imaging tests include
 Echocardiography
 Chest x-ray
@@ -42,7 +22,7 @@ and ventricular size and shape and pulmonary vasculature, but additional tests a
 required for precise characterization of cardiac structure and function.
  1/9
 
- Cardiac Imaging Tests - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Chest Radiograph (Prosthetic Heart Valve)
 IMAGE
 ZEPHYR/SCIENCE PHOTO LIBRARY
@@ -56,7 +36,7 @@ evaluate most other cardiac conditions requires a radiopaque contrast agent, whi
 patients with renal impairment.
  2/9
 
- Cardiac Imaging Tests - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Cardiac CT Angiogram
 IMAGE
 LIVING ART ENTERPRISES, LLC/SCIENCE PHOTO LIBRARY
@@ -64,10 +44,10 @@ Abnormal CT of the Heart
 Noncontrast CT Showing Coronary Artery Calcification
 This image shows dense coronary calcifications in the left main (red arrow) and left anterior descending
 artery (green arrow).
-© 2017 Elliot K. Fishman, MD.
+ 
  3/9
 
- Cardiac Imaging Tests - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Cardiac CT (3D Scan of Prosthetic Heart Valve)
 This is an oblique view of the left side, looking toward the front of the chest (left). The prosthetic heart
 valve (white) is visible at center, where the aorta (upper center) meets the heart (lower center). The stitches
@@ -78,41 +58,41 @@ Contrast CT Showing Normal Coronary Arteries – Slide 1
 This contrast CT shows normal coronary arteries. The left main is indicated by the red arrow. The left
 anterior descending and left circumflex arteries are indicated by the green and blue arrows respectively
 and the right coronary artery is indicated by the purple arrow.
-© 2017 Elliot K. Fishman, MD.
+ 
 Contrast CT Showing Normal Coronary Arteries – Slide 2
 This contrast CT shows normal coronary arteries. The left main is indicated by the red arrow. The left
 anterior descending and left circumflex arteries are indicated by the green and blue arrows, respectively,
 and the right coronary artery is indicated by the purple arrow.
-© 2017 Elliot K. Fishman, MD.
+ 
  4/9
 
- Cardiac Imaging Tests - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Contrast CT Showing Normal Coronary Arteries – Slide 3
 This contrast CT shows normal coronary arteries. The left main is indicated by the red arrow. The left
 anterior descending and left circumflex arteries are indicated by the green and blue arrows respectively
 and the right coronary artery is indicated by the purple arrow.
-© 2017 Elliot K. Fishman, MD.
+ 
 Contrast CT Showing Normal Coronary Arteries – Slide 4
 This contrast CT shows normal coronary arteries. The left main is indicated by the red arrow. The left
 anterior descending and left circumflex arteries are indicated by the green and blue arrows respectively
 and the right coronary artery is indicated by the purple arrow.
-© 2017 Elliot K. Fishman, MD.
+ 
 Contrast CT Showing Normal Coronary Arteries – Slide 5
 This contrast CT shows normal coronary arteries. The left main is indicated by the red arrow. The left
 anterior descending and left circumflex arteries are indicated by the green and blue arrows respectively
  5/9
 
- Cardiac Imaging Tests - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 and the right coronary artery is indicated by the purple arrow.
-© 2017 Elliot K. Fishman, MD.
+ 
 Contrast CT Showing Normal Coronary Arteries – Slide 6
 This contrast CT shows normal coronary arteries. The left main is indicated by the red arrow. The left
 anterior descending and left circumflex arteries are indicated by the green and blue arrows respectively
 and the right coronary artery is indicated by the purple arrow.
-© 2017 Elliot K. Fishman, MD.
+ 
 Contrast CT Showing Coronary Artery Disease
 IMAGE
-© 2017 ELLIOT K. FISHMAN, MD.
+ 
 Electron beam CT, formerly called ultrafast CT or cine CT, unlike conventional CT, does not use a
 moving x-ray source and target. Instead, the direction of the x-ray beam is guided by a magnetic field
 and detected by an array of stationary detectors. Because mechanical motion is not required, images
@@ -122,7 +102,7 @@ atherosclerosis. However, spatial resolution is poor and the equipment cannot be
 disorders, so newer standard CT techniques are becoming preferred for cardiac use.
  6/9
 
- Cardiac Imaging Tests - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Multidetector CT (MDCT), with ≥ 64 detectors, has a very rapid scan time; some advanced machines
 may generate an image from a single heartbeat, although typical acquisition time is 30 seconds. Dual-
 source CT uses 2 x-ray sources and 2 multidetector arrays on a single gantry, which cuts scan time in
@@ -147,10 +127,10 @@ that of CT or echocardiography, clearly delineating myocardial wall thickness an
 volumes, intraluminal masses or clot, and valve planes.
 Cardiac MRI Showing Normal Cardiac Anatomy
 IMAGE
-© 2017 ELLIOT K. FISHMAN, MD.
+ 
  7/9
 
- Cardiac Imaging Tests - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Sequential MRI after injecting a paramagnetic contrast agent (gadolinium-diethylenetriamine
 pentaacetic acid [Gd-DTPA]) produces higher resolution of myocardial perfusion patterns than does
 radionuclide imaging. MRI is generally considered the most accurate and reliable measure of ventricular
@@ -189,17 +169,14 @@ patients for revascularization and for avoiding such procedures when only scar t
 use may justify the greater expense of PET. Half-life of F-18 is long enough (110 min) that FDG can often
  8/9
 
- Cardiac Imaging Tests - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 be produced off-site. Techniques that enable FDG imaging to be used with conventional SPECT cameras
 may make this type of imaging widely available. FDG has also been used to detect inflammatory
 cardiovascular disorders (eg, infected pacemaker wires, aortic vasculitis, cardiac sarcoidosis).
 FDG-PET Showing Viable Myocardium
 IMAGE
-© 2017 ELLIOT K. FISHMAN, MD.
+ 
 Carbon-11 acetate uptake appears to reflect overall oxygen metabolism by myocytes. Uptake does not
 depend on such potentially variable factors as blood glucose levels, which can affect FDG distribution. C-
 11 acetate imaging may better predict postintervention recovery of myocardial function than FDG
 imaging. However, because of its 20-minute half-life, C-11 must be produced by an on-site cyclotron.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 9/9

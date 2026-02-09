@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Coronary Artery Bypass Grafting (CABG) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:47.134546",
-  "file_size_bytes": 266759,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Coronary Artery Bypass Grafting (CABG) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Coronary Artery Bypass Grafting (CABG) - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Coronary Artery Bypass Grafting (CABG)
-By Ranya N. Sweis, MD, MS, Northwestern University Feinberg School of Medicine;
-Arif Jivan, MD, PhD, Northwestern University Feinberg School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2024
 Coronary artery bypass grafting (CABG) involves bypassing native coronary arteries that have high-grade
 stenosis or occlusion not amenable to angioplasty with stent insertion. Indications are changing as
 percutaneous interventions are being increasingly used.
@@ -26,7 +6,6 @@ Chest X-Ray of a Patient After Coronary Artery Bypass Surgery
 Hide Details
 Frontal and lateral chest x-ray of a patient post coronary artery bypass surgery showing sternal
 sutures (black arrow) and surgical clips (red arrow).
-© 2017 Elliot K. Fishman, MD.
 Traditional CABG Procedure
 Traditional coronary artery bypass grafting involves thoracotomy via a midline (median) sternotomy. A
 heart-lung machine is used to establish cardiopulmonary bypass (CPB), allowing the heart to be stopped
@@ -37,7 +16,7 @@ circuit. Then the aorta is cross-clamped and the heart is stopped by injection o
 (crystalloid or more commonly blood-based) that also contains substances that help myocardial cells
  1/5
 
- Coronary Artery Bypass Grafting (CABG) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 tolerate ischemia and reperfusion. The cardioplegic solution and the heart are sometimes cooled
 slightly to enhance tolerance of ischemia; the patient’s body is cooled via the CPB machine for similar
 reasons.
@@ -74,7 +53,7 @@ patients with a normal-sized heart, no history of MI, good ventricular function,
 factors, risk is 1 to 2% for stroke.
  2/5
 
- Coronary Artery Bypass Grafting (CABG) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Post-CPB neuropsychiatric effects may develop, probably secondary to microemboli, in about 25 to
 30% (1). Cognitive or behavioral changes are more prevalent in older patients, prompting suspicion that
 these changes are most likely due to diminished "neuronal reserve," making older patients more
@@ -103,15 +82,6 @@ Calculator used to assess risk of operative mortality, major morbidity, and comp
 cardiac procedure categories in the Adult Cardiac Surgery Database (ACSD) (eg, stroke, renal failure).
 CLINICAL CALCULATORS
 EuroSCORE for Cardiac Surgery Risk Assessment (additive version)
-Traditional CABG procedure references
-1. Kulik A, Ruel M, Jneid H, et al: Secondary prevention after coronary artery bypass graft surgery: a
-scientific statement from the American Heart Association. Circulation 131(10):927–964, 2015.
-doi:10.1161/CIR.0000000000000182
-2. Peterson ED, Coombs LP, DeLong ER, Haan CK, Ferguson TB: Procedural volume as a marker of
-quality for CABG surgery. JAMA 291(2):195–201, 2004. doi:10.1001/jama.291.2.195
- 3/5
-
- Coronary Artery Bypass Grafting (CABG) - Cardiovascular Disorders - Merck Manual Professional Edition
 Alternative CABG Procedures
 Alternative techniques seek to limit the complications of traditional coronary artery bypass grafting by
 Avoiding cardiopulmonary bypass (off-pump CABG)
@@ -143,13 +113,3 @@ done endovascularly using special catheters inserted into the arterial and venou
 occluded by a balloon at the end of the aortic catheter rather than an external clamp. Although avoiding
 median sternotomy complications, this technique otherwise has similar rates of mortality and major
 perioperative complications as conventional techniques (1).
-Alternative CABG procedures reference
-1. Teman NR, Hawkins RB, Charles EJ, et al. Minimally Invasive vs Open Coronary Surgery: A Multi-
-Institutional Analysis of Cost and Outcomes. Ann Thorac Surg 2021;111(5):1478-1484.
- 4/5
-
- Coronary Artery Bypass Grafting (CABG) - Cardiovascular Disorders - Merck Manual Professional Edition
-doi:10.1016/j.athoracsur.2020.06.136
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 5/5

@@ -1,25 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Unstable Angina - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:30.673645",
-  "file_size_bytes": 395832,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Unstable Angina - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Unstable Angina - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Unstable Angina
 (Acute Coronary Insufficiency; Preinfarction Angina; Intermediate Syndrome)
-By Ranya N. Sweis, MD, MS, Northwestern University Feinberg School of Medicine;
-Arif Jivan, MD, PhD, Northwestern University Feinberg School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2024 | Modified Jun 2024
 Unstable angina results from acute obstruction of a coronary artery without
 myocardial infarction. Symptoms include chest discomfort with or without
 dyspnea, nausea, and diaphoresis. Diagnosis is by electrocardiography (ECG)
@@ -27,7 +7,6 @@ and the presence or absence of biomarkers. Treatment is with antiplatelets,
 anticoagulants, nitrates, statins, and beta-blockers. Coronary angiography with
 percutaneous intervention or coronary artery bypass surgery is often
 necessary.
-(See also Overview of Acute Coronary Syndromes.)
 Unstable angina is a type of acute coronary syndrome that is defined as one or more of the following in
 patients whose cardiac biomarker levels do not meet criteria for acute myocardial infarction (MI):
 Rest angina that is prolonged (usually > 20 minutes)
@@ -44,9 +23,6 @@ Patients have symptoms of angina pectoris (typically chest pain or discomfort) e
 discomfort of unstable angina usually is more intense, lasts longer, is precipitated by less exertion,
 occurs spontaneously at rest, is progressive (crescendo) in nature, or involves any combination of these
 features.
- 1/8
-
- Unstable Angina - Cardiovascular Disorders - Merck Manual Professional Edition
 Unstable angina is classified based on severity and clinical situation (see table Canadian Cardiovascular
 Classification System for Angina Pectoris). Also considered are whether unstable angina occurs during
 treatment for chronic stable angina and whether transient changes in ST-T waves occur during angina. If
@@ -79,9 +55,6 @@ done at presentation and 6 hours later.
 Creatine kinase MB fraction (CK-MB) is not elevated in unstable angina. Cardiac troponin, particularly
 when measured using high-sensitivity troponin tests, may be slightly increased but does not meet the
 criteria for myocardial infarction (above the 99th percentile of the upper reference limit or URL).
- 2/8
-
- Unstable Angina - Cardiovascular Disorders - Merck Manual Professional Edition
 Coronary angiography
 Patients with unstable angina whose symptoms have resolved typically undergo angiography within the
 first 24 to 48 hours of hospitalization to detect lesions that may require treatment. Coronary
@@ -117,9 +90,6 @@ and timing of revascularization depend on the clinical picture. In clinically un
 with ongoing symptoms, hypotension or sustained arrhythmias), urgent angiography with
 revascularization is indicated. In clinically stable patients, angiography with revascularization may be
 deferred for 24 to 48 hours (see figure Approach to Unstable Angina).
- 3/8
-
- Unstable Angina - Cardiovascular Disorders - Merck Manual Professional Edition
 Approach to Unstable Angina
 * Morphine should be used judiciously (eg, if nitroglycerin is contraindicated or if the patient
 has symptoms despite nitroglycerin therapy). Data suggest that morphine attenuates activity of
@@ -131,9 +101,6 @@ events is termed uncomplicated.
 Left main or left main equivalent disease
 Left ventricular dysfunction
 Diabetes
- 4/8
-
- Unstable Angina - Cardiovascular Disorders - Merck Manual Professional Edition
 Also, lesions that are long or near bifurcation points are often not amenable to PCI.
 CABG = coronary artery bypass grafting; GP = glycoprotein; NSTEMI = non–ST-segment elevation
 myocardial infarction; PCI = percutaneous coronary intervention; STEMI = ST-segment elevation
@@ -169,9 +136,6 @@ of heparin-induced thrombocytopenia.
 Consider a glycoprotein IIb/IIIa inhibitor during PCI for patients with high-risk lesions (eg, high thrombus
 burden, no reflow). Abciximab, tirofiban, and eptifibatide appear to have equivalent efficacy, and the
 choice of agent should depend on other factors (eg, cost, availability, familiarity—3).
- 5/8
-
- Unstable Angina - Cardiovascular Disorders - Merck Manual Professional Edition
 Chest pain can be treated with nitroglycerin or sometimes morphine. Nitroglycerin is preferable to
 morphine, which should be used judiciously (eg, if a patient has a contraindication to nitroglycerin or is
 in pain despite maximal nitroglycerin therapy). Nitroglycerin is initially given sublingually, followed by
@@ -208,32 +172,12 @@ Patients who did not have coronary angiography during admission, have no high-ri
 failure, recurrent angina, ventricular tachycardia or ventricular fibrillation after 24 hours, mechanical
 complications such as new murmurs, shock), and have an ejection fraction > 40% usually should have
 stress testing of some sort before or shortly after discharge.
- 6/8
-
- Unstable Angina - Cardiovascular Disorders - Merck Manual Professional Edition
 The acute illness and treatment of unstable angina should be used to strongly motivate the patient to
 modify risk factors. Evaluating the patient’s physical and emotional status and discussing them with the
 patient, advising about lifestyle (eg, smoking, diet, work and play habits, exercise), and aggressively
 managing risk factors may improve prognosis.
 On discharge, all patients should be continued on appropriate antiplatelets, statins, antianginals, and
 other medications based on comorbidities.
-Treatment references
-1. Nakayama N, Yamamoto T, Kikuchi M, et al: Prehospital Administration of Aspirin and
-Nitroglycerin for Patients With Suspected Acute Coronary Syndrome—A Systematic Review. Circ
-Rep 4(10):449–457, 2022. doi:10.1253/circrep.CR-22-0060
-2. Antithrombotic Trialists' Collaboration: Collaborative meta-analysis of randomised trials of
-antiplatelet therapy for prevention of death, myocardial infarction, and stroke in high risk patients
-[published correction appears in BMJ 2002 Jan 19;324(7330):141]. BMJ 324(7329):71–86, 2002.
-doi:10.1136/bmj.324.7329.71
-3. Amsterdam EA, Wenger NK, Brindis RG, et al: 2014 AHA/ACC Guideline for the Management of
-Patients With Non–ST-Elevation Acute Coronary Syndromes. J Am Coll Cardiol 64 (24):e139–e228,
-2014. doi: 10.1016/j.jacc.2014.09.017
-4. Kubica J, Adamski P, Ostrowska M, et al: Morphine delays and attenuates ticagrelor exposure
-and action in patients with myocardial infarction: the randomized, double-blind, placebo-
-controlled IMPRESSION trial. Eur Heart J 37(3):245–252, 2016. doi: 10.1093/eurheartj/ehv547
-5. Meine TJ, Roe MT, Chen AY, et al: Association of intravenous morphine use and outcomes in
-acute coronary syndromes: results from the CRUSADE Quality Improvement Initiative. Am Heart J
-149(6):1043-1049, 2005. doi 10.1016/j.ahj.2005.02.010
 Prognosis for Unstable Angina
 Prognosis after an episode of unstable angina depends upon how many coronary arteries are diseased,
 which arteries are affected, and how severely they are affected. For example, stenosis of the proximal
@@ -244,11 +188,7 @@ with 1- or 2-vessel disease) warrants a lower threshold for revascularization.
 Overall, a substantial proportion of patients with unstable angina have a myocardial infarction within 3
 months of onset; sudden death is less common (see table Risk of Adverse Events at 14 Days in Unstable
 Angina or NSTEMI). Marked ECG changes with chest pain indicate higher risk of subsequent MI or death.
-CLINICAL CALCULATORS
 Unstable Angina Outcome Prediction
- 7/8
-
- Unstable Angina - Cardiovascular Disorders - Merck Manual Professional Edition
 Key Points
 Unstable angina is new, worsening, or rest angina in patients whose cardiac biomarkers
 do not meet criteria for myocardial infarction.
@@ -261,6 +201,3 @@ immediate angiography.
 For stable patients, do angiography within 24 to 48 hours of hospitalization.
 Following recovery, initiate or continue antiplatelet agents, beta-blockers, angiotensin-
 converting enzyme inhibitors, and statins.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 8/8

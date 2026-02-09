@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Cardiac Resynchronization Therapy (CRT) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:07.610279",
-  "file_size_bytes": 143879,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Cardiac Resynchronization Therapy (CRT) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Cardiac Resynchronization Therapy (CRT) - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
-Cardiac Resynchronization Therapy (CRT)
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2025
+ 
 The decision to treat an arrhythmia depends on its symptoms and its potential severity. Treatment is
 directed at causes. If necessary, direct antiarrhythmic therapy, including antiarrhythmic drugs,
 cardioversion-defibrillation, implantable cardioverter-defibrillators (ICDs), pacemakers (and a special
@@ -35,7 +16,7 @@ Left ventricular end-diastolic dimension ≥ 55 mm
 Left ventricular ejection fraction ≤ 35% in sinus rhythm
 Cardiac dyssynchrony can be suspected based on electrocardiogram (ECG) parameters (eg, left bundle
 branch block) and advanced echocardiography techniques (eg, tissue Doppler index, strain rate).
-Cardiac resynchronization therapy (CRT) involves use of a cardiac pacing system to resynchronize cardiac
+  involves use of a cardiac pacing system to resynchronize cardiac
 contraction by restoring more physiologic timing to the electrical activation of different chambers. Such
 systems usually include a right atrial lead, right ventricular lead, and left ventricular lead. Biventricular
 cardiac resynchronization therapy (BiV-CRT) is a form of CRT that typically involves pacing of the right
@@ -45,17 +26,6 @@ bundle branch area) (2).
 In patients with heart failure who have New York Heart Association (see table NYHA classification) class
 II, III, or IV symptoms, CRT can reduce hospitalization for heart failure and reduce all-cause mortality (1).
 However, there is little to no benefit in patients with permanent atrial fibrillation, right bundle branch
- 1/2
 
- Cardiac Resynchronization Therapy (CRT) - Cardiovascular Disorders - Merck Manual Professional Edition
 block, nonspecific intraventricular conduction delay, or only mild prolongation of QRS duration (< 150
 millisecond).
-References
-1. McAloon CJ, Theodoreson MD, Hayat S, Osman F. Cardiac resynchronization therapy and its role
-in the management of heart failure. Br J Hosp Med (Lond) 2017;78(6):312-319.
-doi:10.12968/hmed.2017.78.6.312
-2. Derndorfer M, Kollias G, Martinek M, Pürerfellner H. Is Conduction System Pacing Going to Be
-the New Gold Standard for Cardiac Resynchronization Therapy? J Clin Med 2024;13(15):4320.
-Published 2024 Jul 24. doi:10.3390/jcm13154320
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 2/2

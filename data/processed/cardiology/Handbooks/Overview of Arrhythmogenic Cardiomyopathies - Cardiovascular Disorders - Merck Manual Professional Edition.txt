@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Overview of Arrhythmogenic Cardiomyopathies - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:38.733445",
-  "file_size_bytes": 130000,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of Arrhythmogenic Cardiomyopathies - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Overview of Arrhythmogenic Cardiomyopathies - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Overview of Arrhythmogenic Cardiomyopathies
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2024 | Modified Aug 2024
 Although any dilated or hypertrophic cardiomyopathy (see Overview of Cardiomyopathies) can produce
 cardiac and systemic factors that predispose to a number of different arrhythmias, including
 bradyarrhythmias, atrial and ventricular tachyarrhythmias, and sudden death, certain cardiomyopathies
@@ -45,12 +26,3 @@ Management depends on the cause of the cardiomyopathy and the specific rhythm di
 typically includes standard measures for heart failure (sometimes including cardiac transplantation),
 antiarrhythmic medications, and sometimes an implantable cardioverter-defibrillator (ICD) and/or
 catheter ablation of the arrhythmogenic substrate.
-Reference
- 1/2
-
- Overview of Arrhythmogenic Cardiomyopathies - Cardiovascular Disorders - Merck Manual Professional Edition
-1. D'Ascenzi F, Valentini F, Pistoresi S, et al. Causes of sudden cardiac death in young athletes and
-non-athletes: systematic review and meta-analysis: Sudden cardiac death in the young. Trends
-Cardiovasc Med 2022 Jul;32(5):299-308. doi: 10.1016/j.tcm.2021.06.001
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 2/2

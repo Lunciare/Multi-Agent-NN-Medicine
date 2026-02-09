@@ -1,19 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Understanding the echocardiogram - Cardiology Explained - NCBI Bookshelf.pdf",
-  "converted_date": "2026-01-31T14:39:49.105147",
-  "file_size_bytes": 325349,
-  "original_format": "pdf",
-  "document_type": "Textbooks",
-  "source_folder": "Textbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Textbooks/Understanding the echocardiogram - Cardiology Explained - NCBI Bookshelf.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Understanding the echocardiogram - Cardiology Explained - NCBI Bookshelf
-NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
-Ashley EA, Niebauer J. Cardiology Explained. London: Remedica; 2004.
+Understanding the echocardiogram - Cardiology Explained
 Chapter 4 Understanding the echocardiogram
 Although few generalists actually perform echocardiograms, most order or have to interpret them
 at some stage. Our aim then is not to explain how to carry out echocardiography, but how to
@@ -52,9 +37,6 @@ Figure 2).
 Figure 2
 M-mode image of (a) the aorta/left atrium and (b) the mitral
 valve, both in a healthy heart.
- 1/5
-
- Understanding the echocardiogram - Cardiology Explained - NCBI Bookshelf
 Doppler imaging
 The concept of Doppler imaging is familiar to all those who have heard the note of a police siren
 change as it moves past them – as the police siren travels towards you, the frequency of the wave
@@ -95,8 +77,7 @@ infective endocarditis – if vegetations are not seen on transthoracic echo, bu
 high, or with prosthetic valves
 to rule out an embolic source (especially in atrial fibrillation)
  2/5
-
- Understanding the echocardiogram - Cardiology Explained - NCBI Bookshelf
+ 
 acute dissection
 mitral valve (MV) disease preoperatively
 Contrast echocardiography
@@ -139,8 +120,7 @@ Diastolic dysfunction
 A normal LV ejection fraction in the presence of the heart failure syndrome leads to a search for
 diastolic dysfunction. Typical echo findings in diastolic dysfunction are normal LV cavity size,
  3/5
-
- Understanding the echocardiogram - Cardiology Explained - NCBI Bookshelf
+ 
 thickened ventricle, and reversed E/A ratio.
 Wall-motion abnormality
 When ischemia occurs, contractile abnormalities of segments of the myocardium can be detected
@@ -181,8 +161,7 @@ diagnose only on the basis of the parasternal long axis view. Some go so far as 
 invalid to diagnose MVP on the 4-chamber view at all.
 Paraprosthetic regurgitation
  4/5
-
- Understanding the echocardiogram - Cardiology Explained - NCBI Bookshelf
+ 
 Although metal valves stop ultrasound completely, echo is a useful tool for studying prosthetic
 valve function. The TEE approach is often used.
 Infective endocarditis
@@ -200,9 +179,3 @@ Although hypertrophy is variable, echo remains the screening tool of choice in s
 The classic features are asymmetrical hypertrophy of the interventricular septum and anterior
 movement of the MV in systole. LV function is normal, and there may be dynamic LV outflow
 tract obstruction.
-Further reading
-1. Chambers JB. Clinical Echocardiography. London: BMJ Books, 1995.
-2. Feigenbaum HMD. Echocardiography, 5th edn. Philadelphia: Lea & Febiger, 1994.
-Copyright © 2004, Remedica.
-Bookshelf ID: NBK2215
- 5/5

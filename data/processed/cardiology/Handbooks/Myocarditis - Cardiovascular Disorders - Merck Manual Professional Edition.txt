@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Myocarditis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:26.631511",
-  "file_size_bytes": 451934,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Myocarditis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Myocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Myocarditis
-By Brian D. Hoit, MD, Case Western Reserve University School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised May 2024 | Modified Oct 2025
 Myocarditis is inflammation of the myocardium with necrosis of cardiac
 myocytes. Myocarditis may be caused by many disorders (eg, infection,
 cardiotoxins, medications, and systemic disorders such as sarcoidosis) but is
@@ -44,9 +25,6 @@ Myocardial inflammation can be diffuse or focal. Inflammation can extend into th
 myopericarditis. The extent of myocardial involvement and extension into adjacent pericardium can
 determine the type of symptoms. Diffuse involvement can lead to heart failure, arrhythmias and
 sometimes sudden cardiac death. Focal involvement is less likely to cause heart failure but can lead to
- 1/8
-
- Myocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
 arrhythmias and sudden cardiac death. Involvement of the pericardium leads to chest pain and other
 symptoms typical of pericarditis. Some patients remain asymptomatic whether myocardial involvement
 is focal or diffuse.
@@ -79,9 +57,6 @@ Lyme disease
 Bacterial infections Group A streptococci
 Staphylococci
 Tuberculosis
- 2/8
-
- Myocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
 Cause Examples
 Alcohol
 Cardiotoxins
@@ -118,22 +93,6 @@ Patients with giant cell myocarditis present in cardiogenic shock and frequently
 ventricular arrhythmias or complete heart block. Giant cell myocarditis has a poor prognosis but is
 important to rule out in the setting of an otherwise healthy patient presenting in fulminant heart failure
 or with intractable arrhythmias because immunosuppressive therapy can help improve survival.
- 3/8
-
- Myocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
-Etiology references
-1. Cooper LT Jr. Myocarditis. N Engl J Med 2009;360(15):1526-1538. doi:10.1056/NEJMra0800028
-2. Tschöpe C, Ammirati E, Bozkurt B, et al. Myocarditis and inflammatory cardiomyopathy: current
-evidence and future directions. Nat Rev Cardiol 2021;18(3):169-193. doi:10.1038/s41569-020-00435-
-x
-3. Boehmer TK, Kompaniyets L, Lavery AM, et al. Association Between COVID-19 and Myocarditis
-Using Hospital-Based Administrative Data - United States, March 2020-January 2021. MMWR Morb
-Mortal Wkly Rep 2021;70(35):1228-1232. Published 2021 Sep 3. doi:10.15585/mmwr.mm7035e5
-4. Patone M, Mei XW, Handunnetthi L, et al. Risk of Myocarditis After Sequential Doses of COVID-19
-Vaccine and SARS-CoV-2 Infection by Age and Sex. Circulation 2022;146(10):743-754.
-doi:10.1161/CIRCULATIONAHA.122.059970
-5. Zhong Z, Yang Z, Peng Y, Wang L, Yuan X. Diagnosis and treatment of eosinophilic myocarditis. J
-Transl Autoimmun 2021;4:100118. Published 2021 Sep 2. doi:10.1016/j.jtauto.2021.100118
 Symptoms and Signs of Myocarditis
 The clinical presentation of myocarditis is variable. Patients may be minimally symptomatic or have
 fulminant heart failure and fatal arrhythmias. Symptoms depend on the etiology of the myocarditis as
@@ -158,8 +117,7 @@ arrhythmias may be indicative of giant cell myocarditis.
 Myocarditis can be acute, subacute, or chronic. There are no set time-frames for each phase. The acute
 phase typically lasts a few days while the subacute phase lasts weeks to months. If myocarditis does not
  4/8
-
- Myocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 resolve after a few months, it is called chronic myocarditis. In some cases, myocarditis can lead to
 dilated cardiomyopathy.
 Diagnosis of Myocarditis
@@ -186,13 +144,11 @@ where late gadolinium enhancement is usually subendocardial with extension to mi
 epicardial walls). Other diagnostic features of myocarditis on cardiac MRI are the presence of
 myocardial edema and myocardial hyperemia relative to skeletal muscle.
  5/8
-
- Myocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 MRI of Patient with Myocarditis and Pericardial Effusion
 Hide Details
 Patchy mid wall (bottom white arrow) and epicardial (top white arrow) delayed enhancement on
 MRI is consistent with myocarditis. This patient also has a pericardial effusion (red arrow).
-© 2017 Elliot K. Fishman, MD.
 Endomyocardial biopsy showing inflammatory infiltrate of the myocardium with necrosis of adjacent
 myocytes is the gold standard for diagnosis of myocarditis. However, this test has low sensitivity for
 diagnosis for myocarditis due to sampling error. Therefore, a positive biopsy result is diagnostic for
@@ -211,8 +167,7 @@ hypersensitivity myocarditis.
 Cardiac catheterization may be useful for ruling out ischemia since myocarditis can mimic myocardial
 infarction or myocardial ischemia.
  6/8
-
- Myocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 In other cases, a biopsy of myocardial tissue may be needed to establish a diagnosis. Acid-fast stains of
 myocardial tissue are essential if tuberculosis (TB) is considered possible (TB myocarditis can be
 aggressive and can worsen rapidly with corticosteroid therapy). Myocardial samples are examined for
@@ -222,10 +177,6 @@ Other tests include acute-phase reactants, routine chemistry tests, cultures, au
 when appropriate, tests for HIV infection, SARS-CoV-2 infection, histoplasmosis complement fixation or
 Lyme disease titers (in endemic areas), and antibody tests for coxsackievirus, influenza virus, and
 streptococcus.
-Diagnosis reference
-1. Tschöpe C, Ammirati E, Bozkurt B, et al. Myocarditis and inflammatory cardiomyopathy: current
-evidence and future directions. Nat Rev Cardiol 2021;18(3):169-193. doi:10.1038/s41569-020-00435-
-x
 Treatment of Myocarditis
 Treatment of heart failure and arrhythmias
 Treatment of underlying disorder
@@ -249,27 +200,6 @@ immediate discontinuation of the causative medication or cardiotoxin and cortico
 Patients with giant cell myocarditis have improved survival when treated with immunosuppressants,
 usually corticosteroids and cyclosporine (5). Myocarditis caused by sarcoidosis can be treated with
 corticosteroids or other immunosuppressants (6).
- 7/8
-
- Myocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
-Treatment references
-1. Souza KM, Carrasco G, Rojas-Cortés R, et al. Effectiveness of nirmatrelvir-ritonavir for the
-treatment of patients with mild to moderate COVID-19 and at high risk of hospitalization:
-Systematic review and meta-analyses of observational studies. PLoS One 2023;18(10):e0284006.
-doi:10.1371/journal.pone.0284006
-2. WHO Guidelines for Pharmacological Management of Pandemic Influenza A(H1N1) 2009 and
-Other Influenza Viruses. Geneva: World Health Organization; February 2010.
-3. Kamarullah W, Nurcahyani, Mary Josephine C, Bill Multazam R, Ghaezany Nawing A, Dharma S.
-Corticosteroid Therapy in Management of Myocarditis Associated with COVID-19; a Systematic
-Review of Current Evidence. Arch Acad Emerg Med 2021;9(1):e32. Published 2021 Apr 16.
-doi:10.22037/aaem.v9i1.1153
-4. Ammirati E, Moslehi JJ. Diagnosis and Treatment of Acute Myocarditis: A Review. JAMA
-2023;329(13):1098-1113. doi:10.1001/jama.2023.3371
-5. Cooper LT Jr, Hare JM, Tazelaar HD, et al. Usefulness of immunosuppression for giant cell
-myocarditis. Am J Cardiol 2008;102(11):1535-1539. doi:10.1016/j.amjcard.2008.07.041
-6. Baughman RP, Valeyre D, Korsten P, et al. ERS clinical practice guidelines on treatment of
-sarcoidosis. Eur Respir J 2021;58(6):2004079. Published 2021 Dec 16. doi:10.1183/13993003.04079-
-2020
 Key Points
 Clinical presentation of myocarditis is variable, ranging from subclinical symptoms to
 fulminant heart failure, intractable arrhythmias, and sudden cardiac death.
@@ -278,6 +208,3 @@ MRI; do endomyocardial biopsy if patients present with fulminant heart failure o
 intractable arrhythmias or if findings would change treatment.
 Treat patients with heart failure and arrhythmias; immunosuppression is added for
 sarcoidosis or medication-related myocarditis and giant cell myocarditis.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 8/8

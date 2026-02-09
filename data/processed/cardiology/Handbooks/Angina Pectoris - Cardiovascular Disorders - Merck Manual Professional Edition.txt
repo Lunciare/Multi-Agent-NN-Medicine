@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:31.519323",
-  "file_size_bytes": 386784,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
 Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
-Angina Pectoris
-By Ranya N. Sweis, MD, MS, Northwestern University Feinberg School of Medicine;
-Arif Jivan, MD, PhD, Northwestern University Feinberg School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2024 | Modified Nov 2025
 Angina pectoris is a clinical syndrome of precordial discomfort or pressure due
 to transient myocardial ischemia without infarction. It is typically precipitated
 by exertion or psychologic stress and relieved by rest or sublingual
@@ -44,7 +24,7 @@ contractility, narrowing of a coronary artery typically results in angina that o
 relieved by rest.
  1/13
 
- Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 In addition to exertion, cardiac workload can be increased by disorders such as hypertension, aortic
 stenosis, aortic regurgitation, or hypertrophic cardiomyopathy. In such cases, angina can result whether
 atherosclerosis is present or not. These disorders can also decrease relative myocardial perfusion
@@ -81,7 +61,7 @@ patients often ascribe symptoms to indigestion; belching may even relieve the sy
 patients have dyspnea due to the sharp, reversible increase in LV filling pressure that often
  2/13
 
- Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 accompanies ischemia. Frequently, the patient’s description is imprecise, and whether the problem is
 angina, dyspnea, or both may be difficult to determine. Because ischemic symptoms require a minute
 or more to resolve, brief, fleeting sensations rarely represent angina.
@@ -123,7 +103,7 @@ Wind
 Emotional stress
  3/13
 
- Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Activities Triggering
 Class
 Chest Pain
@@ -137,15 +117,6 @@ Any physical activity
 4
 Sometimes occurring at
 rest
-Adapted from Braunwald E, Antman EM, Beasley JW,
-et al: ACC/AHA Guidelines for the management of
-patients with unstable angina and non-ST segment
-elevation myocardial infarction: A report of the
-American College of Cardiology/American Heart
-Association Task Force on Practice Guidelines
-(Committee on the management of patients with
-unstable angina). Circulation 102(10):1193–209,
-2000. doi: 10.1161/01.cir.102.10.1193
 Attacks may vary from several a day to symptom-free intervals of weeks, months, or years. Attacks may
 increase in frequency (called crescendo angina), leading to an MI or death. Conversely, attacks may
 gradually decrease or disappear if adequate collateral coronary circulation develops, the ischemic area
@@ -164,7 +135,7 @@ Because angina characteristics are usually predictable for a given patient, any 
 rest, new-onset angina, increasing angina, new nocturnal angina, or new angina decubitus) should be
  4/13
 
- Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 considered serious, especially when the angina is severe (ie, Canadian Cardiovascular Society class 3 or
 4). Such changes are termed unstable angina and require prompt evaluation and treatment.
 Diagnosis of Angina Pectoris
@@ -200,7 +171,7 @@ Between angina attacks, the ECG (and usually LV function) at rest is normal in a
 with a typical history of angina pectoris, even those with extensive 3-vessel disease. In the remaining
  5/13
 
- Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 70%, the ECG shows evidence of previous infarction, hypertrophy, or nonspecific ST-segment and T-
 wave (ST-T) abnormalities. An abnormal resting ECG alone does not establish or refute the diagnosis.
 Stress testing
@@ -241,7 +212,7 @@ probe on the tip of a catheter is inserted in the coronary arteries during angio
 provide more information about coronary anatomy than other tests; it is indicated when the nature of
  6/13
 
- Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 lesions is unclear or when apparent disease severity does not match symptom severity. Used with PCI, it
 can help ensure optimal placement of stents.
 Guidewires with pressure or flow sensors can be used to estimate blood flow across stenoses. Blood
@@ -281,7 +252,7 @@ Other indications for MDRCT coronary angiography include
 Asymptomatic high-risk patients
  7/13
 
- Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Patients with atypical or typical angina who have inconclusive exercise stress test results,
 cannot undergo exercise stress testing, or need to undergo major noncardiac surgery
 Patients in whom invasive coronary angiography was unable to locate a major coronary
@@ -295,23 +266,6 @@ Indications for cardiac MRI include evaluation of cardiac structure and function
 myocardial viability. Cardiac MRI, specifically stress perfusion MRI and quantitative myocardial blood
 flow analysis, may also be indicated for diagnosis and risk assessment in patients with either known or
 suspected CAD.
-Diagnosis references
-1. Fletcher GF, Ades PA, Kligfield P, et al: Exercise standards for testing and training: a scientific
-statement from the American Heart Association. Circulation 128(8):873–934, 2013.
-doi:10.1161/CIR.0b013e31829b5b44
-2. Araki M, Park SJ, Dauerman HL, et al: Optical coherence tomography in coronary atherosclerosis
-assessment and intervention. Nat Rev Cardiol 19(10):684–703, 2022. doi:10.1038/s41569-022-
-00687-9
-3. Wulandari AP, Pintaningrum Y, Adheriyani R. Outcomes of optical coherence tomography
-guided percutaneous coronary intervention against angiography guided in patients with coronary
-artery disease: A systematic reviews and meta-analyses. Indian Heart J 2023;75(2):108-114.
-doi:10.1016/j.ihj.2023.01.009
-4. Taylor AJ, Cerqueira M, Hodgson J McB, et al: ACCF/SCCT/ACR/AHA/ASE/ASNC/SCAI/SCMR 2010
-Appropriate Use Criteria for Cardiac Computed Tomography. J Am Coll Cardiol 56: 1864–1894,
-2010. doi: 10.1016/j.jacc.2010.07.005
-5. Gulati M, Levy PD, Mukherjee D, et al: 2021 AHA/ACC Guideline for Evaluation and Diagnosis of
-Chest Pain: A Report of the American College of Cardiology/American Heart Association Joint
-Committee on Clinical Practice Guidelines. Circulation 144:e368–e454, 2021.
 
 Treatment of Angina Pectoris
 Modification of risk factors (smoking, blood pressure, lipids)
@@ -322,7 +276,7 @@ Angiotensin-converting enzyme (ACE) inhibitors and statins
 Revascularization if symptoms persist despite medical therapy
  8/13
 
- Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Reversible risk factors are modified as much as possible. People who smoke should stop smoking; 2 or
 more years after stopping smoking, risk of MI is reduced to that of people who never smoked.
 Hypertension (BP > 130/80 for patients with CAD) is treated diligently because even mild hypertension
@@ -357,7 +311,7 @@ not lost. Because the drug deteriorates quickly, small amounts should be obtaine
 To prevent ischemia, several classes of medications are used:
  9/13
 
- Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Antiplatelet agents: All patients diagnosed with coronary artery disease or at high risk of
 developing CAD
 Beta-blockers: Most patients, unless contraindicated or not tolerated
@@ -400,7 +354,7 @@ nifedipine, amlodipine, felodipine) have no chronotropic effects and vary substa
 inotropic effects. Shorter-acting dihydropyridines may cause acute hypotension and reflex tachycardia
  10/13
 
- Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 and are associated with increased mortality in patients with CAD; they should not be used alone to treat
 stable angina pectoris. Longer-acting formulations of dihydropyridines have fewer tachycardic effects;
 they are most commonly used with a beta-blocker. Among longer-acting dihydropyridines, amlodipine
@@ -442,34 +396,9 @@ with PCI for patients with diabetes and proximal left anterior descending diseas
 vessel disease, outcomes with pharmacologic therapy, PCI, and CABG are similar; exceptions are left
  11/13
 
- Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 main disease and proximal left anterior descending disease, for which revascularization appears
 advantageous.
-Treatment references
-1. Lawton JS, Tamis-Holland JE, Bangalore S, et al: 2021 ACC/AHA/SCAI guideline for coronary artery
-revascularization: a report of the ACC/AHA Joint Committee on Clinical Practice Guidelines. J Am
-Coll Cardiol 79(2):e21–e129, 2022. doi: 10.1016/j.jacc.2021.09.006
-2. Nerlekar N, Ha FJ, Verma KP, et al: Percutaneous Coronary Intervention Using Drug-Eluting
-Stents Versus Coronary Artery Bypass Grafting for Unprotected Left Main Coronary Artery
-Stenosis: A Meta-Analysis of Randomized Trials. Circ Cardiovasc Interv 9(12):e004729, 2016.
-doi:10.1161/CIRCINTERVENTIONS.116.004729
-3. Stone GW, Sabik JF, Serruys PW, et al. Everolimus-Eluting Stents or Bypass Surgery for Left Main
-Coronary Artery Disease [published correction appears in N Engl J Med 2019 Oct
-31;381(18):1789]. N Engl J Med 2016;375(23):2223-2235. doi:10.1056/NEJMoa1610227
-4. Stone GW, Kappetein AP, Sabik JF, et al. Five-Year Outcomes after PCI or CABG for Left Main
-Coronary Disease [published correction appears in N Engl J Med. 2020 Mar 12;382(11):1078]. N
-Engl J Med. 2019;381(19):1820-1830. doi:10.1056/NEJMoa1909406
-5. Farkouh ME, Domanski M, Sleeper LA, et al: Strategies for multivessel revascularization in
-patients with diabetes. N Engl J Med 367(25):2375–2384, 2012. doi:10.1056/NEJMoa1211585
-6. Influence of diabetes on 5-year mortality and morbidity in a randomized trial comparing CABG
-and PTCA in patients with multivessel disease: the Bypass Angioplasty Revascularization
-Investigation (BARI). Circulation 1997;96(6):1761-1769. doi:10.1161/01.cir.96.6.1761
-7. BARI 2D Study Group, Frye RL, August P, et al. A randomized trial of therapies for type 2 diabetes
-and coronary artery disease. N Engl J Med 2009;360(24):2503-2515. doi:10.1056/NEJMoa0805796
-8. Serruys PW, Morice MC, Kappetein AP, et al. Percutaneous coronary intervention versus
-coronary-artery bypass grafting for severe coronary artery disease [published correction appears
-in N Engl J Med 2013 Feb 7;368(6):584]. N Engl J Med 2009;360(10):961-972.
-doi:10.1056/NEJMoa0804626
 Prognosis for Angina Pectoris
 The main adverse outcomes of angina pectoris are unstable angina, myocardial infarction, and sudden
 death due to arrhythmias. Annual mortality rate is approximately 1.4% in patients with angina, no
@@ -483,18 +412,6 @@ anterior descending artery indicate particularly high risk. Although prognosis c
 and severity of coronary arteries affected, prognosis is surprisingly good for patients with stable angina,
 even those with 3-vessel disease, if ventricular function is normal.
  12/13
-
- Angina Pectoris - Cardiovascular Disorders - Merck Manual Professional Edition
-Prognosis references
-1. Fox K, Garcia MA, Ardissino D, et al. Guidelines on the management of stable angina pectoris:
-executive summary: The Task Force on the Management of Stable Angina Pectoris of the European
-Society of Cardiology. Eur Heart J 2006;27(11):1341-1381. doi:10.1093/eurheartj/ehl001
-2. Virani SS, Newby LK, Arnold SV, et al. 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the
-Management of Patients With Chronic Coronary Disease: A Report of the American Heart
-Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines
-[published correction appears in Circulation 2023 Sep 26;148(13):e148] [published correction
-appears in Circulation 2023 Dec 5;148(23):e186]. Circulation 2023;148(9):e9-e119.
-doi:10.1161/CIR.0000000000001168
 Key Points
 Angina pectoris occurs when cardiac workload exceeds the ability of coronary arteries to
 supply an adequate amount of oxygenated blood.
@@ -511,6 +428,3 @@ Maintain patients on an antiplatelet agent, a beta-blocker, and a statin, and ad
 calcium channel blocker for further symptom prevention if needed.
 Consider revascularization if significant angina persists despite pharmacologic therapy
 or if lesions noted during angiography indicate high risk of mortality.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 13/13

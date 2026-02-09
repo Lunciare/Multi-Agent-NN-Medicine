@@ -1,22 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Stress cardiomyopathy overview - wikidoc.pdf",
-  "converted_date": "2026-01-31T14:36:25.373822",
-  "file_size_bytes": 329763,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Stress cardiomyopathy overview - wikidoc.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Search WikiDoc
-Search Try Exact Match
 Stress cardiomyopathy overview
-Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailto:charlesmichaelgibson@gmail.com);
-Associate Editor(s)-in-Chief: Dima Nimri, M.D. [2] (mailto:dnimri@bidmc.harvard.edu) Arzu
-Kalayci, M.D. [3] (mailto:akalayci@bidmc.harvard.edu)
 Overview
 Stress cardiomyopathy is a relatively new disease, with the first case documented in literature
 under the name of Takotsobu Cardiomyopathy in Japan in 1991. It is not very well understood, but
@@ -47,9 +29,6 @@ Causes
 The cause of stress cardiomyopathy is largely unknown. However, it is usually triggered by
 emotional and/or physical stress and may be related to certain medical conditions.
 Differentiating Stress Cardiomyopathy from Other Diseases
-Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
- 1/4
-
 The clinical presentation, laboratory findings and imaging studies of stress cardiomyopathy
 resembles that of anterior MI and must be differentiated from it. Also, stress cardiomyopathy must
 be differentiated from other medical conditions, such as pheochromocytoma, dilated
@@ -84,9 +63,6 @@ Elevated levels of catecholamines, cardiac enzymes and BNP may be seen in patien
 cardiomyopathy. However, none of these laboratory findings are specific to stress
 cardiomyopathy.[2][10][14][17]
 ECG
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 2/4
-
 ECG findings in stress cardiomyopathy are similar to those seen in anterior MI. The most common
 findings include ST elevation in the precordial leads, T wave inversion and the formation of a Q
 wave.[19][2] Findings on ECG include:[2][10][13][16][14][3][17]
@@ -120,21 +96,8 @@ Surgery
 Treatment of stress cardiomyopathy is mostly supportive and medications are used to treat
 complications.[1][10] There is no role for surgery in the treatment of stress cardiomyopathy.
 Primary Prevention
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 3/4
-
 There are no means of prevention of stress cardiomyopathy.
 Secondary Prevention
 Stress cardiomyopathy is a self-limiting disease, which usually resolves within a few weeks.
 However, medical therapy may be necessary during the acute phase of the illness or when
-complications arise.[1][10]
-References
-Template:WH Template:WS
-Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
-Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
-Physical Examination | Lab Tests | Drugs
-Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
-There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
-Licensing | Disclaimers | Avoid Plagiarism | Policies
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 4/4
+complications arise.

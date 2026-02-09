@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:59.007404",
-  "file_size_bytes": 570121,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Radionuclide Imaging of the Heart
-By Thomas Cascino, MD, MSc, Michigan Medicine, University of Michigan;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Dec 2023
 Radionuclide imaging uses a special detector (gamma camera) to create an image following injection of
 radioactive material. This test is done to evaluate
 Cardiac valvular disorders
@@ -31,12 +11,6 @@ computed tomography (CT) studies. However, because the radioactive material is r
 briefly, sophisticated radiation alarms (eg, in airports) may be triggered by the patient for several days
 after such testing
 Single-Photon Emission Computed Tomography (SPECT)
- 1/7
-
- Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
-SPECT in Recent-Onset Angina
-IMAGE
-IMAGE PROVIDED BY JAMES R. CORBETT, MD.
 Planar techniques, which produce a 2-dimensional image, are rarely used; SPECT, which uses a rotating
 camera system and tomographic reconstruction to produce a 3-dimensional image, is more common in
 the United States. With multihead SPECT systems, imaging can often be completed in ≤ 10 minutes.
@@ -57,9 +31,6 @@ Attenuation is more likely with technetium-99m ( Tc) than with radioactive thall
 Indications
 Myocardial perfusion imaging is used with stress testing to
 Evaluate patients with chest pain of uncertain origin
- 2/7
-
- Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
 Determine the functional significance of coronary artery stenosis seen on angiography
 Determine the functional significance of collateral vessels seen on angiography
 Evaluate the success of reperfusion interventions (eg, coronary artery bypass grafting
@@ -84,9 +55,6 @@ perfusion defects that may warrant intervention. After stress testing, the perfu
 normal coronary arteries and those distal to a stenosis appears as a relative decrease in Tl-201 uptake
 in the areas perfused by the stenosed arteries. Sensitivity of stress testing with Tl-201 for coronary
 artery disease is similar whether imaging is done after exercise stress or pharmacologic stress. The use
- 3/7
-
- Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
 of Tl-201 has declined recently in favor of agents with improved image quality and lower radiation
 doses.
 Several technetium-99m (Tc-99m) myocardial perfusion markers have been developed because the
@@ -125,8 +93,7 @@ dose at rest.
 With electrocardiography (ECG)-gated
 imaging, ventricular wall motion, wall
  4/7
-
- Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Marker Characteristics
 thickening, and ejection fraction can be
 estimated.
@@ -164,8 +131,7 @@ the myocardium is specific for transthyretin cardiac amyloidosis and can elimina
 myocardial biopsy.
 Radionuclide Ventriculography
  5/7
-
- Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Radionuclide ventriculography is used to evaluate ventricular function. It is useful for measuring resting
 and exercise ejection fraction in coronary artery disease, valvular heart disease, and congenital heart
 disease. Some clinicians prefer it for serial assessment of ventricular function in patients taking
@@ -202,8 +168,7 @@ Gated SPECT imaging takes longer (about 20 to 25 minutes with a multihead camera
 planar gated view (5 to 10 minutes) but shows all portions of the ventricles.
 Right ventriculography
  6/7
-
- Radionuclide Imaging of the Heart - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 MUGA is used to assess right ventricular function in patients who have a lung disorder or an inferior left
 ventricular infarct that may involve the RV. Normally, right ventricular ejection fraction (40 to 55% with
 most techniques) is lower than left ventricular ejection fraction. RVEF is low in many patients with
@@ -222,6 +187,3 @@ Shunt assessment
 With MUGA and commercially available computer programs, size of a congenital shunt can be
 quantified by the stroke volume ratio or, during the first transit of the marker, by the ratio of abnormal
 early pulmonary recirculation of radioactivity to total pulmonary radioactivity.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 7/7

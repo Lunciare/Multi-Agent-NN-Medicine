@@ -1,19 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Pericardial disease - Cardiology Explained - NCBI Bookshelf.pdf",
-  "converted_date": "2026-01-31T14:38:16.791685",
-  "file_size_bytes": 235972,
-  "original_format": "pdf",
-  "document_type": "Textbooks",
-  "source_folder": "Textbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Textbooks/Pericardial disease - Cardiology Explained - NCBI Bookshelf.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Pericardial disease - Cardiology Explained - NCBI Bookshelf
-NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
-Ashley EA, Niebauer J. Cardiology Explained. London: Remedica; 2004.
+Pericardial disease - Cardiology Explained
 Chapter 13 Pericardial disease
 Pericarditis
 A diagnosis of pericarditis (inflammation of the pericardium), though rare, should always be
@@ -50,9 +35,6 @@ effusion.
 Chest x-ray
 A chest x-ray (CXR) can help to rule out a tuberculous cause of pericarditis and exclude
 significant effusion.
- 1/3
-
- Pericardial disease - Cardiology Explained - NCBI Bookshelf
 Echocardiography
 Echocardiography is helpful mainly if there is a suspicion of effusion or tamponade.
 Blood tests
@@ -94,8 +76,7 @@ Kussmaul's JVP sign is widely misunderstood to be solely the result of right ven
 incompliance, when in fact the explanation relates as much to distension of the mesenteric
 vascular bed and the change from a right ventricular pressure that predominantly reflects
  2/3
-
- Pericardial disease - Cardiology Explained - NCBI Bookshelf
+ 
 negative intrapleural pressure "sucking" blood into the chest, to one that predominantly
 reflects positive intra-abdominal pressure "pushing" the greater volume proximally.
 A characteristic of cardiac tamponade is pulsus paradoxus, which is not paradoxical at all, but an
@@ -124,6 +105,3 @@ calcification visible on the lateral CXR
 The most difficult differential diagnosis is restrictive cardiomyopathy. However, the left
 ventricular function is usually preserved in constrictive pericarditis, and filling pressures are
 raised. The only treatment for constrictive pericarditis is surgical excision of the pericardium.
-Copyright © 2004, Remedica.
-Bookshelf ID: NBK2211
- 3/3

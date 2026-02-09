@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Deep Venous Thrombosis (DVT) Prevention - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:46.866597",
-  "file_size_bytes": 263718,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Deep Venous Thrombosis (DVT) Prevention - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Deep Venous Thrombosis (DVT) Prevention - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Deep Venous Thrombosis (DVT) Prevention
-By James D. Douketis, MD, McMaster University
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Dec 2023
 It is preferable and safer to prevent deep venous thrombosis (DVT) than to treat it, particularly in
 patients who are at high risk (see table Risk of Deep Venous Thrombosis and Pulmonary Embolism). DVT
 prophylaxis begins with risk assessment. Risk, along with other factors, allows the proper preventive
@@ -45,169 +26,7 @@ stroke). These patients require additional preventive treatment (see table Risk 
 Thrombosis and Pulmonary Embolism). Most of these patients can be identified and should receive DVT
 prophylaxis. Hospitalization itself is not considered a risk factor, and patients who are hospitalized but
 not in one of these categories do not require routine DVT prophylaxis.
- 1/8
-
- Deep Venous Thrombosis (DVT) Prevention - Cardiovascular Disorders - Merck Manual Professional Edition
-TABLE
-Risk of Deep Venous Thrombosis and Pulmonary Embolism in
-Surgical Patients
-Prevent
-Risk
-Exampl ive
-Categor Risk of DVT/PE (%)
-es Measur
-y
-es
-Calf Proximal PE Fatal PE
-Nonmajor
-surgery*
-in patients Early and
-< 40 years aggressive
-Low 2 0.4 0.2 0.002
-with no ambulatio
-clinical n
-risk
-factors
-Moderate Nonmajor LDUH 10–20 2–4 1–2 0.1–0.4
-surgery in every 12
-patients hours,
-with risk LMWH,
-factors fondapari
-nux, or
-Minor
-IPC, with
-surgery in
-or without
-patients
-elastic
-40–60
-stockings
-years with
-no clinical
-risk
-factors
-Major
-surgery in
-patients <
-40 years
-with no
-other
-clinical
-risk
-factors
- 2/8
-
- Deep Venous Thrombosis (DVT) Prevention - Cardiovascular Disorders - Merck Manual Professional Edition
-Prevent
-Risk
-Exampl ive
-Categor Risk of DVT/PE (%)
-es Measur
-y
-es
-Immobiliz
-ed
-patients
-with major
-medical
-illnesses
-Nonmajor
-surgery in
-patients >
-60 years
-or 40–60
-years with
-LDUH
-risk
-every 8
-factors
-hours,
-High LMWH, 20–40 4–8 2–4 0.4–1.0
-Major
-fondapari
-surgery in
-nux, or
-patients >
-IPC
-40 years
-or with
-other
-clinical
-risk
-factors
-Very high Major LMWH, 40–80 10–20 4–10 0.2–5
-surgery in oral
-patients > anticoagul
-40 years ation, IPC,
-who have or elastic
-had a stockings
-previous plus either
-venous LDUH
-thromboe every 8
-mbolic, hours or
-malignant, LMWH
-or
-Fondapari
-hypercoag
-nux if
-patients
- 3/8
-
- Deep Venous Thrombosis (DVT) Prevention - Cardiovascular Disorders - Merck Manual Professional Edition
-Prevent
-Risk
-Exampl ive
-Categor Risk of DVT/PE (%)
-es Measur
-y
-es
-ulability have had
-disorder orthopedi
-c,
-In patients
-abdominal
-of any
-, or
-age:
-thoracic
-Hip or
-surgery or
-knee
-have an
-arthro
-acute,
-plasty
-severe
-Hip illness
-fractu
-LMWH or
-re
-DOAC in
-surger
-some
-y
-high-risk
-Electiv
-patients
-e
-with
-neuro
-cancer
-surger
-undergoin
-y
-g
-Multip chemothe
-le rapy
-traum
-a
-Spinal
-cord
-injury
- 4/8
-
- Deep Venous Thrombosis (DVT) Prevention - Cardiovascular Disorders - Merck Manual Professional Edition
-* Nonmajor surgery is defined here as an operation that does not involve general
+Nonmajor surgery is defined here as an operation that does not involve general
 anesthesia or respiratory assistance.
 DOAC = direct oral anticoagulant; DVT = deep venous thrombosis; PE = pulmonary
 embolism; LDUH = low-dose unfractionated heparin; LMWH = low molecular weight
@@ -239,7 +58,7 @@ The use of inferior vena cava filters should be avoided unless DVT has been conf
 selected patients.
  5/8
 
- Deep Venous Thrombosis (DVT) Prevention - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Pharmacologic therapy for DVT prophylaxis
 Pharmacologic thromboprophylaxis involves use of anticoagulants.
 The role of aspirin for DVT prophylaxis is largely limited to patients undergoing total hip or knee
@@ -277,7 +96,7 @@ Limited data support the combination of IPC, elastic stockings, and LMWH in pati
 injury or multiple trauma.
  6/8
 
- Deep Venous Thrombosis (DVT) Prevention - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Preventive treatment is also indicated for patients who have a major medical illnesses that require bed
 rest (eg, myocardial infarction, ischemic stroke, heart failure). Low-dose UFH or LMWH is effective in
 patients who are not already receiving IV heparin or thrombolytics; IPC, elastic stockings, or both may be
@@ -292,51 +111,9 @@ are unable to tolerate the higher tension stockings. However, the routine use of
 who have had a DVT has been questioned by data from a meta-analysis of randomized trials, in which
 the use of compression stockings compared with placebo (none or sham-compression stockings) did
 not show a significant decrease in post-thrombotic syndrome) (10).
-Treatment references
-1. Ludwick L, Shohat N, Van Nest D, Paladino J, Ledesma J, Parvizi J: Aspirin May Be a Suitable
-Prophylaxis for Patients with a History of Venous Thromboembolism Undergoing Total Joint
-Arthroplasty. J Bone Joint Surg Am 104(16):1438–1446, 2022. doi:10.2106/JBJS.21.00601
-2. McGarry LJ, Stokes ME, Thompson D: Outcomes of thromboprophylaxis with enoxaparin vs.
-unfractionated heparin in medical inpatients. Thromb J 4:17, 2006. doi:10.1186/1477-9560-4-17
-3. Laporte S, Liotier J, Bertoletti L, et al: Individual patient data meta-analysis of enoxaparin vs.
-unfractionated heparin for venous thromboembolism prevention in medical patients. J Thromb
-Haemost 9(3):464–472, 2011. doi:10.1111/j.1538-7836.2011.04182.x
-4. Neumann I, Rada G, Claro JC, et al: Oral direct Factor Xa inhibitors versus low-molecular-weight
-heparin to prevent venous thromboembolism in patients undergoing total hip or knee
-replacement: a systematic review and meta-analysis. Ann Intern Med 156(10):710–719, 2012.
-doi:10.7326/0003-4819-156-10-201205150-00421
-5. Dong K, Song Y, Li X, et al: Pentasaccharides for the prevention of venous
-thromboembolism. Cochrane Database Syst Rev 10(10):CD005134, 2016.
-doi:10.1002/14651858.CD005134.pub3
-6. Carrier M, Abou-Nassar K, Mallick R, et al: Apixaban to prevent venous thromboembolism in
-patients with cancer. N Engl J Med 380:711–719, 2019. doi: 10.1056/NEJMoa1814468
-7. Farge D, Frere C, Connors JM, et al: 2019 international clinical practice guidelines for the
-treatment and prophylaxis of venous thromboembolism in patients with cancer. Lancet Oncol 20
-(10): e566–e581, 2019. doi: 10.1016/S1470-2045(19)30336-5
-8. Key NS, Khorana AA, Kuderer NM, et al: Venous thromboembolism prophylaxis and treatment in
-patients with cancer: ASCO Clinical Practice Guideline Update. J Clin Oncol 38:496–520, 2020. doi:
-10.1200/JCO.19.01461
-9. Khorana AA, Soff GA, Kakkar AK, et al: Rivaroxaban for thromboprophylaxis in high-risk
-ambulatory patients with cancer. N Engl J Med 380:720–728, 2019. doi: 10.1056/NEJMoa1814630
- 7/8
-
- Deep Venous Thrombosis (DVT) Prevention - Cardiovascular Disorders - Merck Manual Professional Edition
-10. Subbiah R, Aggarwal V, Zhao H, Kolluri R, Chatterjee S, Bashir R: Effect of compression
-stockings on post thrombotic syndrome in patients with deep vein thrombosis: a meta-analysis of
-randomised controlled trials. Lancet Haematol 3(6):e293–e300, 2016. doi:10.1016/S2352-
-3026(16)30017-5
 Key Points
 Treatment to prevent deep venous thrombosis is required for patients who are
 bedbound with major illness and/or those undergoing certain surgical procedures.
 Early mobilization, leg elevation, and an anticoagulant are the recommended preventive
 measures; patients who should not receive anticoagulants may benefit from
 intermittent pneumatic compression devices or elastic stockings.
-More Information
-The following English-language resource may be useful. Please note that THE MANUAL is not
-responsible for the content of this resource.
-Farge D, Frere C, Connors JM, et al: 2019 international clinical practice guidelines for the treatment
-and prophylaxis of venous thromboembolism in patients with cancer. Lancet Oncol 20 (10): e566–
-e581, 2019. doi: 10.1016/S1470-2045(19)30336-5
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 8/8

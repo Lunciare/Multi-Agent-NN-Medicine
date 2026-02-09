@@ -1,26 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Exercise tolerance testing - PMC.pdf",
-  "converted_date": "2026-01-31T14:35:40.287748",
-  "file_size_bytes": 1385036,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Exercise tolerance testing - PMC.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Exercise tolerance testing - PMC
-As a library, NLM provides access to scientific literature. Inclusion in an NLM database
-does not imply endorsement of, or agreement with, the contents by NLM or the National
-Institutes of Health.
-Learn more: PMC Disclaimer | PMC Copyright Notice
-BMJ. 2002 May 4;324(7345):1084–1087. doi: 10.1136/bmj.324.7345.1084
 Exercise tolerance testing
-Jonathan Hill, Adam Timmis
-Article notes Copyright and License information
-PMCID: PMC1123032 PMID: 11991917
 Exercise tolerance testing is an important diagnostic and prognostic tool for assessing patients with
 suspected or known ischaemic heart disease. During exercise, coronary blood flow must increase to
 meet the higher metabolic demands of the myocardium. Limiting the coronary blood flow may result
@@ -33,8 +11,7 @@ Exercise tolerance testing (also known as exercise testing or exercise stress te
 in evaluating patients who present with chest pain, in patients who have chest pain on exertion, and
 in patients with known ischaemic heart disease.
  1/16
-
- Exercise tolerance testing - PMC
+ 
 Diagnostic indications for exercise testing
 Assessment of chest pain in patients with intermediate probability for coronary artery
 disease
@@ -60,8 +37,7 @@ coronary artery disease.
 The test
 Protocol
  2/16
-
- Exercise tolerance testing - PMC
+ 
 The Bruce protocol is the most widely adopted protocol and has been extensively validated. The
 protocol has seven stages, each lasting three minutes, resulting in 21 minutes' exercise for a complete
 test. In stage 1 the patient walks at 1.7 mph (2.7 km) up a 10% incline. Energy expenditure is
@@ -90,8 +66,7 @@ inversion, may occur as the patient stands up to start walking on the treadmill.
 electrocardiographic recording during hyperventilation is also valuable for identifying changes
 resulting from hyperventilation rather than from coronary ischaemia.
  3/16
-
- Exercise tolerance testing - PMC
+ 
 Contraindications for exercise testing
 Acute myocardial infarction (within 4-6 days)
 Unstable angina (rest pain in previous 48 hours)
@@ -123,8 +98,7 @@ The specificity of ST segment depression as the main indicator of myocardial isc
 segment depression has been estimated to occur in up to 20% of normal individuals on ambulatory
 electrocardiographic monitoring. There are many causes of ST segment changes apart from coronary
  4/16
-
- Exercise tolerance testing - PMC
+ 
 artery disease, which confound the result of exercise testing. If the resting electrocardiogram is
 abnormal, the usefulness of an exercise test is reduced or may even be precluded. Repolarisation and
 conduction abnormalities—for example, left ventricular hypertrophy, left bundle branch block, pre-
@@ -151,8 +125,7 @@ The standard criterion for an abnormal ST segment response is horizontal (planar
 depression of >1 mm. If 0.5 mm of depression is taken as the standard, the sensitivity of the test
 increases and the specificity decreases (vice versa if 2 mm of depression is selected as the standard).
  5/16
-
- Exercise tolerance testing - PMC
+ 
 Reasons for stopping a test
 Electrocardiographic criteria
 Severe ST segment depression (>3 mm)
@@ -182,8 +155,7 @@ Stopping the test
 In clinical practice, patients rarely exercise for the full duration (21 minutes) of the Bruce protocol.
 However, completion of 9-12 minutes of exercise or reaching 85% of the maximum predicted changes
  6/16
-
- Exercise tolerance testing - PMC
+ 
 in heart rate is usually satisfactory. An exercise test should end when diagnostic criteria have been
 reached or when the patient's symptoms and signs dictate.
 The most common reason for stopping an exercise test is fatigue and breathlessness as
@@ -210,8 +182,7 @@ A test that indicates a high probability of coronary artery disease is one in wh
 ST depression at low work rate associated with typical angina-like pain and a drop in blood pressure.
 Deeper and more widespread ST depression generally indicates more severe or extensive disease.
  7/16
-
- Exercise tolerance testing - PMC
+ 
 False positive results are common in women, reflecting the lower incidence of coronary artery disease
 in this group.
 Prognostic testing
@@ -239,69 +210,3 @@ regular exercise testing, though more stringent criteria for an abnormal test re
 segment depression of >2 mm) should be applied. In the United Kingdom, drivers of heavy goods
 vehicles and public service vehicles have to achieve test results clearly specified by the Driver and
 Vehicle Licensing Agency before they are considered fit to drive.
- 8/16
-
- Exercise tolerance testing - PMC
-Figure.
- 9/16
-
- Exercise tolerance testing - PMC
- 10/16
-
- Exercise tolerance testing - PMC
-Open in a new tab
-Patient exercising on treadmill
-Figure.
-Open in a new tab
-Top: At rest. Bottom: Pathological ST segment depression as measured 80 ms from J point
- 11/16
-🔍
-
- Exercise tolerance testing - PMC
-Figure.
-Open in a new tab
-Normal changes from rest (A), after three minutes' exercise (B), and after six minutes'
-exercise (C). Note the upsloping ST segments
- 12/16
-🔍
-
- Exercise tolerance testing - PMC
-Figure.
-Open in a new tab
-Horizontal ST segment depression (A=at rest, B=after three minutes' exercise, C=after six
-minutes' exercise) and downsloping ST segment depression (D=at rest, E=after six minutes'
-exercise)
- 13/16
-🔍
-
- Exercise tolerance testing - PMC
-Figure.
-Open in a new tab
-ST segments in leads V2 to V4 at rest (left) and after two minutes' exercise (right) (note
-obvious ST elevation)
- 14/16
-🔍
-
- Exercise tolerance testing - PMC
-Figure.
-Open in a new tab
-T wave inversion in lead V5 at rest (A) and normalisation of T waves with exercise (B)
-Figure.
-Open in a new tab
-Marked ST changes in recovery but not during exercise
-Footnotes
-Jonathan Hill is specialist registrar in cardiology at Barts and The London NHS Trust; Adam Timmis
-is a consultant cardiologist at the London Chest Hospital, Barts and the London NHS Trust
-The ABC of clinical electrocardiography is edited by Francis Morris, consultant in emergency
-medicine at the Northern General Hospital, Sheffield; June Edhouse, consultant in emergency
-medicine, Stepping Hill Hospital, Stockport; William J Brady, associate professor, programme
-director, and vice chair, department of emergency medicine, University of Virginia, Charlottesville,
- 15/16
-🔍
-🔍
-
- Exercise tolerance testing - PMC
-VA, USA; and John Camm, professor of clinical cardiology, St George's Hospital Medical School,
-London. The series will be published as a book in the summer.
-Articles from BMJ : British Medical Journal are provided here courtesy of BMJ Publishing Group
- 16/16

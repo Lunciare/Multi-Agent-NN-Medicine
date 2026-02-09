@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Thoracic Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:37:02.095829",
-  "file_size_bytes": 733830,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Thoracic Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Thoracic Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Thoracic Aortic Aneurysms
-By Mark A. Farber, MD, FACS, University of North Carolina;
-Federico E. Parodi, MD, University of North Carolina School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Dec 2024
 A thoracic aortic diameter ≥ 50% larger than normal is considered an aneurysm
 (normal diameter varies by location). Most thoracic aortic aneurysms do not
 cause symptoms, although some patients have chest or back pain; other
@@ -27,7 +7,6 @@ compression of adjacent structures, thromboembolism, rupture). Risk of
 rupture is proportional to the size of the aneurysm. Diagnosis is made by CT
 angiography or transesophageal echocardiography (TEE). Treatment is
 endovascular stent grafting or surgery.
-(See also Overview of Aortic Aneurysms.)
 Thoracic aortic aneurysms (TAAs) are abnormal dilatations of the aorta above the diaphragm. TAAs
 account for one-fourth of aortic aneurysms. Males and females are affected equally.
 Locations of TAAs (1) include
@@ -43,13 +22,6 @@ Leak or rupture
 Thromboembolism
 Aneurysms of the ascending aorta sometimes affect the aortic root, causing aortic valve regurgitation,
 or occlusion of the coronary arterial ostia, causing angina, myocardial infarction, or syncope.
- 1/7
-
- Thoracic Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition
-General reference
-1. Gouveia E Melo R, Silva Duarte G, Lopes A, et al. Incidence and Prevalence of Thoracic Aortic
-Aneurysms: A Systematic Review and Meta-analysis of Population-Based Studies. Semin Thorac
-Cardiovasc Surg 2022;34(1):1-16. doi:10.1053/j.semtcvs.2021.02.029
 Etiology of Thoracic Aortic Aneurysms
 Most thoracic aortic aneurysms result from
 Atherosclerosis
@@ -78,9 +50,6 @@ pain (due to compression of vertebra), cough or wheezing (due to compression of 
 tree), dysphagia (due to esophageal compression), hoarseness (due to left recurrent laryngeal or vagus
 nerve compression), chest pain (due to coronary artery compression), and superior vena cava syndrome
 (due to compression of the central veins or superior vena cava).
- 2/7
-
- Thoracic Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition
 Erosion of aneurysms into the lungs causes hemoptysis or pneumonitis; erosion into the esophagus
 (aortoesophageal fistula) causes massive hematemesis.
 Dissection manifests with tearing chest pain, often radiating to the back between the shoulder blades.
@@ -104,15 +73,6 @@ sensitivity for TAA and is not a reliable diagnostic tool (eg, in patients with 
 aortic aneurysm). Chest radiograph abnormalities or symptoms and signs suggesting an aneurysm
 should be followed up with a cross-sectional imaging test; choice among these tests is based on
 availability and local experience (1).
- 3/7
-
- Thoracic Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition
-Widened Mediastinum
-IMAGE
-© 2017 ELLIOT K. FISHMAN, MD.
-Thoracic Aortic Aneurysm
-IMAGE
-© 2017 ELLIOT K. FISHMAN, MD.
 If rupture is suspected, TEE (for ascending dissection) or CTA, depending on availability, should be done
 immediately. Chest CTA can delineate aneurysm size and proximal or distal extent, detect leakage, and
 identify coincidental pathology. MRA may provide similar detail. Transthoracic echocardiography (TTE)
@@ -121,17 +81,9 @@ descending aorta. TEE cannot show the entire thoracic aorta, but it can be extre
 the entry point in aortic dissection.
 Contrast angiography provides the best image of the arterial lumen, but it is not the preferred imaging
 study. It gives no information on extraluminal structures (ie, as an alternative diagnosis), it is invasive,
- 4/7
-
- Thoracic Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition
 and it has a significant risk of renal and extremity atheroembolism and contrast nephropathy.
 Aortic root dilation or unexplained ascending aorta aneurysms warrant serologic testing for syphilis. If a
 mycotic aneurysm is suspected, bacterial and fungal blood cultures are done.
-Diagnosis reference
-1. Isselbacher EM, Preventza O, Hamilton Black J 3rd, et al. 2022 ACC/AHA Guideline for the
-Diagnosis and Management of Aortic Disease: A Report of the American Heart
-Association/American College of Cardiology Joint Committee on Clinical Practice
-Guidelines. Circulation 2022;146(24):e334-e482. doi:10.1161/CIR.0000000000001106
 Treatment of Thoracic Aortic Aneurysms
 Control of hypertension and other comorbidities
 Endovascular stent grafting or open surgical repair
@@ -156,9 +108,6 @@ Causing aortobronchial or aortoesophageal fistulas
 Symptomatic
 Traumatic
 Mycotic
- 5/7
-
- Thoracic Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition
 Aneurysms of the ascending aorta are generally considered large if the diameter is > 5.5 cm or twice the
 native size of the ascending aorta or if the aortic size index (aortic diameter in relation to body surface
 2
@@ -178,41 +127,16 @@ necessary. Smoking cessation is essential. Dyslipidemia, diabetes, and respirato
 treated.
 Patients require frequent follow-ups to check for symptoms and serial CT or ultrasound every 6 to 12
 months. Imaging frequency depends on aneurysm size.
-Treatment references
-1. Latz CA, Boitano L, Schwartz S, et al. Contemporary mortality after emergent open repair of
-complex abdominal aortic aneurysms. J Vasc Surg 2021;73(1):39-47.e1.
-doi:10.1016/j.jvs.2020.03.059
-2. Goodney PP, Travis L, Lucas FL, et al. Survival after open versus endovascular thoracic aortic
-aneurysm repair in an observational study of the Medicare population. Circulation
-2011;124(24):2661-2669. doi:10.1161/CIRCULATIONAHA.111.033944
-3. Desai ND, Burtch K, Moser W, et al. Long-term comparison of thoracic endovascular aortic repair
-(TEVAR) to open surgery for the treatment of thoracic aortic aneurysms. J Thorac Cardiovasc Surg
-2012;144(3):604-611. doi:10.1016/j.jtcvs.2012.05.049
-4. Tanaka A, Leonard SD, Sandhu HK, et al. Open Descending and Thoracoabdominal Aortic
-Repairs in Patients Younger Than 50 Years Old. Ann Thorac Surg 2019;108(3):693-699.
-doi:10.1016/j.athoracsur.2019.03.058
 Prognosis for Thoracic Aortic Aneurysms
 Thoracic abdominal aneurysms enlarge an average of 3 to 5 mm/year. Risk factors for rapid
 enlargement include larger size of aneurysm, location in the descending aorta, and presence of mural
-thrombi.
- 6/7
-
- Thoracic Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition
+thrombi. 
 The risk of rupture appears to rise abruptly as TAAs reach 6 cm in diameter. Median diameter at
 aneurysm rupture is approximately 6 cm for ascending aneurysms and 7 cm for descending aneurysms
 (1, 2); smaller aneurysms also may rupture, especially in patients with connective tissue disorders or
 saccular aneurysms.
 Survival rate of patients with untreated large TAAs is 25% at 2 years. TAA rupture has a mortality of 97%
 (3).
-Prognosis references
-1. Coady MA, Rizzo JA, Hammond GL, Kopf GS, Elefteriades JA. Surgical intervention criteria for
-thoracic aortic aneurysms: a study of growth rates and complications. Ann Thorac Surg
-1999;67(6):1922-1958. doi:10.1016/s0003-4975(99)00431-2
-2. Davies RR, Goldstein LJ, Coady MA, et al. Yearly rupture or dissection rates for thoracic aortic
-aneurysms: simple prediction based on size. Ann Thorac Surg 2002;73(1):17-28. doi:10.1016/s0003-
-4975(01)03236-2
-3. Zvara DA. Thoracoabdominal aneurysm surgery and the risk of paraplegia: contemporary
-practice and future directions. J Extra Corpor Technol 2002;34(1):11-17.
 Key Points
 Thoracic aortic aneurysm (TAA) is a ≥ 50% increase in diameter of the thoracic aorta.
 TAAs may dissect, compress, or erode into adjacent structures, cause
@@ -226,5 +150,3 @@ Treat small, asymptomatic TAAs with aggressive management of blood pressure and
 dyslipidemia and smoking cessation.
 Treat larger or symptomatic TAAs with endovascular stent grafting when anatomically
 possible and open surgical repair for more complex aneurysms.
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 7/7

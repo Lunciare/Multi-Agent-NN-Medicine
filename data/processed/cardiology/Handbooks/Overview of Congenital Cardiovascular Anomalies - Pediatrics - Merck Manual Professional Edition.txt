@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:42.614404",
-  "file_size_bytes": 910926,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Overview of Congenital Cardiovascular Anomalies
-By Lee B. Beerman, MD, Children's Hospital of Pittsburgh of the University of Pittsburgh School of Medicine
-Reviewed By Michael SD Agus, MD, Harvard Medical School
-Reviewed/Revised Apr 2023 | Modified Jan 2025
 Congenital heart disease is the most common congenital anomaly, occurring in almost 1% of live births
 (1). Among birth defects, congenital heart disease is the leading cause of infant mortality.
 The most common congenital heart diseases diagnosed in infancy are muscular and perimembranous
@@ -26,16 +7,6 @@ ventricular septal defects followed by secundum atrial septal defects, with a to
 which is twice as prevalent as transposition of the great arteries (4.7 vs. 2.3/10 000 births). Overall,
 bicuspid aortic valves are the most common congenital defects with a prevalence reported to be as high
 as 0.5% to 2.0%.
-General references
-1. Reller MD, Strickland MJ, Riehle-Colarusso T, et al: Prevalence of congenital heart defects in
-metropolitan Atlanta, 1998–2005. J Pediatr 153(6):807–813, 2008.
-2. Freeze SL, Landis BJ, Ware SM, Helm BM: Bicuspid aortic valve: a review with recommendations
-for genetic counseling. J Genet Couns 25(6):1171–1178, 2016.
-3. van der Linde D, Konings EEM, Slager MA, et al: Birth prevalence of congenital heart disease
-worldwide: a systematic review and meta-analysis. J Am Coll Cardiol 58(21):2241–2247, 2011. doi:
-10.1016/j.jacc.2011.08.025
-4. Daubeney PEF, Rigby ML, Niwa K, Gatzoulis MA (eds): Pediatric Heart Disease: A Practical Guide.
-Wiley-Blackwell 2012 .
 Etiology of Congenital Heart Disease
 Environmental and genetic factors contribute to the development of congenital heart disease.
 Common environmental factors include maternal illness (eg, diabetes, rubella, systemic lupus
@@ -45,9 +16,6 @@ include cardiac defects. It is unclear whether maternal age is an independent ri
 heart disease. Paternal age may also be a risk factor (1).
 Certain numerical chromosomal abnormalities (aneuploidies), such as trisomy 21 (Down syndrome),
 trisomy 18, trisomy 13, and monosomy X (Turner syndrome), are strongly associated with congenital
- 1/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
 heart disease. However, these abnormalities account for only 5 to 6% of patients with congenital heart
 disease.
 Many other cases involve subchromosomal deletions (microdeletions), subchromosomal duplications,
@@ -65,29 +33,12 @@ autosomal dominant mutation is the cause. The identification of a bicuspid aorti
 merits family screening in view of the reported familial prevalence of 9% (5). It is important to identify
 genetic factors because more patients with congenital heart disease are surviving into adulthood and
 potentially starting families.
-Etiology references
-1. Materna-Kiryluk A, Wiśniewska K, Badura-Stronka M, et al: Parental age as a risk factor for
-isolated congenital malformations in a Polish population. Paediatr Perinat Epidemiol 23(1):29-40,
-2009. doi: 10.1111/j.1365-3016. 2008.00979.x
-2. Russell MW, Chung WK, Kaltman JR, Miller TA: Advances in the understanding of the genetic
-determinants of congenital heart disease and their impact on clinical outcomes. J Am Heart Assoc
-7(6):e006906, 2018. doi:10.1161/JAHA.117.006906
-3. van der Linde D, Konings EEM, Slager MA, et al: Birth prevalence of congenital heart disease
-worldwide: a systematic review and meta-analysis. J Am Coll Cardiol 58(21):2241–2247, 2011. doi:
-10.1016/j.jacc.2011.08.025
-4. Pierpont ME, Brueckner M, Chung WK, et al: Genetic Basis for Congenital Heart Disease:
-Revisited: A Scientific Statement From the American Heart Association [published correction
-appears in Circulation 2018 Nov 20;138(21):e713]. Circulation 138(21):e653–e711, 2018.
-doi:10.1161/CIR.0000000000000606
-5. Freeze SL, Landis BJ, Ware SM, Helm BM: Bicuspid aortic valve: a review with recommendations
-for genetic counseling. J Genet Couns 25(6):1171–1178, 2016.
 Normal Fetal Circulation
 Fetal circulation is marked by
 Right-to-left shunting of blood around the unventilated lungs through a patent ductus
 arteriosus (connecting the pulmonary artery to the aorta) and foramen ovale (connecting
  2/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 the right and left atria)
 Shunting is encouraged by high pulmonary arteriolar resistance and relatively low resistance to blood
 flow in the systemic (including placental) circulation. About 90 to 95% of the right heart output bypasses
@@ -97,8 +48,7 @@ kept open by differences in atrial pressures: left atrial pressure is relatively
 returned from the lungs, but right atrial pressure is relatively high because large volumes of blood
 return from the placenta.
  3/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 Normal Circulation in a Fetus
 In the fetus, blood entering the right side of the heart has already been oxygenated via the
 placenta. Because the lungs are not ventilated, only a small amount of blood needs to go
@@ -112,8 +62,7 @@ arrows represent the least highly oxygenated blood (oxygen saturation ≤ 45%). 
 represent intermediate oxygen saturation (oxygen saturation 50–60%). Note that oxygen
 saturation throughout is significantly lower than in postnatal life.
  4/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 Perinatal changes
 Profound changes to this system occur after the first few breaths, resulting in
 Increased pulmonary blood flow
@@ -127,8 +76,7 @@ As pulmonary blood flow is established, venous return from the lungs increases, 
 pressure. Air breathing increases the PaO2, which constricts the umbilical arteries. Placental blood flow
 is reduced or stops, reducing blood return to the right atrium. Thus, right atrial pressure decreases
  5/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 while left atrial pressure increases; as a result, the 2 fetal components of the interatrial septum (septum
 primum and septum secundum) are pushed together, stopping flow through the foramen ovale. In
 most people, the 2 septa eventually fuse and the foramen ovale ceases to exist. However, in 25% of
@@ -149,10 +97,6 @@ through the now-patent ductus arteriosus, the reopened foramen ovale, or both. C
 neonate becomes severely hypoxemic, a condition called persistent pulmonary hypertension or
 persistent fetal circulation (although there is no umbilical circulation). The goal of treatment is to reverse
 the conditions that caused pulmonary vasoconstriction.
-Normal fetal circulation reference
-1. Koutroulou I, Tsivgoulis G, Tsalikakis D, et al: Epidemiology of Patent Foramen Ovale in General
-Population and in Stroke Patients: A Narrative Review. Front Neurol 11:281, 2020. Published 2020
-Apr 28. doi:10.3389/fneur.2020.00281
 Pathophysiology of Congenital Heart Anomalies
 Congenital heart anomalies are classified (see table Classification of Congenital Heart Anomalies) as
 Cyanotic
@@ -165,8 +109,7 @@ Classification of Congenital Heart
 Anomalies*
 Classification Examples
  6/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 Classification Examples
 Cyanotic
 Tetralogy of Fallot
@@ -202,8 +145,7 @@ shunt), reducing systemic arterial oxygen saturation.
 If there is > 5 g/dL (> 50 g/L) of deoxygenated hemoglobin, cyanosis results. Complications of persistent
 cyanosis include polycythemia, clubbing, thromboembolism (including stroke), bleeding disorders, brain
  7/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 abscess, and hyperuricemia. Hypercyanotic spells can occur in infants with unrepaired tetralogy of Fallot
 or other complex congenital defects with dynamic subpulmonic stenosis and a ventricular defect.
 Depending on the anomaly, pulmonary blood flow may be reduced, normal, or increased (often
@@ -243,8 +185,7 @@ failure), edema primarily in dependent tissues and abdominal viscera (in right v
 both. Heart failure in infants and children has many causes other than congenital heart anomalies (see
 table Common Causes of Heart Failure in Children).
  8/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 TABLE
 Common Causes of Heart Failure in Children
 Age at Onset Causes
@@ -281,8 +222,7 @@ associated abnormalities
 Complete heart block with or without
 associated structural heart anomalies
  9/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 Age at Onset Causes
 Large left-to-right shunts in preterm
 infants (eg, patent ductus arteriosus)
@@ -318,8 +258,7 @@ Nutritional deficiencies
 Valvular heart disorders due to
 congenital or acquired cardiac disease
  10/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 Age at Onset Causes
 (eg, rheumatic fever)
 Viral myocarditis
@@ -334,11 +273,6 @@ systemic blood flow (eg, hypoplastic left heart syndrome, critical aortic stenos
 or pulmonary blood flow (cyanotic lesions such as pulmonary atresia or severe tetralogy of Fallot).
 Keeping the ductus arteriosus open with exogenous prostaglandin infusion is therefore vital in these
 disorders prior to definitive repair (usually surgery).
-Pathophysiology references
-1. Daubeney PEF, Rigby ML, Niwa K, Gatzoulis MA (eds): Pediatric Heart Disease: A Practical Guide.
-Wiley-Blackwell 2012 .
-2. Hoffman JI, Kaplan S: The incidence of congenital heart disease. J Am Coll Cardiol 39(12):1890-
-1900, 2002. doi:10.1016/s0735-1097(02)01886-7
 Symptoms and Signs of Congenital Heart Disease
 Manifestations of congenital heart diseases are varied but commonly include
 Murmurs
@@ -354,8 +288,7 @@ are most prominent at the surface closest to their point of origin, making locat
 Increased flow across the pulmonary or aortic valve causes a midsystolic crescendo-decrescendo
 (ejection systolic) murmur. Regurgitant flow through an atrioventricular valve or flow across a
  11/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 ventricular septal defect causes a holosystolic (pansystolic) murmur that obscures the first heart sound
 (S1) as its intensity increases.
 Patent ductus arteriosus typically causes a continuous murmur that is uninterrupted by the S2 because
@@ -363,8 +296,6 @@ blood flows through the ductus during systole and diastole. This murmur is 2-ton
 pronounced sound during systole (when driven by higher pressure) than during diastole.
 Cyanosis
 Finger Clubbing
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
 Central cyanosis is characterized by bluish discoloration of the lips and tongue and/or nail beds; it
 occurs when there is an increase in deoxygenated hemoglobin (at least 5 g/dL [50 g/L]) and implies a
 low blood oxygen level (usually oxygen saturation < 85%). Perioral cyanosis and acrocyanosis (cyanosis
@@ -381,8 +312,7 @@ Restlessness, irritability
 Hepatomegaly
 Failure to thrive
  12/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 Dyspnea during feeding causes inadequate intake and poor growth, which may be worsened by
 increased metabolic demands in heart failure and frequent respiratory tract infections. In contrast to
 adults and older children, most infants do not have distended neck veins and dependent edema;
@@ -419,8 +349,7 @@ clarify important anatomic details. Cardiac catheterization with angiocardiograp
 needed to confirm the diagnosis or to assess severity of the anomaly; however, it is generally done only
 for therapeutic purposes.
  13/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 Newborn Screening for Congenital Heart Disease
 Manifestations of congenital heart disease may be subtle or absent in neonates, and failure or delay in
 detecting critical congenital heart disease, particularly in the 10 to 15% of neonates who require surgical
@@ -438,9 +367,6 @@ heart disease and other causes of hypoxemia (eg, various respiratory disorders, 
 depression, sepsis) typically including a chest x-ray, ECG, echocardiography, and often blood testing.
 Sensitivity of pulse oximetry screening is slightly > 75%; the congenital heart disease lesions most often
 missed are left heart obstructive lesions (eg, coarctation of the aorta).
-Newborn screening reference
-1. Martin GR, Ewer AK, Gaviglio A, et al: Updated Strategies for Pulse Oximetry Screening for
-Critical Congenital Heart Disease. Pediatrics 146(1):e20191650, 2020. doi:10.1542/peds.2019-1650
 Treatment of Congenital Heart Disease
 Medical stabilization of heart failure (eg, with diuretics, angiotensin-converting enzyme
 [ACE] inhibitors, beta-blockers, digoxin, spironolactone, salt restriction and, in selected
@@ -454,9 +380,6 @@ smaller or close with time or mild valve dysfunction. Transcatheter procedures i
 Balloon atrial septostomy for palliation of severely cyanotic neonates with transposition of
 the great arteries
 Balloon dilation of severe aortic valve stenosis or pulmonic valve stenosis
- 14/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
 Transcatheter closure of cardiac shunts (most often atrial septal defect and patent ductus
 arteriosus)
 Transcatheter placement of pulmonary valve
@@ -496,8 +419,7 @@ have large left-to-right shunts and in certain postoperative patients with conge
 varies by age; see table Oral Digoxin Dosage in Children). Notably, digoxin has been shown to reduce
 mortality in single-ventricle patients after the Norwood procedure and before the second stage surgery
  15/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 (2). Use of digoxin as a front-line drug in the treatment of neonatal supraventricular tachycardia has
 declined because it results in higher mortality than treatment with propranolol (3). However, if Wolff-
 Parkinson-White syndrome is not present, it may be a useful as a primary agent if propranolol is
@@ -532,8 +454,7 @@ In general, a healthy diet, including salt restriction, is recommended, although
 be needed depending on the specific disorder and manifestations. Heart failure increases metabolic
 demands and the associated dyspnea makes feeding more difficult. In infants with critical congenital
  16/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
+ 
 heart disease, particularly those with left heart obstructive lesions, feedings may be withheld to
 minimize the risk of necrotizing enterocolitis. In infants with heart failure due to left-to-right-shunt
 lesions, enhanced caloric content feedings are recommended; these feedings increase calories supplied
@@ -550,28 +471,3 @@ Repaired congenital heart disease with residual defects at or adjacent to the si
 prosthetic patch or prosthetic device
 Mechanical or bioprosthetic valve
 Previous episode of endocarditis
-Treatment references
-1. Loss KL, Shaddy RE, Kantor PF: Recent and Upcoming Drug Therapies for Pediatric Heart
-Failure. Front Pediatr 9:681224, 2021. Published 2021 Nov 11. doi:10.3389/fped.2021.681224
-2. Oster ME, Kelleman M, McCracken C, et al: Association of digoxin with interstage mortality:
-Results from the Pediatric Heart Network Single Ventricle Reconstruction Trial Public Use Dataset. J
-Am Heart Assoc 5(1): e002566., 2016.
-3. Bolin EH, Lang SM, Tang X, et al: Propranolol versus digoxin in the neonate for supraventricular
-tachycardia (from the Pediatric Health Information System). Am J Cardiol 119(10): 1605–1610,
-2017.
-4. Baltimore RS, Gewitz M, Baddour LM, et al: Infective Endocarditis in Childhood: 2015 Update: A
-Scientific Statement From the American Heart Association. Circulation 132(15):1487–1515, 2015.
-doi:10.1161/CIR.0000000000000298
-More Information
-The following English-language resources may be useful. Please note that THE MANUAL is not
-responsible for the content of these resources.
-American Heart Association: Common Heart Defects: Provides overview of common congenital
-heart defects for parents and caregivers
-American Heart Association: Infective Endocarditis: Provides an overview of infective endocarditis,
-including summarizing prophylactic antibiotic use, for patients and caregivers
-Drugs Mentioned In This Article
- 17/18
-
- Overview of Congenital Cardiovascular Anomalies - Pediatrics - Merck Manual Professional Edition
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 18/18

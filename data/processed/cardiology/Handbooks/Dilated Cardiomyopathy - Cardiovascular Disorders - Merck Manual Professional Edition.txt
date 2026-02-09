@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Dilated Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:44.931818",
-  "file_size_bytes": 813445,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Dilated Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Dilated Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Dilated Cardiomyopathy
-By Tisha Suboc, MD, Rush University
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jan 2024 | Modified Dec 2025
 Dilated cardiomyopathy is myocardial dysfunction causing heart failure in
 which ventricular dilation and systolic dysfunction predominate. Symptoms
 include dyspnea, fatigue, and peripheral edema. Diagnosis is clinical and by
@@ -36,19 +17,10 @@ Dilated cardiomyopathy can develop at any age but is more common in adults young
 years of age. About 10% of people who develop dilated cardiomyopathy are older than 65. In the United
 States, the disorder occurs in 3 times as many males than in females and in twice as many people of
 African ancestry compared with White people (1). About 5 to 6 of every 100,000 people develop the
-disorder each year (1).
-General reference
-1. Ntusi NAB, Sliwa K. Impact of Racial and Ethnic Disparities on Patients With Dilated
-Cardiomyopathy: JACC Focus Seminar 7/9. J Am Coll Cardiol 2021;78(25):2580-2588.
-doi:10.1016/j.jacc.2021.10.021
+disorder each year.
 Pathophysiology of Dilated Cardiomyopathy
 As a primary myocardial disorder, the myocardial dysfunction of dilated cardiomyopathy occurs in the
 absence of other disorders that can cause dilated myocardium, such as severe occlusive coronary artery
- 1/10
-
- Dilated Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-Overview of Dilated Cardiomyop...
-VIDEO
 disease or conditions that involve pressure or volume overload of the ventricle (eg, hypertension,
 valvular heart disease). In some patients, dilated cardiomyopathy is believed to start with acute
 myocarditis (probably viral in most cases), followed by a variable latent phase, a phase with diffuse
@@ -73,7 +45,7 @@ damage the heart. Frequent ventricular ectopy (> 10,000 ventricular premature be
 associated with left ventricular systolic dysfunction.
  2/10
 
- Dilated Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Sudden emotional stress and other hyperadrenergic states can trigger acute dilated cardiomyopathy
 that is typically reversible (as is that caused by prolonged tachycardia). An example is acute apical
 ballooning cardiomyopathy (also called takotsubo cardiomyopathy, stress cardiomyopathy, or broken
@@ -111,7 +83,7 @@ Spirochetal
 Viral (including HIV infection)
  3/10
 
- Dilated Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Cause Examples
 Anthracyclines
 Catecholamines
@@ -146,7 +118,7 @@ Secondary iron overload
 Severe obesity
  4/10
 
- Dilated Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Cause Examples
 Uremia
 Pregnancy (peripartum period) —
@@ -180,7 +152,7 @@ members with possible early-onset heart disease, heart failure, or sudden death.
 degree family members are screened for cardiac dysfunction (such as with echocardiography). Because
  5/10
 
- Dilated Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 other common causes of ventricular failure must be excluded, chest x-ray, ECG, echocardiography, and
 cardiac MRI are required. Endomyocardial biopsy is done in selected cases.
 Serum cardiac biomarkers are measured if acute symptoms or chest pain is present. Although
@@ -195,8 +167,6 @@ cases.
 Chest x-ray shows cardiomegaly, usually of all chambers. Pleural effusion, particularly on the right,
 often accompanies increased pulmonary venous pressure and interstitial edema.
 Dilated Cardiomyopathy (Chest X-Ray)
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
 The ECG may show sinus tachycardia and nonspecific ST-segment depression with low voltage or
 inverted T waves. Sometimes pathologic Q waves are present in the precordial leads, simulating
 previous myocardial infarction. Left bundle branch block and atrial fibrillation are common.
@@ -207,12 +177,10 @@ Cardiac MRI is useful in providing detailed imaging of myocardial structure and 
 gadolinium contrast may show abnormal myocardial tissue texture or scarring pattern (ie, late
  6/10
 
- Dilated Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 gadolinium enhancement, or LGE). The pattern of LGE can be diagnostic in active myocarditis,
 sarcoidosis, muscular dystrophy, or Chagas disease).
 MRI Findings of Cardiac Sarcoidosis
-IMAGE
-© 2017 ELLIOT K. FISHMAN, MD.
 Positron-emission tomography (PET) has been shown to be sensitive for diagnosis of cardiac
 sarcoidosis.
 Coronary angiography may be required to exclude coronary artery disease as the cause of LV
@@ -232,7 +200,7 @@ Immunosupression in patients with giant cell myocarditis, eosinophilic myocardit
 sarcoidosis, or other autoimmune diseases (eg, systemic lupus erythematosus)
  7/10
 
- Dilated Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Treatable causes (eg, toxoplasmosis, acute Chagas disease, hemochromatosis, thyrotoxicosis, thiamin
 deficiency) are corrected. Patients with HIV infection should have antiretroviral therapy (ART) optimized.
 Treatment with immunosuppression should be limited to patients with biopsy-proven giant cell
@@ -272,21 +240,6 @@ disorders and high, irreversible pulmonary vascular resistance; because donor he
 younger patients (usually < 70 years) are given higher priority. Left ventricular assist devices (LVAD) may
 also be considered as a bridge to heart transplantation or as destination therapy in some patients (eg,
 patients who are not eligible for heart transplantation).
- 8/10
-
- Dilated Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-Treatment references
-1. Bozkurt B, Colvin M, Cook J, et al: Current Diagnostic and Treatment Strategies for Specific
-Dilated Cardiomyopathies: A Scientific Statement From the American Heart Association [published
-correction appears in Circulation 134(23):e652, 2016]. Circulation 134(23):e579–e646, 2016.
-doi:10.1161/CIR.0000000000000455
-2. Bozkurt B, Colvin M, Cook J, et al: Current diagnostic and treatment strategies for specific dilated
-cardiomyopathies: A Scientific Statement From the American Heart Association. Circulation
-134(23):e579–e646.2, 2016. doi:10.1161/CIR.0000000000000455
-3. Regitz-Zagrosek V, Roos-Hesselink JW, Bauersachs J, et al: 2018 ESC Guidelines for the
-management of cardiovascular diseases during pregnancy: The Task Force for the Management of
-Cardiovascular Diseases during Pregnancy of the European Society of Cardiology (ESC). Eur Heart J
-39: 3165–3241, 2018. doi: 10.1093/eurheartj/ehy340
 Prognosis for Dilated Cardiomyopathy
 Prognosis for dilated cardiomyopathy generally has been poor, although prognosis has improved with
 current management regimens (eg, use of beta-blockers, angiotensin-converting enzyme [ACE]
@@ -299,10 +252,6 @@ ancestry survive about half as long as White people (1).
 Prognosis is better if compensatory hypertrophy preserves ventricular wall thickness and is worse if
 ventricular walls thin markedly and the ventricle dilates. Patients whose dilated cardiomyopathy is well-
 compensated with treatment may be stable for many years.
-Prognosis reference
-1. Schultheiss HP, Fairweather D, Caforio ALP, et al. Dilated cardiomyopathy. Nat Rev Dis Primers
-2019;5(1):32. doi:10.1038/s41572-019-0084-1
-2.
 Key Points
 In dilated cardiomyopathy, the myocardium dilates, thins, and hypertrophies.
 Causes include infection (commonly viral), toxins, and metabolic, genetic, or systemic
@@ -311,7 +260,7 @@ Do chest x-ray, ECG, echocardiography, and cardiac MRI to evaluate extent of dis
 and endomyocardial biopsy in selected patients.
  9/10
 
- Dilated Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Look for other causes of heart failure.
 Treat primary cause if possible and use standard heart failure treatment measures (eg,
 angiotensin-converting enzyme [ACE] inhibitors, beta-blockers, aldosterone receptor
@@ -320,18 +269,3 @@ neprilysin inhibitor], sodium glucose cotransporter 2 protein (SGLT2) inhibitors
 hydralazine/nitrates, diuretics, digoxin, implantable cardioverter-defibrillator, and/or
 cardiac resynchronization therapy).
 Use oral anticoagulants and immunosuppressants in selected patients.
-More Information
-The following English-language resources may be useful. Please note that THE MANUAL is not
-responsible for the content of these resources.
-American Heart Association guidelines on dilated cardiomyopathies: Bozkurt B, Colvin M, Cook J, et
-al: Current diagnostic and treatment strategies for specific dilated cardiomyopathies: A Scientific
-Statement From the American Heart Association. Circulation 134(23):e579–e646.2, 2016.
-doi:10.1161/CIR.0000000000000455
-European Society of Cardiology guidelines on cardiomyopathy in pregnant patients: Regitz-
-Zagrosek V, Roos-Hesselink JW, Bauersachs J, et al: 2018 ESC Guidelines for the management of
-cardiovascular diseases during pregnancy: The Task Force for the Management of Cardiovascular
-Diseases during Pregnancy of the European Society of Cardiology (ESC). European Heart Journal 39:
-3165–3241, 2018. doi: 10.1093/eurheartj/ehy340
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 10/10

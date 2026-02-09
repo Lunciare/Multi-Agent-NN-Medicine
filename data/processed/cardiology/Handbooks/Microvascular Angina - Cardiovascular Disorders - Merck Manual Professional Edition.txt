@@ -1,29 +1,7 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Microvascular Angina - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:43.680902",
-  "file_size_bytes": 133936,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Microvascular Angina - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Microvascular Angina - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Microvascular Angina
-(Angina With No Obstructive Coronary Artery Disease [ANOCA])
-By Ranya N. Sweis, MD, MS, Northwestern University Feinberg School of Medicine;
-Arif Jivan, MD, PhD, Northwestern University Feinberg School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2024 | Modified Mar 2024
 Microvascular angina (previously known as syndrome X) is cardiac
 microvascular dysfunction or constriction causing angina in patients with
 normal epicardial coronary arteries on angiography.
-(See also Overview of Coronary Artery Disease.)
 Patients with microvascular angina have
 Typical angina that is relieved by rest or nitroglycerin
 Normal coronary angiography (eg, no atherosclerosis, embolism, or inducible arterial
@@ -39,17 +17,4 @@ ischemia may recur for years. In addition, patients with microvascular angina ap
 risk for major cardiovascular events than the general population (1).
 The mainstay of treatment is controlling risk factors with lipid-lowering therapy and glycemic control. In
 many patients, traditional anti-ischemic treatment, including beta-blockers and calcium channel
-blockers, helps to relieve symptoms (2).
-References
-1. Shimokawa H, Suda A, Takahashi J, et al: Clinical characteristics and prognosis of patients with
-microvascular angina: an international and prospective cohort study by the Coronary Vasomotor
- 1/2
-
- Microvascular Angina - Cardiovascular Disorders - Merck Manual Professional Edition
-Disorders International Study (COVADIS) Group. Eur Heart J 42(44):4592–4600, 2021.
-doi:10.1093/eurheartj/ehab282
-2. Crea F, Camici PG, Bairey Merz CN: Coronary microvascular dysfunction: an update. Eur Heart J
-35:1101–1111, 2014. doi: 10.1093/eurheartj/eht513
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 2/2
+blockers, helps to relieve symptoms.

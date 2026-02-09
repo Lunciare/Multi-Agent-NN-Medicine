@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:00.732353",
-  "file_size_bytes": 636047,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Infective Endocarditis
-By Guy P. Armstrong, MD, Waitemata District Health Board and Waitemata Cardiology, Auckland
-Reviewed By Brenda L. Tesini, MD, University of Rochester School of Medicine and Dentistry
-Reviewed/Revised Jul 2024 | Modified May 2025
 Infective endocarditis is infection of the endocardium, usually with bacteria
 (commonly, streptococci or staphylococci) or fungi. It may cause fever, heart
 murmurs, petechiae, anemia, embolic phenomena, and endocardial
@@ -36,16 +17,6 @@ individuals (1). Incidence of infection and mortality increase with increasing a
 intravenous drugs, patients who are immunocompromised, and patients with prosthetic heart valves
 and other intracardiac devices are at highest risk. There is also an increased risk in patients with
 indwelling intravascular catheters.
-Reference
-1. Cabell CH, Abrutyn E. Progress toward a global understanding of infective endocarditis. Lessons
-from the International Collaboration on Endocarditis [published correction appears in Cardiol Clin
-2003 Aug;21(3):483]. Cardiol Clin 2003;21(2):147-158. doi:10.1016/s0733-8651(03)00033-x
-Etiology of Infective Endocarditis
- 1/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
-Overview of Infective and Noni...
-VIDEO
 The normal heart is relatively resistant to infection. Bacteria and fungi do not easily adhere to the
 endocardial surface, and constant blood flow helps prevent them from settling on endocardial
 structures. Thus, 2 factors are typically required for endocarditis:
@@ -69,8 +40,7 @@ abscess, inflamed or infected gums, urinary tract infection) or have obvious por
 central venous catheter or a drug injection site. Almost any implanted foreign material (eg, ventricular
 or peritoneal shunt, prosthetic device) is at risk of bacterial colonization, thus becoming a source of
  2/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 bacteremia and hence endocarditis. Endocarditis also may result from asymptomatic bacteremia, such
 as typically occurs during invasive dental, medical, or surgical procedures. Even toothbrushing and
 chewing can cause bacteremia (usually due to viridans streptococci) in patients with gingivitis.
@@ -104,8 +74,7 @@ Endocarditis has local and systemic consequences.
 Local consequences
 Local consequences of infective endocarditis include
  3/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Myocardial abscesses with tissue destruction and sometimes conduction system
 abnormalities (usually with low septal abscesses)
 Sudden, severe valvular regurgitation, causing heart failure and death (usually due to
@@ -143,16 +112,11 @@ replacement and affects mechanical and bioprosthetic valves equally. Early-onset
 after surgery) are caused mainly by contamination during surgery with antimicrobial-resistant bacteria
 (eg, S. epidermidis, diphtheroids, coliform bacilli) or by fungi (eg, Candida species, Aspergillus species).
  4/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Late-onset infections are caused mainly by contamination with low-virulence organisms during surgery
 or by transient asymptomatic bacteremias, most often with streptococci; S. epidermidis; diphtheroids;
 and the fastidious gram-negative bacilli, Haemophilus species, Actinobacillus actinomycetemcomitans, and
 Cardiobacterium hominis.
-Classification reference
-1. Glaser N, Jackson V, Holzmann MJ, Franco-Cereceda A, Sartipy U. Prosthetic Valve Endocarditis
-After Surgical Aortic Valve Replacement. Circulation. 2017;136(3):329-331.
-doi:10.1161/CIRCULATIONAHA.117.028783
 Symptoms and Signs of Infective Endocarditis
 Symptoms and signs vary based on the classification but are nonspecific.
 Subacute bacterial endocarditis
@@ -175,23 +139,16 @@ Splenic emboli may cause left upper quadrant pain.
 Prolonged infection may cause splenomegaly or clubbing of fingers and toes.
 Cutaneous Manifestations of Infective Endocarditis
  5/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Infective Endocarditis (Osler Nodes)
 This patient with infective endocarditis has multiple Osler nodes (tender, erythematous nodules on the
 toes).
-© Springer Science+Business Media
 Infective Endocarditis (Janeway Lesions)
 This patient with infective endocarditis has multiple Janeway lesions (nontender, erythematous papules) on
 the palms. The patient also has some Osler nodes (tender, erythematous nodules on the fingers).
-© Springer Science+Business Media
 Infective Endocarditis (Osler Node and Janeway Lesions)
 The image on the left shows an Osler node (tender and erythematous nodule) on the thumb. The image on
 the right shows Janeway lesions (nontender and erythematous macules on the palm).
-© Springer Science+Business Media
- 6/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
 Splinter Hemorrhage
 Splinter hemorrhages are small linear hemorrhages under the fingernails.
 Image courtesy of CDC/Dr. Thomas F. Sellers via the Centers for Disease Control and Prevention Public
@@ -199,17 +156,13 @@ Health Image Library.
 Conjunctival Hemorrhage in Infective Endocarditis
 Infective Endocarditis (Conjunctival Petechiae)
 This photo shows conjunctival petechiae in a patient with infective endocarditis.
-© Springer Science+Business Media
 Infective Endocarditis (Conjunctival Hemorrhages)
 This photo shows conjunctival hemorrhages in a patient with infective endocarditis.
  7/26
 
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
-© Springer Science+Business Media
 Infective Endocarditis (Roth Spot)
 The image on the left shows multiple Roth spots or retinal hemorrhages. The image on the right shows a
 close up of a Roth spot with central clearing.
-© Springer Science+Business Media
 Acute bacterial endocarditis and prosthetic valvular endocarditis
 Symptoms and signs of acute bacterial endocarditis and prosthetic valvular endocarditis are similar to
 those of subacute bacterial endocarditis, but the course is more rapid. Fever (78%), cardiac murmur
@@ -218,11 +171,6 @@ purulent meningitis occurs.
 Right-sided endocarditis
 Septic pulmonary emboli may cause cough, pleuritic chest pain, and sometimes hemoptysis. A murmur
 of tricuspid regurgitation is typical.
-Symptoms and signs reference
-1. Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of
-endocarditis [published correction appears in Eur Heart J 2023 Sep 20] [published correction
-appears in Eur Heart J 2024 Jan 1;45(1):56]. Eur Heart J 44(39):3948–4042, 2023.
-doi:10.1093/eurheartj/ehad193
 Diagnosis of Infective Endocarditis
 Blood cultures or serologic testing
 Echocardiography and sometimes other imaging modalities
@@ -232,8 +180,7 @@ requires a high index of suspicion. Endocarditis should be suspected in patients
 obvious source of infection, particularly if a heart murmur is present. Suspicion of endocarditis should
 be very high if blood cultures are positive in patients who have a history of a heart valve disorder, who
  8/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 have had certain recent invasive procedures, or who inject drugs. Patients with documented bacteremia
 should be examined thoroughly and repeatedly for new valvular murmurs and signs of emboli.
 Other than positive blood cultures, there are no specific laboratory findings. Established infections often
@@ -273,8 +220,7 @@ specificity > 90% (3). Transesophageal echocardiography (TEE) can reveal vegetat
 seen on TTE. It has sensitivity of 90 to 100% (4).
 Transesophageal echocardiography (TEE) should be done when
  9/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Patients have a prosthetic valve (where TTE sensitivity is limited)
 Transthoracic echocardiography is nondiagnostic
 Diagnosis of infective endocarditis has been established clinically (done to detect
@@ -310,9 +256,6 @@ endocarditis OR
 2. Microorganisms identified in patients
 with clinical signs of active endocarditis
 or
- 10/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
 Clinical Diagnosis Status Criteria
 Clinical criteria (one of the following):
 2 major criteria
@@ -338,18 +281,12 @@ above)
 
 International Society for Cardiovascular Infectious Diseases Criteria for Infective
 Endocarditis: Updating the Modified Duke Criteria [published correction appears in Clin
-Infect Dis 2023 Oct 13;77(8):1222]. Clin Infect Dis 77(4):518–526, 2023.
-doi:10.1093/cid/ciad271
-TABLE
 Clinical Criteria for Infective Endocarditis According to the 2023
 Duke-International Society for Cardiovascular Infectious Disease
 Major criteria
 Microbiology:
 1. Two or more positive separate sets of blood cultures for organisms typical of
 endocarditis OR
- 11/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
 Three or more positive separate sets of blood cultures for organisms that rarely or
 occasionally cause endocarditis
 2. PCR or other nucleic acid technique that identifies Coxiella burnetii, Bartonella
@@ -386,8 +323,7 @@ Fever ≥ 38.0° C (≥ 100.4°F)
 Vascular phenomena (confirmed by clinical or imaging evidence):
 Arterial embolism
  12/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Septic pulmonary infarction
 Abscess of the cerebrum or spleen
 Mycotic aneurysm
@@ -418,46 +354,6 @@ regurgitation. Worsening or changing of preexisting regurgitation is not suffici
 International Society for Cardiovascular Infectious Diseases Criteria for Infective
 Endocarditis: Updating the Modified Duke Criteria [published correction appears in Clin
 Infect Dis 2023 Oct 13;77(8):1222]. Clin Infect Dis 77(4):518–526, 2023.
-doi:10.1093/cid/ciad271
-Diagnosis references
-1. Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of
-Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American
-Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in
- 13/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
-Circulation. 2021 Feb 2;143(5):e229. doi: 10.1161/CIR.0000000000000955] [published correction
-appears in Circulation. 2023 Aug 22;148(8):e8. doi: 10.1161/CIR.0000000000001177] [published
-correction appears in Circulation. 2023 Nov 14;148(20):e185. doi:
-10.1161/CIR.0000000000001190]. Circulation 143(5):e72–e227, 2021.
-doi:10.1161/CIR.0000000000000923
-2. DeSimone DC, Garrigos ZE, Marx GE, et al: Blood Culture-Negative Endocarditis: A Scientific
-Statement From the American Heart Association: Endorsed by the International Society for
-Cardiovascular Infectious Diseases [published correction appears in J Am Heart Assoc 2025 Apr
-23:e10928. doi: 10.1161/JAHA.124.035178]. J Am Heart Assoc 2025;14(8):e040218.
-doi:10.1161/JAHA.124.040218
-3. Bai AD, Steinberg M, Showler A, et al: Diagnostic Accuracy of Transthoracic Echocardiography for
-Infective Endocarditis Findings Using Transesophageal Echocardiography as the Reference
-Standard: A Meta-Analysis. J Am Soc Echocardiogr 30(7):639–646.e8, 2017.
-doi:10.1016/j.echo.2017.03.007
-4. Shapiro SM, Young E, De Guzman S, et al: Transesophageal echocardiography in diagnosis of
-infective endocarditis. Chest 105(2):377–382, 1994. doi:10.1378/chest.105.2.377
-5. Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of
-endocarditis [published correction appears in Eur Heart J 2023 Sep 20] [published correction
-appears in Eur Heart J 45(1):56, 2024]. Eur Heart J 44(39):3948–4042, 2023.
-doi:10.1093/eurheartj/ehad193
-6. Dilsizian V, Budde RPJ, Chen W, et al: Best practices for imaging cardiac device-related infections
-and endocarditis: A JACC: Cardiovascular Imaging Expert Panel Statement. JACC Cardiovasc Imaging
-15(5):891–911, 2022. doi: 10.1016/j.jcmg.2021.09.029
-7. Hess A, Klein I, Iung B, et al: Brain MRI findings in neurologically asymptomatic patients with
-infective endocarditis. AJNR Am J Neuroradiol 34(8):1579–1584, 2013. doi:10.3174/ajnr.A3582
-8. Fowler VG, Durack DT, Selton-Suty C, et al: The 2023 Duke-International Society for
-Cardiovascular Infectious Diseases Criteria for Infective Endocarditis: Updating the Modified Duke
-Criteria [published correction appears in Clin Infect Dis 2023 Oct 13;77(8):1222]. Clin Infect Dis
-77(4):518–526, 2023. doi:10.1093/cid/ciad271
-9. van der Vaart TW, Bossuyt PMM, Durack DT, et al: External Validation of the 2023 Duke-
-International Society for Cardiovascular Infectious Diseases Diagnostic Criteria for Infective
-Endocarditis. Clin Infect Dis 78(4):922–929, 2024. doi:10.1093/cid/ciae033
 Treatment of Infective Endocarditis
 IV antibiotics (based on the organism and its susceptibility)
 Sometimes valve debridement, repair, or replacement
@@ -467,8 +363,7 @@ Withholding anticoagulation in patients with cerebral embolism
 Treatment consists of a prolonged course of antimicrobial therapy (1). Surgery may be needed for
 mechanical complications or resistant organisms. Typically, antimicrobials are given IV. Because they
  14/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 must be given for 2 to 8 weeks, home IV therapy is often used.
 Any apparent source of bacteremia must be managed: necrotic tissue debrided, abscesses drained, and
 foreign material and infected devices removed. Patients with infective endocarditis should be evaluated
@@ -507,8 +402,7 @@ million units every 4 hours gentamicin 3 mg/kg† IV or
 for 4 weeks or, if IM once a day is given
 gentamicin 3 mg/kg† IV or concurrently, for 2 weeks
  15/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Medication and Dosage
 Medication And Dosage
 Type for Adults Allergic to
@@ -558,8 +452,7 @@ For NVE and PVE: Linezolid
 600 mg orally or IV every
 12 hours for 6–8 weeks
  16/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Medication and Dosage
 Medication And Dosage
 Type for Adults Allergic to
@@ -609,8 +502,7 @@ For right-sided NVE:
 Daptomycin 6 mg/kg IV
 once a day for 6 weeks
  17/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Medication and Dosage
 Medication And Dosage
 Type for Adults Allergic to
@@ -641,8 +533,7 @@ aminoglycoside (eg,
 gentamicin 2 mg/kg† IV
 every 8 hours) for 6 weeks
  18/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 * Antimicrobial sensitivity changes over time, and there are site-specific differences in
 antimicrobial susceptibility. Advice from a consultant familiar with these patterns is
 imperative.
@@ -673,8 +564,7 @@ Gram positive endocarditis (3). These options may be particularly useful for pat
 parenteral therapy is not feasible.
 Cardiac valve surgery
  19/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Surgery (debridement, valve repair, or valve replacement) is sometimes required for treatment of
 infectious endocarditis (4). Surgery is typically indicated in
 Patients with heart failure (particularly those with prosthetic, aortic, or native mitral valve
@@ -713,30 +603,10 @@ Relapse usually occurs within 4 weeks. Antibiotic retreatment may be effective, 
 required. In patients without prosthetic valves, recrudescence of endocarditis after 6 weeks usually
 results from a new infection rather than a relapse. Even after successful antimicrobial therapy, sterile
  20/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 emboli and valve rupture may occur up to 1 year later. Risk of recurrence is significant, so ongoing life-
 long dental and cutaneous hygiene is advised. Patients who require antibiotic therapy for any reason
 should have at least 3 sets of blood cultures drawn before antibiotics are started.
-Treatment references
-1. Baddour LM, Wilson WR, Bayer AS, et al: Infective endocarditis in adults: Diagnosis, antimicrobial
-therapy, and management of complications: A scientific statement for healthcare professionals
-from the American Heart Association. Circulation 132:1435–1486, 2015.
-2. Iversen K, Ihlemann N, Gill SU, et al: Partial oral versus intravenous antibiotic treatment of
-endocarditis. N Engl J Med 380:415–424, 2019. DOI: 10.1056/NEJMoa1808312
-3. Fazili T, Bansal E, Garner D, Gomez M, Stornelli N: Dalbavancin as sequential therapy for
-infective endocarditis due to Gram-positive organisms: a review. Int J Antimicrob Agents
-61(4):106749, 2023. doi:10.1016/j.ijantimicag.2023.106749
-4. Cahill TJ, Baddour LM, Habib G, et al: Challenges in infective endocarditis. J Am Coll Cardiol
-69(3):325–344, 2017.
-5. Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of
-endocarditis [published correction appears in Eur Heart J 2023 Sep 20] [published correction
-appears in Eur Heart J 45(1):56, 2024]. Eur Heart J 44(39):3948–4042, 2023.
-doi:10.1093/eurheartj/ehad193
-6. Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the management of
-patients with valvular heart disease: A report of the American College of Cardiology/American
-Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol 77(4):e25–e197,
-2021. doi: 10.1016/j.jacc.2020.11.018
 Prognosis for Infective Endocarditis
 Overall, the in-hospital mortality rate for endocarditis is 15 to 20%, with a 1-year mortality rate
 approaching 40% (1). Untreated, infective endocarditis is always fatal. Even with treatment, death is
@@ -752,8 +622,7 @@ Mycotic aneurysms
 Valve ring abscess
 Major embolic events
  21/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Septic shock is more likely in patients with diabetes, acute kidney injury, S. aureus infection, vegetation
 size > 15 mm, or signs of persistent infection. The mortality rate for viridans streptococcal endocarditis
 without major complications is < 10% (2) but is greater than 90% for Aspergillus endocarditis after
@@ -761,17 +630,6 @@ prosthetic valve surgery (3).
 The prognosis is better with right-sided than left-sided endocarditis because tricuspid valve dysfunction
 is tolerated better, systemic emboli are absent, and right-sided S. aureus endocarditis responds better to
 antimicrobial therapy.
-Prognosis references
-1. Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the management of
-patients with valvular heart disease: A report of the American College of Cardiology/American
-Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol 77(4):e25–e197,
-2021. doi: 10.1016/j.jacc.2020.11.018
-2. Hill EE, Herijgers P, Claus P, et al: Infective endocarditis: changing epidemiology and predictors
-of 6-month mortality: a prospective cohort study. Eur Heart J 28(2):196–203, 2007.
-doi:10.1093/eurheartj/ehl427
-3. Gumbo T, Taege AJ, Mawhorter S, et al. Aspergillus valve endocarditis in patients without prior
-cardiac surgery. Medicine (Baltimore). 2000;79(4):261-268. doi:10.1097/00005792-200007000-
-00007
 Prevention of Infective Endocarditis
 Preventive dental examination and therapy before surgery to repair heart valves or congenital heart
 lesions is recommended.
@@ -789,8 +647,7 @@ Prosthetic heart valves, including transcatheter implanted prostheses
 Prosthetic material used for heart valve repair (eg, annuloplasty rings, chords)
 Previous infective endocarditis
  22/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Certain congenital heart diseases (CHD): Unrepaired cyanotic CHD (including palliative
 shunts and conduits), completely repaired CHD during the first 6 months after surgery if
 prosthetic material or device was used, repaired CHD that has residual defects at or
@@ -828,8 +685,7 @@ Respiratory tract Bronchoscopy if mucosa is to be incised
 Procedures done during an established
 infection
  23/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Tonsillectomy, adenoidectomy, or both
 None, unless procedure is done during
 Gastrointestinal tract
@@ -869,27 +725,9 @@ hemolytic streptococci (eg, a cephalosporin or vancomycin or clindamycin if infe
 resistant staphylococci is possible).
 Guidelines for endocarditis prophylaxis vary geographically.
  24/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Additional information regarding prophylactic regimens is provided by guidelines from the American
 Heart Association and the European Society of Cardiology (3, 4).
-Prevention references
-1. García-Rodríguez JF, Mariño-Callejo A: The factors associated with the trend in incidence of
-Bacteraemia and associated mortality over 30 years. BMC Infect Dis 23(1):69, 2023.
-doi:10.1186/s12879-023-08018-0
-2. Cuervo G, Quintana E, Regueiro A, et al: The Clinical Challenge of Prosthetic Valve Endocarditis:
-JACC Focus Seminar 3/4. J Am Coll Cardiol 83(15):1418–1430, 2024. doi:10.1016/j.jacc.2024.01.037
-3. Wilson WR, Gewitz M, Lockhart PB, et al: Prevention of Viridans Group Streptococcal Infective
-Endocarditis: A Scientific Statement From the American Heart Association [published correction
-appears in Circulation 2021 Aug 31;144(9):e192] [published correction appears in Circulation 2022
-Apr 26;145(17):e868]. Circulation 143(20):e963–e978, 2021. doi:10.1161/CIR.0000000000000969
-4. Delgado V, Ajmone Marsan N, de Waha S, et al: 2023 ESC Guidelines for the management of
-endocarditis [published correction appears in Eur Heart J 2023 Sep 20] [published correction
-appears in Eur Heart J 45(1):56, 2024]. Eur Heart J 44(39):3948–4042, 2023.
-doi:10.1093/eurheartj/ehad193
-5. Baddour LM, Janszky I, Thornhill MH, et al: Nondental Invasive Procedures and Risk of Infective
-Endocarditis: Time for a Revisit: A Science Advisory From the American Heart
-Association. Circulation 148(19):1529–1541, 2023. doi:10.1161/CIR.0000000000001180
 Key Points
 Because the normal heart is relatively resistant to infection, endocarditis occurs mainly
 when there is a predisposing abnormality of the endocardium.
@@ -909,10 +747,6 @@ mechanical complications or resistant organisms.
 Give antimicrobial prophylaxis for patients at high risk of an adverse outcome from
 infective endocarditis, including those with prosthetic heart valves or heart valve repair,
  25/26
-
- Infective Endocarditis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 previous infective endocarditis, certain congenital heart diseases, or who are heart
 transplant recipients with valvulopathy.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 26/26

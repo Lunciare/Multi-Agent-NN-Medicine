@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Overview of the Lymphatic System - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:58.303613",
-  "file_size_bytes": 182334,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of the Lymphatic System - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Overview of the Lymphatic System - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Overview of the Lymphatic System
-By James D. Douketis, MD, McMaster University
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Apr 2024
 Plasma, along with some white blood cells, routinely moves out of capillaries into the interstitial space.
 Most of the fluid and its constituents is taken up by tissue cells or reabsorbed into the vascular tree,
 depending on the balance of hydrostatic and oncotic pressures. However, some of the fluid, along with
@@ -35,9 +16,6 @@ Before entering the central venous system, lymph passes through lymph nodes, whi
 material, including cancer cells, and foreign particles. Lymph nodes also are key participants in the
 immune system because they are packed with lymphocytes, macrophages, and dendritic cells that are
 poised to respond to any antigens transported from tissues in the lymph.
- 1/2
-
- Overview of the Lymphatic System - Cardiovascular Disorders - Merck Manual Professional Edition
 Lymph nodes are categorized as
 Superficial: Superficial nodes are located just below the skin; they are present throughout
 the body, but particular collections are present in the neck, axillae, and groin.
@@ -57,5 +35,3 @@ themselves may become infected (causing lymphadenitis) by organisms spread throu
 system from the primary site of infection.
 Various cancers may metastasize to local or regional lymph nodes. Rarely, a primary cancer (eg,
 lymphangiosarcoma) develops in the lymphatic system.
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 2/2

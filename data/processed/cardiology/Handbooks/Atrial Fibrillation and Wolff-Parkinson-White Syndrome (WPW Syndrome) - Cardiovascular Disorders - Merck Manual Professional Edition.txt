@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Atrial Fibrillation and Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:42.552438",
-  "file_size_bytes": 399205,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Atrial Fibrillation and Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Atrial Fibrillation and Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Atrial Fibrillation and Wolff-Parkinson-White
-Syndrome (WPW Syndrome)
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Sept 2024 | Modified Oct 2024
 In Wolff-Parkinson-White syndrome, antegrade conduction occurs over an
 accessory pathway. If atrial fibrillation, develops this is a medical emergency
 because very rapid ventricular rates can develop.
@@ -35,7 +15,7 @@ which the accessory AV connection is used in the retrograde direction, but they 
 conduction of atrial fibrillation, in which the accessory AV connection is used in the antegrade direction).
  1/3
 
- Atrial Fibrillation and Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Atrial Fibrillation in Wolff-Parkinson-White Syndrome
 Ventricular response is very fast (RR intervals minimum of 160 msec). Shortly thereafter,
 ventricular fibrillation develops (lead II continuous rhythm strip at bottom).
@@ -54,16 +34,8 @@ connection should be used. IV procainamide or ibutilide is preferred (1), but an
 III antiarrhythmic medication can be used.
  2/3
 
- Atrial Fibrillation and Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Pearls & Pitfalls
 Do not give digoxin, adenosine, or nondihydropyridine calcium channel blockers (eg,
 verapamil, diltiazem) to patients with atrial fibrillation and Wolff-Parkinson-White
 syndrome because these medications may trigger ventricular fibrillation.
-Treatment reference
-1. Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis
-and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American
-Heart Association Joint Committee on Clinical Practice Guidelines. Circulation 149(1):e1–e156, 2024.
-doi: 10.1161/CIR.0000000000001193
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 3/3

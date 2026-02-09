@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Stress Testing - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:50.222921",
-  "file_size_bytes": 188638,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Stress Testing - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Stress Testing - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Stress Testing
-By Thomas Cascino, MD, MSc, Michigan Medicine, University of Michigan;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Dec 2023
 In stress testing, the heart is monitored by electrocardiography (ECG) and often imaging studies during
 an induced episode of increased cardiac demand so that ischemic areas potentially at risk of infarction
 can be identified. In patients with coronary artery disease (CAD), a blood supply that is adequate at rest
@@ -46,9 +26,6 @@ Aortic stenosis if symptomatic or severe
 Arrhythmias if symptomatic or hemodynamically significant
 Heart failure if decompensated
 Myocarditis if acute
- 1/5
-
- Stress Testing - Cardiovascular Disorders - Merck Manual Professional Edition
 Pericarditis if acute
 Pulmonary embolism if acute
 Pulmonary infarction if acute
@@ -82,9 +59,6 @@ Pharmacologic stress testing is usually used when patients cannot walk on a trea
 reach their target heart rate because of deconditioning, musculoskeletal disorders, obesity, peripheral
 arterial disease, or other disorders. Drugs used include IV dipyridamole, adenosine, regadenoson, and
 dobutamine.
- 2/5
-
- Stress Testing - Cardiovascular Disorders - Merck Manual Professional Edition
 Dipyridamole augments endogenous adenosine, causing coronary artery vasodilation. It increases
 myocardial blood flow in normal coronary arteries but not in arteries distal to a stenosis, creating a
 “steal” phenomenon from stenosed arteries and an imbalance in perfusion. Dipyridamole-induced
@@ -119,9 +93,6 @@ Average sensitivity is 67%; average specificity is 72%. Sensitivity and specific
 partly because incidence of CAD is lower in young and middle-aged women. Prognosis worsens with
 depth of ST depression.
 Radionuclide myocardial perfusion imaging
- 3/5
-
- Stress Testing - Cardiovascular Disorders - Merck Manual Professional Edition
 Radionuclide myocardial perfusion imaging is more sensitive (85 to 90%) and specific (70 to 80%) than
 ECG stress testing. Combining findings from both tests increases sensitivity for coronary artery disease.
 Myocardial perfusion imaging is particularly useful for patients with
@@ -154,9 +125,3 @@ due to valvular heart disorders, cardiomyopathy, or CAD) can decrease exercise E
 prevent it from increasing.
 In patients with CAD, the 8-year survival rate is 80% with an exercise EF of 40 to 49%, 75% with an
 exercise EF of 30 to 39%, and 40% with an exercise EF of < 30%.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 4/5
-
- Stress Testing - Cardiovascular Disorders - Merck Manual Professional Edition
- 5/5

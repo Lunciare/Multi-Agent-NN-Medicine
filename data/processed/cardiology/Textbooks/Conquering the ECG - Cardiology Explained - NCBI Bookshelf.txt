@@ -1,17 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Conquering the ECG - Cardiology Explained - NCBI Bookshelf.pdf",
-  "converted_date": "2026-01-31T14:44:12.415435",
-  "file_size_bytes": 542691,
-  "original_format": "pdf",
-  "document_type": "Textbooks",
-  "source_folder": "Textbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Textbooks/Conquering the ECG - Cardiology Explained - NCBI Bookshelf.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Conquering the ECG - Cardiology Explained - NCBI Bookshelf
+Conquering the ECG - Cardiology Explained
 NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
 Ashley EA, Niebauer J. Cardiology Explained. London: Remedica; 2004.
 Chapter 3 Conquering the ECG
@@ -46,8 +33,7 @@ reflect the angles at which electrodes "look" at the heart and the direction of 
 depolarization.
 Limb leads
  1/9
-
- Conquering the ECG - Cardiology Explained - NCBI Bookshelf
+ 
 Three bipolar leads and three unipolar leads are obtained from three electrodes attached to the
 left arm, the right arm, and the left leg, respectively. (An electrode is also attached to the right
 leg, but this is an earth electrode.) The bipolar limb leads reflect the potential difference between
@@ -84,8 +70,7 @@ Depolarization of the heart
 The route that the depolarization wave takes across the heart is outlined in Figure 3. The
 sinoatrial node (SAN) is the heart's pacemaker. From the SAN, the wave of depolarization
  2/9
-
- Conquering the ECG - Cardiology Explained - NCBI Bookshelf
+ 
 spreads across the atria to the atrioventricular node (AVN). The impulse is delayed briefly at the
 AVN and atrial contraction is completed.
 Figure 3
@@ -125,8 +110,7 @@ myocardial infarction (in which case they are big and wide)
 the R wave reflects depolarization of the main mass of the ventricles –hence it is the
 largest wave
  3/9
-
- Conquering the ECG - Cardiology Explained - NCBI Bookshelf
+ 
 the S wave signifies the final depolarization of the ventricles, at the base of the heart
 ST segment
 The ST segment, which is also known as the ST interval, is the time between the end of the QRS
@@ -167,8 +151,7 @@ Rhythm
 P waves are the key to determining whether a patient is in sinus rhythm or not. If P waves are not
 clearly visible in the chest leads, look for them in the other leads. The presence of P waves
  4/9
-
- Conquering the ECG - Cardiology Explained - NCBI Bookshelf
+ 
 immediately before every QRS complex indicates sinus rhythm. If there are no P waves, note
 whether the QRS complexes are wide or narrow, regular or irregular.
 No P waves and irregular narrow QRS complexes
@@ -208,8 +191,7 @@ Duchenne de Boulogne, a pioneering neurophysiologist, in the third edition of hi
 on the medical uses of electricity. Although it is sometimes described as the first artificial
 pacing, the stimulation was of the phrenic nerve and not the myocardium.
  5/9
-
- Conquering the ECG - Cardiology Explained - NCBI Bookshelf
+ 
 ECG abnormalities
 This section discusses the most important and most frequently encountered ECG abnormalities.
 Normal variations
@@ -249,8 +231,7 @@ Dutch way), Einthoven credits Waller with this distinction in his 1895 publicati
 Pflügers Archives "Über die Form des menschlichen Elektrokardiogramms".
 Q waves
  6/9
-
- Conquering the ECG - Cardiology Explained - NCBI Bookshelf
+ 
 A normal ECG has only very small Q waves. A downward deflection immediately following a P
 wave that is wider than two small squares or greater in height than a third of the subsequent R
 wave is significant: such Q waves can represent previous infarction (see Figure 11, previous
@@ -292,8 +273,7 @@ anterior MI, inferior MI), ST depression cannot. Concave upwards ST elevation in
 diagnostic of pericarditis.
 Figure 15
  7/9
-
- Conquering the ECG - Cardiology Explained - NCBI Bookshelf
+ 
 ECG demonstrating anteroseptal myocardial infarction. Note the ST-segment
 elevation.
 Figure 16
@@ -331,8 +311,7 @@ Hyperkalemia
 The absolute potassium level is less important than its rate of rise. ECG changes reflecting a
 rapid rise demand immediate action (see Figures 19–21). The level of danger increases as the
  8/9
-
- Conquering the ECG - Cardiology Explained - NCBI Bookshelf
+ 
 ECG changes progress. The sequence generally follows the order:
 Figure 19
 Hyperkalemia. Note the tall, tented T waves.
@@ -356,13 +335,3 @@ the PQRST diagram was striking enough to be adopted by researchers as a true
 representation of the underlying form, it would have been logical to continue the same
 naming convention when the more advanced string galvanometer started creating ECGs a
 few years later.
-Further reading
-1. Ashley EA, Raxwal VK, Froelicher VF. The prevalence and prognostic significance of
-electrocardiographic abnormalities. Curr Probl Cardiol. 2000;25:1–72. [PubMed:
-10705558]
-2. Hampton JR. ECG Made Easy. London: Churchill Livingstone, 1997.
-3. Rautaharju PM. A hundred years of progress in electrocardiography. 1: Early contributions
-from Waller to Wilson. Can J Cardiol. 1987;3:362–74. [PubMed: 3322535]
-Copyright © 2004, Remedica.
-Bookshelf ID: NBK2214
- 9/9

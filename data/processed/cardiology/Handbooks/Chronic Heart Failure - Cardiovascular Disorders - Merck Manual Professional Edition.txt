@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:56.742350",
-  "file_size_bytes": 354202,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Chronic Heart Failure
-(Congestive Heart Failure)
-By Nowell M. Fine, MD, SM, Libin Cardiovascular Institute, Cumming School of Medicine, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Oct 2025
 Heart failure (HF) is a clinical syndrome in which the heart is not able to meet
 the demands of the body, manifested by low cardiac output, elevated
 ventricular filling pressure, or both. Chronic heart failure refers to the long-
@@ -40,17 +20,6 @@ D: Refractory HF requiring advanced therapies or palliative care
 Patient functional status in stages B to D can be further classified based on symptoms using the New
 York Heart Association Functional Classification system. The type of heart failure can be further
 classified based on the left ventricular ejection fraction.
-General references
-1. Bozkurt B, Ahmad T, Alexander K, et al. HF STATS 2024: Heart Failure Epidemiology and
-Outcomes Statistics An Updated 2024 Report from the Heart Failure Society of America. J Card Fail.
-2025;31(1):66-116. doi:10.1016/j.cardfail.2024.07.001
- 1/11
-
- Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
-2. Bozkurt B, Coats AJ, Tsutsui H, et al. Universal Definition and Classification of Heart Failure: A
-Report of the Heart Failure Society of America, Heart Failure Association of the European Society of
-Cardiology, Japanese Heart Failure Society and Writing Committee of the Universal Definition of
-Heart Failure. J Card Fail. Published online March 1, 2021. doi:10.1016/j.cardfail.2021.01.022
 Symptoms and Signs of Chronic Heart Failure
 Common chronic heart failure symptoms include exertional dyspnea, exercise intolerance, and
 peripheral edema (particularly in the ankles and feet) (1). Other symptoms may include anorexia or
@@ -77,14 +46,7 @@ and the hepatojugular reflex (1). Signs of pulmonary edema (crackles, hypoxemia)
 extremities, delayed capillary refill), decreased stroke volume (narrow pulse pressure), or a
 compensatory response (tachycardia, hypertension) may also occur. Weight loss and cardiac cachexia
 may occur in advanced heart failure.
-Symptoms and signs reference
-1. Bozkurt B, Coats AJ, Tsutsui H, et al. Universal Definition and Classification of Heart Failure: A
-Report of the Heart Failure Society of America, Heart Failure Association of the European Society of
-Cardiology, Japanese Heart Failure Society and Writing Committee of the Universal Definition of
-Heart Failure. J Card Fail. Published online March 1, 2021. doi:10.1016/j.cardfail.2021.01.022
- 2/11
-
- Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Diagnosis of Chronic Heart Failure
 Diagnostic techniques in heart failure are discussed in detail under Acute Heart Failure. Attention to
 symptoms, weight, serial imaging (eg, echocardiography) and measurement of natriuretic peptides and
@@ -120,7 +82,7 @@ Beta-blockers
 Angiotensin receptor/neprilysin inhibitor (ARNI)
  3/11
 
- Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Mineralocorticoid receptor antagonist (MRA)
 Sodium-glucose co-transporter 2 (SGLT2) inhibitor
 Doses of medications in these pharmacologic classes are generally titrated to maximum tolerable doses
@@ -161,7 +123,7 @@ failure, particularly those who remain symptomatic despite optimal doses of the 
 pharmacologic therapy classes (1, 2).
  4/11
 
- Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Digoxin can be used to reduce the risk of heart failure hospitalizations in patients with
 reduced ejection fraction. Digoxin is contraindicated in patients with moderate to severe
 chronic kidney disease due to the risk of toxicity.
@@ -202,7 +164,7 @@ Education
 Sodium restriction
  5/11
 
- Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Appropriate weight and fitness levels
 Correction of underlying conditions
 Patient and caregiver education are critical to long-term success. The patient and family should be
@@ -243,7 +205,7 @@ treated. Iron deficiency is among the most common causes of anemia in HF, and ir
 therapy should be considered once treatable causes such as blood loss (gastrointestinal or other) have
  6/11
 
- Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 been excluded (2). Oral iron replacement is often less effective due to poor absorption and other
 reasons, thus intravenous iron replacement is preferred.
 Management of extensive ventricular infiltration (eg, in amyloidosis) has improved considerably.
@@ -282,7 +244,7 @@ decision to use revascularization in a patient with HF and multivessel coronary 
 made on a case-by-case basis.
  7/11
 
- Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 If HF is primarily due to a valvular disorder, valve repair or replacement should be considered (1, 2).
 Patients with primary mitral regurgitation are more likely to benefit than patients with mitral
 regurgitation secondary to LV dilation, in whom poor myocardial function is likely to continue
@@ -316,58 +278,6 @@ All patients should be reassured that symptoms will be relieved, and they should
 medical attention early if their symptoms change significantly. Involvement of pharmacists, nurses,
 social workers, and clergy (when desired), who may be part of an interdisciplinary team or disease
 management program already in place, is particularly important in end-of-life care.
-Treatment references
-1. McDonagh TA, Metra M, Adamo M, et al: 2021 ESC Guidelines for the diagnosis and treatment of
-acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of
-acute and chronic heart failure of the European Society of Cardiology (ESC) with the special
- 8/11
-
- Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
-contribution of the Heart Failure Association (HFA) of the ESC. Eur Heart J 42(36):3599-3726, 2021.
-doi: 10.1093/eurheartj/ehab368
-2. Heidenreich PA, Bozkurt B, Aguilar D, et al: 2022 AHA/ACC/HFSA Guideline for the Management
-of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint
-Committee on Clinical Practice Guidelines. Circulation 145:e895–e1032, 2022, doi:
-10.1161/CIR.0000000000001063
-3. Shah SJ, Kitzman D, Borlaug B, et al: Phenotype-specific treatment of heart failure with
-preserved ejection fraction: A multiorgan roadmap. Circulation 134(1):73–90, 2016. doi:
-10.1161/CIRCULATIONAHA.116.021884
-4. Maddox TM, Januzzi JL Jr, Allen LA, et al: 2024 ACC Expert Consensus Decision Pathway for
-Treatment of Heart Failure With Reduced Ejection Fraction: A Report of the American College of
-Cardiology Solution Set Oversight Committee. J Am Coll Cardiol 83(15):1444–1488, 2024.
-doi:10.1016/j.jacc.2023.12.024
-5. McMurray JJ, Packer M, Desai AS, et al: Angiotensin-neprilysin inhibition versus enalapril in heart
-failure. N Engl J Med 371(11):993–1004, 2014. doi:10.1056/NEJMoa1409077
-6. Solomon SD, McMurray JJ, Anand IS, et al: Angiotensin-neprilysin inhibition in heart failure with
-preserved ejection fraction. N Engl J Med 381:1609–1620, 2019. doi:10.1056/NEJMoa1908655
-7. McMurray JJV, Jackson AM, Lam CSP, et al: Effects of Sacubitril-Valsartan Versus Valsartan in
-Women Compared With Men With Heart Failure and Preserved Ejection Fraction: Insights From
-PARAGON-HF. Circulation 141(5):338–351, 2020. doi:10.1161/CIRCULATIONAHA.119.044491
-8. Pitt B, Pfeffer MA, Assmann SF, et al: Spironolactone for heart failure with preserved ejection
-fraction. N Engl J Med 370(15):1383–1392, 2014. doi:10.1056/NEJMoa1313731
-9. McMurray JJV, Solomon SD, Inzucchi SE, et al: Dapagliflozin in Patients with Heart Failure and
-Reduced Ejection Fraction. N Engl J Med 381(21):1995–2008, 2019. doi:10.1056/NEJMoa191130
-10. Anker SD, Butler J, Filippatos G, et al: Empagliflozin in Heart Failure with a Preserved Ejection
-Fraction. N Engl J Med 385(16):1451–1461, 2021. doi:10.1056/NEJMoa2107038
-11. Swedberg K, Komajda M, Böhm M, et al: Ivabradine and outcomes in chronic heart failure
-(SHIFT): a randomised placebo-controlled study. Lancet 376(9744):875–885, 2010.
-doi:10.1016/S0140-6736(10)61198-1
-12. Armstrong PW, Pieske B, Anstrom KJ, et al: Vericiguat in Patients with Heart Failure and
-Reduced Ejection Fraction. N Engl J Med 382(20):1883–1893, 2020. doi:10.1056/NEJMoa1915928
-13. Kittleson MM, Panjrath GS, Amancherla K, et al: 2023 ACC Expert Consensus Decision Pathway
-on Management of Heart Failure With Preserved Ejection Fraction: A Report of the American
-College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol 81(18):1835–1878, 2023.
-doi:10.1016/j.jacc.2023.03.393
-14. Kober L, Thune JJ, Nielsen JC, et al: Defibrillator implantation in patients with nonischemic
-systolic heart failure. N Engl J Med 375(13):1221–2130, 2016. doi: 10.1056/NEJMoa1608029
-15. Clephas PRD, Radhoe SP, Boersma E, et al: Efficacy of pulmonary artery pressure monitoring in
-patients with chronic heart failure: a meta-analysis of three randomized controlled trials. Eur Heart
-J 44(37):3658–3668, 2023. doi:10.1093/eurheartj/ehad346
-16. Stone GW, Lindenfield J, Abraham WT, et al: Transcatheter mitral-valve repair in patients with
-heart failure. N Engl J Med 379(24):2307–2318, 2018. doi: 10.1056/NEJMoa1806640
- 9/11
-
- Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
 Prognosis for Chronic Heart Failure
 HF usually involves gradual deterioration, interrupted by bouts of severe decompensation, and
 ultimately death, although the time course is being lengthened with modern therapies. However, death
@@ -383,39 +293,6 @@ MAGGIC Score Predicting Heart Failure Survival
 BNP, NTproBNP, and risk scores such as the Meta-Analysis Global Group in Chronic Heart Failure
 (MAGGIC) Risk Score and the Seattle Heart Failure model, are helpful to predict prognosis in HF patients
 as an overall group, although there is significant variation in survival among individual patients (7, 8).
-Prognosis references
-1. Crespo-Leiro MG, Anker SD, Maggioni AP, et al. European Society of Cardiology Heart Failure
-Long-Term Registry (ESC-HF-LT): 1-year follow-up outcomes and differences across regions
-[published correction appears in Eur J Heart Fail. 2017 Mar;19(3):438. doi: 10.1002/ejhf.772]. Eur J
-Heart Fail. 2016;18(6):613-625. doi:10.1002/ejhf.566
-2. Jones NR, Roalfe AK, Adoki I, Hobbs FDR, Taylor CJ. Survival of patients with chronic heart failure
-in the community: a systematic review and meta-analysis. Eur J Heart Fail. 2019;21(11):1306-1325.
-doi:10.1002/ejhf.1594
-3. Pongiglione B, Torbica A, Gale CP, Tavazzi L, Vardas P, Maggioni AP. Patient, hospital and
-country-level risk factors of all-cause mortality among patients with chronic heart failure:
-Prospective international cohort study. PLoS One. 2021;16(5):e0250931. Published 2021 May 10.
-doi:10.1371/journal.pone.0250931
-4. Hollenberg SM, Warner Stevenson L, Ahmad T, et al. 2019 ACC Expert Consensus Decision
-Pathway on Risk Assessment, Management, and Clinical Trajectory of Patients Hospitalized With
-Heart Failure: A Report of the American College of Cardiology Solution Set Oversight Committee
-[published correction appears in J Am Coll Cardiol. 2020 Jan 7;75(1):132. doi:
-10.1016/j.jacc.2019.11.020]. J Am Coll Cardiol. 2019;74(15):1966-2011.
-doi:10.1016/j.jacc.2019.08.001
-5. Peura JL, Colvin-Adams M, Francis GS, et al. Recommendations for the use of mechanical
-circulatory support: device strategies and patient selection: a scientific statement from the
- 10/11
-
- Chronic Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
-American Heart Association. Circulation. 2012;126(22):2648-2667.
-doi:10.1161/CIR.0b013e3182769a54
-6. Pocock SJ, Wang D, Pfeffer MA, et al. Predictors of mortality and morbidity in patients with
-chronic heart failure. Eur Heart J. 2006;27(1):65-75. doi:10.1093/eurheartj/ehi555
-7. Rich JD, Burns J, Freed BH, Maurer MS, Burkhoff D, Shah SJ. Meta-Analysis Global Group in
-Chronic (MAGGIC) Heart Failure Risk Score: Validation of a Simple Tool for the Prediction of
-Morbidity and Mortality in Heart Failure With Preserved Ejection Fraction. J Am Heart Assoc.
-2018;7(20):e009594. doi:10.1161/JAHA.118.009594
-8. Levy WC, Mozaffarian D, Linker DT, et al. The Seattle Heart Failure Model: prediction of survival
-in heart failure. Circulation. 2006;113(11):1424-1433. doi:10.1161/CIRCULATIONAHA.105.584102
 Key Points
 Chronic heart failure affects over 6 million people in the United States.
 Chronic heart failure is staged based on structural and functional abnormalities as well as
@@ -428,6 +305,3 @@ Multidisciplinary care and lifestyle changes are important elements for treatmen
 heart failure.
 Implantable cardioverter-defibrillators and cardiac resynchronization therapy are used in
 select patients.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 11/11

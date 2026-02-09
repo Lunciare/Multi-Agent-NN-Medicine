@@ -1,31 +1,10 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Hypertensive Emergencies - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:37:08.146583",
-  "file_size_bytes": 296032,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Hypertensive Emergencies - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Hypertensive Emergencies - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Hypertensive Emergencies
-(Acute Severe Hypertension)
-By Matthew R. Weir, MD, University of Maryland School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2025 | Modified Dec 2025
 A hypertensive emergency is severe hypertension (often defined as systolic
 blood pressure (BP) ≥ 180 mm Hg and/or diastolic blood pressure ≥ 120 mm Hg)
 with signs of damage to target organs (primarily the brain, cardiovascular
 system, and kidneys). Diagnosis is by BP measurement, ECG, urinalysis, and
 serum electrolyte and creatinine measurements. Treatment is immediate BP
 reduction with IV antihypertensives.
-(See also Hypertension.)
 Signs of target-organ damage include (1):
 Hypertensive encephalopathy
 Hypertensive retinopathy
@@ -44,9 +23,6 @@ and exudation of plasma into the brain, causing cerebral edema, including papill
 Although many patients with stroke and intracranial hemorrhage present with elevated BP, elevated BP
 is often a consequence rather than a cause of the condition. Whether rapidly lowering BP is beneficial in
 these conditions is unclear (2); it may even be harmful.
- 1/7
-
- Hypertensive Emergencies - Cardiovascular Disorders - Merck Manual Professional Edition
 CLINICAL CALCULATORS
 Mean Vascular Pressure (systemic or pulmonary)
 Hypertensive urgencies
@@ -59,18 +35,6 @@ and/or use of anxiety-alleviating medications is often helpful in reducing BP (3
 incidence of hypertensive urgencies. If elevated BP persists, patients should be started on medications,
 such as combination therapy with 2 oral antihypertensives (for severe hypertension), and closely
 evaluated for treatment efficacy on an outpatient basis.
-General references
-1. Writing Committee Members*, Jones DW, Ferdinand KC, et al. 2025
-AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the
-Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults: A Report of
-the American College of Cardiology/American Heart Association Joint Committee on Clinical
-Practice Guidelines. Hypertension. 2025;82(10):e212-e316. doi:10.1161/HYP.0000000000000249
-2. Buonacera A, Stancanelli B, Malatino L. Stroke and Hypertension: An Appraisal from
-Pathophysiology to Clinical Practice. Curr Vasc Pharmacol. 2019;17(1):72-84.
-doi:10.2174/1570161115666171116151051
-3. McEvoy JW, McCarthy CP, Bruno RM, et al. 2024 ESC Guidelines for the management of elevated
-blood pressure and hypertension. Eur Heart J. 2024;45(38):3912-4018.
-doi:10.1093/eurheartj/ehae178
 Symptoms and Signs of Hypertensive Emergencies
 Blood pressure is elevated, often markedly (systolic pressure > 180 mm Hg and/or diastolic pressure ≥
 120 mm Hg). Central nervous system symptoms include rapidly changing neurologic abnormalities (eg,
@@ -81,8 +45,7 @@ Physical examination focuses on target organs, with neurologic examination, fund
 cardiovascular examination. Global cerebral deficits (eg, confusion, obtundation, coma), with or without
 focal deficits, suggest encephalopathy; normal mental status with focal deficits suggests stroke.
  2/7
-
- Hypertensive Emergencies - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Severe retinopathy (sclerosis, cotton-wool spots, arteriolar narrowing, hemorrhage, papilledema) is
 usually present with hypertensive encephalopathy, and some degree of retinopathy is present in many
 other hypertensive emergencies.
@@ -116,8 +79,7 @@ Nitroglycerin alone is less potent.
 TABLE
 Parenteral Medications for Hypertensive Emergencies
  3/7
-
- Hypertensive Emergencies - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Selected Adverse
 Medication Special Indications
 Effects*
@@ -171,8 +133,7 @@ nausea, vomiting, failure
 apprehension,
 restlessness, muscular
  4/7
-
- Hypertensive Emergencies - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Selected Adverse
 Medication Special Indications
 Effects*
@@ -218,8 +179,7 @@ Fenoldopam is a peripheral dopamine-1 agonist that causes systemic and renal vas
 natriuresis. Onset is rapid and half-life is brief, making it an effective alternative to nitroprusside, with
 the added benefit that it does not cross the blood-brain barrier.
  5/7
-
- Hypertensive Emergencies - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Labetalol is a beta-blocker with some alpha-1-blocking effects, thus causing vasodilation without the
 typical accompanying reflex tachycardia. It can be given as a constant infusion or as frequent boluses;
 use of boluses has not been shown to cause significant hypotension. Labetalol is used during
@@ -256,18 +216,6 @@ Nicardipine, a dihydropyridine calcium channel blocker with less negative inotro
 nifedipine, acts primarily as a vasodilator. It is most often used for postoperative hypertension and
 during pregnancy. It may cause flushing, headache, and tachycardia; it can decrease glomerular
 filtration rate (GFR) in patients with renal insufficiency.
-Treatment references
- 6/7
-
- Hypertensive Emergencies - Cardiovascular Disorders - Merck Manual Professional Edition
-CLINICAL CALCULATORS
-Mean Vascular Pressure (systemic or pulmonary)
-1. Aronson S, Dyke CM, Stierer KA, et al. The ECLIPSE trials: comparative studies of clevidipine to
-nitroglycerin, sodium nitroprusside, and nicardipine for acute hypertension treatment in cardiac
-surgery patients. Anesth Analg. 2008;107(4):1110-1121. doi:10.1213/ane.0b013e31818240db
-2. Tfelt-Hansen PC, Tfelt-Hansen J. Nitroglycerin headache and nitroglycerin-induced primary
-headaches from 1846 and onwards: a historical overview and an update. Headache.
-2009;49(3):445-456. doi:10.1111/j.1526-4610.2009.01342.x
 Key Points
 A hypertensive emergency is significantly elevated blood pressure (eg, systolic blood
 pressure > 180 mm Hg and/or diastolic pressure ≥ 120 mm Hg) that causes target-organ
@@ -282,6 +230,3 @@ acting, titratable IV medication such as clevidipine, nitroglycerin, fenoldopam,
 nicardipine, or labetalol.
 It is not necessary to achieve “normal” blood pressure urgently (especially true in acute
 stroke).
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 7/7

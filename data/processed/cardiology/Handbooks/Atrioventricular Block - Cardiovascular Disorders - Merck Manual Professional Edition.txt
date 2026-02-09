@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Atrioventricular Block - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:32.611864",
-  "file_size_bytes": 1005938,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Atrioventricular Block - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Atrioventricular Block - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Atrioventricular Block
-(AV Block)
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Sept 2024
 Atrioventricular (AV) block is partial or complete interruption of impulse
 transmission from the atria to the ventricles. The most common cause is
 idiopathic fibrosis and sclerosis of the conduction system. Diagnosis is by
@@ -44,7 +24,7 @@ Third-degree blocks are complete.
 First-degree AV block
  1/7
 
- Atrioventricular Block - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 All normal P waves are followed by QRS complexes, but the PR interval is longer than normal (> 0.20
 second—see figure First-Degree Atrioventricular Block).
 First-Degree Atrioventricular Block
@@ -68,7 +48,7 @@ interval prolongation during the sequence is more variable but then always short
 conducted beat after the pause (3).
  2/7
 
- Atrioventricular Block - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Classic Mobitz Type I Second-Degree Atrioventricular Block
 The PR interval progressively lengthens with each beat until the atrial impulse is not conducted
 and the QRS complex is dropped (Wenckebach phenomenon); atrioventricular nodal
@@ -91,7 +71,7 @@ In Mobitz type II second-degree AV block, the PR interval remains constant. Beat
 nonconducted and QRS complexes dropped, usually in a repeating cycle of every third (3:1 block) or
  3/7
 
- Atrioventricular Block - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 fourth (4:1 block) P wave (see figure Mobitz Type II Second-Degree AV Block). The RR interval spanning
 the block is equal to twice the other RR intervals.
 Mobitz Type II Second-Degree Atrioventricular Block
@@ -118,7 +98,7 @@ In third-degree AV block, no P waves conduct to make QRS complexes. By definitio
 greater than the QRS rate. Thus, heart block is complete in third-degree AV block (see figure Third-
  4/7
 
- Atrioventricular Block - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Degree AV Block).
 Third-Degree Atrioventricular Block
 There is no relationship between P waves and QRS complexes (AV dissociation) in third-degree
@@ -139,7 +119,7 @@ Overview of Atrioventricular B...
 VIDEO
  5/7
 
- Atrioventricular Block - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Most patients require a pacemaker. If the block is caused by antiarrhythmic medications, stopping the
 medication may be effective, although temporary pacing may be needed. However, even if the block
 reverses after stopping a negative dromotropic medication, block may later recur in the absence of the
@@ -155,33 +135,12 @@ Most patients with isolated congenital third-degree AV block have a junctional e
 maintains a reasonable rate, but they require a permanent pacemaker before they reach middle age.
 Less commonly, patients with congenital AV block have a slow escape rhythm and require a permanent
 pacemaker at a young age, perhaps even during infancy.
-References
-1.Wogan JM, Lowenstein SR, Gordon GS: Second-degree atrioventricular block: Mobitz type II. J
-Emerg Med 11(1):47–54, 1993. doi:10.1016/0736-4679(93)90009-v
-2. Nery PB, Beanlands RS, Nair GM, et al: Atrioventricular block as the initial manifestation of
-cardiac sarcoidosis in middle-aged adults. J Cardiovasc Electrophysiol 25(8):875–881, 2014. doi:
-10.1111/jce.12401
-3. Barold SS: Type I Wenckebach second-degree AV block: A matter of definition. Clin Cardiol
-41(3):282–84, 2018. doi: 10.1002/clc.22874
-4. Waller BF, Gering LE, Branyas NA, Slack JD: Anatomy, histology, and pathology of the cardiac
-conduction system--Part V. Clin Cardiol 16(7):565–569, 1993. doi:10.1002/clc.4960160710
-5. Kusumoto FM, Schoenfeld MH, Barrett C, et al: 2018 ACC/AHA/HRS guideline on the evaluation
-and management of patients with bradycardia and cardiac conduction delay: A Report of the
-American College of Cardiology/American Heart Association Task Force on Clinical Practice
-Guidelines and the Heart Rhythm Society. Heart Rhythm 16(9):e128–e226, 2019. doi:
-10.1016/j.hrthm.2018.10.037
 Key Points
 There are 3 degrees of atrioventricular (AV) block: first, second, and third.
 First-degree and second-degree blocks are partial and third-degree block is complete.
 First-degree AV block is rarely symptomatic, and no treatment is required.
 Second-degree AV block Mobitz type I may be physiologic and if heart rate slows, a reliable
 junctional escape rhythm typically develops and treatment is therefore unnecessary unless
-symptomatic bradycardia occurs.
- 6/7
-
- Atrioventricular Block - Cardiovascular Disorders - Merck Manual Professional Edition
+symptomatic bradycardia occurs. 
 Second-degree AV block Mobitz type II and third-degree AV block are always pathologic, and
 a pacemaker is typically required unless the cause is transient or reversible.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 7/7

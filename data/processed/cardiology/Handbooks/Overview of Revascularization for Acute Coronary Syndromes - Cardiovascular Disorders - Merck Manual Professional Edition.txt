@@ -1,25 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Overview of Revascularization for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:51.975745",
-  "file_size_bytes": 198211,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of Revascularization for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Overview of Revascularization for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Overview of Revascularization for Acute Coronary
-Syndromes
-By Ranya N. Sweis, MD, MS, Northwestern University Feinberg School of Medicine;
-Arif Jivan, MD, PhD, Northwestern University Feinberg School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2024
 Revascularization is the restoration of blood supply to ischemic myocardium in an effort to limit ongoing
 damage, reduce ventricular irritability, and improve short-term and long-term outcomes in patients with
 acute coronary syndromes. Modes of revascularization include:
@@ -44,9 +23,6 @@ Anatomically insignificant disease (< 50% coronary stenosis)
 Significant left main disease in patients who are not candidates for CABG
 Further, angiography or PCI should be deferred in favor of medical management for patients with a high
 risk of procedure-related morbidity or mortality.
- 1/4
-
- Overview of Revascularization for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 By contrast, patients with persistent chest pain despite maximal medical therapy or complications (eg,
 markedly elevated cardiac biomarkers, presence of cardiogenic shock, acute mitral regurgitation,
 ventricular septal defect, unstable arrhythmias) should proceed directly to the cardiac catheterization
@@ -82,8 +58,7 @@ if pain and ST-segment elevation recur, but only if PCI can be initiated < 90 mi
 recurrence. If PCI is unavailable, fibrinolytics can be repeated.
 Characteristics and selection of fibrinolytic drugs are discussed elsewhere.
  2/4
-
- Overview of Revascularization for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 TABLE
 Fibrinolytic Therapy for STEMI
 Criteria Specifics
@@ -114,13 +89,3 @@ Current anticoagulation (INR > 2)
 * Patients presenting in the hyperacute phase of MI with giant T waves do not meet current
 criteria for fibrinolytics; ECG is repeated in 20 to 30 minutes to see if ST-segment elevation
 has developed.
-General reference
-1. Lawton JS, Tamis-Holland JE, Bangalore S, et al: 2021 ACC/AHA/SCAI guideline for coronary artery
-revascularization: a report of the ACC/AHA Joint Committee on Clinical Practice Guidelines. J Am
-Coll Cardiol 79(2):e21–e129, 2022. doi: 10.1016/j.jacc.2021.09.006
- 3/4
-
- Overview of Revascularization for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 4/4

@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Palpitations - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:50.759500",
-  "file_size_bytes": 321684,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Palpitations - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Palpitations - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Palpitations
-By Andrea D. Thompson, MD, PhD, University of Michigan;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Aug 2024
 Palpitations are the perception of cardiac activity. They are often described as a fluttering, racing, or
 skipping sensation. They are common; some patients find them unpleasant and alarming. Palpitations
 can occur in the absence of heart disease or can result from life-threatening heart disorders. The key to
@@ -44,9 +24,6 @@ The most common arrhythmias include
 Premature atrial contractions (PACs)
 Premature ventricular contractions (PVCs)
 Both of these arrhythmias usually are harmless.
- 1/9
-
- Palpitations - Cardiovascular Disorders - Merck Manual Professional Edition
 Other common arrhythmias include
 Paroxysmal supraventricular tachycardia (PSVT)
 Atrioventricular nodal reentrant tachycardia
@@ -79,9 +56,6 @@ Evaluation of Palpitations
 A complete history and physical examination are essential. Observations by other medical personnel or
 reliable observers should be sought.
 History
- 2/9
-
- Palpitations - Cardiovascular Disorders - Merck Manual Professional Edition
 History of present illness should cover the frequency and duration of palpitations and provoking or
 exacerbating factors (eg, emotional distress, activity, change in position, intake of caffeine or other
 medications or drugs). Important associated symptoms include syncope, light-headedness, tunnel
@@ -118,9 +92,6 @@ Certain findings suggest a more serious etiology:
 Light-headedness or syncope (particularly if injury occurs as a result of syncope)
 Chest pain
 Dyspnea
- 3/9
-
- Palpitations - Cardiovascular Disorders - Merck Manual Professional Edition
 New onset of irregularly irregular heart rhythm
 Heart rate >120 beats/minute or < 45 beats/minute while at rest
 Significant underlying heart disease
@@ -158,8 +129,7 @@ emotional episode people)
 Ventricular arrhythmia from exercise-
 induced ischemia (particularly in people
  4/9
-
- Palpitations - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Finding Possible Cause
 with congenital arrhythmic disorders or
 CAD)
@@ -199,8 +169,7 @@ ECG is done, but unless the recording is done while symptoms are occurring, it m
 diagnosis. Many cardiac arrhythmias are intermittent and show no fixed ECG abnormalities; exceptions
 include
  5/9
-
- Palpitations - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Wolff-Parkinson-White syndrome
 Long QT syndrome
 Arrhythmogenic right ventricular cardiomyopathy
@@ -238,8 +207,7 @@ Identified rhythm disturbances and underlying disorders are investigated and tre
 Treatments for Arrhythmias). However, for rapid tachyarrhythmias in a patient in hemodynamic
 distress, cardioversion should precede further diagnostic assessment.
  6/9
-
- Palpitations - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 TABLE
 Some Treatments for Arrhythmias
 Disorder Treatment*
@@ -279,8 +247,7 @@ tachycardia)
 Ablation (often the best treatment)
 Broad complex tachycardias
  7/9
-
- Palpitations - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Disorder Treatment*
 Immediate pharmacotherapy or DC
 cardioversion
@@ -316,8 +283,7 @@ lower doses should be used to start. Subclinical conduction abnormalities may be
 on ECG or other studies), which might worsen with use of antiarrhythmics; such patients may require a
 pacemaker to allow the use of antiarrhythmics.
  8/9
-
- Palpitations - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Key Points
 Palpitations are a frequent but relatively nonspecific symptom.
 Palpitations are not a reliable indicator of a significant arrhythmia, but palpitations in a
@@ -329,5 +295,3 @@ Most antiarrhythmics themselves can cause arrhythmias.
 If in doubt about a rapid tachyarrhythmia in a patient in hemodynamic distress,
 cardiovert first and ask questions later.
 Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 9/9

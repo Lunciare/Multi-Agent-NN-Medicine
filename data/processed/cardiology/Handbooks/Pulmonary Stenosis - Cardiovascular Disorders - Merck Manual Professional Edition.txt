@@ -1,19 +1,3 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Pulmonary Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:42.258185",
-  "file_size_bytes": 331262,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Pulmonary Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Pulmonary Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Pulmonary Stenosis
 By Guy P. Armstrong, MD, Waitemata District Health Board and Waitemata Cardiology, Auckland
 Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
@@ -25,7 +9,6 @@ cases are congenital; many remain asymptomatic until adulthood. Signs include
 a crescendo-decrescendo ejection murmur. Diagnosis is by echocardiography.
 Symptomatic patients and those with large gradients require balloon
 valvuloplasty.
-(See also Overview of Cardiac Valvular Disorders.)
 Etiology of Pulmonary Stenosis
 Pulmonary stenosis is most often congenital and affects predominantly children; stenosis may be
 valvular or just below the valve in the outflow tract (infundibular); commonly it is a component of
@@ -41,8 +24,7 @@ Many children with pulmonary stenosis remain asymptomatic for years and do not d
 symptoms until adulthood, although abnormalities can sometimes be detected on exercise testing
 before symptoms appear. Even in adulthood, many patients remain asymptomatic. When symptoms of
  1/5
-
- Pulmonary Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 pulmonary stenosis develop, they resemble those of aortic stenosis (exercise intolerance, syncope,
 angina, dyspnea).
 Visible and palpable signs reflect the effects of right ventricular (RV) hypertrophy and include a
@@ -75,21 +57,9 @@ ECG may be normal or show RV hypertrophy or right bundle branch block.
 Right heart catheterization is indicated when 2 levels of obstruction are suspected (valvular and
 infundibular), when direct measurement of right ventricular or other pressures is needed, when clinical
 and echocardiographic findings differ, or before intervention is performed.
- 2/5
-
- Pulmonary Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
 Cardiac MRI may be useful if there is a need for quantification of right ventricle size or function, or the
 degree of concomitant pulmonary insufficiency.
 Phonocardiographic Characteristics of Heart Murmurs
-Diagnosis reference
-1. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC Guideline for the Management of Adults
-With Congenital Heart Disease: A Report of the American College of Cardiology/American Heart
-Association Task Force on Clinical Practice Guidelines [published correction appears in Circulation
-2019 Apr 2;139(14):e833-e834. doi: 10.1161/CIR.0000000000000683]. Circulation
-2019;139(14):e698-e800. doi:10.1161/CIR.0000000000000603
- 3/5
-
- Pulmonary Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
 Treatment of Pulmonary Stenosis
 Balloon valvuloplasty
 Sometimes surgical valvuloplasty or valve replacement
@@ -110,12 +80,6 @@ Percutaneous (transcatheter) pulmonary valve replacement is offered at many cong
 to reduce the number of open heart procedures, especially for those who have had or are expected to
 have multiple pulmonary valve interventions. The ability to use this technique depends upon patient
 size and the suitability of the pulmonary valve annulus or "landing zone."
-Treatment reference
-1. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC Guideline for the Management of Adults
-With Congenital Heart Disease: A Report of the American College of Cardiology/American Heart
-Association Task Force on Clinical Practice Guidelines [published correction appears in Circulation
-2019 Apr 2;139(14):e833-e834. doi: 10.1161/CIR.0000000000000683]. Circulation
-2019;139(14):e698-e800. doi:10.1161/CIR.0000000000000603
 Key Points
 Pulmonary stenosis is usually congenital, but symptoms (eg, syncope, angina, dyspnea)
 usually do not appear until adulthood.
@@ -123,10 +87,5 @@ Heart sounds include wide but not fixed splitting of the second heart sound and 
 crescendo-decrescendo ejection murmur heard best at the left parasternal second or
 fourth intercostal space when the patient leans forward; the murmur grows louder
 immediately with Valsalva release and with inspiration.
- 4/5
-
- Pulmonary Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
 Balloon valvuloplasty is performed for symptomatic patients and for asymptomatic
 patients with severe pulmonary stenosis.
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 5/5

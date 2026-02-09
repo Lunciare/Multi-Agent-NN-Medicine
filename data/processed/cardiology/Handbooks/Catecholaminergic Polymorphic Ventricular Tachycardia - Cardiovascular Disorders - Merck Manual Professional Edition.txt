@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Catecholaminergic Polymorphic Ventricular Tachycardia - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:45.701504",
-  "file_size_bytes": 153951,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Catecholaminergic Polymorphic Ventricular Tachycardia - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Catecholaminergic Polymorphic Ventricular Tachycardia - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
-Catecholaminergic Polymorphic Ventricular
-Tachycardia
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2024 | Modified Aug 2024
+Catecholaminergic Polymorphic Ventricular Tachycardia
 Catecholaminergic polymorphic ventricular tachycardia is a genetic disorder
 affecting intracellular calcium regulation in cardiac tissue. Patients are
 predisposed to ventricular tachyarrhythmias (less commonly atrial
@@ -41,12 +21,7 @@ The incidence of CPVT is unknown but has been estimated to be about 1 in 20,000 
 common in males and females. It is usually inherited as an autosomal dominant mutation of the gene
 encoding the cardiac ryanodine receptor, but it may be inherited as an autosomal recessive mutation of
 cardiac calsequestrin (CASQ2).
-General reference
-1. Wilde AAM, Semsarian C, Márquez MF, et al: European Heart Rhythm Association (EHRA)/Heart
-Rhythm Society (HRS)/Asia Pacific Heart Rhythm Society (APHRS)/Latin American Heart Rhythm
- 1/3
-
- Catecholaminergic Polymorphic Ventricular Tachycardia - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Society (LAHRS) Expert Consensus Statement on the state of genetic testing for cardiac diseases. J
 Arrhythm 38(4):491–553, 2022. doi: 10.1002/joa3.12717
 Symptoms and Signs of CPVT
@@ -79,7 +54,7 @@ Sometimes an implantable cardioverter-defibrillator (ICD)
 Left cardiac sympathetic denervation
  2/3
 
- Catecholaminergic Polymorphic Ventricular Tachycardia - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 All patients are advised to avoid strenuous exercise (eg, competitive sports). Particularly those who will
 not accept exercise restrictions should be counseled on the need for appropriate cautions (eg,
 availability of an automated external defibrillator during training and competition).
@@ -94,6 +69,3 @@ ablation.
 Follow-up typically involves repeated exercise testing, but the predictive value is only moderate.
 Patients who are asymptomatic (including relatives identified by genetic testing) should also moderate
 their physical activity and receive beta-blocker therapy.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 3/3

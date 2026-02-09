@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:59.980331",
-  "file_size_bytes": 473462,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Acute Heart Failure
-(Congestive Heart Failure)
-By Nowell M. Fine, MD, SM, Libin Cardiovascular Institute, Cumming School of Medicine, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Oct 2025
 Heart failure (HF) is a clinical syndrome in which the heart is not able to meet
 the metabolic demands of the body due to a structural and or functional
 cardiac abnormality, leading to low cardiac output, elevated ventricular filling
@@ -34,22 +14,6 @@ or acute decompensation of previously diagnosed heart failure. Acute heart failu
 phenotypically and further risk-stratified based on the overall severity of illness, alteration in perfusion
 ("warm" versus "cold"), the presence of congestion ("dry" versus "wet"), and other details of clinical
 presentation (2, 3).
-General references
-1. Mebazaa A, Yilmaz MB, Levy P, et al. Recommendations on pre-hospital & early hospital
-management of acute heart failure: a consensus paper from the Heart Failure Association of the
-European Society of Cardiology, the European Society of Emergency Medicine and the Society of
-Academic Emergency Medicine. Eur J Heart Fail. 2015;17(6):544-558. doi:10.1002/ejhf.289
-2. Arrigo M, Jessup M, Mullens W, et al. Acute heart failure. Nat Rev Dis Primers. 2020;6(1):16.
-Published 2020 Mar 5. doi:10.1038/s41572-020-0151-7
-3. Hollenberg SM, Warner Stevenson L, Ahmad T, et al. 2019 ACC Expert Consensus Decision
-Pathway on Risk Assessment, Management, and Clinical Trajectory of Patients Hospitalized With
-Heart Failure: A Report of the American College of Cardiology Solution Set Oversight Committee
-[published correction appears in J Am Coll Cardiol. 2020 Jan 7;75(1):132. doi:
- 1/11
-
- Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
-10.1016/j.jacc.2019.11.020.]. J Am Coll Cardiol. 2019;74(15):1966-2011.
-doi:10.1016/j.jacc.2019.08.001
 Symptoms and Signs of Acute Heart Failure
 Manifestations of heart failure differ depending on the extent to which the left ventricle (LV) and right
 ventricle (RV) are initially affected. Acute RV failure is discussed separately.
@@ -84,7 +48,7 @@ regurgitation at the apex may occur, particularly if the LV is significantly dil
 distention indicates elevated right atrial pressure. Pulsus alternans (an pulse alternating between strong
  2/11
 
- Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 and weak beats) may accompany severely reduced LV systolic function and has historically been
 considered a poor prognostic sign (1, 2).
 Pulmonary findings include early inspiratory basilar crackles that do not clear with coughing and, if
@@ -92,12 +56,6 @@ pleural effusion is present, dullness to percussion and diminished breath sounds
 Wheezing or stridor may be present due to inflammation of smaller airways as a result of pulmonary
 edema, or due to compression of larger airways by enlarged cardiac structures (ie, the left atrium or
 great vessels).
-Symptoms and signs references
-1. Aslanger E, Aggül B, Albayrak DG. Pulsus Alternans: Caught in Action. Catheter Cardiovasc Interv.
-2025;105(1):270-271. doi:10.1002/ccd.31295
-2. Schaefer S, Malloy CR, Schmitz JM, Dehmer GJ. Clinical and hemodynamic characteristics of
-patients with inducible pulsus alternans. Am Heart J. 1988;115(6):1251-1257. doi:10.1016/0002-
-8703(88)90017-8
 Diagnosis of Acute Heart Failure
 History and physical examination
 Chest radiograph
@@ -119,7 +77,7 @@ including lactic acid, electrolytes, renal function, and hepatic function, may i
 organ perfusion.
  3/11
 
- Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Diagnosis of Acute Heart Failure
 Data from McDonagh TA, Metra M, Adamo M, et al: 2021 ESC Guidelines for the diagnosis and
 treatment of acute and chronic heart failure: Developed by the Task Force for the diagnosis
@@ -132,7 +90,7 @@ fraction; HFpEF = heart failure with preserved ejection fraction; HFrEF = heart 
 reduced ejection fraction.
  4/11
 
- Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Chest radiograph
 Chest radiograph findings suggesting heart failure include an enlarged cardiac silhouette, pleural
 effusion, fluid in the major fissure, and horizontal lines in the periphery of lower posterior lung fields
@@ -143,7 +101,7 @@ projection can identify specific ventricular and atrial chamber enlargement. The
 suggest alternative diagnoses (eg, COPD, pneumonia, idiopathic pulmonary fibrosis, lung cancer).
  5/11
 
- Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 ECG
 ECG findings are not diagnostic, but an abnormal ECG, especially one showing previous myocardial
 infarction, left ventricular hypertrophy, left bundle branch block, or tachyarrhythmia (eg, rapid atrial
@@ -183,7 +141,7 @@ unclear or other diagnoses (eg, COPD) need to be excluded. It may be particularl
 with a history of both pulmonary and cardiac disorders. NT-pro-BNP, an inactive moiety created when
  6/11
 
- Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 pro-BNP is cleaved, can be used similarly to BNP. However, a normal BNP level does not exclude the
 diagnosis of heart failure, particularly in patients with HFpEF and/or obesity. In HFpEF, BNP levels tend to
 be approximately 50% of those associated with HFrEF (at similar degrees of symptoms), and up to 30%
@@ -208,21 +166,11 @@ exercise testing, volume challenge, medication challenges [eg, nitroglycerin, ni
 helpful during invasive hemodynamic testing to help diagnose HF.
 Endomyocardial biopsy is sometimes done when an infiltrative cardiomyopathy or acute giant cell
 myocarditis is strongly suspected but cannot be confirmed with noninvasive imaging (eg, cardiac MRI).
-Diagnosis references
-1. McDonagh TA, Metra M, Adamo M, et al: 2021 ESC Guidelines for the diagnosis and treatment of
-acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of
-acute and chronic heart failure of the European Society of Cardiology (ESC) with the special
-contribution of the Heart Failure Association (HFA) of the ESC. Eur Heart J 42(36):3599-3726, 2021.
-doi: 10.1093/eurheartj/ehab368
-2. Heidenreich PA, Bozkurt B, Aguilar D, et al: 2022 AHA/ACC/HFSA Guideline for the Management
-of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint
-Committee on Clinical Practice Guidelines. Circulation 145:e876–e894, 2022, doi:
-10.1161/CIR.0000000000001062
 Treatment of Acute Heart Failure
 Pharmacotherapy
  7/11
 
- Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Respiratory and other organ system support as necessary
 Identification and treatment of cause
 Sometimes device therapy (eg, implantable cardioverter-defibrillator, cardiac
@@ -264,7 +212,7 @@ randomized trials mortality was higher with vesnarinone and ibopamine and simila
 5,6). Serelaxin (a recombinant form of the human pregnancy hormone relaxin-2) has been studied, but
  8/11
 
- Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 benefits were not shown in a large international randomized study (7). Omecamtiv mecarbil (an oral
 cardiac myosin activator) reduced a composite endpoint of heart failure event or death but did not
 reduce overall cardiovascular mortality in a large randomized trial. (8).
@@ -303,7 +251,7 @@ correction of electrolyte abnormalities (especially of potassium and magnesium) 
 ventricular arrhythmias.
  9/11
 
- Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Sustained ventricular tachycardia that persists despite correction of cause (eg, low potassium or
 magnesium, ischemia) and optimal medical treatment of HF may require an antiarrhythmic medication.
 Amiodarone, beta-blockers, and dofetilide are the medications of choice because other antiarrhythmics
@@ -341,14 +289,10 @@ Treatment references
 Prognosis for Acute Heart Failure
  10/11
 
- Acute Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Generally, patients hospitalized for acute heart failure have a poor prognosis unless the cause is
 correctable. Overall combined 5-year survival is estimated at 34%, and 10-year survival at 17%, for
 patients with after an initial hospitalization for all types of heart failure (1).
-Prognosis reference
-1. Hariharaputhiran S, Peng Y, Ngo L, et al. Long-term survival and life expectancy following an
-acute heart failure hospitalization in Australia and New Zealand. Eur J Heart Fail. 2022;24(9):1519-
-1528. doi:10.1002/ejhf.2595
 Key Points
 Consider acute heart failure in patients with worsening or new onset of exertional
 dyspnea or fatigue, orthopnea, and/or edema, particularly in those with a history of
@@ -360,6 +304,3 @@ hospital discharge.
 Treatment includes control of underlying disorders, medications, sometimes
 implantable devices (cardiac resynchronization therapy, implantable cardioverter-
 defibrillators), education and lifestyle changes.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 11/11

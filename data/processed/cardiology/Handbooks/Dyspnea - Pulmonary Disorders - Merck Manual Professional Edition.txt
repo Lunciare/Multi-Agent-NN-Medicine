@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:06.932834",
-  "file_size_bytes": 355021,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Dyspnea
-By Rebecca Dezube, MD, MHS, Johns Hopkins University
-Reviewed By M. Patricia Rivera, MD, University of Rochester Medical Center
-Reviewed/Revised Nov 2025
 Dyspnea refers to unpleasant or uncomfortable breathing. It is experienced and described differently by
 patients depending on the cause.
 Etiology of Dyspnea
@@ -42,9 +23,6 @@ Pulmonary causes
 Asthma, bronchospasm, Wheezing and poor air History and physical
 or reactive airway disease exchange that arise examination
 spontaneously or after
- 1/12
-
- Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition
 Cause Suggestive Findings Diagnostic Approach †
 exposure to specific
 Sometimes pulmonary
@@ -94,7 +72,7 @@ Chest radiograph
 hydrogen sulfide) cleaning agents
  2/12
 
- Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition
+  
 Cause Suggestive Findings Diagnostic Approach †
 Sometimes ABG
 measurement and
@@ -140,7 +118,7 @@ Fluoroscopic sniff test
 Frequent orthopnea
  3/12
 
- Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition
+  
 * Acute dyspnea occurs within minutes of triggering event.
 † Most patients should have pulse oximetry and, unless symptoms are clearly a mild
 exacerbation of known chronic disease, chest radiograph.
@@ -186,7 +164,7 @@ exertion, particularly in Cardiac stress testing
 Cardiac catheterization
  4/12
 
- Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition
+  
 Cause Suggestive Findings Diagnostic Approach†
 patients with risk factors
 for CAD
@@ -228,7 +206,7 @@ systemic lupus erythematosus; S3 = third heart sound; T4 = thyroxine; TSH = thyr
 stimulating hormone.
  5/12
 
- Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition
+  
 TABLE
 Some Causes of Chronic* Dyspnea
 Cause Suggestive Findings Diagnostic Approach†
@@ -273,7 +251,7 @@ capillary pressure),
 rheumatoid arthritis,
  6/12
 
- Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition
+  
 Cause Suggestive Findings Diagnostic Approach†
 systemic lupus
 erythematosus, or acute
@@ -323,7 +301,7 @@ murmur due to increased
 flow
  7/12
 
- Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition
+  
 Cause Suggestive Findings Diagnostic Approach†
 Dyspnea only on exertion
 History and physical
@@ -337,9 +315,6 @@ exacerbation of a known chronic disease, chest radiograph.
 CAD = coronary artery disease; COPD = chronic obstructive pulmonary disease; CT =
 computed tomography; ECG = electrocardiogram; EMG = electromyography; S2 = second
 heart sound; S3 = third heart sound.
-Etiology reference
-1. Pratter MR, Curley FJ, Dubois J, Irwin RS: Cause and evaluation of chronic dyspnea in a
-pulmonary disease clinic. Arch Intern Med 149 (10): 2277–2282, 1989.
 Pathophysiology of Dyspnea
 Although dyspnea is a relatively common problem, the pathophysiology of the uncomfortable sensation
 of breathing is poorly understood. Unlike those for other types of noxious stimuli, there are no
@@ -350,15 +325,6 @@ stimulation, mechanical abnormalities in breathing, abnormalities in cardiac fun
 and the perception of those abnormalities by the central nervous system. Some authors have described
 the imbalance between neurologic stimulation and mechanical changes in the lungs and chest wall as
 neuromechanical uncoupling (1, 2).
-Pathophysiology references
-1. Mendonca CT, Schaeffer MR, Riley P, Jensen D: Physiological mechanisms of dyspnea during
-exercise with external thoracic restriction: role of increased neural respiratory drive. J Appl Physiol
-(1985) 116(5):570-581, 2014. doi:10.1152/japplphysiol.00950.2013
-2. Schwartzstein RM, Campbell ML. Dyspnea and Mechanical Ventilation: The Emperor Has No
-Clothes. Am J Respir Crit Care Med 205(8):864-865, 2022. doi:10.1164/rccm.202201-0078ED
- 8/12
-
- Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition
 Evaluation of Dyspnea
 History
 History of present illness should cover the temporal onset (eg, abrupt, insidious) and duration.
@@ -395,7 +361,7 @@ then slowly deflating until the first Korotkoff sound is heard only during expir
 deflated, the point at which the first Korotkoff sound is audible during both inspiration and expiration is
  9/12
 
- Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition
+  
 recorded. If the difference between the first and second measurement is > 12 mm Hg, then pulsus
 paradoxus is present.
 Conjunctiva should be examined for pallor.
@@ -433,7 +399,7 @@ agitation, it should not be assumed that every rapidly breathing, anxious young 
 hyperventilation syndrome.
  10/12
 
- Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition
+  
 Testing
 Pulse oximetry should be performed in all patients, and chest radiography should be done as well
 unless symptoms are clearly caused by a mild or moderate exacerbation of a known condition. For
@@ -454,10 +420,6 @@ Chronic dyspnea may warrant additional tests, such as CT, pulmonary function tes
 and bronchoscopy. If initial workup is inconclusive, cardiopulmonary exercise testing can be considered.
 CLINICAL CALCULATORS
 A-a Gradient
-Evaluation reference
-1. Parshall MB, Schwartzstein RM, Adams L, et al: An Official American Thoracic Society Statement:
-Update on the mechanisms, assessment, and management of dyspnea. Am J Respir Crit Care Med
-185:435–452, 2012.
 Treatment of Dyspnea
 Treatment is correction of the underlying disorder.
 Hypoxemia (in the absence of compensatory hyperventilation) is treated with supplemental oxygen as
@@ -468,17 +430,13 @@ oxygen tension can result in a large decline in hemoglobin saturation. Oxygen sa
 maintained at > 93% if myocardial or cerebral ischemia is a concern, although data suggest that
  11/12
 
- Dyspnea - Pulmonary Disorders - Merck Manual Professional Edition
+  
 supplemental oxygen is not beneficial in the treatment of acute myocardial infarction unless the patient
 has hypoxia (1).
 Morphine (eg, 0.5 to 5 mg IV) helps reduce anxiety and the discomfort of dyspnea in various conditions,
 including myocardial infarction, pulmonary embolism, and the dyspnea that commonly accompanies
 terminal illness. However, opioids should be used with caution in patients with acute airflow limitation
 (eg, asthma, COPD) because they suppress the ventilatory drive and can worsen respiratory acidemia.
-Treatment reference
-1. Cabello JB, Burls A, Emparanza JI, Bayliss SE, Quinn T: Oxygen therapy for acute myocardial
-infarction. Cochrane Database Syst Rev 12(12):CD007160, 2016.
-doi:10.1002/14651858.CD007160.pub4
 Key Points
 Pulse oximetry is a key component of the examination.
 Low oxygen saturation (< 90%) indicates a serious condition, but normal saturation does
@@ -489,6 +447,3 @@ Myocardial ischemia and pulmonary embolism are relatively common, but their
 symptoms and signs can be nonspecific.
 Exacerbation of known conditions (eg, asthma, chronic obstructive pulmonary disease,
 heart failure) is common, but patients may also develop new conditions.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 12/12

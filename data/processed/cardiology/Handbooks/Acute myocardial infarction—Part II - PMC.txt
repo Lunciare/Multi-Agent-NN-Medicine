@@ -1,26 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Acute myocardial infarction—Part II - PMC.pdf",
-  "converted_date": "2026-01-31T14:36:39.218026",
-  "file_size_bytes": 2151394,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Acute myocardial infarction—Part II - PMC.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
 Acute myocardial infarction—Part II - PMC
-As a library, NLM provides access to scientific literature. Inclusion in an NLM database
-does not imply endorsement of, or agreement with, the contents by NLM or the National
-Institutes of Health.
-Learn more: PMC Disclaimer | PMC Copyright Notice
-BMJ. 2002 Apr 20;324(7343):963–966. doi: 10.1136/bmj.324.7343.963
-Acute myocardial infarction—Part II
-June Edhouse, William J Brady, Francis Morris
-Article notes Copyright and License information
-PMCID: PMC1122906 PMID: 11964344
 This article describes the association of bundle branch block with acute myocardial infarction and the
 differential diagnosis of ST segment elevation.
 Bundle branch block
@@ -37,7 +15,7 @@ hypertension, or dilated cardiomyopathy. The left bundle branch usually receives
 anterior descending branch of the left coronary artery and from the right coronary artery. When new
  1/15
 
- Acute myocardial infarction—Part II - PMC
+  
 left bundle branch block occurs in the context of an acute myocardial infarction the infarct is usually
 anterior and mortality is extremely high.
 The electrocardiographic changes of acute myocardial infarction can be difficult to recognise when
@@ -67,7 +45,7 @@ generally interfere with the diagnosis of acute myocardial infarction, though it
 myocardial infarction.
  2/15
 
- Acute myocardial infarction—Part II - PMC
+  
 The Brugada syndrome, which is familial, occurs particularly in young men and is
 characterised by right bundle branch block and ST segment elevation in the right
 precordial leads. There is a high incidence of death as a result of ventricular
@@ -97,7 +75,7 @@ time. Old electrocardiograms are also useful for comparison.
 “High take-off”
  3/15
 
- Acute myocardial infarction—Part II - PMC
+  
 Care is required when interpreting ST segment elevation in right sided chest leads as the ST
 segments, particularly in leads V2 and V3, tend to be upsloping rather than flat. Isolated ST segment
 elevation in these leads should be interpreted with caution. (For more information on “high take-off”
@@ -129,7 +107,7 @@ epicardial surface record ST segment elevation, whereas those facing the ventric
 aVR and V1) record ST segment depression. The absence of widespread reciprocal change, the
  4/15
 
- Acute myocardial infarction—Part II - PMC
+  
 presence of PR segment depression, and absence of Q waves may be helpful in distinguishing
 pericarditis from acute myocardial infarction.
 Other causes of ST segment elevation
@@ -143,83 +121,6 @@ Printzmetal's angina (vasospastic angina) is associated with ST segment elevatio
 due to coronary artery spasm rather than acute infarction, they may be completely reversible if
 treated promptly. ST segment abnormalities may be seen in association with cocaine use and are
 probably due to a combination of vasospasm and thrombosis.
- 5/15
-
- Acute myocardial infarction—Part II - PMC
-Figure.
-Open in a new tab
-Appropriate discordance in uncomplicated left bundle branch block (note ST elevation in
-leads V1 to V3)
- 6/15
-🔍
-
- Acute myocardial infarction—Part II - PMC
-Figure.
-Open in a new tab
-Acute myocardial infarction and left bundle branch block. Note that the ST segments are
-elevated in leads V5 and V6 (inappropriate concordance) and grossly elevated (> 5 mm) in
-leads V2, V3, and V4; note also the ST segment depression in leads III and aVF
- 7/15
-🔍
-
- Acute myocardial infarction—Part II - PMC
-Figure.
-Open in a new tab
-ST segment depression in precordial leads in 68 year old man with chest pain
- 8/15
-🔍
-
- Acute myocardial infarction—Part II - PMC
-Figure.
-Open in a new tab
-Inappropriate concordance in lead V1 in patient with left bundle branch block (A);
-inappropriate concordance in lead V6 in patient with left bundle branch block (B); and
- 9/15
-🔍
-
- Acute myocardial infarction—Part II - PMC
-exaggeration of appropriate discordance in lead V1 in patient with left bundle branch block
-(C)
-Figure.
-Open in a new tab
-Development of left bundle branch block in same man shortly after admission (note ST
-segment depression in lead V3; this is an example of inappropriate concordance)
- 10/15
-🔍
-
- Acute myocardial infarction—Part II - PMC
-Figure.
-Open in a new tab
-Benign early repolarisation
- 11/15
-🔍
-
- Acute myocardial infarction—Part II - PMC
-Figure.
-Open in a new tab
-Persistent ST segment elevation in anterior chest leads in association with left ventricular
-aneurysm
- 12/15
-🔍
-
- Acute myocardial infarction—Part II - PMC
-Figure.
-Open in a new tab
-Acute pericarditis with widespread ST segment elevation and PR segment depression (see
-lead II)
- 13/15
-🔍
-
- Acute myocardial infarction—Part II - PMC
-Figure.
-Open in a new tab
-ST segment elevation in leads V1 to V3 in patient with left ventricular hypertrophy
- 14/15
-🔍
-
- Acute myocardial infarction—Part II - PMC
-Figure.
-Open in a new tab
 Reversible ST segment elevation associated with coronary artery spasm
 Footnotes
 The ABC of clinical electrocardiography is edited by Francis Morris, consultant in emergency
@@ -229,5 +130,3 @@ director, and vice chair, department of emergency medicine, University of Virgin
 VA, USA; and John Camm, professor of clinical cardiology, St George's Hospital Medical School,
 London. The series will be published as a book in the summer.
 Articles from BMJ : British Medical Journal are provided here courtesy of BMJ Publishing Group
- 15/15
-🔍

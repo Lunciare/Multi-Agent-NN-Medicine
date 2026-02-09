@@ -1,21 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Electrocardiogram - wikidoc.pdf",
-  "converted_date": "2026-01-31T14:36:52.869822",
-  "file_size_bytes": 1105890,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Electrocardiogram - wikidoc.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Search WikiDoc
-Search Try Exact Match
 Electrocardiogram
-Editor-In-Chief: C. Michael Gibson, M.S., M.D. [2] (mailto:charlesmichaelgibson@gmail.com)
-Synonyms and keywords: ECG; EKG
 Overview
 An electrocardiogram is a graphic produced by an electrocardiograph, which records the
 electrical activity of the heart over time. Its name is made of different parts: electro, because it's
@@ -34,7 +17,6 @@ machine consisted of a Lippmann capillary electrometer fixed to a projector. The
 heartbeat was projected onto a photographic plate which was itself fixed to a toy train. [3] (http://
 www.hrsonline.org/ep-history/topics_in_depth/topics/wallerwork.asp#8) This allowed a
 heartbeat to be recorded in real time. In 1911 he still saw little clinical application for his work.
-• • •
 The first generation of The Cambridge VS4, The Cambridge
 EKG a popular ECG Simpliscribe, a
 instrument of the popular ECG
@@ -44,9 +26,7 @@ technology. Vacuum tube
 technology.
 The breakthrough came when Willem Einthoven, working in Leiden, The Netherlands, used the
 string galvanometer invented by him in 1901, which was much more sensitive than the capillary
-electrometer t Ch oa okt i eW s ha el lple ur s du es lie vd er. [ o5 u] r services. By using our services, you agree to our use of cookies. OK
- 1/14
-
+electrometer
 Einthoven assigned the letters P, Q, R, S and T to the various deflections, and described the
 electrocardiographic features of a number of cardiovascular disorders. In 1924, he was awarded the
 Nobel Prize in Medicine for his discovery.[6]
@@ -114,7 +94,7 @@ depolarization wavefront (or mean electrical vector) approaches (A), and then be
 as it passes by (B).
 Shown below is the graphic relationship between positive electrodes, depolarization wavefronts (or
 mean electrical vectors), and complexes displayed on the ECG. Center
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  3/14
 
 Placement of Leads
@@ -139,7 +119,7 @@ V Horizontally even with V , in the left anterior axillary line.
 V Horizontally even with V and V in the midaxillary line.
 6 4 5
 Shown below are diagrams demonstrating proper placement of leads
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  4/14
 
 •
@@ -157,9 +137,6 @@ electrode at lower potential to the one at higher potential, e.g., in limb lead 
 left to right. These include the limb leads I, II, and III.
 Note that the coloring scheme for leads varies by country.
 Limb Leads
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 5/14
-
 Leads I, II and III are the so-called limb leads because at one time, the subjects of
 electrocardiography had to literally place their arms and legs in buckets of salt water in order to
 obtain signals for Einthoven's string galvanometer. They form the basis of what is known as
@@ -187,7 +164,7 @@ terminal of the EKG machine. This zeroes out the negative electrode and allows t
 electrode to become the "exploring electrode" or a unipolar lead. This is possible because
 Einthoven's Law states that I + (-II) + III = 0. The equation can also be written I + III = II. It is
 written this way (instead of I + II + III = 0) because Einthoven reversed the polarity of lead II in
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  6/14
 
 Einthoven's triangle, possibly because he liked to view upright QRS complexes. Wilson's central
@@ -272,7 +249,7 @@ boxes.
 leads to early activation of the ventricles, such as seen in Wolff-Parkinson-White syndrome.
 • A variable PR interval may indicate other types of heart block.
 • PR segment depression may indicate atrial injury or pericarditis.
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  8/14
 
 • Variable morphologies of P waves in a single ECG lead is suggestive of an ectopic pacemaker
@@ -317,7 +294,7 @@ wave should be examined together. The typical ST segment duration is usually aro
 ms). It should be essentially level with the PR and TP segment.
 • The normal ST segment has a slight upward concavity.
 • Flat, downsloping, or depressed ST segments may indicate coronary ischemia.
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  9/14
 
 • ST segment elevation may indicate myocardial infarction. An elevation of >1mm and longer
@@ -358,7 +335,7 @@ U wave
 The U wave is not always seen. It is typically small, and, by definition, follows the T wave. U waves
 are thought to represent repolarization of the papillary muscles or Purkinje fibers. Prominent U
 waves are most often seen in hypokalemia, but may be present in hypercalcemia, thyrotoxicosis, or
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  10/14
 
 exposure to digitalis, epinephrine, and Class 1A and 3 antiarrhythmics, as well as in congenital long
@@ -396,7 +373,7 @@ The heart's electrical axis refers to the general direction of the heart's depol
 leg direction, which corresponds to the left inferior quadrant of the hexaxial reference system,
 although -30o to +90o is considered to be normal.
 • Left axis deviation (-30o to -90o) may indicate left anterior fascicular block or Q waves from
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
 inferior MI.
  11/14
 
@@ -416,7 +393,7 @@ urgency.
 In various television medical dramas, an isoelectric ECG (no cardiac electrical activity, also known
 as flatline) is often used as a symbol of death or at least extreme medical peril. This is technically
 known as asystole, a form of cardiac arrest with a particularly bad prognosis. Though sometimes
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  12/14
 
 shown on television, defibrillation, which can be used to correct arrythmias such as ventricular
@@ -439,53 +416,3 @@ respond with not only increased capacity and capability, but also an enhancement
 methodologies employed. While scientific expertise will remain of prime importance, core ECG
 laboratories will need to demonstrate mastery in new core competencies of a technical and
 logistical nature.
-Related Chapters
-• Advanced cardiac life support (ACLS)
-• Ballistocardiograph
-• Cardiac cycle
-• Electrical conduction system of the heart
-• Electrocardiogram technician
-• Electroencephalography
-• Electrogastrogram
-• Electroretinography
-• Heart rate monitor
-• Holter monitor
-• Myocardial infarction
-Sources
-• ECGpedia (
-• ECGpedia: Course for interpretation of ECG (
-• The whole ECG - A really basic ECG primer (
-g/)
-• 12-lead ECG library (
-• Simulation tool to demonstrate and study the relation between the electric activity of the heart
-and the ECG (
-• ECG information (
-p) from ChiCldoroekines's h eHlpo uss pdeitliavel rH ouera sretr vCiceesn. Btey ru,s iSnge oautrt lseer.vices, you agree to our use of cookies.
- 13/14
-
-• ECG Challenge from the ACC D2B Initiative (
-• ECG simulator (
-• National Heart, Lung, and Blood Institute, Diseases and Conditions Index (
-gov/health/dci/Diseases/ekg/ekg_what.html)
-• Digital Imperative (
-• A summarized extensive history of electrocardiography (
-l)
-• Interpretation of electrocardiograms in infants and children. (
-ard/issue/issue1/ipc00103.htm)
-References
-Template:Emergency medicine
-(cid:0)
-ar:يئابرهك بلق مسر zh-min-nan:Sim-tiān-tô cs:Elektrokardiogram da:Elektrokardiogram
-de:Elektrokardiogramm eu:Elektrokardiograma gl:Electrocardiograma hr:Elektrokardiogram
-it:Elettrocardiogramma he:םרגוידרקורטקלא ku:EKG lb:Elektrokardiogramm lt:Elektrokardiografija
-hu:Elektrokardiográfia nl:Elektrocardiogram no:Elektrokardiogram nn:Elektrokardiografi
-sq:Elektrokardiografia fi:EKG sv:EKG uk:Електрокардіографія
-Template:WikiDoc Sources
-Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
-Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
-Physical Examination | Lab Tests | Drugs
-Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
-There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
-Licensing | Disclaimers | Avoid Plagiarism | Policies
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 14/14

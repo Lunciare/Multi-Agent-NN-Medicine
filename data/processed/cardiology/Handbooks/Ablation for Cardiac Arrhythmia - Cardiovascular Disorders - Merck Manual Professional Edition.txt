@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Ablation for Cardiac Arrhythmia - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:55.227664",
-  "file_size_bytes": 148406,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Ablation for Cardiac Arrhythmia - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
 Ablation for Cardiac Arrhythmia - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
-Ablation for Cardiac Arrhythmia
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2025
 The decision to treat an arrhythmia depends on its symptoms and its potential severity. Treatment is
 directed at causes. If necessary, direct antiarrhythmic therapy, including antiarrhythmic drugs,
 cardioversion-defibrillation, implantable cardioverter-defibrillators (ICDs), pacemakers (and a special
@@ -46,7 +27,7 @@ an accessory pathway), focal atrial tachycardia and atrial flutter, and focal id
 tachycardia (VT—right ventricular outflow tract, left septal, or bundle branch reentrant VT) (2, 3).
  1/2
 
- Ablation for Cardiac Arrhythmia - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Because atrial fibrillation (AF) often originates in or is maintained by an arrhythmogenic site in the
 pulmonary veins, this source can be electrically isolated by ablations at the pulmonary vein–left atrial
 junction or in the left atrium. Alternatively, in patients with refractory AF and rapid ventricular rates, the
@@ -58,25 +39,3 @@ cardiac perforation, tamponade, and unintended AV node ablation. Major complicat
 from 0.5 to 1% in straightforward supraventricular ablations to approximately 5% in complex VT
 ablations (4, 5). Mortality rates range from 0.02 to 0.04% in straightforward supraventricular ablations
 to 0.5% in complex ventricular tachycardia ablations (4, 5).
-References
-1. Andrade JG, Rivard L, Macle L. The past, the present, and the future of cardiac arrhythmia
-ablation. Can J Cardiol 2014;30(12 Suppl):S431-S441. doi:10.1016/j.cjca.2014.07.731
-2. Page RL, Joglar JA, Caldwell MA, et al. 2015 ACC/AHA/HRS guideline for the management of adult
-patients with supraventricular tachycardia: A Report of the American College of
-Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart
-Rhythm Society. Heart Rhythm 2016;13(4):e136-e221. doi:10.1016/j.hrthm.2015.09.019
-3. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS Guideline for Management
-of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of
-the American College of Cardiology/American Heart Association Task Force on Clinical Practice
-Guidelines and the Heart Rhythm Society [published correction appears in Circulation 2018 Sep
-25;138(13):e419-e420. doi: 10.1161/CIR.0000000000000614.]. Circulation 2018;138(13):e272-e391.
-doi:10.1161/CIR.0000000000000549
-4. Doldi F, Geßler N, Anwar O, et al. In-hospital mortality and major complications related to
-radiofrequency catheter ablations of over 10 000 supraventricular arrhythmias from 2005 to 2020:
-individualized case analysis of multicentric administrative data. Europace 2023;25(1):130-136.
-doi:10.1093/europace/euac146
-5. Eckardt L, Doldi F, Anwar O, et al. Major in-hospital complications after catheter ablation of
-cardiac arrhythmias: individual case analysis of 43 031 procedures. Europace 2023;26(1):euad361.
-doi:10.1093/europace/euad361
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 2/2

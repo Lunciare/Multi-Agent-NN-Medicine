@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:16.138852",
-  "file_size_bytes": 472201,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Overview of Heart Failure
-(Congestive Heart Failure)
-By Nowell M. Fine, MD, SM, Libin Cardiovascular Institute, Cumming School of Medicine, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Oct 2025
 Heart failure (HF) is a clinical syndrome in which the heart is not able to meet
 the metabolic demands of the body due to a structural and or functional
 cardiac abnormality, leading to low cardiac output, elevated ventricular filling
@@ -35,21 +15,6 @@ transplantation.
 Heart failure affects more than 64 million people worldwide (1). In the United States, there are
 approximately 6.7 million people with heart failure and approximately 1 million new cases per year; 8.7
 million people are projected to have heart failure by 2030 (2, 3).
-(See also table Common Causes of Heart Failure in Children.)
-General references
-1. Savarese G, Becher PM, Lund LH, Seferovic P, Rosano GMC, Coats AJS. Global burden of heart
-failure: a comprehensive and updated review of epidemiology [published correction appears in
-Cardiovasc Res. 2023 Jun 13;119(6):1453. doi: 10.1093/cvr/cvad026.]. Cardiovasc Res.
-2023;118(17):3272-3287. doi:10.1093/cvr/cvac013
-2. Bozkurt B, Ahmad T, Alexander K, et al. HF STATS 2024: Heart Failure Epidemiology and
-Outcomes Statistics An Updated 2024 Report from the Heart Failure Society of America. J Card Fail.
-2025;31(1):66-116. doi:10.1016/j.cardfail.2024.07.001
-3. Virani SS, Alonso A, Benjamin EJ, et al. Heart Disease and Stroke Statistics-2020 Update: A Report
-From the American Heart Association. Circulation. 2020;141(9):e139-e596.
- 1/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
-doi:10.1161/CIR.0000000000000757
 Cardiovascular Physiology
 Cardiac contractility (force and velocity of contraction), ventricular performance, and myocardial oxygen
 requirements are determined by:
@@ -85,8 +50,7 @@ muscle within a certain frequency range results in increased force of contractio
 muscle at typical heart rates exhibits a positive force-frequency relationship, so a faster rate causes
 stronger contraction (and corresponding greater substrate requirements). During some types of heart
  2/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 failure, the force-frequency relationship may become negative, so that myocardial contractility
 decreases as heart rate increases above a certain rate.
 Cardiac reserve is the ability of the heart to increase its performance above resting levels in response
@@ -106,8 +70,7 @@ pulmonary artery blood contains approximately 14 mL/dL. Oxygen extraction is thu
 mL/dL. When demand is increased, oxygen extraction may increase to 12 to 14 mL/dL. This mechanism
 also helps compensate for reduced tissue blood flow in heart failure.
  3/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Frank-Starling Principle
 Normally (top curve), as preload increases, cardiac performance also increases. However, at a
 certain point, performance plateaus, then declines. In heart failure (HF) due to systolic
@@ -124,8 +87,7 @@ disorders), rhythm abnormalities (including persistently high heart rate), and h
 (eg, due to thyrotoxicosis) also can cause heart failure.
 Classification of heart failure
  4/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Overview of Heart Failure
 VIDEO
 Heart failure can be classified as primarily left or right heart failure, or by the Universal Definition and
@@ -152,8 +114,7 @@ and causing dyspnea. However, dyspnea may occur before V/Q abnormalities, probab
 elevated pulmonary venous pressure and increased work of breathing; the precise mechanism is
 unclear.
  5/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 In severe or chronic LV failure, pleural effusions characteristically develop, further aggravating dyspnea.
 Minute ventilation increases; thus, partial pressure of arterial carbon dioxide (PaCO2) decreases and
 blood pH increases (respiratory alkalosis). Marked interstitial edema of the small airways may interfere
@@ -191,8 +152,7 @@ complex, heterogenous, multiorgan, systemic syndrome, often with multiple concom
 pathophysiologies. Data suggest that multiple comorbidities (eg, obesity, hypertension, diabetes,
 chronic kidney disease) lead to systemic inflammation, widespread endothelial dysfunction, cardiac
  6/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 microvascular dysfunction, and, ultimately, molecular changes in the heart that cause increased
 myocardial fibrosis and ventricular stiffening. Thus, although HFrEF is typically associated with primary
 myocardial injury, HFpEF may be associated with secondary myocardial injury due to abnormalities in
@@ -230,8 +190,7 @@ of the ventricles can also cause mitral or tricuspid valve regurgitation (due to
 further increases in end-diastolic volumes.
 Hemodynamic response
  7/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 With reduced cardiac output, oxygen delivery to the tissues is maintained by increasing oxygen
 extraction from the blood and sometimes shifting the oxyhemoglobin dissociation curve (see figure
 Oxyhemoglobin Dissociation Curve) to the right to favor oxygen release.
@@ -271,8 +230,7 @@ Neurohumoral response
 In conditions of stress, neurohumoral responses help increase heart function and maintain blood
 pressure and organ perfusion. Chronic activation of these responses is detrimental to the normal
  8/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 balance between myocardial-stimulating and vasoconstricting hormones and between myocardial-
 relaxing and vasodilating hormones.
 The heart contains many neurohumoral receptors (alpha-1, beta-1, beta-2, beta-3, angiotensin II type 1
@@ -311,8 +269,7 @@ function, even in healthy older adults. Modest decline in systolic function also
 related decrease in myocardial and vascular responsiveness to beta-adrenergic stimulation further
 impairs the ability of the cardiovascular system to respond to increased work demands.
  9/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 As a result of these changes, peak exercise capacity decreases significantly (approximately 8%/decade
 after age 30 years), and cardiac output at peak exercise decreases more modestly. This decline can be
 slowed by regular physical exercise. Thus, older patients are more prone than are younger ones to
@@ -321,20 +278,6 @@ cardiovascular insults. Stressors include infections (particularly pneumonia), h
 hypertension, myocardial ischemia, hypoxia, hyperthermia, renal failure, perioperative IV fluid loads,
 nonadherence to medication regimens or to low-salt diets, and use of certain medications (particularly
 nonsteroidal anti-inflammatory drugs [NSAIDs]).
-Pathophysiology references
-1. Bozkurt B, Coats AJ, Tsutsui H, et al. Universal Definition and Classification of Heart Failure: A
-Report of the Heart Failure Society of America, Heart Failure Association of the European Society of
-Cardiology, Japanese Heart Failure Society and Writing Committee of the Universal Definition of
-Heart Failure. J Card Fail. Published online March 1, 2021. doi:10.1016/j.cardfail.2021.01.022
-2. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management
-of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint
-Committee on Clinical Practice Guidelines [published correction appears in J Am Coll Cardiol. 2023
-Apr 18;81(15):1551. doi: 10.1016/j.jacc.2023.03.002.]. J Am Coll Cardiol. 2022;79(17):e263-e421.
-doi:10.1016/j.jacc.2021.12.012
-3. Campbell P, Rutten FH, Lee MM, Hawkins NM, Petrie MC. Heart failure with preserved ejection
-fraction: everything the clinician needs to know [published correction appears in Lancet. 2024 Mar
-16;403(10431):1026. doi: 10.1016/S0140-6736(24)00494-X.]. Lancet. 2024;403(10431):1083-1092.
-doi:10.1016/S0140-6736(23)02756-3
 Etiology of Heart Failure
 Both cardiac and systemic factors can impair cardiac performance and cause or aggravate heart failure
 (see table Causes of Heart Failure).
@@ -349,8 +292,7 @@ Myocarditis
 Some chemotherapy agents
 Valvular disorders Aortic stenosis
  10/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Type Examples
 Mitral regurgitation
 Tricuspid regurgitation
@@ -392,8 +334,7 @@ due to any cause resulting in low plasma oncotic pressure and peripheral edema.
 Biventricular failure results from disorders that affect the whole myocardium (eg, viral myocarditis,
 amyloidosis, Chagas disease) or long-standing LV failure causing RV failure.
  11/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 High-output HF results from a persistently high cardiac output, which may eventually result in an
 inability of a normal heart to maintain adequate output. Conditions that may increase cardiac output
 include severe anemia, end-stage liver disease, beriberi, thyrotoxicosis, advanced Paget disease,
@@ -432,8 +373,7 @@ palpitations
 (24 pounds) up
 stairs
  12/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 NYHA Class Definition Limitation Example
 Carry load
 weighing 23 kg
@@ -483,8 +423,7 @@ HF exacerbation or cleaning (eg,
 recent resting washing
 dyspnea windows,
  13/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 NYHA Class Definition Limitation Example
 sweeping,
 IIIb: With recent HF
@@ -526,26 +465,6 @@ Association Task Force on practice guidelines. Circulation. 2013;128(16):1810-18
 doi:10.1161/CIR.0b013e31829e8807; and Dolgin M, Association NYH, Fox AC, Gorlin R, Levin
 RI, New York Heart Association. Criteria Committee. Nomenclature and criteria for diagnosis of
 diseases of the heart and great vessels. 9th ed. Boston, MA: Lippincott Williams and Wilkins;
-March 1, 1994.
-MET values for activities are from:Herrmann SD, Willis EA, Ainsworth BE, et al. 2024 Adult
-Compendium of Physical Activities: A third update of the energy costs of human activities. J
-Sport Health Sci. 2024;13(1):6-12. doi:10.1016/j.jshs.2023.10.010
- 14/15
-
- Overview of Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
-Staging references
-1. Bozkurt B, Coats AJ, Tsutsui H, et al. Universal Definition and Classification of Heart Failure: A
-Report of the Heart Failure Society of America, Heart Failure Association of the European Society of
-Cardiology, Japanese Heart Failure Society and Writing Committee of the Universal Definition of
-Heart Failure. J Card Fail. Published online March 1, 2021. doi:10.1016/j.cardfail.2021.01.022
-2. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management
-of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint
-Committee on Clinical Practice Guidelines. Circulation. 2022;145:e895–e1032. doi:
-10.1161/CIR.0000000000001062
-3. Levy WC, Mozaffarian D, Linker DT, et al. The Seattle Heart Failure Model: prediction of survival
-in heart failure. Circulation. 2006;113(11):1424-1433. doi:10.1161/CIRCULATIONAHA.105.584102
-4. Thibodeau JT, Mishkin JD, Patel PC, Mammen PP, Markham DW, Drazner MH. IIIB or not IIIB: a
-previously unanswered question. J Card Fail. 2012;18(5):367-372. doi:10.1016/j.cardfail.2012.01.016
 Key Points
 Heart failure is the inability the heart to provide tissues with adequate blood for
 metabolic needs.
@@ -553,5 +472,3 @@ Heart failure most commonly affects the left ventricle, but can involve the righ
 ventricles.
 Heart failure is classified based on the left ventricular ejection fraction into heart failure
 with reduced, minimally reduced, preserved, or improved ejection fraction.
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 15/15

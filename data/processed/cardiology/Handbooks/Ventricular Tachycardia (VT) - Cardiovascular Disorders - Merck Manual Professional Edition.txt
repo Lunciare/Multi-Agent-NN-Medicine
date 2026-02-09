@@ -1,30 +1,10 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Ventricular Tachycardia (VT) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:20.580294",
-  "file_size_bytes": 601975,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Ventricular Tachycardia (VT) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Ventricular Tachycardia (VT) - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
-Ventricular Tachycardia (VT)
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Sept 2024
+Ventricular Tachycardia 
 Ventricular tachycardia is ≥ 3 consecutive ventricular beats at a rate ≥ 120
 beats/minute. Symptoms depend on duration and vary from none to
 palpitations to hemodynamic collapse and death. Diagnosis is by
 electrocardiography. Treatment of more than brief episodes is with
 cardioversion or antiarrhythmics, depending on symptoms. If necessary, long-
 term treatment is with an implantable cardioverter defibrillator.
-(See also Overview of Arrhythmias.)
 Some experts use a cutoff rate of ≥ 100 beats/minute for ventricular tachycardia (VT). Repetitive
 ventricular rhythms at slower rates are called accelerated idioventricular rhythms or slow VT; they are
 usually benign and are not treated unless patients have hemodynamic symptoms.
@@ -43,9 +23,6 @@ Right and left ventricular outflow tract ventricular tachycardia (RVOT-VT and LV
 ventricular tachycardias that occur in the absence of an evident underlying structural heart disorder (2).
 They are due to cAMP-mediated delayed after-depolarizations and usually occur with exercise or
 emotional stress (2). They typically have a morphology that is similar to left bundle branch block (LBBB)
- 1/8
-
- Ventricular Tachycardia (VT) - Cardiovascular Disorders - Merck Manual Professional Edition
 and a vertical downward axis (positive QRS in lead V1, negative QRS in lead AVL, and near-isoelectric
 QRS in lead I) (see Ventricular Premature Beats).
 Verapamil-sensitive left fascicular VT (Belhassen VT, left septal VT) is an idiopathic ventricular
@@ -63,26 +40,12 @@ calcium regulation in cardiac tissue. Patients are predisposed to atrial and/or 
 tachyarrhythmias and sudden cardiac death, particularly during increased adrenergic activity. (See also
 Arrhythmogenic Cardiac Disorders.)
 VT frequently deteriorates to ventricular fibrillation and thus cardiac arrest.
-General references
-1. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS guideline for management
-of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of
-the American College of Cardiology Foundation/American Heart Association Task Force on Clinical
-Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol 72:e91–e220, 2018. doi:
-10.1016/j.jacc.2017.10.054
-2. Lerman BB: Mechanism, diagnosis, and treatment of outflow tract tachycardia. Nat Rev Cardiol
-12(10):597–608, 2015. doi: 10.1038/nrcardio.2015.121
-3. Sung RK, Boyden PA, Scheinman M: Cellular Physiology and Clinical Manifestations of Fascicular
-Arrhythmias in Normal Hearts. JACC Clin Electrophysiol 3(12):1343–1355, 2017. doi:
-10.1016/j.jacep.2017.07.011
 Symptoms and Signs of Ventricular Tachycardia
 Ventricular tachycardia of short duration or slow rate may be asymptomatic. Sustained VT is almost
 always symptomatic, causing palpitations, symptoms of hemodynamic compromise, or sudden cardiac
 death.
 Diagnosis of Ventricular Tachycardia
 Electrocardiography (ECG)
- 2/8
-
- Ventricular Tachycardia (VT) - Cardiovascular Disorders - Merck Manual Professional Edition
 Diagnosis of ventricular tachycardia is by ECG (see figure Broad QRS Ventricular Tachycardia). Any wide
 QRS complex tachycardia (QRS ≥ 0.12 second) should be considered VT until proved otherwise.
 Pearls & Pitfalls
@@ -106,24 +69,15 @@ collapse and death (2). Still, because of its very brief half-life, IV adenosine
 maneuver (and possibly treatment, if the arrhythmia is supraventricular) in a patient who is stable and
 has a regular, monomorphic wide QRS complex tachycardia (3), albeit with a small risk of converting
 stable VT to unstable ventricular fibrillation.
- 3/8
-
- Ventricular Tachycardia (VT) - Cardiovascular Disorders - Merck Manual Professional Edition
 Modified Brugada Criteria for Ventricular Tachycardia
 *With RBBB QRS:
 In V1, monophasic R, or QR, or RS
- 4/8
-
- Ventricular Tachycardia (VT) - Cardiovascular Disorders - Merck Manual Professional Edition
 In V6, R/S < 1 or monophasic R or QR
 *With LBBB QRS:
 In V1, R > 30 milliseconds wide or RS > 60 milliseconds wide
 In V6, QR or QS
 AV = atrioventricular; LBBB = left bundle branch block; msec = millisecond; RBBB = right
 bundle branch block; VT = ventricular tachycardia.
-Data from Brugada P, Brugada J, Mont L, Smeets J, Andries EW. A new approach to the
-differential diagnosis of a regular tachycardia with a wide QRS complex. Circulation.
-1991;83(5):1649-1659. doi:10.1161/01.cir.83.5.1649
 Pearls & Pitfalls
 Because some patients tolerate ventricular tachycardia surprisingly well, it is a mistake to
 conclude that a well-tolerated wide QRS complex tachycardia must be of supraventricular
@@ -131,20 +85,6 @@ origin.
 Broad QRS Ventricular Tachycardia
 The QRS duration is 160 millisecond. An independent P wave can be seen in II (arrows). There
 is a leftward mean frontal axis shift.
-Diagnosis references
-1. Vereckei A, Simon A, Szénási G, et al: The Application of a New, Modified Algorithm for the
-Differentiation of Regular Ventricular and Pre-Excited Tachycardias. Heart Lung Circ 32(6):719–725,
-2023. doi: 10.1016/j.hlc.2023.03.016
- 5/8
-
- Ventricular Tachycardia (VT) - Cardiovascular Disorders - Merck Manual Professional Edition
-2. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS guideline for management
-of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of
-the American College of Cardiology Foundation/American Heart Association Task Force on Clinical
-Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol 72:e91–e220, 2018. doi:
-10.1016/j.jacc.2017.10.054
-3. Marill KA, Wolfram S, Desouza IS, et al: Adenosine for wide-complex tachycardia: efficacy and
-safety. Crit Care Med 37:2512–2518, 2009. doi: 10.1097/CCM.0b013e3181a93661
 Treatment of Ventricular Tachycardia
 Acute: Sometimes synchronized direct current cardioversion, sometimes class I or class III
 antiarrhythmics
@@ -174,8 +114,7 @@ Long-term treatment is not required when the index episode of ventricular tachyc
 transient cause (eg, during the 48 hours after onset of myocardial infarction) or a reversible cause (acid-
 base disturbances, electrolyte abnormalities, proarrhythmic medication effect).
  6/8
-
- Ventricular Tachycardia (VT) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 In the absence of a transient or reversible cause, patients who have had an episode of sustained VT
 typically require an ICD (1). Most patients with sustained VT and a significant structural heart disorder
 should also receive a beta-blocker. If an ICD cannot be used, amiodarone may be the preferred
@@ -191,17 +130,6 @@ commonly used, then amiodarone (1).
 Transcatheter ablation is particularly successful in patients who have VT with well-defined syndromes
 (eg, right or left ventricular outflow tract VT, verapamil-sensitive left fascicular VT, or bundle branch
 reentrant VT (1).
-Overview of Ventricular Tachyc...
-VIDEO
-Treatment reference
-1. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS guideline for
-management of patients with ventricular arrhythmias and the prevention of sudden cardiac death:
-a report of the American College of Cardiology Foundation/American Heart Association Task Force
-on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol 72:e91–e220, 2018.
-doi: 10.1016/j.jacc.2017.10.054
- 7/8
-
- Ventricular Tachycardia (VT) - Cardiovascular Disorders - Merck Manual Professional Edition
 Key Points
 Any wide-complex (QRS ≥ 0.12 second) tachycardia should be considered ventricular
 tachycardia (VT) until proved otherwise.
@@ -210,6 +138,3 @@ Synchronized cardioversion or antiarrhythmic medications may be tried if the pat
 stable.
 Patients who had an episode of sustained VT without a transient or reversible cause
 typically require an implantable cardioverter-defibrillator (ICD).
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 8/8

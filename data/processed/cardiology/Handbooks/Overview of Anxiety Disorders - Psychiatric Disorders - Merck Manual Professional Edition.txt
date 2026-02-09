@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Overview of Anxiety Disorders - Psychiatric Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:12.915103",
-  "file_size_bytes": 308590,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of Anxiety Disorders - Psychiatric Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Overview of Anxiety Disorders - Psychiatric Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Overview of Anxiety Disorders
-By John W. Barnhill, MD, New York-Presbyterian Hospital
-Reviewed By Mark Zimmerman, MD, South County Psychiatry
-Reviewed/Revised Aug 2023 | Modified Jan 2024
 Anxiety disorders are characterized by persistent and excessive fear and
 anxiety and the dysfunctional behavioral changes a patient may use to mitigate
 these feelings. Anxiety disorders are differentiated from one another based on
@@ -43,9 +24,6 @@ The Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Rev
 various anxiety disorders in order of the typical age of onset (3):
 Separation anxiety disorder
 Selective mutism
- 1/10
-
- Overview of Anxiety Disorders - Psychiatric Disorders - Merck Manual Professional Edition
 Specific phobia (animal, natural environment, blood-injection injury, situational)
 Social anxiety disorder
 Panic disorder
@@ -67,22 +45,12 @@ substance use disorders, personality disorders, and other anxiety disorders are 
 comorbidities, as are cardiovascular disease, asthma, migraines, and arthritis. Because anxiety
 disorders often precede other psychiatric comorbidities, early and effective treatment of the anxiety
 disorder can prevent or mitigate their development.
-General references
-1. Bandelow B, Michaelis S: Epidemiology of anxiety disorders in the 21st century. Dialogues Clin
-Neurosci 17(3):327-335, 2015. doi: 10.31887/DCNS.2015.17.3/bbandelow
-2. Penninx BW, Pine DS, Holmes EA, et al: Anxiety disorders. Lancet 97(10277):914-927, 2021. doi:
-10.1016/S0140-6736(21)00359-7
-3. Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR).
-American Psychiatric Association Publishing, Washington, DC, pp 215-262.
 Etiology of Anxiety Disorders
 There is no single gene or psychological cause for anxiety disorders, but they do seem to develop in the
 context of typical biopsychosocial factors. Anxiety disorders tend to run in families, and they do so
 through at least 2 mechanisms (1):
 A childhood trait of "behavioral inhibition" appears to be somewhat inherited, and that trait
 is associated with an increased risk of anxiety disorders in adolescence.
- 2/10
-
- Overview of Anxiety Disorders - Psychiatric Disorders - Merck Manual Professional Edition
 Social fears and avoidance can be transmitted to children through parental modeling
 and/or early traumatic experiences that might include childhood maltreatment or medical
 illnesses (eg, asthma). It has been hypothesized that these experiences and genetic
@@ -122,8 +90,7 @@ issues, but the symptoms are often intensified by media exposure, economic hards
 regarding the future, fears of infection (for themselves and loved ones), loss of familiar supports (eg,
 friends, employment), and behavioral restrictions (eg, masks, social distancing).
  3/10
-
- Overview of Anxiety Disorders - Psychiatric Disorders - Merck Manual Professional Edition
+ 
 Symptomatic COVID-19 infection is also associated with increased anxiety (3). The triggers for this
 increased anxiety can be physiologic (eg, shortness of breath); psychological (eg, immediate fears of
 death); social (eg, isolation from loved ones); and pharmacologic (eg, corticosteroids are often used in
@@ -131,14 +98,6 @@ treatment of COVID-19). In addition, it has been hypothesized that COVID-19 indu
 response that directly leads to neuropsychiatric symptoms (eg, anxiety, mood changes, neuromuscular
 dysfunction); these neuropsychiatric reactions may be acute or part of a syndrome known as long
 COVID. (See also COVID-Related Neuropsychiatric Manifestations.)
-Etiology references
-1. Juruena MF, Eror F, Cleare AJ, et al: The role of early life stress in HPA axis and anxiety. Adv Exp
-Med Biol 1191:141-153, 2020. doi: 10.1007/978-981-32-9705-0_9
-2. Shafran R, Rachman S, Whittal M, et al: Fear and anxiety in COVID-19: Preexisting anxiety
-disorders. Cogn Behav Pract 28(4):459-467, 2021. doi:10.1016/j.cbpra.2021.03.003
-3. Troyer EA, Kohn JN, Hong S: Are we facing a crashing wave of neuropsychiatric sequelae of
-COVID-19? Neuropsychiatric symptoms and potential immunologic mechanisms. Brain Behav
-Immun 87:34-39, 2020. doi: 10.1016/j.bbi.2020.04.027
 Symptoms and Signs of Anxiety Disorders
 Anxiety disorders tend to differ from usual and normal anxiety by being persistent (> 6 months),
 excessive, debilitating, and uncomfortable.
@@ -150,16 +109,11 @@ Cardiac: Palpitations, accelerated heart rate
 Musculoskeletal: Muscle tension, chest pain or tightness
 A panic or worry diary can be a useful tool for recording symptoms, both because retrospective anxiety
 reports can be vague and because treatment strategies often depend on details.
-Signs and symptoms reference
-1. Craske MG, Stein MB: Anxiety. Lancet 388:3048-3059, 2016. doi: 10.1016/S0140-6736(16)30381-6
 Diagnosis of Anxiety Disorders
 Diagnostic and Statistical Manual of Mental Disorders, 5th edition, Text Revision (DSM-5-TR)
 criteria
 Diagnosis of a specific anxiety disorder is based on its characteristic symptoms and signs according to
 DSM-5-TR. In general, an anxiety disorder may be suspected when the following apply (1):
- 4/10
-
- Overview of Anxiety Disorders - Psychiatric Disorders - Merck Manual Professional Edition
 Anxiety is very distressing.
 Anxiety interferes with functioning.
 Anxiety does not stop spontaneously within a few days.
@@ -197,9 +151,6 @@ they suspect that their clinicians are too busy to address anything other than t
 nonpsychiatric medical issue.
 It is useful for the clinician to consider that different individuals or groups use different words to
 describe distress. For example, people in many countries use the phrase "thinking too much" rather
- 5/10
-
- Overview of Anxiety Disorders - Psychiatric Disorders - Merck Manual Professional Edition
 than describing symptoms that match specific psychiatric criteria for disorders such as major
 depression, posttraumatic stress disorder (PTSD), or generalized anxiety disorder (5).
 It can also be useful to ask patients what they think is causing their problems. Not all patients believe
@@ -209,18 +160,6 @@ an "evil eye").
 Eliciting such information improves the patient-clinician alliance, deepens the understanding of both the
 patient and the presenting complaints, and improves the likelihood that the patient will be more
 transparent and adherent going forward.
-Diagnosis references
-1. Diagnostic and Statistical Manual of Mental Disorders, 5th edition,Text Revision (DSM-5-TR).
-American Psychiatric Association Publishing, Washington, DC, pp 215-221.
-2. Craske MG, Stein MB: Anxiety. Lancet 388:3048-3059, 2016. doi: 10.1016/S0140-6736(16)30381-6
-3. Diagnostic and Statistical Manual of Mental Disorders, 5th Edition, Text Revision (DSM-5-TR),
-Cultural Concepts of Distress. American Psychiatric Association Publishing, Washington, DC, pp
-872-880.
-4. Lewis-Fernández R, Aggarwal NK, Lam PC, et al: Feasibility, acceptability and clinical utility of the
-Cultural Formulation Interview: Mixed-methods results from the DSM-5 international field trial. Br J
-Psychiatry 210(4):290-297, 2017. doi: 10.1192/bjp.bp.116.193862
-5. Kaiser BN , Haroz EE, Kohrt BA, et al: "Thinking too much": A systematic review of a common
-idiom of distress. Soc Sci Med 147:170-183, 2015. doi: 10.1016/j.socscimed.2015.10.044
 Treatment of Anxiety Disorders
 Psychoeducation
 Relaxation techniques
@@ -235,9 +174,6 @@ Treatment of comorbid medical conditions that can contribute to anxiety (eg, ast
 Co-occurring substance use disorders should generally be treated concomitantly with the
 anxiety disorder. It should be recognized that the substance is often partly being used to
 reduce anxiety, and withdrawal can induce additional anxiety.
- 6/10
-
- Overview of Anxiety Disorders - Psychiatric Disorders - Merck Manual Professional Edition
 Lifestyle modifications such as obtaining adequate exercise and sleep (1) and limiting
 caffeine intake may significantly reduce anxiety symptoms.
 Treatment recommendations are influenced by patient preferences and access to mental
@@ -277,8 +213,7 @@ prominent social anxiety), but most respond with avoidance. Exposure therapy aim
 avoidance behavior and then present the patient with gradually intensifying opportunities to be safely
 exposed to the fearful trigger, gradually desensitizing the patient.
  7/10
-
- Overview of Anxiety Disorders - Psychiatric Disorders - Merck Manual Professional Edition
+ 
 Other psychotherapies used for treatment of anxiety disorders combine aspects of CBT, relaxation,
 and mindfulness along with other strategies that appear to be helpful. These treatments include
 mindfulness-based stress reduction, hypnosis, panic-focused psychodynamic psychotherapy,
@@ -320,8 +255,7 @@ disorders regardless of whether there is a comorbid depressive disorder.
 SSRI antidepressants are generally started at the lowest available dose to minimize adverse effects.
 Patients with anxiety may be sensitive to bodily changes and may discontinue treatment if they
  8/10
-
- Overview of Anxiety Disorders - Psychiatric Disorders - Merck Manual Professional Edition
+ 
 experience adverse effects early on. Once the patient has tolerated the initial dose, the antidepressant
 can be gradually increased until a therapeutic dose or therapeutic effect is reached. A positive clinical
 effect may occur at any time but often takes 6 or more weeks to achieve.
@@ -352,37 +286,3 @@ physiologically cause anxiety, but so can some of the medications used to treat 
 contribute to an asthma exacerbation, and fears of an asthma exacerbation can lead to avoidance
 behaviors (eg, diminished activity, medication nonadherence) that in turn can exacerbate asthma and
 lead to a diminished quality of life.
-Treatment references
-1. Chellappa SL, Aeschbach D: Sleep and anxiety: From mechanisms to interventions. Sleep Med
-Rev61:101583, 2022. doi: 10.1016/j.smrv.2021.101583
-2. Bandelow B, Michaelis S, Wedekind D: Treatment of anxiety disorders. Dialogues Clin Neurosci
-19(2):93-107, 2017. doi: 10.31887/DCNS.2017.19.2/bbandelow
-3. Cuijpers P, Sijbrandij M, Koole SL, et al: Adding psychotherapy to antidepressant medication in
-depression and anxiety disorders: a meta-analysis. World Psychiatry, 13(1), 56-67, 2014.doi:
-10.1002/wps.20089
- 9/10
-
- Overview of Anxiety Disorders - Psychiatric Disorders - Merck Manual Professional Edition
-4. Szuhany KL, Simon NM: Anxiety disorders: A review. JAMA 328(24):2431-2445, 2022. doi:
-10.1001/jama.2022.22744
-5. Haller H, Breilmann P, Schröter, M. et al: A systematic review and meta-analysis of acceptance-
-and mindfulness-based interventions for DSM-5 anxiety disorders. Sci Rep 11(1):20385, 2021. doi:
-10.1038/s41598-021-99882-w
-6. Valentine KE, Milling LS, Clark LJ, et al: The efficacy of hypnosis as a treatment for anxiety: A
-meta-analysis. Int J Clin Exp Hyposis 67(3)336-363, 2019. doi: 10.1080/00207144.2019.1613863
-7. Barber JP, Milrod B, Gallop R, et al: Processes of therapeutic change: Results from the Cornell-
-Penn Study of Psychotherapies for Panic Disorder. J Couns Psychol 67(2):222-231, 2020. doi:
-10.1037/cou0000417
-8. Markowitz JC, Milrod B, Luyten P, et al: Mentalizing in interpersonal psychotherapy. Am J
-Psychother 72(4):95-100. 2019. doi: 10.1176/appi.psychotherapy.20190021
-9. Slee A, Nazareth I, Bondaronek P, et al: Pharmacological treatments for generalised anxiety
-disorder: A systematic review and network meta-analysis. Lancet 2019393(10173):768-777. doi:
-10.1016/S0140-6736(18)31793-8
-10. Balon R, Starcevic V: Role of benzodiazepines in anxiety disorders. Adv Exp Med Biol 1191:367-
-388, 2020. doi: 10.1007/978-981-32-9705-0_20
-11. Anker JJ, Kushner MG: Co-occurring alcohol use disorder and anxiety: Bridging psychiatric,
-psychological, and neurobiological perspectives. Alcohol Res 40(1):arcr.v40.1.03, 2019. doi:
-10.35946/arcr.v40.1.03
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 10/10

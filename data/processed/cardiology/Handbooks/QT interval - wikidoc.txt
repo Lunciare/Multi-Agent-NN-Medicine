@@ -1,21 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "QT interval - wikidoc.pdf",
-  "converted_date": "2026-01-31T14:36:01.025469",
-  "file_size_bytes": 591653,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/QT interval - wikidoc.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Search WikiDoc
-Search Try Exact Match
 QT interval
-Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1]
-(mailto:charlesmichaelgibson@gmail.com)
 Synonyms and keywords: QT; QTc; corrected
 QT interval; corrected QT
 Overview
@@ -45,9 +28,6 @@ In the same year, Fridericia [2] published an alternative adjustment:
 There are several other methods, but a regression based approach is the most accurate according to
 the current knowledge. An example of the regression-based approach is that developed by Sagie et
 al.,[3] as follows:
-Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
- 1/7
-
 <math>QT_S = QT + 0.154(1-RR)</math>.
 Measurement
 Normal values for the QT interval are between 0.30 and 0.44 (0.45 for women) seconds. QT
@@ -66,7 +46,7 @@ T wave is determined by the point at which the component of the T wave merges wi
 isoelectric baseline or the tangent method, in which the end of the T wave is determined by the
 intersection of a line extrapolated from the isoelectric baseline and the tangent line, which touches
 the terminal part of the T wave at the point of maximum downslope.[4]
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  2/7
 
 With the increased availability of digital ECGs with simultaneous 12-channel recording, QT
@@ -89,7 +69,7 @@ Prolongation of the QT Interval:
 repolarization.
 2. • Abnormal when the QTc is > 0.44 seconds.
 Shown below are examples of prolonged QY interval.
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  3/7
 
 Shown below is an example of prolonged QT interval with bradycardia.
@@ -123,7 +103,7 @@ vigorous activities and loud noises.
 • the administration of propranolol [9]
 Short QT Interval
 Shown below is an example of short QT interval.
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  5/7
 
 Causes
@@ -140,24 +120,9 @@ protein diet, intracoronary injection of contrast agents.
 • Cardiac medications: Quinidine, PCA, disopyramide, encainide, flecainide,
 propafenone, amiodarone.
 • Psychotropic drugs. Phenothiazines, tricyclic antidepressants.
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  6/7
 
 • Miscellaneous. Severe bradycardia, high degree AV block, post Stokes-Adams
 attacks, hypothyroidism, hypothermia, pheochromocytoma, organophosphate
 poisoning.
-References
-Related Chapters
-• Electrocardiogram
-• Long QT syndrome
-• Short QT syndrome
-de:Elektrokardiogramm he:םרגוידרקורטקלא lb:Elektrokardiogramm nl:Elektrocardiogram sv:EKG
-Template:WikiDoc Sources
-Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
-Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
-Physical Examination | Lab Tests | Drugs
-Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
-There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
-Licensing | Disclaimers | Avoid Plagiarism | Policies
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 7/7

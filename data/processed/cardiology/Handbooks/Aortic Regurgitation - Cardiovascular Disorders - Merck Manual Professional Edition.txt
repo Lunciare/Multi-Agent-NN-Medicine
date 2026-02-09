@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Aortic Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:53.884591",
-  "file_size_bytes": 412621,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Aortic Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Aortic Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Aortic Regurgitation
-(Aortic Insufficiency)
-By Guy P. Armstrong, MD, Waitemata District Health Board and Waitemata Cardiology, Auckland
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2025
 Aortic regurgitation (AR) is incomplete closure of the aortic valve, causing
 backflow from the aorta into the left ventricle during diastole. Causes include
 valvular degeneration, aortic root dilation, or both, related to underlying
@@ -44,7 +24,7 @@ Thoracic aortic aneurysm
 Trauma
  1/9
 
- Aortic Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Common causes of chronic aortic regurgitation in children are:
 Ventricular septal defect with aortic valve prolapse
 Bicuspid aortic valve
@@ -80,7 +60,7 @@ heart sound (S1) is usually absent (because aortic and LV diastolic pressures eq
 sound (S3) is common.
  2/9
 
- Aortic Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 As chronic disease progresses, systolic blood pressure increases while diastolic blood pressure
 decreases, creating a widened pulse pressure. With time, the LV impulse may become enlarged,
 increased in amplitude, and displaced downward and laterally, with systolic depression of the entire left
@@ -116,7 +96,7 @@ Pulsation of the uvula (Müller sign)
 Palpable signs include:
  3/9
 
- Aortic Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Large-volume pulse with rapid rise and fall (slapping, water-hammer, or collapsing pulse)
 Pulsation of the carotid arteries (Corrigan sign)
 Pulsation of the retinal arteries (Becker sign)
@@ -154,7 +134,7 @@ resonance imaging (MRI) is recommended to evaluate the entire thoracic aorta. MR
 assess LV function and degree of AR when echocardiographic images are suboptimal.
  4/9
 
- Aortic Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 ECG and chest radiograph should also be performed.
 ECG may show repolarization abnormalities with or without QRS voltage criteria of LV hypertrophy, left
 atrial enlargement, and T-wave inversion with ST-segment depression in precordial leads.
@@ -169,7 +149,7 @@ First-degree relatives of patients with a bicuspid valve should be screened usin
 because up to 15% will be similarly affected (2).
  5/9
 
- Aortic Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Phonocardiographic Characteristics of Heart Murmurs
 Diagnosis references
 1. Graboys TB, Cohn PF. The prevalence of angina pectoris and abnormal coronary arteriograms in
@@ -181,7 +161,7 @@ Treatment of Aortic Regurgitation
 Angiotensin II receptor blockers, for aortic root dilation
  6/9
 
- Aortic Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Aortic valve replacement or repair
 Pharmacologic treatment of heart failure, if present
 When aortic root dilatation is part of the mechanism of aortic regurgitation, angiotensin II receptor
@@ -221,17 +201,11 @@ Bicuspid valve is present with ascending aortic diameter 50 to 55 mm and aortic 
 rate > 5 mm/year, aortic coarctation, or a family history of aortic dissection
  7/9
 
- Aortic Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Marfan syndrome is present with ascending aortic diameter > 50 mm (or less if the aortic
 growth rate is > 5 mm/year) or a family history of aortic dissection at < 50 mm diameter
 When cardiac surgery is being performed for other reasons, concomitant aortic surgery is indicated if
 the ascending aortic diameter is ≥ 45 mm.
-Treatment reference
-1. Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of
-Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of
-Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation
-143(5):e35–e71, 2021. doi: 10.1161/CIR.0000000000000932
-Prognosis for Aortic Regurgitation
 With treatment, the 10-year survival for patients with mild to moderate aortic regurgitation is 80 to 95%.
 With appropriately timed valve replacement (ie, before heart failure and using accepted criteria for
 intervention), long-term prognosis for patients with moderate to severe AR is good. However, the
@@ -253,9 +227,3 @@ ventricular dysfunction develops; patients who meet criteria but are not candida
 surgery benefit from treatment of heart failure.
 AR is sometimes accompanied by a dilated ascending aorta. Indications for surgery on
 the ascending aorta may occur before surgery is indicated for AR.
-Drugs Mentioned In This Article
- 8/9
-
- Aortic Regurgitation - Cardiovascular Disorders - Merck Manual Professional Edition
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 9/9

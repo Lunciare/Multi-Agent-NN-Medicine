@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:26.084961",
-  "file_size_bytes": 395119,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Medications for Deep Venous Thrombosis
-By James D. Douketis, MD, McMaster University
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Dec 2023 | Modified May 2025
 Almost all patients with deep venous thrombosis (DVT) are given anticoagulants and in rare cases
 thrombolytics. A number of anticoagulants are effective for management of deep venous thrombosis
 (see also Deep Venous Thrombosis).
@@ -37,9 +18,6 @@ anticoagulants (DOACs). However, there are also parenteral agents that inhibit b
 thrombin (unfractionated heparin), that inhibit mainly factor Xa (LMWH), or that inhibit only factor Xa
 (fondaparinux). These agents can be used both for patients with DVT and those with pulmonary
 embolism (PE).
- 1/11
-
- Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition
 Anticoagulants and Their Sites of Action
 LMWH = low molecular weight heparin; TF = tissue factor; UFH = unfractionated heparin.
 TABLE
@@ -62,8 +40,7 @@ twice a day after 6–
 12 months of
 treatment.
  2/11
-
- Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Medication Dose Comments
 Initial treatment
 with a low
@@ -118,8 +95,7 @@ mL/minute
 (0.5mL/s/m ).
 DVT = deep venous thrombosis; PE = pulmonary embolism.
  3/11
-
- Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Anticoagulation strategies for DVT
 There are several strategies for anticoagulation of patients with DVT:
 Initial treatment with an injectable heparin (unfractionated or low molecular weight)
@@ -157,8 +133,7 @@ to inactivation of coagulation factor Xa and, to a lesser degree, factor IIa. LM
 antithrombin–mediated anti-inflammatory properties, which facilitate clot organization and resolution
 of symptoms and inflammation.
  4/11
-
- Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 LMWHs are typically given subcutaneously in a standard weight-based dose (eg, enoxaparin 1.5 mg/kg
 subcutaneously once a day or 1 mg/kg subcutaneously every 12 hours or dalteparin 200 units/kg
 subcutaneously once a day). Patients with renal insufficiency may be treated with UFH or with reduced
@@ -199,8 +174,7 @@ intensity dosing (apixaban 2.5 mg twice a day or rivaroxaban 10 mg once daily) f
 standard dosing is associated with a lower risk of major bleeding events and is non-inferior in
 preventing recurrent thrombosis (4, 5).
  5/11
-
- Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Before edoxaban is started, an initial 5 to 7 days of treatment with LMWH or UFH is required. Then
 edoxaban is given 60 mg orally once a day. To transition from an injectable anticoagulant, the factor Xa
 inhibitor is typically started within 6 to 12 hours after the last dose of a twice-daily LMWH regimen and
@@ -231,32 +205,6 @@ should be informed of possible drug interactions, including interactions with fo
 medicinal herbs.
 Rarely, warfarin causes skin necrosis in patients with inherited protein C deficiency or protein S
 deficiency.
-Anticoagulant treatment references
-1. Kearon C, Aki EA, Ornelas J, et al: CHEST Guideline and Expert Panel Report: Antithrombotic
-therapy for VTE disease. Chest 149:315–352, 2016. doi: 
-2. Segal JB, Streiff MB, Hofmann LV, Thornton K, Bass EB: Management of venous
-thromboembolism: a systematic review for a practice guideline [published correction appears in
- 6/11
-
- Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition
-Ann Intern Med 2007 Mar 6;146(5):396. Hoffman, Lawrence V [corrected to Hofmann, Lawrence
-V]]. Ann Intern Med 146(3):211–222, 2007. doi:10.7326/0003-4819-146-3-200702060-00150
-3. Schrag D, Uno H, Rosovsky R, et al: Direct Oral Anticoagulants vs Low-Molecular-Weight Heparin
-and Recurrent VTE in Patients With Cancer: A Randomized Clinical Trial. JAMA 329(22):1924–1933,
-2023. doi:10.1001/jama.2023.7843
-4. Couturaud F, Schmidt J, Sanchez O, et al: Extended treatment of venous thromboembolism with
-reduced-dose versus full-dose direct oral anticoagulants in patients at high risk of recurrence: a
-non-inferiority, multicentre, randomised, open-label, blinded endpoint trial. Lancet 405(10480):725-
-735, 2025. doi:10.1016/S0140-6736(24)02842-3
-5. Mahé I, Carrier M, Mayeur D, et al: Extended Reduced-Dose Apixaban for Cancer-Associated
-Venous Thromboembolism. N Engl J Med 392(14):1363-1373, 2025. doi:10.1056/NEJMoa2416112
-6. Agnelli G, Becattini C, Meyer G, et al: Apixaban for the treatment of venous thromboembolism
-associated with cancer. N Engl J Med 382:1599–1607, 2020. doi: 10.1056/NEJMoa1915103
-7. Raskob GE, van Es N, Verhamme P, et al: Edoxaban for the treatment of cancer-associated
-venous thromboembolism. N Engl J Med Dec 12, 2017. doi: 10.1056/NEJMoa1711948
-8. Young AM, Marshall A, Thirlwall J, et al: Comparison of an oral factor Xa inhibitor with low
-molecular weight heparin in patients with cancer with venous thromboembolism: Results of a
-randomized trial (SELECT-D). J Clin Oncol 36: 2017–2023, 2018. doi: 10.1200/JCO.2018.78.8034
 Bleeding During Use of Anticoagulants
 Bleeding is the most common complication of anticoagulants and ranges on a continuum from minor to
 severe, life-threatening hemorrhage.
@@ -276,8 +224,7 @@ Recent myocardial infarction
 Coexisting anemia (hematocrit < 30%), renal insufficiency (serum creatinine > 1.5 mg/dL
 [115 micromol/L]), or diabetes
  7/11
-
- Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Supportive care for severe bleeding includes local measures to stop bleeding (eg, direct pressure,
 cauterization, injection). Patients with signs and symptoms of volume loss and those with heavy ongoing
 bleeding may require intravenous fluid resuscitation and packed red blood cell transfusions. These
@@ -315,8 +262,7 @@ bleeding. If the agent is not available, 4-factor prothrombin complex concentrat
 given. Hemodialysis also may help because dabigatran is not highly protein bound. Oral activated
 charcoal is an option if the last dose of dabigatran was within 2 hours.
  8/11
-
- Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 With factor Xa inhibitors, andexanet alfa is an antidote available in the United States; however, its use
 is restricted in part due to its high cost (1). If the patient is on a high dose of a factor Xa inhibitor (eg,
 rivaroxaban > 10 mg or apixaban > 5 mg), or if the patient took the medication < 8 hours before
@@ -354,17 +300,12 @@ Resumption of anticoagulation after bleeding
 Clinical judgment is necessary when deciding whether to permanently stop or lower the dose of
 anticoagulant.
  9/11
-
- Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 If a patient has almost completed their treatment course of anticoagulant and has a severe bleeding
 episode, the anticoagulant can be stopped. However, if a patient has just started or is mid-way through
 their treatment course and has a severe bleed, the decision of whether to stop or reduce the dose of
 anticoagulant is not as straightforward and should be made in consultation with a multidisciplinary
 team and keeping in mind the patient's priorities.
-Bleeding due to anticoagulants reference
-1. Connolly SJ, Crowther M, Eikelboom JW, et al: Full study report of andexanet alfa for bleeding
-associated with factor Xa inhibitors. N Engl J Med 380:1326–1335, 2019. doi:
-10.1056/NEJMoa1814051
 Thrombolytic (Fibrinolytic) Agents
 Thrombolytic agents, which include alteplase, tenecteplase, and streptokinase, lyse clots and may be
 more effective than heparin alone in selected patients with DVT, but the risk of bleeding is higher than
@@ -388,18 +329,3 @@ Bleeding, if it occurs, is most often at the site of arterial or venous puncture
 be treated by stopping the thrombolytic agent and doing mechanical compression or surgical repair of
 the puncture site. Life-threatening bleeding is treated with cryoprecipitate and fresh frozen plasma in
 addition to stopping the thrombolytic agent.
-Thrombolytic treatment reference
-1. Vedantham S, Goldhaber SZ, Julien JA, et al: Pharmacomechanical catheter-directed
-thrombolysis for deep-vein thrombosis. N Engl J Med 377:2240–2252, 2017. doi:
-10.1056/NEJMoa1615066
- 10/11
-
- Medications for Deep Venous Thrombosis - Cardiovascular Disorders - Merck Manual Professional Edition
-More Information
-The following English-language resource may be useful. Please note that THE MANUAL is not
-responsible for the content of this resource.
-Kearon C, Aki EA, Ornelas J, et al: CHEST Guideline and Expert Panel Report: Antithrombotic
-therapy for VTE disease. Chest 149:315–352, 2016. doi: 
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 11/11

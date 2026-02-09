@@ -1,19 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Heart failure - Cardiology Explained - NCBI Bookshelf.pdf",
-  "converted_date": "2026-01-31T14:44:08.262389",
-  "file_size_bytes": 453383,
-  "original_format": "pdf",
-  "document_type": "Textbooks",
-  "source_folder": "Textbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Textbooks/Heart failure - Cardiology Explained - NCBI Bookshelf.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Heart failure - Cardiology Explained - NCBI Bookshelf
-NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
-Ashley EA, Niebauer J. Cardiology Explained. London: Remedica; 2004.
+Heart failure - Cardiology Explained
 Chapter 7 Heart failure
 Background
 The survival rate for myocardial infarction (MI) has greatly increased in recent years due to the
@@ -54,8 +39,7 @@ Figure 1
 Treatment of heart failure according to (a) old and (b) new
 paradigms. ADH: antidiuretic hormone (vasopressin).
  1/9
-
- Heart failure - Cardiology Explained - NCBI Bookshelf
+ 
 Figure 2
 Chronic heart failure. TNF: tumor necrosis factor.
 Clinical history and examination
@@ -93,8 +77,7 @@ Echocardiography
 This is the investigation of choice and can identify and quantify LVH and dysfunction (both
 systolic and diastolic) as well as examine causes of heart failure, such as valve abnormalities.
  2/9
-
- Heart failure - Cardiology Explained - NCBI Bookshelf
+ 
 Blood tests
 The measurement of natriuretic peptides for the diagnosis of heart failure is not yet routine.
 However, other blood tests can contribute to the clinical picture. The sodium concentration is
@@ -139,8 +122,7 @@ Figure 5
 (a) Insertion of an intra-aortic balloon pump and (b) the
 corresponding arterial pressure waveform.
  3/9
-
- Heart failure - Cardiology Explained - NCBI Bookshelf
+ 
 it improves coronary blood flow by increasing the perfusion pressure in the ascending
 aorta during diastole
 it encourages systemic perfusion by reducing impedance to ventricular ejection at the point
@@ -182,8 +164,7 @@ for air rather than blood. Galen (AD 138–201) thought that blood passed throug
 pores in the ventricular septum. Such was his influence on Roman medical thinking that this
 idea remained in place until the 15th century when an embargo on the dissection of human
  4/9
-
- Heart failure - Cardiology Explained - NCBI Bookshelf
+ 
 cadavers was lifted by the Pope. Not long after this, Leonardo da Vinci and others began to
 produce detailed anatomical drawings, and William Harvey finally described the function of
 the heart as a pump that pushed blood through a circulatory system, beat by beat.
@@ -222,8 +203,7 @@ heart failure was provided by Theophile Bonet (1620–1689), who published clini
 pathological studies linking the effects of valvular disease and cardiac chamber size to the
 clinical features of dyspnea and edema.
  5/9
-
- Heart failure - Cardiology Explained - NCBI Bookshelf
+ 
 Angiotensin-converting enzyme inhibitors
 ACEIs were the first agents shown to reduce mortality in heart failure. Angiotensin receptor
 blockers (ARBs) are currently reserved for those patients with an ACE cough. Guidelines for
@@ -270,8 +250,7 @@ efficacy of ACEIs. Also, despite the high rate of heart failure deaths due to ar
 amiodarone is the only antiarrhythmic (so far) that has been shown to reduce mortality.
 New agents currently being investigated in trials include:
  6/9
-
- Heart failure - Cardiology Explained - NCBI Bookshelf
+ 
 2+
 calcium sensitizers (increase contractile response to intracellular Ca )
 endothelin antagonists (there are increased levels of endothelin – a potent vasoconstrictor –
@@ -316,8 +295,7 @@ a sensed atrial contraction, both ventricles are stimulated to contract simultan
 resulting resynchronization of ventricular contraction reduces mitral regurgitation and optimizes
 left ventricular filling, thereby improving cardiac function.
  7/9
-
- Heart failure - Cardiology Explained - NCBI Bookshelf
+ 
 Transplantation and ventricular assist devices are options for end-stage disease. Local availability
 and guidelines vary. Indications are:
 severe LV dysfunction (eg, EF <20% as demonstrated by radionuclide ventriculography)
@@ -354,21 +332,3 @@ Physical dependence is inevitable, but only relevant in the case of discontinuat
 which case it can be managed by gradual withdrawal. Morphine can be given at a dose of 2.5 mg
 4 hourly and as required, with the 4-hourly dose readjusted after 48 hours to take account of
 interim dosing. Control of constipation should always accompany chronic opioid treatment.
-Further reading
-1. Jong P, Demers C, McKelvie RS. et al. Angiotensin receptor blockers in heart failure:
-meta-analysis of randomized controlled trials. J Am Coll Cardiol. 2002;39:463–70.
-[PubMed: 11823085]
-2. Krumholz HM, Baker DW, Ashton CM. et al. Evaluating quality of care for patients with
-heart failure. Circulation. 2000;101:E122–40. [PubMed: 10736303]
-3. Niebauer J, Volk HD, Kemp M. et al. Endotoxin and immune activation in chronic heart
-failure: a prospective cohort study. Lancet. 1999;353:1838–42. [PubMed: 10359409]
-4. Nolan J. A historical review of heart failure. Scott Med J. 1993;38:53–7. [PubMed:
-8502981]
-5. Task Force of the Working Group on Heart Failure of the European Society of Cardiology.
-The treatment of heart failure. Eur Heart J. 1997;18:736–53. [PubMed: 9152644]
- 8/9
-
- Heart failure - Cardiology Explained - NCBI Bookshelf
-Copyright © 2004, Remedica.
-Bookshelf ID: NBK2218
- 9/9

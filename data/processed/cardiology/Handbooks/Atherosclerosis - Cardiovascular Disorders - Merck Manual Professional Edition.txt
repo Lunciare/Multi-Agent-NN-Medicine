@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:37:04.282323",
-  "file_size_bytes": 1360333,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Atherosclerosis
-By Attila Feher, MD, PhD, Yale University School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Oct 2025 | Modified Dec 2025
 Atherosclerosis is characterized by the development of fatty and/or fibrous
 intimal plaques (atheromas) in the arterial wall. Initially, the plaques contain
 lipid materials, but over time they may become fibrosed and calcified. The key
@@ -49,26 +30,9 @@ prevention have resulted in significant declines in age-standardized cardiovascu
 and middle income countries, in part due to an increase in hypertension, chronic disease, and overall
  1/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 caloric intake (5). Despite advances in care, atherosclerosis remains the leading cause of death
 worldwide.
-Atherosclerotic Plaque
-IMAGE
-BSIP VEM/SCIENCE PHOTO LIBRARY
-General references
-1. World Health Organization: The Global Health Observatory: Global health estimates: Leading
-causes of death. Cause-specific mortality, 2000–2021. Accessed August 4, 2025.
-2. Martin SS, Aday AW, Allen NB, et al. 2025 Heart Disease and Stroke Statistics: A Report of US and
-Global Data From the American Heart Association. Circulation. 2025;151(8):e41-e660.
-doi:10.1161/CIR.0000000000001303
-3. Fox CS, Evans JC, Larson MG, Kannel WB, Levy D. Temporal trends in coronary heart disease
-mortality and sudden cardiac death from 1950 to 1999: the Framingham Heart Study. Circulation.
-2004;110(5):522-527. doi:10.1161/01.CIR.0000136993.34344.41
-4. Mensah GA, Wei GS, Sorlie PD, et al. Decline in Cardiovascular Mortality: Possible Causes and
-Implications. Circ Res. 2017;120(2):366-380. doi:10.1161/CIRCRESAHA.116.309115
-5. Li Y, Cao GY, Jing WZ, Liu J, Liu M. Global trends and regional differences in incidence and
-mortality of cardiovascular disease, 1990-2019: findings from 2019 global burden of disease
-study. Eur J Prev Cardiol. 2023;30(3):276-286. doi:10.1093/eurjpc/zwac285
 Pathophysiology of Atherosclerosis
 The atherosclerotic plaque is the hallmark feature of atherosclerosis. It has a complex and dynamic
 structure with the following major components:
@@ -76,7 +40,7 @@ Lipid core: Consists mainly of cholesterol, cholesterol esters, and other lipids
 Fibrous cap: A layer of smooth muscle cells and collagen that covers the lipid core
  2/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Inflammatory cells and smooth muscle cells: Macrophages, T cells, and other immune
 cells that infiltrate the plaque
 Cell debris: Dead or necrotic cells
@@ -107,7 +71,7 @@ tunica media also migrate into the intimal layer, augmenting the population of r
 muscle cells.
  3/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 As atherosclerotic plaques evolve, both resident and recruited smooth muscle cells produce
 extracellular matrix molecules, including collagen, elastin, proteoglycans, and glycosaminoglycans,
 resulting in intimal thickening (3). Within the maturing lesion, smooth muscle cells and macrophages
@@ -148,7 +112,7 @@ contributes to this process by promoting thrombin generation in vivo, leading to
 fibrin formation from fibrinogen and activation of platelet aggregation. One of 4 outcomes may occur:
  4/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 The resultant thrombus may organize and be incorporated into the plaque, altering its
 shape and causing its rapid growth.
 The thrombus may rapidly occlude the vascular lumen, precipitating an acute ischemic
@@ -183,11 +147,8 @@ Pathophysiology references
 Risk Factors for Atherosclerosis
 There are numerous risk factors for atherosclerosis (see table Risk Factors for Atherosclerosis) (1), both
 modifiable and non-modifiable.
-TABLE
-Risk Factors for Atherosclerosis
- 5/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Status Risk Factor
 Age
 Family history of premature
@@ -226,7 +187,7 @@ Severe acute respiratory syndrome
 coronavirus-2 (COVID-19)
  6/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Status Risk Factor
 Influenza
 Respiratory syncytial virus (RSV)
@@ -255,7 +216,7 @@ as. preeclampsia, premature
 menopause)
  7/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 * Atherosclerotic cardiovascular disease is considered premature when it occurs in a male
 first-degree relative before age 55 years and in a female first-degree relative before age 65
 years. Atherosclerotic cardiovascular disease includes coronary artery disease (myocardial
@@ -293,7 +254,7 @@ Male sex is a well-established risk factor for earlier and more severe atheroscl
 disease (3). While younger women generally have a lower risk of atherosclerosis, by the time they reach
  8/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 their seventies, the incidence of myocardial infarction in women exceeds that of men, indicating an
 interaction between sex and age (2).
 Patients with a family history of premature cardiovascular disease also exhibit increased risk for
@@ -334,7 +295,7 @@ Triglyceride-rich lipoproteins also play a significant role in the development o
 Hypertriglyceridemia is an independent risk factor for atherosclerotic events, even in patients whose
  9/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 LDL levels are adequately controlled by statin therapy (residual triglyceride risk) (14).
 Cardiovascular-kidney-metabolic factors
 Cardiovascular-kidney-metabolic (CKM) syndrome is an interconnected health disorder involving
@@ -374,7 +335,7 @@ Clonal hematopoiesis of indeterminate potential (CHIP), characterized by the pre
 expanded somatic blood-cell clone in individuals without other hematologic abnormalities, is associated
  10/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 with nearly twice the risk of coronary artery disease and early-onset myocardial infarction (25).
 Infection may also play a role in atherogenesis. Individuals with human immunodeficiency virus (HIV)
 infection are at increased risk for developing myocardial infarction and other atherosclerotic
@@ -414,7 +375,7 @@ considered to have a coronary artery disease risk equivalent and should be treat
 patients with coronary artery disease (35).
  11/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Assessing Overall Risk
 Overall ASCVD risk is determined by a patient's individual risk factors. See Diagnosis - Asymptomatic
 Patients (Screening) for information on determining overall ASCVD risk in individual patients using a risk
@@ -460,7 +421,7 @@ Sudden severe chest or
 upper back pain, dyspnea,
  12/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Vascular Bed Acute Manifestations Chronic Manifestations
 syncope, hypotension,
 shock
@@ -504,7 +465,7 @@ Vascular ultrasound: Doppler ultrasound is used to visualize atherosclerotic pla
 assess the severity of stenosis. Vascular ultrasound can be used to assess the carotid
  13/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 arteries, renal arteries, abdominal aorta, and peripheral arteries. It offers high temporal
 resolution without the use of ionizing radiation.
 Noncontrast CT, including coronary artery calcium scoring CT: CT is used to evaluate
@@ -533,7 +494,7 @@ perfusion imaging can quantify myocardial blood flow, which also aids in the dia
 coronary microvascular disease.
  14/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Magnetic Resonance Angiogram (MRA) with Gadolinium-Based Contrast
 IMAGE
 IMAGE COURTESY OF ATTILA FEHER, MD, PHD.
@@ -549,7 +510,7 @@ Intravascular ultrasound (IVUS): An intravascular ultrasound transducer is used 
 the composition and extent of atherosclerotic plaques and to guide intravascular
  15/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 procedures.
 Optical coherence tomography (OCT): This optical imaging-based method can be used to
 assess the composition and extent of atherosclerotic plaques and guide intravascular
@@ -578,7 +539,7 @@ Renal function tests (to check for chronic kidney disease)
 Smoking status, including passive smoking exposure
  16/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Assessment for any history of radiation therapy to the thoracic region
 Evaluation of menopausal status and adverse pregnancy outcomes (eg, preeclampsia) in
 females
@@ -614,7 +575,7 @@ therapy. A calcium score of zero has an excellent negative prognostic value, wit
 for major adverse cardiovascular events over 10 years (11, 12).
  17/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Calcified Atherosclerosis on Calcium Scoring Computed Tomography (CT...
 IMAGE
 IMAGE COURTESY OF ATTILA FEHER, MD, PHD.
@@ -640,7 +601,7 @@ Atherectomy
 Intravascular lithotripsy
  18/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Brachytherapy
 Thrombectomy
 Surgical intervention:
@@ -678,7 +639,7 @@ Vegetable consumption: At least 200 grams per day (≥ 2 to 3 servings)
 Nuts: 30 grams of unsalted nuts per day
  19/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Red meat consumption: Reduction to less than 350 to 500 grams per week
 Fish consumption: 1 to 2 times per week.
 Diets that include increased consumption of fruits, vegetables, legumes, nuts, whole grains, and lean
@@ -718,7 +679,7 @@ as their health condition allows (2). Resistance exercise for 2 or more days per
 recommended (1).
  20/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Stress reduction and mental health care
 Stress reduction strategies, in particular cognitive behavioral therapy, have been shown to improve
 cardiovascular outcomes in patients with known ASCVD (20, 21). Multiple studies have also
@@ -759,7 +720,7 @@ High-intensity statin therapy has the goal of lowering LDL cholesterol by ≥ 50
 stating therapy has the goal of lowering LDL cholesterol by 30 to 50%. Maximally tolerated statin
  21/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 therapy is the highest dose that is tolerated by the patient.
 In patients with acute coronary syndrome, ischemic stroke, or established atherosclerotic cardiovascular
 disease (including peripheral artery disease), high-intensity statin therapy is recommended (27, 28, 29,
@@ -801,7 +762,7 @@ Aspirin irreversibly inhibits cyclooxygenase-1 (COX-1) and disrupts thromboxane 
 production, inhibiting platelet activation and aggregation.
  22/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 P2Y12 inhibitors (eg, clopidogrel, prasugrel, ticagrelor) block the adenosine diphosphate
 (ADP)-mediated activation of platelets.
 Dual antiplatelet therapy with aspirin and an oral P2Y12 inhibitor is indicated for at least 12 months in
@@ -844,7 +805,7 @@ ischemic stroke with measurable neurologic deficits, exclusion of intracranial h
 and careful consideration of contraindications such as recent surgery or gastrointestinal bleeding,
  23/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 concomitant use of anticoagulants, and severe uncontrolled hypertension. The primary goal is to
 restore cerebral perfusion, minimize brain injury, and improve clinical outcomes.
 In acute coronary syndromes, the use of systemic thrombolysis is restricted to ST elevation myocardial
@@ -885,7 +846,7 @@ Catheter based interventions typically involve the displacement or removal of st
 atherosclerotic plaques. These interventions play an important role in the treatment of both acute
  24/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 complications of atherosclerosis and the management of hemodynamically significant chronic
 atherosclerotic lesions. In general, a lesion is considered hemodynamically significant when it results in
 impaired blood flow sufficient to cause symptoms or objective evidence of ischemia. While the exact
@@ -925,7 +886,7 @@ antiproliferative agents such as sirolimus, everolimus, paclitaxel, or zotarolim
 neointimal hyperplasia and reduce restenosis.
  25/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Covered stents are encased with a synthetic covering to seal aneurysms or manage other
 vascular abnormalities.
 Biodegradable stents are designed to provide temporary scaffolding to maintain vessel
@@ -965,7 +926,7 @@ Catheter-directed thrombolysis: Thrombolytic medications are delivered directly 
 thrombus to dissolve it
  26/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Thrombectomy can be the preferred procedure in patients with acute stroke (28) or acute limb ischemia
 (27). However, in patients with acute coronary syndrome, the use of manual or aspiration
 thrombectomy is not recommended due to the lack of demonstrated benefit (29).
@@ -1006,7 +967,7 @@ several factors, including aneurysm size, location, growth rate, patient symptom
 rupture.
  27/28
 
- Atherosclerosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Treatment references
 Key Points
 The development of atherosclerosis involves the deposition of LDL particles, recruitment
@@ -1031,6 +992,3 @@ mechanically manage and stabilize plaques or remove thrombi.
 Surgical interventions aim to bypass (bypass grafting) or remove (endarterectomy)
 severe atherosclerotic lesions, while aneurysm repair with synthetic grafts is performed
 to prevent rupture.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 28/28

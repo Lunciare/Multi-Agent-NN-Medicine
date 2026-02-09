@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:37:06.544947",
-  "file_size_bytes": 1212445,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Peripheral Artery Disease
-(Peripheral Vascular Disease)
-By William Schuyler Jones, MD, Duke University Health System
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jul 2025
 Peripheral artery disease (PAD) is caused by atherosclerosis of the extremities
 that leads to impaired perfusion and ischemia. Lower extremity PAD, may be
 asymptomatic or patients may have atypical symptoms, claudication, or chronic
@@ -43,12 +23,6 @@ The global prevalence of peripheral artery disease (PAD) is between 2 and 6% ove
 increases to 15 to 20% after age 80 (1, 2, 3).
 Risk factors are the same as those for atherosclerosis (4, 5):
 Cigarette smoking (including passive smoking) or other forms of tobacco use
-Diabetes
- 1/11
-
- Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
-Overview of Peripheral Artery ...
-VIDEO
 Dyslipidemia (high low-density lipoprotein [LDL] cholesterol, low high-density lipoprotein
 [HDL] cholesterol)
 Family history of atherosclerosis
@@ -59,28 +33,6 @@ Male sex
 Obesity
 Atherosclerosis is a systemic disorder; the majority of patients with PAD also have clinically significant
 coronary artery disease (CAD) or cerebrovascular disease (6).
-Etiology references
-1. Aday AW, Matsushita K. Epidemiology of Peripheral Artery Disease and Polyvascular
-Disease. Circ Res 2021;128(12):1818-1832. doi:10.1161/CIRCRESAHA.121.318535
-2. GBD 2019 Peripheral Artery Disease Collaborators. Global burden of peripheral artery disease
-and its risk factors, 1990-2019: a systematic analysis for the Global Burden of Disease Study
-2019. Lancet Glob Health 2023;11(10):e1553-e1565. doi:10.1016/S2214-109X(23)00355-8
-3. Polonsky TS, McDermott MM. Lower Extremity Peripheral Artery Disease Without Chronic Limb-
-Threatening Ischemia: A Review. JAMA 2021;325(21):2188-2198. doi:10.1001/jama.2021.2126
-4. Gornik HL, Aronow HD, Goodney PP, et al. 2024
-ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of
-Lower Extremity Peripheral Artery Disease: A Report of the American College of
-Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published
-correction appears in Circulation 2025 Apr 8;151(14):e918. doi:
- 2/11
-
- Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
-10.1161/CIR.0000000000001329]. Circulation 2024;149(24):e1313-e1410.
-doi:10.1161/CIR.0000000000001251
-5. Mazzolai L, Teixido-Tura G, Lanzi S, et al. 2024 ESC Guidelines for the management of peripheral
-arterial and aortic diseases. Eur Heart J 2024;45(36):3538-3700. doi:10.1093/eurheartj/ehae179
-6. Kullo IJ, Rooke TW. CLINICAL PRACTICE. Peripheral Artery Disease. N Engl J Med 2016;374(9):861-
-871. doi:10.1056/NEJMcp1507631
 Symptoms and Signs of Peripheral Artery Disease
 Peripheral artery disease may be categorized into 4 subsets: asymptomatic, chronic symptomatic,
 chronic limb-threatening ischemia (CLTI), and acute limb ischemia (ALI) (1). Symptoms of occlusive
@@ -108,12 +60,6 @@ PAD may have thin, pale (atrophic) skin with hair thinning or loss. Distal legs 
 affected leg may sweat excessively and become cyanotic, probably because of sympathetic nerve
 overactivity.
 Sudden, complete occlusion is discussed in Acute Limb Ischemia.
- 3/11
-
- Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
-Peripheral Artery Disease—Skin Changes
-IMAGE
-DR P. MARAZZI/SCIENCE PHOTO LIBRARY
 As ischemia worsens, ischemic ulcers may appear (typically on the toes or heel, occasionally on the leg
 or foot), especially after local trauma. The ulcers tend to be surrounded by black, necrotic tissue (dry
 gangrene). They are usually painful, but patients with peripheral neuropathy (eg, due to diabetes or
@@ -127,25 +73,12 @@ chronic limb-threatening ischemia typically have multisegment disease (eg, aorto
 and tibial occlusions).
 Peripheral artery disease occasionally affects the arms, especially the left proximal subclavian artery,
 causing arm fatigue with exercise and occasionally embolization to the hands.
-Symptoms and signs reference
-1. Gornik HL, Aronow HD, Goodney PP, et al. 2024
-ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of
-Lower Extremity Peripheral Artery Disease: A Report of the American College of
-Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published
-correction appears in Circulation 2025 Apr 8;151(14):e918. doi:
-10.1161/CIR.0000000000001329]. Circulation 2024;149(24):e1313-e1410.
-doi:10.1161/CIR.0000000000001251
- 4/11
-
- Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
 Diagnosis of Peripheral Artery Disease
 Ankle-brachial index
 Ultrasound
 Angiography (includes magnetic resonance angiography, CT angiography, or invasive
 angiography)
 CT Scan of a Patient with Occlusion of Superficial Femoral Arteries
-IMAGE
-© 2017 ELLIOT K. FISHMAN, MD.
 Peripheral artery disease is underrecognized because many patients have atypical symptoms or are not
 active enough to have symptoms. Spinal stenosis may also cause leg pain during walking but can be
 distinguished because the pain (called pseudoclaudication) requires sitting, not just rest, for relief, and
@@ -154,12 +87,6 @@ Diagnosis is confirmed by noninvasive testing. First, bilateral arm and ankle sy
 is measured using Doppler probes and a manual blood pressure cuff. Segmental blood pressure
 measurements are often used, because pressure gradients and pulse volume waveforms can help
 distinguish isolated aortoiliac PAD from femoropopliteal PAD and below-the-knee PAD.
- 5/11
-
- Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
-Doppler Blood Pressure Measurement
-IMAGE
-JIM VARNEY/SCIENCE PHOTO LIBRARY
 The ankle-brachial index (ABI) is the ratio of the highest ankle systolic BP (on the right and left) divided
 by the highest arm systolic BP. A low (≤ 0.90) ankle-brachial index is diagnostic of lower extremity PAD, a
 value from 0.91 to 0.99 is borderline (1).
@@ -180,19 +107,6 @@ noninvasive testing because it provides no information about the functional sign
 findings. Arterial duplex ultrasound, magnetic resonance angiography, and CT angiography are
 noninvasive testing options that can facilitate planning for invasive angiography and help plan for
 revascularization (1, 2).
-Diagnosis references
- 6/11
-
- Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
-1. Gornik HL, Aronow HD, Goodney PP, et al. 2024
-ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of
-Lower Extremity Peripheral Artery Disease: A Report of the American College of
-Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published
-correction appears in Circulation 2025 Apr 8;151(14):e918. doi:
-10.1161/CIR.0000000000001329]. Circulation 2024;149(24):e1313-e1410.
-doi:10.1161/CIR.0000000000001251
-2. Mazzolai L, Teixido-Tura G, Lanzi S, et al. 2024 ESC Guidelines for the management of peripheral
-arterial and aortic diseases. Eur Heart J 2024;45(36):3538-3700. doi:10.1093/eurheartj/ehae179
 Treatment of Peripheral Artery Disease
 Risk factor management (eg, diabetes, dyslipidemia, hypertension)
 Lifestyle modification (eg, exercise, smoking cessation, weight management)
@@ -221,8 +135,7 @@ lukewarm water with mild soap, followed by gentle, thorough drying; and avoidanc
 chemical, and mechanical injury, especially that due to poorly fitting footwear. Foot ulcer management
 is discussed elsewhere.
  7/11
-
- Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Pharmacotherapy
 Statins, ACE inhibitors or ARBs, and aspirin are given to reduce the risk of cardiovascular events (see
 Treatment of Atherosclerosis).
@@ -261,8 +174,7 @@ Rest pain
 Ischemic ulceration or tissue loss
 Gangrene
  8/11
-
- Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Complications of endovascular revascularization include thrombosis at the site of dilation, distal
 embolization, vessel dissection, vessel perforation, and bleeding complications.
 Studies have shown similar limb salvage rates in patients undergoing endovascular and surgical
@@ -292,59 +204,9 @@ and progressive gangrene. Amputation should be as distal as possible, preserving
 function (if possible) to permit ongoing ambulation. If more severe PAD is present, below knee
 amputation is preferred over above knee amputation so that patients can be considered for limb
 prosthesis after amputation (8).
-Treatment references
-1. McDermott MM, Liu K, Guralnik JM, et al. Home-based walking exercise intervention in
-peripheral artery disease: a randomized clinical trial. JAMA 2013;310(1):57-65.
-doi:10.1001/jama.2013.7231
-2. Treat-Jacobson D, McDermott MM, Bronas UG, et al. Optimal Exercise Programs for Patients
-With Peripheral Artery Disease: A Scientific Statement From the American Heart
-Association. Circulation 2019;139(4):e10-e33. doi:10.1161/CIR.0000000000000623
- 9/11
-
- Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
-3. Gerhard-Herman MD, Gornik HL, Barrett C, et al: 2016 AHA/ACC Guideline on the management
-of patients with lower extremity peripheral artery disease. Circulation 155:e686–e725, 2017.
-4. Gornik HL, Aronow HD, Goodney PP, et al. 2024
-ACC/AHA/AACVPR/APMA/ABC/SCAI/SVM/SVN/SVS/SIR/VESS Guideline for the Management of
-Lower Extremity Peripheral Artery Disease: A Report of the American College of
-Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published
-correction appears in Circulation 2025 Apr 8;151(14):e918. doi:
-10.1161/CIR.0000000000001329]. Circulation 2024;149(24):e1313-e1410.
-doi:10.1161/CIR.0000000000001251
-5. Anand S, Bosch J, Eikelboom JW, et al, on behalf of the COMPASS Investigators: Rivaroxaban with
-or without aspirin in patients with stable peripheral or carotid artery disease: an international,
-randomized, double-blind, placebo controlled trial. Lancet 391(10117):218–229, 2018. doi:
-10.1016/S0140-6736(17)32409-1
-6. Bonaca MP, Bauersachs RM, Anand SS, et al: Rivaroxaban in peripheral artery disease after
-revascularization. N Engl J Med 382:1994–2004, 2020. doi: 10.1056/NEJMoa2000052
-7. Hiatt WR, Bonaca MP, Patel MR, et al. Rivaroxaban and Aspirin in Peripheral Artery Disease
-Lower Extremity Revascularization. Circulation142 (23):2219-2230, 2020.
-doi/10.1161/CIRCULATIONAHA.120.050465
-8. Khan SZ, O'Brien-Irr MS, Rivero M, et al. Improved survival with angiotensin-converting enzyme
-inhibitors and angiotensin receptor blockers in chronic limb-threatening ischemia. J Vasc Surg
-2020;72(6):2130-2138. doi:10.1016/j.jvs.2020.02.041
-9. Mazzolai L, Teixido-Tura G, Lanzi S, et al. 2024 ESC Guidelines for the management of peripheral
-arterial and aortic diseases. Eur Heart J 2024;45(36):3538-3700. doi:10.1093/eurheartj/ehae179
-10. Farber A. Chronic Limb-Threatening Ischemia. N Engl J Med 2018;379(2):171-180.
-doi:10.1056/NEJMcp1709326
-11. Kullo IJ, Rooke TW. CLINICAL PRACTICE. Peripheral Artery Disease. N Engl J Med 2016;374(9):861-
-871. doi:10.1056/NEJMcp1507631
-12. Guez D, Hansberry DR, Gonsalves CF, et al. Recent Trends in Endovascular and Surgical
-Treatment of Peripheral Arterial Disease in the Medicare Population. AJR Am J Roentgenol
-2020;214(5):962-966. doi:10.2214/AJR.19.21967
-13. Bradbury AW, Moakes CA, Popplewell M, et al. A vein bypass first versus a best endovascular
-treatment first revascularisation strategy for patients with chronic limb threatening ischaemia who
-required an infra-popliteal, with or without an additional more proximal infra-inguinal
-revascularisation procedure to restore limb perfusion (BASIL-2): an open-label, randomised,
-multicentre, phase 3 trial. Lancet 2023;401(10390):1798-1809. doi:10.1016/S0140-6736(23)00462-2
-14. Farber A, Menard MT, Conte MS, et al. Surgery or Endovascular Therapy for Chronic Limb-
-Threatening Ischemia. N Engl J Med 2022;387(25):2305-2316. doi:10.1056/NEJMoa2207899
 Key Points
 Peripheral artery disease (PAD) occurs most frequently in the lower extremities.
 Most patients also have significant cerebral or coronary atherosclerosis or both.
- 10/11
-
- Peripheral Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
 When symptomatic, PAD causes intermittent claudication, which is discomfort in the
 legs that occurs during walking and is relieved by rest; it is a manifestation of exercise-
 induced reversible ischemia, similar to angina pectoris.
@@ -356,6 +218,3 @@ Modify atherosclerosis risk factors; give statins, antiplatelet medications, and
 sometimes angiotensin-converting enzyme inhibitors, rivaroxaban, or cilostazol.
 Endovascular revascularization and surgical revascularization are both options for
 patients with symptomatic lower extremity PAD.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 11/11

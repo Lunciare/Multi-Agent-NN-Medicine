@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Hypertrophic Cardiomyopathy Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:54.262431",
-  "file_size_bytes": 186937,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Hypertrophic Cardiomyopathy Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Hypertrophic Cardiomyopathy Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Hypertrophic Cardiomyopathy Arrhythmias
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2024 | Modified Aug 2024
 Hypertrophic cardiomyopathy is a common genetic heart disease characterized
 by left ventricular hypertrophy in the absence of a valvular, systemic, or
 metabolic cause. In addition to its hemodynamic consequences, hypertrophic
@@ -45,9 +26,6 @@ the posterior wall. Nevertheless, subtypes with concentric left ventricular hype
 ventricular apical hypertrophy are recognized. Cardiac function is compromised because hypertrophy
 results in a stiff, noncompliant left ventricle that resists diastolic filling, elevating end-diastolic pressure
 and thus increasing pulmonary venous pressure. As resistance to filling increases, cardiac output
- 1/4
-
- Hypertrophic Cardiomyopathy Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 decreases, an effect worsened by any outflow tract gradient present. Because tachycardia allows less
 time for filling, symptoms tend to appear (or worsen) mainly during exercise or tachyarrhythmias. (See
 also Heart failure with preserved ejection fraction.)
@@ -58,15 +36,6 @@ poorly tolerated secondary to aggravation of ventricular diastolic dysfunction b
 Symptoms and signs often are exertional and include dyspnea, chest pain (usually resembling
 typical angina), palpitations, and syncope. The syncope may be caused by arrhythmia or outflow tract
 obstruction.
-General references
-1. McKenna WJ, Judge DP: Epidemiology of the inherited cardiomyopathies. Nat Rev Cardiol
-18(1):22–36, 2021. doi:10.1038/s41569-020-0428-2
-2. Girolami F, Gozzini A, Pálinkás ED, et al: Genetic Testing and Counselling in Hypertrophic
-Cardiomyopathy: Frequently Asked Questions. J Clin Med 12(7):2489, 2023.
-doi:10.3390/jcm12072489
-3. Ottaviani A, Mansour D, Molinari LV, et al: Revisiting Diagnosis and Treatment of Hypertrophic
-Cardiomyopathy: Current Practice and Novel Perspectives. J Clin Med 12(17):5710, 2023. doi:
-10.3390/jcm12175710.
 Diagnosis of Hypertrophic Cardiomyopathy Arrhythmias
 ECG, echocardiography, and often cardiac MRI
 Often ambulatory cardiac monitoring
@@ -84,17 +53,12 @@ ambulatory cardiac rhythm monitoring, and exercise testing.
 Although genetic testing has a low sensitivity, it is still recommended to allow cascade screening of
 family members. Nevertheless, whether genetic findings predict future life-threatening arrhythmias
  2/4
-
- Hypertrophic Cardiomyopathy Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 remains unclear. Family members also should have clinical evaluation (ie, to detect symptoms
 suggestive of arrhythmia and/or heart failure), ECG, and echocardiography.
 The diagnosis of hypertrophic cardiomyopathy includes considering, and ruling out, other disorders that
 produce similar cardiac findings (phenocopies), including hypertensive heart disease, athlete's heart,
 cardiac amyloid, and Anderson-Fabry disease (1).
-Diagnosis reference
-1. Ottaviani A, Mansour D, Molinari LV, et al. Revisiting Diagnosis and Treatment of Hypertrophic
-Cardiomyopathy: Current Practice and Novel Perspectives. J Clin Med 12(17):5710, 2023. doi:
-10.3390/jcm12175710.
 Treatment of Hypertrophic Cardiomyopathy Arrhythmias
 Moderation of physical activity
 For atrial fibrillation, antiarrhythmic pharmacotherapy and anticoagulation for stroke
@@ -122,9 +86,6 @@ sustained ventricular tachycardia/ventricular fibrillation or resuscitated cardi
 higher risk of sudden death in patients with hypertrophic cardiomyopathy, guidelines also that an ICD
 can be useful for patients with one or more of the following: sudden cardiac death in a close relative at
 age ≤ 50 years, left ventricular wall thickness ≥ 30 mm, syncope considered to be due to an arrhythmia,
- 3/4
-
- Hypertrophic Cardiomyopathy Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 left ventricular apical aneurysm, or left ventricular ejection fraction < 50% (class IIa recommendation)
 and may be considered for patients with extensive late gadolinium enhancement (LGE) on cardiac MRI
 (a marker of ventricular scarring) or documented nonsustained ventricular tachycardia. (Class IIb
@@ -135,11 +96,6 @@ arrhythmogenic substrate may also be used (1).
 Outflow tract obstruction also may be helped by beta-blockers and sometimes septal reduction
 therapy (surgical or by alcohol ablation) or cardiac myosin adenosine triphosphatase inhibition with
 mavacamten.
-Treatment reference
-1. Ommen SR, Mital S, Burke MA, et al: 2020 AHA/ACC Guideline for the Diagnosis and Treatment
-of Patients With Hypertrophic Cardiomyopathy A Report of the American College of
-Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation
-142(25):e533–e557, 2020. doi: 10.1161/CIR.0000000000000937
 Key Points
 Hypertrophic cardiomyopathy is arrhythmogenic, predisposing to atrial and/or ventricular
 tachyarrhythmias and sudden death.
@@ -149,6 +105,3 @@ Atrial tachyarrhythmias are treated with medications and ventricular dysrhythmia
 implantable cardioverter-defibrillator (ICD).
 Exercise is not strictly prohibited provided appropriate evaluation and shared decision-
 making are done.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 4/4

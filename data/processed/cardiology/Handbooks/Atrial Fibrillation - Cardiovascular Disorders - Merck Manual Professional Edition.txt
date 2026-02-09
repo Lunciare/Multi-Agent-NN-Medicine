@@ -1,31 +1,10 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:23.195264",
-  "file_size_bytes": 704494,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Atrial Fibrillation
-(A Fib)
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Sept 2024 | Modified Dec 2024
 Atrial fibrillation is a rapid, irregularly irregular atrial rhythm. Symptoms
 include palpitations and sometimes weakness, effort intolerance, dyspnea, and
 presyncope. Atrial thrombi may form, causing a significant risk of embolic
 stroke. Diagnosis is by electrocardiography. Treatment involves rate control
 with medications, prevention of thromboembolism with anticoagulation, and
 sometimes conversion to sinus rhythm by medications or cardioversion.
-(See also Overview of Arrhythmias.)
 Atrial fibrillation is initiated and maintained by multiple electrophysiologic and structural mechanisms.
 Early in its course the dominant mechanisms are focal automaticity and micro-reentry (drivers)
 predominantly originating from muscular sleeves in venous structures adjacent to the atria, especially
@@ -46,7 +25,7 @@ age 80 years (2). Atrial fibrillation tends to occur in patients with an underly
 Complications of atrial fibrillation
  1/14
 
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 The absent atrial contractions predispose to thrombus formation; the overall annual risk of
 cerebrovascular embolic events is 3 to 5%, and atrial fibrillation is responsible for approximately 20 to
 25% of all strokes (2). Risk of stroke is higher in older patients and in patients with moderate to severe
@@ -62,16 +41,6 @@ ventricular rate becomes too fast (eg, > 140 beats/minute), or when patients hav
 cardiac output to begin with. In such cases, heart failure may develop.
 CLINICAL CALCULATORS
 Atrial Fibrillation CHA(2)DS(2)-VASc Score for Stroke Risk
-General references
-1. Go AS, Hylek EM, Phillips KA, et al: Prevalence of diagnosed atrial fibrillation in adults: national
-implications for rhythm management and stroke prevention: the AnTicoagulation and Risk Factors
-in Atrial Fibrillation (ATRIA) Study. JAMA 285(18):2370–2375, 2001. doi: 10.1001/jama.285.18.2370.
-2. Andrade J, Khairy P, Dobrev D, et al: The clinical profile and pathophysiology of atrial fibrillation:
-relationships among clinical features, epidemiology, and mechanisms. Circ Res 114(9):1453–1468,
-2014. doi: 10.1161/CIRCRESAHA.114.303211.
-3. Klavebäck S, Skúladóttir H, Olbers J, et al: Changes in cardiac output, rhythm regularity, and
-symptom severity after electrical cardioversion of atrial fibrillation. Scand Cardiovasc J
-57(1):2236341, 2023. doi: 10.1080/14017431.2023.2236341
 Etiology of Atrial Fibrillation
 The most common causes of atrial fibrillation are
 Hypertension
@@ -82,7 +51,7 @@ Hyperthyroidism
 Binge alcohol drinking (holiday heart)
  2/14
 
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Less common causes of atrial fibrillation include
 Pulmonary embolism
 Atrial septal defects and other congenital heart defects
@@ -105,16 +74,6 @@ fibrillation is present, the less likely is spontaneous conversion and the more 
 because of atrial remodeling (rapid atrial rate-induced changes in atrial electrophysiology, including a
 decrease in atrial refractoriness, spatial dispersion of atrial refractoriness, slowed atrial conduction
 velocity, or combinations of these) (2).
- 3/14
-
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
-Classification references
-1. Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis
-and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American
-Heart Association Joint Committee on Clinical Practice Guidelines. Circulation 149(1):e1–e156, 2024.
-doi: 10.1161/CIR.0000000000001193
-2. Allessie M, Ausma J, Schotten U: Electrical, contractile and structural remodeling during atrial
-fibrillation. Cardiovasc Res54(2):230–246, 2002. doi: 10.1016/s0008-6363(02)00258-4
 Symptoms and Signs of Atrial Fibrillation
 Atrial fibrillation is often asymptomatic, but many patients have palpitations, chest discomfort, or
 symptoms of heart failure (eg, weakness, light-headedness, dyspnea), particularly when the ventricular
@@ -136,7 +95,7 @@ seen in lead V1 and not always apparent in all leads
 Irregularly irregular R-R intervals
  4/14
 
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Atrial Fibrillation
 Other irregular rhythms may resemble atrial fibrillation on ECG but can be distinguished by the
 presence of discrete P or flutter waves, which can sometimes be made more visible with vagal
@@ -155,17 +114,7 @@ Atrial thrombi are more likely in the atrial appendages, where they are best det
 transesophageal rather than transthoracic echocardiography.
 Pearls & Pitfalls
 Atrial fibrillation with a wide QRS complex may indicate Wolff-Parkinson-White syndrome;
-in such cases, use of atrioventricular node-blocking medications may be fatal.
-Diagnosis references
-1. Morton MB, Morton JB, Mond HG: Aberrant Ventricular Conduction: Revisiting an Old Concept.
-Heart Lung Circ 32(5):555–566, 2023. doi: 10.1016/j.hlc.2023.03.001
-2. Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis
-and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American
- 5/14
-
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
-Heart Association Joint Committee on Clinical Practice Guidelines. Circulation149(1):e1–e156, 2024.
-doi: 10.1161/CIR.0000000000001193
+in such cases, use of atrioventricular node-blocking medications may be fatal.  
 Treatment of Atrial Fibrillation
 Rate control with medications or AV node ablation
 Sometimes rhythm control with synchronized cardioversion, medications, or atrial
@@ -200,7 +149,7 @@ medications that are capable of doing so (class Ia, Ic, III) have a risk of adve
 mortality. Conversion to sinus rhythm does not eliminate the need for chronic anticoagulation.
  6/14
 
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 For acute conversion, synchronized cardioversion or medications can be used.
 Before conversion is attempted, the ventricular rate should be controlled to < 120 beats/minute, and
 most patients should be anticoagulated (for criteria and methods, see Prevention of thromboembolism)
@@ -242,7 +191,7 @@ fibrillation, but the role of these medications in routine atrial fibrillation t
 Ablation procedures for atrial fibrillation
  7/14
 
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 For patients who are not candidates for rate control or rhythm control or in whom these approaches
 fail, ablation of the AV node may be done to cause complete heart block; insertion of a permanent
 pacemaker is then necessary. Ablation of the slow AV nodal pathway (AV node modification) reduces the
@@ -281,7 +230,7 @@ History of hypertension 1
 Age ≥ 75 years 2
  8/14
 
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Variable Points
 History of diabetes mellitus 1
 Prior stroke/transient ischemic attack
@@ -314,7 +263,7 @@ Patients with atrial fibrillation and a mechanical heart valve(s) are treated wi
 (class I recommendation).
  9/14
 
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Patients with atrial fibrillation and moderate to severe rheumatic mitral stenosis are treated
 with warfarin (class I recommendation).
 Patients with nonvalvular atrial fibrillation who are treated with an oral anticoagulant are
@@ -352,7 +301,7 @@ Prior stroke 1
 Prior bleeding 1
  10/14
 
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Variable Points
 Labile international normalized ratios
 (INRs) if being treated with warfarin
@@ -374,7 +323,7 @@ Prevention of thromboembolism in patients undergoing cardioversion
 Guidelines suggest the following measures for prevention around the time of cardioversion (1):
  11/14
 
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Anticoagulation in Patients Ungergoing Cardioversion
 * Anticoagulant can be given for < 3 weeks if TEE does not show atrial thrombus.
 TEE = transesophageal echocardiography (to rule out left atrial thrombus).
@@ -394,50 +343,12 @@ group of patients may undergo cardioversion without a precardioversion TEE or
 precardioversion anticoagulation.
  12/14
 
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Pearls & Pitfalls
 When possible, give anticoagulation before attempting to convert atrial fibrillation to
 sinus rhythm.
 Conversion to sinus rhythm does not eliminate the need for chronic anticoagulation in
 patients who meet criteria for it.
-Treatment references
-1. Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis
-and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American
-Heart Association Joint Committee on Clinical Practice Guidelines. Circulation 149(1):e1–e156, 2024.
-doi: 10.1161/CIR.0000000000001193
-2. Crijns HJ, Weijs B, Fairley AM, et al: Contemporary real life cardioversion of atrial fibrillation:
-Results from the multinational RHYTHM-AF study. Int J Cardiol 172(3):588–594, 2014.
-doi:10.1016/j.ijcard.2014.01.099
-3. Tsiachris D, Doundoulakis I, Pagkalidou E, et al: Pharmacologic Cardioversion in Patients with
-Paroxysmal Atrial Fibrillation: A Network Meta-Analysis. Cardiovasc Drugs Ther 35(2):293–308, 2021.
-doi: 10.1007/s10557-020-07127-1
-4. Valembois L, Audureau E, Takeda A, et al: Antiarrhythmics for maintaining sinus rhythm after
-cardioversion of atrial fibrillation. Cochrane Database Syst Rev 9(9):CD005049, 2019. doi:
-10.1002/14651858.CD005049.pub5
-5. Ibrahim OA, Belley-Côté EP, Um KJ, et al: Single-dose oral anti-arrhythmic drugs for
-cardioversion of recent-onset atrial fibrillation: a systematic review and network meta-analysis of
-randomized controlled trials. Europace 23(8):1200–1210, 2021. doi: 10.1093/europace/euab014
-6. Voskoboinik A, Moskovitch JT, Harel N, Sanders P, Kistler PM, Kalman JM: Revisiting pulmonary
-vein isolation alone for persistent atrial fibrillation: A systematic review and meta-analysis. Heart
-Rhythm 14(5):661–667, 2017. doi:10.1016/j.hrthm.2017.01.003
-7. Razzack AA, Lak HM, Pothuru S, et al: Efficacy and Safety of Catheter Ablation vs Antiarrhythmic
-Drugs as Initial Therapy for Management of Symptomatic Paroxysmal Atrial Fibrillation: A Meta-
-Analysis. Rev Cardiovasc Med 23(3):112, 2022. doi: 10.31083/j.rcm2303112
-8. Ravi V, Poudyal A, Lin L, et al: Mortality benefit of catheter ablation versus medical therapy in
-atrial fibrillation: An RCT only meta-analysis. J Cardiovasc Electrophysiol 33(2):178–193, 2022. doi:
-10.1111/jce.15330
-9. Guo Q, Yan F, Ouyang P, et al: Bi-atrial or left atrial ablation of atrial fibrillation during
-concomitant cardiac surgery: A Bayesian network meta-analysis of randomized controlled trials. J
-Cardiovasc Electrophysiol 32(8):2316–2328, 2021. doi:10.1111/jce.15127
-10. Lip GY, Nieuwlaat R, Pisters R, et al: Refining clinical risk stratification for predicting stroke and
-thromboembolism in atrial fibrillation using a novel risk factor-based approach: the Euro Hart
-Survey on atrial fibrillation. Chest 137(2):263–272, 2010. doi: 10.1378/chest.09-1584
-11. Pisters R, Lane DA, Nieuwlaat R, et al: A novel user-friendly score (HAS-BLED) to assess 1-year
-risk of major bleeding in patients with atrial fibrillation: the Euro Heart Survey. Chest 138(5):1093–
-1100, 2010. doi: 10.1378/chest.10-0134
- 13/14
-
- Atrial Fibrillation - Cardiovascular Disorders - Merck Manual Professional Edition
 Key Points
 Atrial fibrillation is an irregularly irregular atrial rhythm that may be episodic or
 continuous.
@@ -454,6 +365,3 @@ failure); synchronized cardioversion or medication can be used.
 Long-term oral anticoagulation to prevent stroke is required for patients with risk
 factors for thromboembolism.
 Anticoagulation is usually necessary before cardioversion.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 14/14

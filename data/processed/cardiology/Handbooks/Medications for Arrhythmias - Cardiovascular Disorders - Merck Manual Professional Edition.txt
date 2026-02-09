@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Medications for Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:58.126252",
-  "file_size_bytes": 296883,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Medications for Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Medications for Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Medications for Arrhythmias
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2025
 The decision to treat an arrhythmia depends on its symptoms and its potential severity. Treatment is
 directed at causes. If necessary, direct antiarrhythmic therapy, including antiarrhythmic drugs,
 cardioversion-defibrillation, implantable cardioverter-defibrillators (ICDs), pacemakers (and a special
@@ -46,9 +27,6 @@ conduction and AV nodal refractory periods.
 Adenosine slows or blocks AV nodal conduction and can terminate tachyarrhythmias that rely upon AV
 nodal conduction for their perpetuation.
 Ivabradine inhibits the SA node funny current and slows SA node rate.
- 1/10
-
- Medications for Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 TABLE
 Antiarrhythmic Drugs (Vaughan Williams Classification)
 Selected Adverse
@@ -101,8 +79,7 @@ prolonged
 Class Ib
 Uses: Suppression of ventricular arrhythmias (VPB, VT, VF)
  2/10
-
- Medications for Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Selected Adverse
 Drug Comments
 Effects
@@ -154,8 +131,7 @@ possible AV block in
 Bisoprolol
 patients with AV node
  3/10
-
- Medications for Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Selected Adverse
 Drug Comments
 Effects
@@ -206,8 +182,7 @@ decreased GFR
 Dronedarone QTc prolongation, Modified amiodarone
 torsades de pointes VT, molecule with shorter half-
  4/10
-
- Medications for Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Selected Adverse
 Drug Comments
 Effects
@@ -259,8 +234,7 @@ bronchospasm
 Extremely short duration
 of action
  5/10
-
- Medications for Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Selected Adverse
 Drug Comments
 Effects
@@ -295,14 +269,6 @@ AF = atrial fibrillation; APB = atrial premature beat; AV = atrioventricular; GF
 filtration rate; GI = gastrointestinal; IV = intravenous; LV = left ventricular; QTc = QT interval
 corrected for heart rate; SVT = supraventricular tachycardia; VF = ventricular fibrillation; VPB
 = ventricular premature beat; VT = ventricular tachycardia.
-Antiarrhythmic drug references
-1. Vaughan Williams EM. Classification of antidysrhythmic drugs. Pharmacol Ther B 1975;1(1):115-
-138. doi:10.1016/0306-039x(75)90019-7
-2. Lei M, Wu L, Terrar DA, Huang CLH: Modernized classification of cardiac antiarrhythmic drugs.
-Circulation 138(17):1879–1896, 2018. doi: 10.1161/CIRCULATIONAHA.118.035455
- 6/10
-
- Medications for Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Class I Antiarrhythmic Drugs
 Class I antiarrhythmic drugs are
 Sodium channel blockers (membrane-stabilizing drugs), which block fast sodium channels,
@@ -339,8 +305,7 @@ Class Ia drugs have kinetics that are intermediate between the fast kinetics of 
 kinetics of class Ic. Their fast-channel tissue conduction slowing effects may or may not be evident on an
 ECG obtained during normal rhythm at normal rates. Class Ia drugs block repolarizing potassium
  7/10
-
- Medications for Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 channels, prolonging the refractory periods of fast-channel tissues. On the ECG, this effect is reflected as
 QT-interval prolongation even at normal rates.
 The primary indications for class Ia drugs are
@@ -372,21 +337,6 @@ Supraventricular tachycardia
 Ventricular fibrillation
 Ventricular premature beats
 Ventricular tachycardias
-Class 1 antiarrhythmic drugs references
-1. Brugada J, Katritsis DG, Arbelo E, et al. 2019 ESC Guidelines for the management of patients with
-supraventricular tachycardia The Task Force for the management of patients with supraventricular
- 8/10
-
- Medications for Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
-tachycardia of the European Society of Cardiology (ESC) [published correction appears in Eur Heart
-J 2020 Nov 21;41(44):4258. doi: 10.1093/eurheartj/ehz827]. Eur Heart J 2020;41(5):655-720.
-doi:10.1093/eurheartj/ehz467
-2. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS Guideline for Management
-of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of
-the American College of Cardiology/American Heart Association Task Force on Clinical Practice
-Guidelines and the Heart Rhythm Society [published correction appears in J Am Coll Cardiol 2018
-Oct 2;72(14):1760. doi: 10.1016/j.jacc.2018.08.2132]. J Am Coll Cardiol 2018;72(14):e91-e220.
-doi:10.1016/j.jacc.2017.10.054
 Class II Antiarrhythmic Drugs
 Class II antiarrhythmic drugs are the
 Beta-blockers
@@ -410,9 +360,6 @@ automaticity is reduced. The predominant effect on the ECG is QT-interval prolon
 These medications are used to treat supraventricular and ventricular tachyarrhythmias. Class III drugs
 have a risk of ventricular proarrhythmia, particularly torsades de pointes VT, and are not used in
 patients with torsades de pointes VT.
- 9/10
-
- Medications for Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Class IV Antiarrhythmic Drugs
 Class IV drugs are
 Nondihydropyridine calcium channel blockers
@@ -422,6 +369,3 @@ slowed, the PR interval is lengthened, and the AV node transmits rapid atrial de
 frequency. These medications are used primarily to treat supraventricular tachycardias. They may also
 be used to slow the ventricular response rate to atrial fibrillation or atrial flutter. One form of VT (left
 septal, Belhassen, or fascicular VT) can be treated with verapamil.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 10/10

@@ -1,35 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:47.664743",
-  "file_size_bytes": 722122,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
-Magnetic Resonance Imaging (MRI)
-By Mustafa A. Mafraji, MD, Rush University Medical Center
-Reviewed By William E. Brant, MD, University of Virginia
-Reviewed/Revised Sept 2025
-T1-Weighted MRI
-IMAGE
-IMAGE COURTESY OF HAKAN ILASLAN, MD.
- 1/7
-
- Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
-MRI of the Knee
-IMAGE
-IMAGE COURTESY OF HAKAN ILASLAN, MD.
-Short T1 Inversion Recovery MRI of the Whole Body
-IMAGE
-IMAGE COURTESY OF HAKAN ILASLAN, MD.
+Magnetic Resonance Imaging
 MRI uses magnetic fields and radio waves to produce images of thin slices of tissues (tomographic
 images). Normally, protons within tissues spin to produce tiny magnetic fields that are randomly
 aligned. When surrounded by the strong magnetic field of an MRI device, the magnetic axes align along
@@ -38,9 +7,6 @@ align against the field in a high-energy state. After the pulse, protons relax a
 alignment within the magnetic field of the MRI device. The magnitude and rate of energy release that
 occurs as the protons resume this alignment (T1 relaxation) and as they wobble (precess) during the
 process (T2 relaxation) are recorded as spatially localized signal intensities by a coil (antenna) built
- 2/7
-
- Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
 within the MRI device. Computer algorithms analyze these signals and produce detailed anatomic
 images.
 The relative signal intensity (brightness) of tissues in an MRI image is determined by factors such as:
@@ -76,9 +42,6 @@ Hepatic and biliary tract abnormalities: Magnetic resonance cholangiopancreatogr
 systems.
 Masses in the female reproductive organs: MRI supplements ultrasound to further
 characterize adnexal masses and to stage uterine tumors.
- 3/7
-
- Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
 Certain fractures: As one example, MRI can provide accurate images of hip fractures in
 patients with osteopenia.
 Bone marrow infiltration and bone metastases: MRI is particularly useful for evaluating
@@ -111,9 +74,6 @@ change in oxygenated hemoglobin can be discerned and used to estimate metabolic 
 parts of the brain.
 In clinical settings, functional MRI is especially helpful clinically in the mapping of motor or language
 cortices (ie, cortical areas that, when removed, result in deficits in sensory processing, motor function,
- 4/7
-
- Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
 or language processing) in patients with intracranial abnormalities such as tumors and arteriovenous
 malformations for whom surgery is being planned. It is also used to plan epilepsy surgery.
 Researchers may use functional MRI to correlate brain function and anatomy (called brain mapping).
@@ -145,9 +105,6 @@ PET-MRI combines functional PET with whole-body MRI. T1-weighted and short T1 in
 (STIR) sequences are frequently used. This modality (available since 2010) is generally available only in
 major academic medical centers.
 Disadvantages of MRI
- 5/7
-
- Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
 MRI is relatively expensive, requires longer imaging times than CT, and may not be immediately
 available in all areas.
 Other disadvantages include problems related to:
@@ -184,8 +141,7 @@ patients without preexisting phobias or anxiety. Also, some patients with obesit
 or within the machine. Premedication with an antianxiety medication (eg, alprazolam or lorazepam) 15
 to 30 minutes before scanning is effective for most anxious patients.
  6/7
-
- Magnetic Resonance Imaging (MRI) - Special Subjects - Merck Manual Professional Edition
+ 
 MRI scanners with an open side can be used for patients with claustrophobia (or those with severe
 obesity). Images obtained during open MRI may be inferior to those of enclosed scanners depending on
 the field strength of the magnet, but they are usually sufficient for making a diagnosis.
@@ -206,16 +162,3 @@ American College of Radiology and the National Kidney Foundation indicates that 
 screening is not mandatory for any patients receiving group II gadolinium-based contrast media (3).
 Gadolinium-based contrast agents should be used only when necessary and at the lowest possible
 dose.
-References
-1. Lange S, Mędrzycka-Dąbrowska W, Zorena K, et al. Nephrogenic Systemic Fibrosis as a
-Complication after Gadolinium-Containing Contrast Agents: A Rapid Review. Int J Environ Res Public
-Health. 2021;18(6):3000. doi:10.3390/ijerph18063000
-2. Starekova J, Pirasteh A, Reeder SB. Update on Gadolinium-Based Contrast Agent Safety, From
-the AJR Special Series on Contrast Media. AJR Am J Roentgenol. 2024;223(3):e2330036.
-doi:10.2214/AJR.23.30036
-3. Weinreb JC, Rodby RA, Yee J, et al. Use of Intravenous Gadolinium-based Contrast Media in
-Patients with Kidney Disease: Consensus Statements from the American College of Radiology and
-the National Kidney Foundation. Radiology. 2021;298(1):28-35. doi:10.1148/radiol.2020202903
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 7/7

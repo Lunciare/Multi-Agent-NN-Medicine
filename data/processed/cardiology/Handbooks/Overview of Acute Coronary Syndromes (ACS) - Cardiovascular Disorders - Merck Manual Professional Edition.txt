@@ -1,25 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:38.008654",
-  "file_size_bytes": 817575,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
-Overview of Acute Coronary Syndromes (ACS)
-(Unstable Angina; Acute MI; Myocardial Infarction)
-By Ranya N. Sweis, MD, MS, Northwestern University Feinberg School of Medicine;
-Arif Jivan, MD, PhD, Northwestern University Feinberg School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2024 | Modified Aug 2025
+Overview of Acute Coronary Syndromes
 Acute coronary syndromes result from acute obstruction of a coronary artery.
 Consequences depend on degree and location of obstruction and range from
 unstable angina to non–ST-segment elevation myocardial infarction (NSTEMI),
@@ -30,7 +9,6 @@ Diagnosis is by electrocardiography (ECG) and biomarkers. Treatment is with
 antiplatelets, anticoagulants, nitrates, beta-blockers, and, for STEMI, emergency
 reperfusion via fibrinolytic drugs, percutaneous intervention, or, occasionally,
 coronary artery bypass graft surgery.
-(See also Overview of Coronary Artery Disease.)
 Classification of Acute Coronary Syndromes
 Acute coronary syndromes include
 Unstable angina
@@ -43,9 +21,6 @@ Unstable angina (acute coronary insufficiency, preinfarction angina, intermediat
 as one or more of the following in patients whose cardiac biomarkers do not meet criteria for
 myocardial infarction (MI):
 Rest angina that is prolonged (usually > 20 minutes)
- 1/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
 New-onset angina of at least class 3 severity in the Canadian Cardiovascular Society (CCS)
 classification (see table Canadian Cardiovascular Society Classification System for Angina
 Pectoris)
@@ -83,8 +58,7 @@ Coronary artery embolism
 Coronary spasm
 Spontaneous coronary artery dissection
  2/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Coronary arterial embolism can occur in mitral stenosis, aortic stenosis, infective endocarditis,
 nonbacterial thrombotic endocarditis (marantic endocarditis), or atrial fibrillation.
 Cocaine use and other causes of coronary spasm can sometimes result in myocardial infarction. Spasm-
@@ -101,14 +75,6 @@ Myocardial infarction in the absence of obstructive coronary artery disease (MIN
 to be younger, female, and without dyslipidemia, and they have myocardial necrosis without significant
 coronary atherosclerosis. Plaque disruption and coronary vasospasm are common in MINOCA.
 Coronary thrombosis or embolism and spontaneous coronary artery dissection are causes of MINOCA.
-Etiology references
-1. Kanji R, Gue YX, Memtsas V, Spencer NH, Gorog DA: Biomarkers of Thrombotic Status Predict
-Spontaneous Reperfusion in Patients With ST-Segment Elevation Myocardial Infarction. J Am Coll
-Cardiol 81(19):1918–1932, 2023. doi:10.1016/j.jacc.2023.03.388
-2. Tamis-Holland JE, Jneid H, Reynolds HR, et al: Contemporary diagnosis and management of
-patients with myocardial infarction in the absence of obstructive coronary artery disease: A
-scientific statement from the American Heart Association. Circulation 139:e891–e908, 2019. doi:
-10.1161/CIR.0000000000000670
 Pathophysiology of Acute Coronary Syndromes
 Initial consequences vary with size, location, and duration of obstruction and range from transient
 ischemia to infarction. Measurement of high sensitivity troponin indicates that some cell necrosis
@@ -121,8 +87,7 @@ akinetic segments; these segments may expand or bulge during systole (called par
 size of the affected area determines effects, which range from minimal to mild heart failure to
 cardiogenic shock; usually, large parts of myocardium must be ischemic to cause significant myocardial
  3/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 dysfunction. Some degree of heart failure occurs in about two thirds of patients hospitalized with acute
 myocardial infarction. It is termed ischemic cardiomyopathy if low cardiac output and heart failure
 persist. Ischemia involving the papillary muscle may lead to mitral valve regurgitation. Dysfunctional
@@ -158,8 +123,7 @@ sometimes sharp needle-like pain. Many patients describe their symptoms as disco
 pain. Except when infarction is massive, recognizing the amount of ischemia by symptoms alone is
 difficult.
  4/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Symptoms of ACS are similar to those of angina and are discussed in more detail in sections on unstable
 angina and acute myocardial infarction. Of note, some patients with coronary artery disease
 (particularly patients with diabetes) have silent myocardial ischemia, which is typically detected during
@@ -195,8 +159,7 @@ assessment and ECG. Pulse oximetry and chest x-ray (particularly to look for med
 which suggests aortic dissection) are also done.
 ECG
  5/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 ECG is the most important test and should be done as soon as possible (eg, within 10 minutes of
 presentation). It is the center of the decision pathway because fibrinolytics benefit patients with STEMI
 but may increase risk for those with NSTEMI. Also, urgent cardiac catheterization is indicated for
@@ -224,8 +187,7 @@ nonspecific and sometimes difficult to interpret (NSTEMI). If such abnormalities
 repeat ECGs, ischemia is very likely. However, when repeat ECGs are unchanged, acute MI is unlikely
 and, if still suspected clinically, requires other evidence to make the diagnosis. A normal ECG taken
  6/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 when a patient is free of pain does not rule out unstable angina; a normal ECG taken when a patient is
 experiencing pain, although it does not rule out angina, suggests that the pain is not ischemic.
 If right ventricular (RV) infarction is suspected, a 15-lead ECG is usually recorded; additional leads are
@@ -245,8 +207,7 @@ Cardiac biomarkers (serum biomarkers of myocardial cell injury) are
 Cardiac enzymes (eg, CK-MB [creatine kinase MB isoenzyme])
 Cell contents (eg, troponin I, troponin T, myoglobin)
  7/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 These biomarkers are released into the bloodstream after myocardial cell necrosis. The biomarkers
 appear at different times after injury, and levels decrease at different rates. Sensitivity and specificity for
 myocardial cell injury vary significantly among these biomarkers. Assays that measure cardiac troponins
@@ -287,8 +248,7 @@ suspicion is high) suggest need to pursue an alternate diagnosis.
 TABLE
 Causes of Elevated Troponin Levels
  8/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Type Conditions
 Myocardial ischemia
 Classic AMI
@@ -324,8 +284,7 @@ Toxicity (eg, anthracyclines)
 Trauma (eg, severe burns)
 Extreme exertion
  9/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Type Conditions
 Renal failure
 Sepsis
@@ -362,8 +321,7 @@ Myocardial imaging is not needed to make the diagnosis if cardiac biomarkers or 
 However, in patients with myocardial infarction, bedside echocardiography is invaluable for detecting
 mechanical complications. Before or shortly after discharge, patients with symptoms suggesting an ACS
  10/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 but with nondiagnostic ECGs and normal cardiac biomarker levels should have a stress imaging test
 (radionuclide or echocardiographic imaging with pharmacologic or exercise stress). Imaging
 abnormalities in such patients indicate increased risk of complications in the next 3 to 6 months and
@@ -374,16 +332,6 @@ right heart, pulmonary artery, and pulmonary artery occlusion pressures and card
 not routinely recommended and should be done only if patients have significant complications (eg,
 severe heart failure, hypoxia, hypotension) and by clinicians experienced with catheter placement and
 management protocols.
-Diagnosis references
-1. Menown IB, Mackenzie G, Adgey AA. Optimizing the initial 12-lead electrocardiographic
-diagnosis of acute myocardial infarction. Eur Heart J 2000;21(4):275-283.
-doi:10.1053/euhj.1999.1748
-2. Badertscher P, Boeddinghaus J, Nestelberger T, et al. Effect of Acute Coronary Syndrome
-Probability on Diagnostic and Prognostic Performance of High-Sensitivity Cardiac Troponin. Clin
-Chem 2018;64(3):515-525. doi:10.1373/clinchem.2017.279513
-3. Møller JE, Hillis GS, Oh JK, Reeder GS, Gersh BJ, Pellikka PA. Wall motion score index and ejection
-fraction for risk stratification after acute myocardial infarction. Am Heart J 2006;151(2):419-425.
-doi:10.1016/j.ahj.2005.03.042
 Treatment of Acute Coronary Syndromes
 Prehospital care: Oxygen, aspirin, and nitrates and triage to an appropriate medical center
 Pharmacologic therapy: Antiplatelet agents, antianginal drugs, anticoagulants, and in some
@@ -400,8 +348,7 @@ treatment.
 Treatment occurs simultaneously with diagnosis.
 Contributing disorders (eg, anemia, heart failure) are aggressively treated.
  11/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Because the chest pain of myocardial infarction usually subsides within 12 to 24 hours, any chest pain
 that remains or recurs later is investigated. It may indicate such complications as recurrent ischemia,
 pericarditis, pulmonary embolism, pneumonia, gastritis, or ulcer.
@@ -433,24 +380,14 @@ picture (see figure Approach to Acute Coronary Syndromes). Approach to pharmacol
 discussed in Medications for Acute Coronary Syndrome, and choice of reperfusion strategy is further
 discussed in Revascularization for Acute Coronary Syndromes.
  12/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Approach to Acute Coronary Syndromes
 * Morphine should be used judiciously (eg, if nitroglycerin is contraindicated or if the patient
 has symptoms despite nitroglycerin therapy). Data suggest that morphine attenuates activity of
-some P2Y12 receptor inhibitors and may contribute to worse patient outcomes (Kubica J,
-Adamski P, Ostrowska M, et al: Morphine delays and attenuates ticagrelor exposure and action
-in patients with myocardial infarction: the randomized, double-blind, placebo-controlled
-IMPRESSION trial. Eur Heart J 37(3): 245–252, 2016. doi: 10.1093/eurheartj/ehv547 and Meine TJ,
-Roe MT, Chen AY, et al: Association of intravenous morphine use and outcomes in acute
-coronary syndromes: results from the CRUSADE Quality Improvement Initiative. Am Heart
-149(6):1043-1049, 2005. doi: 10.1016/j.ahj.2005.02.010).
+some P2Y12 receptor inhibitors and may contribute to worse patient outcomes.
 † Complicated means that the hospital course was complicated by recurrent angina or
 infarction, heart failure, or sustained recurrent ventricular arrhythmias. Absence of any of these
 events is termed uncomplicated.
- 13/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
 ‡ CABG is still generally preferred to PCI for patients with the following:
 Left main or left main equivalent disease
 Left ventricular dysfunction
@@ -485,8 +422,7 @@ Anxiety, mood changes, and denial are common. A mild tranquilizer (usually a ben
 given, but many experts believe such agents are rarely needed. Reactive depression is common by the
 third day of illness and is almost universal at some time during recovery.
  14/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 After the acute phase of illness, the most important tasks are often management of depression,
 rehabilitation, and institution of long-term preventive programs. Overemphasis on bed rest, inactivity,
 and the seriousness of the disorder reinforces anxiety and depressive tendencies, so patients are
@@ -506,26 +442,12 @@ Patients are given a diet low in cholesterol and saturated fats, which is used t
 For patients with diabetes and STEMI, intensive glucose control is not recommended; guidelines call for
 an insulin-based regimen to achieve and maintain glucose levels < 180 mg/dL (9.9 mmol/L) while
 avoiding hypoglycemia.
-Treatment references
-1. Nakayama N, Yamamoto T, Kikuchi M, et al: Prehospital Administration of Aspirin and
-Nitroglycerin for Patients With Suspected Acute Coronary Syndrome— A Systematic Review. Circ
-Rep 4(10):449–457, 2022. Published 2022 Jul 28. doi:10.1253/circrep.CR-22-0060
-2. Savage ML, Hay K, Vollbon W, et al: Prehospital Activation of the Cardiac Catheterization
-Laboratory in ST-Segment-Elevation Myocardial Infarction for Primary Percutaneous Coronary
-Intervention. J Am Heart Assoc 12(14):e029346, 2023. doi:10.1161/JAHA.122.029346
-3. Kubica J, Adamski P, Ostrowska M, et al: Morphine delays and attenuates ticagrelor exposure
-and action in patients with myocardial infarction: the randomized, double-blind, placebo-
-controlled IMPRESSION trial. Eur Heart J 37(3): 245–252, 2016. doi: 10.1093/eurheartj/ehv547
-4. Meine TJ, Roe MT, Chen AY, et al: Association of intravenous morphine use and outcomes in
-acute coronary syndromes: results from the CRUSADE Quality Improvement Initiative. Am Heart
-149(6):1043-1049, 2005. doi: 10.1016/j.ahj.2005.02.010
 Rehabilitation and Post-Discharge Treatment
 Functional evaluation
 Changes in lifestyle: Regular exercise, diet modification, weight loss, smoking cessation
 Medications: Continuation of antiplatelets, beta-blockers, ACE inhibitors, and statins
  15/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Functional evaluation
 Patients who did not have coronary angiography during admission, have no high-risk features (eg, heart
 failure, recurrent angina, ventricular tachycardia or ventricular fibrillation after 24 hours, mechanical
@@ -564,8 +486,7 @@ Aspirin and other antiplatelet agents
 Beta blockers
 Angiotensin-converting enzyme (ACE) inhibitors
  16/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Statins
 Other medications that can reduce cardiovascular events include:
 PCSK9 inhibitors, when added to statins when further reduction in lipid levels is needed
@@ -588,32 +509,6 @@ LDL remains ≥ 70 mg/dL (≥ 1.81 mmol/L) on maximally tolerated statin therapy
 Mineralocorticoid receptor inhibitors (spironolactone or eplerenone) are indicated for patients with left
 ventricular dysfunction following MI, especially when symptomatic, to reduce morbidity and mortality
 (6).
-Rehabilitation and post-discharge treatment references
-1. Dibben G, Faulkner J, Oldridge N, et al: Exercise-based cardiac rehabilitation for coronary heart
-disease. Cochrane Database Syst Rev 11(11):CD001800, 2011.
-doi:10.1002/14651858.CD001800.pub4
-2. Visseren FLJ, Mach F, Smulders YM, et al: 2021 ESC Guidelines on cardiovascular disease
-prevention in clinical practice: Developed by the Task Force for cardiovascular disease prevention
-in clinical practice with representatives of the European Society of Cardiology and 12 medical
-societies With the special contribution of the European Association of Preventive Cardiology
-(EAPC). Eur Heart J 42 (34): 3227–3337 2021. doi: 10.1093/eurheartj/ehab484
-3. Wallentin L, Becker RC, Budaj A, et al: Ticagrelor versus clopidogrel in patients with acute
-coronary syndromes. N Engl J Med 361:1045–1057, 2009. doi: 10.1056/NEJMoa0904327
-4. Pedersen SB, Nielsen JC, Bøtker HE, Udupi A, Goldberger JJ: Long-Term Follow-Up After Acute
-Myocardial Infarction According to Beta-Blocker Dose. Am J Med 136(5):458–465.e3, 2023.
-doi:10.1016/j.amjmed.2023.02.006
-5. Rao SV, O'Donoghue ML, Ruel M, et al: 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the
-Management of Patients With Acute Coronary Syndromes: A Report of the American College of
-Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines [published
- 17/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
-correction appears in J Am Coll Cardiol. 2025 May 13;85(18):1800. doi: 10.1016/j.jacc.2025.03.500.].
-J Am Coll Cardiol Feb 27:S0735-1097(24)10424-X. doi:10.1016/j.jacc.2024.11.009
-6. Pitt B, Remme W, Zannad F, et al: Eplerenone, a selective aldosterone blocker, in patients with
-left ventricular dysfunction after myocardial infarction [published correction appears in N Engl J
-Med. 2003 May 29;348(22):2271]. N Engl J Med 348(14):1309-1321, 2003.
-doi:10.1056/NEJMoa030207
 Prognosis for Acute Coronary Syndromes
 Global risk should be estimated via formal clinical risk scores (Thrombolysis in Myocardial Infarction
 [TIMI], Global Registry of Acute Coronary Events [GRACE], Platelet Glycoprotein IIb/IIIa in Unstable
@@ -636,13 +531,6 @@ Elevation Myocardial Infarction
 CLINICAL CALCULATORS
 Thrombolysis in Myocardial Infarction (TIMI) Score for ST Elevation Acute
 Myocardial Infarction
-Prognosis reference
-1. Boersma E, Pieper KS, Steyerberg EW, et al: Predictors of outcome in patients with acute
-coronary syndromes without persistent ST-segment elevation. Results from an international trial
-of 9461 patients. The PURSUIT Investigators. Circulation 101(22): 2557–2567, 2000.
- 18/19
-
- Overview of Acute Coronary Syndromes (ACS) - Cardiovascular Disorders - Merck Manual Professional Edition
 Key Points
 Unstable angina, non–ST-segment elevation myocardial infarction (NSTEMI), and ST-
 segment elevation myocardial infarction (STEMI) represent worsening degrees of
@@ -662,6 +550,3 @@ fibrinolysis if such timely PCI is not available.
 Following recovery, initiate or continue aspirin and other antiplatelet agents, beta-
 blockers, angiotensin-converting enzyme inhibitors, and statins in most cases unless
 contraindicated.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 19/19

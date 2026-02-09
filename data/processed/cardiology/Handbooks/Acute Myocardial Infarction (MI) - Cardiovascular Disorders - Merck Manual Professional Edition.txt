@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:12.190613",
-  "file_size_bytes": 1454038,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Acute Myocardial Infarction (MI)
-By Ranya N. Sweis, MD, MS, Northwestern University Feinberg School of Medicine;
-Arif Jivan, MD, PhD, Northwestern University Feinberg School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2024 | Modified Jul 2024
 Acute myocardial infarction is myocardial necrosis resulting from acute
 obstruction of a coronary artery. Symptoms include chest discomfort with or
 without dyspnea, nausea, and/or diaphoresis. Diagnosis is by
@@ -35,17 +15,7 @@ In the United States, up to 1.0 million myocardial infarctions occur annually (1
 Acute MI, along with unstable angina, is considered an acute coronary syndrome. Acute MI includes
 both non–ST-segment elevation myocardial infarction (NSTEMI) and ST-segment elevation myocardial
 infarction (STEMI). Distinction between NSTEMI and STEMI is vital as treatment strategies are different
-for these two entities.
-Heart Attack and Cardiac
-Arrest Myths
-PODCAST
- 1/22
-
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
-General reference
-1. Benjamin EJ, Virani SS, Callaway CW, et al. Heart Disease and Stroke Statistics-2018 Update: A
-Report From the American Heart Association [published correction appears in Circulation 2018 Mar
-20;137(12 ):e493]. Circulation 2018;137(12):e67-e492. doi:10.1161/CIR.0000000000000558
+for these two entities
 Pathophysiology of Acute MI
 Myocardial infarction is defined as myocardial necrosis in a clinical setting consistent with myocardial
 ischemia (1). These conditions can be satisfied by a rise of cardiac biomarkers (preferably cardiac
@@ -78,7 +48,7 @@ circumflex artery; it is characterized by high RV filling pressure, often with s
 and reduced cardiac output.
  2/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 An inferoposterior infarction causes some degree of RV dysfunction in about half of patients and
 causes hemodynamic abnormality in 10 to 15%. RV dysfunction should be considered in any patient
 who has inferoposterior infarction and elevated jugular venous pressure with hypotension or shock. RV
@@ -117,17 +87,6 @@ Coronary thrombosis or embolism and spontaneous coronary artery dissection are c
 Medical management should be based on the underlying mechanism for MINOCA in each patient.
  3/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
-Pathophysiology references
-1. Thygesen K, Alpert JS, Jaffe AS, et al: Fourth Universal Definition of Myocardial Infarction (2018). J
-Am Coll Cardiol 72(18):2231–2264, 2018. doi:10.1016/j.jacc.2018.08.1038
-2. Mehta SR, Eikelboom JW, Natarajan MK, et al. Impact of right ventricular involvement on
-mortality and morbidity in patients with inferior myocardial infarction. J Am Coll Cardiol 37(1):37–
-43, 2001. doi:10.1016/s0735-1097(00)01089-5
-3. Tamis-Holland JE, Jneid H, Reynolds HR, et al: Contemporary diagnosis and management of
-patients with myocardial infarction in the absence of obstructive coronary artery disease: A
-scientific statement from the American Heart Association. Circulation 139:e891–e908, 2019.
-doi.org/10.1161/CIR.0000000000000670
 Symptoms and Signs of Acute MI
 Symptoms of NSTEMI and STEMI are the same. Days to weeks before the event, about two thirds of
 patients experience prodromal symptoms, including unstable or crescendo angina, dyspnea, and
@@ -156,7 +115,7 @@ Skin may be pale, cool, and diaphoretic. Peripheral or central cyanosis may be p
 thready, and blood pressure is variable, although many patients initially have some degree of
  4/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 hypertension during pain.
 Heart sounds are usually somewhat distant; a fourth heart sound is almost universally present. A soft
 systolic blowing apical murmur (reflecting papillary muscle dysfunction) may occur. During initial
@@ -166,13 +125,6 @@ pericarditis rather than MI. However, friction rubs, usually evanescent, are com
 post-STEMI. The chest wall is tender when palpated in some patients.
 In right ventricular (RV) infarction, signs include elevated RV filling pressure, distended jugular veins
 (often with Kussmaul sign), clear lung fields, and hypotension.
-Symptoms and signs references
-1. Parmley WW. Prevalence and clinical significance of silent myocardial ischemia. Circulation
-1989;80(6 Suppl):IV68-IV73.
-2. Lichtman JH, Leifheit EC, Safdar B, et al. Sex Differences in the Presentation and Perception of
-Symptoms Among Young Patients With Myocardial Infarction: Evidence from the VIRGO Study
-(Variation in Recovery: Role of Gender on Outcomes of Young AMI Patients). Circulation
-2018;137(8):781-790. doi:10.1161/CIRCULATIONAHA.117.031650
 Diagnosis of Acute MI
 Serial ECGs
 Serial cardiac biomarkers
@@ -193,7 +145,7 @@ ECG is the most important test and should be done as soon as possible (eg, withi
 presentation).
  5/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 For STEMI, initial ECG is usually diagnostic, showing ST-segment elevation ≥ 1 mm in 2 or more
 contiguous leads subtending the damaged area (see figures Acute Lateral Left Ventricular Infarction,
 Lateral Left Ventricular Infarction, Lateral Left Ventricular Infarction (several days later), Acute Inferior
@@ -213,7 +165,7 @@ V , and V .
 4 6
  6/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Lateral Left Ventricular Infarction (several days later)
 Significant Q waves and loss of R-wave voltage persist. ST segments are now essentially
 isoelectric. The ECG will probably change only slowly over the next several months.
@@ -232,7 +184,7 @@ attention is mistakenly focused on leads with ST-segment depression. If symptoms
 ST-segment elevation on ECG has a specificity of 90% and a sensitivity of 45% for diagnosing myocardial
  7/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 infarction. Serial tracings (obtained every 8 hours for 1 day, then daily) showing a gradual evolution
 toward a stable, more normal pattern or development of abnormal Q waves over a few days tends to
 confirm the diagnosis.
@@ -250,7 +202,7 @@ M.I. Prediction Decision TreeCalc
 Cardiac biomarkers
  8/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 CLINICAL CALCULATORS
 M.I. Criteria for Likelihood in Chest Pain with LBBB
 Cardiac biomarkers (serum biomarkers of myocardial cell injury) are
@@ -288,7 +240,7 @@ Symptoms
 ECG
  9/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 A high pre-test probability plus an elevated troponin level detected with an hs-cTn assay is highly
 suggestive of myocardial infarction, whereas a low pre-test probability plus a normal hs-cTn assay result
 is unlikely to represent myocardial infarction (1). Diagnosis is more challenging when test results are
@@ -312,21 +264,13 @@ presence of cardiogenic shock, acute mitral regurgitation, ventricular septal de
 arrhythmias). Patients with uncomplicated NSTEMI whose symptoms have resolved typically undergo
 angiography within the first 24 to 48 hours of hospitalization to detect lesions that may require
 treatment.
-MRI Findings of Myocardial Infarct
-IMAGE
-© 2017 ELLIOT K. FISHMAN, MD.
- 10/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 After initial evaluation and therapy, coronary angiography may be used in patients with evidence of
 ongoing ischemia (ECG findings or symptoms), hemodynamic instability, recurrent ventricular
 tachyarrhythmias, and other abnormalities that suggest recurrence of ischemic events. Some experts
 also recommend that angiography be done before hospital discharge in patients with STEMI who have
 inducible ischemia on stress imaging or an ejection fraction < 40%.
-Diagnosis reference
-1. Badertscher P, Boeddinghaus J, Nestelberger T, et al. Effect of Acute Coronary Syndrome
-Probability on Diagnostic and Prognostic Performance of High-Sensitivity Cardiac Troponin. Clin
-Chem 2018;64(3):515-525. doi:10.1373/clinchem.2017.279513
 Treatment of Acute MI
 Prehospital care: Oxygen, aspirin, nitrates, and triage to an appropriate medical center
 Pharmacologic therapy: Antiplatelet agents, antianginal drugs, anticoagulants, and in some
@@ -353,14 +297,14 @@ On arrival to the emergency department, the patient's diagnosis is confirmed. Ph
 and timing of revascularization depend on the clinical picture and diagnosis.
  11/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 For STEMI, reperfusion strategy can include fibrinolytic therapy or immediate PCI. For patients with
 NSTEMI, angiography may be done within 24 to 48 hours of admission if the patient is clinically stable. If
 the patient is unstable (eg, ongoing symptoms, hypotension, or sustained arrhythmias), then
 angiography must be done immediately (see figure Approach to Myocardial Infarction).
  12/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Approach to Myocardial Infarction
 * Morphine should be used judiciously (eg, if nitroglycerin is contraindicated or if the patient
 has symptoms despite nitroglycerin therapy). Data suggest that morphine attenuates activity of
@@ -374,7 +318,7 @@ Left ventricular dysfunction
 Diabetes
  13/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Also, lesions that are long or near bifurcation points are often not amenable to PCI.
 CABG = coronary artery bypass grafting; GP = glycoprotein; NSTEMI = Non–ST-segment
 elevation myocardial infarction; PCI = percutaneous intervention; STEMI = ST-segment elevation
@@ -411,7 +355,7 @@ heparin-induced thrombocytopenia Anticoagulants are continued for:
 Duration of PCI in patients undergoing this procedure
  14/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Duration of hospital stay (in patients on LMWH) or 48 hours (in patients on unfractionated
 heparin) in all other cases
 Consider a glycoprotein IIb/IIIa inhibitor during PCI for patients with high-risk lesions (high thrombus
@@ -452,7 +396,7 @@ arrhythmias) should be taken directly to the cardiac catheterization laboratory 
 lesions requiring PCI or coronary artery bypass grafting (CABG).
  15/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 For patients with uncomplicated NSTEMI, reperfusion is not as urgent because a completely occluded
 infarct-related artery at presentation is uncommon. Such patients typically undergo angiography within
 the first 24 to 48 hours of hospitalization to identify coronary lesions requiring PCI or CABG.
@@ -486,22 +430,6 @@ the patient, advising about lifestyle (eg, smoking, diet, work and play habits, 
 managing risk factors may improve prognosis.
 On discharge, all patients should be on appropriate antiplatelet agents, statins, antianginals, and other
 medications based on comorbidities.
-Treatment references
-1. Meine TJ, Roe MT, Chen AY, et al: Association of intravenous morphine use and outcomes in
-acute coronary syndromes: results from the CRUSADE Quality Improvement Initiative. Am Heart J
-149(6):1043–1049, 2005. doi 10.1016/j.ahj.2005.02.010
- 16/22
-
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
-2. Kubica J, Adamski P, Ostrowska M, et al: Morphine delays and attenuates ticagrelor exposure
-and action in patients with myocardial infarction: the randomized, double-blind, placebo-
-controlled IMPRESSION trial. Eur Heart J 37(3):245–252, 2016. doi: 10.1093/eurheartj/ehv547
-3. Wang WT, Hellkamp A, Doll JA, et al. Lipid Testing and Statin Dosing After Acute Myocardial
-Infarction. J Am Heart Assoc. 2018;7(3):e006460. Published 2018 Jan 25.
-doi:10.1161/JAHA.117.006460
-4. Lawton JS, Tamis-Holland JE, Bangalore S, et al: 2021 ACC/AHA/SCAI guideline for coronary artery
-revascularization: a report of the ACC/AHA Joint Committee on Clinical Practice Guidelines. J Am
-Coll Cardiol 79(2):e21–e129, 2022. doi: 10.1016/j.jacc.2021.09.006
 Prognosis for Acute MI
 Risk should be estimated via formal clinical risk scores (eg, Thrombosis in Myocardial Infarction [TIMI]—
 see tables Mortality Risk at 30 Days in STEMI and Risk of Adverse Events at 14 Days in Unstable Angina
@@ -530,7 +458,7 @@ hospital mortality is generally lower for NSTEMI than with STEMI.
 Mortality rates tend to be higher in females and in patients with diabetes.
  17/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Most fatalities among patients who survive initial hospitalization occur in the first 3 to 4 months.
 Persistent ventricular arrhythmia, heart failure, poor ventricular function, and recurrent ischemia
 indicate high risk. Many authorities recommend stress ECG before hospital discharge or within 6 weeks
@@ -567,7 +495,7 @@ Mortality Risk at 30 Days in STEMI
 Risk Factor Points
  18/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Risk Factor Points
 Age ≥ 75 years 3
 Age 65–74 years 2
@@ -597,7 +525,7 @@ Total Points Mortality Rate at 30 Days (%)
 > 8 35.9
  19/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 MI = myocardial infarction; STEMI = ST-segment elevation MI; TIMI = thrombolysis in MI.
 Based on data from Morrow DA et al: TIMI risk score for ST-elevation myocardial infarction:
 a convenient, bedside, clinical score for risk assessment at presentation. Circulation 102
@@ -630,7 +558,7 @@ Total Points Risk of Events at 14 Days (%)*
 0 or 1 4.7
  20/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Scoring
 Risk Factor Points
 2 8.3
@@ -651,17 +579,8 @@ Elevation Myocardial Infarction
 CLINICAL CALCULATORS
 Thrombolysis in Myocardial Infarction (TIMI) Score for ST Elevation Acute
 Myocardial Infarction
-Prognosis references
-1. De Luca G, van 't Hof AW, de Boer MJ, et al. Impaired myocardial perfusion is a major
-explanation of the poor outcome observed in patients undergoing primary angioplasty for ST-
-segment-elevation myocardial infarction and signs of heart failure. Circulation 2004;109(8):958-
-961. doi:10.1161/01.CIR.0000120504.31457.28
-2. Roe MT, Messenger JC, Weintraub WS, et al. Treatments, trends, and outcomes of acute
-myocardial infarction and percutaneous coronary intervention. J Am Coll Cardiol. 2010;56(4):254-
-263. doi:10.1016/j.jacc.2010.05.008
- 21/22
 
- Acute Myocardial Infarction (MI) - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Key Points
 Acute myocardial infarction (MI) is myocardial necrosis of heart muscle tissue due to
 acute obstruction of a coronary artery.
@@ -684,6 +603,3 @@ Initiate or continue antiplatelets, beta-blockers, ACE-inhibitors (or angiotensi
 receptor blockers), and statins following initial treatment.
 After hospital discharge, arrange functional evaluation, manage risk factors (eg,
 hypertension, diabetes, smoking), and promote healthy diet and exercise.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 22/22

@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Percutaneous Coronary Interventions (PCI) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:36.889496",
-  "file_size_bytes": 484182,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Percutaneous Coronary Interventions (PCI) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Percutaneous Coronary Interventions (PCI) - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Percutaneous Coronary Interventions (PCI)
-By Ranya N. Sweis, MD, MS, Northwestern University Feinberg School of Medicine;
-Arif Jivan, MD, PhD, Northwestern University Feinberg School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2024
 Percutaneous coronary interventions (PCI) include percutaneous transluminal coronary angioplasty
 (PTCA) with or without stent insertion. Primary indications are treatment of
 Angina pectoris (stable or unstable)
@@ -30,13 +10,7 @@ segment elevation myocardial infarction (STEMI). Elective PCI may be appropriate
 infarction (MI) patients who have recurrent or inducible angina before hospital discharge and for
 patients who have angina and remain symptomatic despite medical treatment.
 Percutaneous Coronary Intervention
-IMAGE
-GJLP/CNRI/SCIENCE PHOTO LIBRARY
 Percutaneous transluminal angioplasty (PTA) is also used to treat peripheral arterial disease.
- 1/5
-
- Percutaneous Coronary Interventions (PCI) - Cardiovascular Disorders - Merck Manual Professional Edition
-Procedure for PCI
 PTCA is done via percutaneous femoral, radial, or brachial artery puncture. The radial approach reduces
 patient discomfort, improves time to ambulation, and reduces the incidence of some complications (eg,
 bleeding, pseudoaneurysm formation).
@@ -59,17 +33,11 @@ first-generation: sirolimus, paclitaxel; second-generation: everolimus, ridaforo
 bonded to the metal that limit neointimal proliferation to reduce the risk of restenosis. Biodegradable
 stents are being developed and initial short-term outcomes have shown promise, but their use is
 currently limited to clinical trials (1).
-Stent reference
-1. Iglesias JF, Muller O, Heg D, et al. Biodegradable polymer sirolimus-eluting stents versus durable
-polymer everolimus-eluting stents in patients with ST-segment elevation myocardial infarction
-(BIOSTEMI): a single-blind, prospective, randomised superiority trial. Lancet 2019;394(10205):1243-
-1253. doi:10.1016/S0140-6736(19)31877-X
 Anticoagulation and ancillary therapy
 Various anticoagulation and antiplatelet regimens are used during and after PCI to reduce the incidence
 of thrombosis at the site of balloon dilation and stent placement.
  2/5
-
- Percutaneous Coronary Interventions (PCI) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Anticoagulation is usually initiated with unfractionated heparin. Enoxaparin and bivalirudin are
 alternatives. Bivalirudin or argatroban should be used in place of unfractionated heparin in patients
 with heparin-induced thrombocytopenia. Dual antiplatelet treatment with P2Y12 inhibitors (clopidogrel,
@@ -105,8 +73,7 @@ collateral flow from either a native vessel or previous bypass graft, PCI is oft
 used in this scenario in selected patients.
 Complications of PCI
  3/5
-
- Percutaneous Coronary Interventions (PCI) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 The main complications of balloon angioplasty and stent placement are
 Arterial dissection
 Bleeding caused by adjunctive anticoagulation
@@ -140,8 +107,7 @@ deploying a small filter distal to the site of PCI to capture emboli) may improv
 a previous saphenous vein graft but is not commonly done.
 With balloon angioplasty alone, risk of acute thrombosis is about 5 to 10%.
  4/5
-
- Percutaneous Coronary Interventions (PCI) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Use of stents has almost eliminated the need for emergency coronary artery bypass grafting following
 PCI; the rate of acute and subacute thrombosis is < 1%. However, using a drug-eluting stent increases
 risk of late stent thrombosis, about 0.6%/year up to 3 years.
@@ -159,10 +125,3 @@ arteries. Insertion of another stent often reopens the dissected segment.
 Stroke
 Risk of stroke with PCI is lower than with CABG. A meta-analysis of 19 randomized trials reported a
 higher risk of stroke in patients undergoing CABG (1.2%) than PCI (0.34%,) at 30 days (1).
-Complications reference
-1. Palmerini T, Biondi-Zoccai G, Reggiani LB, et al: Risk of stroke with coronary artery bypass graft
-surgery compared with percutaneous coronary intervention. J Am Coll Cardiol 60(9):798–805, 2012.
-doi:10.1016/j.jacc.2011.10.912
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 5/5

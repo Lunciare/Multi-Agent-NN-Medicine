@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Raynaud Phenomenon - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:02.636542",
-  "file_size_bytes": 271343,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Raynaud Phenomenon - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Raynaud Phenomenon - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Raynaud Phenomenon
-(Raynaud Syndrome)
-By William Schuyler Jones, MD, Duke University Health System
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jul 2025
 Raynaud phenomenon, is vasospasm of parts of the hand in response to cold or
 emotional stress, causing reversible discomfort and color changes (pallor,
 cyanosis, erythema, or a combination) in one or more digits. Occasionally, other
@@ -43,9 +23,6 @@ Cause Examples
 Systemic rheumatic diseases Mixed or undifferentiated connective
 tissue disease
 Idiopathic inflammatory myopathies (eg,
- 1/7
-
- Raynaud Phenomenon - Cardiovascular Disorders - Merck Manual Professional Edition
 Cause Examples
 polymyositis, dermatomyositis)
 Rheumatoid arthritis
@@ -72,21 +49,6 @@ Sympathomimetic medications
 Nicotine commonly contributes to secondary Raynaud phenomenon but is often overlooked. Raynaud
 phenomenon may accompany migraine headaches, variant angina, and pulmonary hypertension,
 suggesting that these disorders share a common vasospastic mechanism.
-General references
-1. Garner R, Kumari R, Lanyon P, Doherty M, Zhang W. Prevalence, risk factors and associations of
-primary Raynaud's phenomenon: systematic review and meta-analysis of observational
-studies. BMJ Open 2015;5(3):e006389. doi:10.1136/bmjopen-2014-006389
-2. Wigley FM, Flavahan NA. Raynaud's Phenomenon. N Engl J Med 2016;375(6):556-565.
-doi:10.1056/NEJMra1507638
-3. Klein-Weigel P, Sander O, Reinhold S, Nielitz J, Steindl J, Richter J. Raynaud's Phenomenon: A
-Vascular Acrosyndrome That Requires Long-Term Care. Dtsch Arztebl Int Published online April 9,
-2021. doi:10.3238/arztebl.m2021.0023
- 2/7
-
- Raynaud Phenomenon - Cardiovascular Disorders - Merck Manual Professional Edition
-4. Shenavandeh S, Ajri M, Hamidi S. Causes of Raynaud's phenomenon and the predictive
-laboratory and capillaroscopy features for the evolution to a definite connective tissue
-disease. Rheumatology (Oxford) 2022;61(5):1975-1985. doi:10.1093/rheumatology/keab668
 Symptoms and Signs of Raynaud Phenomenon
 Sensations of coldness, burning pain, paresthesias, or intermittent color changes of one or more digits
 are precipitated by exposure to cold, emotional stress, or vibration. All can be reversed by removing the
@@ -103,17 +65,11 @@ infected ulcers on the fingertips.
 Manifestations of Raynaud Phenomenon
 Raynaud Phenomenon With Cyanosis
 Multiple fingertips are cyanotic.
-© Springer Science+Business Media
- 3/7
-
- Raynaud Phenomenon - Cardiovascular Disorders - Merck Manual Professional Edition
 Raynaud Phenomenon With Pallor
 Pallor develops irregularly in the fingers.
-© Springer Science+Business Media
 Raynaud Phenomenon With Digital Gangrene
 Ulceration and gangrene affect the second finger in this patient who had Raynaud phenomenon secondary
 to systemic sclerosis.
-© Springer Science+Business Media
 Diagnosis of Raynaud Phenomenon
 History and physical examination
 Evaluation and testing for underlying disorder
@@ -125,8 +81,7 @@ the digits in response to cold but differs from Raynaud phenomenon in that it is
 reversed, and does not cause trophic changes (thin, shiny, or discolored skin; hair loss; brittle nails),
 ulcers, or pain.
  4/7
-
- Raynaud Phenomenon - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Primary and secondary forms are distinguished clinically, supported by vascular laboratory studies and
 blood testing.
 Clinical findings
@@ -149,19 +104,12 @@ The main blood tests are to diagnose autoimmune or inflammatory diseases (eg, me
 erythrocyte sedimentation rate [ESR] or C-reactive protein, antinuclear and anti-DNA antibodies,
 rheumatoid factor, anticentromere antibody, anti-cyclic citrullinated peptide [CCP] antibodies, anti-
 scleroderma [SCL] 70 antibody) .
-Diagnosis reference
-1. Klein-Weigel P, Sander O, Reinhold S, Nielitz J, Steindl J, Richter J. Raynaud's Phenomenon: A
-Vascular Acrosyndrome That Requires Long-Term Care. Dtsch Arztebl Int Published online April 9,
-2021. doi:10.3238/arztebl.m2021.0023
 Treatment of Raynaud Phenomenon
 Trigger avoidance
 Smoking cessation
 Calcium channel blockers or other medications
 Treatment of primary Raynaud phenomenon involves avoidance of cold, smoking cessation, and, if
 stress is a triggering factor, relaxation techniques (eg, biofeedback) or counseling (1, 2). Medications are
- 5/7
-
- Raynaud Phenomenon - Cardiovascular Disorders - Merck Manual Professional Edition
 used more often than behavioral treatments because of convenience. Vasodilating long-acting
 dihydropyridine calcium channel blockers (eg, extended-release nifedipine, amlodipine, felodipine, or
 isradipine ) are most effective and typically used as first-line agents. For patients who do not tolerate
@@ -179,12 +127,6 @@ setting but may be provided in an experienced outpatient center with appropriate
 Cervical or local sympathectomy is controversial; it is reserved for patients with progressive disability
 unresponsive to all other measures, including treatment of underlying disorders. Sympathectomy often
 abolishes the symptoms, but relief may be temporary.
-Treatment references
-1. Curtiss P, Svigos K, Schwager Z, Lo Sicco K, Franks AG Jr. Part II: The treatment of primary and
-secondary Raynaud's phenomenon. J Am Acad Dermatol 2024;90(2):237-248.
-doi:10.1016/j.jaad.2022.05.067
-2. Wigley FM, Flavahan NA. Raynaud's Phenomenon. N Engl J Med 2016;375(6):556-565.
-doi:10.1056/NEJMra1507638
 Key Points
 Raynaud phenomenon is reversible vasospasm of parts of the hand in response to cold
 or emotional stress.
@@ -195,9 +137,3 @@ tissue loss.
 Diagnose clinically but consider testing to diagnose a suspected cause.
 Avoid cold, smoking, and any other triggers.
 Give a vasodilating calcium channel blocker or other medications.
-Drugs Mentioned In This Article
- 6/7
-
- Raynaud Phenomenon - Cardiovascular Disorders - Merck Manual Professional Edition
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 7/7

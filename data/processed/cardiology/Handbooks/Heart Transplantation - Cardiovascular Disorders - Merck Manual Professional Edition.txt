@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Heart Transplantation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:23.540731",
-  "file_size_bytes": 204164,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Heart Transplantation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Heart Transplantation - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Heart Transplantation
-By Nowell M. Fine, MD, SM, Libin Cardiovascular Institute, Cumming School of Medicine, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Oct 2025
 Heart transplantation is an option for patients who have any of the following and who remain at risk of
 death and have intolerable symptoms despite optimal use of medications and medical devices:
 End-stage heart failure
@@ -45,9 +26,6 @@ substance use disorder, nonadherence to therapy, limited life-expectancy for rea
 transplant) should also be considered.
 All donated hearts come from brain-dead donors, who are usually required to be < 70 years and have
 normal cardiac and pulmonary function and no history of coronary artery disease or other heart
- 1/5
-
- Heart Transplantation - Cardiovascular Disorders - Merck Manual Professional Edition
 disorders. Donor and recipient must have compatible ABO blood type and heart size. Pretransplant
 waitlist mortality was 8.5 deaths per 100 person-years in the United States in 2023 (2).
 (See also Overview of Transplantation.)
@@ -58,12 +36,6 @@ treat some patients who are not candidates for transplantation (destination ther
 may originate at the skin insertion site of the drive lines, is a concern. Other risks include right heart
 failure (acute or chronic), sepsis, device failure, and thromboembolism. Despite the risks, there are
 patients who have survived and have been well for several years after these devices were implanted.
-General references
-1. Peled Y, Ducharme A, Kittleson M, et al. International Society for Heart and Lung Transplantation
-Guidelines for the Evaluation and Care of Cardiac Transplant Candidates-2024. J Heart Lung
-Transplant. 2024;43(10):1529-1628.e54. doi:10.1016/j.healun.2024.05.010
-2. Colvin MM, Smith JM, Ahn YS, et al. OPTN/SRTR 2023 Annual Data Report: Heart. Am J Transplant.
-2025;25(2S1):S329-S421. doi:10.1016/j.ajt.2025.01.024
 Procedure for Heart Transplantation
 Donor hearts are preserved by hypothermic storage. They must be transplanted within 4 to 6 hours. Ex
 situ heart perfusion, an in vitro pump system that perfuses the explanted donor heart with the goal of
@@ -77,14 +49,6 @@ posterior atrial wall to that of the donor organ.
 Immunosuppressive regimens vary but usually include anti-IL-2 receptor monoclonal antibodies, a
 calcineurin inhibitor, and glucocorticoids (see table Immunosuppressants Used to Treat Transplant
 Rejection).
-Procedure reference
-1. Wang L, MacGowan GA, Ali S, Dark JH. Ex situ heart perfusion: The past, the present, and the
-future. J Heart Lung Transplant. 2021;40(1):69-86. doi:10.1016/j.healun.2020.10.004
- 2/5
-
- Heart Transplantation - Cardiovascular Disorders - Merck Manual Professional Edition
-Complications of Heart Transplantation
-(See also Posttransplantation Complications.)
 Rejection
 Incidence of acute rejection peaks at 1 month, decreases over the next 5 months, and levels off by 1
 year. Approximately 15% of adult heart transplant recipients have an episode of rejection within the first
@@ -117,22 +81,13 @@ transplant patients develop some degree of cardiac allograft vasculopathy within
 transplantation (2). Its cause is probably multifactorial and relates to donor age, cold and reperfusion
  3/5
 
- Heart Transplantation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 ischemia, dyslipidemia, immunosuppressants, chronic rejection, and viral infection (adenovirus in
 children, cytomegalovirus in adults).
 For early detection, surveillance stress testing or coronary angiography with or without intravascular
 ultrasound is often done at the time of endomyocardial biopsy.
 Treatment is aggressive lipid lowering with statins and control of hypertension with calcium channel
 blockers or other agents (2).
-Complications references
-1. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management
-of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint
-Committee on Clinical Practice Guidelines [published correction appears in J Am Coll Cardiol. 2023
-Apr 18;81(15):1551. doi: 10.1016/j.jacc.2023.03.002]. J Am Coll Cardiol. 2022;79(17):e263-e421.
-doi:10.1016/j.jacc.2021.12.012
-2. Mallah SI, Atallah B, Moustafa F, et al. Evidence-based pharmacotherapy for prevention and
-management of cardiac allograft vasculopathy. Prog Cardiovasc Dis. 2020;63(3):194-209.
-doi:10.1016/j.pcad.2020.03.007
 Prognosis for Heart Transplantation
 Survival rates at 1 year after heart transplantation are estimated at approximately 90%; they are
 approximately 80% at 5 years (1).
@@ -142,23 +97,7 @@ Functional status of heart transplant recipients alive at > 1 year is excellent;
 below normal but is sufficient for daily activities and may increase over time with sympathetic
 reinnervation. More than 90% of patients reach New York Heart Association class I cardiac status, and
 the majority return to employment by 1 year after transplant (2, 3).
-Prognosis references
-1. Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the Management
-of Heart Failure: A Report of the American College of Cardiology/American Heart Association Joint
-Committee on Clinical Practice Guidelines [published correction appears in J Am Coll Cardiol. 2023
-Apr 18;81(15):1551. doi: 10.1016/j.jacc.2023.03.002]. J Am Coll Cardiol. 2022;79(17):e263-e421.
-doi:10.1016/j.jacc.2021.12.012
-2. Cramer CL, Marsh K, Krebs ED, et al. Long term employment following heart transplantation in
-the United States. J Heart Lung Transplant. 2023;42(7):880-887. doi:10.1016/j.healun.2022.12.025
-3. Grady KL, Jalowiec A, White-Williams C. Patient compliance at one year and two years after heart
-transplantation. J Heart Lung Transplant. 1998;17(4):383-394.
- 4/5
-
- Heart Transplantation - Cardiovascular Disorders - Merck Manual Professional Edition
 Key Points
 Heart transplant is indicated for refractory heart failure.
 Heart transplant requires lifelong immunosuppression and care, but has a reasonable
 prognosis.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 5/5

@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Lamin A_C Cardiomyopathies (Cardiolaminopathies) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:14.805729",
-  "file_size_bytes": 179870,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Lamin A_C Cardiomyopathies (Cardiolaminopathies) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Lamin A/C Cardiomyopathies (Cardiolaminopathies) - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
-Lamin A/C Cardiomyopathies
-(Cardiolaminopathies)
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2024 | Modified Aug 2024
+Lamin A/C Cardiomyopathies (Cardiolaminopathies) - Cardiovascular Disorders
 Lamin A/C cardiomyopathies are genetic disorders that cause dilated
 cardiomyopathy, a variety of arrhythmias, conduction disorders, and an
 increased risk of sudden death. Diagnosis includes ECG, cardiac imaging, and
@@ -35,15 +15,9 @@ family members are often affected.
 Some LMNA mutations are associated with other disorders, including certain muscular dystrophies (eg,
 Emery-Dreifuss dystrophy), peripheral neuropathies, premature ageing, and metabolic abnormalities
 (eg, insulin resistance, hypertriglyceridemia, lipodystrophy).
-General reference
-1. Rosario KF, Karra R, Amos K, et al: LMNA Cardiomyopathy: Important Considerations for the
-Heart Failure Clinician. J Card Fail 29(12):1657–1666, 2023. doi:10.1016/j.cardfail.2023.08.016
 Symptoms and Signs of Lamin A/C Cardiomyopathy
 Patients usually present first with symptoms of heart blocks and/or arrhythmias, including palpitations,
 syncope, or cardiac arrest.
- 1/4
-
- Lamin A/C Cardiomyopathies (Cardiolaminopathies) - Cardiovascular Disorders - Merck Manual Professional Edition
 Age at presentation is typically < 40 years. Heart failure manifestations (eg, exertional dyspnea, fatigue,
 peripheral edema) typically develop later, but timing is variable.
 A significant number of patients also have skeletal muscle symptoms (eg, weakness), which may
@@ -68,18 +42,11 @@ they should have clinical evaluation (ie, to detect symptoms suggestive of arrhy
 and/or heart failure), ECG, ambulatory cardiac rhythm monitoring, and echocardiography initially and
 then every 1 to 3 years. Genetic testing is done if the index case has a mutation identified. Family
 members who are not carriers of that mutation do not require ongoing testing.
-Diagnosis reference
-1. van Tintelen JP, Hofstra RM, Katerberg H, et al: High yield of LMNA mutations in patients with
-dilated cardiomyopathy and/or conduction disease referred to cardiogenetics outpatient
-clinics. Am Heart J 154(6):1130–1139, 2007. doi:10.1016/j.ahj.2007.07.038
 Treatment of Lamin A/C Cardiomyopathy
 Moderation of physical activity
 Usually an implantable cardioverter-defibrillator (ICD)
 Sometimes antiarrhythmic medication therapy
 Heart failure therapy (including transplantation) as required
- 2/4
-
- Lamin A/C Cardiomyopathies (Cardiolaminopathies) - Cardiovascular Disorders - Merck Manual Professional Edition
 Treatment focuses on prevention of sudden death and prevention of symptomatic ventricular
 tachyarrhythmias.
 Patients should avoid athletic exertion because such activities may hasten the progression of the
@@ -106,17 +73,6 @@ reduce symptomatic ventricular tachyarrhythmias but is not a substitute for an I
 medications may benefit patients who have frequent appropriate ICD discharges despite adequate
 beta-blocker therapy.
 Standard measures for treatment of dilated cardiomyopathy are used as required.
-Treatment references
-1. Wahbi K, Ben Yaou R, Gandjbakhch E, et al: Development and Validation of a New Risk
-Prediction Score for Life-Threatening Ventricular Tachyarrhythmias in Laminopathies. Circulation
-140(4):293–302, 2019. doi:10.1161/CIRCULATIONAHA.118.039410
-2. Towbin, JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation,
-risk stratification, and management of arrhythmogenic cardiomyopathy. Heart Rhythm 16:e301–
-e372, 2019. doi: 10.1016/j.hrthm.2019.05.007
-Key Points
- 3/4
-
- Lamin A/C Cardiomyopathies (Cardiolaminopathies) - Cardiovascular Disorders - Merck Manual Professional Edition
 Lamin A/C cardiomyopathies are genetic disorders that cause tachyarrhythmias, heart
 blocks, and heart failure.
 Some of the mutations also affect skeletal muscle.
@@ -125,6 +81,3 @@ testing.
 First-degree family members have a significant risk of disease and require screening.
 Treatment requires usually requires an implantable cardioverter-defibrillator and a beta-
 blocker.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 4/4

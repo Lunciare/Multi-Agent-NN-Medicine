@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Lymphadenopathy - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:24.720493",
-  "file_size_bytes": 604525,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Lymphadenopathy - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Lymphadenopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Lymphadenopathy
-By James D. Douketis, MD, McMaster University
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Apr 2024
 Lymphadenopathy is palpable enlargement of ≥ 1 lymph nodes. Diagnosis is
 clinical. Treatment is of the causative disorder.
 (See also Overview of the Lymphatic System.)
@@ -40,9 +21,6 @@ the nodes to enlarge (reactive lymphadenopathy). Pathogenic microorganisms carri
 lymphatic fluid can directly infect the nodes, causing lymphadenitis, and cancer cells may lodge in and
 proliferate in the nodes.
 Etiology of Lymphadenopathy
- 1/9
-
- Lymphadenopathy - Cardiovascular Disorders - Merck Manual Professional Edition
 Because lymph nodes participate in the body's immune response, a large number of infectious and
 inflammatory disorders and cancers are potential causes (see table Some Causes of Lymphadenopathy).
 Only the more common causes are discussed here. Causes most likely vary depending on patient age,
@@ -92,8 +70,7 @@ not found
 adjacent tissue
 Systemic and systemic rheumatic disorders
  2/9
-
- Lymphadenopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Suggestive Findings Diagnostic Approach
 Tender cervical
 adenopathy in children
@@ -142,8 +119,7 @@ activity
 Mononucleosis Symmetric adenopathy, Heterophile antibody test
 typically cervical but
  3/9
-
- Lymphadenopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Suggestive Findings Diagnostic Approach
 sometimes in axillae
 Sometimes Epstein-Barr
@@ -194,8 +170,7 @@ lymph node infection node (often cervical)
 without apparent primary
 site of entry
  4/9
-
- Lymphadenopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Suggestive Findings Diagnostic Approach
 Bilateral, nontender
 cervical or axillary
@@ -256,15 +231,10 @@ quinidine
 Silicone breast implants Localized adenopathy in Exclusion of other causes
 patients with breast of adenopathy
  5/9
-
- Lymphadenopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Suggestive Findings Diagnostic Approach
 implants
 CT = computed tomography; HIV = human immunodeficiency virus.
-Etiology reference
-1. Fijten GH, Blijham GH. Unexplained lymphadenopathy in family practice. An evaluation of the
-probability of malignant causes and the effectiveness of physicians' workup. J Fam Pract
-1988;27(4):373-376. doi:10.1080/09503158808416945
 Evaluation of Lymphadenopathy
 Adenopathy may be the patient's reason for presenting or be discovered during evaluation for another
 complaint.
@@ -292,15 +262,12 @@ American Southwest for plague) and possible exposures (eg, cat feces for toxopla
 for brucellosis, wild animals for tularemia). Medication history is reviewed for specific known causative
 agents.
  6/9
-
- Lymphadenopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Physical examination
 Vital signs are reviewed for fever. Areas of particular lymph node concentration in the neck (including
 occipital and supraclavicular areas), axillae, and inguinal region are palpated. Node size, tenderness, and
 consistency are noted as well as whether the nodes are freely mobile or fixed to adjacent tissue.
 Non-Hodgkin Lymphoma (Cervical Lymphadenopathy)
-IMAGE
-DR P. MARAZZI/SCIENCE PHOTO LIBRARY
 Skin is inspected for rash and lesions, with particular attention to areas drained by the affected nodes.
 The oropharynx is inspected and palpated for signs of infection and any lesions that may be cancerous.
 The thyroid gland is palpated for enlargement and nodularity. Breasts (including in males) are palpated
@@ -319,8 +286,7 @@ Patients with generalized adenopathy usually have a systemic disorder. However, 
 adenopathy may have a local or systemic disorder (including one that often causes generalized
 adenopathy).
  7/9
-
- Lymphadenopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Sometimes, history and physical examination suggest a cause (see table Some Causes of
 Lymphadenopathy) and may be diagnostic in patients with a clear viral upper respiratory infection or
 with local soft-tissue or dental infection. In other cases, findings (such as the red flag findings) are of
@@ -353,14 +319,6 @@ patients typically require computed tomography (CT) or magnetic resonance imagin
 as clinically indicated and, depending on the findings, should have biopsy of the node and any abnormal
 tissue. Biopsy is also considered if isolated or generalized adenopathy does not resolve in 3 to 4 weeks
 (2).
-Evaluation references
-1. Slap GB, Brooks JS, Schwartz JS. When to perform biopsies of enlarged peripheral lymph nodes
-in young patients. JAMA 1984;252(10):1321-1326.
-2. Bazemore AW, Smucker DR. Lymphadenopathy and malignancy. Am Fam Physician
-2002;66(11):2103-2110.
- 8/9
-
- Lymphadenopathy - Cardiovascular Disorders - Merck Manual Professional Edition
 Treatment of Lymphadenopathy
 Primary treatment is directed at the cause; adenopathy itself is not treated.
 A trial of corticosteroids is not done for adenopathy of unknown etiology because corticosteroids can
@@ -375,5 +333,3 @@ cause.
 Patients with newly identified localized or generalized lymphadenopathy and no other
 diagnostic findings can be observed for 3 to 4 weeks, after which time biopsy should be
 considered.
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 9/9

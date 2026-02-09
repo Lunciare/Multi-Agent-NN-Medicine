@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Limb Pain - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:16.925061",
-  "file_size_bytes": 1059864,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Limb Pain - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Limb Pain - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
-Limb Pain
-By Andrea D. Thompson, MD, PhD, University of Michigan;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Aug 2024
+Limb pain
 Limb pain may affect all or part of an extremity (for joint pain, see Pain in and Around a Single Joint and
 Pain in Multiple Joints). Pain may be constant or intermittent, and unrelated to motion or precipitated by
 it. Accompanying symptoms and signs often suggest a source.
@@ -42,9 +22,6 @@ Cause Suggestive Findings Diagnostic Approach
 Musculoskeletal and soft tissue
 Cellulitis Focal erythema (or darker Clinical evaluation
 color on dark skin),
- 1/9
-
- Limb Pain - Cardiovascular Disorders - Merck Manual Professional Edition
 Cause Suggestive Findings Diagnostic Approach
 warmth, tenderness,
 Sometimes blood and
@@ -94,8 +71,7 @@ sometimes venous
 testing
 distension
  2/9
-
- Limb Pain - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Suggestive Findings Diagnostic Approach
 Often risk factors (eg,
 hypercoagulable state,
@@ -142,8 +118,7 @@ pressure index, chronic
 ischemic skin changes
 Neurologic
  3/9
-
- Limb Pain - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Suggestive Findings Diagnostic Approach
 Usually electrodiagnostic
 Usually weakness, often
@@ -201,8 +176,7 @@ Typically a prior injury
 (may be remote)
 Other
  4/9
-
- Limb Pain - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Suggestive Findings Diagnostic Approach
 Absence of explanatory
 physical findings at the
@@ -240,8 +214,7 @@ syndrome). Family and social history should address family history of early vasc
 cigarette smoking (limb or myocardial ischemia) and illicit use of parenteral drugs (infections).
 Physical examination
  5/9
-
- Limb Pain - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Vital signs are reviewed for fever (suggesting infection) and tachycardia and/or tachypnea (compatible
 with DVT with pulmonary embolism, myocardial infarction, and infection with sepsis).
 The painful limb is inspected for color, edema, and any skin or hair changes, and palpated for pulses,
@@ -259,16 +232,13 @@ Risk factors for deep venous thrombosis
 Neurologic deficits
 Interpretation of findings
 Streptococcal Cellulitis
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
 It can be helpful to categorize pain by acuity of symptom onset and then further narrow the differential
 diagnosis based on presence or absence of findings of
 Ischemia
 Inflammation
 Neurologic abnormalities
  6/9
-
- Limb Pain - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Sudden, severe pain suggests acute ischemia or acute radiculopathy (eg, due to sudden disc
 herniation). Acute ischemia causes generalized limb pain and manifests with weak or absent pulse,
 delayed capillary refill (≥ 2 seconds or, with unilateral symptoms, longer than the opposite side),
@@ -294,12 +264,6 @@ no neurovascular abnormalities and classically manifests with a palpably tense b
 area of pain, and pain may be reproduced by pressure on a trigger point near but not overlying the area
 of pain. In patients with essentially no clinical findings, cancer and osteomyelitis should be considered,
 particularly in those with risk factors.
- 7/9
-
- Limb Pain - Cardiovascular Disorders - Merck Manual Professional Edition
-Cholesterol Embolization
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
 Intermittent pain occurring consistently with a given degree of exertion (eg, whenever walking > 3
 blocks) and relieved with a few minutes of rest suggests peripheral arterial disease. Such patients
 typically have an ankle-brachial blood pressure (BP) index of ≤ 0.9; an index ≤ 0.4 indicates severe
@@ -318,10 +282,3 @@ Treatment of Limb Pain
 Primary treatment is directed at the cause. Analgesics can help relieve pain.
 Key Points
 Acute limb ischemia should be considered in patients with sudden, severe pain.
- 8/9
-
- Limb Pain - Cardiovascular Disorders - Merck Manual Professional Edition
-Presence or absence of findings of ischemia, inflammation, and neurologic
-abnormalities plus the acuity of onset help narrow the differential diagnosis.
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 9/9

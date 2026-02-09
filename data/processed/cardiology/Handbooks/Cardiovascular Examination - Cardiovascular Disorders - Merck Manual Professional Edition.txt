@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:51.647344",
-  "file_size_bytes": 1364766,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Cardiovascular Examination
-By Jessica I. Gupta, MD, University of Michigan Health;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Apr 2025
 Complete examination of all systems is essential to detect peripheral and systemic effects of cardiac
 disorders and evidence of noncardiac disorders that might affect the heart (1). Examination includes the
 following:
@@ -34,10 +14,6 @@ Cardiac auscultation is discussed in a separate topic. Despite the ever-increasi
 bedside auscultation remains useful as it is always available and can be repeated as often as desired
 without cost.
 Examination also includes the collection of other patient data.
-General reference
-1. Fang JC, O'Gara PT: History and Physical Examination: An Evidence-Based Approach. In Libby P,
-Bonoow RO, Mann DL, et al (eds): Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine,
-12th ed. Philadelphia, Elsevier, 2022, pp 123-140.
 Vital Signs
 Vital signs include
 Blood pressure
@@ -45,7 +21,7 @@ Heart rate and rhythm
 Respiratory rate
  1/14
 
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Temperature
 Peripheral oxygen saturation (SpO2)
 Weight and height provide additional important data.
@@ -73,7 +49,7 @@ auscultation; some heartbeats during arrhythmias may be audible but do not gener
 Heart rate normally varies with respiration (respiratory sinus arrhythmia), increasing in inspiration due
  2/14
 
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 to changes in venous return and vagal nerve tone; this effect is more pronounced in the children,
 adolescents, and healthy young adults.
 Respiratory rate, if abnormal, may indicate cardiac decompensation or a primary lung disorder. The
@@ -113,7 +89,7 @@ suggest that further vascular studies are needed (toe-brachial index or arterial
 Orthostatic changes
  3/14
 
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Blood pressure and heart rate are measured with the patient supine, seated, and standing; a 1-minute
 interval is needed between each change in position. Orthostatic hypotension is typically defined as a
 decrease in systolic blood pressure of > 20 mm Hg or diastolic blood pressure > 10 mm Hg within 3
@@ -147,35 +123,9 @@ Pulsus paradoxus is quantified by inflating a BP cuff to just above systolic BP 
 (eg, ≤ 2 mm Hg/heartbeat). The pressure is noted when Korotkoff sounds are first heard (at first, only
 during expiration) and when Korotkoff sounds are heard continuously. The difference between the
 pressures is the “amount” of pulsus paradoxus, and a difference of > 10 mm Hg is considered abnormal.
-Vital signs references
-1. Sheppard JP, Albasri A, Franssen M, et al: Defining the relationship between arm and leg blood
-pressure readings: a systematic review and meta-analysis. J Hypertens 37(4):660–670, 2019.
-doi:10.1097/HJH.0000000000001958
- 4/14
-
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
-2. Whelton PK, Carey RM, Aronow WS, et al: 2017
 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention,
 Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the
 American College of Cardiology/American Heart Association Task Force on Clinical Practice
-Guidelines. Circulation 138(17):e484–e594, 2018. doi:10.1161/CIR.0000000000000596
-3. Lena A, Ebner N, Anker MS: Cardiac cachexia. Eur Heart J Suppl 21 (Suppl L): L24–L27, 2019.
-4. Shen WK, Sheldon RS, Benditt DG, et al: 2017 ACC/AHA/HRS Guideline for the Evaluation and
-Management of Patients With Syncope: A Report of the American College of Cardiology/American
-Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society
-[published correction appears in Circulation 2017 Oct 17;136(16):e271-e272. doi:
-10.1161/CIR.0000000000000537]. Circulation 136(5):e60–e122, 2017.
-doi:10.1161/CIR.0000000000000499
-5. Fedorowski A, Ricci F, Hamrefors V, et al: Orthostatic Hypotension: Management of a Complex,
-But Common, Medical Problem [published correction appears in Circ Arrhythm Electrophysiol 2023
-Aug;16(8):478. doi: 10.1161/HAE.0000000000000088]. Circ Arrhythm Electrophysiol 15(3):e010573,
-2023. doi:10.1161/CIRCEP.121.010573
-6. Wieling W, Kaufmann H, Claydon VE, et al: Diagnosis and treatment of orthostatic
-hypotension. Lancet Neurol 21(8):735–746, 2022. doi:10.1016/S1474-4422(22)00169-7
-7. Mar PL, Raj SR: Postural Orthostatic Tachycardia Syndrome: Mechanisms and New
-Therapies. Annu Rev Med 71:235-248, 2020. doi:10.1146/annurev-med-041818-011630
-8. Spodick DH: The normal and diseased pericardium: current concepts of pericardial physiology,
-diagnosis and treatment. J Am Coll Cardiol 1(1):240–251, 1983. doi:10.1016/s0735-1097(83)80025-4
 Pulses
 Peripheral pulses
 Major peripheral pulses in the arms and legs are palpated for symmetry and volume (intensity).
@@ -194,7 +144,7 @@ Auscultation over the carotid arteries can distinguish bruits from cardiac murmu
 in the heart or great vessels and are usually louder over the upper precordium and diminish toward the
  5/14
 
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 neck. Bruits are higher-pitched, are heard only over the arteries, and seem more superficial. An arterial
 bruit must be distinguished from a venous hum. Unlike an arterial bruit, a venous hum is usually
 continuous, heard best with the patient sitting or standing, and is eliminated by compression of the
@@ -230,7 +180,7 @@ lower in the vein than in the artery during systole and diastole).
 Neck veins
  6/14
 
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 The neck veins are examined to estimate venous wave height and waveform. Height is proportional to
 right atrial pressure, and waveform reflects events in the cardiac cycle; both are best observed in the
 internal jugular vein.
@@ -259,7 +209,7 @@ Jugular vein waves (see figure Normal Jugular Vein Waves) can usually be discern
 better seen on the screen during central venous pressure monitoring (2).
  7/14
 
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Normal Jugular Vein Waves
 The a wave is caused by right atrial contraction (systole) and is followed by the x descent, which
 is caused by atrial relaxation. The c wave, an interruption of the x descent, is caused by the
@@ -286,7 +236,7 @@ Inspection
 Chest wall deformities may occur in a number of disorders.
  8/14
 
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Pectus carinatum (a prominent birdlike sternum) may be associated with Marfan syndrome (which
 may be accompanied by aortic root or mitral valve disease) or Noonan syndrome (which may be
 accompanied by pulmonic stenosis, atrial septal defects, or hypertrophic cardiomyopathy). Rarely, a
@@ -300,7 +250,7 @@ DR P. MARAZZI / SCIENCE PHOTO LIBRARY
 Shield chest is a broad chest with widely spaced nipples, often associated with Turner syndrome.
  9/14
 
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 "Shield" Chest in Turner Syndrome
 IMAGE
 BY PERMISSION OF THE PUBLISHER. FROM SHULMAN D, BERCU B: ATLAS OF CLINICAL
@@ -327,7 +277,7 @@ the cause (see table Location of Thrills and Associated Disorder).
 TABLE
  10/14
 
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Location of Thrills and Associated Disorder
 Location of Thrill Associated Disorder
 Over the base of the heart at the second
@@ -364,7 +314,7 @@ pitched sounds; coarse crackles are longer-lasting low-pitched sounds. Crackles 
 compared to the sound of crinkling plastic wrap and can be simulated by rubbing strands of
  11/14
 
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 hair together between 2 fingers near one’s ear. They occur most commonly with atelectasis,
 alveolar filling processes (eg, pulmonary edema in heart failure), and interstitial lung
 disease (eg, pulmonary fibrosis); they signify opening of collapsed airways or alveoli.
@@ -397,7 +347,7 @@ pressure from the examiner’s fingers, which displaces the interstitial fluid).
 examined for extent, symmetry (ie, comparing both extremities), warmth, erythema, and tenderness.
  12/14
 
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 With significant fluid overload, edema may also be present over the sacrum, genitals, or both. Pitting
 edema is graded on a scale of 1 to 4, but there is no agreed-upon definition for these grades.
 Tenderness, erythema, or both, particularly when unilateral, suggests an inflammatory cause (eg,
@@ -422,17 +372,3 @@ Pericardial effusion and cardiac tamponade
 Adequate training in doing brief ultrasound examinations is essential to ensure high image quality and
 accurate interpretation (2). Importantly, POCUS should be used to augment rather than replace the
 physical examination; neither does it replace complete echocardiography when that is indicated.
-Point-of-care ultrasound references
-1. Kimura BJ: Point-of-care cardiac ultrasound techniques in the physical examination: better at the
-bedside. Heart 103:987–994, 2017. doi: 10.1136/heartjnl-2016-309915
-2. Spencer KT, Kimura BJ, Korcarz CE, et al: Focused Cardiac Ultrasound: Recommendations from
-the American Society of Echocardiography. J Am Soc Echocardiogr 26:567–581, 2013. doi:
-10.1016/j.echo.2013.04.001
-3. Kirkpatrick JN, Panebianco N, Díaz-Gómez JL, et al: Recommendations for Cardiac Point-of-Care
-Ultrasound Nomenclature. J Am Soc Echocardiogr July 11:S0894-7317(24)00222-0, 2024
-doi:10.1016/j.echo.2024.05.001
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 13/14
-
- Cardiovascular Examination - Cardiovascular Disorders - Merck Manual Professional Edition
- 14/14

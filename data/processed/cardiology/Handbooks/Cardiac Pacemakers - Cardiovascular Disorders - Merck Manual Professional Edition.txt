@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:32.186761",
-  "file_size_bytes": 322603,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Cardiac Pacemakers
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2025
 The decision to treat an arrhythmia depends on its symptoms and its potential severity. Treatment is
 directed at causes. If necessary, direct antiarrhythmic therapy, including antiarrhythmic drugs,
 cardioversion-defibrillation, implantable cardioverter-defibrillators (ICDs), pacemakers (and a special
@@ -30,14 +11,14 @@ Pacemakers
 Chest Radiograph of a Patient with Pacemaker
 This radiograph shows a patient with a pacemaker in the left upper chest with leads in the right atrium (1)
 and right ventricle (2).
-© 2017 Elliot K. Fishman, MD.
+ 
 Indications for pacemaker placement
 Indications for pacemaker placement are numerous (see table) but generally involve symptomatic
 bradycardia or high-grade atrioventricular block (AV block). Some tachyarrhythmias may be terminated
 by overdrive pacing with a brief period of pacing at a faster rate; the pacemaker is then slowed to the
  1/13
 
- Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 desired rate. Nevertheless, ventricular tachyarrhythmias are better treated with devices that can
 cardiovert and defibrillate as well as pace (implantable cardioverter-defibrillators).
 TABLE
@@ -106,7 +87,7 @@ year
 QRS duration > AV block at the
  2/13
 
- Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Class IIb
 Class I Class IIa Class III
 (Less Well
@@ -186,7 +167,7 @@ Tachyarrhythm Sustained, High-risk Prevention of Frequent or
 pause- patients with symptomatic, complex
  3/13
 
- Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Class IIb
 Class I Class IIa Class III
 (Less Well
@@ -257,7 +238,7 @@ and LVEF 36–
 50% and LBBB
  4/13
 
- Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Class IIb
 Class I Class IIa Class III
 (Less Well
@@ -326,7 +307,7 @@ sinus biventricular
 third-degree
  5/13
 
- Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Class IIb
 Class I Class IIa Class III
 (Less Well
@@ -378,7 +359,7 @@ residual
 fascicular block
  6/13
 
- Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Class IIb
 Class I Class IIa Class III
 (Less Well
@@ -466,7 +447,7 @@ y‡ indications for symptomatic controlled
 sinus node patients with hypertrophic
  7/13
 
- Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Class IIb
 Class I Class IIa Class III
 (Less Well
@@ -527,7 +508,7 @@ NYHA class II, medical
 class III, or therapy
  8/13
 
- Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Class IIb
 Class I Class IIa Class III
 (Less Well
@@ -571,7 +552,7 @@ anticipated >
 pacing
  9/13
 
- Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 * Class I: Conditions for which there is evidence for and/or general agreement that the
 procedure or treatment is useful and effective
 Class IIa: The weight of evidence or opinion is in favor of the procedure or treatment
@@ -607,7 +588,7 @@ event (inhibits or triggers pacing), whether it can increase heart rate during e
 and whether pacing is multisite (in both atria, both ventricles, or more than one pacing lead in a single
  10/13
 
- Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 chamber). For example, a VVIR pacemaker paces (V) and senses (V) events in the ventricle, inhibits
 pacing in response to sensed event (I), and can increase its rate during exercise (R).
 VVI and DDD pacemakers are the devices most commonly used. They offer equivalent survival benefits.
@@ -651,7 +632,7 @@ in atria,
 triggers
  11/13
 
- Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 * The pacemaker code is defined by 3 to 5 letters (here defined by positions I to V). Any one
 of the letters may be used for each particular position. For example, in position I, the letter
 code may be A, V, or D. In position III, the letter code may be O, I, T, or D and so on.
@@ -682,13 +663,3 @@ abandoned lead, even if MRI conditional, may be hazardous when exposed to an MRI
 telephones and electronic security devices are potential sources of interference; telephones should not
 be placed close to the device but are not a problem when used normally for talking. Walking through
 metal detectors does not cause pacemaker malfunction as long as patients do not linger.
-References
-1. Hayes DL, Furman S. Cardiac pacing: how it started, where we are, where we are going. Heart
-Rhythm 2004;1(5 Suppl):115C-126C. doi:10.1016/j.hrthm.2004.10.023
-2. Sperzel J, Hamm C, Hain A. Leadless pacing. Sondenlose Herzschrittmacher. Herz 2018;43(7):605-
-611. doi:10.1007/s00059-018-4752-9
- 12/13
-
- Cardiac Pacemakers - Cardiovascular Disorders - Merck Manual Professional Edition
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 13/13

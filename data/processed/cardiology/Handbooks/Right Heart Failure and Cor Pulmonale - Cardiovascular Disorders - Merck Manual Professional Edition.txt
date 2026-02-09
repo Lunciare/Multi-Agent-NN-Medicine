@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:55.146312",
-  "file_size_bytes": 491370,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Right Heart Failure and Cor Pulmonale
-By Nowell M. Fine, MD, SM, Libin Cardiovascular Institute, Cumming School of Medicine, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Oct 2025
 Right heart failure is defined by the clinical syndrome of systemic venous
 congestion with or without low cardiac output, secondary to right ventricular
 dysfunction. The most common cause of right heart failure is increased
@@ -44,9 +25,6 @@ which can include:
 Loss of capillary beds (eg, due to bullous changes in chronic obstructive pulmonary disease
 [COPD] or thrombosis in pulmonary embolism)
 Vasoconstriction caused by hypoxia, hypercapnia, or both
- 1/7
-
- Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
 Increased alveolar pressure (eg, in COPD, during mechanical ventilation)
 Medial hypertrophy in arterioles (often a response to pulmonary hypertension due to other
 mechanisms)
@@ -82,8 +60,7 @@ Extensive loss of lung tissue due to
 surgery or trauma
 Chronic, unresolved pulmonary emboli
  2/7
-
- Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Acuity Condition
 Pulmonary veno-occlusive disorders
 Systemic sclerosis
@@ -96,10 +73,6 @@ Idiopathic alveolar hypotension
 * COPD is the most common cause of chronic cor pulmonale.
 ARDS = acute respiratory distress syndrome; COPD = chronic obstructive pulmonary
 disease.
-Etiology reference
-1. Ezekowitz JA, O'Meara E, McDonald MA, et al. 2017 Comprehensive Update of the Canadian
-Cardiovascular Society Guidelines for the Management of Heart Failure. Can J Cardiol.
-2017;33(11):1342-1433. doi:10.1016/j.cjca.2017.08.022
 Symptoms and Signs of Right Heart Failure and Cor Pulmonale
 In RV failure, the most common symptoms are peripheral edema and fatigue. Sometimes patients feel
 a sensation of fullness in the abdomen or neck. Hepatic congestion can cause right upper quadrant
@@ -114,9 +87,6 @@ functional decline, nocturnal urinary incontinence, or sleep disturbance. Coexis
 impairment and depression may also influence assessment and therapeutic interventions and may be
 worsened by the HF.
 Signs of RV failure include:
- 3/7
-
- Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
 Nontender peripheral pitting edema (digital pressure leaves visible and palpable imprints,
 sometimes quite deep) in the feet and ankles
 Enlarged and sometimes pulsatile liver palpable below the right costal margin
@@ -153,8 +123,7 @@ Right heart failure is a clinical diagnosis, composed of supportive symptoms and
 findings. Cardiac imaging, particularly echocardiography and cardiac MRI, is used to confirm right
 ventricular dysfunction, including dilatation and impaired systolic function. Both imaging modalities can
  4/7
-
- Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 identify previously undiagnosed structural, functional, and congenital abnormalities. Right atrial
 enlargement and functional tricuspid valve regurgitation are also supportive findings.
 Echocardiography can assess RV systolic pressure but is often technically limited by the lung disorder;
@@ -171,8 +140,6 @@ correlates well with degree of pulmonary hypertension. However, because pulmonar
 and bullae in COPD cause realignment of the heart, physical examination, radiographs, and ECG may be
 relatively insensitive.
 Cor Pulmonale (Echocardiogram)
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
 Treatment of Right Heart Failure and Cor Pulmonale
 Treatment of cause
 Treatment of right heart failure consists of identifying and treating the underlying cause. When the
@@ -180,8 +147,7 @@ cause is left heart failure, guideline-directed treatment strategies for left he
 arterial hypertension, congenital heart disease, acquired valvular disease, pericardial disease,
 cardiomyopathy, and other causes are treated per standard of care.
  5/7
-
- Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 In patients with acute or critical illness, careful attention to preload, as well as afterload and contractility
 are the main approaches (1). Cautious diuresis, inotropic support with agents such as milrinone, and
 pulmonary vasodilation (in the absence of contraindications) may be helpful.
@@ -205,19 +171,7 @@ before structural changes become irreversible.
 Pulmonary arterial hypertension-specific therapies, including pulmonary vasodilators, are not typically
 indicated for cor pulmonale due to chronic lung disease, although they may play a role in severe cases
 (3).
-Treatment references
-1. Houston BA, Brittain EL, Tedford RJ. Right Ventricular Failure. N Engl J Med. 2023;388(12):1111-
-1125. doi:10.1056/NEJMra2207410
-2. Ezekowitz JA, O'Meara E, McDonald MA, et al. 2017 Comprehensive Update of the Canadian
-Cardiovascular Society Guidelines for the Management of Heart Failure. Can J Cardiol.
-2017;33(11):1342-1433. doi:10.1016/j.cjca.2017.08.022
-3. Blanco I, Hernández-González F, García A, Torres-Castro R, Barberà JA. Management of
-Pulmonary Hypertension Associated with Chronic Lung Disease. Semin Respir Crit Care Med.
-2023;44(6):826-839. doi:10.1055/s-0043-1770121
 Key Points
- 6/7
-
- Right Heart Failure and Cor Pulmonale - Cardiovascular Disorders - Merck Manual Professional Edition
 Diagnosis usually requires echocardiography or radionuclide imaging, and sometimes
 right heart catheterization.
 Early identification and treatment of the cause are important before cardiac structural
@@ -229,6 +183,3 @@ Cor pulmonale itself is usually asymptomatic but common physical findings includ
 left parasternal systolic lift, a loud pulmonic component of S2, functional tricuspid and
 pulmonic regurgitation murmurs, and later, distended jugular veins, hepatomegaly, and
 lower-extremity edema.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 7/7

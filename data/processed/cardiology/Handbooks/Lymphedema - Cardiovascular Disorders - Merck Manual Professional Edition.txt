@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Lymphedema - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:55.981134",
-  "file_size_bytes": 437146,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Lymphedema - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Lymphedema - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Lymphedema
-By James D. Douketis, MD, McMaster University
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Apr 2024
 Lymphedema is edema of a limb due to lymphatic hypoplasia (primary) or to
 obstruction or disruption (secondary) of lymphatic vessels. Symptoms and
 signs, when chronic, are brawny, fibrous, nonpitting edema in one or more
@@ -41,9 +22,6 @@ cholestatic jaundice and edema or diarrhea due to a protein-losing enteropathy c
 lymphangiectasia (2).
 Lymphedema praecox appears between ages 2 and 35 years, typically in females at the onset of
 menses or pregnancy.
- 1/7
-
- Lymphedema - Cardiovascular Disorders - Merck Manual Professional Edition
 Meige disease is an autosomal dominant familial form of lymphedema praecox attributed to mutations
 in a transcription factor gene (FOXC2) that causes extra eyelashes (distichiasis), cleft palate, and edema
 of legs, arms, and sometimes the face (3).
@@ -64,22 +42,9 @@ Lymphatic obstruction by a tumor
 Lymphatic filariasis (present in some tropical and subtropical areas)
 Mild lymphedema may also result from leakage of lymph into interstitial tissues in patients with chronic
 venous insufficiency.
-Etiology references
-1. Schook CC, Mulliken JB, Fishman SJ, Grant FD, Zurakowski D, Greene AK. Primary lymphedema:
-clinical features and management in 138 pediatric patients. Plast Reconstr Surg 2011;127(6):2419-
-2431. doi:10.1097/PRS.0b013e318213a218
-2. Van Zanten M, Mansour S, Ostergaard P, et al. Milroy Disease. 2006 Apr 27 [Updated 2021 Feb
-18]. In: Adam MP, Feldman J, Mirzaa GM, et al., editors. GeneReviews® [Internet]. Seattle (WA):
-University of Washington, Seattle; 1993-2024. Available from:
-
-3. Wheeler ES, Chan V, Wassman R, Rimoin DL, Lesavoy MA. Familial lymphedema praecox: Meige's
-disease. Plast Reconstr Surg 1981;67(3):362-364. doi:10.1097/00006534-198103000-00016
 Symptoms and Signs of Lymphedema
 Symptoms of lymphedema include aching discomfort and a sensation of heaviness or fullness.
 The cardinal sign is soft-tissue edema, graded in 3 stages:
- 2/7
-
- Lymphedema - Cardiovascular Disorders - Merck Manual Professional Edition
 Stage 1: The edema is pitting, and the affected area often returns to normal by morning.
 Stage 2: The edema is nonpitting, and chronic soft-tissue inflammation causes early fibrosis.
 Stage 3: The edema is brawny and irreversible, largely because of soft-tissue fibrosis.
@@ -88,17 +53,8 @@ occurs, and after the limb remains for a long time in a dependent position. It c
 limb (isolated proximal or distal) or the entire extremity; it can restrict range of motion when swelling is
 periarticular. Disability and emotional distress can be significant, especially when lymphedema results
 from medical or surgical treatment.
-Lymphedema
-IMAGE
-SCIENCE PHOTO LIBRARY
 Skin changes are common and include hyperkeratosis, hyperpigmentation, verrucae, papillomas, and
 fungal infections.
- 3/7
-
- Lymphedema - Cardiovascular Disorders - Merck Manual Professional Edition
-Lymphatic Filariasis (Range of Severity of Lymphedema)
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
 Rarely, an affected limb becomes extremely large, and the hyperkeratosis is severe, giving the
 appearance of elephant skin (elephantiasis). This manifestation is more common with filariasis than
 with other causes of lymphedema.
@@ -111,17 +67,6 @@ entry, and lymphadenopathy may develop. Infrequently, the skin breaks down, whic
 infection or cellulitis.
 Rarely, long-standing lymphedema leads to lymphangiosarcoma (Stewart-Treves syndrome), usually in
 patients who have had a mastectomy (1) and in patients with filariasis (2).
-Symptoms and signs references
-1. Taşdemir A, Karaman H, Ünal D, Mutlu H. Stewart-Treves Syndrome after Bilateral Mastectomy
-and Radiotherapy for Breast Carcinoma: Case Report. J Breast Health 2015;11(2):92-94. Published
-2015 Apr 1. doi:10.5152/tjbh.2015.1604
-2. Kamat A, Chinder PS, Hindiskere S, Gopurathingal AA. Angiosarcoma in Chronic Filarial
-Lymphedema - A Report of Two Cases. J Orthop Case Rep 2022;12(8):110-114.
-doi:10.13107/jocr.2022.v12.i08.2988
-Diagnosis of Lymphedema
- 4/7
-
- Lymphedema - Cardiovascular Disorders - Merck Manual Professional Edition
 Clinical diagnosis
 CT or MRI if cause is not apparent
 Primary lymphedema is usually obvious based on characteristic soft-tissue edema throughout the body
@@ -156,18 +101,13 @@ sometimes tried but have not been rigorously studied (1).
 Preventive measures include avoiding application of heat, vigorous exercise, being sedentary for long
 periods, and constrictive garments (including blood pressure cuffs) around the affected limb. Skin and
  5/7
-
- Lymphedema - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 nail care require meticulous attention; vaccination, phlebotomy, and IV catheterization in the affected
 limb should be avoided.
 Pearls & Pitfalls
 Avoid vaccination, phlebotomy, and IV catheterization in limbs affected by lymphedema.
 Cellulitis and lymphangitis are treated with beta-lactamase–resistant antibiotics that are effective
 against gram-positive organisms (eg, dicloxacillin).
-Treatment reference
-1. Executive Committee of the International Society of Lymphology. The diagnosis and treatment
-of peripheral lymphedema: 2020 Consensus Document of the International Society of
-Lymphology. Lymphology. 2020;53(1):3-19.
 Prognosis for Lymphedema
 Cure is unusual once lymphedema occurs. Meticulous treatment and possibly preventive measures can
 lessen symptoms, slow or halt disease progression, and prevent complications.
@@ -178,18 +118,3 @@ Elephantiasis (extreme hyperkeratosis of skin in a limb affected by lymphedema) 
 severe manifestation of lymphedema usually due to lymphatic filariasis.
 Cure of lymphedema is unusual, but treatment can decrease symptoms, slow or halt
 disease progression, and prevent complications.
-More Information
-The following English-language resources may be useful. Please note that THE MANUAL is not
-responsible for the content of these resources.
-National Lymphedema Network. Position papers intended to standardize clinical education and
-practice
-McLaughlin SA, Staley AC, Vicini F, et al. Considerations for Clinicians in the Diagnosis, Prevention,
-and Treatment of Breast Cancer-Related Lymphedema: Recommendations from a
- 6/7
-
- Lymphedema - Cardiovascular Disorders - Merck Manual Professional Edition
-Multidisciplinary Expert ASBrS Panel : Part 1: Definitions, Assessments, Education, and Future
-Directions. Ann Surg Oncol 2017;24(10):2818-2826. doi:10.1245/s10434-017-5982-4
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 7/7

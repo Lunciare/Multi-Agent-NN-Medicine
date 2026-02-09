@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Arrhythmogenic Right Ventricular Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:59.375944",
-  "file_size_bytes": 203313,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Arrhythmogenic Right Ventricular Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Arrhythmogenic Right Ventricular Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Arrhythmogenic Right Ventricular Cardiomyopathy
-(Arrhythmogenic Right Ventricular Dysplasia)
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2024 | Modified Aug 2024
 Arrhythmogenic right ventricular cardiomyopathy (ARVC), also called
 arrhythmogenic right ventricular dysplasia (ARVD), is a genetic cardiac disorder
 affecting mainly the right ventricle and causing ventricular tachyarrhythmias
@@ -27,7 +7,6 @@ and cardiac arrest, and with worsening disease, manifestations of right
 ventricular failure. Diagnosis includes ECG, cardiac imaging, and consensus
 criteria. Treatment requires limitation of physical exertion and usually a beta-
 blocker and an implantable cardioverter-defibrillator (ICD).
-(See also Overview of Arrhythmogenic Cardiomyopathies and Overview of Arrhythmias.)
 A number of genetic mutations adversely affect the structure and function of the intercalated disk, the
 structure that connects cardiac myocytes. Most commonly, the mutations affect the component of the
 disk known as the desmosome (the adhesive intercellular junction that tethers intermediate filaments
@@ -46,12 +25,6 @@ Most commonly, the mutations are inherited with an autosomal dominant pattern wi
 penetrance; however, autosomal recessive mutations are known. The incidence of ARVC has regional
 variation from 1 in 2000 to 1 in 5000 (1). It is thought that sustained, heavy exertion (eg, from endurance
 athletics) hastens onset and progression of disease.
- 1/5
-
- Arrhythmogenic Right Ventricular Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-General reference
-1. Krahn AD, Wilde AAM, Calkins H, et al. Arrhythmogenic Right Ventricular Cardiomyopathy. JACC
-Clin Electrophysiol 2022;8(4):533-553. doi:10.1016/j.jacep.2021.12.002
 Symptoms and signs of ARVC
 Patients may be asymptomatic, but those who are symptomatic usually present first with ventricular
 tachycardia (VT), ventricular fibrillation (VF), or sudden death. ARVC is responsible for approximately
@@ -60,9 +33,6 @@ during emotional or physical stress.
 Patients may have palpitations or syncope,
 Atrial fibrillation and signs of right and/or left ventricular systolic failure are usually manifestations of
 advanced disease.
-Symptoms and signs reference
-1. Krahn AD, Wilde AAM, Calkins H, et al. Arrhythmogenic Right Ventricular Cardiomyopathy. JACC
-Clin Electrophysiol 2022;8(4):533-553. doi:10.1016/j.jacep.2021.12.002
 Diagnosis of ARVC
 ECG
 Sometimes signal-averaged ECG
@@ -82,7 +52,7 @@ benign idiopathic right ventricular outflow tract ventricular tachycardia, which
 frontal plane QRS axis).
  2/5
 
- Arrhythmogenic Right Ventricular Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 The initial evaluation of patients with suspected arrhythmogenic cardiomyopathy includes history,
 family history, ECG, 2-dimensional echocardiography, and cardiac MRI. If no spontaneous ventricular
 arrhythmia has been demonstrated, exercise testing, ambulatory ECG monitoring, and/or
@@ -111,20 +81,6 @@ and every 1 to 3 years thereafter, they should have clinical evaluation (ie, to 
 of arrhythmia), ECG, ambulatory ECG monitoring, and echocardiography. Genetic testing is done if the
 index case has a mutation identified. Family members without the index mutation are then freed of
 follow-up investigations.
-Diagnosis references
-1. Towbin JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation,
-risk stratification, and management of arrhythmogenic cardiomyopathy. Heart Rhythm
-16(11):e301–e372, 2019. doi:10.1016/j.hrthm.2019.05.007
-2. Corrado D, Anastasakis A, Basso C, et al: Proposed diagnostic criteria for arrhythmogenic
-cardiomyopathy: European Task Force consensus report. Int J Cardiol 395:131447, 2024.
-doi:10.1016/j.ijcard.2023.131447
-3. Ackerman MJ, Priori SG, Willems S, et al: HRS/EHRA expert consensus statement on the state of
-genetic testing for the channelopathies and cardiomyopathies this document was developed as a
- 3/5
-
- Arrhythmogenic Right Ventricular Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-partnership between the Heart Rhythm Society (HRS) and the European Heart Rhythm Association
-(EHRA). Heart Rhythm 8(8):1308–1339, 2011. doi:10.1016/j.hrthm.2011.05.020
 Treatment of ARVC
 Moderation of physical activity
 Often an implantable cardioverter-defibrillator (ICD)
@@ -157,13 +113,6 @@ may reduce symptomatic ventricular tachyarrhythmias but is not a substitute for 
 these medications may benefit patients who have frequent, appropriate ICD discharges despite
 adequate beta-blocker therapy. Transcatheter ablation of the arrhythmogenic substrate may also be
 useful in such patients (1).
- 4/5
-
- Arrhythmogenic Right Ventricular Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-Treatment reference
-1. Towbin, JA, McKenna WJ, Abrams DJ, et al: 2019 HRS expert consensus statement on evaluation,
-risk stratification, and management of arrhythmogenic cardiomyopathy. Heart Rhythm 16:e301–
-e372, 2019. doi: 10.1016/j.hrthm.2019.05.007
 Key Points
 Arrhythmogenic right ventricular cardiomyopathy is a genetic disorder in which myocytes
 are replaced by fibrofatty tissue, leading to arrhythmias and later right ventricular failure.
@@ -173,6 +122,3 @@ cardiac imaging, and genetic testing.
 First-degree family members have a significant risk of disease and require initial screening
 and regular testing.
 Treatment requires moderation of physical activity, beta-blockade, and often an ICD.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 5/5

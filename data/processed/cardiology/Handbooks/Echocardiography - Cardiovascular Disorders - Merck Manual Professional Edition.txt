@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Echocardiography - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:50.002986",
-  "file_size_bytes": 285882,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Echocardiography - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Echocardiography - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Echocardiography
-By Thomas Cascino, MD, MSc, Michigan Medicine, University of Michigan;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Dec 2023
 Echocardiography uses ultrasound waves to produce an image of the heart, the heart valves, and the
 great vessels. It helps assess heart wall thickness (eg, in hypertrophy or atrophy) and motion and
 provides information about ischemia and infarction. It can be used to assess systolic function as well as
@@ -28,7 +8,6 @@ pericarditis. It also is used to assess the structure and function of the heart 
 vegetations and intracardiac thrombus; and provide an estimate of pulmonary arterial pressure and
 central venous pressure.
 Echocardiogram (4-Chamber View)
-IMAGE
 CHRIS GALLAGHER/SCIENCE PHOTO LIBRARY
 Techniques
 There are 3 techniques for doing echocardiography:
@@ -36,7 +15,6 @@ Transthoracic
 Transesophageal
  1/4
 
- Echocardiography - Cardiovascular Disorders - Merck Manual Professional Edition
 Intracardiac
 Transthoracic echocardiography (TTE) is the most common echocardiography technique. In TTE, a
 transducer is placed along the left or right sternal border, at the cardiac apex, at the suprasternal notch
@@ -78,8 +56,7 @@ pulmonary capillary bed; however, one agent, sonicated albumin microbubbles, can
 left heart structures after IV injection and can therefore be used to delineate the heart chambers,
 especially the left ventricle.
  2/4
-
- Echocardiography - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Spectral Doppler echocardiography can record velocity, direction, and type of blood flow. This
 technique is useful for detecting abnormal blood flow (eg, due to regurgitant lesions) or velocity (eg, due
 to stenotic lesions). Spectral Doppler echocardiography does not provide spatial information about the
@@ -118,9 +95,3 @@ Evidence of high left ventricular filling pressures during exercise, including e
 transmitral flow to mitral annular velocity) or elevated tricuspid regurgitant velocity, can be used to
 diagnose heart failure with preserved ejection fraction or dynamic valvular disease such as mitral
 regurgitation.
-Drugs Mentioned In This Article
- 3/4
-
- Echocardiography - Cardiovascular Disorders - Merck Manual Professional Edition
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 4/4

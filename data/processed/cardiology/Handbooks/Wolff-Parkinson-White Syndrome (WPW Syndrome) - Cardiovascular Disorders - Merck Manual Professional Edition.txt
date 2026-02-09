@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:34.315528",
-  "file_size_bytes": 397125,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Wolff-Parkinson-White Syndrome (WPW Syndrome)
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Sept 2024
 Classic (manifest) Wolff-Parkinson-White syndrome is due to an accessory
 atrioventricular connection that produces a prototypical ECG consisting of a
 short PR interval, a wide QRS complex with an initial slurred component (delta
@@ -46,8 +27,7 @@ the normal conduction system. This ventricular pre-excitation produces a short P
 seconds), a wide QRS complex (≥ 0.12 seconds) with an initial slurred component (the delta wave) which,
 along with symptoms of paroxysmal tachycardia, define the classic (manifest) Wolff-Parkinson-White
  1/7
-
- Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 syndrome (1). Classic (manifest) Wolff-Parkinson-White syndrome occurs in about 1 to 3/1000 people
 ([2] sampled in Canadian men).
 Depending on the orientation of the delta wave, a pseudoinfarction pattern Q-wave may be present.
@@ -85,23 +65,6 @@ WPW pattern on their ECG and are said to have concealed WPW syndrome. They are n
 rapidly conducted supraventricular arrhythmias.
 WPW syndrome is mainly idiopathic, although it is more common among patients with hypertrophic
 cardiomyopathy, transposition of the great vessels, or Epstein's anomaly.
-Pathophysiology references
- 2/7
-
- Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition
-1. Bhatia A, Sra J, Akhtar M: Preexcitation Syndromes. Curr Probl Cardiol 41(3):99–137, 2016. doi:
-10.1016/j.cpcardiol.2015.11.002
-2. Krahn AD, Manfreda J, Tate RB, Mathewson FA, Cuddy TE: The natural history of
-electrocardiographic preexcitation in men. The Manitoba Follow-up Study. Ann Intern Med
-116(6):456–460, 21992 doi: 10.7326/0003-4819-116-6-456
-3. Page RL, Joglar JA, Caldwell MA, et al: 2015 ACC/AHA/HRS Guideline for the Management of Adult
-Patients With Supraventricular Tachycardia: A Report of the American College of
-Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart
-Rhythm Society [published correction appears in J Am Coll Cardiol 2016 Dec 27;68(25):2922-2923.
-doi: 10.1016/j.jacc.2016.11.014]. J Am Coll Cardiol 67(13):e27–e115, 2016. doi:
-10.1016/j.jacc.2015.08.856
-4. Kadish A, Passman R: Mechanisms and management of paroxysmal supraventricular
-tachycardia. Cardiol Rev 7(5):254–264, 1999. doi: 10.1097/00045415-199909000-00009
 Classic Wolff-Parkinson-White (WPW) Pattern
 Leads I, II, III, V through V show classic features of WPW syndrome, with a short PR interval
 3 6
@@ -116,11 +79,6 @@ problems, or rapid precordial pulsations. If the episode of tachycardia is protr
 with heart failure.
 Patients with WPW syndrome may also experience rapidly conducted supraventricular arrhythmias such
 as 1:1 conduction of atrial flutter or rapidly conducted atrial fibrillation wherein symptoms of
- 3/7
-
- Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition
-Overview of Wolff-Parkinson-Wh...
-VIDEO
 hemodynamic compromise, including syncope are more common.
 Rapidly conducted atrial fibrillation may also induce ventricular fibrillation and sudden death. This risk is
 low (approximately 1%) but is more likely to occur in adolescence.
@@ -143,9 +101,6 @@ supraventricular arrhythmia, the QRS complexes may show total ventricular preexc
 total preexcitation mingled with normally conducted narrow QRS complexes, and/or variable degrees of
 fusion QRS complexes between the QRS complexes of total ventricular preexcitation and those of
 normal conduction.
- 4/7
-
- Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition
 Conduction of atrial fibrillation via the accessory AV connection in WPW syndrome can be very
 dangerous if antegrade conduction is very fast. Clues to the presence of pre-excited atrial fibrillation
 include a very rapid, dominantly wide QRS complex arrhythmia with the occasional occurrence of a
@@ -158,16 +113,6 @@ younger age, exercise, prior tachyarrhythmias, multiple accessory AV connections
 dromotropic medications (especially digitalis),and minimum RR interval during pre-excited atrial
 fibrillation ≤ 0.25 seconds (2). The estimated risk of developing atrial fibrillation in patients with WPW
 syndrome is 1.5%/year and that of sudden death is 0.1%/year (3).
-Diagnosis references
-1. Brugada J, Katritsis DG, Arbelo E, et al: 2019 ESC Guidelines for the management of patients with
-supraventricular tachycardia. The Task Force for the management of patients with
-supraventricular tachycardia of the European Society of Cardiology (ESC). Eur Heart J 41(5):655-720,
-2020. doi: 10.1093/eurheartj/ehz467
-2. Klein GJ, Bashore TM, Sellers TD, Pritchett EL, Smith WM, Gallagher JJ: Ventricular fibrillation in
-the Wolff-Parkinson-White syndrome. N Engl J Med 301(20):1080–1085, 1979. doi:
-10.1056/NEJM197911153012003
-3. Brugada J, Keegan R: Asymptomatic Ventricular Pre-excitation: Between Sudden Cardiac Death
-and Catheter Ablation. Arrhythm Electrophysiol Rev 7(1):32–38, 2018. doi: 10.15420/aer.2017.51
 Treatment of WPW Syndrome
 Acute: treatment of the presenting arrhythmia
 Long-term: chronic antiarrhythmic therapy for arrhythmia prevention or ablation of the
@@ -183,9 +128,6 @@ to IV adenosine, United States guidelines recommend a class IIb such as an IV be
 or IV verapamil (1). This class IIb recommendation in patients with known WPW syndrome (rather than
 the class IIa recommendation in the setting of other causes of PSVT) recognizes the rare possibility that
 the PSVT will terminate to pre-excited atrial fibrillation with a more rapid ventricular response rate
- 5/7
-
- Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition
 because of the presence of one of these medications. Alternatively, synchronized DC cardioversion is
 performed.
 When a patient with WPW syndrome presents with a rapid, regular, wide QRS complex tachycardia the
@@ -213,20 +155,7 @@ recommendations are given for oral dofetilide, oral sotalol, and oral amiodarone
 recommendation is given for oral beta blockers (especially useful if symptoms occur with exercise), oral
 diltiazem, or oral verapamil, there is a small possibility that these mediations could be harmful should
 atrial fibrillation ever occur.
-Treatment references
-1. Page RL, Joglar JA, Caldwell MA, et al: 2015 ACC/AHA/HRS Guideline for the Management of Adult
-Patients With Supraventricular Tachycardia: A Report of the American College of
-Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart
-Rhythm Society [published correction appears in J Am Coll Cardiol 2016 Dec 27;68(25):2922-2923.
-doi: 10.1016/j.jacc.2016.11.014]. J Am Coll Cardiol 2016 Apr 5;67(13):e27–e115, 2016. doi:
-10.1016/j.jacc.2015.08.856
-2. Ibrahim Ali Sherdia AF, Abdelaal SA, Hasan MT, et al: The success rate of radiofrequency
-catheter ablation in Wolff-Parkinson-White-Syndrome patients: A systematic review and meta-
-analysis. Indian Heart J 75(2):98–107, 2023. doi: 10.1016/j.ihj.2023.02.001
 Key Points
- 6/7
-
- Wolff-Parkinson-White Syndrome (WPW Syndrome) - Cardiovascular Disorders - Merck Manual Professional Edition
 Wolff-Parkinson-White (WPW) syndrome is characterized by a short PR interval, a wide QRS
 complex with an initial slurred component (delta wave), and secondary repolarization
 changes in association with symptomatic reentrant (paroxysmal) supraventricular
@@ -240,6 +169,3 @@ cardioversion; treatment of stable patients with regular, narrow QRS complex tac
 IV adenosine or alternatively parenteral antiarrhythmics.
 Long-term treatment is with catheter ablation of the accessory pathway; oral
 antiarrhythmics can be used if ablation cannot be performed.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 7/7

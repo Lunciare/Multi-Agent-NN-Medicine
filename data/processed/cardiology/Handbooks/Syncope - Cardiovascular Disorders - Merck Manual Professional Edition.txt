@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Syncope - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:41.658004",
-  "file_size_bytes": 360763,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Syncope - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Syncope
-By Andrea D. Thompson, MD, PhD, University of Michigan;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Aug 2024
 Syncope is a sudden, brief loss of consciousness with loss of postural tone followed by spontaneous
 revival. The patient is motionless and limp and usually has cool extremities, a weak pulse, and shallow
 breathing. Sometimes brief involuntary muscle jerks occur, resembling a seizure.
@@ -43,9 +23,6 @@ Arrhythmias (too fast or too slow)
 Conditions that decrease venous return
 Outflow obstruction can be exacerbated by exercise, vasodilation, and hypovolemia (particularly in
 aortic stenosis and hypertrophic cardiomyopathy), which may precipitate syncope.
- 1/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
 Arrhythmias cause syncope when the heart rate is too fast to allow adequate ventricular filling (eg > 150
 to 180 beats/minute) or too slow to provide adequate output (eg, < 30 to 35 beats/minute).
 Venous return can be decreased by hemorrhage, increased intrathoracic pressure, increased vagal tone
@@ -74,13 +51,9 @@ Vasovagal (neurocardiogenic)
 Idiopathic
 Many cases of syncope never have a firm diagnosis but lead to no apparent harm. A smaller number of
 cases have a serious cause, usually cardiac.
-TABLE
 Some Causes of Syncope
 Cause Suggestive Findings Diagnostic Approach*
 Cardiac outflow or inflow obstruction
- 2/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
 Cause Suggestive Findings Diagnostic Approach*
 Valvular disease: Aortic Young or old patient
 stenosis, mitral stenosis,
@@ -131,8 +104,7 @@ medications, especially if abnormalities detected
 antiarrhythmics or other or strongly suspected
 medications that block AV
  3/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Suggestive Findings Diagnostic Approach*
 nodal conduction in
 Serum electrolytes if
@@ -199,8 +171,7 @@ straining to urinate or prompt but not immediate
 defecate, Valsalva (5 to 15 minutes) although
 maneuver)
  4/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Suggestive Findings Diagnostic Approach*
 can be prolonged in rare
 cases
@@ -244,8 +215,7 @@ Anaphylaxis other signs of anaphylaxis Allergy testing
 hypotension)
 Orthostatic hypotension
  5/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Suggestive Findings Diagnostic Approach*
 Symptoms developing
 within several minutes of Clinical evaluation
@@ -300,8 +270,7 @@ Apparent by history; no
 Prolonged standing Clinical evaluation
 other symptoms
  6/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Suggestive Findings Diagnostic Approach*
 Healthy female of
 childbearing age; no other
@@ -340,8 +309,7 @@ TABLE
 Some Medications That Cause Syncope
 Mechanism Example
  7/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Mechanism Example
 Amiodarone, other rate-limiting drugs
 Beta-blockers
@@ -369,15 +337,11 @@ dysfunction)
 Quinidine
 Tricyclic antidepressants
 Vincristine
-For more information, see Porta L, Lee MG, Hsu WT, Hsu TC, Tsai TY, Lee CC:
-Fluoroquinolone use and serious arrhythmias: A nationwide case-crossover
-study. Resuscitation 139:262–268, 2019. doi:10.1016/j.resuscitation.2019.04.030
 Evaluation of Syncope
 Evaluation should be done as soon as possible after the event. The more remote the syncopal event, the
 more difficult the diagnosis. Information from witnesses is quite helpful and best obtained as soon as
  8/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 possible. Guidelines for evaluation and management are available from the Canadian Cardiovascular
 Society (1) and the American College of Cardiology (2).
 History
@@ -414,8 +378,7 @@ blood.
 A neurologic examination is done to identify any focal abnormalities, which suggest a central nervous
 system cause (eg, seizure disorder).
  9/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Red flags
 Certain findings suggest a more serious etiology:
 Syncope during exertion
@@ -454,8 +417,7 @@ cause or seizure, and therefore the event is of greater concern. The warning sig
 slower loss of consciousness that accompany benign vasovagal syncope somewhat reduce
 the likelihood of injury.
  10/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Loss of consciousness during a seizure or postictal confusion can sometimes be confused with syncope,
 but muscular jerking or convulsions that last more than a few seconds, incontinence, drooling, or
 tongue biting, if present, usually point to a seizure.
@@ -494,8 +456,7 @@ Laboratory tests are done based on clinical suspicion; reflexively obtained labo
 little use. However, all females of childbearing age should have a pregnancy test. Hematocrit is
 measured if anemia is suspected. Electrolytes are measured only if an abnormality is clinically
  11/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 suspected (eg, by symptoms or medication use). Serum troponin is measured if acute myocardial
 infarction is suspected.
 Echocardiography (either point-of-care ultrasound [POCUS] or a traditional echocardiogram) is
@@ -520,20 +481,9 @@ in other patients.
 EEG is warranted if a seizure disorder is suspected.
 CT and MRI of the head and brain are indicated only if signs and symptoms suggest a focal CNS
 disorder.
-Evaluation references
-1. Primary Writing Committee, Sandhu RK, Raj SR, et al: Canadian Cardiovascular Society Clinical
-Practice Update on the Assessment and Management of Syncope. Can J Cardiol 36(8):1167–1177,
-2020. doi: 10.1016/j.cjca.2019.12.023
-2. Writing Committee Members, Shen WK, Sheldon RS, et al: 2017 ACC/AHA/HRS guideline for the
-evaluation and management of patients with syncope: A report of the American College of
-Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart
-Rhythm Society. Heart Rhythm 14(8):e155–e217, 2017. doi:10.1016/j.hrthm.2017.03.004
-3. Dovgalyuk J, Holstege C, Mattu A, Brady WJ: The electrocardiogram in the patient with
-syncope. Am J Emerg Med 25(6):688–701, 2007. doi:10.1016/j.ajem.2006.12.016
 Treatment of Syncope
  12/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 In witnessed syncope, pulses are checked immediately. If the patient is pulseless, CPR is begun. If pulses
 are present, severe bradycardia is treated with atropine or external transthoracic pacing. Isoproterenol
 can be used to maintain adequate heart rate while a temporary pacemaker is placed.
@@ -567,11 +517,7 @@ minutes or longer of postrecovery symptoms.
 Syncope due to cardiac arrhythmias typically occurs abruptly and with quick recovery.
 Treatment is directed at the underlying disorder.
  13/14
-
- Syncope - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 If a benign etiology is not clear, driving and use of machinery should be prohibited until
 the cause is determined and treated—the next manifestation of an unrecognized
 cardiac cause may be fatal.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 14/14

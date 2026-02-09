@@ -1,22 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Congestive heart failure overview - wikidoc.pdf",
-  "converted_date": "2026-01-31T14:36:17.939492",
-  "file_size_bytes": 736020,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Congestive heart failure overview - wikidoc.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Search WikiDoc
-Search Try Exact Match
 Congestive heart failure overview
-Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailto:charlesmichaelgibson@gmail.com);
-Associate Editor(s)-in-Chief: Syed Hassan A. Kazmi BSc, MD [2] (mailto:skazmi@bidmc.harv
-ard.edu)
 Overview
 Heart failure is a complex syndrome whereby there is inadequate output of the heart to meet the
 metabolic demands of the body. Abnormal function of different anatomic parts of the heart cause
@@ -53,38 +35,7 @@ United States of America and each year close to 500,000 new cases are diagnosed.
 heart failure is responsible for a significant portion of the healthcare budget, and more than 50% of
 patients seek re-admission within 6 months after treatment and the average duration of hospital
 stay is 6 days. In 2005 the prevalence among adults aged 20 and older in the United States was
-5,300,000 (about 2,650,000 males, and 2,650,000 females). Heart failure is associated with
-significantly r Ce od ou kic ese hd
-e
-lp
-p
-h usy ds ei lc iva el
-r
-oa un
-r
-d
-se
-rm vice en s.t Ba yl uh sie na
-g
-l ot uh
-r
-,
-s
-er re vis cu esl ,t yi on ug
-a
-gi rn
-e
-ea
-to
-m oua
-r
-r uk see od
-f
-l cy
-o
-od kie ec s.reasOeKd quality of life.
- 1/14
-
+5,300,000 (about 2,650,000 males, and 2,650,000 females).
 Congestive heart failure is also associated with a poor prognosis. If left untreated, heart failure may
 result in death due to complications associated with the condition. Heart failure resulting from
 atherosclerotic coronary artery disease has been shown to be associated with higher incidence of
@@ -132,7 +83,7 @@ of patients with Stage IV heart failure (intractable symptoms of fatigue, shortn
 chest pain at rest despite optimal medical therapy) should be considered for palliative care or
 hospice.
 Historical Perspective
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  2/14
 
 Heart failure (HF) is known to be recognized as a disease since ancient times. Italian Egyptologist
@@ -221,7 +172,7 @@ be associated with higher incidence of fatal events compared to heart failure th
 cardiac diseases. Heart failure is a progressive disease with a major impact on the patient's quality
 of life. With the exception of heart failure caused by reversible conditions, the condition usually
 worsens with time. Although some people survive many years, progressive disease is associated
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  4/14
 
 with an overall annual mortality rate of 10%. In the Framingham experience, 80% of men and 70%
@@ -264,7 +215,7 @@ Expanded List of Causes:
 • Protein deficiency
 • Restrictive cardiomyopathy
 • Rupture of the papillary muscles
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  5/14
 
 • Sepsis
@@ -346,7 +297,7 @@ release and free water retention) is associated with a poor prognosis.
 Electrocardiogram
 Although there is no diagnostic criteria of congestive heart failure on the EKG, there may be signs
 of the underlying cardiac cause(s) of congestive heart failure. The EKG often shows low QRS
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
 voltage. Other changes associated with HF include ventricular hypertrophy, atrial enlargement,
  7/14
 
@@ -382,7 +333,7 @@ underlying atherosclerosis as the basis for the heart failure. Patients who are 
 positive, who have dynamic EKG changes or other signs and symptoms of an acute coronary
 syndrome who are revascularization candidates should undergo coronary angiography.
 Invasive hemodynamic monitoring
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  8/14
 
 Based upon the results of the ESCAPE trial, there is no benefit in clinical outcomes associated with
@@ -422,7 +373,7 @@ failure and decrease pulmonary edema that causes symptoms of dyspnea and orthopn
 better choice due to its more predictable absorption. Once a day dosing of a given diuretic is
 preferred to twice a day dosing at a lower dose. A rise in BUN and Cr may reflect a reduction in
 renal perfusion, and further diuresis should only be undertaken with careful monitoring of renal
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  9/14
 
 function. The patient should weigh themselves each morning at the same time on the same scale,
@@ -466,7 +417,7 @@ results of the EMPHASIS HF trial showed that the addition of eplerenone (an aldo
 antagonist) to ACE inhibition improved clinical outcomes including mortality among patients with
 class II or III heart failure with a reduced LVEF.[13] Thus, based upon the mortality benefit
 observed in the EMPHASIS HF trial, an aldosterone antagonist rather than and ARB should be
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  10/14
 
 added to an ACE inhibitor in patients with NYHA class II heart failure and an LVEF < 30%, in the
@@ -509,7 +460,7 @@ dose of beta-blockers.
 Aldosterone Antagonism: Fourth Step in the Management of Heart Failure
 An aldosterone antagonist can be added to the regimen of 'select' patients. These selected patients
 include:
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  11/14
 
 • Class II heart failure and a left ventricular ejection fraction (LVEF) < 30%
@@ -549,7 +500,7 @@ levels between 0.5 and 0.8 ng/mL and was increased in male patients with digoxin
 ng/ml.[16] A similar trend was observed among women patients: there was a trend towards lower
 mortality at digoxin concentrations between 0.5 to 0.9 ng/ml, but significantly higher mortality at
 digoxin concentrations > 1.2 ng/ml.[17]
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  12/14
 
 Digoxin should not be used as primary therapy for congestive heart failure. The administration of
@@ -586,7 +537,7 @@ patients with previous myocardial infarction and an LVEF <30%, sustained ventric
 tachycardia, inducible ventricular tachycardia. The morbidity and mortality benefit of ICD
 placement compared with anti-arrhythmic drug therapy is controversial.
 Ultrafiltration
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  13/14
 
 In the setting of congestive heart failure, ultrafiltration has been associated with a reduced
@@ -616,13 +567,3 @@ There is unfortunately insufficient data in subgroups of patients to mandate a c
 recommendations regarding the management of heart failure. Dosages should be altered as needed
 in the elderly or in those with altered metabolism. African american patients may respond to the
 addition of hydralazineand nitrates to the standard of care in the treatment of heart failure.
-References
-Template:WikiDoc Sources
-Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
-Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
-Physical Examination | Lab Tests | Drugs
-Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
-There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
-Licensing | Disclaimers | Avoid Plagiarism | Policies
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 14/14

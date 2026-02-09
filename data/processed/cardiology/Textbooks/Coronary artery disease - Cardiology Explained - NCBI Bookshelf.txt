@@ -1,19 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Coronary artery disease - Cardiology Explained - NCBI Bookshelf.pdf",
-  "converted_date": "2026-01-31T14:38:13.395542",
-  "file_size_bytes": 643576,
-  "original_format": "pdf",
-  "document_type": "Textbooks",
-  "source_folder": "Textbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Textbooks/Coronary artery disease - Cardiology Explained - NCBI Bookshelf.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Coronary artery disease - Cardiology Explained - NCBI Bookshelf
-NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
-Ashley EA, Niebauer J. Cardiology Explained. London: Remedica; 2004.
+Coronary artery disease - Cardiology Explained
 Chapter 5 Coronary artery disease
 Background
 Coronary artery disease (CAD) is the most common cause of mortality in the developed world. It
@@ -54,8 +39,7 @@ The establishment of these pathophysiological origins of CAD, together with the 
 improved clinical markers for ischemia and necrosis, has led to the proposal of a new (somewhat
 controversial) definition for acute MI: a rise and fall in troponin or the creatine kinase
  1/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 myocardial band fraction (CK-MB) (see "Markers of myocardial damage" section), plus at least
 one of the following:
 ischemic symptoms
@@ -95,8 +79,7 @@ be difficult to differentiate esophageal spasm from cardiac pain as they are bot
 nitrate. Other noncardiac causes to consider are musculoskeletal, pericardial, and pleural.
 Other forms of angina include:
  2/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 variant angina (also known as Prinzmetal's angina), which causes an unpredictable pain –
 typically coming on at rest – and is associated with transient ST elevation on an ECG. It is
 thought to be due to coronary spasm and seems to be independent of atherosclerosis
@@ -140,8 +123,7 @@ it is essential that the patients' families and partners are supportive
 patients should allocate a particular date and time to stop smoking. This should be a few
 weeks subsequent to the decision to stop, to allow time for planning and reflection
  3/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 patients should identify (and write down) the "at-risk" times when they envisage that
 temptation and craving will be greatest, for example with coffee or in a bar. They can then
 focus, in advance, on these situations and devise a way to avoid giving in
@@ -185,8 +167,7 @@ due to increased transcription of superoxide dismutase. There are also shear str
 responsive elements in the promoter region of several adhesion molecules (eg, intercellular
 adhesion molecule) that may reduce their gene expression.
  4/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 Diet
 The central components of a healthy diet are well known: low in fat; low in salt; low in
 cholesterol; low in calories. In detail, patients should consume a diet high in fiber (>20 g/day),
@@ -229,8 +210,7 @@ smoking
 systolic blood pressure
 total cholesterol to high-density lipoprotein (HDL) ratio
  5/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 Investigations
 Electrocardiogram
 The ECG is a vital tool for assessing patients in both stable and emergency situations.
@@ -275,8 +255,7 @@ Potassium-channel openers, such as nicorandil, are a new class of agents for the
 angina. They exert both direct action on cardiac mitochondria and a nitrate-like effect. These are
 not yet available in the US.
  6/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 Lipid-lowering agents
 Lipids are insoluble in water. Hence, they are transported around the body as lipoproteins.
 Lipoproteins are made up of cholesterol, triglycerides, phospholipids, and protein. The major
@@ -322,8 +301,7 @@ gut, thus increasing the synthesis of bile acids from cholesterol
 fibrates, which reduce the level of VLDL by increasing the activity of the VLDL-
 hydrolyzing enzyme LPL
  7/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 Guidelines for the use of lipid-lowering therapy have become more aggressive over the past few
 years following the results of major trials showing mortality benefit for the use of statins. Most
 guidelines recommend statin treatment for a patient with CAD with a 10-year risk that is greater
@@ -368,8 +346,7 @@ modified (more...)
 The exercise test is also useful for recording other variables, ie, work capacity; maximum heart
 rate and chronotropic incompetence; blood pressure rise and recovery; and heart rate recovery.
  8/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 Work capacity (presumably reflecting left ventricular [LV] function) and heart rate recovery are
 very strong prognostic indicators for CAD. Contraindications to exercise testing and reasons for
 stopping an exercise test are outlined in Table 4.
@@ -412,8 +389,7 @@ cardiac function.
 Perfusion imaging is used to assess regional blood flow by comparing the relative distribution of
 isotope at rest and under conditions of stress. Stress is provided either by exercise or by
  9/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 pharmacological tools such as inotropes (eg, dobutamine) or vasodilators (eg, adenosine or
 dipyridamole). The isotope is injected at the peak of exercise and the image captured with a
 gamma camera. Rest images are usually achieved several hours later. The "exercise" and "rest"
@@ -457,8 +433,7 @@ Stress echo is a useful technique in the hands of an experienced operator in a p
 echo window. Views can also be greatly improved by the use of a supine bicycle.
 Electron beam computed tomography
  10/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 This is a new technique that relies on imaging calcium in coronary lesions. It can quantify the
 "atherosclerotic burden" in the form of a calcium score to give an estimate of risk or to monitor
 the effect of, for example, lipid-lowering therapy. However, there is some doubt over how much
@@ -503,8 +478,7 @@ has focussed on drug-eluting stents (which elute anti-inflammatory or anti-proli
 which seem dramatically to reduce the incidence of restenosis.
 Table 6
  11/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 System (devised by the TIMI [Thrombolysis in Myocardial Infarction]
 investigators) used to grade the flow of contrast dye that has been injected into
 coronary arteries during percutaneous transluminal coronary angioplasty.
@@ -549,8 +523,7 @@ benefit of GPIIb/IIIa inhibitors is not limited to those with elevated troponin 
 Overall, complications from cardiac catheterization are relatively rare (totaling ~5%). They
 include:
  12/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 contrast allergy response (very rare due to modern dyes)
 local hemorrhage from puncture sites with subsequent thrombosis
 false aneurysm or arteriovenous (AV) malformation
@@ -596,8 +569,7 @@ RCA. A clear benefit of LIMA/RIMA CABG is improved graft patency, both periopera
 in the long term (10 years). Other arteries that can be used include the radial and the
 gastroepiploic.
  13/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 Figure 9
 Sites of heart bypass grafting: a saphenous vein graft and a
 left internal mammary artery graft are shown.
@@ -642,8 +614,7 @@ symptoms. CK: creatine kinase; CK-MB: creatine kinase
 myocardial band fraction; LDH: lactate dehydrogenase.
 Acute coronary syndromes: treatment
  14/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 Pharmacological agents
 The first-line treatment of any ACS is oxygen, aspirin, heparin, and β-blockade. Clopidogrel is
 an alternative to aspirin and diltiazem is an alternative to β-blockade. Low molecular-weight
@@ -688,8 +659,7 @@ from 5- to 7-times more expensive than streptokinase and thus only tend to be us
 following situations:
 where streptokinase has been administered previously
  15/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 where recent proven streptococcal throat infections have occurred
 in cases of hypotension
 However, even with large anterior MI in younger patients presenting within 4 hours (a situation
@@ -730,8 +700,7 @@ probable intracardiac thrombus (eg, atrial fibrillation with mitral stenosis)
 active peptic ulcer
 Basic science
  16/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 Atherosclerosis is initiated by a combination of circulating factors, such as cholesterol, and
 hemodynamic forces (common sites for atherosclerosis are areas where arteries branch).
 LDL and circulating leukocytes penetrate the arterial wall at regions of high shear stress
@@ -777,8 +746,7 @@ MI. The longer-acting dihydropyridines may reduce reinfarction in patients with 
 wave infarction or inferior infarction in the absence of LV dysfunction and pulmonary edema.
 However, their benefit over aspirin and β-blockade in the context of MI is unclear.
  17/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
+ 
 Although warfarin provides no general benefit, in those patients with mural LV thrombus
 following a large acute anterior MI, it can reduce the overall rate of cerebrovascular
 complications (2%–3%) by more than half. Thus, it is recommended for up to 6 months
@@ -816,51 +784,3 @@ improvements in lipid profile, endothelial function, body composition, autonomic
 fibrinolysis, and psychological well-being.
 Table 8
 Elements of a cardiac rehabilitation program.
-Further reading
-1. Ashley EA, Myers J, Froelicher V. Exercise testing in clinical medicine. Lancet.
-2000;356:1592–7. [PubMed: 11075788]
-2. Balady GJ, Ades PA, Comoss P. et al. Core components of cardiac rehabilitation/secondary
-prevention programs: A statement for healthcare professionals from the American Heart
- 18/19
-
- Coronary artery disease - Cardiology Explained - NCBI Bookshelf
-Association and the American Association of Cardiovascular and Pulmonary
-Rehabilitation Writing Group. Circulation. 2000;102:1069–73. [PubMed: 10961975]
-3. Braunwald E, Antman E, Beasley J. et al. ACC/AHA Guidelines for the management of
-patients with unstable angina and non-ST segment elevation myocardial infarction:
-executive summary and recommendations. Circulation. 2001;102:1193–209. [PubMed:
-10973852]
-4. Gibbons R, Chatterjee K, Daley J. et al. ACC/AHA/ACP-ASIM Guidelines for the
-management of patients with chronic stable angina: executive summary and
-recommendations. Circulation. 1999;99:2829–48. [PubMed: 10351980]
-5. Grundy S, Balady GH, Criqui et al. Primary Prevention of Coronary Heart Disease:
-Guidance from Framingham. Circulation. 1998;97:1876–87. [PubMed: 9603549]
-6. Grundy SM, Pasternak R, Greenland P. Assessment of cardiovascular risk by use of
-multiple risk factor assessment equations. Circulation. 1999;100:1481–92. [PubMed:
-10500053]
-7. Klaidman S. Saving the Heart. New York, Oxford University Press, 2000.
-8. Myocardial infarction redefined – A consensus document of the Joint European Society of
-Cardiology/American College of Cardiology Committee for the Redefinition of
-myocardial infarction. Eur Heart J. 2000;21:1502–13. [PubMed: 10973764]
-9. Niebauer J, Dulak J, Chan JR. et al. Gene transfer of nitric oxide synthase: effects on
-endothelial biology. J Am Coll Cardiol. 1999;34:1201–7. [PubMed: 10520813]
-10. Niebauer J, Hambrecht R, Velich T. et al. Attenuated progression of coronary artery disease
-after 6 years of multifactorial risk intervention: role of physical exercise. Circulation.
-1997;96:2534–41. [PubMed: 9355890]
-11. Ryan TJ, Antman EM, Brooks NH. et al. 1999 update: ACC/AHA guidelines for the
-management of patients with acute myocardial infarction. A report of the American
-College of Cardiology/American Heart Association Task Force on Practice Guidelines
-(Committee on Management of Acute Myocardial Infarction). J Am Coll Cardiol.
-1999;34:890–911. [PubMed: 10483976]
-12. Schuler G, Hambrecht R, Schlierf G. et al. Regular physical exercise and low fat diet:
-effects on progression of coronary artery disease. Circulation. 1992;86:1–11. [PubMed:
-1617762]
-13. Wood D, De Backer G, Faergeman O. et al. Prevention of coronary heart disease in clinical
-practice. Recommendations of the Second Joint Task Force of European and other
-Societies on coronary prevention. Eur Heart J. 1998;19:1434–503. [PubMed: 9820987]
-14. Wood D, Durrington P, Poulter N. et al. Joint British recommendations on prevention of
-coronary heart disease in clinical practice. Heart. 1998;80(Suppl. 2):1–29. [PMC free
-article: PMC1766497] [PubMed: 10193438]
-Copyright © 2004, Remedica.
-Bookshelf ID: NBK2216
- 19/19

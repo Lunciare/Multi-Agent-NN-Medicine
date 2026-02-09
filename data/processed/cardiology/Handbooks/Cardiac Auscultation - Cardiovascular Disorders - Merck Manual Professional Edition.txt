@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:14.444839",
-  "file_size_bytes": 431180,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Cardiac Auscultation
-By Jessica I. Gupta, MD, University of Michigan Health;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Apr 2025
 Auscultation of the heart requires excellent hearing ,experience, and the ability to distinguish subtle
 differences in pitch and timing. Hearing-impaired health care professionals can use amplified
 stethoscopes. High-pitched sounds are best heard with the diaphragm of the stethoscope. Low-pitched
@@ -48,7 +28,7 @@ TABLE
 Systolic Heart Murmur Intensity
  1/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Grade Description
 1 Barely audible
 2 Soft but easily heard
@@ -74,7 +54,7 @@ interpreted in the context of available imaging results (including echocardiogra
 diagnose and monitor valvular and other abnormalities.
  2/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Diagram of Physical Findings in a Patient With Aortic Stenosis and Mitral
 Regurgitation
 Murmur, character, intensity, and radiation are depicted. Sound of pulmonic closure exceeds
@@ -96,7 +76,7 @@ S1 occurs just after the beginning of systole and is predominantly due to mitral
 include tricuspid closure components. It is often split and has a high pitch. S1 is loud in mitral stenosis.
  3/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 It may be soft or absent in mitral regurgitation due to valve leaflet sclerosis and rigidity but is often
 distinctly heard in mitral regurgitation due to myxomatous degeneration of the mitral apparatus or due
 to ventricular myocardial abnormality (eg, papillary muscle dysfunction, ventricular dilation). S1 is often
@@ -116,21 +96,20 @@ maneuver). If ventricular filling volume is increased (eg, by lying supine), cli
 particularly in mitral valve prolapse. For unknown reasons, characteristics of the clicks may vary greatly
 between examinations, and clicks may come and go.
 Systolic Heart Sounds
-Click to play
 Split First Heart Sound
 S1 splitting is normal in many patients and is thought to be caused by mitral valve closure followed by an
 aortic ejection sound.
 Recording provided by Jules Constant, MD.
-Click to play
+ 
 Pulmonary Ejection Click
 High pulmonary artery pressures may dilate the pulmonary artery, stretching the valve ring and causing a
 click when taut cusps open rapidly.
 Recording provided by Jules Constant, MD.
-Click to play
+ 
 Split Second Heart Sound
  4/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Sound is that of S1–S2 with expiration (“out”) and S1–A2–P2 with inspiration (“in”). S2 splits with inspiration
 because intrathoracic pressure decreases, drawing more blood into the right ventricle and postponing
 pulmonic valve closure.
@@ -158,7 +137,7 @@ and be single in inspiration when the delayed P2 occurs at the same time as the 
 known as paradoxical splitting. Finally, a single S2 may occur when the aortic valve is regurgitant,
 severely stenotic, or atretic (or in truncus arteriosus when there is a single common valve).
 Diastolic Heart Sounds
-Click to play
+ 
 Split Second Heart Sound in Left Bundle Branch Block
 Sound is that of paradoxical splitting, ie, S1–P2–A2 at rest (“out”) and S1–S2 with inspiration (“in”). Left
 bundle branch block delays aortic valve closure, so that split is audible at rest; inspiration decreases
@@ -167,40 +146,40 @@ until it is superimposed on A2 and splitting becomes inaudible.
 Recording provided by Jules Constant, MD.
  5/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
-Click to play
+  
+ 
 Split Second Heart Sound in Right Bundle Branch Block
 Sound is that of wide splitting, ie, S1–A2–P2 at rest (“out”) with an even wider A2–P2 interval with
 inspiration (“in”). Right bundle branch block delays pulmonic valve closure so that S2 splitting becomes
 audible at rest. Inspiration decreases intrathoracic pressure, drawing more blood into the right ventricle
 and postponing pulmonic valve closure even more, so that the normal split becomes wider.
 Recording provided by Jules Constant, MD.
-Click to play
+ 
 Split Second Heart Sound With Atrial Septal Defect
 Sound is that of fixed second heart sound (S2) splitting, ie, S1–A2–P2 at rest (“out”) and with inspiration
 (“in”). Splitting is fixed because the volume of flow through the right ventricle is increased throughout the
 respiratory cycle, eliminating the normal delay in closure of the pulmonic valve associated with inspiration.
 Recording provided by Jules Constant, MD.
-Click to play
+ 
 Third Heart Sound
 Sound is that of S1–S2–S3.
 Recording provided by Jules Constant, MD.
-Click to play
+ 
 Fourth Heart Sound
 Sound is that of S4–S1–S2.
 Recording provided by Jules Constant, MD.
-Click to play
+ 
 Summation Gallop
 Sound is that of S4–S1–S2–S3 in rapid succession.
 Recording provided by Jules Constant, MD.
-Click to play
+ 
 Diastolic Knock
 A diastolic knock is a loud third heart sound (S3) caused by constrictive pericarditis.
 Recording provided by Jules Constant, MD.
  6/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
-Click to play
+  
+ 
 Mitral Valve Opening Snap
 Sound is that of S1–A2–OS with a relatively long A2–OS interval. The opening snap (OS), most commonly
 caused by mitral stenosis, is thought to be caused by abrupt downward bulging (snapping) of the anterior
@@ -239,7 +218,7 @@ apex, is often heard best or only at the lower left sternal border.
 Approach to murmurs
  7/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Timing of the murmur in the cardiac cycle correlates with the cause (see table Etiology of Murmurs by
 Timing); auscultatory findings correlate with specific heart valve disorders. Various maneuvers (eg,
 inspiration, Valsalva, handgrip, squatting, amyl nitrate inhalation) can modify cardiac physiology slightly,
@@ -279,7 +258,7 @@ Acquired or congenital valve
 abnormality (eg, endocarditis,
  8/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Timing Associated Disorders
 myxomatous or calcific
 degeneration, rheumatic fever),
@@ -318,7 +297,7 @@ Venous hum
 Coronary-cameral fistula
  9/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Timing Associated Disorders
 Coarctation of the aorta or pulmonary
 artery
@@ -360,7 +339,7 @@ decreases pulmonary [immediately] and
 regurgitation [usually])
  10/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Maneuver Effect on Blood Flow Effect on Heart Sounds
 venous flow into the left
 Reduces left heart sounds
@@ -420,7 +399,7 @@ regurgitation, and
 tricuspid stenosis
  11/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 * Patient may need to be standing for effect on pulmonic stenosis to be heard.
 All patients with heart murmurs are evaluated by chest radiography and electrocardiography (ECG).
 Echocardiography is required to confirm the diagnosis, determine severity, and track severity over time.
@@ -457,28 +436,28 @@ defect) or result from altered hemodynamics remote from the shunt (eg, pulmonic 
 due to an atrial septal defect with left-to-right shunt). Atrial shunt murmurs are rarely, if ever, audible.
  12/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 AUDIO
 Mitral Valve Prolapse (With Late-Systolic Click)
 Various maneuvers are usually required for more accurate diagnosis of timing and type of murmur (see
 table Maneuvers That Aid in Diagnosis of Murmurs).
 Systolic Murmurs
-Click to play
+ 
 Aortic Stenosis Murmur
 The 6th beat is a ventricular premature beat (VPB). The 7th beat illustrates post-VPB potentiation of the
 murmur due to increased left ventricular filling during the post-VPB compensatory pause.
 Recording provided by Jules Constant, MD.
-Click to play
+ 
 Pulmonary Stenosis Murmur
 The murmur becomes audible only with inspiration (“in”) because inspiration decreases intrathoracic
 pressure, drawing more blood into the right ventricle and increasing right ventricular outflow.
 Recording provided by Jules Constant, MD.
-Click to play
+ 
 Mitral Regurgitation Murmur
 This holosystolic mitral regurgitation murmur maintains the same intensity throughout systole and
 extends from S1 to S2.
 Recording provided by Jules Constant, MD.
-Click to play
+ 
 Ventricular Septal Defect Murmur
 The murmur of a ventricular septal defect is similar to that of mitral regurgitation but is louder at the left
 lower sternal border than at the apex.
@@ -486,7 +465,7 @@ Recording provided by Jules Constant, MD.
 Diastolic murmurs
  13/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Diastolic murmurs are always abnormal; most are early or mid diastolic, but they may be late diastolic
 (presystolic). Early diastolic murmurs are typically due to aortic regurgitation or pulmonic regurgitation.
 Mid diastolic (or early to mid diastolic) murmurs are typically due to mitral stenosis or tricuspid stenosis.
@@ -522,14 +501,6 @@ parietal pericardial layers. It is a high-pitched or squeaking sound; it may be 
 systolic, or triphasic (when atrial contraction accentuates the diastolic component during late diastole).
  14/15
 
- Cardiac Auscultation - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 The rub sounds like pieces of leather squeaking as they are rubbed together. Rubs are best heard with
 the patient leaning forward or on hands and knees with breath held in expiration.
-AUDIO
-Pericardial Friction Rub
-Reference
-1. Fang JC, O'Gara PT: History and Physical Examination: An Evidence-Based Approach. In Libby P,
-Bonoow RO, Mann DL, et al (eds): Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine,
-12th ed. Philadelphia, Elsevier, 2022, pp 123-140.
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 15/15

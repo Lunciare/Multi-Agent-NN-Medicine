@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:07.355250",
-  "file_size_bytes": 234773,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Screening for Sports Participation
-By Robert S. McKelvie, MD, PhD, Western University
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Aug 2024 | Modified Aug 2025
 Athletes are commonly screened to identify risk before participation in sports. Screening should
 address cardiovascular and other risks.
 Screening for Cardiovascular Risks of Sports Participation
@@ -45,9 +26,6 @@ both arms, supine and standing cardiopulmonary auscultation, and assessment for 
 such as features of Marfan syndrome. These measures aim to identify apparently healthy people at high
 risk of life-threatening cardiac events (eg, people with arrhythmias, hypertrophic cardiomyopathy, or
 other structural heart disorders).
- 1/5
-
- Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition
 European guidelines differ from American guidelines in that a screening electrocardiogram (ECG) is
 recommended for all children, adolescents, and college-age athletes (2).
 Canadian Guidelines recommend screening in 3 tiers:
@@ -55,7 +33,6 @@ History/questionnaire
 Physical examination
 ECG only when indicated according to clinical findings
 Testing follows if clinically warranted (3).
-CLINICAL CALCULATORS
 QT Interval Correction (EKG)
 Screening for older adults (35 years or older) with risk factors may include incremental symptom-
 limited exercise testing, especially if athletes have been sedentary for a number of years.
@@ -80,8 +57,7 @@ evaluated for anomalous coronary arteries. Evaluation is done using
 Cardiac catheterization
 If an enlarged aorta is detected on echocardiography (or incidentally), further assessment is needed.
  2/5
-
- Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Recommendations for sports participation
 Athletes should be counseled against use of illicit and performance-enhancing drugs. Patients with mild
 or moderate valvular heart disease may participate in vigorous activity.
@@ -95,21 +71,6 @@ Known aneurysms in the brain or large vessels
 Acute myocarditis (until resolved, with complete recovery of ventricular function)
 Athletes who have had a myocardial infarction will need cardiovascular rehabilitation and a gradual
 approach to returning to high-intensity physical activity.
-Cardiovascular screening references
-1. Maron BJ, Thompson PD, Ackerman MJ, et al: Recommendations and considerations related to
-pre-participation screening for cardiovascular abnormalities in competitive athletes: 2007 update:
-a scientific statement from the American Heart Association Council on Nutrition, Physical Activity,
-and Metabolism: endorsed by the American College of Cardiology Foundation. Circulation
-2007;115(12):1643–1655, 2007. doi:10.1161/CIRCULATIONAHA.107.181423
-2. Corrado D, Pelliccia A, Bjørnstad HH, et al: Cardiovascular pre-participation screening of young
-competitive athletes for prevention of sudden death: proposal for a common European protocol.
-Consensus Statement of the Study Group of Sport Cardiology of the Working Group of Cardiac
-Rehabilitation and Exercise Physiology and the Working Group of Myocardial and Pericardial
-Diseases of the European Society of Cardiology. Eur Heart J 26(5):516–524, 2005.
-doi:10.1093/eurheartj/ehi108
-3. Johri AM, Poirier P, Dorian P, et al: Canadian Cardiovascular Society/Canadian Heart Rhythm
-Society joint position statement on the cardiovascular screening of competitive athletes. Can J
-Cardiol 35:1-11, 2019. doi: 10.1016/j.cjca.2018.10.016
 Screening for Other Risks of Sports Participation
 Athletes should also be screened for musculoskeletal and other risks before participation in sports.
 Noncardiovascular risk factors are more common than cardiovascular risk factors. Adults are asked
@@ -117,9 +78,6 @@ about the following:
 Previous or current musculoskeletal injuries (including easily triggered dislocations)
 Arthritic disorders, particularly those involving major weight-bearing joints (eg, hips, knees,
 ankles)
- 3/5
-
- Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition
 Concussions
 Asthma
 Symptoms suggesting systemic infection
@@ -155,8 +113,7 @@ Possibly significant diarrhea and/or recent significant vomiting because dehydra
 In adults, relative contraindications are more common and lead to recommendations for
 precautions or for participation in some sports rather than others, for example:
  4/5
-
- Screening for Sports Participation - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 People with a history of frequent and easily triggered dislocations or multiple concussions
 should participate in noncollision sports.
 Males, particularly those with a single testis, should wear a protective cup for most contact
@@ -180,5 +137,3 @@ infectious mononucleosis, symptomatic or persistent fever, and significant diarr
 vomiting that predispose them to dehydration until these conditions are resolved.
 In all patients, limit participation in specific sports based upon concurrent medical
 conditions.
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 5/5

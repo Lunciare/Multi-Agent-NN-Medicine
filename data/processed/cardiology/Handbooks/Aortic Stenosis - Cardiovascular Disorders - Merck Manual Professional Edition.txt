@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:46.375360",
-  "file_size_bytes": 808505,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Aortic Stenosis
-By Guy P. Armstrong, MD, Waitemata District Health Board and Waitemata Cardiology, Auckland
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2025
 Aortic stenosis (AS) is narrowing or restricted opening of the aortic valve,
 obstructing blood flow from the left ventricle to the aorta during systole.
 Causes include a congenital bicuspid valve, idiopathic degenerative sclerosis
@@ -44,7 +25,7 @@ Lipoprotein (a) is implicated in the pathogenesis of both aortic stenosis and at
 lipoprotein (a) levels also predict faster hemodynamic progression of AS.
  1/12
 
- Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Patients with psoriasis are also at increased risk for atherosclerosis, and more recently, psoriasis has
 been tied to an increased risk of aortic stenosis.
 In patients < 70 years, the most common cause of aortic stenosis is:
@@ -83,7 +64,7 @@ increased pressure gradient from the high-pressure LV to the lower pressure aort
 ventricle can no longer compensate and begins to fail, with secondary LV cavity enlargement, reduced
  2/12
 
- Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 ejection fraction (EF), decreased cardiac output, and a misleadingly low gradient across the aortic valve
 (low-gradient severe AS) as the LV can no longer generate as high of a systolic pressure.
 Aortic regurgitation accompanies aortic stenosis in approximately 7% of patients (1), and about half of
@@ -111,7 +92,7 @@ Multidetector Computed Tomography in Patients Referred for Aortic Stenosis. Am J
 2016;118(8):1251-1257. doi:10.1016/j.amjcard.2016.07.044
  3/12
 
- Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 4. Goltstein LCMJ, Rooijakkers MJP, Hoeks M, et al. Effectiveness of aortic valve replacement in
 Heyde syndrome: a meta-analysis. Eur Heart J 2023;44(33):3168-3177.
 doi:10.1093/eurheartj/ehad340
@@ -150,7 +131,7 @@ in volume later in systole (ie, crescendo phase becomes longer and decrescendo p
 shorter) as stenosis becomes more severe. As LV contractility decreases in critical AS, the murmur
  4/12
 
- Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 becomes softer and shorter. The intensity of the murmur may therefore be misleading in these
 circumstances.
 AUDIO
@@ -186,7 +167,7 @@ parameters (eg, moderate valve area but severe mean gradient). When LV function 
 velocity is preferred as it is significantly more reproducible than valve area (2). Quantification of aortic
  5/12
 
- Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 valve stenosis is least accurate when LV volume or systolic function is reduced, or when systemic
 hypertension is present.
 Aortic Stenosis
@@ -215,7 +196,7 @@ High gradient ≥ 4.0 m/second ≤ 1.0 cm ≥ 50% —
 (asymptomatic
  6/12
 
- Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Severe AS
 Vmax Valve area LV EF Other
 type
@@ -263,24 +244,13 @@ Chest radiograph findings may include calcification of the aortic cusps (seen on
 or on fluoroscopy) and evidence of heart failure. Heart size may be normal or only mildly enlarged.
  7/12
 
- Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 In asymptomatic patients with severe aortic stenosis, closely supervised exercise ECG testing is
 recommended in an attempt to elicit symptoms of angina, dyspnea, or hypotension—any of these
 symptoms, when due to the AS, is an indication for intervention. Failure to normally increase blood
 pressure and development of ST-segment depression are less predictive of adverse prognosis. Exercise
 testing is contraindicated in symptomatic patients.
 Phonocardiographic Characteristics of Heart Murmurs
-Diagnosis references
-1. Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of
-Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of
-Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation
-143(5):e35–e71, 2021. doi: 10.1161/CIR.0000000000000932
- 8/12
-
- Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
-2. Manna D, Eliasson M, Bech-Hanssen O, Lindow T. Reproducibility of Echocardiographic
-Measures of Aortic Stenosis Severity and its Impact on Grading of Severity. J Am Soc Echocardiogr
-37(3):370–372.e2, 2024. doi:10.1016/j.echo.2023.11.006
 Treatment of Aortic Stenosis
 Sometimes aortic valve replacement
 Nothing has been proved to slow the progression of aortic stenosis (1). Statins have been ineffective (2).
@@ -313,7 +283,7 @@ indicated regardless of symptoms if the AS is moderate or greater.
 Choice of intervention
  9/12
 
- Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Transcatheter balloon valvuloplasty is used primarily in children and very young adults with
 congenital AS.
 In older patients who are not candidates for surgery, balloon valvuloplasty has been used as a bridge
@@ -352,34 +322,11 @@ Preoperative evaluation for CAD is indicated so that coronary artery bypass graf
 replacement, if indicated, can be performed during the same procedure.
  10/12
 
- Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 An aortic bioprosthetic valve requires anticoagulation for 3 to 6 months postoperatively, but a
 mechanical valve requires lifetime anticoagulation using warfarin. Long-term non-vitamin K oral
 anticoagulants or warfarin can be considered in patients with a bioprosthetic valve and atrial fibrillation
 (see also Anticoagulation for patients with a prosthetic cardiac valve or native valve disease).
-Treatment references
-1. Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of
-Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of
-Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation
-143(5):e35–e71, 2021. doi: 10.1161/CIR.0000000000000932
-2. Thiago L, Tsuji SR, Nyong J, et al: Statins for aortic valve stenosis. Cochrane Database Syst Rev
-9(9):CD009571, 2016. doi:10.1002/14651858.CD009571.pub2
-3. Ali N, Hildick-Smith D, Parker J, et al: Long-term durability of self-expanding and balloon-
-expandable transcatheter aortic valve prostheses: UK TAVI registry. Catheter Cardiovasc Interv
-101(5):932–942, 2023. doi:10.1002/ccd.30627
-4. Blackman DJ, Saraf S, MacCarthy PA, et al: Long-Term Durability of Transcatheter Aortic Valve
-Prostheses. J Am Coll Cardiol 73(5):537–545, 2019. doi:10.1016/j.jacc.2018.10.078
-5. Carrabba N, Migliorini A, Fumagalli C, et al: Long-Term Durability of Transcatheter Aortic Valve
-Implantation With Self-Expandable Valve System (from a Real-World Registry). Am J Cardiol
-143:104–110, 2021. doi:10.1016/j.amjcard.2020.12.032
-6. Généreux P, Schwartz A, Oldemeyer JB, et al: Transcatheter Aortic-Valve Replacement for
-Asymptomatic Severe Aortic Stenosis. N Engl J Med 392(3):217–227, 2025.
-doi:10.1056/NEJMoa2405880
-7. Rajkumar CA, Nijjer SS, Cole GD, Al-Lamee R, Francis DP: 'Faith Healing' and 'Subtraction Anxiety'
-in Unblinded Trials of Procedures: Lessons from DEFER and FAME-2 for End Points in the ISCHEMIA
-Trial [published correction appears in Circ Cardiovasc Qual Outcomes. 2018 Apr;11(4):e000038.
-doi: 10.1161/HCQ.0000000000000038.. Title corrected]. Circ Cardiovasc Qual Outcomes
-11(3):e004665., 2018 doi:10.1161/CIRCOUTCOMES.118.004665
 Prognosis for Aortic Stenosis
 Aortic stenosis progresses faster as severity increases, but the wide variability in progression rates
 requires regular surveillance, particularly in sedentary older patients. In such patients, flow may become
@@ -392,18 +339,6 @@ surgery increases for patients who require simultaneous CABG and for those with 
 function.
 In patients with severe AS, approximately 13% of deaths occur suddenly (3), so patients with severe AS
 should be advised to limit physical exertion.
- 11/12
-
- Aortic Stenosis - Cardiovascular Disorders - Merck Manual Professional Edition
-Prognosis references
-1. Minamino-Muta E, Kato T, Morimoto T, et al. Decline in Left Ventricular Ejection Fraction During
-Follow-Up in Patients With Severe Aortic Stenosis. JACC Cardiovasc Interv 2019;12(24):2499-2511.
-doi:10.1016/j.jcin.2019.09.015
-2. Carabello BA. Introduction to aortic stenosis. Circ Res 2013;113(2):179-185.
-doi:10.1161/CIRCRESAHA.113.300156
-3. Minamino-Muta E, Kato T, Morimoto T, et al. Causes of Death in Patients with Severe Aortic
-Stenosis: An Observational study. Sci Rep 2017;7(1):14723. Published 2017 Nov 7.
-doi:10.1038/s41598-017-15316-6
 Key Points
 The most common cause of aortic stenosis (AS) is bicuspid aortic valve in patients < 70
 years and aortic sclerosis in older patients.
@@ -421,6 +356,3 @@ Valve replacement is indicated once symptoms begin or LV dysfunction occurs.
 Surgical or transcatheter aortic valve replacement are options for many patients, but
 long-term safety data are still accumulating for transcatheter aortic valve replacement
 (especially in low-risk patients).
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 12/12

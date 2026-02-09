@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Ectopic Supraventricular Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:40.681539",
-  "file_size_bytes": 837558,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Ectopic Supraventricular Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Ectopic Supraventricular Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Ectopic Supraventricular Arrhythmias
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Sept 2024
 Various rhythms result from supraventricular foci (usually in the atria).
 Diagnosis is by electrocardiography. Many are asymptomatic and require no
 treatment.
@@ -34,16 +15,11 @@ They may occur in normal hearts with or without precipitating factors (eg, caffe
 pseudoephedrine) or may be a sign of a cardiopulmonary disorder. They are common in patients with
 chronic obstructive pulmonary disease (COPD). They occasionally cause palpitations.
 Diagnosis is by electrocardiography (ECG—see figure Atrial Premature Beat).
- 1/6
-
- Ectopic Supraventricular Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Atrial Premature Beat (APB)
 In lead II, after the second beat of sinus origin, the T wave is deformed by an APB. Because the
 APB occurs relatively early during the sinus cycle, the sinus node pacemaker is reset, and a
 pause—less than fully compensatory—precedes the next sinus beat.
 Sinus Rhythm With Atrial Premature Beats (Arrows)
-IMAGE
-IMAGE COURTESY OF L. BRENT MITCHELL, MD.
 APBs may be normally, aberrantly, or not conducted and are usually followed by a noncompensatory
 pause (1). Aberrantly conducted APBs (usually with right bundle branch block morphology) must be
 distinguished from premature beats of ventricular origin.
@@ -58,7 +34,7 @@ ectopic or escape atrial rhythm). Heart rate is typically 40 to 60 beats/minute,
 typically different, and PR interval is slightly shorter than in sinus rhythm. Accelerated atrial rhythm (also
  2/6
 
- Ectopic Supraventricular Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 called a nonsinus atrial rhythm) may occur at a rate higher than the sinus rate due to either enhanced
 normal automaticity or abnormal automaticity. Accelerated atrial rhythm is distinguished from atrial
 tachycardia by being slower with an arbitrary rate cut-off (usually 100 or 120 beats/minute).
@@ -86,7 +62,7 @@ waves, precede QRS complexes but may be hidden within the preceding T wave (see 
 Tachycardia).
  3/6
 
- Ectopic Supraventricular Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Focal Atrial Tachycardia
 This narrow QRS tachycardia arises from an abnormal automatic focus or micro-reentry. P
 waves precede the QRS complexes; it is often a long RP interval tachycardia (PR < RP) but may
@@ -117,7 +93,7 @@ theophylline-intoxication, or a combination. Less commonly, it is caused by unde
 such as coronary artery disease, and electrolyte abnormalities such as hypokalemia. Treatment is
  4/6
 
- Ectopic Supraventricular Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 directed at the underlying disorder. When therapy directed at the arrhythmia is required, the most
 effective agents are IV magnesium, IV verapamil, and a beta-blocker (5). Treatment with digoxin, class I
 or III antiarrhythmic medications, or cardioversion is usually ineffective (5).
@@ -146,26 +122,3 @@ of JET. JET is rare in adults, and the rate is slower, in the range of 120 to 20
 Antiarrhythmic pharmacotherapy may be successful with amiodarone, flecainide, ivabradine,
 procainamide, propranolol, or verapamil (5). Transcatheter ablation is less successful than in other
 supraventricular tachycardias and has a higher risk of inadvertent creation of AV block.
-References
-1. Mond HG, Haqqani HM: The Electrocardiographic Footprints of Atrial Ectopy. Heart Lung Circ
-28(10):1463–1471, 2019. doi: 10.1016/j.hlc.2019.03.005
-2. Durmaz E, Ikitimur B, Kilickiran Avci B, et al: The clinical significance of premature atrial
-contractions: How frequent should they become predictive of new-onset atrial fibrillation. Ann
-Noninvasive Electrocardiol 25(3):e12718, 2020. doi:10.1111/anec.12718
-3. Huang BT, Huang FY, Peng Y, et al: Relation of premature atrial complexes with stroke and
-death: Systematic review and meta-analysis. Clin Cardiol 40(11):962–969, 2017.
-doi:10.1002/clc.22780
- 5/6
-
- Ectopic Supraventricular Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
-4. Porter MJ, Morton JB, Denman R, et al: Influence of age and gender on the mechanism of
-supraventricular tachycardia. Heart Rhythm 1(4):393–396, 2004. doi: 10.1016/j.hrthm.2004.05.007
-5. Brugada J, Katritsis DG, Arbelo E, et al: 2019 ESC Guidelines for the management of patients with
-supraventricular tachycardia. The Task Force for the management of patients with
-supraventricular tachycardia of the European Society of Cardiology (ESC). Eur Heart J 41(5):655–720,
-2020. doi: 10.1093/eurheartj/ehz467
-6. Alasti M, Mirzaee S, Machado C, et al: Junctional ectopic tachycardia (JET). J Arrhythm 36(5):837–
-844, 2020. doi: 10.1002/joa3.12410
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 6/6

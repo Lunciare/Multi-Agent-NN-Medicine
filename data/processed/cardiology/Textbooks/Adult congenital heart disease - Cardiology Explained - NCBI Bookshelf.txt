@@ -1,25 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Adult congenital heart disease - Cardiology Explained - NCBI Bookshelf.pdf",
-  "converted_date": "2026-01-31T14:44:15.849812",
-  "file_size_bytes": 334459,
-  "original_format": "pdf",
-  "document_type": "Textbooks",
-  "source_folder": "Textbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Textbooks/Adult congenital heart disease - Cardiology Explained - NCBI Bookshelf.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
 Adult congenital heart disease - Cardiology Explained - NCBI Bookshelf
-NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
-Ashley EA, Niebauer J. Cardiology Explained. London: Remedica; 2004.
-Chapter 14 Adult congenital heart disease
-Congenital abnormalities of the heart and cardiovascular system are reported in almost 1% of
-live births (see Figure 1) and about half of these children need medical or surgical help during
-infancy. In the first decade, a further 25% require surgery to maintain or improve their life. Only
-10% survive to adolescence without surgery. Of these 10%, however, many live a normal life for
-years before their abnormality is discovered.
 Figure 1
 The relative incidence of common congenital heart defects.
 ASD: atrial septal defect; PDA: patent ductus arteriosus;
@@ -51,8 +30,7 @@ Figure 3
 Atrial septal defect.
 Recognizing VSD
  1/6
-
- Adult congenital heart disease - Cardiology Explained - NCBI Bookshelf
+ 
 In VSD patients, the apex beat may be hyperdynamic and there could be a systolic thrill. The
 classic sign is a loud pansystolic murmur, often accompanied by a mid diastolic murmur at the
 apex (due to high flow through the mitral valve) (see Table 1). In patients with raised pulmonary
@@ -94,8 +72,7 @@ increased pulmonary blood flow and enlargement of the pulmonary arteries
 increase in size of the pulmonary veins
 reduced filling of the left ventricle (LV) and aorta
  2/6
-
- Adult congenital heart disease - Cardiology Explained - NCBI Bookshelf
+ 
 Over time, the aorta and LV shrink, and pulmonary vascular resistance increases and causes
 Eisenmenger syndrome (see below).
 Recognizing ASD
@@ -137,8 +114,7 @@ Bicuspid aortic valves often function normally throughout most of a patient's li
 fibrosis and calcification ultimately lead to aortic stenosis (see Chapter 9, Valve disease) and an
 eventual requirement for surgical correction.
  3/6
-
- Adult congenital heart disease - Cardiology Explained - NCBI Bookshelf
+ 
 Coarctation of the aorta
 Coarctation of the aorta is a narrowing of the lumen, usually just distal to the origin of the left
 subclavian artery (see Figure 7). Most commonly, the patient presents in their twenties or thirties,
@@ -181,9 +157,6 @@ Figure 9
 Fallot's tetralogy with an "over-riding aorta".
 perimembranous VSD
 RV outflow obstruction (pulmonary stenosis)
- 4/6
-
- Adult congenital heart disease - Cardiology Explained - NCBI Bookshelf
 RVH
 The chief symptom is cyanosis on exercise. Children typically "squat" for relief of dyspnea after
 exercise (almost pathognomonic). Chest pain, arrhythmia, and congestive heart failure are more
@@ -220,24 +193,3 @@ of blood and there is tricuspid regurgitation. Occasionally Ebstein's anomaly is
 but it generally presents in childhood or early adulthood with dyspnea, fatigue, signs of tricuspid
 regurgitation, and right-sided cardiac failure. Patients with Ebstein's anomaly require prophylaxis
 for endocarditis.
-Figure 12
-Ebstein's anomaly.
-Further reading
-1. Deanfield J, Thaulow E, Warnes C. et al. ; Task Force on the Management of Grown Up
-Congenital Heart Disease, European Society of Cardiology; ESC Committee for Practice
-Guidelines. Management of grown up congenital heart disease. Eur Heart J.
-2003;24:1035–84. [PubMed: 12868424]
- 5/6
-
- Adult congenital heart disease - Cardiology Explained - NCBI Bookshelf
-2. Dent JM. Congenital heart disease and exercise. Clin Sports Med. 2003;22:81–99.
-[PubMed: 12613088]
-3. Morris PJ, Wood WC, editors. Oxford Textbook of Surgery, 2nd edition. Oxford University
-Press, 2000.
-4. Report of the British Cardiac Society Working Party. Grown-up congenital heart (GUCH)
-disease: current needs and provision of service for adolescents and adults with congenital
-heart disease in the UK. Heart. 2002;88(Suppl. 1):i1–14. [PMC free article: PMC1876264]
-[PubMed: 12181200]
-Copyright © 2004, Remedica.
-Bookshelf ID: NBK2212
- 6/6

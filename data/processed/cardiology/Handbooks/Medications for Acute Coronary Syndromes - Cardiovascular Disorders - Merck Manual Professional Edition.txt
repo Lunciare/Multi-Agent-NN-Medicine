@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:27.536812",
-  "file_size_bytes": 465447,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Medications for Acute Coronary Syndromes
-By Ranya N. Sweis, MD, MS, Northwestern University Feinberg School of Medicine;
-Arif Jivan, MD, PhD, Northwestern University Feinberg School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2024 | Modified Apr 2025
 Treatment of acute coronary syndromes (ACS) is designed to relieve distress, interrupt thrombosis,
 reverse ischemia, limit infarct size, reduce cardiac workload, and prevent and treat complications. An
 ACS is a medical emergency; outcome is greatly influenced by rapid diagnosis and treatment. Treatment
@@ -47,9 +27,6 @@ Chest pain can be treated with nitroglycerin or sometimes morphine. Nitroglyceri
 morphine, which should be used judiciously (eg, if a patient has a contraindication to nitroglycerin or is
 in pain despite nitroglycerin therapy). Nitroglycerin is initially given sublingually, followed by continuous
 IV drip if needed. Morphine 2 to 4 mg IV, repeated every 15 minutes as needed, is highly effective but
- 1/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 can depress respiration, can reduce myocardial contractility, and is a potent venous vasodilator.
 Evidence also suggests that morphine interferes with some P2Y12 receptor inhibitors. A large
 retrospective trial showed that morphine may increase mortality in patients with acute myocardial
@@ -60,47 +37,6 @@ department; BP gradually falls over the next several hours. Continued hypertensi
 with antihypertensives, preferably IV nitroglycerin, to lower BP and reduce cardiac workload. Severe
 hypotension or other signs of shock are ominous and must be treated aggressively with IV fluids and
 sometimes vasopressors.
-TABLE
-Medications for Coronary Artery Disease*
-Medication Dosage Use
-Angiotensin-converting enzyme (ACE) inhibitors
-Benazepril
-All patients with CAD,
-Captopril
-especially those with large
-Enalapril
-infarctions, renal
-Fosinopril insufficiency, heart failure,
-hypertension, or diabetes
-Lisinopril
-Variable†
-Contraindications include
-Moexipril
-hypotension,
-Perindopril hyperkalemia, bilateral
-renal artery stenosis,
-Quinapril
-pregnancy, and known
-Ramipril
-allergy
-Trandolapril
-Angiotensin II receptor blockers (ARBs)
-Candesartan Variable† An effective alternative for
-patients who cannot
-Eprosartan
-tolerate ACE inhibitors (eg,
-Irbesartan because of cough);
-currently, not first-line
-Losartan
-treatment after MI
-Olmesartan
-Contraindications include
-Telmisartan
-hypotension,
-Valsartan hyperkalemia, bilateral
- 2/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 Medication Dosage Use
 renal artery stenosis,
 pregnancy, and known
@@ -148,9 +84,6 @@ Enoxaparin¶
 Patients < 75 years
 Tinzaparin
 receiving tenecteplase
- 3/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 Medication Dosage Use
 Almost all patients with
 STEMI as an alternative to
@@ -200,9 +133,6 @@ venous
 thromboembolism,
 hypercoagulable
 disorders, or LV thrombus)
- 4/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 Medication Dosage Use
 May be useful for primary
 prevention in patients with
@@ -252,9 +182,6 @@ for at least 12 months (for
 any type of stent)
 Prasugrel 60 mg orally once before Only for patients with ACS
 PCI, followed by 10 mg undergoing PCI
- 5/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 Medication Dosage Use
 orally once a day for 1–12
 Not used in combination
@@ -304,9 +231,6 @@ Variable† despite nitrates use or if
 release)
 nitrates are not tolerated
 Felodipine Variable†
- 6/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 Medication Dosage Use
 Nifedipine (extended-
 Variable†
@@ -353,8 +277,7 @@ persistent pulmonary
 congestion
 Nitrates: Long acting
  7/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Medication Dosage Use
 10–20 mg orally 3 times a
 Isosorbide dinitrate day; can be increased to
@@ -410,8 +333,7 @@ attenuation of P2Y12
 receptor inhibitor activity
 PCSK-9 inhibitors
  8/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Medication Dosage Use
 For patients not at target
 LDL-C levels, used alone or
@@ -462,8 +384,7 @@ patients with normal sinus
 rhythm who cannot take
 beta-blockers
  9/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Medication Dosage Use
 In combination with beta-
 blockers in patients
@@ -490,16 +411,6 @@ grafting; CAD = coronary artery disease; HMG = hydroxymethylglutaryl; INR = inte
 normalized ratio; LDL-C = low-density lipoprotein cholesterol; LV = left ventricular; MI =
 myocardial infarction; NSTEMI = non–ST-segment elevation MI; PCI = percutaneous
 intervention; STEMI = ST-segment elevation MI.
-References
-1. Meine TJ, Roe MT, Chen AY, et al: Association of intravenous morphine use and outcomes in
-acute coronary syndromes: results from the CRUSADE Quality Improvement Initiative. Am Heart J
-149(6):1043-1049, 2005. doi 10.1016/j.ahj.2005.02.010
-2. Kubica J, Adamski P, Ostrowska M, et al: Morphine delays and attenuates ticagrelor exposure
-and action in patients with myocardial infarction: the randomized, double-blind, placebo-
- 10/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
-controlled IMPRESSION trial. Eur Heart J 37(3):245–252, 2016. doi: 10.1093/eurheartj/ehv547
 Antiplatelet Agents
 Aspirin, clopidogrel, prasugrel, ticagrelor, ticlopidine, and glycoprotein (GP) IIb/IIIa inhibitors are
 examples of antiplatelet agents. All patients are given aspirin 160 to 325 mg (not enteric-coated), if not
@@ -530,13 +441,6 @@ orally once a day, prasugrel 10 mg orally once a day, or ticagrelor 90 mg orally
 used for at least 1 month in patients with a bare-metal stent. Patients with a drug-eluting stent after ACS
 have a prolonged risk of thrombosis and benefit from up to 12 months of clopidogrel (or prasugrel or
 ticagrelor) treatment.
-Antiplatelet agent reference
-1. Lawton JS, Tamis-Holland JE, Bangalore S, et al: 2021 ACC/AHA/SCAI guideline for coronary artery
-revascularization: a report of the ACC/AHA Joint Committee on Clinical Practice Guidelines. J Am
-Coll Cardiol 79(2):e21–e129, 2022. doi: 10.1016/j.jacc.2021.09.006
- 11/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
 Anticoagulant Agents
 Either a low molecular weight heparin (LMWH), unfractionated heparin, or bivalirudin is given routinely
 to patients with acute coronary syndrome unless contraindicated (eg, by active bleeding or planned use
@@ -574,8 +478,7 @@ fibrillation), because postprocedure ischemic events have decreased with the use
 antiplatelet agents. For patients not undergoing PCI, heparin is continued for 48 hours (or longer if
 symptoms persist).
  12/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Heparin alternatives
 The difficulties with the heparins (including bleeding complications, the possibility of heparin-induced
 thrombocytopenia, and, with unfractionated heparin, the need for dosing adjustments) have led to the
@@ -596,10 +499,6 @@ with oral anticoagulation, a P2Y12 inhibitor, and aspirin is continued up to 1 w
 intervention, and then patients are continued on oral anticoagulation and a P2Y12 inhibitor for 6
 months to 1 year. Calcium channel blockers and nitrates may also be given to reduce risk of coronary
 spasm.
-Anticoagulants reference
-1. Yusuf S, Mehta SR, Chrolavicius S, et al. Effects of fondaparinux on mortality and reinfarction in
-patients with acute ST-segment elevation myocardial infarction: the OASIS-6 randomized
-trial. JAMA 2006;295(13):1519-1530. doi:10.1001/jama.295.13.joc60038
 Beta-Blockers
 Beta-blockers are recommended unless contraindicated (eg, by bradycardia, heart block, hypotension,
 or asthma), especially for high-risk patients. Beta-blockers reduce heart rate, arterial pressure, and
@@ -610,12 +509,6 @@ prognosis by reducing infarct size, recurrence rate, incidence of ventricular fi
 Heart rate and BP must be carefully monitored during treatment with beta-blockers. Dosage is reduced
 if bradycardia or hypotension develops. Excessive adverse effects may be reversed by infusion of the
 beta-adrenergic agonist isoproterenol 1 to 5 mcg/minute.
-Beta-blocker reference
- 13/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
-1. Chen ZM, Pan HC, Chen YP, et al. Early intravenous then oral metoprolol in 45,852 patients with
-acute myocardial infarction: randomised placebo controlled trial. Lancet 366:1622–1632, 2005.
 Nitrates
 A short-acting nitrate, nitroglycerin, is used to reduce cardiac workload in selected patients.
 Nitroglycerin dilates veins, arteries, and arterioles, reducing left ventricular preload and afterload. As a
@@ -648,11 +541,7 @@ concomitant heparin use. For both, recanalization rate is lower than that with o
 activators. Because of the possibility of allergic reactions, patients who previously received
 streptokinase or anistreplase are not given that drug again.
 Alteplase is given in an accelerated or front-loaded dosage over 90 minutes. Alteplase with concomitant
-IV heparin improves patency, is nonallergenic, and has a higher recanalization rate than other
- 14/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
-fibrinolytics.
+IV heparin improves patency, is nonallergenic, and has a higher recanalization rate than other fibrinolytics.
 TABLE
 IV Fibrinolytic Therapies
 Circulating half- Concurrent Allergic
@@ -684,8 +573,7 @@ time)
 Previous ischemic stroke within 1 year
 Active internal bleeding (not menses)
  15/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Intracranial tumor
 Pericarditis
 Blood pressure > 180/110 mm Hg after
@@ -717,16 +605,3 @@ cholesterol levels. They are used alone or in combination with other lipid-lower
 ezetimibe) for the treatment of adults with primary hyperlipidemia (including familial
 hypercholesterolemia).
 In patients who have had an MI, icosapent ethyl is also used to reduce lipid levels (2).
-Other medications references
- 16/17
-
- Medications for Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
-1. Wang WT, Hellkamp A, Doll JA, et al. Lipid Testing and Statin Dosing After Acute Myocardial
-Infarction. J Am Heart Assoc 2018;7(3):e006460. Published 2018 Jan 25.
-doi:10.1161/JAHA.117.006460
-2. Gaba P, Bhatt DL, Steg PG, et al. Prevention of Cardiovascular Events and Mortality With
-Icosapent Ethyl in Patients With Prior Myocardial Infarction. J Am Coll Cardiol 2022;79(17):1660-
-1671. doi:10.1016/j.jacc.2022.02.035
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 17/17

@@ -1,22 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Action potential - wikidoc.pdf",
-  "converted_date": "2026-01-31T14:36:20.101736",
-  "file_size_bytes": 1196906,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Action potential - wikidoc.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Search WikiDoc
-Search Try Exact Match
 Action potential
-Editor-In-Chief: C. Michael Gibson, M.S.,
-M.D. [1] (mailto:charlesmichaelgibson@gmai
-l.com)
 A. A schematic view of an idealized action potential
 illustrates its various phases as the action potential
 passes a point on a cell membrane. B. Actual recordings
@@ -24,8 +6,6 @@ of action potentials are often distorted compared to the
 schematic view because of variations in
 electrophysiological techniques used to make the
 recording
-Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
- 1/14
 
 Action potentials are not the same in all cell types and can even vary in their properties at different
 locations in the same cell. For example, cardiac action potentials are significantly different from
@@ -56,7 +36,7 @@ whales, the distance traveled can be many meters. After traveling the whole leng
 action potential reaches a synapse, where it stimulates the release of neurotransmitters. These
 neurotransmitters can immediately induce an action potential in the next neuron to propagate the
 signal, but the response is usually more complex.
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  3/14
 
 Both the speed and complexity of action potentials vary between different types of cells, but their
@@ -93,7 +73,7 @@ Sodium and potassium ions diffuse through open ion channels under the influence 
 electrochemical gradients. At the resting potential, the net movement of sodium into the cell equals
 the net movement of potassium out of the cell. However, the resting cell membrane is
 approximately 75 times more permeable to potassium than to sodium because potassium leak
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  4/14
 
 channels are always open. As a result, the cell's resting membrane potential is closer to the
@@ -131,7 +111,7 @@ inactivation gates on the sodium channels have already started to close, reducin
 preventing further influx of sodium ions. While this occurs, the voltage-sensitive activation gates
 on the voltage-gated potassium channels begin to open.
 Repolarization ("Falling phase")
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  5/14
 
 As voltage-gated potassium channels open, there is a large outward movement of potassium ions
@@ -174,7 +154,7 @@ voltage-gated sodium channel and a non-voltage-gated potassium channel). The ori
 action potential threshold may be studied using I/V curves (right) that plot currents through ion
 channels against the cell's membrane potential. (Note that the illustrated I/V is an "instantaneous"
 current voltage relationship. It represents the peak current through channels at a given voltage
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  6/14
 
 before any inactivation has taken place (i.e. ~ 1 ms after stepping to that voltage) for the Na
@@ -250,7 +230,7 @@ axon without any individual ion moving very far. Once the adjacent patch of memb
 depolarized, the voltage-gated sodium channels in that patch open, regenerating the cycle. The
 process repeats itself down the length of the axon, with an action potential regenerated at each
 segment of membrane.
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  8/14
 
 Propagating action potentials can be modeled by
@@ -284,7 +264,7 @@ In myelinated axons, saltatory conduction is the process by which an action pote
 jump along the length of an axon, being regenerated only at uninsulated segments (the nodes of
 Ranvier). Saltatory conduction increases nerve conduction velocity without having to dramatically
 increase axon diameter.
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  9/14
 
 Saltatory conduction has played an important role in the evolution of larger and more complex
@@ -327,7 +307,7 @@ Refractory period
 Where membrane has undergone an action potential, a refractory period follows. Thus, although
 the passive transmission of action potentials across myelinated segments would suggest that action
 potentials propagate in either direction, most action potentials travel unidirectionally because the
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
 node behind the propagating action potential is refractory.
  10/14
 
@@ -371,7 +351,7 @@ Many plants also exhibit action potentials that travel via their phloem to coord
 main difference between plant and animal action potentials is that plants primarily use potassium
 and calcium currents while animals typically use currents of potassium and sodium.
 Alternative models
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  11/14
 
 The model of electrical signal propagation in neurons employing voltage-gated ion channels
@@ -395,88 +375,3 @@ See also
 • Time constant
 • Length constant
 • Bursting
-References
-General sources
-• Bear, M.F., B.W. Connors, and M.A. Paradiso. 2001. Neuroscience: Exploring the Brain.
-Baltimore: Lippincott. ISBN 0781739446
-• Kandel ER, Schwartz JH, Jessell TM. Principles of Neural Science, 4th ed. McGraw-Hill, New
-York (2000). ISBN 0-8385-7701-6
-• Dale Purves, et al. Neuroscience, 2nd ed. 2001. Sinauer Associates, Inc. Ion Channels
-Underlying Action Potentials. ISBN 0878937250 Release of Transmitters from Synaptic Vesicles
-(
-• Kent, M., Advanced Biology. 2000. United Kingdom: Oxford University Press.
-• Taylor, D.J., Green, N.P.O., & Stout, G.W. 2003. Biological Sciences, 3rd ed. United Kingdom :
-Cambridge University Press.
-Primary sources
-• Hodgkin AL, Huxley AF. Currents carried by sodium and potassium ions through the membrane
-of the giant axon of Loligo. J Physiol. 1952 Apr;116(4):449-72. PMID 14946713
-• Hodgkin AL, Huxley AF. The components of membrane conductance in the giant axon of
-Loligo. J Physiol. 1952 Apr;116(4):473-96. PMID 14946714
-• Hodgkin AL, Huxley AF. The dual effect of membrane potential on sodium conductance in the
-giant axon of Loligo. J Physiol. 1952 Apr;116(4):497 – 506. PMID 14946715
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 12/14
-
-• Hodgkin AL, Huxley AF. A quantitative description of membrane current and its application to
-conduction and excitation in nerve. J Physiol. 1952 Aug;117(4):500-44. PMID 12991237
-• Clay JR. Axonal excitability revisited. Prog Biophys Mol Biol. 2005 May;88(1):59 – 90. PMID
-15561301
-Specific citations
-External links
-• Template:McGrawHillAnimation
-• Electrochemistry of plant life ( May,
-2004 from Case Western Reserve University
-• Demonstration of ion flow during action potential (
-s/channel.html) at Blackwell Publishing
-• Action potential propagation in myelinated vs. unmyelinated axons (
-ing.com/matthews/actionp.html) at Blackwell Publishing
-• Open-source software to simulate neuronal and cardiac action potentials (
-ge.net/) at SourceForge
-• Nernst/Goldman Equation Simulator ( at
-University of Arizona
-• Electrophysiology and The Molecular Basis of Excitability ( at
-University of Chicago
-• Action Potential ( Len
-Kravitz, University of New Mexico
-• PSY 340 Brain and Behavior, 2.2a Neural Impulse (part 2) (
-y340/lectures/psy340.02.2a.neur.impulse.html) Vincent W. Hevern, Le Moyne College, Syracuse
-New York
-• Action Potentials (
-Dawn A. Tamarkin, Springfield Technical Community College, Springfield, Massechusets
-• Action Potential (
-1/Week_2/Action_Potential.jpg) Rachel McCready, Intensive Care Unit, London Health Services
-Centre
-• Propagation of an Action Potential (
-on_action_potential.html) National Health Museum Resource Center, Washington DC
-• Neurotransmission ( Steve Croker, University of
-Derby. Derby, England
-• Neurotransmitter and neuron diagrams (
-PSY255_pix.htm) Edward I. Pollack, West Chester University of Pennsylvania
-• Action Potential Conduction ( Encyclopædia
-Britannica
-• The Action Potential ( John
-Kinnamon, University of Denver
-• Excitable Cells (
-John Kimball, Tufts University (retired)
-• Resting and Action Membrane Potentials (
-tential.html) Teaching Resources Center, UC Davis. Animated tutorials
-• Action Potential ( Frank Werblin,
-UC Berkely. Animated and interactive tutorials
-• Action Potential Movement Through an Axon (
-gy/archive/images/1968_d.html) at learner.org
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 13/14
-
-Template:Link FA ar:لعفلا نومك de:Aktionspotential ko:활동전위 it:Potenziale d'azione he:יבצע ףחד
-ms:Potensi aksi nl:Actiepotentiaal simple:Nerve impulse sl:Akcijski potencial
-fi:Toimintapotentiaali sv:Aktionspotential
-Template:Jb1
-Template:WikiDoc Sources
-Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
-Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
-Physical Examination | Lab Tests | Drugs
-Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
-There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
-Licensing | Disclaimers | Avoid Plagiarism | Policies
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 14/14

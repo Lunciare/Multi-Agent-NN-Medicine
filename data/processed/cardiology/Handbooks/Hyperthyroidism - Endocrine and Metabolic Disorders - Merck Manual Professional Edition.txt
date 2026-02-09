@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:54.937212",
-  "file_size_bytes": 663371,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Hyperthyroidism
-(Thyrotoxicosis, including Graves Disease)
-By Laura Boucai, MD, Weill Cornell Medical College
-Reviewed By Glenn D. Braunstein, MD, Cedars-Sinai Medical Center
-Reviewed/Revised Feb 2024 | Modified May 2025
 Hyperthyroidism is characterized by hypermetabolism and elevated serum
 levels of free thyroid hormones. Symptoms include palpitations, fatigue, weight
 loss, heat intolerance, anxiety, and tremor. Diagnosis is clinical and with thyroid
@@ -28,9 +8,6 @@ Hyperthyroidism affects about 1% of people in the United States. It can occur at
 common in females between the ages of 20 and 50 years (1).
 Hyperthyroidism can be classified on the basis of thyroid radioactive iodine uptake and the level of
 circulating thyroid hormones (see table Results of Thyroid Function Tests in Various Clinical Situations).
-General reference
-1. Lee SY, Pearce EN. Hyperthyroidism: A Review. JAMA 2023;330(15):1472-1483.
-doi:10.1001/jama.2023.19052
 Etiology of Hyperthyroidism
 Hyperthyroidism may result from increased synthesis and secretion of thyroid hormones (thyroxine [T4]
 and triiodothyronine [T3]) from the thyroid, caused by thyroid-stimulating immunoglobulin (TSI) or by
@@ -42,8 +19,7 @@ Graves disease
 Multinodular goiter
 Single, autonomous, hyperfunctioning "hot" nodule
  1/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 Thyroiditis
 Graves disease (toxic diffuse goiter), the most common cause of hyperthyroidism, is characterized by
 hyperthyroidism and one or more of the following:
@@ -84,8 +60,7 @@ induce thyroiditis with hyperthyroidism and other thyroid disorders. Although mo
 hypothyroidism, lithium can rarely cause hyperthyroidism. Patients receiving these medications should
 be closely monitored.
  2/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 Thyrotoxicosis factitia is hyperthyroidism resulting from intentional or accidental overingestion of
 thyroid hormone.
 Excess iodine ingestion causes hyperthyroidism with a low thyroid radioactive iodine uptake. It most
@@ -120,8 +95,7 @@ elevated T4 and increased iodine-123 uptake). The various forms of thyroiditis c
 hyperthyroid phase followed by a hypothyroid phase.
 Symptoms and Signs of Hyperthyroidism
  3/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 Most symptoms and signs are the same regardless of the cause. Exceptions include infiltrative
 ophthalmopathy and infiltrative dermopathy, which occur only in Graves disease.
 Pearls & Pitfalls
@@ -134,8 +108,6 @@ increased appetite, weight loss, insomnia, weakness, and frequent bowel movement
 diarrhea). Hypomenorrhea may be present.
 Signs may include warm, moist skin, tremor, tachycardia, widened pulse pressure, and atrial fibrillation.
 Graves Disease (Enlarged Thyroid Gland)
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
 Older patients, particularly those with toxic nodular goiter, may present atypically (apathetic or masked
 hyperthyroidism) with symptoms more akin to depression or dementia. Most do not have
 exophthalmos or tremor. Atrial fibrillation, syncope, altered sensorium, heart failure, and weakness are
@@ -145,8 +117,7 @@ Eye signs of hyperthyroidism include stare, eyelid lag, eyelid retraction, and m
 and are largely due to excessive adrenergic stimulation. They usually remit with successful treatment to
 normalize thyroid hormone levels.
  4/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 Infiltrative ophthalmopathy, also called thyroid eye disease, is a more serious development and is
 specific to Graves disease. It can occur years before or after hyperthyroidism. It is characterized by
 orbital pain, lacrimation, irritation, photophobia, increased retro-orbital tissue, exophthalmos, and
@@ -160,10 +131,6 @@ By permission of the publisher. From Mulligan M, Cousins M. In Atlas of Anesthes
 and Intraoperative Monitoring. Edited by R Miller (series editor) and JL Lichtor. Philadelphia, Current
 Medicine, 1998.
 Eye Manifestations of Graves Disease—Exophthalmos
-© Springer Science+Business Media
- 5/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
 Close-up View of Exophthalmos
 © Springer Science+Business Media
 Eye Manifestations of Graves Disease—Inability to Close the Eyes
@@ -177,8 +144,7 @@ in the pretibial area. It rarely occurs in the absence of Graves ophthalmopathy.
 pruritic and erythematous in its early stages and subsequently becomes brawny. Infiltrative dermopathy
 may appear years before or after hyperthyroidism.
  6/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 Manifestations of Pretibial Myxedema
 Pretibial Myxedema
 This photo shows a patient with pretibial myxedema characterized by non-pitting edema, thickened scaly
@@ -188,8 +154,7 @@ Pretibial Myxedema (Mild)
 © Springer Science+Business Media
 Pretibial Myxedema in a Patient With Graves Disease
  7/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 By permission of the publisher. From Burman K, Becker K, Cytryn A, et al. In Atlas of Clinical Endocrinology:
 Thyroid Diseases . Edited by SG Korenman (series editor) and MI Surks. Philadelphia, Current Medicine,
 1999.
@@ -227,8 +192,7 @@ risk of neonatal Graves disease; TSH receptor antibodies readily cross the place
 thyroid. Most patients with Graves disease have circulating antithyroid peroxidase antibodies, and fewer
 have antithyroglobulin antibodies.
  8/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 Inappropriate TSH secretion is uncommon. The diagnosis is confirmed when hyperthyroidism occurs
 with elevated circulating free T4 and T3 concentrations and normal or elevated serum TSH.
 If thyrotoxicosis factitia is suspected, serum thyroglobulin can be measured; it is usually low or low-
@@ -264,8 +228,7 @@ become hypothyroid and require thyroid hormone replacement. However, if smaller 
 incidence of recurrence is higher. Larger doses, such as 10 to 20 millicurie, often cause hypothyroidism
 within 6 months.
  9/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 Radioactive iodine is not used during lactation because it can enter breast milk and cause
 hypothyroidism in the infant. It is not used during pregnancy because it crosses the placenta and can
 cause severe fetal hypothyroidism. There is no proof that radioiodine increases the incidence of tumors,
@@ -303,8 +266,7 @@ one medication can be switched to the other, but cross-sensitivity may occur. If
 the patient cannot be switched to the other medication; other therapy (eg, radioiodine, surgery) should
 be used.
  10/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 Pearls & Pitfalls
 If agranulocytosis occurs with one of the antithyroid peroxidase medications
 (methimazole or propylthiouracil), avoid using another medication in the same class; use
@@ -339,8 +301,7 @@ Exophthalmos
 Weight loss
 Bruit
  11/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 Increased oxygen consumption
 Increased circulating thyroxine levels
 Propranolol is indicated in thyroid storm (see table Treatment of Thyroid Storm). It rapidly decreases
@@ -378,8 +339,7 @@ A treatment regimen for thyroid storm is shown in the table Treatment of Thyroid
 precipitating cause should also be addressed.
 TABLE
  12/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 Treatment of Thyroid Storm
 Propylthiouracil: 600 mg orally given before iodine, then 200–400 mg every 6–8
 hours
@@ -412,8 +372,7 @@ lesions may decrease the dermopathy. Dermopathy sometimes remits spontaneously a
 years.
 Treatment of infiltrative ophthalmopathy
  13/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 Ophthalmopathy should be treated jointly by the endocrinologist and ophthalmologist and may require
 selenium, corticosteroids, orbital radiation, and surgery. Surgical thyroidectomy may help resolve or
 prevent progression of ophthalmopathy. Teprotumumab, an insulin-like growth factor 1 (IGF-1) receptor
@@ -427,15 +386,6 @@ patients with thyroid cancer.
 Therapy is indicated for patients with endogenous subclinical hyperthyroidism (serum TSH < 0.1 mIU/L [
 < 0.1 microIU/mL ]), especially those with atrial fibrillation or reduced bone mineral density. The usual
 treatment is iodine-131, but low doses of methimazole are also effective.
-Treatment references
-1. Ross DS, Burch HB, Cooper DS, et al: 2016 American Thyroid Association Guidelines for
-Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis. Thyroid
-26(10):1343–1421, 2016. doi: 10.1089/thy.2016.0229
-2. Shim SR, Kitahara CM, Cha ES, Kim SJ, Bang YJ, Lee WJ: Cancer Risk After Radioactive Iodine
-Treatment for Hyperthyroidism: A Systematic Review and Meta-analysis. JAMA Netw Open
-4(9):e2125072, 2021. doi:10.1001/jamanetworkopen.2021.25072
-3. Douglas RS, Kahaly GJ, Patel A, et al: Teprotumumab for the treatment of active thyroid eye
-disease. N Engl J Med 382(4):341–352. 2020. doi: 10.1056/NEJMoa1910434
 Key Points
 The most common etiology of hyperthyroidism is Graves disease, caused by
 autoimmune-stimulated excessive hormone synthesis by the thyroid gland.
@@ -451,14 +401,10 @@ suppressed (except in rarer cases of pituitary causes of hyperthyroidism).
 Hormone synthesis can be suppressed with methimazole (or in certain cases,
 propylthiouracil) and adrenergic symptoms relieved with beta-blockers; long-term
  14/15
-
- Hyperthyroidism - Endocrine and Metabolic Disorders - Merck Manual Professional Edition
+ 
 treatment may require thyroid ablation with radioactive iodine or surgery.
 Thyroid storm—resulting from untreated or inadequately treated severe
 hyperthyroidism—is a life-threatening emergency that presents with severe symptoms
 of hyperthyroidism and may result in cardiovascular collapse or shock; it is treated with
 a regimen of antithyroid medications, iodine, beta-blockers, corticosteroids, and
 hemodynamic support.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 15/15

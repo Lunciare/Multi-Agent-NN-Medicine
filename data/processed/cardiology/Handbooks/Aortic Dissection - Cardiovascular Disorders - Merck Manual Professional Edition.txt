@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:41.086571",
-  "file_size_bytes": 1149549,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Aortic Dissection
-By Mark A. Farber, MD, FACS, University of North Carolina;
-Federico E. Parodi, MD, University of North Carolina School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Dec 2024
 Aortic dissection is the surging of blood through a tear in the aortic intima with
 separation of the intima and media and creation of a false lumen (channel). The
 intimal tear may be a primary event or secondary to hemorrhage within the
@@ -40,7 +20,7 @@ dissection (1, 2). Peak incidence occurs at age 50 to 65 years in the general po
 syndrome).
  1/12
 
- Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Aortic Dissection
 3D MODEL
 Classification of aortic dissection
@@ -61,7 +41,7 @@ Type B: These dissections are confined to the descending thoracic aorta (distal 
 subclavian artery).
  2/12
 
- Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Thoracic Aortic Dissection (Stanford Type B)
 IMAGE
 © 2017 ELLIOT K. FISHMAN, MD.
@@ -72,23 +52,12 @@ Proximal segment of the descending aorta (just beyond the origin of the left sub
 artery)
 Rarely, dissection is confined to individual arteries (eg, coronary or carotid arteries), typically in pregnant
 or postpartum women.
-General references
-1. Huynh N, Thordsen S, Thomas T, et al. Clinical and pathologic findings of aortic dissection at
-autopsy: Review of 336 cases over nearly 6 decades. Am Heart J 2019;209:108-115.
-doi:10.1016/j.ahj.2018.11.006
-2. Janus SE, Chami T, Mously H, et al. Proportionate and Absolute Vascular Disease Mortality by
-Race and Sex in the United States From 1999 to 2019. J Am Heart Assoc 2022;11(15):e025276.
-doi:10.1161/JAHA.121.025276
-3. Isselbacher EM, Preventza O, Hamilton Black J 3rd, et al. 2022 ACC/AHA Guideline for the
-Diagnosis and Management of Aortic Disease: A Report of the American Heart
-Association/American College of Cardiology Joint Committee on Clinical Practice
-Guidelines. Circulation 2022;146(24):e334-e482. doi:10.1161/CIR.0000000000001106
 Etiology of Aortic Dissection
 Aortic dissections often occur in patients with preexisting degeneration of the aortic media. Causes and
 risk factors include connective tissue disorders, atherosclerotic disease, systemic rheumatic diseases,
  3/12
 
- Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 and injury (see table Conditions Contributing to Aortic Dissection).
 TABLE
 Conditions Contributing to Aortic Dissection
@@ -124,7 +93,7 @@ The pathophysiologic sequence of aortic dissections involves
 Aortic wall inflammation
  4/12
 
- Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Apoptosis of vascular smooth muscle cells
 Degeneration of aortic media
 Elastin disruption
@@ -149,7 +118,7 @@ Intimal tear and bulge without a hematoma or false lumen
 Dissection or hematoma caused by ulceration of atherosclerotic plaque
  5/12
 
- Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Overview of Aortic Dissection
 Hide Details
 Aortic Dissection ( by Osmosis ( is
@@ -176,7 +145,7 @@ effusion.
 Occlusion of a limb artery may cause signs of peripheral ischemia or neuropathy.
  6/12
 
- Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Renal artery occlusion may cause oliguria or anuria.
 Pearls & Pitfalls
 Approximately 20 to 30% of patients with aortic dissection have pulse deficits.
@@ -197,14 +166,6 @@ myocardial infarction, and a previously undocumented murmur of aortic regurgitat
 particular concern for a type I aortic dissection into the right coronary artery (causing inferior
 myocardial infarction), and the aortic valve (causing AR).
  7/12
-
- Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
-Aortic Dissection
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
-Abdominal Aortic Dissection
-IMAGE
-© 2017 ELLIOT K. FISHMAN, MD.
 If the chest radiograph suggests dissection, TEE, CTA, or MRA is done immediately after the patient is
 stabilized. Findings of an intimal flap and double lumina confirm dissection.
 Multiplanar TEE is 97 to 99% sensitive and, with M-mode echocardiography, is nearly 100% specific. It
@@ -213,7 +174,7 @@ typically the first-line imaging modality because it is often available more rap
 CTA sensitivity has been reported in the range of 90 to 100%, and specificity of CTA is 87 to 100% (1).
  8/12
 
- Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 MRA has nearly 100% sensitivity and specificity for aortic dissection. But it is time-consuming and ill-
 suited for emergencies. MRA is best used when dissection is suspected in patients who are stable and
 have subacute or chronic chest pain.
@@ -248,7 +209,7 @@ Medications to decrease arterial pressure, arterial shear stress, ventricular co
 started immediately to maintain systolic blood pressure at ≤ 120 mm Hg (or the lowest level compatible
  9/12
 
- Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 with adequate cerebral, coronary, and renal perfusion) and to maintain a target heart rate of 60 to 80
 beats per minute.
 A beta-blocker is usually the first-line medication for heart rate and blood pressure control. Options
@@ -285,7 +246,7 @@ rates are approximately 20% (1). Predictors of poor outcome include
 Hypotension
  10/12
 
- Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Renal failure
 Age > 70 years
 Abrupt onset of chest pain
@@ -323,7 +284,7 @@ About 20% of patients with aortic dissection die before reaching the hospital. W
 mortality rate is approximately 1 to 2% per hour after symptom onset. Without surgery, mortality is >
  11/12
 
- Aortic Dissection - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 50% at 1 month (1).
 Hospital mortality rate for treated patients is about 20% for type A dissection and 10% for type B
 dissection (2). One of the largest international registry databases reported survival rates of > 90 percent
@@ -352,6 +313,3 @@ Immediately give beta-blockers and other medications as needed to control blood
 pressure and heart rate.
 Medical therapy alone is appropriate for uncomplicated, stable dissection confined to
 the descending aorta; other cases require surgery.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 12/12

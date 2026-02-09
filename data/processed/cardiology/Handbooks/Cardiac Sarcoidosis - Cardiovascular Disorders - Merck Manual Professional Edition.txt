@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Cardiac Sarcoidosis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:44.979867",
-  "file_size_bytes": 221477,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Cardiac Sarcoidosis - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Cardiac Sarcoidosis - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Cardiac Sarcoidosis
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2024 | Modified Oct 2025
 Sarcoidosis is a multisystem, chronic inflammatory/granulomatous disorder
 that often affects the heart, causing conduction disturbances,
 bradyarrhythmias, tachyarrhythmias, and sometimes cardiomyopathy.
@@ -46,18 +27,12 @@ left or right bundle branch block. Involvement of the sinus node artery may prod
 bradyarrhythmias of sinus node dysfunction.
  1/6
 
- Cardiac Sarcoidosis - Cardiovascular Disorders - Merck Manual Professional Edition
+   
 Myocardial involvement may produce tachyarrhythmias, predominantly ventricular tachycardia (VT), but
 atrial tachycardias, atrial flutter, and atrial fibrillation may also occur.
 Infiltration of the myocardium may cause an isolated left ventricular, an isolated right ventricular, a
 biventricular, dilated or restrictive cardiomyopathy. Pericardial involvement may cause pericardial
 effusion or contribute to restrictive physiology. Multifactorial pulmonary hypertension is also common.
-General references
-1. Birnie D, Ha AC, Gula LJ, et al: Cardiac Sarcoidosis. Clin Chest Med 2015;36(4):657-668.
-doi:10.1016/j.ccm.2015.08.008
-2. Duvall C, Pavlovic N, Rosen NS, et al: Sex and Race Differences in Cardiac Sarcoidosis
-Presentation, Treatment and Outcomes. J Card Fail 29(8):1135–1145, 2023.
-doi:10.1016/j.cardfail.2023.03.022
 Symptoms and Signs of Cardiac Sarcoidosis
 Most patients with cardiac sarcoidosis are asymptomatic, but the associated bradyarrhythmias and
 tachyarrhythmias may cause palpitations, syncope, and sometimes cardiac arrest or sudden death.
@@ -81,7 +56,7 @@ rhythm or conduction disturbance. An FDG-PET scan provides additional informatio
 inflammation and is usually also done.
  2/6
 
- Cardiac Sarcoidosis - Cardiovascular Disorders - Merck Manual Professional Edition
+   
 In patients not yet diagnosed with systemic sarcoidosis, diagnosis of isolated cardiac sarcoidosis is
 frequently difficult. Cardiac sarcoidosis should be suspected in young patients with heart block,
 ventricular tachyarrhythmias, and/or heart failure who have no obvious cause. All such patients should
@@ -109,22 +84,7 @@ process is patchy and pathological tissue may not be sampled. However, sensitivi
 improved if it is guided by advanced cardiac imaging techniques or by targeting areas of low voltage.
 Similar, but not identical, criteria for the diagnosis of cardiac sarcoidosis have been published by the
 World Association of Sarcoidosis and Other Granulomatous Disorders (WASOG) (3) and the Japanese
-Circulation Society (JCS) (4).
-Diagnosis references
-1. Kandolin R, Lehtonen J, Airaksinen J, et al: Cardiac sarcoidosis: epidemiology, characteristics,
-and outcome over 25 years in a nationwide study. Circulation 131(7):624–632, 2015. doi:
-10.1161/CIRCULATIONAHA.114.011522
-2. Birnie DH, Sauer WH, Gogun F, et al: HRS Expert Consensus Statement on the Diagnosis and
-Management of Arrhythmias Associated with Cardiac Sarcoidosis. Heart Rhythm 11:1304–1323,
-2014. doi: 10.1016/j.hrthm.2014.03.043
-3. Judson MA, Costabel U, Drent M, et al: The WASOG sarcoidosis organ assessment instrument:
-An update of a previous clinical tool. Sarcoidosis Vasc Diffuse Lung Dis 31:19‒27, 2014.
- 3/6
-
- Cardiac Sarcoidosis - Cardiovascular Disorders - Merck Manual Professional Edition
-4. Terasaki F, Azuma A, Anzai T, et al: JCS 2016 guideline on diagnosis and treatment of cardiac
-sarcoidosis‒digest version. Circ J 83:2329‒2388, 2019. doi 10.1253/circj.CJ-19-0508
-Treatment of Cardiac Sarcoidosis
+Circulation Society (JCS)
 Corticosteroids
 Sometimes other immunosuppressive medications
 Sometimes permanent pacemaker and/or implantable cardioverter-defibrillator (ICD)
@@ -160,7 +120,7 @@ recommended (class IIa recommendations) for patients with significant LGE despit
 5).
  4/6
 
- Cardiac Sarcoidosis - Cardiovascular Disorders - Merck Manual Professional Edition
+   
 Antiarrhythmic medications such as amiodarone and sotalol may be given as necessary to control
 frequently recurrent ventricular tachycardias and/or other tachyarrhythmias. If medications (and
 adequate anti-inflammatory therapy) do not control VT, electrophysiologic studies may be done to
@@ -173,22 +133,6 @@ including angiotensin receptor/neprilysin inhibitors and sodium-glucose cotransp
 been less well studied in patients with cardiac sarcoidosis. The frequent coexistence of left bundle
 branch block in patients with sarcoidosis-related dilated cardiomyopathy makes cardiac
 resynchronization therapy attractive. Heart transplantation may be considered.
-Treatment references
-1. Ribeiro Neto ML, Jellis CL, Cremer PC, et al: Cardiac Sarcoidosis. Clin Chest Med 45(1):105–118,
-2024. doi: 10.1016/j.ccm.2023.08.006.
-2. Birnie DH, Sauer WH, Gogun F, et al: HRS Expert Consensus Statement on the Diagnosis and
-Management of Arrhythmias Associated with Cardiac Sarcoidosis. Heart Rhythm 11:1304–1323,
-2014. doi: 10.1016/j.hrthm.2014.03.043
-3. Terasaki F, Azuma A, Anzai T, et al: JCS 2016 guideline on diagnosis and treatment of cardiac
-sarcoidosis‒digest version. Circ J 83:2329‒2388, 2019. doi 10.1253/circj.CJ-19-0508
-4. Al-Khatib SM, Stevenson WG, Ackerman MJ, et al: 2017 AHA/ACC/HRS Guideline for Management
-of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death: A Report of
-the American College of Cardiology/American Heart Association Task Force on Clinical Practice
-Guidelines and the Heart Rhythm Society. Circulation 138(13):e272–e391, 2018. doi:
-10.1161/CIR.0000000000000549
-5. Zeppenfeld K, Tfelt-Hansen J, De Riva M, et al: 2022 ESC Guidelines for the management of
-patients with ventricular arrhythmias and the prevention of sudden cardiac death. Eur Heart J
-43(40):3997–4126, 2022. doi.org/10.1093/eurheartj/ehac262
 Key Points
 About 25% of patients with systemic sarcoidosis have cardiac involvement, but only about
 5% have cardiac symptoms.
@@ -200,16 +144,6 @@ Cardiac manifestations often require a pacemaker/implantable cardioverter-defibr
 (ICD) and sometimes antiarrhythmic medications.
  5/6
 
- Cardiac Sarcoidosis - Cardiovascular Disorders - Merck Manual Professional Edition
+   
 Sarcoidosis itself is treated with corticosteroids and sometimes other
 immunosuppressants.
-More Information
-The following English-language resource may be useful. Please note that THE MANUAL is not
-responsible for the content of this resource.
-Malhi JK, Ibecheozor C, Chrispin J, et al: Diagnostic and management strategies in cardiac
-sarcoidosis. Int J Cardiol 403:131853, 2024. doi: 10.1016/j.ijcard.2024.131853
-Ribeiro Neto ML, Jellis CL, Cremer PC, et al: Cardiac Sarcoidosis. Clin Chest Med 45(1):105–118, 2024.
-doi: 10.1016/j.ccm.2023.08.006.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 6/6

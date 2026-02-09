@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Mitral Valve Prolapse (MVP) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:45.409939",
-  "file_size_bytes": 515417,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Mitral Valve Prolapse (MVP) - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Mitral Valve Prolapse (MVP) - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Mitral Valve Prolapse (MVP)
-By Guy P. Armstrong, MD, Waitemata District Health Board and Waitemata Cardiology, Auckland
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2025
 Mitral valve prolapse (MVP) is a billowing of mitral valve leaflets into the left
 atrium during systole. The most common cause is idiopathic myxomatous
 degeneration. MVP is usually benign, but complications include mitral
@@ -33,18 +14,12 @@ treatment is necessary unless significant mitral regurgitation is present.
 Mitral valve prolapse is common; prevalence is 2.4% in otherwise normal populations, depending on the
 echocardiographic criteria used (1). Females and males are affected equally; onset usually follows the
 adolescent growth spurt.
-Reference
-1. Freed LA, Levy D, Levine RA, et al. Prevalence and clinical outcome of mitral-valve prolapse. N
-Engl J Med 1999;341(1):1-7. doi:10.1056/NEJM199907013410101
 Etiology of Mitral Valve Prolapse
 Mitral valve prolapse is most often caused by:
 Myxomatous degeneration of the mitral valve leaflets and chordae tendineae
 In myxomatous degeneration, the fibrous collagen layer of the valve thins and mucoid (myxomatous)
 material accumulates. The chordae become longer and thinner and the valve leaflets enlarge and
 become rubbery. These changes result in floppy valve leaflets that can balloon back (prolapse) into the
- 1/6
-
- Mitral Valve Prolapse (MVP) - Cardiovascular Disorders - Merck Manual Professional Edition
 left atrium when the left ventricle contracts. Rupture of a degenerate chorda can allow part of the valve
 leaflet to flail into the atrium, which typically causes severe regurgitation.
 Degeneration is usually idiopathic, although it may be inherited in an autosomal dominant or, rarely, in
@@ -75,15 +50,6 @@ ectopic burden occurs in < 10% of cases and is associated with sudden cardiac de
 associated with severe arrhythmias include severe myxomatous change of the valve leaflets, severe
 mitral regurgitation, myocardial fibrosis, and MAD (2). MAD is repaired surgically, not by transcatheter
 edge-to-edge repair (TEER).
-Etiology references
-1. Essayagh B, Sabbag A, Antoine C, et al. Presentation and Outcome of Arrhythmic Mitral Valve
-Prolapse. J Am Coll Cardiol 2020;76(6):637-649. doi:10.1016/j.jacc.2020.06.029
-2. Essayagh B, Sabbag A, El-Am E, Cavalcante JL, Michelena HI, Enriquez-Sarano M. Arrhythmic
-mitral valve prolapse and mitral annular disjunction: pathophysiology, risk stratification, and
-management. Eur Heart J 2023;44(33):3121-3135. doi:10.1093/eurheartj/ehad491
- 2/6
-
- Mitral Valve Prolapse (MVP) - Cardiovascular Disorders - Merck Manual Professional Edition
 Symptoms and Signs of Mitral Valve Prolapse
 Most patients with mitral valve prolapse are asymptomatic. Some experience nonspecific symptoms (eg,
 chest pain, dyspnea, palpitations, dizziness, near syncope, migraines, anxiety) thought to be due to
@@ -116,24 +82,7 @@ changes. Other findings include a systolic honk or whoop, thought to be caused b
 vibration; these findings are usually transient and may vary with respiratory phase. An early diastolic
 opening snap caused by return of the prolapsed valve to its normal position is rarely heard. In some
 patients, especially children, the findings of MVP may be more noticeable after exertion.
-AUDIO
-Mitral Valve Prolapse (With Late-Systolic Click)
- 3/6
-
- Mitral Valve Prolapse (MVP) - Cardiovascular Disorders - Merck Manual Professional Edition
-AUDIO
-Mitral Valve Prolapse
-Symptoms and signs references
-1. Han HC, Ha FJ, Teh AW, et al. Mitral Valve Prolapse and Sudden Cardiac Death: A Systematic
-Review. J Am Heart Assoc 2018;7(23):e010584. doi:10.1161/JAHA.118.010584
-2. Nalliah CJ, Mahajan R, Elliott AD, et al. Mitral valve prolapse and sudden cardiac death: a
-systematic review and meta-analysis. Heart 2019;105(2):144-151. doi:10.1136/heartjnl-2017-
-312932
 Diagnosis of Mitral Valve Prolapse
-Echocardiography
-Mitral Valve Prolapse (Echocardiogram)
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
 Diagnosis of mitral valve prolapse is suggested clinically and confirmed by echocardiography. Thickened
 (≥ 5 mm), redundant mitral valve leaflets are thought to indicate more extensive myxomatous
 degeneration and greater risk of endocarditis and mitral regurgitation.
@@ -142,9 +91,6 @@ posterolateral annulus in the transthoracic parasternal long axis view reveals s
 annulus and ventricular myocardium by a few millimeters up to a centimeter.
 Mitral annular disjunction is associated with increased risk of sudden death from arrhythmia, and
 ambulatory cardiac rhythm monitoring is recommended.
- 4/6
-
- Mitral Valve Prolapse (MVP) - Cardiovascular Disorders - Merck Manual Professional Edition
 Treatment of Mitral Valve Prolapse
 Usually none
 Sometimes beta-blockers
@@ -164,22 +110,6 @@ anatomic factors of the mitral valve itself (1, 2). The incidence of cardiac eve
 cardioembolic event) in patients with significant MR due to mitral valve prolapse may be as high as 4%
 annually (3). The prevalence of mitral valve prolapse is also higher in patients experiencing sudden
 cardiac death than in the general population, suggesting an association (4).
-Prognosis references
-1. Delling FN, Rong J, Larson MG, et al. Evolution of Mitral Valve Prolapse: Insights From the
-Framingham Heart Study. Circulation 2016;133(17):1688-1695.
-doi:10.1161/CIRCULATIONAHA.115.020621
-2. Ma JI, Igata S, Strachan M, et al. Predictive Factors for Progression of Mitral Regurgitation in
-Asymptomatic Patients With Mitral Valve Prolapse. Am J Cardiol 2019;123(8):1309-1313.
-doi:10.1016/j.amjcard.2019.01.026
-3. Mecarocci V, Mori F. P210Long- term outcome of primary mitral valve prolapse: results from a
-population of 250 patients referred to a tertiary cardiovascular center. Eur Heart J Cardiovasc
-Imaging 2016;17(suppl_2):ii29-ii37. doi:10.1093/ehjci/jew236.001
-4. Nalliah CJ, Mahajan R, Elliott AD, et al. Mitral valve prolapse and sudden cardiac death: a
-systematic review and meta-analysis. Heart 2019;105(2):144-151. doi:10.1136/heartjnl-2017-
-312932
- 5/6
-
- Mitral Valve Prolapse (MVP) - Cardiovascular Disorders - Merck Manual Professional Edition
 Key Points
 Mitral valve prolapse is most often caused by idiopathic myxomatous degeneration of
 the mitral valve and chordae tendineae.
@@ -189,6 +119,3 @@ Valsalva maneuver.
 Prognosis is usually benign unless MR develops, in which case there is increased risk of
 heart failure, atrial fibrillation, stroke, and infective endocarditis.
 Treatment is not needed unless significant MR develops.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 6/6

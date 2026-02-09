@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Cardiac Tumors - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:18.528763",
-  "file_size_bytes": 765054,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Cardiac Tumors - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Cardiac Tumors - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Cardiac Tumors
-By Lauren A. Baldassarre, MD, Yale School of Medicine;
-Emmanuel Akintoye, MD, MPH, Yale School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2024 | Modified Oct 2025
 Cardiac tumors may be primary (benign or malignant) or metastatic
 (malignant). Myxoma, a benign tumor, is the most common type of primary
 cardiac tumor. Cardiac tumors may occur in any cardiac tissue. They can cause
@@ -32,20 +12,13 @@ common, occurring in one series in > 8% of patients with cancer (2). Usually, pr
 originate in the myocardium or endocardium; they may also originate in valve tissue, cardiac connective
 tissue, or the pericardium. Metastatic cardiac tumors typically originate from the lung. Other common
 sources of cardiac metastases include breast and kidney carcinoma, melanoma, and lymphoma (2, 3).
-General references
-1. Reynen K: Frequency of primary tumors of the heart. Am J Cardiol 77(1):107, 1996.
-doi:10.1016/s0002-9149(97)89149-7
-2. Silvestri F, Bussani R, Pavletic N, Mannone T: Metastases of the heart and pericardium. G Ital
-Cardiol 27(12):1252–1255, 1997. PMID: 947005
-3. Klatt EC, Heitz DR: Cardiac metastases. Cancer 65(6):1456–1459, 1990. doi:10.1002/1097-
-0142(19900315)65:6<1456::aid-cncr2820650634>3.0.co;2-5
 Classification of Cardiac Tumors
 Some of the more common primary and secondary cardiac tumors are listed in table Types of Cardiac
 Tumors. Primary cardiac tumors may be
 Benign (approximately 80% of cases [1])
  1/10
 
- Cardiac Tumors - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Malignant (the remaining approximately 20%)
 Benign primary cardiac tumors
 Examples are myxomas, papillary fibroelastomas, rhabdomyomas, fibromas, hemangiomas, teratomas,
@@ -86,7 +59,7 @@ Hemangiomas cause symptoms in a minority of patients. Most often, they are incid
 during examinations done for other reasons.
  2/10
 
- Cardiac Tumors - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Teratomas of the pericardium affect mainly infants and children. They are often attached to the base of
 the great vessels. Most are located in the anterior mediastinum; the rest, mainly in the posterior
 mediastinum.
@@ -123,7 +96,7 @@ TABLE
 Types of Cardiac Tumors
  3/10
 
- Cardiac Tumors - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Type Examples*
 Myxomas
 Papillary fibroelastomas
@@ -146,30 +119,6 @@ Leukemia
 Lymphoma
 * Listed from most common to least common.
 † Paragangliomas can also be malignant.
-Classification references
-1. Molina JE, Edwards JE, Ward HB: Primary cardiac tumors: experience at the University of
-Minnesota. Thorac Cardiovasc Surg 38 Suppl 2:183–191, 1990. doi:10.1055/s-2007-1014064
-2. Tazelaar HD, Locke TJ, McGregor CG: Pathology of surgically excised primary cardiac
-tumors. Mayo Clin Proc 67(10):957–965, 1992. doi:10.1016/s0025-6196(12)60926-4
-3. Sido V, Volkwein A, Hartrumpf M, et al: Gender-Related Outcomes after Surgical Resection and
-Level of Satisfaction in Patients with Left Atrial Tumors. J Clin Med 12(5):2075, 2023.
-doi:10.3390/jcm12052075
- 4/10
-
- Cardiac Tumors - Cardiovascular Disorders - Merck Manual Professional Edition
-4. Tamin SS, Maleszewski JJ, Scott CG, et al: Prognostic and Bioepidemiologic Implications of
-Papillary Fibroelastomas. J Am Coll Cardiol 65(22):2420–2429, 2015. doi:10.1016/j.jacc.2015.03.569
-5. Bosi G, Lintermans JP, Pellegrino PA, Svaluto-Moreolo G, Vliers A: The natural history of cardiac
-rhabdomyoma with and without tuberous sclerosis. Acta Paediatr 85(8):928–931, 1996.
-doi:10.1111/j.1651-2227.1996.tb14188.x
-6. Ramlawi B, Leja MJ, Abu Saleh WK, et al: Surgical Treatment of Primary Cardiac Sarcomas:
-Review of a Single-Institution Experience [published correction appears in Ann Thorac Surg 2016
-Dec;102(6):2139]. Ann Thorac Surg 101(2):698–702, 2016. doi:10.1016/j.athoracsur.2015.07.087
-7. Thomason R, Schlegel W, Lucca M, Cummings S, Lee S: Primary malignant mesothelioma of the
-pericardium. Case report and literature review. Tex Heart Inst J 21(2):170–174, 1994.
-8. Klatt EC, Heitz DR: Cardiac metastases. Cancer 65:1456‒1459, 1990.
-9. Agaimy A, Rösch J, Weyand M, Strecker T: Primary and metastatic cardiac sarcomas: a 12-year
-experience at a German heart center. Int J Clin Exp Pathol 5(9):928–938, 2012.
 Symptoms and Signs of Cardiac Tumors
 Cardiac tumors cause symptoms and signs typical of much more common disorders (eg, heart failure,
 stroke, coronary artery disease). Symptoms and signs of benign primary cardiac tumors depend on
@@ -195,7 +144,7 @@ intraventricular block or paroxysmal supraventricular or ventricular tachycardia
 encroachment on the conduction system (notably rhabdomyomas and fibromas).
  5/10
 
- Cardiac Tumors - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Intracavitary symptoms and signs are due to tumors that obstruct valvular function, blood flow, or
 both (causing valvular stenosis, valvular insufficiency, or heart failure). Intracavitary symptoms and signs
 may vary with body position, which can alter hemodynamics and physical forces associated with the
@@ -222,17 +171,13 @@ and SVC syndrome. Metastatic cardiac tumors may manifest as sudden cardiac enlar
 tamponade (due to rapid accumulation of hemorrhagic pericardial effusion), heart block, other
 arrhythmias, or sudden unexplained heart failure. Fever, malaise, weight loss, night sweats, and loss of
 appetite may also be present.
-Symptoms and signs reference
-1. Pinede L, Duhaut P, Loire R: Clinical presentation of left atrial cardiac myxoma. A series of 112
-consecutive cases. Medicine (Baltimore) 80(3):159–172, 2001. doi:10.1097/00005792-200105000-
-00002
 Diagnosis of Cardiac Tumors
 Echocardiography
 Cardiac MRI
 Cardiac CT
  6/10
 
- Cardiac Tumors - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 PET scan
 Biopsy
 Diagnosis, which is often delayed because symptoms and signs mimic those of much more common
@@ -242,16 +187,12 @@ superior temporal resolution, echocardiography is the imaging modality of choice
 mobile cardiac tumors, particularly when they are small. Other imaging modalities are also used to
 further characterize the tumor (1, 2).
 Atrial Myxoma (Echocardiogram)
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
 Cardiac MRI is the imaging modality of choice for tumor tissue characterization and provides the best
 clues to tumor types.
  7/10
 
- Cardiac Tumors - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Atrial Myxoma (Cardiac MRI Scan)
-IMAGE
-© 2017 ELLIOT K. FISHMAN, MD.
 Contrast-enhanced cardiac CT with its 3D acquisition and superior spatial resolution can provide more
 detailed anatomic information compared to other techniques.
 Positron emission tomography (PET) may provide the first evidence suggesting cardiac metastasis in
@@ -272,20 +213,6 @@ are found in a surgically removed embolus.
 Arrhythmias and heart failure in patients with features of tuberous sclerosis suggest rhabdomyomas or
 fibromas. New cardiac symptoms and signs in a patient with a known extracardiac cancer suggest
 cardiac metastases. Chest radiographs may show bizarre changes in the cardiac silhouette.
-Diagnosis references
- 8/10
-
- Cardiac Tumors - Cardiovascular Disorders - Merck Manual Professional Edition
-1. Lyon AR, López-Fernández T, Couch LS, et al: 2022 ESC Guidelines on cardio-oncology developed
-in collaboration with the European Hematology Association (EHA), the European Society for
-Therapeutic Radiology and Oncology (ESTRO) and the International Cardio-Oncology Society (IC-
-OS) [published correction appears in Eur Heart J 2023 May 7;44(18):1621]. Eur Heart J 43(41):4229–
-4361, 2022. doi:10.1093/eurheartj/ehac244
-2. Tyebally S, Chen D, Bhattacharyya S, et al: Cardiac Tumors: JACC CardioOncology State-of-the-Art
-Review. JACC CardioOncol 2(2):293–311, 2020. Published 2020 Jun 16.
-doi:10.1016/j.jaccao.2020.05.009
-3. Reddy G, Maor E, Bois MC, et al: Percutaneous transcatheter biopsy for intracardiac mass
-diagnosis. EuroIntervention 13(12):e1436–e1443, 2017. doi:10.4244/EIJ-D-17-00707
 Treatment of Cardiac Tumors
 Benign primary: Excision
 Malignant primary: Palliation
@@ -309,19 +236,6 @@ Treatment of malignant primary tumors is usually palliative (eg, radiation thera
 management of complications) because prognosis is poor.
 Treatment of metastatic cardiac tumors depends on tumor origin. It may include systemic
 chemotherapy or palliation.
-Treatment references
-1. Joshi M, Kumar S, Noshirwani A, Harky A: The Current Management of Cardiac Tumours: a
-Comprehensive Literature Review. Braz J Cardiovasc Surg 35(5):770–780, 2020. doi:10.21470/1678-
- 9/10
-
- Cardiac Tumors - Cardiovascular Disorders - Merck Manual Professional Edition
-9741-2019-0199
-2. Mkalaluh S, Szczechowicz M, Torabi S, et al: Surgical Treatment of Cardiac Tumors: Insights from
-an 18-Year Single-Center Analysis. Med Sci Monit 23:6201–6209, 2017. doi:10.12659/msm.905451
-3. Gowdamarajan A, Michler RE: Therapy for primary cardiac tumors: is there a role for heart
-transplantation? Curr Opin Cardiol 15(2):121–125, 2000. doi:10.1097/00001573-200003000-00010
-4. Reardon MJ, Malaisrie SC, Walkes JC, et al: Cardiac autotransplantation for primary cardiac
-tumors. Ann Thorac Surg 82(2):645–650, 2006. doi:10.1016/j.athoracsur.2006.02.086
 Key Points
 Most cardiac tumors are metastatic, most commonly from lung and breast carcinoma,
 melanoma, soft-tissue sarcoma, and renal carcinoma.
@@ -334,5 +248,3 @@ Diagnosis is by echocardiography, and frequently other cardiac imaging (eg, MRI,
 PET).
 For benign tumors, treatment is excision; for malignant primary and most metastatic
 tumors, treatment is palliative.
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 10/10

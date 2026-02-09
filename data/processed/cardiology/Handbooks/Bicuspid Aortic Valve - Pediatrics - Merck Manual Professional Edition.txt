@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Bicuspid Aortic Valve - Pediatrics - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:38.509604",
-  "file_size_bytes": 141584,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Bicuspid Aortic Valve - Pediatrics - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Bicuspid Aortic Valve - Pediatrics - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Bicuspid Aortic Valve
-By Lee B. Beerman, MD, Children's Hospital of Pittsburgh of the University of Pittsburgh School of Medicine
-Reviewed By Michael SD Agus, MD, Harvard Medical School
-Reviewed/Revised Apr 2023
 Bicuspid aortic valve is the presence of only two (rather than the normal three)
 valve cusps.
 Bicuspid aortic valve is the most common congenital cardiovascular abnormality. It is present in 0.5 to 2
@@ -32,12 +13,6 @@ purposes of follow-up because of the association of bicuspid valves with an aort
 progressive aortic root or ascending aortic dilation and aneurysm formation. The reported prevalence
 of this complication varies widely in different studies, but, in general, dilatation will occur in up to 56% of
 those aged < 30 years (2).
-General references
-1. Freeze SL, Landis BJ, Ware SM, Helm BM: Bicuspid aortic valve: a review with recommendations
-for genetic counseling. J Genet Couns 25(6):1171–1178, 2016.
-2. Tadros TM, Klein MD, Shapira OM: Ascending aortic dilatation associated with bicuspid aortic
-valve: pathophysiology, molecular biology, and clinical implications. Circulation 119(6):880–890,
-2009. doi: 10.1161/CIRCULATIONAHA.108.795401
 Symptoms and Signs of Bicuspid Aortic Valve
 Children with bicuspid aortic valve may be asymptomatic if there is little or no valve dysfunction.
 Symptoms depend on the type of complication and can include fever in infective endocarditis or
@@ -72,5 +47,3 @@ The following English-language resource may be useful. Please note that The Manu
 for the content of this resource.
 American Heart Association: Common Heart Defects: Provides overview of common congenital
 heart defects for parents and caregivers
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 2/2

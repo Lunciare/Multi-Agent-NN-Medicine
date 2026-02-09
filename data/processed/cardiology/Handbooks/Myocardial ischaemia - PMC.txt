@@ -1,26 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Myocardial ischaemia - PMC.pdf",
-  "converted_date": "2026-01-31T14:36:03.230788",
-  "file_size_bytes": 3078945,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Myocardial ischaemia - PMC.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Myocardial ischaemia - PMC
-As a library, NLM provides access to scientific literature. Inclusion in an NLM database
-does not imply endorsement of, or agreement with, the contents by NLM or the National
-Institutes of Health.
-Learn more: PMC Disclaimer | PMC Copyright Notice
-BMJ. 2002 Apr 27;324(7344):1023–1026. doi: 10.1136/bmj.324.7344.1023
 Myocardial ischaemia
-Kevin Channer, Francis Morris
-Article notes Copyright and License information
-PMCID: PMC1122957 PMID: 11976247
 In clinical practice electrocardiography is most often used to evaluate patients with suspected
 ischaemic heart disease. When interpreted in the light of the clinical history, electrocardiograms can
 be invaluable in aiding selection of the most appropriate management.
@@ -34,9 +12,6 @@ patients will have a normal or near normal electrocardiogram.
 Myocardial ischaemia causes changes in the ST-T wave, but unlike a full thickness myocardial
 infarction it has no direct effects on the QRS complex (although ischaemia may give rise to bundle
 branch blocks, which prolongs the QRS complex).
- 1/18
-
- Myocardial ischaemia - PMC
 When electrocardiographic abnormalities occur in association with chest pain but in the absence of
 frank infarction, they confer prognostic significance. About 20% of patients with ST segment
 depression and 15% with T wave inversion will experience severe angina, myocardial infarction, or
@@ -63,9 +38,6 @@ T wave inversion
 T wave inversion can be normal
 It occurs in leads III, aVR, and V1 (and in V2, but only in association with T wave
 inversion in lead V1)
- 2/18
-
- Myocardial ischaemia - PMC
 Myocardial ischaemia may also give rise to T wave inversion, but it must be remembered that
 inverted T waves are normal in leads III, aVR, and V1 in association with a predominantly negative
 QRS complex. T waves that are deep and symmetrically inverted (arrowhead) strongly suggest
@@ -99,8 +71,7 @@ Transient ST segment elevation in patients with chest pain is a feature of ischa
 seen in vasospastic (variant or Prinzmetal's) angina. A proportion of these patients, however, will
 have substantial proximal coronary artery stenosis. When ST segment elevation has occurred and
  3/18
-
- Myocardial ischaemia - PMC
+ 
 resolved it may be followed by deep T wave inversion even in the absence of enzyme evidence of
 myocardial damage.
 In patients with previous Q wave myocardial infarction the hallmark of new ischaemia is often ST
@@ -130,8 +101,7 @@ patients and is more common in those with heart failure, diabetes, and valvular 
 disease. It may be transient or persistent and is often a marker of haemodynamic
 instability
  4/18
-
- Myocardial ischaemia - PMC
+ 
 Heart block
 The artery supplying the atrioventricular node is usually a branch of the right coronary artery; less
 commonly it originates from the left circumflex artery. In patients with proximal occlusion of the right
@@ -148,114 +118,3 @@ rhythm. Such rhythms are the result of spontaneous activity from a subsidiary pa
 within the atria, atrioventricular junction, or ventricles. An atrioventricular junction escape beat has a
 normal QRS complex morphology, with a rate of 40-60 beats/min. A ventricular escape rhythm is
 broad complex and generally slower (15-40 beats/min).
- 5/18
-
- Myocardial ischaemia - PMC
-Figure.
-Open in a new tab
-T wave changes associated with ischaemia
- 6/18
-🔍
-
- Myocardial ischaemia - PMC
-Figure.
-Open in a new tab
-Tall T waves in leads V2 and V3 in patient with recent inferoposterior myocardial infarction,
-indicating posterior ischaemia
- 7/18
-🔍
-
- Myocardial ischaemia - PMC
-Figure.
-Open in a new tab
- 8/18
-🔍
-
- Myocardial ischaemia - PMC
-Tall T waves in myocardial ischaemia
-Figure.
-Open in a new tab
-Arrowhead T wave inversion in patient with unstable angina
- 9/18
-🔍
-
- Myocardial ischaemia - PMC
-Figure.
-Open in a new tab
- 10/18
-🔍
-
- Myocardial ischaemia - PMC
-Biphasic T waves in man aged 26 with unstable angina
-Figure.
-Open in a new tab
-ST changes with ischaemia showing normal wave form (A); flattening of ST segment (B),
-making T wave more obvious; horizontal (planar) ST segment depression (C); and
-downsloping ST segment depression (D)
- 11/18
-🔍
-
- Myocardial ischaemia - PMC
-Figure.
-Open in a new tab
-Subtle ST segment change in patient with ischaemic chest pain: when no pain is present
-(top) and when in pain (bottom)
- 12/18
-🔍
-
- Myocardial ischaemia - PMC
-Figure.
-Open in a new tab
-Substantial ST segment depression in patient with ischaemic chest pain
- 13/18
-🔍
-
- Myocardial ischaemia - PMC
-Figure.
-Open in a new tab
-Widespread ST segment depression in patient with unstable angina
- 14/18
-🔍
-
- Myocardial ischaemia - PMC
-Figure.
-Open in a new tab
-Non-ischaemic ST segment changes: in patient taking digoxin (top) and in patient with left
-ventricular hypertrophy (bottom)
- 15/18
-🔍
-
- Myocardial ischaemia - PMC
-Figure.
-Open in a new tab
-Normalisation of longstanding inverted T waves in patient with chest pain
- 16/18
-🔍
-
- Myocardial ischaemia - PMC
-Figure.
-Open in a new tab
-Reversible ST segment changes in patient with chest pain; the ST segment elevation returns
-to normal as the chest pain settles
-Figure.
-Open in a new tab
-R on T, giving rise to ventricular fibrillation
- 17/18
-🔍
-🔍
-
- Myocardial ischaemia - PMC
-Figure.
-Open in a new tab
-Acute myocardial infarction with complete heart block
-Footnotes
-Kevin Channer is consultant cardiologist at the Royal Hallamshire Hospital, Sheffield.
-The ABC of clinical electrocardiography is edited by Francis Morris, consultant in emergency
-medicine at the Northern General Hospital, Sheffield; June Edhouse, consultant in emergency
-medicine, Stepping Hill Hospital, Stockport; William J Brady, associate professor, programme
-director, and vice chair, department of emergency medicine, University of Virginia, Charlottesville,
-VA, USA; and John Camm, professor of clinical cardiology, St George's Hospital Medical School,
-London. The series will be published as a book in the summer.
-Articles from BMJ : British Medical Journal are provided here courtesy of BMJ Publishing Group
- 18/18
-🔍

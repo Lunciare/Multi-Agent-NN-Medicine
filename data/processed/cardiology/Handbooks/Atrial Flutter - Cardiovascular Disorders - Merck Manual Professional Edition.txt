@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:40.152045",
-  "file_size_bytes": 357560,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Atrial Flutter
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Sept 2024
 Atrial flutter is a rapid regular atrial rhythm due to an atrial macroreentrant
 circuit. Symptoms include palpitations and sometimes weakness, effort
 intolerance, dyspnea, and presyncope. Atrial thrombi may form and embolize.
@@ -25,7 +6,6 @@ Diagnosis is by electrocardiography. Treatment involves rate control with
 medication, prevention of thromboembolism with anticoagulants, and often
 conversion to sinus rhythm with medication, cardioversion, or atrial flutter
 substrate ablation.
-(See also Overview of Arrhythmias.)
 Atrial flutter is much less common than atrial fibrillation, but its causes and hemodynamic
 consequences are similar. Many patients with atrial flutter also have periods of atrial fibrillation. In a
 population-based study of patients with a first diagnosis of atrial flutter, 69% were already known to
@@ -42,19 +22,6 @@ The probability of a thromboembolic event in isolated atrial flutter is thought 
 atrial fibrillation (2). However, many patients with atrial flutter also have (or will develop) atrial
 fibrillation. Accordingly, guidelines for anticoagulation make no distinction between patients with atrial
 flutter and those with atrial fibrillation (3).
-General references
-1. Gula LJ, Redfearn DP, Jenkyn KB, et al: Elevated Incidence of Atrial Fibrillation and Stroke in
-Patients With Atrial Flutter—A Population-Based Study. Can J Cardiol 34(6):774–783, 2018. doi:
- 1/5
-
- Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition
-10.1016/j.cjca.2018.01.001
-2. Biblo LA, Yuan Z, Quan KJ, et al: Risk of stroke in patients with atrial flutter. Am J Cardiol
-87(3):346–349, 2001. doi: 10.1016/s0002-9149(00)01374-6
-3. Joglar JA, Chung MK, Armbruster AL, et al: 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis
-and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American
-Heart Association Joint Committee on Clinical Practice Guidelines. Circulation 149(1):e1–e156, 2024.
-doi: 10.1161/CIR.0000000000001193
 Symptoms and Signs of Atrial Flutter
 Symptoms of atrial flutter depend primarily on ventricular rate and the nature of any underlying heart
 disorder. If ventricular rate is < 120 beats/minute and regular, there are likely to be few or no
@@ -70,7 +37,7 @@ Atrial Flutter
 (Note: Conducted with right bundle branch block.)
  2/5
 
- Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Carotid sinus massage can increase AV block and better expose the typical flutter waves. A similar
 response may follow pharmacologic AV nodal blockade (eg, with adenosine), but such therapy does not
 usually terminate atrial flutter.
@@ -96,7 +63,7 @@ Overview of Atrial Flutter
 VIDEO
  3/5
 
- Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 An antitachycardia pacing system is an alternative to long-term use of antiarrhythmics and is a rare
 therapy used in patients with atrial flutter and an independent indication for pacing, such as a
 bradycardia, who are ineligible or in whom other approaches to rhythm control have failed.
@@ -129,9 +96,3 @@ Long-term oral anticoagulation to prevent stroke is required for patients with c
 recurrent atrial flutter.
 Recurrent episodes are prevented with class Ia, Ic, or III antiarrhythmic medications
 along with AV nodal suppression or, more effectively, by cavotricuspid isthmus ablation.
-Drugs Mentioned In This Article
- 4/5
-
- Atrial Flutter - Cardiovascular Disorders - Merck Manual Professional Edition
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 5/5

@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Orthostatic Hypotension - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:45.897683",
-  "file_size_bytes": 293609,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Orthostatic Hypotension - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Orthostatic Hypotension - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Orthostatic Hypotension
-By Andrea D. Thompson, MD, PhD, University of Michigan;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Aug 2024
 Orthostatic (postural) hypotension is an excessive fall in blood pressure (BP) when an upright position is
 assumed. The consensus definition is a drop of > 20 mm Hg systolic, > 10 mm Hg diastolic, or both (1).
 Symptoms of faintness, light-headedness, dizziness, confusion, or blurred vision occur within seconds to
@@ -35,19 +15,6 @@ beats/minute or an increase of ≥ 30 beats/minute when a patient moves from sup
 position. Various symptoms (eg, fatigue, light-headedness, exercise intolerance, cognitive impairment)
 and tachycardia occur upon standing; however, there is little or no fall in BP. The reason for symptoms
 is unclear.
-General references
-1. Freeman R, Wieling W, Axelrod FB, et al: Consensus statement on the definition of orthostatic
-hypotension, neurally mediated syncope and the postural tachycardia syndrome. Clin Auton Res
-21(2):69–72, 2011. doi:10.1007/s10286-011-0119-5
-2. Fedorowski A, Stavenow L, Hedblad B, et al: Orthostatic hypotension predicts all-cause mortality
-and coronary events in middle-aged individuals (The Malmo Preventive Project). Eur Heart J
-31(1):85–91, 2010. doi:10.1093/eurheartj/ehp329
-3. Verwoert GC, Mattace-Raso FU, Hofman A, et al: Orthostatic hypotension and risk of
-cardiovascular disease in elderly people: the Rotterdam study. J Am Geriatr Soc 56(10):1816–1820,
-2008. doi:10.1111/j.1532-5415.2008.01946.x
- 1/9
-
- Orthostatic Hypotension - Cardiovascular Disorders - Merck Manual Professional Edition
 Pathophysiology of Orthostatic Hypotension
 Normally, the gravitational stress of suddenly standing causes blood (½ to 1 L) to pool in the veins of the
 legs and trunk. The subsequent transient decrease in venous return reduces cardiac output and thus
@@ -81,8 +48,7 @@ Causes of Orthostatic Hypotension
 Cause Examples
 Neurologic (involving autonomic dysfunction)
  2/9
-
- Orthostatic Hypotension - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Examples
 Multiple system atrophy
 Central Parkinson disease
@@ -118,8 +84,7 @@ effusion with tamponade
 Heart failure
 Myocardial infarction
  3/9
-
- Orthostatic Hypotension - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Examples
 Tachyarrhythmias or bradyarrhythmias
 Hyperaldosteronism*
@@ -153,8 +118,7 @@ Evaluation of Orthostatic Hypotension
 Orthostatic hypotension is diagnosed when systolic BP drops by ≥ 20 mm Hg or diastolic BP drops by ≥
 10 mm Hg within 3 minutes of standing. Once orthostatic hypotension is diagnosed, a cause must be
  4/9
-
- Orthostatic Hypotension - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 sought.
 History
 History of present illness should identify the duration and severity (eg, whether associated with
@@ -189,8 +153,7 @@ Bloody or heme-positive stool
 Abnormal neurologic examination
 Interpretation of findings
  5/9
-
- Orthostatic Hypotension - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 In patients with acute symptoms, the most common causes—medications, bed rest, and volume
 depletion—are often apparent clinically.
 In patients with chronic symptoms, an important goal is to detect any neurologic disorder causing
@@ -227,8 +190,7 @@ vascular tone and reduces venous pooling. Older patients should avoid prolonged 
 with the head of the bed raised may relieve symptoms by promoting sodium retention and reducing
 nocturnal diuresis.
  6/9
-
- Orthostatic Hypotension - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Postprandial hypotension can often be prevented by reducing the size and carbohydrate content of
 meals, minimizing alcohol intake, and avoiding sudden standing after meals.
 Waist-high fitted elastic hose may increase venous return, cardiac output, and BP after standing. In
@@ -258,14 +220,6 @@ Propranolol or other beta-blockers may enhance the beneficial effects of sodium 
 therapy. Beta-blockade with propranolol leads to unopposed alpha-adrenergic peripheral vascular
 vasoconstriction, preventing the vasodilation that occurs when some patients stand.
 Pyridostigmine (1) and octreotide (2) have been effective in small clinical studies.
-Treatment references
-1. Singer W, Sandroni P, Opfer-Gehrking TL, et al: Pyridostigmine treatment trial in neurogenic
-orthostatic hypotension. Arch Neurol 63(4):513–518, 2006. doi:10.1001/archneur.63.4.noc50340
-2. Hoeldtke RD, Israel BC: Treatment of orthostatic hypotension with octreotide. J Clin Endocrinol
-Metab 68(6):1051–1059, 1989. doi:10.1210/jcem-68-6-1051
- 7/9
-
- Orthostatic Hypotension - Cardiovascular Disorders - Merck Manual Professional Edition
 Geriatrics Essentials: Orthostatic Hypotension
 Orthostatic hypotension occurs in approximately 15 to 20% of older adults (1). It is more common
 among people with coexisting disorders, especially hypertension, and among residents of long-term
@@ -276,10 +230,6 @@ peripheral vasoconstriction in response to standing. Paradoxically, hypertension
 baroreceptor sensitivity, increasing vulnerability to orthostatic hypotension. Older adults also have
 decreased resting parasympathetic tone, so that cardioacceleration due to reflex vagal withdrawal is
 lessened.
-Geriatrics essentials reference
-1. Rutan GH, Hermanson B, Bild DE, Kittner SJ, LaBaw F, Tell GS: Orthostatic hypotension in older
-adults. The Cardiovascular Health Study. CHS Collaborative Research Group. Hypertension 19(6 Pt
-1):508–519, 1992. doi:10.1161/01.hyp.19.6.508
 Key Points
 Orthostatic hypotension typically involves volume depletion or autonomic dysfunction.
 Some degree of autonomic dysfunction is common in older adults, but neurologic
@@ -287,14 +237,3 @@ disorders must be ruled out.
 Tilt table testing is sometimes done.
 Treatment involves physical measures to reduce venous pooling, increased sodium
 intake, and sometimes fludrocortisone or midodrine.
-More Information
-The following English-language resource may be useful. Please note that THE MANUAL is not
-responsible for the content of this resource.
-Freeman R, Abuzinadah AR, Gibbons C, et al: Orthostatic hypotension: JACC state-of-the-art review. J Am
-Coll Cardiol 72(11):1294–1309, 2018. doi: 10.1016/j.jacc.2018.05.079
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 8/9
-
- Orthostatic Hypotension - Cardiovascular Disorders - Merck Manual Professional Edition
- 9/9

@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Restrictive Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:49.521344",
-  "file_size_bytes": 242201,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Restrictive Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Restrictive Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Restrictive Cardiomyopathy
-By Tisha Suboc, MD, Rush University
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jan 2024 | Modified Dec 2025
 Restrictive cardiomyopathy is characterized by noncompliant ventricular walls
 that resist diastolic filling; one (most commonly the left) or both ventricles may
 be affected. Symptoms include fatigue and exertional dyspnea. Diagnosis is by
@@ -40,12 +21,6 @@ acquired (1).
 In patients with hypereosinophilic syndrome and extensive endocardial fibrosis, thrombus can form in
 the apices and inflow tracts ventricles compromising the size of the ventricular cavities. This type of
 restrictive cardiomyopathy is termed obliterative.
-General reference
- 1/6
-
- Restrictive Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-1. Gowda SN, Ali HJ, Hussain I. Overview of Restrictive Cardiomyopathies. Methodist Debakey
-Cardiovasc J 2022;18(2):4-16. Published 2022 Mar 14. doi:10.14797/mdcvj.1078
 Etiology of Restrictive Cardiomyopathy
 Restrictive cardiomyopathy is not always a primary cardiac disorder. Although the cause is usually
 unknown, it may arise as the consequence of systemic or genetic disorders; identified causes are listed
@@ -79,8 +54,7 @@ methysergide)
 Radiation
 Infiltrative disorders Amyloidosis
  2/6
-
- Restrictive Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cause Examples
 Sarcoidosis
 Idiopathic restrictive
@@ -115,8 +89,7 @@ dyspnea, and peripheral edema. Fatigue results from a fixed cardiac output due t
 ventricular filling. Atrial and ventricular arrhythmias and AV block are common; angina and syncope are
 uncommon. Symptoms and signs closely mimic those of constrictive pericarditis.
  3/6
-
- Restrictive Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Physical examination detects a quiet precordium, a low-volume and rapid carotid pulse, pulmonary
 crackles, and pronounced neck vein distention with a rapid y descent (see figure Normal Jugular Vein
 Waves). A third heart sound (S3) and/or a fourth heart sound (S4) may occur and must be differentiated
@@ -153,8 +126,7 @@ If the diagnosis is still in doubt, MRI can show abnormal myocardial texture in 
 infiltration (eg, by amyloid or iron). MRI as well as cardiac CT can detect pericardial thickening, which can
 help diagnose pericardial constriction, which can clinically mimic restrictive cardiomyopathy.
  4/6
-
- Restrictive Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Cardiac FDG PET (fluorodeoxyglucose positron emission tomography) assessment may be useful to
 identify inflammatory myocardial disorders such as cardiac sarcoidosis, which may manifest similarly to
 other causes of restrictive cardiomyopathy.
@@ -170,10 +142,6 @@ epicardial coronary arteries.
 Laboratory tests and biopsies of other organ systems for the most common causes of restrictive
 cardiomyopathy (eg, fat pad biopsy for amyloidosis, iron tests or liver biopsy for hemochromatosis)
 should be done.
-Diagnosis reference
-1. Bokhari S, Castaño A, Pozniakoff T, et al: (99m)Tc-pyrophosphate scintigraphy for differentiating
-light-chain cardiac amyloidosis from the transthyretin-related familial and senile cardiac
-amyloidoses. Circ Cardiovasc Imaging 6:195–201, 2013. doi: 10.1161/CIRCIMAGING.112.000132
 Treatment of Restrictive Cardiomyopathy
 Cause treated
 Diuretics considered
@@ -187,13 +155,6 @@ cardiomyopathy due to amyloidosis, in which extreme digitalis sensitivity is com
 elevated, beta-blockers or rate-limiting calcium channel blockers may be used cautiously in low doses.
 Afterload reducers (eg, nitrates) may cause profound hypotension and usually are not useful.
 Left ventricular assist device (LVAD) and transplantation are sometimes recommended (1).
-Treatment reference
- 5/6
-
- Restrictive Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-1.Muchtar E, Blauwet LA, Gertz MA: Restrictive cardiomyopathy: Genetics, pathogenesis, clinical
-manifestations, diagnosis, and therapy. Circ Res 121:819–837, 2017. doi:
-10.1161/CIRCRESAHA.117.310982
 Prognosis for Restrictive Cardiomyopathy
 Prognosis is poor (see table Diagnosis and Treatment of Cardiomyopathies) because the diagnosis is
 often made at a late stage. No treatment is available for most patients; symptomatic, supportive care
@@ -217,6 +178,3 @@ benefit patients with edema or pulmonary vascular congestion but must be used
 cautiously to avoid lowering preload.
 Standard treatments for dilated cardiomyopathy (eg, ACE inhibitors, digoxin, beta-
 blockers) are poorly tolerated in restrictive disease.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 6/6

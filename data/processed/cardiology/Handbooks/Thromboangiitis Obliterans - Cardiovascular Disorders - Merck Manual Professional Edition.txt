@@ -1,24 +1,5 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Thromboangiitis Obliterans - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:52.837206",
-  "file_size_bytes": 166192,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Thromboangiitis Obliterans - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Thromboangiitis Obliterans - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Thromboangiitis Obliterans
 (Buerger Disease)
-By William Schuyler Jones, MD, Duke University Health System
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jul 2025
 Thromboangiitis obliterans is inflammatory thrombosis of small and medium-
 sized arteries and some superficial veins, causing arterial ischemia in distal
 extremities and superficial thrombophlebitis. Tobacco use is the primary risk
@@ -41,12 +22,6 @@ The cause is unknown, although cigarette smoking is a primary risk factor. The m
 oxidative stress, and may involve delayed hypersensitivity or toxic angiitis. According to another theory,
 thromboangiitis obliterans may be an autoimmune disorder caused by cell-mediated sensitivity to types
 I and III human collagen, which are constituents of blood vessels.
-General reference
-1. Shekouhi R, Mumtaz M, Naqvi H, et al. Treatment Options for Buerger Disease: A Systematic
-Review and Meta-Analysis of Outcomes. J Surg Res 2025;306:371-381. doi:10.1016/j.jss.2024.12.034
- 1/4
-
- Thromboangiitis Obliterans - Cardiovascular Disorders - Merck Manual Professional Edition
 Symptoms and Signs of Thromboangiitis Obliterans
 Symptoms and signs are those of arterial ischemia and superficial venous thrombosis. Some patients
 have a history of migratory phlebitis, usually in the superficial veins of a foot or leg.
@@ -80,9 +55,6 @@ hands and feet, tortuous, corkscrew collateral vessels around occlusions, and no
 atherosclerosis)
 Treatment of Thromboangiitis Obliterans
 Smoking cessation
- 2/4
-
- Thromboangiitis Obliterans - Cardiovascular Disorders - Merck Manual Professional Edition
 Local measures
 Sometimes medication therapy
 Endovascular or surgical revascularization, in cases of chronic limb-threatening ischemia
@@ -99,16 +71,6 @@ and endothelin inhibitors may be tried empirically, but data to support their us
 Use of antiendothelial cell antibody measurements to follow the course of disease is being studied.
 Endovascular or surgical revascularization appear to have a reasonable safety profile and outcomes in
 the setting of chronic limb-threatening ischemia (2, 3).
-Treatment references
-1. Melillo E, Lucaccini E, Berchiolli R, et al. Long-term survival of patients with critical limb ischemia
-treated with iloprost: response rate and predictive criteria. A retrospective analysis of 102
-patients. Eur Rev Med Pharmacol Sci 2016;20(24):5233-5241.
-2. Shekouhi R, Mumtaz M, Naqvi H, et al. Treatment Options for Buerger Disease: A Systematic
-Review and Meta-Analysis of Outcomes. J Surg Res 2025;306:371-381. doi:10.1016/j.jss.2024.12.034
-3. Galyfos G, Liakopoulos D, Chamzin A, Sigala F, Filis K. A systematic review and meta-analysis of
-early and late outcomes after endovascular angioplasty among patients with thromboangiitis
-obliterans and chronic limb ischemia. J Vasc Surg 2023;77(5):1534-1541.e2.
-doi:10.1016/j.jvs.2022.09.017
 Key Points
 Thromboangiitis obliterans is inflammatory thrombosis of small and medium-sized
 arteries and sometimes superficial veins in distal upper and lower extremities.
@@ -116,10 +78,5 @@ It occurs almost exclusively in males aged 30 to 45 years who smoke.
 Claudication may occur, and patients may develop ischemic ulceration and gangrene of
 one or more digits.
 Diagnose clinically but exclude other causes of ischemia by testing.
- 3/4
-
- Thromboangiitis Obliterans - Cardiovascular Disorders - Merck Manual Professional Edition
 Smoking cessation is essential; prostacyclin infusion may help prevent amputation, but
 evidence supporting use of other medications is limited.
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 4/4

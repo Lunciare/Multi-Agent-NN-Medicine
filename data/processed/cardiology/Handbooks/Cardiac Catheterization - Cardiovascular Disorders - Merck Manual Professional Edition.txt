@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:44.337756",
-  "file_size_bytes": 1466946,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Cardiac Catheterization
-By Thomas Cascino, MD, MSc, Michigan Medicine, University of Michigan;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Dec 2023 | Modified Jul 2024
 Cardiac catheterization is the passage of a catheter through peripheral arteries
 or veins into cardiac chambers, the pulmonary artery, and coronary arteries
 and veins.
@@ -43,7 +23,7 @@ Coronary artery anatomy and presence of coronary artery disease
 Left heart catheterization is also used to assess
  1/14
 
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Aortic blood pressure
 Aortic valve function
 Left ventricular pressure and function
@@ -81,14 +61,14 @@ cardiopulmonary exercise testing, called invasive cardiopulmonary exercise testi
 the standard for diagnosis of cardiac limitation to exercise but is currently available at relatively few
  2/14
 
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 centers. An exercise right heart catheterization should be considered in patients at intermediate pretest
 probability for heart failure with preserved ejection fraction if the diagnosis is uncertain after an initial
 evaluation. An increase in the PAOP > 25 mm Hg confirms the diagnosis when patients have signs and
 symptoms of heart failure irrespective of left ventricular ejection fraction.
  3/14
 
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Diagram of the Cardiac Cycle, Showing Pressure Curves of the Cardiac
 Chambers, Heart Sounds, Jugular Pulse Wave, and the ECG
 The phases of the cardiac cycle are atrial systole (a), isometric contraction (b), maximal ejection
@@ -105,10 +85,10 @@ AO = aortic valve opening; AC = aortic valve closing; LV = left ventricle; LA = 
 ventricle; RA = right atrium; MO = mitral valve opening.
  4/14
 
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
+  
  5/14
 
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Specific Tests During Cardiac Catheterization
 Angiography
 Injection of radiopaque contrast agent into coronary or pulmonary arteries, the aorta, and cardiac
@@ -130,7 +110,7 @@ Aortic angiography via left heart catheterization is used to assess aortic regur
 patent ductus arteriosus, and dissection.
  6/14
 
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Ventriculography (LV Gram)
 IMAGE
 PETER MENZEL/SCIENCE PHOTO LIBRARY
@@ -158,7 +138,7 @@ lesions (to identify those that are clinically most significant).
 Intravascular ultrasonography (IVUS)
  7/14
 
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Miniature ultrasound transducers on the end of coronary artery catheters can produce images of
 coronary vessel lumina and walls and delineate blood flow. Intravascular ultrasonography is being
 increasingly used at the same time as coronary angiography in several clinical situations, including to
@@ -194,7 +174,7 @@ Cardiac Output Equations
 Fick technique
  8/14
 
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Numerator is oxygen consumption (O2 absorbed by lungs in mL/minute).
 Indicator-dilution technique
 Denominator is the sum of contrast agent concentrations (C) at each time interval
@@ -229,7 +209,7 @@ Stroke index 46 mL/beat/m 8.1
 Total systemic resistance 1130 dynes-second-cm 178
  9/14
 
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Measurement Normal Value SD
 Total pulmonary
 -5
@@ -258,15 +238,6 @@ right. Three to 5 samples of myocardial tissue are removed from the septal endoc
 complication of endomyocardial biopsy, cardiac perforation, occurs in 0.3 to 0.5% of patients; it may
 cause hemopericardium leading to cardiac tamponade. Injury to the tricuspid valve and supporting
 chordae may also occur and can lead to tricuspid regurgitation.
-Tests during cardiac catheterization references
- 10/14
-
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
-1. Gotberg M, Christiansen EH, Gudmundsdottir IJ, et al: Instantaneous wave-free ratio versus
-fractional flow reserve to guide PCI. New Engl J Med 376:1813–1823, 2017. doi:
-10.1056/NEJMoa1616540
-2. Johnson NP, Li W, Chen X, et al: Diastolic pressure ratio: new approach and validation vs. the
-instantaneous wave-free ratio. Eur Heart J 40:2585–2594, 2019.
 Contraindications to Cardiac Catheterization
 Relative contraindications to cardiac catheterization include
 Acute kidney injury
@@ -298,7 +269,7 @@ Peripheral arterial disease
 Valvular heart disease
  11/14
 
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Most complications are minor and can be easily treated. Serious complications (eg, cardiac arrest,
 anaphylactic reactions, shock, seizures, renal toxicity) are rare. Mortality rate is 0.1 to 0.2%. Myocardial
 infarction (0.1%) and stroke (0.1%) may result in significant morbidity. Incidence of stroke is higher in
@@ -336,7 +307,7 @@ nonionic iodinated contrast media reactions. AJR Am J Roentgenol 191:409–415, 
 Catheter-related complications
  12/14
 
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 If the catheter tip contacts the ventricular endocardium, ventricular arrhythmias commonly occur, but
 ventricular fibrillation is rare. If it occurs, direct current cardioversion (DC cardioversion) is administered
 immediately.
@@ -360,26 +331,3 @@ therapy. Pseudoaneurysms and AV fistulas usually resolve with compression; those
 require surgical repair.
 Radial artery access is in general more comfortable for the patient and carries a much lower risk of
 hematoma or pseudoaneurysm or AV fistula formation when compared with femoral artery access.
-More Information
-The following English-language resources may be useful. Please note that THE MANUAL is not
-responsible for the content of these resources.
-ACR Manual on Contrast Media: 2021 ACR Committee on Drugs and Contrast Media provides a
-guide for safe and effective use of contrast media
-Bashore TM, Balter S, Barac A, et al. 2012 American College of Cardiology Foundation/Society for
-Cardiovascular Angiography and Interventions expert consensus document on cardiac
-catheterization laboratory standards update: A report of the American College of Cardiology
-Foundation Task Force on Expert Consensus documents developed in collaboration with the
-Society of Thoracic Surgeons and Society for Vascular Medicine. J Am Coll Cardiol.
-2012;59(24):2221-2305. doi:10.1016/j.jacc.2012.02.010
- 13/14
-
- Cardiac Catheterization - Cardiovascular Disorders - Merck Manual Professional Edition
-2012 American College of Cardiology Foundation/Society for Cardiovascular Angiography and
-Interventions expert consensus document on cardiac catheterization laboratory standards update:
-A report of the American College of Cardiology Foundation Task Force on Expert Consensus
-documents developed in collaboration with the Society of Thoracic Surgeons and Society for
-Vascular Medicine: Provides the most recent consensus opinions on standards for cardiac
-catheterization labs
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 14/14

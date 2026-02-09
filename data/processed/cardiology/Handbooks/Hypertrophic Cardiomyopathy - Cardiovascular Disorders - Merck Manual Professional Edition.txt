@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Hypertrophic Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:54.132015",
-  "file_size_bytes": 733431,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Hypertrophic Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Hypertrophic Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Hypertrophic Cardiomyopathy
-By Tisha Suboc, MD, Rush University
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jan 2024 | Modified Dec 2025
 Hypertrophic cardiomyopathy is a congenital or acquired disorder
 characterized by marked ventricular hypertrophy with diastolic dysfunction (eg,
 due to valvular aortic stenosis, coarctation of the aorta, systemic hypertension).
@@ -35,14 +16,7 @@ inherited in an autosomally dominant pattern have been identified; spontaneous m
 occur. Prevalence is 1:200 to 1:500 (1); phenotypic expression varies markedly.
 Rarely, hypertrophic cardiomyopathy is acquired. It may develop in patients with acromegaly,
 pheochromocytoma, or neurofibromatosis.
-Etiology reference
-1. Maron BJ, Desai MY, Nishimura RA, et al. Diagnosis and Evaluation of
-Hypertrophic Cardiomyopathy: JACC State-of-the-Art Review. J Am Coll Cardiol 2022;79(4):372-389.
-doi:10.1016/j.jacc.2021.12.002
 Pathophysiology of Hypertrophic Cardiomyopathy
- 1/8
-
- Hypertrophic Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
 The myocardium is abnormal with cellular and myofibrillar disarray, although this finding is not specific
 for hypertrophic cardiomyopathy.
 In the most common phenotype, the anterior septum and contiguous anterior free wall below the aortic
@@ -80,8 +54,7 @@ Typically, symptoms appear between ages 20 and 40 years and are exertional, but 
 highly variable. They include dyspnea, chest pain (usually resembling typical angina), palpitations, and
 syncope. Because systolic function is preserved, fatigability is seldom reported. The abnormal diastolic
  2/8
-
- Hypertrophic Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 function is responsible for most symptoms. In patients with outflow tract obstruction, differentiation of
 symptoms due to the obstruction versus those caused by abnormal diastolic function can be difficult.
 Syncope may occur during exertion either because outflow obstruction worsens with increased
@@ -114,12 +87,7 @@ done. Chest x-ray is often done but is usually normal because the ventricles are
 the left atrium may be enlarged). Exercise testing and 24-hour ambulatory monitoring may be helpful
 for patients considered at high risk, although accurately identifying such patients is difficult. Patients
 with syncope or sustained arrhythmias should be evaluated as inpatients.
- 3/8
-
- Hypertrophic Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
 Hypertrophic Cardiomyopathy (Apical Variant)
-IMAGE
-© 2017 ELLIOT K. FISHMAN, MD.
 The ECG usually shows voltage criteria for LV hypertrophy (eg, S wave in lead V1 plus R wave in lead V5
 or V6 > 35 mm). Very deep septal Q waves in leads I, aVL, V5, and V6 are often present with asymmetric
 septal hypertrophy; hypertrophic cardiomyopathy sometimes produces a QRS complex in V1 and V2,
@@ -138,12 +106,6 @@ years to assess risk of sudden cardiac death and help guide treatment of arrhyth
 Cardiac catheterization is usually done only when invasive therapy is considered. Usually, no significant
 stenoses are present in the coronary arteries, but older patients may have coexisting coronary artery
 disease.
- 4/8
-
- Hypertrophic Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
-Hypertrophic Cardiomyopathy (Echocardiogram)
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
 Genetic markers do not identify high-risk individuals or influence treatment. However, genetic testing
 may be of benefit in screening family members.
 Diagnosis reference
@@ -166,8 +128,7 @@ mainstays. By slowing the heart rate, they prolong the diastolic filling period,
 ventricular filling in patients with diastolic dysfunction. Long-term efficacy of such therapy, however, has
 not been proven.
  5/8
-
- Hypertrophic Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 In patients with the obstructive phenotype, in addition to attempts at improving diastolic function,
 treatment is directed at reducing the outflow tract gradient. Non-dihydropyridine calcium channel
 blockers (eg, verapamil, diltiazem), beta-blockers, and disopyramide reduce the outflow tract gradient
@@ -206,29 +167,13 @@ Myomectomy and alcohol ablation have been used to decrease outflow obstruction a
 symptoms. There is no proven difference on mortality between these interventions, but myomectomy is
 more effective for relieving obstruction and decreasing the need for repeat interventions (4).
  6/8
-
- Hypertrophic Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Avoidance of competitive sports was previously recommended because sudden deaths can occur
 during increased exertion. Current guidelines recommend that athletes with HCM undergo
 comprehensive evaluation and shared discussion of potential risk with an expert HCM specialist.
 Treatment of the dilated congestive phase of hypertrophic cardiomyopathy is the same as that of
 dilated cardiomyopathy with predominant systolic dysfunction.
 Genetic counseling is appropriate for patients with asymmetric septal hypertrophy.
-Treatment references
-1. Olivotto I, Oreziak A, Barriales-Villa R, et al: Mavacamten for treatment of symptomatic
-obstructive hypertrophic cardiomyopathy (EXPLORER-HCM): a randomised, double-blind, placebo-
-controlled, phase 3 trial. Lancet 396:759–769, 2020. doi: 10.1016/S0140-6736(20)31792-X
-2. Spertus JA, Fine JT, Elliott P, et al: Mavacamten for treatment of symptomatic obstructive
-hypertrophic cardiomyopathy (EXPLORER-HCM): health status analysis of a randomized, double-
-blind, placebo-controlled, phase 3 trial. Lancet 397:2467–2475, 2012. doi: 10.1016/S0140-
-6736(21)00763-7
-3. Maron MS, Rowin EJ, Wessler BS, et al: Enhanced American College of Cardiology/American
-Heart Association Strategy for Prevention of Sudden Cardiac Death in High-Risk Patients With
-Hypertrophic Cardiomyopathy. JAMA Cardiol 4(7):644–657, 2019.
-doi:10.1001/jamacardio.2019.1391
-4. Nguyen A, Schaff HV, Hang D, et al: Surgical myectomy versus alcohol septal ablation for
-obstructive hypertrophic cardiomyopathy: A propensity score-matched cohort. J Thorac Cardiovasc
-Surg 157(1):306–315.e3, 2019. doi:10.1016/j.jtcvs.2018.08.062
 Prognosis for Hypertrophic Cardiomyopathy
 Overall, annual mortality is about 1% for adults but is higher for children. Death is usually sudden, and
 sudden death is the most common sequela; chronic heart failure occurs less often. A higher risk of
@@ -243,8 +188,7 @@ apical aneurysm
 Extensive and diffuse late gadolinium enhancement on MRI
 Key Points
  7/8
-
- Hypertrophic Cardiomyopathy - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Hypertrophic cardiomyopathy is usually due to one of numerous genetic mutations that
 cause various types of ventricular hypertrophy that restrict filling (ie, cause diastolic
 dysfunction) and sometimes obstruct LV outflow.
@@ -266,15 +210,3 @@ Place an implantable cardioverter-defibrillator for patients with syncope or sud
 cardiac arrest.
 Do surgical myectomy or alcohol septal ablation in patients with symptoms despite
 medical therapy.
-More Information
-The following English-language resource may be useful. Please note that THE MANUAL is not
-responsible for the content of this resource.
-American Heart Association Guidelines on Hypertrophic Cardiomyopathy: Ommen SR, Mital S,
-Burke MA, et al: 2020 AHA/ACC Guideline for the Diagnosis and Treatment of Patients With
-Hypertrophic Cardiomyopathy A Report of the American College of Cardiology/American Heart
-Association Joint Committee on Clinical Practice Guidelines [published correction appears in
-Circulation. 2020 Dec 22;142(25):e633]. Circulation 20 November 2020. doi:
-10.1161/CIR.0000000000000937
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 8/8

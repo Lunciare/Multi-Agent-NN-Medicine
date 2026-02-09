@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Medications for Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:37:04.966009",
-  "file_size_bytes": 273986,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Medications for Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Medications for Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Medications for Heart Failure
-By Nowell M. Fine, MD, SM, Libin Cardiovascular Institute, Cumming School of Medicine, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Oct 2025
 Heart failure is a clinical syndrome in which the heart is not able to meet the metabolic demands of the
 body due to a structural and or functional cardiac abnormality, leading to low cardiac output, elevated
 ventricular filling pressure, or both (see Heart Failure).
@@ -43,9 +24,6 @@ How to recognize adverse effects
 When to contact their physician
 (See also Acute Heart Failure - Treatment, Chronic Heart Failure - Treatment, and Right Heart Failure for
 more information about medication selection.)
- 1/9
-
- Medications for Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
 Classes of Medications for Heart Failure
 Beta-blockers
 Beta-blockers act by competitively inhibiting beta-adrenergic receptors. Bisoprolol and metoprolol are
@@ -83,9 +61,6 @@ Angiotensin receptor/neprilysin inhibitors (ARNIs)
 ARNIs are a combination medication for the treatment of heart failure. They include an ARB and a
 neprilysin inhibitor (eg, sacubitril). The ARB portion blocks the renin-angiotensin-aldosterone axis at the
 level of the angiotensin II receptor. Neprilysin is an enzyme involved in the breakdown of vasoactive
- 2/9
-
- Medications for Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
 substances such as brain (B-type) natriuretic peptide (BNP) and other peptides. By inhibiting the
 breakdown of BNP and other beneficial vasoactive peptides, these medications lower blood pressure,
 decrease afterload, and enhance natriuresis. Because neprilysin inhibitors increase BNP levels,
@@ -125,8 +100,7 @@ on blood pressure and renal function); the dose is gradually adjusted upward ove
 then continued indefinitely. Usual target doses of representative medications include enalapril 10 to 20
 mg twice a day, lisinopril 20 to 30 mg once a day, and ramipril 5 mg twice a day; there are many others.
  3/9
-
- Medications for Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Serum electrolytes and renal function should be measured before an ACE inhibitor is initiated, at 1
 month, and after each significant increase in dose or change in clinical condition. If dehydration or poor
 renal function due to acute illness develops, the ACE inhibitor dose may need to be reduced or
@@ -167,8 +141,7 @@ Mineralocorticoid receptor antagonists block aldosterone receptors in the distal
 collecting ducts of the kidney. They are considered potassium-sparing diuretics due to their relatively
 weak diuretic effect and the fact that, unlike most other diuretics, they do not waste serum potassium.
  4/9
-
- Medications for Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 For patients with heart failure, these agents offer blockade of the renin-angiotensin-aldosterone system
 that is complementary to the mechanism of ACE inhibitors and ARBs.
 A mineralocorticoid receptor antagonist (MRA, also termed aldosterone antagonists) is recommended
@@ -207,8 +180,7 @@ medical therapy, may help control symptoms and reduce the likelihood of hospital
 with HFrEF (1, 2). Digoxin may also be used for rate control in patients with atrial fibrillation and both
 HFrEF and HFpEF.
  5/9
-
- Medications for Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 In patients with normal renal function, digoxin, 0.125 to 0.25 mg orally once a day depending on age,
 sex, and body size, achieves full digitalization in about 1 week (5 half-lives). More rapid digitalization can
 be achieved but, unlike in the treatment of atrial fibrillation, there is typically little reason to rapidly
@@ -249,8 +221,7 @@ If needed, loop diuretics can be titrated up to doses of furosemide 120 mg orall
 bumetanide 2 mg orally twice a day, and torsemide 40 mg orally twice a day based on response and
 renal function. Bumetanide and torsemide have better bioavailability than furosemide. If patients are
  6/9
-
- Medications for Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 switched between different loop diuretics, they should be placed on equivalent doses. Furosemide 40
 mg is equivalent to bumetanide 1 mg, and both are equivalent to torsemide 20 mg.
 In refractory cases, IV loop diuretics or metolazone 2.5 to 10 mg orally can be used for an additive effect.
@@ -290,8 +261,7 @@ to slow the heart rate. Since these channels are present primarily in cardiac pa
 medications are not useful for treatment in patients who are not in sinus rhythm. Ivabradine is
 recommended for use in patients with HFrEF who have symptomatic heart failure (New York Heart
  7/9
-
- Medications for Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Association Class II or III), normal sinus rhythm, and heart rate > 70 beats/minute despite guideline-
 directed medical therapy (at target beta-blocker dose or cannot tolerate a further increase in beta-
 blocker dose) (1, 2).
@@ -320,19 +290,3 @@ isosorbide dinitrate at 20 mg orally 3 times a day, with the maximum dose 75 mg 
 day. These doses are also available as a fixed-dose combination.
 Nitrates and phosphodiesterase-5 inhibitors have been used to relieve symptoms in patients with
 HFpEF, but neither is recommended for routine use for these patients (2).
-Medication classes references
-1. McDonagh TA, Metra M, Adamo M, et al: 2021 ESC Guidelines for the diagnosis and treatment of
-acute and chronic heart failure: Developed by the Task Force for the diagnosis and treatment of
-acute and chronic heart failure of the European Society of Cardiology (ESC) with the special
-contribution of the Heart Failure Association (HFA) of the ESC. Eur Heart J 42(36):3599-3726, 2021.
-doi: 10.1093/eurheartj/ehab368
-2. Heidenreich PA, Bozkurt B, Aguilar D, et al: 2022 AHA/ACC/HFSA Guideline for the Management
-of Heart Failure: A report of the American College of Cardiology/American Heart Association Joint
- 8/9
-
- Medications for Heart Failure - Cardiovascular Disorders - Merck Manual Professional Edition
-Committee on Clinical Practice Guidelines. Circulation 145:e895–e1032, 2022, doi:
-10.1161/CIR.0000000000001063
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 9/9

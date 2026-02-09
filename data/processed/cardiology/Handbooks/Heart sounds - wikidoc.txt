@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Heart sounds - wikidoc.pdf",
-  "converted_date": "2026-01-31T14:35:39.636157",
-  "file_size_bytes": 571324,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Heart sounds - wikidoc.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Search WikiDoc
-Search Try Exact Match
 Heart sounds
-Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1]
-(mailto:charlesmichaelgibson@gmail.com);
-Associate Editor-In-Chief: Cafer Zorkun, M.D.,
-Ph.D. [2] (mailto:czorkun@wikidoc.org)
 Overview
 The heart sounds are the noises (sound) generated
 by the beating heart and the resultant flow of blood
@@ -48,19 +29,7 @@ audible in different parts of the cardiac cycle, depending on the
 wall. Ant. Anterior segment of
 cause of the murmur. tricuspid valve. A O. Aorta. A.P.
 Anterior papillary muscle. In.
-Normal heart sounds Innominate artery. L.C.C. Left
-common carotid artery. L.S. Left
-{{#ev:youtube|xS3jX1FYG-M}} subclavian artery. L.V. Left
-ventricle. P.A. Pulmonary artery.
-R.A. Right atrium. R.V. Right
-{{#ev:youtube|NeMJXMSkA7g}} ventricle. V.S. Ventricular
-septum.
-First heart tone S , the "lub"(components M and
-1 1
-T )
-1
-Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
- 1/8
+Normal heart sounds Innominate artery.
 
 The first heart tone, or S , is caused by the sudden block of reverse blood flow due to closure of the
 1
@@ -106,7 +75,7 @@ Persistent splitting of S is seen in right bundle branch block (RBBB) and pulmon
 Because of the delayed activation of the right heart in RBBB the pulmonary valve closure is delayed
 causing a split in the second heart sound which is persistent in both inspiration and expiration.
 Paradoxical Splitting
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  2/8
 
 This phenomenon is seen in left bundle branch block (LBBB), aortic stenosis, severe heart failure
@@ -156,7 +125,7 @@ Abnormal reemergence of this sound late in life indicates a pathological state, 
 failing left ventricle as in dilated congestive heart failure (CHF). This sound is called a
 protodiastolic gallop or ventricular gallop, a type of gallop rhythm.
 Pathophysiology and Etiology
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  3/8
 
 It is caused by the sudden slowing of blood rushing in from the atrium into the ventricle as it is
@@ -201,7 +170,7 @@ holding expiration. If the culprit is the right ventricle, the abnormal rhythm w
 on the lower left hand side of the sternum, and will get louder with exercise and quick, deep
 inspiration [2]. The fourth heart sound S4 is sometimes audible in healthy children, but when
 audible in an adult is called a presystolic gallop or atrial gallop. This gallop is a sign of a
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  4/8
 
 pathologic state, usually a failing left ventricle. This sound occurs just after atrial contraction
@@ -244,7 +213,7 @@ The following paragraphs overview the murmurs most commonly heard in adults, adu
 not have major congenital heart abnormalities.
 • Regurgitation through the mitral valve is by far the most commonly heard murmur, sometimes
 fairly loud to a practiced ear, even though the volume of regurgitant blood flow may be quite
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  5/8
 
 small. Yet, though often obvious, probably about 20% of cases of mitral regurgitation, though
@@ -292,7 +261,7 @@ adventitial sounds or "clicks" has been appreciated. These are short, high-pitch
 are two types of clicks, ejection click and non-ejection click.
 • Ejection clicks are caused by bicuspid aortic valve and bicuspid pulmonary valve early in the
 systole.
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  6/8
 
 • Non-ejection clicks are seen in mitral valve prolapse, ventricular septal aneurysm, atrial septal
@@ -333,7 +302,7 @@ One can remember the positions of the sounds by the mnemonic "All The Presidents
 • P - Pulmonic - Left second intercostal space sternal border
 • M - Mitral - Fifth intercostal space lateral to left midclavicular line
 Recording heart sounds
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  7/8
 
 With the advent of electronic stethoscopes, it is now possible to conveniently record heart sounds.
@@ -341,38 +310,3 @@ One electronic stethoscope provides a port to output stethoscope sounds to an ex
 device, such as a notebook computer or MP3 recorder. The same connection can then be used to
 listen to the recordings through the stethoscope headphones, allowing for faithful reproduction of
 low-frequency murmurs and other heart sounds.
-Related Chapters
-• Physical examination
-• Precordial examination
-• Anatomy
-• Heart
-• Heart valve
-• Aortic valve
-• Pulmonary valve
-• Mitral valve
-• Tricuspid valve
-• Pathophysiology
-• Mitral stenosis
-• Mitral regurgitation
-• Aortic stenosis
-• Aortic insufficiency
-• Pulmonary stenosis
-• Pulmonary insufficiency
-• Tricuspid stenosis
-• Tricuspid insufficiency
-• Heart murmur
-• Benign paediatric heart murmur
-• Pulsatile Tinnitus - hearing a heartbeat sound in one or both ears
-References
-External links
-• Pubmed.com ( - journal article
-on diastolic gallop sounds
-Template:WikiDoc Sources
-Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
-Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
-Physical Examination | Lab Tests | Drugs
-Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
-There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
-Licensing | Disclaimers | Avoid Plagiarism | Policies
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 8/8

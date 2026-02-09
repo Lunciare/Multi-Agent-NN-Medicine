@@ -1,44 +1,6 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Heart Failure Diagnosis and Investigation_ Cardiac Failure _ Doctor.pdf",
-  "converted_date": "2026-01-31T14:36:29.589540",
-  "file_size_bytes": 254741,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Heart Failure Diagnosis and Investigation_ Cardiac Failure _ Doctor.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Heart Failure Diagnosis and Investigation: Cardiac Failure | Doctor
-Heart failure diagnosis and
-investigation
-Peer reviewed by Dr Hayley Willacy, FRCGP
-Last updated by Dr Colin Tidy, MRCGP
-Last updated 10 Feb 2023
-Meets Patient’s editorial guidelines
-Est. 10 min reading time
-This article is for Medical Professionals
-Professional Reference articles are designed for health professionals to use.
-They are written by UK doctors and based on research evidence, UK and
-European Guidelines. You may find one of our health articles more useful.
-In this article:
-Classification of heart failure
-Epidemiology
-Aetiology
-Presentation
-Investigations
-Staging
-Indications for specialist referral
-Prognosis of heart failure
-See also the separate Heart Failure Management, Cardiac Rehabilitation and
-Palliative Care of Heart Failure articles.
+Heart failure diagnosis and investigation
 Heart failure is a clinical syndrome resulting in a reduced cardiac output and/or ele-
 vated intracardiac pressures at rest or during stress. characterised by:
- 1/12
-
- Heart Failure Diagnosis and Investigation: Cardiac Failure | Doctor
 Typical symptoms: shortness of breath, fatigue, ankle swelling.
 Typical signs: tachycardia, tachypnoea, pulmonary rales, pleural effusion, raised
 jugular venous pressure (JVP), peripheral oedema, hepatomegaly.
@@ -73,7 +35,7 @@ tricular ejection fraction (LVEF). This was based on the original treatment tria
 heart failure that demonstrated substantially improved outcomes in patients with
  2/12
 
- Heart Failure Diagnosis and Investigation: Cardiac Failure | Doctor
+  
 LVEF above 40%. The European Society of Cardiology heart failure guideline uses the
 following classification of heart failure:
 Reduced LVEF (HFrEF): 40% or less; significant reduction in LV systolic function.
@@ -104,7 +66,7 @@ The prevalence of heart failure increases with age. The average age at first dia
 is 76 years. In the UK, the prevalence of heart failure is estimated to be about:
  3/12
 
- Heart Failure Diagnosis and Investigation: Cardiac Failure | Doctor
+  
 1 in 35 people 65-74 years of age.
 1 in 15 people 75-84 years of age.
 Just over 1 in 7 people 85 years of age or older.
@@ -134,7 +96,7 @@ Drugs - eg, beta-blockers, calcium antagonists, anti-arrhythmics, cytotoxics.
 Toxins - eg, alcohol, cocaine, mercury, cobalt, arsenic.
  4/12
 
- Heart Failure Diagnosis and Investigation: Cardiac Failure | Doctor
+  
 Endocrine - eg, diabetes, hypothyroidism, hyperthyroidism, Cushing's syn-
 drome, adrenal insufficiency, excessive growth hormone, phaeochromocy-
 toma.
@@ -164,7 +126,7 @@ Patients do not necessarily have all and some may be predominant at times. In ad
 dition, patients may be depressed or complain of drug-related side-effects.
  5/12
 
- Heart Failure Diagnosis and Investigation: Cardiac Failure | Doctor
+  
 Dyspnoea on exertion and fatigue (may limit exercise tolerance).
 Orthopnoea (breathlessness on lying flat).
 Paroxysmal nocturnal dyspnoea (PND).
@@ -192,7 +154,7 @@ The peak expiratory flow rate may be reduced but, if it is <150 litres/minute, s
 chronic obstructive pulmonary disease (COPD) or asthma.
  6/12
 
- Heart Failure Diagnosis and Investigation: Cardiac Failure | Doctor
+  
 Investigations[3]
 Having taken a history and performed an examination then the following investiga-
 tions are recommended by NICE.
@@ -224,7 +186,7 @@ Age over 70.
 Liver cirrhosis.
  7/12
 
- Heart Failure Diagnosis and Investigation: Cardiac Failure | Doctor
+  
 Sepsis.
 COPD.
 Diabetes.
@@ -253,7 +215,7 @@ Blood tests: FBC, U&E and eGFR, LFTs, HbA1c, lipids, TFTs; consider cardiac en-
 zymes if an undiagnosed MI is possible in the preceding few days.
  8/12
 
- Heart Failure Diagnosis and Investigation: Cardiac Failure | Doctor
+  
 CXR - provides supportive evidence for heart failure and helps to exclude other
 potential causes of breathlessness. Typical findings in heart failure include:
 Cardiomegaly (cardiothoracic ratio >50%).
@@ -282,7 +244,7 @@ Class III: less than ordinary activity leads to symptoms.
 Class IV: inability to carry out any activity without symptoms.
  9/12
 
- Heart Failure Diagnosis and Investigation: Cardiac Failure | Doctor
+  
 Indications for specialist
 referral[3] [4]
 All those with suspected heart failure should be referred to a specialist cardiac fail-
@@ -311,58 +273,3 @@ disease, COPD).
 Obesity or low BMI.
 Management of heart failure is discussed in the separate Heart Failure Management
 article.
- 10/12
-
- Heart Failure Diagnosis and Investigation: Cardiac Failure | Doctor
-Further reading and references
-Acute heart failure: diagnosis and management in adults
-( NICE Quality Standard,
-December 2015
-Roberts E, Ludman AJ, Dworzynski K, et al (
-cles/pmid/25740799/); The diagnostic accuracy of the natriuretic peptides in
-heart failure: systematic review and diagnostic meta-analysis in the acute
-care setting. BMJ. 2015 Mar 4;350:h910. doi: 10.1136/bmj.h910.
-Real J, Cowles E, Wierzbicki AS (
-cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30249604); Chronic heart failure in
-adults: summary of updated NICE guidance. BMJ. 2018 Sep 24;362:k3646.
-doi: 10.1136/bmj.k3646.
-1. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic
-heart failure (
-Developed by the Task Force for the diagnosis and treatment of acute and
-chronic heart failure of the European Society of Cardiology (ESC) With the
-special contribution of the Heart Failure Association (HFA) of the ESC
-2. Diagnosing and managing acute heart failure in adults
-( NICE Clinical Guidelines
-(Oct 2014 - updated Nov 2021)
-3. Chronic heart failure in adults - diagnosis and management
-( NICE Guidance (Sept 2018)
-4. Heart failure - chronic ( NICE
-CKS, August 2024 (UK access only)
-5. Management of chronic heart failure (
-Scottish Intercollegiate Guidelines Network - SIGN (2016)
-6. Yancy CW, Jessup M, Bozkurt B, et al (
-gi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23741058); 2013 ACCF/AHA
-guideline for the management of heart failure: a report of the American
-College of Cardiology Foundation/American Heart Association Task Force
-on practice guidelines. Circulation. 2013 Oct 15;128(16):e240-327. doi:
-10.1161/CIR.0b013e31829e8776. Epub 2013 Jun 5.
- 11/12
-
- Heart Failure Diagnosis and Investigation: Cardiac Failure | Doctor
-7. Chronic heart failure in adults ( NICE
-Quality standard, January 2023
-8. Pocock SJ, Ariti CA, McMurray JJ, et al
-(
-cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23095984); Predicting survival in
-heart failure: a risk score based on 39 372 patients from 30 studies. Eur
-Heart J. 2013 May;34(19):1404-13. doi: 10.1093/eurheartj/ehs337. Epub 2012
-Oct 24.
-Article history
-The information on this page is written and peer reviewed by qualified clinicians.
-Next review due: 9 Feb 2028
-10 Feb 2023 | Latest version
-Last updated by
-Dr Colin Tidy, MRCGP
-Peer reviewed by
-Dr Hayley Willacy, FRCGP
- 12/12

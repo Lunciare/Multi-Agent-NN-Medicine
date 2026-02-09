@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Supraventricular tachycardia - wikidoc.pdf",
-  "converted_date": "2026-01-31T14:37:05.672208",
-  "file_size_bytes": 860437,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Supraventricular tachycardia - wikidoc.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Search WikiDoc
-Search Try Exact Match
 Supraventricular tachycardia
-For patient information click here
-Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailto:charlesmichaelgibson@gmail.com);
-Associate Editor(s)-in-Chief: Abdelrahman Ibrahim Abushouk, MD[2] (mailto:aabushou@bidmc.har
-vard.edu)
-Synonyms and keywords: SVT
 Overview
 There are several classification systems for supraventricular tachycardia, based on site of origin, QRS
 width, pulse regularity, and AV node dependence. There are different types of supraventricular
@@ -53,7 +33,7 @@ width, pulse regularity, and AV node dependence.[1][2]
 • Atrioventricular tachycardia
 • Supraventricular tachycardia can be classified based on QRS width into:
 • Narrow complex tachycardia: Sinus tachycardia, atrial flutter, atrial fibrillation, focal/multifocal atrial
-Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
+  OK
 tachycardia, Sinus node re-entry, AVNRT, and junctional tachycardia.
  1/7
 
@@ -154,9 +134,6 @@ Differentiating Among the Different Types of Supraventricular Tachycardia
 The individual subtypes of SVT can be distinguished from each other by certain physiological and
 electrical characteristics, many of which present in the patient's EKG. Supraventricular tachycardias must
 be differentiated from each other because the management strategies may vary[5].
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 3/7
-
 PR QRS Response to
 Epidemiology Rate Rhythm P waves
 Interval complex maneuvers
@@ -266,9 +243,7 @@ the QRS and normal vagal
 rhythm in AV the QRS
 complex in maneuvers
 block complex
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.morphology
- 4/7
-
+ morphology
 Variable Less than
 P waves of
 PR 0.12 Does not
@@ -369,8 +344,6 @@ cure some of the different sub-types[7].
 maintenance or not.
 • Those that involve the AV node can be terminated by slowing conduction through the AV node.
 • Those that do not involve the AV node will not usually be stopped by AV nodal blocking maneuvers.
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 6/7
 
 • These maneuvers are still useful however, as transient AV block will often unmask the underlying
 rhythm abnormality[8].
@@ -393,13 +366,3 @@ form of preventative therapy.
 • A variety of drugs including simple AV nodal blocking agents like beta-blockers and verapamil, as well
 as antiarrhythmics may be used, usually with good effect, although the risks of these therapies need to
 be weighed against the potential benefits[11].
-References
-Template:WikiDoc Sources
-Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
-Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms | Physical
-Examination | Lab Tests | Drugs
-Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
-There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance | Licensing |
-Disclaimers | Avoid Plagiarism | Policies
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 7/7

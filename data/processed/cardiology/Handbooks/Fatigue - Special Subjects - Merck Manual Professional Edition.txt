@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Fatigue - Special Subjects - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:22.032695",
-  "file_size_bytes": 339683,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Fatigue - Special Subjects - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Fatigue - Special Subjects - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Fatigue
-By Michael R. Wasserman, MD, California Association of Long Term Care Medicine (CALTCM)
-Reviewed By Glenn D. Braunstein, MD, Cedars-Sinai Medical Center
-Reviewed/Revised Feb 2025 | Modified Apr 2025
 Fatigue is difficulty initiating and sustaining activity due to a lack of energy and
 accompanied by a desire to rest. Fatigue is normal after physical exertion,
 prolonged stress, and sleep deprivation.
@@ -44,20 +25,9 @@ Somnolence, a symptom of disorders causing sleep deprivation (eg, allergic rhini
 esophageal reflux, painful musculoskeletal disorders, sleep apnea, severe chronic
 disorders), is an unusually strong desire to sleep. Yawning and lapsing into sleep during
 daytime hours are common. Patients can usually tell the difference between somnolence
- 1/10
-
- Fatigue - Special Subjects - Merck Manual Professional Edition
 and fatigue. However, deprivation of deep nonrapid eye movement sleep can cause muscle
 aches and fatigue, and many patients with fatigue have disturbed sleep, so differentiating
 between fatigue and somnolence may be difficult.
-References
-1. Committee on the Diagnostic Criteria for Myalgic Encephalomyelitis/Chronic Fatigue Syndrome;
-Board on the Health of Select Populations; Institute of Medicine. Beyond Myalgic
-Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness. Washington (DC): National
-Academies Press (US); February 10, 2015.
-2. Unger ER, Lin JS, Wisk LE, et al. Myalgic Encephalomyelitis/Chronic Fatigue Syndrome After SARS-
-CoV-2 Infection. JAMA Netw Open. 2024;7(7):e2423555. Published 2024 Jul 1.
-doi:10.1001/jamanetworkopen.2024.23555
 Etiology of Fatigue
 Most serious (and many minor) acute and chronic illnesses produce fatigue. However, many of these
 have other more prominent manifestations (eg, pain, cough, fever, jaundice) as the presenting
@@ -78,12 +48,7 @@ Mental health conditions (eg, depression) (2)
 Medications
 Several factors commonly cause or contribute to a chief complaint of fatigue, usually prolonged or
 chronic fatigue (see table Some Factors Commonly Contributing To Prolonged Or Chronic Fatigue ).
-TABLE
-Some Factors Commonly Contributing To Prolonged Or Chronic
-Fatigue
- 2/10
-
- Fatigue - Special Subjects - Merck Manual Professional Edition
+  
 Category Examples
 Chronic kidney disease, systemic
 rheumatic diseases (eg, giant cell
@@ -119,14 +84,6 @@ Other causes
 hypercalcemia*, multiple sclerosis,
 trauma including domestic violence
 * Usually does not cause chronic fatigue.
-Etiology references
-1. Raizen DM, Mullington J, Anaclet C, et al. Beyond the symptom: the biology of fatigue. Sleep.
-2023;46(9):zsad069. doi:10.1093/sleep/zsad069
-2. Hanson MR. The viral origin of myalgic encephalomyelitis/chronic fatigue syndrome. PLoS
-Pathog. 2023;19(8):e1011523. Published 2023 Aug 17. doi:10.1371/journal.ppat.1011523
- 3/10
-
- Fatigue - Special Subjects - Merck Manual Professional Edition
 Evaluation of Fatigue
 Fatigue can be highly subjective. Patients vary in what they consider to be fatigue and how they describe
 it, and there are few ways to objectively confirm fatigue or tell how severe it is. History and physical
@@ -160,9 +117,6 @@ diagnostically helpful, and is an important way to build rapport with the patien
 Red flags
 Chronic weight loss
 Chronic fever or night sweats
- 4/10
-
- Fatigue - Special Subjects - Merck Manual Professional Edition
 Generalized lymphadenopathy
 Muscle weakness or pain
 Serious nonfatigue symptoms (eg, hemoptysis, hematemesis, severe dyspnea, ascites,
@@ -210,7 +164,7 @@ hemoptysis Pneumocystis jirovecii or PET-CT, HIV test,
 pneumonia), fungal sputum cytology and/or
  5/10
 
- Fatigue - Special Subjects - Merck Manual Professional Edition
+  
 Symptoms Possible Causes Tests to Consider*
 pneumonia, tuberculosis, culture, pulmonary
 COVID-19 function tests, PPD,
@@ -256,7 +210,7 @@ neurologic symptoms (eg,
 numbness, ataxia,
  6/10
 
- Fatigue - Special Subjects - Merck Manual Professional Edition
+  
 Symptoms Possible Causes Tests to Consider*
 weakness), particularly > 1
 episode
@@ -308,7 +262,7 @@ iron, serum folate, fecal
 elastase measurement
  7/10
 
- Fatigue - Special Subjects - Merck Manual Professional Edition
+  
 Symptoms Possible Causes Tests to Consider*
 Constipation, lethargy, Serum chemistries,
 Hypercalcemia
@@ -351,7 +305,7 @@ Diagnosis of myalgic encephalomyelitis/chronic fatigue syndrome/systemic exertio
 requires specific diagnostic criteria.
  8/10
 
- Fatigue - Special Subjects - Merck Manual Professional Edition
+  
 Treatment of Fatigue
 Treatment to lessen fatigue is directed at the cause.
 Patients with myalgic encephalomyelitis/chronic fatigue syndrome/systemic exertion intolerance
@@ -363,11 +317,6 @@ syndrome/systemic exertion intolerance disease; however, this should not diminis
 of treatments (1). Nonpharmacologic treatments include physical therapy (eg, graded exercise therapy)
 and psychological support (eg, cognitive-behavioral therapy). Focusing on improving sleep and relieving
 pain may also help. Goals include returning to work and maintaining normal activity levels.
-Treatment reference
-1. Seton KA, Espejo-Oltra JA, Giménez-Orenga K, et al. Advancing Research and Treatment: An
-Overview of Clinical Trials in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and
-Future Perspectives. J Clin Med. 2024;13(2):325. Published 2024 Jan 6. doi:10.3390/jcm13020325
-Geriatrics Essentials: Fatigue
 Fatigue is often the first symptom of a disorder in older adults, and should not be disregarded as part of
 normal aging. For example, the first symptom of pneumonia in an older adult may be fatigue rather
 than pulmonary symptoms. The first symptom of other disorders, such as giant cell arteritis, may also
@@ -380,8 +329,3 @@ and lessens with rest.
 Laboratory testing is low yield in the absence of suggestive clinical findings.
 Successful treatment of chronic fatigue is more likely if the health care professional is
 patient and understanding.
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 9/10
-
- Fatigue - Special Subjects - Merck Manual Professional Edition
- 10/10

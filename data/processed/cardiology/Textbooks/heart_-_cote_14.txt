@@ -1,76 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "heart_-_cote_14.pdf",
-  "converted_date": "2026-01-31T14:38:25.230033",
-  "file_size_bytes": 2184218,
-  "original_format": "pdf",
-  "document_type": "Textbooks",
-  "source_folder": "Textbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Textbooks/heart_-_cote_14.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-IV
-Th e Heart
-SECTION
-14
-Essentials of Cardiology
-Timothy C. Slesnick, Ralph Gertler, and CHAPTER
-Wanda C. Miller-Hance
-Congenital Heart Disease Evaluation of the Patient with a Cardiac Murmur
-Incidence Basic Interpretation of the Pediatric
-Segmental Approach to Diagnosis Electrocardiogram
-Physiologic Classifi cation of Defects Essentials of Cardiac Rhythm Interpretation and
-Acute Arrhythmia Management in Children
-Acquired Heart Disease
-Basic Rhythms
-Cardiomyopathies
-Conduction Disorders
-Myocarditis
-Cardiac Arrhythmias
-Rheumatic Fever and Rheumatic Heart Disease
-Pacemaker Therapy in the Pediatric Age Group
-Infective Endocarditis
-Pacemaker Nomenclature
-Kawasaki Disease
-Permanent Cardiac Pacing
-Cardiac Tumors
-Diagnostic Modalities in Pediatric Cardiology
-Heart Failure in Children
-Chest Radiography
-Defi nition and Pathophysiology
-Barium Swallow
-Etiology and Clinical Features
-Echocardiography
-Treatment Strategies
-Magnetic Resonance Imaging
-Syndromes, Associations, and Systemic Disorders:
-Cardiovascular Disease and Anesthetic Implications Computed Tomography
-Chromosomal Syndromes Cardiac Catheterization and Angiography
-Gene Deletion Syndromes Considerations in the Perioperative Care of Children
-with Cardiovascular Disease
-Single-Gene Defects
-General Issues
-Associations
-Clinical Condition and Status of Prior Repair
-Other Disorders
-Summary
-Selected Vascular Anomalies and Their Implications
-for Anesthetic Care
-Aberrant Subclavian Arteries
-Persistent Left Superior Vena Cava to Coronary Sinus
-Communication
-Congenital Heart Disease adulthood has become the expectation for most congenital car-
-diovascular malformations.3 At present it is estimated that there
-Incidence are more than a million adults with CHD in the United States,
-Estimates of the incidence of congenital heart disease (CHD) surpassing the number of children similarly aff ected for the fi rst
-range from 0.3% to 1.2% in live neonates.1 Th is represents the time in history. A similar trend of an increasing number of
-most common form of congenital pathology and a major cause adults with CHD, also known as “grown-up congenital heart
-of mortality during the neonatal period.2 As medical, interven- disease” (or GUCH) patients, has also been reported in Canada
-tional, and surgical therapies continue to improve, survival into and several European countries.4-8
-293
-
+ 
 A Practice of Anesthesia for Infants and Children
 Overall, a bicuspid aortic valve (Video Clip 14-1) is the most and abdominal organs) are often more diffi cult to precisely
 common cardiac defect, occurring in up to 1% of the popula- defi ne.
@@ -148,10 +76,6 @@ septal defects if present, valvar and/or great vessel abnormali-
 ties, and so on. Whereas many types of congenital defects fall Obstruction to Pulmonary Blood Flow
 neatly into this classifi cation scheme, others, such as heterotaxy Lesions with pulmonary outfl ow tract obstruction include
 syndromes (a condition associated with malposition of the heart those with ductal-dependent pulmonary blood fl ow. Pulmonary
-294
-
-14
-Essentials of Cardiology
 atresia with intact ventricular septum and critical pulmonary ventricular noncompaction37-39 and arrhythmogenic right ven-
 valve stenosis are defects that rely on patency of the ductus tricular dysplasia.40 Secondary forms of cardiomyopathies are
 arteriosus for pulmonary blood fl ow. Th ese infants may also those associated with neuromuscular disorders such as Duch-
@@ -253,7 +177,7 @@ the ECG was not reduced in size to fi t on the paper) as are all other ECG traci
 296
 
 14
-Essentials of Cardiology
+ 
 agents for outpatient drug therapy.51 Long-term treatment is
 individualized and based on the degree of hypertrophy, presence
 of ventricular ectopy, symptomatology (including syncope and
@@ -353,7 +277,7 @@ frequent causes of fulminant disease.74-76 Th e pathogenesis of Myocarditis is g
 298
 
 14
-Essentials of Cardiology
+ 
 Rheumatic fever results from infection by particular strains
 of group A β-hemolytic Streptococcus or Streptococcus pyogenes.
 Both cellular and humoral immune responses to the bacterial
@@ -492,7 +416,7 @@ extremely low. However, certain cardiac conditions have a pre-
 300
 
 14
-Essentials of Cardiology
+ 
 Th e guidelines are to administer antibiotic prophylaxis 30 to
 60 minutes preceding the procedure to achieve adequate tissue
 levels before the time of potential bacteremia (Table 14-2).111
@@ -616,7 +540,7 @@ to anesthetic practice. through an enteral feeding tube may be required.
 302
 
 14
-Essentials of Cardiology
+ 
 Syndromes, Associations, and Systemic 1 in 3500 newborns). Most patients exhibit microcephaly,
 delayed psychomotor development, and mental retardation.170
 Disorders: Cardiovascular Disease and
@@ -784,7 +708,7 @@ chromosome 22q deletion syndromes. Because no single feature values during anest
 304
 
 14
-Essentials of Cardiology
+ 
 of life. Esophageal atresia with tracheoesophageal fi stula is found
 in a large number of aff ected infants. Low birth weight (<1500 g)
 and associated cardiac pathology have been identifi ed to be
@@ -911,7 +835,7 @@ compressed by a transesophageal echocardiographic probe.
 306
 
 14
-Essentials of Cardiology
+ 
 Persistent Left Superior Vena Cava to Coronary ● On occasion, an LSVC may drain to an unroofed coronary
 Sinus Communication sinus or directly into the left atrium, in which case a right-
 A persistent left superior vena cava (LSVC) is a form of anoma- to-left shunt is present. Th is may be identifi ed by injection
@@ -997,7 +921,7 @@ waves over the right precordial leads (V and V) is evident. The inverted T waves
 308
 
 14
-Essentials of Cardiology
+ 
 dominant confi guration with larger S waves in the right precor- with an S-wave dominant pattern in both I and aVF) are always
 dial leads and a gradual RS progression with tall R waves in the abnormal and merit further investigation. Th is is a frequent
 left precordial leads (V and V) (Fig. 14-12). Th e predominance fi nding in children with atrioventricular septal defects. Evaluat-
@@ -1074,7 +998,7 @@ and prolongation of the QRS interval.
 310
 
 14
-Essentials of Cardiology
+ 
 I aVR V1 V4 V3R
 II aVL V2 V5 V4R
 III aVF V3 V6 V7
@@ -1149,7 +1073,7 @@ knowledge of cardiac rhythm interpretation. Although a or would not be tolerated
 312
 
 14
-Essentials of Cardiology
+ 
 period. Th e guidelines established by the American Heart Basic Rhythms
 Association for Pediatric Advanced Life Support should be
 Sinus Rhythm
@@ -1255,7 +1179,7 @@ normal appearance preceded by P waves that are upright in leads I and aVF).
 314
 
 14
-Essentials of Cardiology
+ 
 II
 V
 A
@@ -1325,7 +1249,7 @@ the decrease in the systemic arterial pressure, ART 1, scale 0-100 mm Hg and the
 316
 
 14
-Essentials of Cardiology
+ 
 Ventricular Arrhythmias diate morphology between two other distinct QRS morpholo-
 gies), (3) QRS morphology of VT similar to that of single PVCs,
 Premature Ventricular Contractions or Beats
@@ -1415,7 +1339,7 @@ ventricular tachycardia are shown.
 318
 
 14
-Essentials of Cardiology
+ 
 assessment should be performed and adequate pad contact ● Th e fi fth to multisite pacing (A = atrium, V = ventricle, D =
 assured when VF is suspected. dual or both, O = none)
 Considerations in the management of VF are as follows:
@@ -1563,7 +1487,7 @@ units relate primarily to the potential for surgical electromag- No evidence of 
 320
 
 14
-Essentials of Cardiology
+ 
 guide the diff erential diagnosis (see earlier discussion on physi-
 ologic classifi cation of CHD).
 Last, the cardiac silhouette and great vessels should be
@@ -1710,7 +1634,7 @@ of abnormalities, such as septal defects and valvar anomalies. SF (%) = L VED di
 322
 
 14
-Essentials of Cardiology
+ 
 Values range from 28% to 44%, with a normal mean value of Evaluation of Gradients
 36%. Th is index, however, is dependent on ventricular preload Estimation of a peak instantaneous gradient is the most clini-
 and afterload. cally useful method for quantifying the severity of obstructions
@@ -1819,7 +1743,7 @@ Figure 14-28. These two CT images display the details of the aortic arch anatomy
 324
 
 14
-Essentials of Cardiology
+ 
 Blalock-Tausig Shunt
 44%
 xx
@@ -1891,7 +1815,7 @@ valvuloplasty. Lower panel: (D), placement of ductal occluder device; (E), trans
 326
 
 14
-Essentials of Cardiology
+ 
 it nio fen
 c
 tin ioc nlu
@@ -2053,7 +1977,7 @@ circulations.
 328
 
 14
-Essentials of Cardiology
+ 
 Table 14-4 (continued). Surgical Procedures for Congenital Heart Disease
 Procedure Description Goal/Result
 Sano modifi cation of the Placement of graft between the right Provides for pulmonary blood fl ow
@@ -2134,25 +2058,3 @@ vention. Th ese include residual shunts, valvar stenoses or individuals. In this
 outfl ow tract obstruction, valvar regurgitation, pulmonary in cardiology that may enhance the overall knowledge of
 hypertension, arrhythmias, and ventricular dysfunction. Chil- the practicing anesthesiologist in pediatric cardiovascular
 dren who require a detailed appraisal of perioperative risks disease.
-Annotated References
-Hata T, Todd MM: Cervical spine considerations when anesthetiz- Th e study assessed changes in ventricular function in response to two
-ing patients with Down syndrome. Anesthesiology 2005; 102: anesthetic regimens in single-ventricle patients using recently
-680-685 described echocardiographic indices (myocardial performance index
-Th e review stresses the need for careful preoperative evaluation in chil- and Doppler tissue imaging).
-dren with Down syndrome to identify symptomatic patients with Lang RM, Mor-Avi V, Sugeng L, et al: Th ree-dimensional echocardiog-
-cervical spine anomalies. raphy: the benefi ts of the additional dimension. J Am Coll Cardiol
-Jeff eries JL, Denfi eld SW, Price JF, et al: A prospective evaluation of 2006; 48:2053-2069
-nesiritide in the treatment of pediatric heart failure. Pediatr Cardiol Th e article focuses on the benefi ts of 3D echocardiography, the realistic
-2006; 27:402-407 and unique comprehensive views of cardiac valves and congenital
-Th e study evaluated the potential role of recombinant B-type natriuretic abnormalities; and the utility in the intraoperative and postoperative
-peptide (nesiritide) for the treatment of pediatric decompensated settings.
-heart failure. Nesiritide was associated with improved urine output Samyn MM: A review of the complementary information available with
-and functional status, supporting its application in the treatment of cardiac magnetic resonance imaging and multi-slice computed
-pediatric heart failure. tomography (CT) during the study of congenital heart disease. Int
-Ikemba CM, Su JT, Stayer SA, et al: Myocardial performance index J Cardiovasc Imaging 2004; 20:569-578
-with sevofl urane-pancuronium versus fentanyl-midazolam- Th e review highlights the applications of cardiac magnetic resonance
-pancuronium in infants with a functional single ventricle. Anes- imaging and computed tomography (CT) in the diagnosis of congeni-
-thesiology 2004; 101:1298-1305 tal heart disease.
-References
-Please see www.expertconsult.com
-330

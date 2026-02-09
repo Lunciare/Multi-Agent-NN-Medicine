@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Tilt Table Testing - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:53.603359",
-  "file_size_bytes": 130379,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Tilt Table Testing - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Tilt Table Testing - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Tilt Table Testing
-By Thomas Cascino, MD, MSc, Michigan Medicine, University of Michigan;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Dec 2023
 Tilt table testing is used to evaluate syncope in
 Younger, apparently healthy patients
 Elderly patients when cardiac and other tests have not provided a diagnosis
@@ -41,9 +21,6 @@ Severe mitral valve stenosis
 Interpretation of Tilt Table Testing
 If vasovagal symptoms develop, vasovagal syncope is confirmed. If symptoms do not occur, a
 medication (eg, isoproterenol) may be given to induce them. (NOTE: Isoproterenol should not be used in
- 1/2
-
- Tilt Table Testing - Cardiovascular Disorders - Merck Manual Professional Edition
 patients with hypertrophic cardiomyopathy or severe coronary artery disease.) Sensitivity varies from 30 to
 80% depending on the protocol used. The false-positive rate is 10 to 15%.
 With vasovagal syncope, heart rate and blood pressure (BP) usually decrease. Some patients have only a
@@ -52,6 +29,3 @@ responses that suggest alternative diagnoses include a gradual decrease in systo
 little change in heart rate (dysautonomic pattern), significant increase in heart rate (> 30 beats/minute)
 with little change in BP (postural orthostatic tachycardia syndrome), and report of syncope with no
 hemodynamic changes (psychogenic syncope).
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 2/2

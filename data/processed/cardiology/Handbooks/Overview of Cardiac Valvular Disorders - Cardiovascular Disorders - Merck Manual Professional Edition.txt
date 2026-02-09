@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Overview of Cardiac Valvular Disorders - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:37:02.474994",
-  "file_size_bytes": 203632,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of Cardiac Valvular Disorders - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Overview of Cardiac Valvular Disorders - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Overview of Cardiac Valvular Disorders
-(Heart Valve Disorders)
-By Guy P. Armstrong, MD, Waitemata District Health Board and Waitemata Cardiology, Auckland
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Jun 2025
 Any heart valve can become stenotic or insufficient (also termed regurgitant or incompetent), causing
 hemodynamic changes long before symptoms occur. Depending on which valve is involved, the most
 common symptoms include dyspnea, fatigue, and peripheral edema. Most often, valvular stenosis or
@@ -48,14 +28,8 @@ particularly for less experienced clinicians (1). Now, with the physical examina
 echocardiography (cardiac ultrasound), sometimes including handheld ultrasound, diagnosis is more
 straightforward. Two-dimensional and three-dimensional studies demonstrate valvular anatomy and
 leaflet motion. Doppler echocardiography evaluates pressure gradients and blood flow. Evaluation also
- 1/5
-
- Overview of Cardiac Valvular Disorders - Cardiovascular Disorders - Merck Manual Professional Edition
 includes ECG (to detect heart rhythm and chamber alterations) and chest radiograph (to detect chamber
 alterations, pulmonary congestion, and other lung pathology).
-General reference
-1. Ma I and Tierney LM: Name that murmur—Eponyms for the astute auscultician. N Engl J Med
-363:2164–2168, 2010.
 Treatment of Valvular Disorders
 Valvuloplasty (valve repair, also called valvotomy) or valve replacement
 Management of a valvular lesion commonly requires only periodic observation, with no active treatment
@@ -84,9 +58,6 @@ A mechanical valve is usually used (1) in patients who are not contemplating bec
 who meet one or more of the following criteria:
 Already taking a vitamin K antagonist (eg, for atrial fibrillation) and adhering well to therapy
 Under age 50 years (for aortic valve)
- 2/5
-
- Overview of Cardiac Valvular Disorders - Cardiovascular Disorders - Merck Manual Professional Edition
 Under age 65 years (for mitral valve)
 A bioprosthetic valve is recommended to replace the aortic valve for patients > 65 years. For patients
 aged 50 to 65 years, the recommendations are guides only because patients' preferences may deviate,
@@ -123,10 +94,6 @@ When VKA treatment is interrupted, bridging with unfractionated or low molecular
 indicated, except in patients with a bileaflet (mechanical) aortic valve replacement and no other risk
 factors for thrombosis (previous thromboembolism, atrial fibrillation, LVEF < 35%, > 1 mechanical valve
 —1).
- 3/5
-
- Overview of Cardiac Valvular Disorders - Cardiovascular Disorders - Merck Manual Professional Edition
-CLINICAL CALCULATORS
 Atrial Fibrillation CHA(2)DS(2)-VASc Score for Stroke Risk
 Pearls & Pitfalls
 Warfarin is the only appropriate oral anticoagulant for thromboembolism prevention in
@@ -156,20 +123,3 @@ formation is difficult to diagnose; computed tomography (CT) and transesophageal
 (TEE) are often required in addition to TTE. Thrombus formation should be distinguished from other
 causes of valve stenosis, because vitamin K antagonism usually results in relief of obstruction that is
 caused by thrombus formation.
-Treatment references
-1. Otto CM, Nishimura RA, Bonow RO, et al: 2020 ACC/AHA Guideline for the Management of
-Patients With Valvular Heart Disease: Executive Summary: A Report of the American College of
- 4/5
-
- Overview of Cardiac Valvular Disorders - Cardiovascular Disorders - Merck Manual Professional Edition
-Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation
-143(5):e35–e71, 2021. doi: 10.1161/CIR.0000000000000932
-2. Selvaraj V, Khan MS, Mufarrih SH, et al: Meta-Analysis Assessing Efficacy and Safety of Vitamin K
-Antagonists Versus Direct Oral Anticoagulants for Atrial Fibrillation After Transcatheter Aortic Valve
-Implantation. Am J Cardiol 201:260–267, 2023. doi:10.1016/j.amjcard.2023.06.049
-3. Vahanian A, Beyersdorf F, Praz F, et al: 2021 ESC/EACTS Guidelines for the management of
-valvular heart disease [published correction appears in Eur Heart J.2022 Jun 1;43(21):2022. doi:
-10.1093/eurheartj/ehac051]. Eur Heart J. 43(7):561–632, 2022. doi:10.1093/eurheartj/ehab395
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 5/5

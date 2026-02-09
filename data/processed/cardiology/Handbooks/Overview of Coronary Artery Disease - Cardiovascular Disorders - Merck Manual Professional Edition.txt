@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:55.940186",
-  "file_size_bytes": 439438,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Overview of Coronary Artery Disease
-By Ranya N. Sweis, MD, MS, Northwestern University Feinberg School of Medicine;
-Arif Jivan, MD, PhD, Northwestern University Feinberg School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2024 | Modified Dec 2025
 Coronary artery disease (CAD) involves impairment of blood flow through the
 coronary arteries, most commonly by atheromas. Clinical presentations include
 silent ischemia, angina pectoris, acute coronary syndromes (unstable angina,
@@ -32,20 +12,10 @@ Coronary artery disease is the leading cause of death in both sexes, accounting 
 third of all deaths, and substantial numbers of these occur in low resource areas (1). Mortality from
 coronary artery disease is approximately 5 times higher in men than in women, but the mortality
 difference declines with age (2).
-General references
-1. Ralapanawa U, Sivakanesan R. Epidemiology and the Magnitude of Coronary Artery Disease and
-Acute Coronary Syndrome: A Narrative Review. J Epidemiol Glob Health 2021;11(2):169-177.
-doi:10.2991/jegh.k.201217.001
-2. Bots SH, Peters SAE, Woodward M. Sex differences in coronary heart disease and stroke
-mortality: a global assessment of the effect of ageing between 1980 and 2010. BMJ Glob Health
-2017;2(2):e000298. Published 2017 Mar 27. doi:10.1136/bmjgh-2017-000298
 Etiology of Coronary Artery Disease
 Usually, coronary artery disease is due to
 Coronary artery atherosclerosis: Subintimal deposition of atheromas in large and medium-
 sized coronary arteries
- 1/11
-
- Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
 Less often, coronary artery disease is due to
 Coronary artery spasm (see Vasospastic Angina)
 Vascular endothelial dysfunction can promote atherosclerosis and contribute to coronary artery spasm.
@@ -82,8 +52,7 @@ In arteries with atheroma, the atheroma causes endothelial dysfunction, possibly
 resulting in local hypercontractility. Proposed mechanisms include loss of sensitivity to
 intrinsic vasodilators (eg, acetylcholine) and increased production of vasoconstrictors (eg,
  2/11
-
- Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 angiotensin II, endothelin, leukotrienes, serotonin, thromboxane) in the area of the
 atheroma. Recurrent spasm may damage the intima, leading to atheroma formation.
 Use of vasoconstricting substances (eg, cocaine, nicotine) and emotional stress also can trigger coronary
@@ -119,8 +88,7 @@ Cardiovascular Risk Assessment (10-year, Revised Pooled Cohort Equations
 High blood levels of C-reactive protein indicate plaque instability and inflammation and may be a
 stronger predictor of risk of ischemic events than high levels of LDL (4). High blood levels of triglycerides
  3/11
-
- Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 and insulin (reflecting insulin resistance) may be risk factors, but data are less clear. CAD risk is also
 increased by a diet high in fat and calories and low in phytochemicals (found in fruits and vegetables),
 fiber, and vitamins C, D, and E; by a diet relatively low in omega-3 (n-3) polyunsaturated fatty acids
@@ -131,38 +99,6 @@ year risk of atherosclerotic cardiovascular disease (5, 6). The PREVENT calculat
 additional information, including measures of kidney and metabolic health and socioeconomic variation
 (as determined by U. S. zip code), to provide 10- and 30- year risk estimates for combined
 atherosclerotic cardiovascular disease and heart failure (7, 8).
-Risk factor references
-1. Prescott E, Hippe M, Schnohr P, Hein HO, Vestbo J. Smoking and risk of myocardial infarction in
-women and men: longitudinal population study. BMJ 1998;316(7137):1043-1047.
-doi:10.1136/bmj.316.7137.1043
-2. Sniderman AD, Thanassoulis G, Glavinovic T, et al. Apolipoprotein B Particles and Cardiovascular
-Disease: A Narrative Review. JAMA Cardiol 2019 Dec 1;4(12):1287-1295. doi:
-10.1001/jamacardio.2019.3780
-3. Wilkins JT, Li RC, Sniderman A, Chan C, Lloyd-Jones DM. Discordance Between Apolipoprotein B
-and LDL-Cholesterol in Young Adults Predicts Coronary Artery Calcification: The CARDIA Study. J
-Am Coll Cardiol 2016;67(2):193-201. doi:10.1016/j.jacc.2015.10.055
-4. Ridker PM, Lei L, Louie MJ, et al. Inflammation and Cholesterol as Predictors of Cardiovascular
-Events Among 13 970 Contemporary High-Risk Patients With Statin Intolerance. Circulation
-2024;149(1):28-35. doi:10.1161/CIRCULATIONAHA.123.066213
-5. Muntner P, Colantonio LD, Cushman M, et al. Validation of the atherosclerotic cardiovascular
-disease Pooled Cohort risk equations. JAMA 2014;311(14):1406-1415. doi:10.1001/jama.2014.2630
-6. Arnett DK, Blumenthal RS, Albert MA, et al. 2019 ACC/AHA Guideline on the Primary Prevention
-of Cardiovascular Disease: A Report of the American College of Cardiology/American Heart
-Association Task Force on Clinical Practice Guidelines [published correction appears in Circulation.
-2019 Sep 10;140(11):e649-e650. doi: 10.1161/CIR.0000000000000725] [published correction
-appears in Circulation. 2020 Jan 28;141(4):e60. doi: 10.1161/CIR.0000000000000755] [published
-correction appears in Circulation. 2020 Apr 21;141(16):e774. doi: 10.1161/CIR.0000000000000771].
-Circulation 2019;140(11):e596-e646. doi:10.1161/CIR.0000000000000678
-7. Khan SS, Matsushita K, Sang Y, et al. Development and Validation of the American Heart
-Association's PREVENT Equations. Circulation 2024;149(6):430-449.
-doi:10.1161/CIRCULATIONAHA.123.067626
-8. Khan SS, Coresh J, Pencina MJ, et al. Novel Prediction Equations for Absolute Risk Assessment of
-Total Cardiovascular Disease Incorporating Cardiovascular-Kidney-Metabolic Health: A Scientific
-Statement From the American Heart Association. Circulation 2023;148(24):1982-2004.
-doi:10.1161/CIR.0000000000001191
- 4/11
-
- Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
 Coronary Artery Anatomy
 The right and left coronary arteries arise from the right and left coronary sinuses in the root of the aorta
 just above the aortic valve orifice (see figure Arteries of the Heart). The coronary arteries divide into
@@ -181,8 +117,7 @@ node and inferior myocardial wall. About 10 to 15% of people have left dominance
 artery is larger and continues along the posterior AV groove to supply the posterior wall and AV node.
 Arteries of the Heart
  5/11
-
- Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Coronary Arteries
 3D MODEL
 Treatment of Coronary Artery Disease
@@ -197,7 +132,6 @@ Coronary artery blood flow can be improved by percutaneous coronary intervention
 artery bypass grafting (CABG). An acute coronary thrombosis may sometimes be dissolved by
 fibrinolytic drugs.
 Medical therapy
-(See also Medications for Acute Coronary Syndromes.)
 Medical management of patients with CAD depends on symptoms, cardiac function, and the presence
 of other disorders. Recommended therapy includes
 Antiplatelet agents to prevent thrombus formation
@@ -211,8 +145,7 @@ presence of post-myocardial infarction (MI) LV dysfunction.
 Calcium channel blockers are also helpful. They often are combined with beta-blockers in managing
 angina and hypertension but have not been proven to reduce mortality.
  6/11
-
- Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Nitrates modestly dilate coronary arteries and decrease venous return, decreasing cardiac work and
 relieving angina quickly. Longer acting nitrate formulations help decrease angina events but do not
 decrease mortality.
@@ -251,8 +184,7 @@ acute coronary syndrome but should not be considered routine. It is unclear whet
 give glycoprotein IIb/IIIa inhibitors before arrival in the cardiac catheterization laboratory, but most
 national organizations do not recommend their use in this situation (5).
  7/11
-
- Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 A statin is started after stent insertion, if one is not already being used because PCI by itself does not
 cure or prevent the progression of CAD. Statin therapy has been shown to improve long-term event-free
 survival (6). Patients who receive a statin before the procedure have a lower risk of periprocedural MI.
@@ -289,41 +221,6 @@ bypassed vessels increases. Vein grafts become obstructed early if thrombi form 
 years) if atherosclerosis causes slow degeneration of the intima and media. Aspirin prolongs vein graft
 patency. Continued smoking has a profound adverse effect on patency. After CABG, a statin should be
 started or continued at maximally tolerated doses.
-Treatment references
- 8/11
-
- Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
-1. Indications for ACE inhibitors in the early treatment of acute myocardial infarction: systematic
-overview of individual data from 100,000 patients in randomized trials. ACE Inhibitor Myocardial
-Infarction Collaborative Group. Circulation 1998;97(22):2202-2212. doi:10.1161/01.cir.97.22.2202
-2. Düsing R. Mega clinical trials which have shaped the RAS intervention clinical practice. Ther Adv
-Cardiovasc Dis 2016;10(3):133-150. doi:10.1177/1753944716644131
-3. Peller M, Ozierański K, Balsam P, Grabowski M, Filipiak KJ, Opolski G. Influence of beta-blockers
-on endothelial function: A meta-analysis of randomized controlled trials. Cardiol J 2015;22(6):708-
-716. doi:10.5603/CJ.a2015.0042
-4. Bønaa KH, Mannsverk J, Wiseth R, et al. Drug-Eluting or Bare-Metal Stents for Coronary Artery
-Disease. N Engl J Med 2016;375(13):1242-1252. doi:10.1056/NEJMoa1607991
-5. Writing Committee Members, Lawton JS, Tamis-Holland JE, et al. 2021 ACC/AHA/SCAI Guideline
-for Coronary Artery Revascularization: A Report of the American College of Cardiology/American
-Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in
-J Am Coll Cardiol 2022 Apr 19;79(15):1547]. J Am Coll Cardiol 2022;79(2):e21-e129.
-doi:10.1016/j.jacc.2021.09.006
-6. Grundy SM, Stone NJ, Bailey AL, et al: 2018
-AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the
-Management of Blood Cholesterol: A Report of the American College of Cardiology/American
-Heart Association Task Force on Clinical Practice Guidelines [published correction appears in
-Circulation 2019 Jun 18;139(25):e1182-e1186] [published correction appears in Circulation 2023 Aug
-15;148(7):e5]. Circulation 139(25):e1082–e1143, 2019. doi:10.1161/CIR.0000000000000625
-7. Palmerini T, Biondi-Zoccai G, Reggiani LB, et al: Risk of stroke with coronary artery bypass graft
-surgery compared with percutaneous coronary intervention. J Am Coll Cardiol 60(9):798–805, 2012.
-doi:10.1016/j.jacc.2011.10.912
-8. Hillis LD, Smith PK, Anderson JL, et al: 2011 ACCF/AHA Guideline for Coronary Artery Bypass
-Graft Surgery: a report of the American College of Cardiology Foundation/American Heart
-Association Task Force on Practice Guidelines [published correction appears in Circulation 2011
-Dec 20;124(25):e957]. Circulation 124(23):e652–e735, 2011. doi:10.1161/CIR.0b013e31823c074e
-9. Kulik A, Ruel M, Jneid H, et al: Secondary prevention after coronary artery bypass graft surgery: a
-scientific statement from the American Heart Association. Circulation 131(10):927–964, 2015.
-doi:10.1161/CIR.0000000000000182
 Prevention of Coronary Artery Disease
 The American Heart Association (AHA) recommends using the pooled cohort risk assessment equations
 to estimate lifetime and 10-year risk of atherosclerotic cardiovascular disease. The risk calculator is
@@ -333,8 +230,7 @@ Prevention of coronary artery disease involves modifying atherosclerosis risk fa
 Smoking cessation
 Weight loss
  9/11
-
- Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Healthful diet
 Regular exercise
 Modification of serum lipid levels
@@ -363,25 +259,3 @@ progression of atherosclerosis when medications are used to raise HDL (3).
 Aspirin is not recommended for primary prevention of CAD in patients ≥ 60 years (4). It can be
 considered for patients aged 40 to 59 years whose 10-year risk of cardiovascular disease exceeds 10%,
 but absolute benefit is likely to be small.
-Prevention references
-1. Arnett DK, Blumenthal RS, Albert MA, et al: 2019 ACC/AHA Guideline on the Primary Prevention
-of Cardiovascular Disease: Executive Summary: A Report of the American College of
-Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll
-Cardiol 74:1376–1414, 2019. doi: 10.1016/j.jacc.2019.03.009
-2. Whelton PB, Carey RM, Aronow WS, et al:
-ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the prevention,
-detection, evaluation, and management of high blood pressure in adults: A report of the American
-College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am
-Coll Cardiol 71:e127–e248, 2018. doi: 10.1161/HYP.0000000000000066
- 10/11
-
- Overview of Coronary Artery Disease - Cardiovascular Disorders - Merck Manual Professional Edition
-3. AIM-HIGH Investigators, Boden WE, Probstfield JL, Anderson T, et al: Niacin in patients with low
-HDL cholesterol levels receiving intensive statin therapy. N Engl J Med 365(24): 2255–2267, 2011.
-doi: 10.1056/NEJMoa1107579
-4. US Preventive Services Task Force, Davidson KW, Barry MJ, et al: Aspirin Use to Prevent
-Cardiovascular Disease: US Preventive Services Task Force Recommendation Statement. JAMA
-327(16):1577–1584, 2022. doi:10.1001/jama.2022.4983
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 11/11

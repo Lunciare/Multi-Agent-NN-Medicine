@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:43.412814",
-  "file_size_bytes": 1487651,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Complications of Acute Coronary Syndromes
-By Ranya N. Sweis, MD, MS, Northwestern University Feinberg School of Medicine;
-Arif Jivan, MD, PhD, Northwestern University Feinberg School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2024 | Modified Oct 2025
 Numerous complications can occur as a result of an acute coronary syndrome and increase morbidity
 and mortality. Complications can be roughly categorized as
 Electrical dysfunction (conduction disturbance, arrhythmias)
@@ -47,7 +27,7 @@ because high doses may induce tachycardia. Occasionally, a temporary transvenous
 be inserted.
  1/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Sinus tachycardia
 Persistent sinus tachycardia is usually ominous, often reflecting left ventricular failure and low cardiac
 output. Without heart failure or another evident cause, this arrhythmia may respond to a beta-blocker,
@@ -72,7 +52,7 @@ For atrial fibrillation, a heparin (unfractionated or low molecular weight) is u
 risk of systemic emboli.
  2/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Intravenous beta-blockers (eg, atenolol 2.5 to 5.0 mg over 2 minutes to total dose of 10 mg in 10 to 15
 minutes, metoprolol 2 to 5 mg every 2 to 5 minutes to a total dose of 15 mg in 10 to 15 minutes) rapidly
 slow the ventricular rate and are typically given when heart rate is > 100 beats per minute. Heart rate
@@ -102,23 +82,16 @@ unsatisfactory. Low-energy direct current (DC) synchronized cardioversion will u
 flutter.
  3/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Atrial Flutter
 (Note: Conducted with right bundle branch block.)
-Atrial arrhythmia reference
-1. January CT, Wann LS, Calkins H, et al. 2019 AHA/ACC/HRS Focused Update of the 2014
-AHA/ACC/HRS Guideline for the Management of Patients With Atrial Fibrillation: A Report of the
-American College of Cardiology/American Heart Association Task Force on Clinical Practice
-Guidelines and the Heart Rhythm Society in Collaboration With the Society of Thoracic Surgeons
-[published correction appears in Circulation 2019 Aug 6;140(6):e285]. Circulation 2019;140(2):e125-
-e151. doi:10.1161/CIR.0000000000000665
 Conduction Defects
 Mobitz type I block (Wenckebach block, progressive prolongation of PR interval with eventual dropped
 beats) is relatively common with an inferior-diaphragmatic infarction (see figure Mobitz Type I Second-
 Degree Atrioventricular Block); it is usually self-limited and rarely progresses to higher grade block.
  4/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Classic Mobitz Type I Second-Degree Atrioventricular Block
 The PR interval progressively lengthens with each beat until the atrial impulse is not
 conducted and the QRS complex is dropped (Wenckebach phenomenon); atrioventricular
@@ -146,7 +119,7 @@ minutes to a total dose of 3 mg) may be useful for narrow-complex atrioventricul
 ventricular rate but is not recommended for new wide-complex atrioventricular block.
  5/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Ventricular Arrhythmias
 Ventricular arrhythmias are common and may result from hypoxia, electrolyte imbalance (hypokalemia,
 possibly hypomagnesemia), or sympathetic overactivity in ischemic cells adjacent to infarcted tissue
@@ -184,25 +157,17 @@ Ventricular tachycardia may occur months after myocardial infarction. Late ventr
 more likely to occur in patients with transmural infarction and to be sustained.
  6/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Broad QRS Ventricular Tachycardia
 The QRS duration is 160 millisecond. An independent P wave can be seen in II (arrows). There is a
 leftward mean frontal axis shift.
 Ventricular fibrillation
 Ventricular Fibrillation
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
 Ventricular fibrillation occurs in some patients during the first 24 hours after myocardial infarction,
 usually within 6 hours. Late ventricular fibrillation usually indicates continued or recurrent myocardial
 ischemia and, when accompanied by hemodynamic deterioration, is a poor prognostic sign. Ventricular
 fibrillation is treated with immediate unsynchronized cardioversion.
- 7/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
-Ventricular arrhythmias reference
-1. Freemantle N, Cleland J, Young P, Mason J, Harrison J. beta Blockade after myocardial infarction:
-systematic review and meta regression analysis. BMJ 1999;318(7200):1730-1737.
-doi:10.1136/bmj.318.7200.1730
 Heart Failure
 Heart failure is more likely in patients with
 Large infarctions (determined by ECG or cardiac biomarkers)
@@ -235,7 +200,7 @@ ventricular assist device is increasingly used as permanent treatment (destinati
 Occasionally, use of such a device results in recovery and can be removed in 3 to 6 months.
  8/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Papillary Muscle Disorders
 Functional papillary muscle insufficiency occurs in about 35 to 40% of patients during the first few
 hours of infarction (1). Papillary muscle ischemic dysfunction causes incomplete coaptation of the mitral
@@ -248,11 +213,6 @@ by the sudden appearance of a loud apical holosystolic murmur and thrill, usuall
 edema. Occasionally, severe regurgitation is silent. An abrupt hemodynamic deterioration raises clinical
 suspicion of papillary muscle rupture; echocardiography should always be done to make the diagnosis.
 Urgent mitral valve repair or replacement is necessary and effective.
-Papillary muscle disorders reference
-1. Tanimoto T, Imanishi T, Kitabata H, et al. Prevalence and clinical significance of papillary muscle
-infarction detected by late gadolinium-enhanced magnetic resonance imaging in patients with ST-
-segment elevation myocardial infarction. Circulation 2010;122(22):2281-2287.
-doi:10.1161/CIRCULATIONAHA.109.935338
 Myocardial Rupture
 Interventricular septum or free wall rupture occurs in 1% of patients with acute myocardial infarction. It
 causes 15% of hospital mortality.
@@ -273,7 +233,7 @@ often by signs of cardiac tamponade. Surgery is rarely successful. Rupture of a 
 fatal.
  9/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Ventricular Aneurysm
 A localized bulge in the ventricular wall, usually the left ventricular wall, can occur at the site of a large
 infarction. Ventricular aneurysms are common, especially with a large transmural infarct (usually
@@ -309,7 +269,7 @@ without left heart overload (excessive rise in left atrial pressure). However, s
 function is so compromised that adequate fluid replacement sharply increases pulmonary artery
  10/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 occlusion pressure to levels associated with pulmonary edema (> 25 mm Hg). If left atrial pressure is
 high, hypotension is probably due to left ventricular failure, and if diuretics are ineffective, inotropic
 therapy or circulatory support may be required.
@@ -336,10 +296,6 @@ angioplasty, or emergency coronary artery bypass grafting. Revascularization usu
 ventricular function. If coronary anatomy is suitable, percutaneous coronary intervention or coronary
 artery bypass grafting may be considered for persistent ischemia, refractory ventricular arrhythmia,
 hemodynamic instability, or shock.
-Hypotension and cardiogenic shock reference
-1. Lauridsen MD, Rørth R, Lindholm MG, et al. Trends in first-time hospitalization, management,
-and short-term mortality in acute myocardial infarction-related cardiogenic shock from 2005 to
-2017: A nationwide cohort study. Am Heart J 2020;229:127-137. doi:10.1016/j.ahj.2020.08.012
 Right Ventricular Ischemia or Infarction
 Right ventricular infarction rarely occurs in isolation; it usually accompanies inferior left ventricular
 infarction. The first sign may be hypotension developing in a previously stable patient.
@@ -347,7 +303,7 @@ Right-sided ECG leads may show ST-segment changes. Volume loading with 1 to 2 L 
 often effective. Dobutamine or milrinone (which has better dilating effects on the pulmonary circulation)
  11/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 may help. Nitrates and diuretics are not used; they reduce preload (and hence cardiac output), causing
 severe hypotension. Increased right-sided filling pressure should be maintained by IV fluid infusion, but
 excessive volume overload may compromise left ventricular filling and cardiac output.
@@ -381,16 +337,9 @@ It also is reasonable to give anticoagulants to patients with STEMI and asymptom
 mural thrombi (2).
  12/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 The American Heart Association has published guidelines regarding the management of patients at risk
 for left ventricular thrombus, including patients at risk after acute MI (2).
-Mural thrombus references
-1. Boivin-Proulx LA, Ieroncig F, Demers SP, et al. Contemporary incidence and predictors of left
-ventricular thrombus in patients with anterior acute myocardial infarction. Clin Res Cardiol
-2023;112(4):558-565. doi:10.1007/s00392-023-02158-8
-2. Levine GN, McEvoy JW, Fang JC, et al. Management of Patients at Risk for and With Left
-Ventricular Thrombus: A Scientific Statement From the American Heart Association. Circulation
-2022;146(15):e205-e223. doi:10.1161/CIR.0000000000001092
 Pericarditis
 Pericarditis results from extension of myocardial necrosis through the wall to the epicardium; it
 develops in about one third of patients with acute transmural myocardial infarction, although the rate
@@ -417,12 +366,9 @@ Differentiating post-MI syndrome from extension or recurrence of infarction may 
 in post-MI syndrome, cardiac biomarkers do not increase significantly, and ECG changes are nonspecific.
  13/14
 
- Complications of Acute Coronary Syndromes - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 NSAIDs are usually effective, but the syndrome can recur several times. Colchicine is effective for
 treatment and to prevent recurrences. In severe cases, a short, intensive course of another NSAID or a
 corticosteroid may be necessary. High doses of an NSAID or a corticosteroid are not used for more than
 a few days because they may interfere with early ventricular healing after an acute myocardial
 infarction.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 14/14

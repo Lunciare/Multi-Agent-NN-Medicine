@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Overview of Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:35:56.233776",
-  "file_size_bytes": 296030,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Overview of Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Overview of Aortic Aneurysms
-By Mark A. Farber, MD, FACS, University of North Carolina;
-Federico E. Parodi, MD, University of North Carolina School of Medicine
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Dec 2024
 Aneurysms are abnormal dilations of arteries caused by weakening of the
 arterial wall. Common causes include hypertension, atherosclerosis, infection,
 trauma, systemic rheumatic diseases, and connective tissue disorders (eg,
@@ -38,27 +18,17 @@ to the first branch of the aorta (brachiocephalic or innominate artery), arches 
 thorax (thoracic aorta) and abdomen (abdominal aorta). The abdominal aorta ends by dividing into the
 right and left common iliac arteries.
 Radiographic Images of Aneurysms
- 1/4
-
- Overview of Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition
 CTA (Coronal View) of Thorax Showing Ascending Thoracic Aorta
 This image shows the ascending thoracic aorta (red arrow) arising from the left ventricle (blue arrow).
-© 2017 Elliot K. Fishman, MD.
 CTA (Coronal View) of Abdomen Showing Abdominal Aorta
 This image shows the abdominal aorta (red arrow) dividing into the right (blue arrow) and left (green
 arrow) common iliac arteries.
-© 2017 Elliot K. Fishman, MD.
 CT of Thorax Showing Anatomy of Aorta and Pulmonary Artery
 This image shows the ascending thoracic aorta (red arrow) with descending thoracic aorta (blue arrow).
 The main pulmonary artery (green arrow) divides into the right (purple arrow) and left (yellow arrow)
 pulmonary artery.
-© 2017 Elliot K. Fishman, MD.
- 2/4
-
- Overview of Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition
 Endovascular Stent Graft
 The white arrow shows an endovascular stent graft within an abdominal aneurysm (red arrow).
-© 2017 Elliot K. Fishman, MD.
 The wall of the aorta is composed of 3 layers:
 Intima: A thin layer lined with endothelium
 Media: A thick layer of elastic fibers arranged in spiral formation
@@ -81,15 +51,3 @@ Thoracic aortic aneurysms
 Aneurysms of the major aortic branches (subclavian and splanchnic arteries) are much less common.
 Aneurysms of peripheral arteries and the cerebrovascular system (causing stroke) are discussed
 elsewhere.
- 3/4
-
- Overview of Aortic Aneurysms - Cardiovascular Disorders - Merck Manual Professional Edition
-Overview of Aneurysms
-VIDEO
-Reference
-1. Isselbacher EM, Preventza O, Hamilton Black J 3rd, et al. 2022 ACC/AHA Guideline for the
-Diagnosis and Management of Aortic Disease: A Report of the American Heart
-Association/American College of Cardiology Joint Committee on Clinical Practice
-Guidelines. Circulation 2022;146(24):e334-e482. doi:10.1161/CIR.0000000000001106
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 4/4

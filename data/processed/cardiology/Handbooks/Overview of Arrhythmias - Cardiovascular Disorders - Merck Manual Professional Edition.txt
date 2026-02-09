@@ -1,23 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:37:01.623193",
-  "file_size_bytes": 889413,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Overview of Arrhythmias
-By L. Brent Mitchell, MD, Libin Cardiovascular Institute, University of Calgary
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Feb 2025
 The heart beats in a regular, coordinated way because electrical impulses generated and spread by
 myocytes with unique electrical properties trigger a sequence of organized myocardial contractions.
 Arrhythmias and conduction disorders are caused by abnormalities in the generation or conduction of
@@ -45,9 +26,6 @@ ventricle. The left bundle branch fans out over the left side of the interventri
 portion (left anterior hemifascicle) and its posterior portion (left posterior hemifascicle) stimulate the
 left side of the interventricular septum, which is the first part of the ventricles to be electrically activated.
 Thus, the interventricular septum depolarizes left to right, followed by near-simultaneous activation of
- 1/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 both ventricles from the endocardial surface through the ventricular walls to the epicardial surface (see
 figure Electrical Pathway Through the Heart) (1).
 Electrical Pathway Through the Heart
@@ -56,13 +34,6 @@ left atria (2), making them contract. When the electrical impulse reaches the at
 node (3), it is delayed slightly. The impulse then travels down the bundle of His (4), which
 divides into the right bundle branch for the right ventricle (5) and the left bundle branch for
 the left ventricle (5). The impulse then spreads through the ventricles, making them contract.
-Anatomy of conduction system reference
-1. Karki R, Raina A, Ezzeddine FM, Bois MC, Asirvatham SJ. Anatomy and Pathology of the Cardiac
-Conduction System. Cardiol Clin 2023;41(3):277-292. doi:10.1016/j.ccl.2023.03.016
-Cardiac Physiology
- 2/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 An understanding of normal cardiac physiology is essential before rhythm disturbances can be
 understood.
 Electrophysiology
@@ -76,8 +47,6 @@ but other time- and voltage-dependent ion channels open, allowing calcium to ent
 calcium channels (a depolarizing event) and potassium to leave through potassium channels (a
 repolarizing event) (1).
 Cardiac Action Potential
-IMAGE
-© SPRINGER SCIENCE+BUSINESS MEDIA
 At first, these 2 processes are balanced, maintaining a positive transmembrane potential and
 prolonging the plateau phase of the action potential. During this phase, calcium entering the cell is
 responsible for electromechanical coupling and myocyte contraction. Eventually, calcium influx ceases,
@@ -88,9 +57,6 @@ period), and after partial but incomplete repolarization, a subsequent depolariz
 occurs slowly (relative refractory period).
 There are 2 general types of cardiac tissue:
 Fast-channel tissues
- 3/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Slow-channel tissues
 Fast-channel tissues (working atrial and ventricular myocytes, His-Purkinje system) have a high density
 of fast sodium channels and action potentials characterized by
@@ -130,9 +96,6 @@ patients with autonomic denervation (eg, in advanced diabetes) or any heart diso
 decrease parasympathetic cardiac (vagal) tone and activate sympathetic tone. Thus, measures of heart
 rate variability have been suggested, but not conclusively demonstrated, to be useful general measures
 of cardiovascular health (2).
- 4/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Most cardiac electrical activity is represented on the electrocardiogram (ECG—see figure Diagram of the
 Cardiac Cycle), although SA node, AV node, and His-Purkinje depolarization do not involve enough tissue
 to be detected (3, 4). The P wave represents atrial depolarization. The QRS complex represents
@@ -149,30 +112,6 @@ CLINICAL CALCULATORS
 QT Interval Correction (EKG)
 The corrected QT interval should be interpreted with caution with particularly high, low, or variable
 heart rates and with medication-induced QT changes.
-Cardiac physiology references
-1. Whalley DW, Wendt DJ, Grant AO. Basic concepts in cellular cardiac electrophysiology: Part I: Ion
-channels, membrane currents, and the action potential. Pacing Clin Electrophysiol 1995;18(8):1556-
-1574. doi:10.1111/j.1540-8159.1995.tb06742.x
-2. Jarczok MN, Weimer K, Braun C, et al. Heart rate variability in the prediction of mortality: A
-systematic review and meta-analysis of healthy and patient populations. Neurosci Biobehav Rev
-2022;143:104907. doi:10.1016/j.neubiorev.2022.104907
-3. Rautaharju PM, Surawicz B, Gettes LS, et al. AHA/ACCF/HRS recommendations for the
-standardization and interpretation of the electrocardiogram: part IV: the ST segment, T and U
-waves, and the QT interval: a scientific statement from the American Heart Association
-Electrocardiography and Arrhythmias Committee, Council on Clinical Cardiology; the American
-College of Cardiology Foundation; and the Heart Rhythm Society: endorsed by the International
-Society for Computerized Electrocardiology. Circulation 2009;119(10):e241-e250.
-doi:10.1161/CIRCULATIONAHA.108.191096
-4. Surawicz B, Childers R, Deal BJ, et al. AHA/ACCF/HRS recommendations for the standardization
-and interpretation of the electrocardiogram: part III: intraventricular conduction disturbances: a
-scientific statement from the American Heart Association Electrocardiography and Arrhythmias
-Committee, Council on Clinical Cardiology; the American College of Cardiology Foundation; and
-the Heart Rhythm Society. Endorsed by the International Society for Computerized
-Electrocardiology. J Am Coll Cardiol 2009;53(11):976-981. doi:10.1016/j.jacc.2008.12.013
- 5/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
-5. Bazett HC. An analysis of the time relationships of electrocardiograms. Heart 1920;7:355-370.
 Pathophysiology of Arrhythmias
 Rhythm disturbances result from abnormalities of impulse formation, impulse conduction, or both.
 Bradyarrhythmias result from decreased intrinsic pacemaker function or blocks in conduction,
@@ -182,9 +121,6 @@ abnormal mechanisms of automaticity (1).
 Reentry
 Reentry is the circular propagation of an impulse around 2 interconnected pathways with different
 conduction characteristics and refractory periods (see figure Mechanism of Typical Reentry).
- 6/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
 Mechanism of Typical Reentry
 Atrioventricular nodal reentry is used here as an example. Two pathways connect the same
 points. Pathway A has slower conduction and a shorter refractory period. Pathway B conducts
@@ -202,8 +138,7 @@ past its refractory period, the impulse may reenter pathway A and continue to ci
 impulse each cycle to the ventricle (4) and retrograde to the atrium (5), producing a sustained
 reentrant tachycardia.
  7/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Initiation of an Atrioventricular Nodal Reentry Tachycardia
 There is an abnormal P wave (P′) and atrioventricular nodal delay (long P′R interval) before
 onset of the tachycardia.
@@ -232,8 +167,7 @@ Diagnosis of Arrhythmias
 ECG
 Ambulatory rhythm monitoring (eg, Holter, event, or other monitors)
  8/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 History and physical examination may detect an arrhythmia and suggest possible causes, but diagnosis
 requires a 12-lead ECG or, less reliably, a rhythm strip, preferably obtained during symptoms to
 establish the relationship between symptoms and rhythm.
@@ -270,8 +204,7 @@ atrial events prior to each nonconducted atrial event and are typically the resu
 dysfunction. In Mobitz type II second-degree AV block, the PR remains constant during conducted atrial
 events and is typically the result of His-Purkinje system dysfunction.
  9/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Third-degree AV block is indicated by a bradyarrhythmia with no relationship between P waves and QRS
 complexes and more P waves than QRS complexes; the escape rhythm can be
 Junctional with normal AV conduction (narrow QRS complex)
@@ -310,8 +243,7 @@ Multifocal atrial tachycardia: Discrete P waves that vary from beat to beat with
 different morphologies
 Irregular, wide QRS complex tachyarrhythmias include
  10/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 The above 4 irregular, narrow atrial tachyarrhythmias conducted with either bundle branch
 block or ventricular preexcitation
 Polymorphic ventricular tachycardia (VT)
@@ -341,13 +273,11 @@ Pearls & Pitfalls
 Assume a regular, wide-complex tachyarrhythmia is ventricular tachycardia until proven
 otherwise.
  11/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Modified Brugada Criteria for Ventricular Tachycardia
 *With RBBB QRS:
  12/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 In V1, monophasic R, or QR, or RS
 In V6, R/S < 1 or monophasic R or QR
 *With LBBB QRS:
@@ -358,23 +288,6 @@ branch block; VT = ventricular tachycardia.
 Data from Brugada P, Brugada J, Mont L, Smeets J, Andries EW. A new approach to the
 differential diagnosis of a regular tachycardia with a wide QRS complex. Circulation.
 1991;83(5):1649-1659. doi:10.1161/01.cir.83.5.1649
-Diagnosis references
-1. Rowland E, Morgado F. Sino-atrial node dysfunction, atrioventricular block and intraventricular
-conduction disturbances. Eur Heart J 1992;13 Suppl H:130-135.
-doi:10.1093/eurheartj/13.suppl_h.130
-2. Writing Committee Members, Kusumoto FM, Schoenfeld MH, et al. 2018 ACC/AHA/HRS guideline
-on the evaluation and management of patients with bradycardia and cardiac conduction delay: A
-Report of the American College of Cardiology/American Heart Association Task Force on Clinical
-Practice Guidelines and the Heart Rhythm Society. Heart Rhythm 2019;16(9):e128-e226.
-doi:10.1016/j.hrthm.2018.10.037
-3. Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the Diagnosis
-and Management of Atrial Fibrillation: A Report of the American College of Cardiology/American
-Heart Association Joint Committee on Clinical Practice Guidelines [published correction appears in
-Circulation 2024 Jan 2;149(1):e167. doi: 10.1161/CIR.0000000000001207] [published correction
-appears in Circulation 2024 Feb 27;149(9):e936. doi: 10.1161/CIR.0000000000001218] [published
-correction appears in Circulation 2024 Jun 11;149(24):e1413. doi:
-10.1161/CIR.0000000000001263]. Circulation 2024;149(1):e1-e156.
-doi:10.1161/CIR.0000000000001193
 Treatment of Arrhythmias
 Treatment of cause
 Sometimes antiarrhythmic medications, pacemakers, cardioversion-defibrillation, catheter
@@ -384,8 +297,7 @@ arrhythmias without serious risks do not require treatment even if they worsen. 
 arrhythmias may require treatment to improve quality of life. Potentially life-threatening arrhythmias
 require treatment.
  13/14
-
- Overview of Arrhythmias - Cardiovascular Disorders - Merck Manual Professional Edition
+ 
 Treatment is directed at causes. If necessary, direct antiarrhythmic therapy is used. Direct
 antiarrhythmic therapy includes, either alone or in combination:
 Antiarrhythmic medications
@@ -402,5 +314,3 @@ invasive ablation techniques. But surgery is indicated when an arrhythmia is ref
 when another indication requires a cardiac surgical procedure, most commonly when patients with
 atrial fibrillation require valve replacement or repair or when patients with ventricular tachycardia
 require revascularization or resection of a left ventricular aneurysm.
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 14/14

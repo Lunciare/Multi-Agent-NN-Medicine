@@ -1,24 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Edema - Cardiovascular Disorders - Merck Manual Professional Edition.pdf",
-  "converted_date": "2026-01-31T14:36:03.812591",
-  "file_size_bytes": 682163,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Edema - Cardiovascular Disorders - Merck Manual Professional Edition.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Edema - Cardiovascular Disorders - Merck Manual Professional Edition
-MERCK MANUAL
-Professional Version
 Edema
-By Andrea D. Thompson, MD, PhD, University of Michigan;
-Michael J. Shea, MD, Michigan Medicine at the University of Michigan
-Reviewed By Jonathan G. Howlett, MD, Cumming School of Medicine, University of Calgary
-Reviewed/Revised Aug 2024
 Edema is swelling of soft tissues due to increased interstitial fluid. The fluid is predominantly water, but
 protein and cell-rich fluid can accumulate if there is infection or lymphatic obstruction.
 Edema may be generalized or local (eg, limited to a single extremity or part of an extremity). It
@@ -27,18 +7,10 @@ develops insidiously, beginning with weight gain, puffy eyes at awakening in the
 shoes at the end of the day. Slowly developing edema may become massive before patients seek
 medical care.
 Lower Extremity Edema
-IMAGE
-PETER SKINNER/SCIENCE PHOTO LIBRARY
 Edema itself causes few symptoms other than occasionally a feeling of tightness or fullness; other
 symptoms are usually related to the underlying disorder. Patients with edema due to heart failure (a
 common cause) often have dyspnea during exertion, orthopnea, and paroxysmal nocturnal dyspnea.
 Patients with edema due to deep venous thrombosis (DVT) often have leg pain.
- 1/11
-
- Edema - Cardiovascular Disorders - Merck Manual Professional Edition
-Scrotal Edema
-IMAGE
-DR P. MARAZZI/SCIENCE PHOTO LIBRARY
 Edema due to extracellular fluid volume expansion is often dependent. Thus, in ambulatory patients,
 edema is in the feet and lower legs; patients requiring bed rest develop edema in the buttocks, genitals,
 and posterior thighs. Females who lie on only one side may develop edema in the dependent breast.
@@ -61,7 +33,7 @@ capillaries due to lack of adequate plasma oncotic pressure, as in nephrotic syn
 enteropathy, liver failure, or starvation.
  2/11
 
- Edema - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Increased capilliary permeability occurs in infections or as the result of toxin or inflammatory damage to
 the capillary walls. In angioedema, mediators, including mast cell–derived mediators (eg, histamine,
 leukotrienes, prostaglandins) and bradykinin and complement-derived mediators, cause focal edema.
@@ -98,7 +70,7 @@ S3 or S4 gallop or both
 jugular venous distention,
  3/11
 
- Edema - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Cause Suggestive Findings Diagnostic Approach*
 hepatojugular reflux, and
 Kussmaul sign
@@ -148,7 +120,7 @@ marked than in soft-tissue
 infection
  4/11
 
- Edema - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Cause Suggestive Findings Diagnostic Approach*
 Sometimes a predisposing
 factor (eg, recent surgery,
@@ -204,7 +176,7 @@ hour stool testing for
 alpha-1-antitrypsin
  5/11
 
- Edema - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Cause Suggestive Findings Diagnostic Approach*
 Often with significant
 ascites
@@ -260,7 +232,7 @@ constitutional symptoms
 Lymphatic obstruction
  6/11
 
- Edema - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Cause Suggestive Findings Diagnostic Approach*
 Etiology usually apparent
 Iatrogenic (eg, after lymph
@@ -304,7 +276,7 @@ Review of systems should include symptoms of causative disorders, including dysp
 exertion, orthopnea, and paroxysmal nocturnal dyspnea (heart failure); alcohol or hepatotoxin
  7/11
 
- Edema - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 exposure, jaundice, and easy bruising (a liver disorder); malaise and anorexia (cancer or a liver or kidney
 disorder); and immobilization, extremity injury, or recent surgery (DVT).
 Past medical history should include any disorders known to cause edema, including heart, liver, and
@@ -341,7 +313,7 @@ Hepatomegaly, jaundice, ascites, splenomegaly, or hematemesis
 Unilateral leg swelling with tenderness
  8/11
 
- Edema - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 Interpretation of findings
 Potential acute life threats, which typically manifest with sudden onset of focal edema, must be
 identified. Such a presentation suggests acute DVT, soft-tissue infection, or angioedema. Acute DVT may
@@ -378,7 +350,7 @@ converting enzyme (ACE) inhibitors, or angiotensin II receptor blockers (ARBs) a
 disorder because potentially fatal hyperkalemia can result.
  9/11
 
- Edema - Cardiovascular Disorders - Merck Manual Professional Edition
+  
 People with conditions involving sodium retention may also benefit from loop or thiazide diuretics.
 However, diuretics should not be given only to improve the appearance caused by edema. When
 diuretics are used, potassium wasting can be dangerous in some patients; potassium-sparing diuretics
@@ -390,15 +362,6 @@ Sodium-glucose cotransporter 2 (SGLT2) inhibitors (eg, canagliflozin, dapagliflo
 serum glucose in patients with diabetes but also induce diuresis by increasing natriuresis and glycosuria
 without significantly affecting serum electrolytes (1, 2, 3, 4). They can be used in patients with heart
 failure or nephrotic syndrome with or without diabetes.
-Treatment references
-1. Anker SD, Butler J, Filippatos G, et al: Empagliflozin in heart failure with a preserved ejection
-fraction. N Engl J Med 385(16):1451–1461, 2021. doi: 10.1056/NEJMoa2107038
-2. Cowie MR, Fisher M: SGLT2 inhibitors: mechanisms of cardiovascular benefit beyond glycaemic
-control. Nat Rev Cardiol 17(12):761–772, 2020. doi: 10.1038/s41569-020-0406-8
-3. Heerspink HJL, Stefánsson BV, Correa-Rotter R, et al: Dapagliflozin in patients with chronic
-kidney disease. N Engl J Med 383(15):1436–1446, 2020. doi: 10.1056/NEJMoa2024816
-4. Packer M, Anker SD, Butler J, et al: Cardiovascular and renal outcomes with empagliflozin in
-heart failure. N Engl J Med 383(15):1413–1424, 2020. doi: 10.1056/NEJMoa2022190
 Geriatrics Essentials: Edema
 In older adults, use of medications that treat causes of edema (particularly heart failure) requires special
 caution, such as the following:
@@ -412,11 +375,5 @@ Key Points
 Edema may result from a generalized or local process and may occur anywhere in the
 body.
 Main causes of generalized edema are chronic heart, liver, and kidney disorders.
- 10/11
-
- Edema - Cardiovascular Disorders - Merck Manual Professional Edition
 Not all edema is serious; consequences depend mainly on the cause.
 Sudden onset should trigger prompt evaluation.
-Drugs Mentioned In This Article
-Copyright © 2026 Merck & Co., Inc., Rahway, NJ, USA and its affiliates. All rights reserved.
- 11/11

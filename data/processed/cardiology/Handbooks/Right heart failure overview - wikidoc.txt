@@ -1,21 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Right heart failure overview - wikidoc.pdf",
-  "converted_date": "2026-01-31T14:36:15.161902",
-  "file_size_bytes": 339822,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Right heart failure overview - wikidoc.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Search WikiDoc
-Search Try Exact Match
 Right heart failure overview
-Editor-In-Chief: C. Michael Gibson, M.S., M.D. [1] (mailto:charlesmichaelgibson@gmail.com);
-Associate Editor(s)-in-Chief: Rim Halaby, Jad Z Al Danaf, Alberto Castro Molina, M.D.
 Overview
 The right ventricle was previously recognized as a simple conduit between the systemic and the
 pulmonary circulation, but its importance in maintaining hemodynamic stability and end organ
@@ -48,9 +31,6 @@ A practical approach is to classify right ventricular failure by time course (ac
 predominant mechanism, including pressure overload (afterload), volume overload (preload), and
 primary myocardial dysfunction affecting contractility or lusitropy.[1][7]
 Pathophysiology
-Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
- 1/5
-
 The pathophysiological processes underlying right heart failure can be divided broadly into three:
 decreased right ventricular contractility, right ventricular pressure overload, and right ventricular
 volume overload.[8] The right ventricle tries to adapt acutely by dilatation and chronically by
@@ -91,7 +71,7 @@ acute pulmonary vascular load. Contemporary guidance emphasizes recognizing righ
 dysfunction as a major determinant of symptoms, exercise limitation, and outcomes across these
 populations.[1][7]
 Natural History, Complications and Prognosis
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  2/5
 
 Right heart failure, if left undiagnosed and untreated, may lead to impaired quality of life and
@@ -127,7 +107,7 @@ Right heart failure is often accompanied by right ventricular hypertrophy and ri
 dilation. General electrocardiographic findings of right ventricular hypertrophy include right axis
 deviation, an R S ratio greater than 1 in V1, and the presence of P pulmonale.
 Chest X Ray
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  3/5
 
 The plain chest radiograph has limited utility in identifying right heart failure. It might show
@@ -165,7 +145,7 @@ Augmentation of contractility may be required in shock or low output states. Dob
 increase cardiac output and stroke volume in right ventricular myocardial infarction and in
 pulmonary hypertension, and milrinone may be considered with attention to systemic vasodilation
 and hypotension.[1][7]
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+ 
  4/5
 
 Since atrial fibrillation and high grade AV block can cause hemodynamic instability in right heart
@@ -186,14 +166,4 @@ Future or Investigational Therapies
 A right ventricular assist device (RVAD) can be a temporary therapy for patients with acute
 exacerbation of right heart failure. Ongoing research focuses on improved assessment of right
 ventricle to pulmonary artery coupling and therapies that directly target right ventricular
-contractility and lusitropy.[1]
-References
-Template:WH Template:WS
-Navigation WikiDoc | WikiPatient | Up To Date Pages | Recently Edited Pages | Recently Added Pictures
-Table of Contents In Alphabetical Order | By Individual Diseases | Signs and Symptoms |
-Physical Examination | Lab Tests | Drugs
-Editor Tools Create a New Page | Become an Editor | Editors Help Menu | Upload a Picture or File | Maintain Pages | What Pages Link Here
-There is no pharmaceutical or device industry support for this site and we need your viewer supported Donations | Editorial Board | Governance |
-Licensing | Disclaimers | Avoid Plagiarism | Policies
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
- 5/5
+contractility and lusitropy.

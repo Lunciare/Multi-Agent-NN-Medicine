@@ -1,26 +1,4 @@
-=== МЕТАДАННЫЕ ===
-{
-  "original_filename": "Paediatric electrocardiography - PMC.pdf",
-  "converted_date": "2026-01-31T14:35:57.559959",
-  "file_size_bytes": 2217694,
-  "original_format": "pdf",
-  "document_type": "Handbooks",
-  "source_folder": "Handbooks",
-  "full_path": "00_RAW_CARDIOLOGY/Handbooks/Paediatric electrocardiography - PMC.pdf"
-}
-
-=== СОДЕРЖАНИЕ ===
-
-Paediatric electrocardiography - PMC
-As a library, NLM provides access to scientific literature. Inclusion in an NLM database
-does not imply endorsement of, or agreement with, the contents by NLM or the National
-Institutes of Health.
-Learn more: PMC Disclaimer | PMC Copyright Notice
-BMJ. 2002 Jun 8;324(7350):1382–1385. doi: 10.1136/bmj.324.7350.1382
 Paediatric electrocardiography
-Steve Goodacre, Karen McLeod
-Article notes Copyright and License information
-PMCID: PMC1123332 PMID: 12052812
 General clinicians and junior paediatricians may have little experience of interpreting paediatric
 electrocardiograms. Although the basic principles of cardiac conduction and depolarisation are the
 same as for adults, age related changes in the anatomy and physiology of infants and children
@@ -31,9 +9,6 @@ Be aware of age related differences in the indications for performing
 electrocardiography, the normal ranges for electrocardiographic variables, and the
 typical abnormalities in infants and children
 Genuine abnormality is unusual; if abnormality is suspected, seek a specialist opinion
- 1/18
-
- Paediatric electrocardiography - PMC
 Indications for paediatric electrocardiography
 • Syncope or seizure • Electrolyte disturbance
 • Exertional symptoms • Kawasaki disease
@@ -43,7 +18,6 @@ Indications for paediatric electrocardiography
 • Cyanotic episodes • Pericarditis
 • Heart failure • Post cardiac surgery
 • Hypothermia • Congenital heart defects
-Open in a new tab
 Recording the electrocardiogram
 To obtain a satisfactory recording in young children requires patience, and the parents may be helpful
 in providing a source of distraction. Limb electrodes may be placed in a more proximal position to
@@ -51,9 +25,6 @@ reduce movement artefacts. Standard adult electrode positions are used but with 
 either lead V3R or lead V4R to detect right ventricular or atrial hypertrophy. Standard paper speed
 (25 mm/s) and deflection (10 mm/mV) are used, although occasionally large QRS complexes may
 require the gain to be halved.
- 2/18
-
- Paediatric electrocardiography - PMC
 Paediatric electrocardiographic findings that may be normal
 Heart rate >100 beats/min
 QRS axis >90°
@@ -84,8 +55,7 @@ The QRS complex also reflects these changes. At birth, the mean QRS axis lies be
 +160°, R waves are prominent in the right precordium, and S waves are prominent in the left
 precordium. By age 1 year, the axis changes gradually to lie between +10° and +100°.
  3/18
-
- Paediatric electrocardiography - PMC
+ 
 The resting heart rate decreases from about 140 beats/min at birth to 120 beats/min at age 1 year,
 100 at 5 years, and adult values by 10 years. The PR interval decreases from birth to age 1 year and
 then gradually increases throughout childhood. The P wave duration and the QRS duration also
@@ -110,8 +80,7 @@ and S waves will all suggest right ventricular hypertrophy. Left ventricular hyp
 indicated by deep Q waves in the left precordial leads or the typical adult changes of lateral ST
 depression and T wave inversion.
  4/18
-
- Paediatric electrocardiography - PMC
+ 
 Normal values in paediatric electrocardiograms
 Age PR interval QRS duration R wave (S wave)
 (ms) (ms) amplitude (mm)
@@ -139,8 +108,7 @@ In addition to the changes seen in ventricular hypertrophy, T waves may be inver
 myocardial disease (inflammation, infarction, or contusion). Flat T waves are seen in association with
 hypothyroidism. Abnormally tall T waves occur with hyperkalaemia.
  5/18
-
- Paediatric electrocardiography - PMC
+ 
 Abnormalities of rate and rhythm
 The wide variation in children's heart rate with age and activity may lead to misinterpretation by
 those more used to adult electrocardiography. Systemic illness must be considered in any child
@@ -169,8 +137,7 @@ fusion beats, are less common in children than in adults
 Although all forms of ventricular tachycardia are rare, broad complex tachycardia should be
 considered to be ventricular tachycardia until proved otherwise. Bundle branch block (usually right
  6/18
-
- Paediatric electrocardiography - PMC
+ 
 bundle) often occurs after cardiac surgery, and a previous electrocardiogram can be helpful.
 Monomorphic ventricular tachycardia may occur secondary to surgery for congenital heart disease.
 Polymorphic ventricular tachycardia, or torsades de pointes, is associated with the long QT syndrome.
@@ -184,28 +151,6 @@ as for adults, although a diagnosis of first degree heart block should take into
 the PR interval with age. First degree heart block and the Wenckebach phenomenon may be a normal
 finding in otherwise healthy children. First or second degree block, however, can occur with
 rheumatic carditis, diphtheria, digoxin overdose, and congenital heart defects.
- 7/18
-
- Paediatric electrocardiography - PMC
-Figure.
-Open in a new tab
-Normal 12 lead electrocardiogram from 3 day old baby boy showing right axis deviation,
-dominant R wave in leads V4R and V1, and still predominantly upright T wave in V1.
- 8/18
-🔍
-
- Paediatric electrocardiography - PMC
-Persistence of upright T waves in right precordial leads beyond first week of life is sign of
-right ventricular hypertrophy
- 9/18
-
- Paediatric electrocardiography - PMC
-Figure.
-Open in a new tab
- 10/18
-🔍
-
- Paediatric electrocardiography - PMC
 Electrocardiogram from 12 year old (late childhood) (axis is now within normal “adult”
 range and R wave is no longer dominant in right precordial leads)
 Figure.
@@ -213,80 +158,13 @@ Open in a new tab
 Electrocardiogram from 3 year old with restrictive cardiomyopathy and severe right and left
 atrial enlargement. Tall (>2.5 mm), wide P waves are clearly seen in lead II, and P wave in
 V1 is markedly biphasic
- 11/18
-🔍
-
- Paediatric electrocardiography - PMC
-Figure.
-Open in a new tab
 Electrocardiogram from 13 year old boy with transposition of great arteries and previous
 Mustard's procedure. The right ventricle is the systemic ventricle and the trace shows right
 ventricular hypertrophy with marked right axis deviation and a dominant R wave in the
 right precordial leads
- 12/18
-🔍
-
- Paediatric electrocardiography - PMC
-Figure.
- 13/18
-
- Paediatric electrocardiography - PMC
- 14/18
-🔍
-
- Paediatric electrocardiography - PMC
-Open in a new tab
 Electrocardiogram from 11 year old girl with left ventricular hypertrophy secondary to
 systemic hypertension. There are tall voltages in the left precordial and limb leads with
 secondary ST depression and T wave inversion
-Figure.
-Open in a new tab
-Electrocardiogram from 3 year old girl with long QT syndrome
- 15/18
-🔍
-
- Paediatric electrocardiography - PMC
-Figure.
-Open in a new tab
-Prolongation of QT interval in association with T wave alternans (note alternating upright
-and inverted T waves )
-Figure.
-Open in a new tab
-Electrocardiogram from 9 year old boy showing marked sinus arrhythmia, a common
-finding in paediatric traces
- 16/18
-🔍
-🔍
-
- Paediatric electrocardiography - PMC
-Figure.
-Open in a new tab
-Electrocardiogram showing atrial “flutter” in 14 year old girl with congenital heart disease
-and previous atrial surgery (in neonates with atrial flutter, 1:1 atrioventricular conduction is
-more common, which may make P waves and diagnosis less evident)
-Figure.
-Open in a new tab
-Polymorphic ventricular tachycardia in 5 year old girl
- 17/18
-🔍
-🔍
-
- Paediatric electrocardiography - PMC
-Figure.
-Open in a new tab
 Electrocardiogram from 6 year old girl with congenital heart block secondary to maternal
 antiphospholipid antibodies; there is complete atrioventricular dissociation, and the
 ventricular escape rate is about 50 beats/min
-Footnotes
-The ABC of clinical electrocardiography is edited by Francis Morris, consultant in emergency
-medicine at the Northern General Hospital, Sheffield; June Edhouse, consultant in emergency
-medicine, Stepping Hill Hospital, Stockport; William J Brady, associate professor, programme
-director, and vice chair, department of emergency medicine, University of Virginia, Charlottesville,
-VA, USA; and John Camm, professor of clinical cardiology, St George's Hospital Medical School,
-London. The series will be published as a book in the summer.
-Steve Goodacre is health services research fellow in the accident and emergency department at
-the Northern General Hospital, Sheffield; and Karen McLeod is consultant paediatric cardiologist at
-the Royal Hospital for Sick Children, Glasgow.
-Articles from BMJ : British Medical Journal are provided here courtesy of BMJ Publishing Group
- 18/18
-🔍
