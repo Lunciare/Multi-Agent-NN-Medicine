@@ -15,7 +15,7 @@ Who is it for?
 • Commissioners and providers
 • Adults with acute coronary syndromes, their families and carers
 
-Acute coronary syndromes (NG185)
+ 
 Recommendations
 People have the right to be involved in discussions and make informed decisions
 about their care, as described in NICE's information on making decisions about your
@@ -38,7 +38,7 @@ follow-on primary PCI if indicated). [2013]
 1.1.3 Deliver coronary reperfusion therapy (either primary PCI or fibrinolysis) as quickly
 as possible for eligible people with acute STEMI. [2013]
 
-Acute coronary syndromes (NG185)
+ 
 Initial drug therapy
 1.1.4 Offer people with acute STEMI a single loading dose of 300 mg aspirin as soon as
 possible unless there is clear evidence that they are allergic to it. [2010]
@@ -65,7 +65,7 @@ onset of symptoms and who have cardiogenic shock or go on to develop it.
 coronary angiography (with follow-on primary PCI if indicated). [2013]
 Dual antiplatelet therapy for people with acute STEMI having
 
-Acute coronary syndromes (NG185)
+ 
 primary PCI
 1.1.11 For people with acute STEMI who are having primary PCI, offer:
 • prasugrel, as part of dual antiplatelet therapy with aspirin, if they are not
@@ -92,7 +92,7 @@ undergoing primary PCI with radial access. [2020]
 dual antiplatelet therapy for people with acute STEMI undergoing primary PCI
 when femoral access is needed.
 
-Acute coronary syndromes (NG185)
+ 
 In November 2020, use of bivalirudin with prasugrel and aspirin was off label. See
 NICE's information on prescribing medicines. [2020]
 For a short explanation of why the committee made the 2020 recommendations and
@@ -114,7 +114,7 @@ this during the index hospital admission. [2020]
 revascularisation during the index procedure for people with acute STEMI and
 multivessel coronary artery disease with cardiogenic shock. [2020]
 
-Acute coronary syndromes (NG185)
+ 
 For a short explanation of why the committee made the 2020 recommendations and
 how they might affect practice, see the rationale and impact section on complete
 revascularisation with PCI or culprit vessel only PCI.
@@ -140,7 +140,7 @@ early thrombolysis (TA52, 2002).
 1.1.21 Offer an electrocardiogram (ECG) to people with acute STEMI treated with
 fibrinolysis, 60 to 90 minutes after administration. For those who have residual
 
-Acute coronary syndromes (NG185)
+ 
 ST-segment elevation suggesting failed coronary reperfusion:
 • offer immediate coronary angiography, with follow-on PCI if indicated
 • do not repeat fibrinolytic therapy. [2013]
@@ -163,7 +163,7 @@ antiplatelet therapy.
 1.1.26 Offer medical management to people with acute STEMI who are ineligible for any
 reperfusion therapy. [2013]
 
-Acute coronary syndromes (NG185)
+ 
 Tests before discharge
 1.1.27 Assess left ventricular function in all people who have had a STEMI. [2013]
 1.2 NSTEMI and unstable angina – early
@@ -190,7 +190,7 @@ antithrombin therapy for people with unstable angina or NSTEMI.
 Full details of the evidence and the committee's discussion are in evidence review C:
 antithrombin for unstable angina and NSTEMI.
 
-Acute coronary syndromes (NG185)
+ 
 1.2.4 Consider unfractionated heparin, with dose adjustment guided by monitoring of
 clotting function, as an alternative to fondaparinux for people with unstable
 angina or NSTEMI and significant renal impairment (creatinine above
@@ -217,7 +217,7 @@ predicts 6-month mortality (for example, Global Registry of Acute Cardiac Events
 [GRACE]). [2010]
 1.2.8 Include in the formal risk assessment:
 
-Acute coronary syndromes (NG185)
+ 
 • a full clinical history (including age, previous myocardial infarction [MI] and
 previous PCI or coronary artery bypass grafting [CABG])
 • a physical examination (including measurement of blood pressure and heart
@@ -243,7 +243,7 @@ over 9.0% Highest
 Categories of risk are derived from the Myocardial Ischaemia National Audit Project
 (MINAP) database.
 
-Acute coronary syndromes (NG185)
+ 
 Coronary angiography with follow-on PCI
 1.2.12 Offer immediate coronary angiography to people with unstable angina or NSTEMI
 if their clinical condition is unstable. [2020]
@@ -264,7 +264,7 @@ compared with conservative management. [2020]
 may still be at high risk of adverse cardiovascular events and may benefit from
 early angiography. [2020]
 
-Acute coronary syndromes (NG185)
+ 
 Table 2 Benefits and risks of early invasive treatment (coronary angiography with PCI if
 needed) compared with conservative management for people with unstable angina or
 NSTEMI
@@ -306,7 +306,7 @@ people are not anxious
 about having an invasive
 procedure.
 
-Acute coronary syndromes (NG185)
+ 
 Conservative management with
 Benefits/risks/other Coronary angiography and possible percutaneous
 later coronary angiography if
@@ -342,7 +342,7 @@ they have already received fondaparinux.
 In November 2020, this was an off-label use of unfractionated heparin. See
 NICE's information on prescribing medicines. [2020]
 
-Acute coronary syndromes (NG185)
+ 
 For a short explanation of why the committee made the 2020 recommendation and
 how it might affect practice, see the rationale and impact section on antithrombin
 therapy for people with unstable angina or NSTEMI.
@@ -370,7 +370,7 @@ antiplatelet therapy.
 1.2.18 If stenting is indicated, offer a drug-eluting stent to people with unstable angina
 or NSTEMI undergoing revascularisation by PCI. [2020]
 
-Acute coronary syndromes (NG185)
+ 
 For a short explanation of why the committee made the 2020 recommendation and
 how it might affect practice, see the rationale and impact section on drug-eluting
 stents.
@@ -397,7 +397,7 @@ Ticagrelor is recommended as an option in NICE technology appraisal guidance
 for treating unstable angina or NSTEMI when PCI is not indicated. For full details,
 see the guidance on ticagrelor (TA236, 2011).
 
-Acute coronary syndromes (NG185)
+ 
 1.2.22 Consider clopidogrel, as part of dual antiplatelet therapy with aspirin, or aspirin
 alone, for people with unstable angina or NSTEMI when PCI is not indicated, if
 they have a high bleeding risk. [2020]
@@ -424,7 +424,7 @@ Tests before discharge
 discharge for people whose condition has been managed conservatively and who
 have not had coronary angiography. [2010]
 
-Acute coronary syndromes (NG185)
+ 
 1.2.27 Assess left ventricular function in all people who have had an NSTEMI. [2013]
 1.2.28 Consider assessing left ventricular function in all people with unstable angina.
 [2010]
@@ -449,7 +449,7 @@ known diabetes tests for:
 • fasting blood glucose levels no earlier than 4 days after the onset of acute
 coronary syndrome.
 
-Acute coronary syndromes (NG185)
+ 
 These tests should not delay discharge. [2011]
 1.3.4 Do not routinely offer oral glucose tolerance tests to people with hyperglycaemia
 after acute coronary syndrome and without known diabetes if HbA1c and fasting
@@ -473,7 +473,7 @@ an acute coronary syndrome, they:
 － weight loss
 － fatigue
 
-Acute coronary syndromes (NG185)
+ 
 • should be offered tests for diabetes at least annually. [2011]
 1.3.7 Inform GPs that they should offer at least annual monitoring of HbA1c or fasting
 blood glucose levels to people without known diabetes who have had
@@ -499,7 +499,7 @@ follow-up appointment. [2013]
 1.4.4 Rivaroxaban, with aspirin and clopidogrel, or aspirin alone, is recommended as an
 option in NICE technology appraisal guidance for preventing atherothrombotic
 
-Acute coronary syndromes (NG185)
+ 
 events in people who have had an acute coronary syndrome with elevated
 cardiac biomarkers, taking bleeding risk into account. For full details, see the
 guidance on rivaroxaban (TA335, 2015).
@@ -529,7 +529,7 @@ should be monitored in line with the NICE guideline on chronic heart failure in
 adults. [2007]
 1.4.11 Offer an ACE inhibitor to people who have had an MI more than 12 months ago.
 
-Acute coronary syndromes (NG185)
+ 
 Titrate to the maximum tolerated or target dose (over a 4- to 6-week period) and
 continue indefinitely. [2013]
 1.4.12 Offer people who have had an MI more than 12 months ago and who are
@@ -558,7 +558,7 @@ bleeding whose ulcers have healed and who are negative for Helicobacter pylori
 should be considered for treatment in line with the NICE guideline on gastro-
 oesophageal reflux disease and dyspepsia in adults. [2007, amended 2013]
 
-Acute coronary syndromes (NG185)
+ 
 1.4.20 Offer clopidogrel instead of aspirin to people who also have other clinical vascular
 disease, and who have:
 • had an MI and stopped dual antiplatelet therapy or
@@ -586,7 +586,7 @@ thromboembolic risk and cardiovascular risk. [2020]
 clopidogrel (to replace prasugrel or ticagrelor) for up to 12 months and an oral
 anticoagulant licensed for the indication, which best matches the person's:
 
-Acute coronary syndromes (NG185)
+ 
 • bleeding risk
 • thromboembolic risk
 • cardiovascular risk
@@ -611,7 +611,7 @@ therapy for people with an indication for anticoagulation.
 Full details of the evidence and the committee's discussion are in evidence review G:
 combination therapy.
 
-Acute coronary syndromes (NG185)
+ 
 Beta-blockers
 1.4.27 Offer people a beta-blocker as soon as possible after an MI, when the person is
 haemodynamically stable. [2013]
@@ -639,7 +639,7 @@ fraction, manage the condition in line with the NICE guideline on chronic heart
 failure in adults. [2013]
 1.4.33 Do not offer people without reduced left ventricular ejection fraction or heart
 
-Acute coronary syndromes (NG185)
+ 
 failure, who have had an MI more than 12 months ago, treatment with a beta-
 blocker unless there is an additional clinical indication for a beta-blocker. [2013]
 Calcium channel blockers
@@ -666,7 +666,7 @@ reduced left ventricular ejection fraction, but who are already being treated wi
 an aldosterone antagonist for a concomitant condition (for example, chronic heart
 failure), should continue with the aldosterone antagonist or an alternative,
 
-Acute coronary syndromes (NG185)
+ 
 licensed for early post-MI treatment. [2007]
 1.4.40 For people who have had a proven MI in the past and heart failure due to reduced
 left ventricular ejection fraction, treatment with an aldosterone antagonist should
@@ -692,7 +692,7 @@ ventricular dysfunction with a left ventricular ejection fraction of 35% or less
 full details, see the guidance on implantable cardioverter defibrillators and
 cardiac resynchronisation therapy (TA314, 2014). [2007]
 
-Acute coronary syndromes (NG185)
+ 
 People with hypertension
 1.6.2 Treat hypertension in line with the NICE guideline on hypertension in adults.
 [2007, amended 2013]
@@ -716,7 +716,7 @@ exercise, these should be treated if possible before they are offered the exerci
 component of cardiac rehabilitation. For some people, the exercise component
 may be adapted by an appropriately qualified healthcare professional. [2007]
 
-Acute coronary syndromes (NG185)
+ 
 1.8.4 People with reduced left ventricular ejection fraction who are stable can safely be
 offered the exercise component of cardiac rehabilitation. [2007]
 Encouraging people to attend
@@ -744,7 +744,7 @@ demand. [2013]
 there are clear lines of responsibility for arranging the early initiation of cardiac
 rehabilitation. [2013]
 
-Acute coronary syndromes (NG185)
+ 
 1.8.13 Begin cardiac rehabilitation as soon as possible after admission before discharge
 from hospital, and invite the person to a cardiac rehabilitation session. This
 should start within 10 days of their discharge from hospital. [2013]
@@ -771,7 +771,7 @@ physical health conditions. [2007, amended 2013]
 1.8.18 Encourage all staff, including senior medical staff, involved in providing care for
 people after an MI, to actively promote cardiac rehabilitation. [2013]
 
-Acute coronary syndromes (NG185)
+ 
 Health education and information needs
 1.8.19 Comprehensive cardiac rehabilitation programmes should include health
 education and stress management components. [2007]
@@ -801,7 +801,7 @@ had a complicated MI may need expert advice. [2007]
 1.8.27 Advice on competitive sport may need expert assessment of function and risk,
 and is dependent on what sport is being discussed and the level of
 
-Acute coronary syndromes (NG185)
+ 
 competitiveness. [2007]
 Psychological and social support
 1.8.28 Offer stress management in the context of comprehensive cardiac rehabilitation.
@@ -823,7 +823,7 @@ about 4 weeks. [2007]
 1.8.34 Raise the subject of sexual activity within the context of cardiac rehabilitation and
 aftercare for people who have had an MI. [2007]
 
-Acute coronary syndromes (NG185)
+ 
 1.9 Lifestyle changes after an MI
 Changing diet
 1.9.1 Advise people to eat a Mediterranean-style diet (more bread, fruit, vegetables
@@ -847,7 +847,7 @@ eating habits, and advice on improving their diet. [2007]
 1.9.8 Give people healthy eating advice that can be extended to the whole family.
 [2007]
 
-Acute coronary syndromes (NG185)
+ 
 Alcohol consumption
 1.9.9 For advice on alcohol consumption, see the UK government drinking guidelines.
 [2020]
@@ -873,7 +873,7 @@ Weight management
 achieve and maintain a healthy weight in line with the NICE guideline on
 overweight and obesity management. [2007]
 
-Acute coronary syndromes (NG185)
+ 
 Terms used in this guideline
 Bailout glycoprotein IIb/IIIa inhibitor
 Bailout glycoprotein inhibitor (GPI) refers to the use of GPI when the PCI operator has not
@@ -881,7 +881,7 @@ intended to use GPI from the outset, but considers that clinical or angiographic
 (such as worsening or persistent thrombus burden) have changed during the course of the
 procedure, such that there may be benefit to giving the patient GPI.
 
-Acute coronary syndromes (NG185)
+ 
 Recommendations for research
 The guideline committee has made the following recommendations for research.
 Key recommendations for research
@@ -907,7 +907,7 @@ In people with acute STEMI who present more than 1 hour after the onset of sympt
 a primary PCI-related delay of 120 to 180 minutes associated with outcomes similar to,
 better or worse than pre-hospital administered fibrinolysis? [2013]
 
-Acute coronary syndromes (NG185)
+ 
 Why this is important
 Primary PCI is the preferred coronary reperfusion therapy provided it can be delivered 'in a
 timely fashion'. It is suggested that primary PCI is the preferred reperfusion strategy for
@@ -940,7 +940,7 @@ use, is not clear. Management of unstable angina and NSTEMI would be enhanced if
 relative place of these investigations were better understood and an assessment of their
 cost effectiveness made.
 
-Acute coronary syndromes (NG185)
+ 
 4 Relationship between volume of procedures and clinical
 outcomes
 What is the relationship between hospital volume of primary PCI procedures and optimal
@@ -973,7 +973,7 @@ assessing ischaemic and bleeding risk when evaluating data from randomised trial
 registries may help to determine where the net clinical benefit (reduction in ischaemic risk
 minus any increase in bleeding risk) lies.
 
-Acute coronary syndromes (NG185)
+ 
 Other recommendations for research
 6 Risk assessment – data from cardiac registries
 For patients with unstable angina and NSTEMI (at differing levels of risk), how do clinical
@@ -1002,7 +1002,7 @@ and hyperglycaemia (blood glucose 11 mmol/litre and over) stratified by NSTEMI a
 STEMI and by known diabetes and without a previous diagnosis of diabetes.
 The interventions for the trial should be intravenous insulin or subcutaneous insulin
 
-Acute coronary syndromes (NG185)
+ 
 administered within 4 hours of presentation to hospital. The aim is to achieve blood
 glucose between 6 and 11 mmol/litre for at least 24 hours. The comparator should be
 standard care.
@@ -1021,7 +1021,7 @@ blockers in this population. The balance of risks and benefits of long-term beta
 has not been clearly determined, particularly in the context of modern acute treatment of
 MI.
 
-Acute coronary syndromes (NG185)
+ 
 Rationale and impact
 These sections briefly explain why the committee made the recommendations and how
 they might affect practice.
@@ -1051,7 +1051,7 @@ bleeding risk.
 An exception was added for people needing anticoagulation for a separate reason (for
 example, ongoing atrial fibrillation). For these people, clopidogrel is preferred because of
 
-Acute coronary syndromes (NG185)
+ 
 the high bleeding risk of full anticoagulation plus prasugrel.
 How the recommendation might affect practice
 In the UK, prasugrel is currently used less than ticagrelor or clopidogrel. The
@@ -1080,7 +1080,7 @@ How the recommendations might affect practice
 The committee agreed that the recommendations generally reflect current practice and
 are not expected to result in a substantial resource impact to the NHS in England.
 
-Acute coronary syndromes (NG185)
+ 
 Return to recommendations
 Complete revascularisation with PCI or culprit
 vessel only PCI for acute STEMI
@@ -1111,7 +1111,7 @@ admission.
 How the recommendations might affect practice
 Current practice is variable across centres and also within centres. Some offer multivessel
 
-Acute coronary syndromes (NG185)
+ 
 PCI during the first procedure for acute STEMI but others may postpone this (either to
 later within the index admission or to a later readmission). Some operate on the culprit
 vessel only. The recommendations are therefore likely to result in a change in practice, but
@@ -1141,7 +1141,7 @@ incidence of MI in the 3 years after revascularisation when drug-eluting stents 
 Costs of drug-eluting stents are higher than bare metal stents, but analyses using current
 cost and benefit data suggest that they are a cost-effective use of resources.
 
-Acute coronary syndromes (NG185)
+ 
 How the recommendations might affect practice
 The use of drug-eluting stents has been slowly increasing over recent years in the UK and
 the most recent national audit data show that 91% of PCIs for acute coronary syndromes
@@ -1172,7 +1172,7 @@ risk is high.
 How the recommendations might affect practice
 In the UK, both ticagrelor and clopidogrel are currently used for STEMI that is managed
 
-Acute coronary syndromes (NG185)
+ 
 without PCI. The recommendations require a change in practice for most, but not all,
 people who would otherwise receive clopidogrel. Ticagrelor costs considerably more than
 clopidogrel, and although the recommendations apply to a minority of people with STEMI,
@@ -1204,7 +1204,7 @@ How the recommendations might affect practice
 Fondaparinux is already used before angiography in many centres in the UK, with
 additional unfractionated heparin given during the procedure. The recommendations will
 
-Acute coronary syndromes (NG185)
+ 
 affect those centres currently withholding fondaparinux from people having angiography in
 the next 24 hours. Fondaparinux is a cheaper option than low molecular weight heparin so
 the recommendation could be cost saving in these centres.
@@ -1236,7 +1236,7 @@ under-represented in the dataset, and therefore added a cautionary recommendatio
 this effect.
 The committee noted that the 2010 guideline had recommended that angiography should
 
-Acute coronary syndromes (NG185)
+ 
 be done within 96 hours of admission for those who are likely to benefit from an early
 invasive strategy. However, they considered this a conservative target and knew that
 angiography within 72 hours is now common practice. This allows time for a correct
@@ -1266,7 +1266,7 @@ chest pain before a diagnosis of unstable angina or NSTEMI is made. In their exp
 dual antiplatelet therapy had caused harm (bleeding) in some people presenting with
 chest pain not caused by an acute coronary syndrome.
 
-Acute coronary syndromes (NG185)
+ 
 Unstable angina and NSTEMI intended for PCI
 Evidence was reviewed comparing the clinical effectiveness of clopidogrel, prasugrel and
 ticagrelor, each in combination with aspirin, at time-points of 30 days and 1 year. A
@@ -1301,7 +1301,7 @@ How the recommendations might affect practice
 In the UK, prasugrel is currently used less than ticagrelor or clopidogrel. The
 recommendations may therefore involve a change in practice for some centres. Prasugrel
 
-Acute coronary syndromes (NG185)
+ 
 costs less than ticagrelor, but considerably more than clopidogrel, and although some
 areas will see a cost saving from switching to prasugrel from ticagrelor, others will see an
 increase where either prasugrel or ticagrelor is used instead of clopidogrel. The overall
@@ -1332,7 +1332,7 @@ Current practice is variable, with people taking different combinations of antip
 anticoagulants. The number of people affected is small. It is estimated that between 5%
 and 15% of people with an acute coronary syndrome will have an indication for oral
 
-Acute coronary syndromes (NG185)
+ 
 anticoagulation. The recommendations are mostly unchanged from the 2013 guideline and
 the minor changes that have been made are unlikely to result in a substantial resource
 impact for the NHS in England.
@@ -1358,7 +1358,7 @@ to stop treatment at this point. Any reduction in prescriptions for beta-blocker
 saving.
 Return to recommendations
 
-Acute coronary syndromes (NG185)
+ 
 Context
 Acute coronary syndromes due to ischaemic heart disease remain a significant cause of
 morbidity and mortality. In 2015, heart disease remained the leading cause of death in men
@@ -1372,7 +1372,7 @@ treating acute coronary syndromes and updates to existing treatments, indicates 
 for an updated guideline that will help deliver best practice to the large number of people
 receiving treatment for acute coronary syndromes in the NHS.
 
-Acute coronary syndromes (NG185)
+ 
 Finding more information and committee
 details
 To find NICE guidance on related topics, including guidance in development, see the NICE
@@ -1384,7 +1384,7 @@ NICE has produced tools and resources to help you put this guideline into practi
 general help and advice on putting our guidelines into practice, see resources to help you
 put NICE guidance into practice.
 
-Acute coronary syndromes (NG185)
+ 
 Update information
 November 2020: This guideline updates:
 • NICE guideline CG172 (published November 2013)
@@ -1411,7 +1411,7 @@ anticoagulation.
 previous MI.
 These recommendations are marked [2007, amended 2020].
 
-Acute coronary syndromes (NG185)
+ 
 Minor changes since publication
 December 2024: We added links to relevant technology appraisal guidance in the sections
 on dual antiplatelet therapy, coronary angiography with follow-on PCI, drug therapy for
