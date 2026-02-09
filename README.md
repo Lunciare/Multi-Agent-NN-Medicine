@@ -1,7 +1,7 @@
 # Multi-Agent Neural Network for Medicine
 
-## 🏗️ Архитектура проекта
-- Мульти-агентная система
-- Модуль RAG (Retrieval-Augmented Generation)
-- Векторная база медицинских знаний
-- Интерфейс врача
+## Architecture
+- Multi-agent system
+- RAG (Retrieval-Augmented Generation)
+- Medical knowledge vector base
+- Doctor's interface
