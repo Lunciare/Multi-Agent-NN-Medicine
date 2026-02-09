@@ -1,0 +1,124 @@
+Ectopic Supraventricular Arrhythmias
+Various rhythms result from supraventricular foci (usually in the atria).
+Diagnosis is by electrocardiography. Many are asymptomatic and require no
+treatment.
+(See also Overview of Arrhythmias.)
+Ectopic supraventricular rhythms include
+Atrial premature beats
+Atrial tachycardia
+Multifocal atrial tachycardia
+Nonparoxysmal junctional tachycardia
+Wandering atrial pacemaker
+Atrial premature beats
+Atrial premature beats (APB), or premature atrial contractions (PAC), are common episodic impulses.
+They may occur in normal hearts with or without precipitating factors (eg, caffeine, alcohol,
+pseudoephedrine) or may be a sign of a cardiopulmonary disorder. They are common in patients with
+chronic obstructive pulmonary disease (COPD). They occasionally cause palpitations.
+Diagnosis is by electrocardiography (ECG—see figure Atrial Premature Beat).
+Atrial Premature Beat (APB)
+In lead II, after the second beat of sinus origin, the T wave is deformed by an APB. Because the
+APB occurs relatively early during the sinus cycle, the sinus node pacemaker is reset, and a
+pause—less than fully compensatory—precedes the next sinus beat.
+Sinus Rhythm With Atrial Premature Beats (Arrows)
+APBs may be normally, aberrantly, or not conducted and are usually followed by a noncompensatory
+pause (1). Aberrantly conducted APBs (usually with right bundle branch block morphology) must be
+distinguished from premature beats of ventricular origin.
+Occasional APBs in apparently healthy people are generally considered benign, and nearly everyone has
+some. Frequent APBs have been shown to be associated with an increased risk of stroke, of all-cause
+mortality, of cardiovascular mortality, and atrial fibrillation (2, 3). It is not known if these associations are
+the consequence of APBs, of unidentified structural heart disorders, of unidentified atrial fibrillation, or
+simply that they all share the same risk factors (such as aging).
+Atrial escape beats are ectopic atrial beats that emerge after long sinus pauses or sinus arrest. They
+may be single or multiple; escape beats from a single focus may produce a continuous rhythm (called
+ectopic or escape atrial rhythm). Heart rate is typically 40 to 60 beats/minute, P wave morphology is
+typically different, and PR interval is slightly shorter than in sinus rhythm. Accelerated atrial rhythm (also
+ 2/6
+
+  
+called a nonsinus atrial rhythm) may occur at a rate higher than the sinus rate due to either enhanced
+normal automaticity or abnormal automaticity. Accelerated atrial rhythm is distinguished from atrial
+tachycardia by being slower with an arbitrary rate cut-off (usually 100 or 120 beats/minute).
+Junctional escape beats are ectopic beats that emerge after long sinus pauses or sinus arrest when
+not terminated by an atrial escape beat. The "junction" includes the atrioventricular (AV) node, His
+bundle, and adjacent atrial tissue that produce escape beats that cannot be more specifically localized
+by the ECG. They may be single or multiple; escape beats from a single junctional focus may produce a
+continuous rhythm (called ectopic or escape junctional rhythm). Heart rate is typically slow (35 to 50
+beats/minute), P wave morphology typically shows low to high atrial activation (negative P waves in
+leads II, III, aVF), and P waves are located immediately before (< 0.1 second), during (thus hidden), or
+immediately after (< 0.1 second) the QRS complex.
+Focal atrial tachycardia
+Focal atrial tachycardia is a regular rhythm caused by consistent, rapid atrial activation from a single
+atrial focus. Heart rate is usually 150 to 200 beats/minute; however, with a very rapid atrial rate, nodal
+dysfunction, and/or digitalis toxicity, AV block may be present, and ventricular rate may be slower.
+Mechanisms include abnormal automaticity, triggered activity, and micro-reentry.
+Focal atrial tachycardia is the least common (5 to 10%) form of paroxysmal supraventricular tachycardia
+(4) and usually occurs in patients with a structural heart disorder. Other causes include atrial irritation
+(eg, pericarditis), medications (eg, digoxin), alcohol, and toxic gas inhalation.
+Symptoms are those of other tachycardias (eg, light-headedness, dizziness, palpitations, and rarely
+syncope). When focal atrial tachycardia is incessant, it may lead to a tachycardic cardiomyopathy and
+heart failure.
+Diagnosis is by electrocardiography (ECG); P waves, which differ in morphology from normal sinus P
+waves, precede QRS complexes but may be hidden within the preceding T wave (see figure Focal Atrial
+Tachycardia).
+ 3/6
+
+  
+Focal Atrial Tachycardia
+This narrow QRS tachycardia arises from an abnormal automatic focus or micro-reentry. P
+waves precede the QRS complexes; it is often a long RP interval tachycardia (PR < RP) but may
+be a short RP tachycardia (PR > RP) if atrioventricular nodal conduction is slow.
+Vagal maneuvers may be used to slow the heart rate, allowing visualization of P waves when they are
+hidden, but these maneuvers do not usually terminate the arrhythmia (because the AV node is not an
+obligate part of the arrhythmia circuit).
+Acute treatment begins with IV adenosine, which may terminate atrial tachycardias due to adenosine-
+sensitive delayed after depolarizations (DAD) that result from intracellular calcium overload (one form
+of triggered activity) or reveal the mechanism by producing AV block without termination of the
+tachycardia. Acute treatment includes discontinuing digoxin therapy when this is the cause. The
+ventricular response rate may be slowed with an IV beta-blocker,IV verapamil, or IV diltiazem (5),
+although this is often unsuccessful. The atrial arrhythmia may be terminated by IV procainamide, IV
+flecainide, or IV amiodarone. An episode may also be terminated by direct current cardioversion.
+Pharmacologic approaches to prevention of focal atrial tachycardia include beta-blockers, non-
+dihydropyridine calcium channel blockers, and/or antiarrhythmic medications in class Ia, Ic, or III (5).
+Transcatheter ablation of focal atrial tachycardia, which is effective and reasonably safe, is the preferred
+approach for chronic prophylaxis.
+Multifocal atrial tachycardia
+Multifocal atrial tachycardia (chaotic atrial tachycardia) is an irregularly irregular rhythm caused by the
+random discharge of multiple ectopic atrial foci. By definition, heart rate is > 100 beats/minute. On ECG,
+P-wave morphology differs from beat to beat, and there are ≥ 3 distinct P-wave morphologies. The
+presence of P waves distinguishes multifocal atrial tachycardia from atrial fibrillation. Except for the
+rate, features are the same as those of wandering atrial pacemaker. Symptoms, when they occur, are
+those of rapid tachycardia. Multifocal atrial tachycardia can be due to an underlying pulmonary disorder
+such as chronic obstructive pulmonary disease, especially when accompanied by hypoxia, acidosis,
+theophylline-intoxication, or a combination. Less commonly, it is caused by underlying cardiac disease
+such as coronary artery disease, and electrolyte abnormalities such as hypokalemia. Treatment is
+ 4/6
+
+  
+directed at the underlying disorder. When therapy directed at the arrhythmia is required, the most
+effective agents are IV magnesium, IV verapamil, and a beta-blocker (5). Treatment with digoxin, class I
+or III antiarrhythmic medications, or cardioversion is usually ineffective (5).
+Wandering atrial pacemaker
+Wandering atrial pacemaker (multifocal atrial rhythm) is an irregularly irregular rhythm caused by the
+random discharge of multiple ectopic atrial foci. By definition, heart rate is ≤ 100 beats/minute. Except
+for the rate, features are the same as those of multifocal atrial tachycardia. Treatment is directed at
+causes, which tend to be the same as the causes of atrial premature beats.
+Nonparoxysmal junctional tachycardia
+Nonparoxysmal junctional tachycardia is caused by abnormal automaticity in the AV node or adjacent
+tissue, which typically follows open heart surgery, acute inferior myocardial infarction, myocarditis, or
+digitalis toxicity. Heart rate is 60 to 120 beats/minute; thus, symptoms are usually absent. ECG shows
+regular, normal-appearing QRS complexes without identifiable P waves or with retrograde P waves
+(inverted in the inferior leads) that occur shortly before (< 0.1 second) or after the QRS complex. The
+rhythm is distinguished from paroxysmal supraventricular tachycardia by the lower heart rate and
+gradual onset and offset. Treatment is directed at the underlying heart disorder.
+Junctional ectopic tachycardia
+Junctional ectopic tachycardia (JET) is a rare (< 1%) supraventricular tachycardia that is caused by
+enhanced automaticity, abnormal automaticity, or triggered activity in the AV node, His bundle, or
+adjacent atrial tissue; the automaticity may be congenital (occurring in utero or in the first 6 months of
+life), postoperative (in children after heart surgery that includes surgery near the junction), or in adults
+with myocardial ischemia or digoxin-intoxication (6). Heart rate is 200 to 250 beats/minute in children;
+thus, a tachycardia-induced cardiomyopathy and heart failure may result. JET is distinguished from
+nonparoxysmal junctional tachycardia by the faster rate and the sudden onset-sudden/offset character
+of JET. JET is rare in adults, and the rate is slower, in the range of 120 to 200 beats/minute.
+Antiarrhythmic pharmacotherapy may be successful with amiodarone, flecainide, ivabradine,
+procainamide, propranolol, or verapamil (5). Transcatheter ablation is less successful than in other
+supraventricular tachycardias and has a higher risk of inadvertent creation of AV block.

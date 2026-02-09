@@ -1,0 +1,128 @@
+Case Summary
+
+A man in his 60s presented to the emergency department with acute chest pain. He had prior ECGs on file and no immediate instability at triage. An initial ECG was obtained and interpreted as “no STEMI”, with the patient subsequently returned to the waiting room.
+
+Shortly thereafter, the patient suffered a ventricular fibrillation (VF) cardiac arrest in the waiting area.
+
+Initial Triage ECG
+
+Sinus rhythm
+
+Marked left ventricular hypertrophy (LVH)
+
+Very high voltage QRS complexes
+
+In lateral leads V5–V6:
+
+Upright, enlarged T waves
+
+Concordant ST segment and T wave
+
+Terminal QRS distortion (tall R wave without S wave)
+
+Without prior ECGs for comparison, the findings were judged non-diagnostic.
+AI (Queen of Hearts) also labeled the ECG as not specific for OMI.
+
+Critical Error
+
+The ECG was not compared side-by-side with prior tracings.
+
+Comparison With Prior ECGs
+
+When compared with ECGs from:
+
+6 days prior
+
+2 months prior
+
+…the triage ECG showed clear new ST–T changes in the lateral leads that were absent previously.
+
+👉 In a patient with acute chest pain, these new changes are diagnostic of acute coronary occlusion (OMI) until proven otherwise.
+
+Despite this:
+
+The ECG was interpreted as “no significant change”
+
+No cath lab activation
+
+Patient was sent back to the waiting room
+
+Cardiac Arrest and Post-ROSC ECG
+
+While waiting, the patient developed ventricular fibrillation and required defibrillation, achieving ROSC.
+
+Approximately 5 minutes after ROSC, a repeat ECG showed:
+
+Obvious anterolateral OMI
+
+Clear STEMI criteria
+
+Marked evolution of ischemic changes
+
+This ECG finally triggered urgent intervention.
+
+Angiography Findings
+
+Total proximal LAD occlusion
+
+Successful stent placement
+
+Notable observation:
+
+After LAD occlusion, S-wave amplitude in V2–V3 decreased
+
+This explains why severe LVH and acute STEMI rarely coexist clearly on ECG — ischemia often reduces precordial voltage
+
+Hospital Course
+
+Peak troponin I >25,000 ng/L
+
+Initial echocardiogram:
+
+EF 15%
+
+Severe global hypokinesis
+
+Akinesis of multiple territories
+
+Prior echo (3 months earlier): EF 40%, mild global hypokinesis
+
+Important Insight
+
+The initial severe LV dysfunction was largely due to myocardial stunning, not permanent necrosis.
+
+Over the following weeks:
+
+EF recovered from 15% → ~40%
+
+Had the patient not arrested, he likely would have remained in the waiting room long enough to sustain irreversible transmural infarction with permanent severe heart failure.
+
+Key Learning Points
+
+LVH makes ischemia harder to recognize, but does not excuse missing it
+
+In chest pain patients:
+
+Rule out OMI, do not rule it in
+
+Side-by-side ECG comparison is essential
+
+LV “strain” causes:
+
+ST depression / flattening in lateral leads
+
+NOT convex ST elevation
+
+Concordant ST elevation in LVH is highly suspicious
+
+When in doubt:
+
+Repeat ECGs every 15 minutes
+
+Consider half-standard voltage ECG to reduce QRS overlap
+
+Cardiac arrest, paradoxically, saved this patient’s myocardium
+
+Bottom Line
+
+This case illustrates how acute coronary occlusion can be missed in the presence of LVH, and how failure to compare ECGs led to delayed diagnosis. The patient was “fortunate” to suffer a cardiac arrest because it forced recognition of a diagnostic ECG that had already been present — allowing myocardial salvage that otherwise would have been lost.

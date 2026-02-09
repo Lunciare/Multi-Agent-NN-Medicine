@@ -1,0 +1,87 @@
+A 70-year-old man experienced sudden-onset palpitations and nausea while at rest and immediately called emergency services. On EMS arrival, he was alert (GCS 15) and denied chest pain. He reported a history of mechanical heart valve placement and multiple prior cardiac surgeries. An ECG was obtained prehospital and transmitted to the emergency department, which was approximately five minutes away.
+
+On ED arrival, vital signs showed respiratory rate 28/min, oxygen saturation 90%, and blood pressure 112/73 mmHg. The patient appeared diaphoretic, indicating hemodynamic compromise.
+
+Initial ECG (ECG #1)
+
+The presenting ECG showed a regular wide complex tachycardia (WCT) at approximately 200 beats per minute.
+
+Key ECG features:
+
+Wide QRS complexes
+
+QRS negative in leads III and aVF
+
+Nearly biphasic QRS in lead II
+
+Positive QRS complexes in I and aVL
+
+Frontal plane axis directed toward the left shoulder
+
+Precordial leads showed QS complexes in V1–V2 and R waves in lateral leads (I, aVL, V5–V6)
+
+Overall morphology consistent with LBBB-like pattern
+
+The axis and morphology together are consistent with ventricular tachycardia originating from the inferior right ventricle.
+
+Given the patient’s age, history of structural heart disease, and signs of instability (hypoxia, diaphoresis), the rhythm was presumed to be ventricular tachycardia, and immediate synchronized electrical cardioversion was indicated.
+
+A 12-lead ECG was appropriately obtained prior to cardioversion to allow later diagnostic review.
+
+Management
+
+The patient was sedated and successfully cardioverted. Hemodynamic status rapidly improved after cardioversion.
+
+Post-Conversion ECG (ECG #2)
+
+Following cardioversion:
+
+Initial beat likely represented a junctional escape
+
+Subsequent rhythm showed atrial activity preceding each QRS
+
+Conduction pattern demonstrated atypical RBBB
+
+Subtle deflections were present at the terminal portion of the QRS complex
+
+Careful inspection revealed epsilon waves, best seen in:
+
+Leads V1–V3
+
+Limb leads I, II, and III
+
+Epsilon waves appeared as small notches or blips at the end of the QRS complex, preceding the ST segment. These findings were more evident when leads were viewed at higher paper speed (50 mm/s).
+
+Clinical Course
+
+Echocardiography demonstrated:
+
+Chronically dilated right ventricular outflow tract
+
+Mechanical pulmonary valve prosthesis
+
+Ventricular septal defect patch with a small residual shunt
+
+Dilated and dysfunctional right ventricle
+
+These findings were consistent with prior imaging. A dual-chamber implantable cardioverter-defibrillator (ICD) was implanted. The patient had an otherwise uneventful hospital course and was enrolled in long-term follow-up for adult congenital heart disease.
+
+Final Diagnosis
+
+The patient was determined to have ventricular tachycardia due to arrhythmogenic right ventricular cardiomyopathy (ARVC) phenocopy, occurring decades after surgical repair of Tetralogy of Fallot.
+
+ARVC phenocopy represents an acquired arrhythmogenic substrate caused by chronic right ventricular dilation, fibrosis, and surgical scarring, mimicking genetic ARVC in the absence of familial mutations.
+
+Learning Points
+
+In older patients with known structural heart disease, regular WCT should be assumed to be VT until proven otherwise
+
+Hemodynamic instability mandates immediate cardioversion, without delay for rhythm differentiation
+
+A pre-cardioversion ECG is invaluable for retrospective diagnosis
+
+Epsilon waves are rare but real, and not exclusive to genetic ARVC
+
+Adults with repaired congenital heart disease are at increasing risk for ventricular arrhythmias
+
+ARVC phenocopy should be considered in patients with prior right-sided cardiac surgery and VT of right ventricular origin

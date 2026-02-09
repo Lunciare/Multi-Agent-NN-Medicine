@@ -1,0 +1,727 @@
+Guidance on the use of coronary artery stents
+1 Recommendations
+1.1 Stents should be used routinely when percutaneous coronary intervention (PCI) is
+the clinically appropriate procedure for people with stable angina.
+For recommendations on drug-eluting stents for people with unstable angina,
+non-ST-segment-elevation myocardial infarction (NSTEMI) or ST-segment-
+elevation myocardial infarction (STEMI), see recommendation 1.1.18 and
+recommendation 1.2.18 in NICE's guideline on acute coronary syndromes. [2020]
+1.2 This recommendation has been replaced by NICE's technology appraisal
+guidance on drug-eluting stents for the treatment of coronary artery disease.
+[2008]
+1.3 This recommendation has been replaced by NICE's technology appraisal
+guidance on drug-eluting stents for the treatment of coronary artery disease.
+[2008]
+1.4 This recommendation has been replaced by NICE's technology appraisal
+guidance on drug-eluting stents for the treatment of coronary artery disease.
+[2008]
+1.5 This guidance specifically relates to the present clinical indications for PCI and
+excludes conditions (such as many cases of stable angina) that are adequately
+managed with standard drug therapy. [2003]
+
+ 
+2 Clinical need and practice
+2.1 CAD is by far the most common cause of heart disease, resulting from the
+narrowing of coronary arteries ('stenosis') caused by deposition of
+atherosclerotic plaque. Coronary artery stenosis may be asymptomatic or may
+lead to angina, a chest pain that may be severe enough to restrict or prevent
+exertion. A critical reduction of the blood supply to the heart may result in MI or
+death.
+2.2 CAD causes about 2,100 deaths annually per million of the population in England
+and Wales (about 110,000 deaths in total), 1 of the highest rates in the world. CAD
+is also the cause of considerable morbidity and loss of ability to lead a normal life.
+Approximately 1.4 million people in England and Wales suffer from angina, the
+most common form of such morbidity.
+2.3 Stenotic lesions are categorised as A, B1, B2 and C. A denotes a relatively short
+(less than 10 mm) and easily accessible lesion. C denotes lesions that: are
+relatively long (greater than 20 mm); may be less accessible, tortuous and/or
+have side branches; and may be totally occluded.
+2.4 CAD may affect 1 or more arteries, which may be of different calibres. Occlusion
+may be partial or total.
+2.5 The symptoms and health risks that are associated with a stenosed artery may
+be treated medically – by modification of risk factors (for example, smoking,
+hyperlipidaemia, obesity and hyperglycaemia) and/or by drug treatment (for
+example, beta-adrenergic blockers, nitrates, calcium channel blockers,
+antiplatelet agents and statins).
+2.6 If these medical treatments fail or are inappropriate, 2 invasive therapies are
+available. The first, coronary artery bypass grafting (CABG), involves major
+cardiac surgery. The second, so-called balloon angioplasty, or percutaneous
+transluminal coronary angioplasty (PTCA), involves a non-surgical widening from
+within the artery using a balloon catheter. When inflated, the balloon increases
+the calibre of the artery.
+
+ 
+2.7 Recently, most PTCA procedures have involved the use of stents. Stents are thin
+wire-mesh structures that act as permanent prosthetic linings to keep the artery
+inflated and maintain its patency. PCI is a generic term to encompass PTCA with
+or without adjunct techniques such as stenting.
+2.8 For disease in a single artery, PCI with a stent has been the more frequent
+treatment; for disease in 2 arteries, patient numbers for PCI with a stent and
+CABG have been similar; and for more than 2 affected arteries, CABG has been
+used much more frequently.
+2.9 The major problem with PCI is restenosis of the artery, which has 3 main causes.
+The first, recoil of the artery, happens when the balloon is deflated. It usually
+occurs immediately or within 24 hours of completion of the procedure, and may
+require emergency CABG. Stents essentially eliminate recoil of the artery. The 2
+subsequent problems, mostly arising during the first 6 months, are contraction of
+the adventitia secondary to an injury reaction (3 to 6 months), and proliferation of
+smooth muscle cells within the arterial wall (4 to 6 months). A repeat procedure is
+consequently required in approximately 20% of patients with simple lesions. This
+rate of reintervention is much higher (up to 50%) for arteries of small calibre,
+saphenous vein grafts, long lesions, total occlusions and in people with diabetes.
+2.10 Recent advances in stent technology have reduced some of the problems of
+restenosis, as well as lowering the cost of stents. In addition, the use of
+antiplatelet drugs and other therapeutic strategies to prevent thrombosis have
+improved long-term outcomes.
+2.11 One of the main criteria for assessing the clinical effectiveness of PTCA with
+stents compared with standard PTCA (without stents) is the ability to reduce the
+incidence of subsequent attacks of angina as well as major adverse coronary
+events (MACE), which include death, MI and the need for further
+revascularisation procedures (CABG or repeat PCI).
+2.12 Patients for whom both a CABG and a PCI involving stenting are appropriate
+techniques would, other things being equal, choose PCI in almost all cases, even
+though the chances of restenosis are greater. This is because the procedure is
+less invasive, has a lower chance of death during the operation, and involves a
+much shorter and less painful recuperation time.
+
+ 
+2.13 Approximately 39,000 PCI procedures were undertaken in the UK in 2001,
+equating to 663 per million of the population – a rate that had increased at an
+average of 14% per year over the previous 10 years. The rate for the UK remains
+below that of the European Union (EU) average, which exceeds 1,000 per million
+of the population.
+2.14 In the UK, the proportion of PCI procedures using stents rose steeply between
+1993 and 1999, from below 10% to nearly 80%. It has continued to increase,
+although more slowly, to about 85% in 2001.
+2.15 The number of CABG procedures performed each year in the UK has increased
+from 15,700 in 1991 to 24,700 in 1999 to 2000, or from 292 to 464 per million of
+the population. The rate of increase has slowed since the first half of the 1990s.
+2.16 The National Service Framework for Coronary heart Disease target, set in March
+2000 for revascularisations (PCIs and CABGs), is at least 1,500 per million of the
+population (750 for each type of intervention). At current growth rates, the
+combined target will be reached by about 2005.
+
+ 
+3 The technology
+3.1 This appraisal is a review of previous NICE technology appraisal guidance on
+ischaemic heart disease – coronary artery stents (TA4) covering bare metal stent
+(BMS), and a new appraisal of drug-eluting stent (DES). BMS have already been
+described in section 2 as part of existing practice. The rest of this section is
+devoted to methods of reducing restenosis and, in particular, to the use of DES
+as a means of achieving this.
+3.2 Methods of reducing restenosis include: coating the stent with an appropriate
+drug; introducing an emitter of radioactive particles at the stenting site
+(brachytherapy); and creating the slow release of a drug from the stent, making
+the stent 'drug-eluting'. For DES, the drug is held temporarily in place within a
+polymer 'painted' onto the metallic stent. Other than 1 trial (the ELUTES trial),
+there is little evidence in favour of coating the stent directly with an active drug
+(without a polymer); this technology, and brachytherapy, are outside the scope of
+this appraisal.
+3.3 Although a number of drugs have been tested in the context of DES, only 3 have
+been granted CE (Conformite Europeene) marking for use within EU countries:
+paclitaxel, which inhibits cell division, elutes from the Taxus stent; sirolimus
+(previously known as rapamycin), an immunosuppressive agent that reduces
+inflammation, elutes from the Cypher stent; and dexamethasone, a synthetic
+adrenocortical steroid that reduces inflammation, elutes from the BiodivYsio
+stent. These drugs may elute at different rates, depending on the presence or
+absence of additional polymer coatings on the stent. Because the performance of
+a DES depends critically on the particular drug being used, each DES should be
+regarded as a separate technology. However, as yet, studies directly comparing
+different DES have not been performed.
+3.4 Both types of stent (BMS and DES) require the use of an antiplatelet drug in
+addition to aspirin. Such drugs should be used after the implantation of a stent, in
+accordance with the device-specific instructions for use (IFU).
+3.5 List prices for both BMS and DES differ between manufacturers, and some
+manufacturers produce more than 1 stent in each class, at different prices. Prices
+
+ 
+for BMS range from about £600 to £900 and for DES from about £1,300 to £1,500
+per stent. For bare-metal and drug-eluting stents that are the same apart from
+their drug-eluting properties, the difference in cost is about £500 to £600. Costs
+may vary in different settings because of negotiated procurement discounts.
+
+ 
+4 Evidence and interpretation
+The Appraisal Committee considered evidence from a number of sources.
+4.1 Clinical effectiveness
+4.1.1 The Assessment Report presents 3 sets of comparison: PCI without stents versus
+PCI with BMS; PCI with BMS versus CABG; and BMS versus DES.
+4.1.2 Assessment of the relative clinical effectiveness of stents considers the likelihood
+of restenosis discovered on follow-up and the requirement for repeat intervention
+(revascularisation). Repeat intervention may occur: (i) because of a requirement
+of the trial protocol, specifying a repeat angiographic examination at a
+predetermined interval (so-called 'protocol-driven' reintervention); or (ii) following
+a recurrence of symptomatic angina in the patient (that is, 'clinically driven'
+reintervention). The frequency of protocol-driven reinterventions is higher than
+that of clinically driven reinterventions, because angiography is usually
+mandatory at 6 months in the trial protocol whereas in clinical practice it is
+carried out only after recurrence of symptoms. Accordingly, the absolute
+differences observed between the treatment and control arms of clinical trials are
+likely to be higher than would be expected to occur in clinical practice.
+PCI with BMS versus PCI (without stents)
+4.1.3 Fifty randomised controlled trials (RCTs) were analysed comparing the use of PCI
+with BMS versus PCI without stents. Because of differences in, and completeness
+of, the reporting of these trials, the number of trials on which meta-analyses are
+based is a subset of these 50 trials. In a meta-analysis comprising 12 trials
+involving 5,700 patients with non-specified ischaemic heart disease, where a
+composite endpoint of revascularisation, MI or death (MACE) was reported, the
+MACE rate was statistically significantly different at 6 months' follow-up: 23.0%
+for the PCI without stents group versus 15.4% for the PCI with BMS group, with
+an odds ratio (OR) of 1.66 (95% confidence interval [CI], 1.45 to 1.90). The
+difference was smaller after 12 months' follow-up but still statistically significant.
+
+ 
+Of the above 12 trials, 7, involving 3,500 patients, reported data for 12-months'
+follow-up: the MACE rate was 22.0% for the PCI without stents group versus
+18.9% for the PCI with stents group (OR 1.33; 95% CI, 1.12 to 1.58).
+4.1.4 Differences in MACE rates were due almost entirely to differences in the rate of
+restenosis. For the outcomes of acute MI and deaths, for which individual trials
+were not powered to detect statistically significant differences, meta-analyses
+showed that while both of these sets of events occurred less frequently in those
+treated with PCI using BMS than in PCI without stents, in neither case was the
+result statistically significant.
+4.1.5 Overall, the results of the RCTs showed that the use of PCI with BMS has
+significant advantages over the use of PCI without stents, in terms of lower rates
+of restenosis at 6 and 12 months.
+4.1.6 According to the joint professional submission, the likelihood of restenosis is
+greater in small vessels, because a given tissue regrowth will have a greater
+proportionate effect in a vessel of smaller calibre. In 8 out of 9 studies that
+looked at vessels of a small calibre (less than 3 mm), restenosis rates were lower
+in the BMS arm than in the PCI without stent arm, and in 2 of these studies, the
+difference was statistically significant. A meta-analysis showed a statistically
+significant advantage for PCI with BMS. However, restenosis rates were still high
+in this group.
+4.1.7 According to the joint professional submission, the restenosis rate increased by
+an estimated 8 to 13 percentage points with every 10-mm increase in the length
+of BMS required.
+PCI with BMS versus CABG
+4.1.8 There were 6 RCTs in the meta-analysis. None of the trials involved a DES.
+4.1.9 For single-vessel disease, the MACE rate was statistically significantly different at
+6 months' follow-up in 2 trials involving a total of 300 patients: 12.6% for CABG
+versus 25.8% for PCI with BMS (OR 0.41; 95% CI, 0.22 to 0.74). The higher MACE
+rate for PCI with BMS reflects the higher rate of restenosis following this
+
+ 
+procedure.
+4.1.10 For multiple-vessel disease, the MACE rate was statistically significantly different
+at 12 months' follow-up in 2 trials involving a total of 2,300 patients: 12.3% for
+CABG versus 24.5% for PCI with BMS (OR 0.43; 95% CI, 0.34 to 0.54).
+4.1.11 At 36 days' follow-up, the rate of acute MIs was statistically significantly lower
+following PCI with BMS, but the difference between the 2 procedures was not
+statistically significant at 6 and 12 months.
+4.1.12 No statistically significant differences were reported for deaths, because the
+trials were not powered to detect differences in these uncommon events.
+BMS versus DES
+4.1.13 There were 12 RCTs comparing BMS with DES. Of these, 7 involved paclitaxel, 4
+sirolimus, 1 everolimus and 1 actinomycin stents. The first 2 sets of trials
+(paclitaxel and sirolimus) are considered separately below, and the last 2 trials
+have not been considered here because they involved products that have not
+been granted CE marking. No RCT for the third DES with a CE mark (eluting
+dexamethasone) has yet been reported.
+4.1.14 Paclitaxel-eluting stents
+4.1.14.1 Based on 4 trials with a paclitaxel DES (Taxus and non-CE-marked stents),
+involving almost 1,000 patients, the MACE rate for PCIs using a paclitaxel DES
+was not statistically significantly lower at 36 days or at 1 year, but it was
+statistically significantly lower at 6 months: 7.4% for DES versus 15.4% for BMS
+(OR 0.48; 95% CI, 0.31 to 0.73). From a random effects model (which takes
+account of heterogeneity of results between trials), the 6-month data for the
+MACE rate were not statistically significant (OR 0.58; 95% CI, 0.24 to 1.43). Most
+of the MACE events refer to restenosis. However, the 2 trials of the Taxus DES
+stent (which has a CE mark), involving 583 patients, yielded a statistically
+significantly lower MACE rate at 6 months: 7.2% for DES versus 18.4% for BMS
+(OR 0.35; 95% CI, 0.21 to 0.59); and at 12 months: 9.7% for DES versus 20.5% for
+
+ 
+BMS (OR 0.41; 95% CI, 0.25 to 0.67).
+4.1.14.2 Paclitaxel DES have not been demonstrated to show an advantage over BMS in
+either mortality or prevention of MI. However, in a series of trials of the Taxus
+stent (the TAXUS trials), the MI rate for PCIs using a paclitaxel DES was
+statistically significantly lower at 6 months: 1.7% for DES versus 5.9% for BMS (OR
+0.35; 95% CI, 0.12 to 0.99). The statistical significance of this result was not
+maintained at 12 months: 2.8% for DES versus 5.8% for BMS (OR 0.56; 95% CI,
+0.23 to 1.37).
+4.1.14.3 Multivariate analysis of data from the TAXUS trials shows that once the effect of
+small-calibre arteries and long lesions has been allowed for, the difference in
+performance between DES and BMS for people with diabetes is not statistically
+significantly different from that of people without diabetes.
+4.1.15 Sirolimus-eluting stents
+4.1.15.1 The MACE rate for PCIs using a sirolimus DES (Cypher and non-CE-marked
+stents) was not statistically significantly lower at 36 days, but it was lower at 9
+months and at 1 year; at 9 months the rate was 7.4% for DES versus 18.9% for
+BMS (OR 0.34; 95% CI, 0.23 to 0.47), and at 1 year it was 7.8% for DES versus
+21.8% for BMS (OR 0.30; 95% CI, 0.22 to 0.43). Most of the MACE events refer to
+restenosis. The trials of the Cypher sirolimus DES (which has a CE mark) showed
+a statistically significantly lower MACE rate compared with trials of BMS at 9
+months (OR 0.32; 95% CI, 0.16 to 0.45), 12 months (OR 0.31; 95% CI, 0.22 to
+0.43), and 24 months (OR 0.46; 95% CI, 0.22 to 0.97).
+4.1.15.2 Sirolimus-eluting stents in general have not been shown to have either a mortality
+or acute MI advantage over BMS in trials, and neither do the DES within the
+subset of Cypher stent trials.
+4.1.15.3 According to the joint professional submission, in larger arteries, PCIs using a
+sirolimus DES have shown very low rates of restenosis, approaching zero. In
+small-calibre arteries, PCIs using a sirolimus DES have shown lower rates of
+restenosis than PCIs using a BMS (for example, 7% versus 20% restenosis at 9
+months in the SIRIUS trial for vessels of mean calibre 2.3 mm).
+
+ 
+4.1.15.4 In patients with diabetes and those with longer lesions, rates of restenosis
+following PCIs using a sirolimus DES have been higher than those of the 'average'
+patient, but still much lower than following PCIs using the BMS control.
+Subsequent post hoc subgroup analysis from 1 of the manufacturers from a trial
+involving patients who received a DES was considered by the Committee. The
+analysis compared the restenosis rate for people with diabetes with that for
+people without diabetes. It showed that the restenosis rate for those with
+diabetes as a whole was higher than for the non-diabetes group, but the
+difference was not statistically significant. In addition, the analysis did not control
+for artery calibre or length.
+4.1.15.5 According to the joint professional submission, for every 10 mm increase in the
+length of the stent, the difference in restenosis rate between a Cypher DES and
+Cypher BMS increased by between 1 and 1.6 percentage points.
+4.2 Cost effectiveness
+4.2.1 The most recent evidence of cost effectiveness comes from models supplied by
+4 manufacturers and 1 from the Assessment Group, including an addendum. The
+manufacturer models show that PCIs with a BMS are cost effective compared
+with PCIs without stents and also compared with CABG. However, these models
+are relatively short-run, ranging from 6 months to 2 years. The manufacturers of
+the Cypher and of the Taxus stents each provided a model which examined the
+cost effectiveness of their own DES compared with the corresponding BMS. Each
+of these models showed that the DES is cost effective compared with the
+corresponding BMS. The Assessment Group's model showed that the Cypher and
+Taxus stents, as a group, are cost effective compared with BMS.
+PCI with BMS versus PCI without stents
+4.2.2 For patients with moderate or severe angina, PCI has been shown to be a cost-
+effective alternative to conventional medical treatment. Since the previous
+appraisal in 2000 of PCI with BMS versus PCI without stents, several further
+studies have demonstrated the cost effectiveness of stents in a number of
+patient populations and clinical settings, including elective stenting and stenting
+
+ 
+immediately following an acute MI.
+PCI with BMS versus CABG
+4.2.3 Comparative data on PCI using BMS versus CABG are available for only 3 years of
+follow-up. There are no data beyond 3 years and little data from years 2 to 3. The
+best available data are up to 2 years. Long-term models are needed to determine
+cost effectiveness because most patients who have stents fitted live longer than
+5 years, and it is impossible to give a proper answer to the question of cost
+effectiveness by taking a short-term perspective.
+4.2.4 The Assessment Group's model extrapolates the results to 5 years based on the
+currently available 3-year data. However, the extrapolation is very sensitive to the
+functional form chosen for the survival curve of patients who have undergone
+either stenting or CABG.
+4.2.5 The benefits and disadvantages of PCIs using BMS compared with CABG, in
+terms of quality-of-life differences, derive from stents being a less invasive
+procedure on one hand but having higher rates of restenosis on the other.
+Neither of these 2 effects, in terms of quality-adjusted life years (QALYs), has
+been estimated to be very great, which means that if there was any appreciable
+difference in mortality between the 2 therapies, this factor would determine
+which of the therapies had the greater benefits. However, none of the meta-
+analyses from the trials shows any mortality benefit from PCI with either BMS or
+DES compared with CABG in the first 2 years. Hence, all the measurable benefits
+from using stents rather than CABG derive from an increase in the quality of life.
+Since stenting is considerably cheaper than CABG, under the 2-year models, it is
+therefore more cost effective, and indeed, dominates CABG.
+4.2.6 The Assessment Group's model, however, estimated a survival benefit for CABG
+over PCI using BMS of the order of 0.05 QALYs per patient, after the model was
+extrapolated to 5 years. This benefit would be enough to make CABG the
+preferred technology (in terms of both clinical and cost effectiveness) for
+patients who were candidates for both stents and CABG. The clinician consultees
+to the appraisal process, however, vigorously challenged this, stating that
+previous studies had not reached this conclusion.
+
+ 
+BMS versus DES
+4.2.7 The quality-of-life component of the QALY differences between BMS and DES is
+small, because it relates only to the extent of the differences in restenosis rates.
+No differences in mortality have been demonstrated. Thus, the greatest benefits
+of DES over BMS will occur for categories of patients for whom the absolute
+differences in restenosis rates are greatest.
+4.2.8 The addendum to the Assessment Report showed that, for single-vessel disease,
+PCI using a DES was estimated to be cost-saving compared with PCI using a BMS
+at 12 months for patients with diabetes and long lesions; the estimated cost per
+QALY for patients without diabetes and long lesions was £15,000 and, for all
+patients with narrow vessels, it was £16,000. These estimates were derived from
+patient-level data derived from the TAXUS II trial. For the total population of
+patients with single-vessel disease, the cost per QALY was £94,000. This
+estimate was derived from registry data.
+4.2.9 These estimates are sensitive to 5 factors:
+• the percentage point reduction in the risk of revascularisation
+• the price differential between BMS and DES
+• the proportion of repeat interventions needing CABG
+• the disutility caused by recurrent symptoms
+• the average waiting time for repeat intervention.
+4.2.10 There are no RCT data for 2-vessel disease. The estimated incremental cost per
+QALY for 2-vessel disease gained from PCI using a DES compared with PCI using
+a BMS for all non-diabetic patients is £195,000. This estimate is derived from
+registry data.
+4.3 Consideration of the evidence
+4.3.1 The Committee reviewed the evidence available on the clinical and cost
+effectiveness of PCIs using a BMS and DES, having considered evidence on the
+
+ 
+nature of the condition and the value placed by users on the benefits of BMS and
+DES from clinical experts and those who represent patients with angina. It was
+also mindful of the need to ensure that its advice took account of the efficient
+use of NHS resources.
+PCI with BMS versus PCI without stents
+4.3.2 The Committee considered that no new evidence had been found since the
+previous appraisal to change its view that where PCI is being undertaken, the use
+of stents is likely to be both clinically and cost effective.
+BMS versus DES
+4.3.3 The Committee noted that there were no head-to-head trials of the sirolimus-
+eluting Cypher stent and the paclitaxel-eluting Taxus stent, and the clinical
+experts advised that there was no evidence that would allow them to favour 1 of
+these drug-eluting agents over the other.
+4.3.4 The Committee considered that, for single-vessel disease, restenosis rates were
+in general low using a BMS in the majority of patients requiring PCI, and that,
+therefore, the routine use of a DES was not justified. However, this was not the
+case for patients presenting with either small-calibre arteries (less than 3 mm) or
+long lesions (greater than 15 mm); in these patients, the risk of restenosis using a
+BMS was considerably higher, and the absolute reduction in restenosis rates
+would justify the use of a DES.
+4.3.5 The Committee considered the risk factors predicting the likelihood of higher
+rates of restenosis after the use of a BMS. It was persuaded that the main
+determinants of risk were the target vessel calibre and the complexity of the
+arterial lesion, in particular the length of the stenosis. It recognised that the
+combination of small-vessel disease and long lesions was particularly prevalent in
+patients with CAD who also had diabetes. Whilst, in general, patients with
+diabetes have higher restenosis rates than those without diabetes following PCI
+with a BMS, the Review Group's analysis indicated that these higher rates arise
+predominantly from the fact that a much higher proportion of patients with
+
+ 
+diabetes needing PCI have disease of small-calibre arteries and long lesions than
+is true for the general population of patients requiring PCI.
+4.3.6 The Committee discussed how the RCTs comparing BMS with DES relate to
+current clinical practice. In particular, in the trials, the decision to reintervene
+following an initial PCI with stent procedure was often made on the basis of
+protocol-driven angiographic examinations at certain fixed times (for example at
+6 months), rather than in response to the recurrence of clinical symptoms. It is
+likely that the trials would encourage reintervention that might not be required in
+clinical practice, where routine re-angiography is not usual. Thus, the Committee
+was aware that the difference in restenosis rates between BMS and DES
+identified in the trials could overestimate the extent of the difference that would
+actually be seen in clinical practice. The addendum to the Assessment Report
+attempted to correct for this potential overestimate of the benefit of DES versus
+BMS. The Committee decided that, whether or not the correction factor was
+applied, the guidance in section 1 would not be materially affected.
+4.3.7 The Committee considered PCI with a DES for more than 1 target vessel in a
+person with symptomatic coronary disease. It was aware that the evidence from
+the RCTs relates to the use of DES in single-vessel disease. However, the experts
+indicated that treatment of more than 1 vessel in an individual patient during PCI
+might be required. This is because, despite additional investigations, it is
+frequently difficult to determine which of several vessels identified at
+angiography is the most likely cause of the patient's symptoms. The Committee
+considered that the risk of a need for future intervention following an initial PCI is
+likely to be dependent on the degree of stenosis of any of the affected vessels.
+The appropriateness of a DES or BMS for each diseased artery in turn would
+therefore depend on considering the artery's characteristics in isolation from
+those of other diseased arteries. It was therefore persuaded that planned
+treatment of more than 1 vessel in a single patient should be based on the
+requirements laid out in the guidance for a single vessel.
+4.3.8 The Committee discussed the use of DES with regard to coronary artery vein
+grafts and for more complex situations such as bifurcation lesions, but noted that
+there was no robust evidence in this area at present.
+4.3.9 The Committee noted statements from some manufacturers that restenosis rates
+
+ 
+using a BMS of recent design were low compared with those of other BMS, and
+were comparable with those of the CE-marked DES. The cost-effectiveness
+calculations were not based on evidence comparing these stents with other BMS
+or with DES in head-to-head trials. The Committee considered that this evidence
+was not sufficient to affect its recommendations in section 1. It would, however,
+wish to include further evidence on new developments in BMS design as part of
+the next review of the use of coronary stents.
+PCI with BMS versus CABG
+4.3.10 Having reviewed the Assessment Group's model and the submissions from
+manufacturers, together with the views of cardiologist consultees, the Committee
+concluded that the guidance offered in 2000 should be maintained. While it was
+clear that models with outcomes up to 2 years favoured stents in terms of cost
+effectiveness, the conclusions to be drawn from longer-term models depended
+critically on whether a survival advantage accrues to CABG. The Committee
+concluded that no convincing case had been made on this matter. Its
+considerations ranged over what may happen to patients requiring 1 or other of
+these procedures in different age ranges, and whether the conclusions about the
+most appropriate procedure would be the same for younger patients (who are
+more likely to need a repeat procedure) as for older ones. In none of the cases
+considered was there sufficient evidence of effect to be able to reach any
+conclusion.
+
+ 
+5 Recommendations for further research
+5.1 Ongoing trials for paclitaxel-eluting stents include TAXUS I (follow-up of a small
+initial study of slow-release formulation versus BMS in patients with either
+previously untreated lesions or restenosis), TAXUS II (follow-up of a larger study
+of both slow- and moderate-release formulations versus BMS in patients with
+previously untreated lesions), TAXUS IV (a large trial of slow-release formulation
+versus BMS stratified by presence or absence of diabetes and by vessel
+diameter), TAXUS V (focussing on small vessels, long lesions, bifurcations and in-
+stent restenosis) and TAXUS VI (moderate release for long lesions). For sirolimus-
+eluting stents, ongoing trials include RAVEL (small-diameter vessels), SIRIUS
+(high risk for cardiovascular disease progression and restenosis due to the
+diabetes, exposure to multiple stent implantation and use of overlapping stents)
+and E-SIRIUS (previously untreated single vessels of diameter 2.5 to 3 mm and
+for lesions between 15 and 32 mm in length); and FUTURE (previously untreated
+vessels between 2.75 and 4 mm, less than 28 mm long) for everolimus-eluting
+stents. REALITY, a head-to-head trial of the Cypher sirolimus DES and Taxus
+paclitaxel DES, is under way.
+5.2 Until now, trials have been restricted to single-artery studies for the sake of
+simplicity and ease of interpretation. Extrapolation of results to more than 1 artery
+critically depends on untested assumptions. Randomised controlled trials (RCTs)
+of the use of DES in more than 1 artery concurrently are therefore required, in
+order to confirm or refute the appropriateness of the extrapolations used in the
+modelling.
+5.3 To compare long-term outcomes, particularly with respect to stents against
+CABG, much longer trial follow-ups are required.
+5.4 New BMS designs should be tested against current BMS and DES designs.
+5.5 Head-to-head RCTs of those DES that have been CE marked and have been
+shown to be clinically superior to the corresponding BMS are required.
+5.6 Studies to determine whether diabetes is a risk factor for increased rate of
+restenosis following PCI, independent of lesion length and artery calibre, are
+
+ 
+required. Much of this work could be performed by an analysis of patient-level
+data taken from trials already conducted.
+
+ 
+6 Implications for the NHS
+6.1 The financial impact of using DES depends on the proportion of stented arteries
+that are narrow or contain long lesions offset against the increased capacity of
+the system resulting from a decrease in procedures to manage restenosis.
+Although the total number of arteries requiring a DES in the UK is unknown, it
+could be as high as one-third of all stents. Based on this proportion, the
+additional cost of DES without offsets would be between £6 and £7.2 million per
+year, assuming the use of about 12,000 DES stents costing an additional £500 to
+£600 each.
+6.2 If the use of drug-eluting stents reduced the restenosis rate by about 10
+percentage points, then the additional capacity generated could be used to
+increase the number of new stent procedures. This would have the effect of
+offsetting the cost of the BMS by about £4 million per year. Such cost savings,
+however, will often only be realised in the form of additional capacity.
+
+ 
+7 Implementation and audit
+7.1 Clinicians carrying out PCIs should review their current practice and policies to
+take account of the guidance set out in section 1.
+7.2 Local guidelines, protocols or care pathways that refer to PCIs and/or stents
+should incorporate the guidance.
+7.3 To measure compliance locally with the guidance, the following criteria could be
+used. Further details on suggestions for audit are presented in appendix C.
+7.4 Stents are used routinely in PCIs carried out in patients with stable or unstable
+angina or acute MI.
+7.5 A Cypher or a Taxus stent is used in PCI for people with symptomatic CAD in
+whom the target artery is less than 3 mm in calibre or in which the lesion to be
+stented is longer than 15 mm, except if an individual has had an MI in the
+preceding 24 hours or has angiographic evidence of thrombus in the target
+artery. If more than 1 artery is to have a stent inserted, the same considerations
+apply to each artery.
+7.6 Local clinical audits on the care of patients with CAD also could include
+measurement of compliance with national standards, including standards in the
+National Service Framework for coronary heart disease.
+
+ 
+8 Appraisal Committee members and
+NICE project team
+Appraisal Committee members
+The Appraisal Committee is a standing advisory committee of NICE. Its members are
+appointed for a 3-year term. A list of the Committee members who took part in the
+discussions for this appraisal appears below. The Appraisal Committee meets 3 times a
+month except in December, when there are no meetings. The Committee membership is
+split into 3 branches, with the chair, vice-chair and a number of other members between
+them attending meetings of all branches. Each branch considers its own list of
+technologies and ongoing topics are not moved between the branches.
+Committee members are asked to declare any interests in the technology to be appraised.
+If it is considered there is a conflict of interest, the member is excluded from participating
+further in that appraisal.
+The minutes of each Appraisal Committee meeting, which include the names of the
+members who attended and their declarations interests, are posted on the NICE website.
+Dr A E Ades
+MRC Senior Scientist, MRC Health Services Research Collaboration, University of Bristol
+Professor Ron Akehurst
+Dean, School of Health-Related Research, University of Sheffield
+Dr Tom Aslan
+General Practitioner, Stockwell, London
+Professor David Barnett (Chair)
+Professor of Clinical Pharmacology, University of Leicester
+Dr Sheila Bird
+MRC Biostatistics Unit, Cambridge
+
+ 
+Professor Rosamund Bryar
+Professor of Community and Primary Care Nursing, St Bartholomew's School of Nursing
+and Midwifery, London
+Dr Karl Claxton
+Health Economist, University of York
+Dr Richard Cookson
+Senior Lecturer, Health Economics, School of Health, Policy and Practice, University of
+East Anglia, Norwich
+Professor Terry Feest
+Clinical Director and Consultant Nephrologist, Richard Bright Renal Unit, Chair of UK Renal
+Registry, Bristol
+Professor Gary A Ford
+Professor of Pharmacology of Old Age, Consultant Physician, Newcastle upon Tyne
+Hospitals NHS Trust
+Professor John Geddes
+Professor of Epidemiological Psychiatry University of Oxford
+Ms Bethan George
+Interface Liaison Pharmacist, Tower Hamlets PCT and Royal London Hospital, Whitechapel
+Dr Trevor Gibbs
+Head, Global Clinical Safety and Pharmacovigilance, GlaxoSmithKline, Greenford
+Mr John Goulston
+Director of Finance, Barts and The London NHS Trust
+Professor Philip Home
+Professor of Diabetes Medicine, University of Newcastle upon Tyne
+Dr Terry John
+General Practitioner, The Firs, London
+Mr Muntzer Mughal
+
+ 
+Consultant Surgeon, Lancashire Teaching Hospitals NHS Trust, Chorley
+Judith Paget
+Chief Executive, Caerphilly Local Health Board, Torfaen
+Mr James Partridge
+Lay Representative; Chief Executive, Changing Faces, London
+Mrs Kathryn Roberts
+Nurse Practitioner, Hyde, Cheshire
+Ms Anne Smith
+Lay Representative; Trustee, Long-Term Medical Conditions Alliance
+Professor Andrew Stevens (Vice-Chair)
+Professor of Public Health, University of Birmingham
+Dr Cathryn Thomas
+General Practitioner, Senior Lecturer, Department of Primary Care and General Practice,
+University of Birmingham
+Dr Norman Vetter
+Reader, Department of Epidemiology, Statistics and Public Health, College of Medicine,
+University of Wales, Cardiff
+Dr David Winfield
+Consultant Haematologist, Royal Hallamshire Hospital, Sheffield
+NICE Project Team
+Each appraisal of a technology is assigned to a health technology analyst and a project
+manager.
+Dr Alastair Fischer
+Technical Lead
+Kathleen Dalby
+Project Manager
+
+ 
+9 Sources of evidence considered by the
+Committee
+The following documentation and opinions were made available to the Committee:
+The Assessment Report for this appraisal was prepared by Liverpool Reviews and
+Implementation Group, University of Liverpool.
+• Coronary artery stents: rapid systematic review and economic evaluation, February
+2003
+• Assessment report – addendum A – data no longer confidential, June 2003
+• Assessment report – addendum B - further analysis requested by the Appraisal
+Committee, May 2003
+The following organisations accepted the invitation to participate in this appraisal. They
+were invited to make submissions and comment on the draft scope, Assessment Report
+and the Appraisal Consultation Document (ACD). Consultee organisations are provided
+with the opportunity to appeal against the Final Appraisal Determination.
+Companies or sponsors:
+• Abbott Vascular Devices Ltd
+• Bard Ltd
+• Biotronik UK Ltd
+• Boston Scientific Ltd
+• Cordis
+• Guidant Ltd
+• Jomed UK Ltd
+• Kimal
+• Medtronic Ltd
+
+ 
+• Sorin Biomedica UK Ltd
+• Terumo UK
+• WL Gore and Associates
+Professional or specialist, and patient or carer groups:
+• Action Heart
+• Association of British Health-Care Industries
+• British Cardiac Industry Association
+• British Cardiovascular Intervention Society
+• British Cardiac Patients Association
+• British Cardiac Society
+• British Cardiovascular Industry Association
+• British Heart Foundation
+• Department of Health
+• EUCOMED
+• Heart UK
+• National Collaborating Centre for Chronic Conditions
+• NHS Quality Improvement Scotland
+• Royal College of Nursing
+• Royal College of Physicians
+• Southwark PCT and South East Public Health Network
+• Welsh Assembly Government
+The following individuals were selected from clinical expert and patient advocate
+nominations from the professional or specialist and patient or carer groups. They
+participated in the Appraisal Committee discussions and provided evidence to inform the
+
+ 
+Appraisal Committee's deliberations. They gave their expert personal view on coronary
+artery stents by attending the initial Committee discussion and/or providing written
+evidence to the Committee. They were also invited to comment on the ACD.
+• Dr Mark de Belder, Assistant Secretary, British Cardiac Society and Consultant
+Cardiologist, The James Cook University Hospital, Middlesbrough
+• Dr Derek Connolly, Consultant Cardiologist, Heart UK and Sandwell and West
+Birmingham Hospitals NHS Trust AND Honorary Clinical Senior Lecturer, University of
+Birmingham
+• Dr A H Gershlick, Consultant Cardiologist, Department of Cardiology, Glenfield
+Hospital NHS Trust, Leicester
+• Mr S Livesey, Consultant Cardiac Surgeon, Southampton General Hospital
+• Professor M Rothman, Consultant Cardiologist, London Chest Hospital
+
+ 
+Appendix C Detail on criteria for audit of
+the use of coronary artery stents
+Possible objectives for an audit
+An audit could be carried out to ensure that stents are being used appropriately in patients
+undergoing PCIs. Local clinical audits could also confirm that PCI is the clinically
+appropriate procedure for patients included in the audit.
+Possible patients to be included in the audit
+An audit could include all patients having a PCI for stable or unstable angina, acute MI or
+symptomatic CAD in a suitable time period, for example, 3 months.
+Measures that could be used as a basis for audit
+Table 1 Measures that could be used in an audit of stents
+Criterion Standard Exception Definition of terms
+1. Stents are used when a
+100% of
+PCI is performed in an
+Clinicians will
+individuals
+individual having any of the
+need to agree
+having a PCI for
+following:
+None locally on any
+stable or
+a. stable angina or exceptions for
+unstable angina
+b. unstable angina or audit purposes.
+or acute MI
+c. acute MI
+
+ 
+Criterion Standard Exception Definition of terms
+2. A Cypher or a Taxus stent A. The individual
+is used in a PCI for an has had an MI in
+Clinicians will
+individual with symptomatic 100% of the preceding 24
+need to agree
+CAD when either of the individuals hours
+locally on any
+following occurs:
+having a PCI for B. The individual
+other exceptions
+a. the target artery is < 3 mm symptomatic has angiographic
+for audit
+in calibre or CAD evidence of
+purposes.
+b. the lesion to be stented is thrombus in the
+longer than 15 mm target artery
+Calculation of compliance
+Compliance (%) with each measure described in table 1 is calculated as follows.
+[Number of patients whose care is consistent with the criterion plus number of patients
+who meet any exception listed] divided by [Number of patients to whom the measure
+applies] × 100
+Clinicians should review the findings of measurement, identify whether practice can be
+improved, agree on a plan to achieve any desired improvement and repeat the
+measurement of actual practice to confirm that the desired improvement is being
+achieved.

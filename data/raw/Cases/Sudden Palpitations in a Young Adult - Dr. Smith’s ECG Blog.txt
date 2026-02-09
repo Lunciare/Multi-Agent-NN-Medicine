@@ -1,0 +1,141 @@
+Case Summary
+
+A young adult male presented with sudden-onset palpitations lasting approximately 3 hours. He was hemodynamically stable when the initial ECG was recorded by EMS and transmitted for expert interpretation. Vital signs were otherwise normal.
+
+Initial ECG (ECG #1)
+
+The ECG showed:
+
+Very rapid tachycardia (~200–204 bpm)
+
+Wide complex tachycardia (WCT)
+
+No clearly visible P waves
+
+Marked QRS polymorphism
+
+Subtle but real irregularity of R–R intervals
+
+In the ED, this rhythm was initially interpreted as ventricular tachycardia (VT), and theСM decision was made to treat with IV amiodarone, given the patient’s stability.
+
+Critical Re-Interpretation
+
+Closer analysis revealed key diagnostic features:
+
+The rhythm is irregularly irregular
+
+R–R intervals vary significantly, including very short intervals (~160–170 ms)
+
+QRS complexes are polymorphic, but frontal plane axis does not change
+
+Ventricular rates at times exceed 300–350 bpm
+
+These findings are pathognomonic for atrial fibrillation with pre-excitation (AF with WPW).
+
+Key Diagnostic Insight
+
+Nothing other than AF with WPW produces such short R–R intervals and extreme ventricular rates.
+This immediately rules out VT and polymorphic VT.
+
+Repeat ECG During Amiodarone Infusion (ECG #2)
+
+The second ECG further confirmed the diagnosis:
+
+Irregularly irregular wide complex tachycardia
+
+Extremely wide QRS complexes (>160 ms)
+
+Persistent QRS polymorphism
+
+Shortest R–R interval ~170 ms (≈350 bpm)
+
+This ECG was considered diagnostic of AF with WPW.
+
+Pathophysiology Review
+
+In normal AF, the AV node limits ventricular rate due to decremental conduction
+
+In WPW, an accessory pathway (AP) bypasses the AV node
+
+AF impulses conduct rapidly over the AP, producing:
+
+Extremely short R–R intervals
+
+Very high ventricular rates
+
+Risk of R-on-T phenomenon and ventricular fibrillation
+
+Clinical Danger
+
+The shorter the R–R interval, the higher the risk of degeneration into VF.
+
+Management Considerations
+AV Nodal Blockers
+
+AV nodal blockers (beta-blockers, calcium channel blockers, adenosine, amiodarone):
+
+Reduce conduction through the AV node
+
+Force more impulses down the accessory pathway
+
+Increase VF risk
+
+Although limited data suggest IV amiodarone may be tolerated in select stable patients, it is not preferred.
+
+Preferred Acute Management
+
+Immediate sedation and synchronized cardioversion
+
+Safe
+
+Rapid
+
+Definitive
+
+Outcome
+
+The patient ultimately underwent synchronized DC cardioversion
+
+Post-cardioversion ECG showed:
+
+Sinus rhythm
+
+Short PR interval
+
+Delta waves consistent with WPW
+
+Definitive Treatment
+
+Electrophysiology study induced pre-excited AF
+
+Anterolateral left ventricular free-wall accessory pathway identified
+
+Successful catheter ablation performed
+
+Follow-Up ECG
+
+Sinus rhythm
+
+Narrow QRS complexes
+
+No delta waves
+
+Key Learning Points
+
+Always assess regularity in wide complex tachycardia — use calipers if needed
+
+Irregular wide complex tachycardia with very short R–R intervals = AF with WPW
+
+Ventricular rates >220 bpm strongly suggest pre-excitation
+
+Do NOT reflexively treat WCT as VT
+
+Avoid AV nodal blockers in AF with WPW
+
+Synchronized cardioversion is the safest acute treatment
+
+Catheter ablation is definitive therapy
+
+Bottom Line
+
+This case illustrates how AF with WPW can masquerade as VT, even to experienced clinicians. Recognition hinges on detecting irregularity and extremely short R–R intervals. Rapid, correct diagnosis is critical, as inappropriate treatment can precipitate ventricular fibrillation, while appropriate management is highly effective and curative.

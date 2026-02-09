@@ -1,0 +1,119 @@
+Case Summary
+
+An 84-year-old male (HTN, HLD; never smoker) awoke at 02:30 with new, severe (8/10), pressure-like chest pain radiating across the chest and toward the epigastrium, with shortness of breath. Pain was unrelenting until arrival to the ED (~05:00). Initial vitals were hypertensive (~160/80). Symptoms improved on arrival and fully resolved after nitroglycerin + aspirin 325 mg + clopidogrel 600 mg + heparin infusion.
+
+Workup for “can’t miss” diagnoses:
+
+CXR: no acute findings
+
+CT PE: negative
+
+CT abdomen/pelvis: no acute findings
+Incidental findings: penetrating aortic atherosclerotic ulcer at renal level, bilateral aneurysmal common iliac arteries.
+
+Initial hs-troponin T at 06:09: 21 ng/L (within male reference threshold used in the case).
+
+Key Question of the Case
+
+What does an ECG recorded 4 days earlier in cardiology clinic tell us about the ED ECGs today?
+Core concept: ACS is dynamic, and symptom improvement before the first ED ECG may reflect spontaneous reperfusion, producing deceptively modest ECG findings (including pseudonormalization).
+
+ECG 1 (ED, 05:18) — Chest Pain Improving
+
+Main features:
+
+High voltage with intraventricular conduction delay (IVCD)
+
+ST-T changes:
+
+Subtle ischemic ST depression in V3–V6, described as concordant with deep/wide S waves (especially V3; also V4–V6)
+
+ST depression in I and aVL looked non-ischemic, consistent with LVH/IVCD repolarization abnormalities
+
+Not classic for acute OMI; more consistent with subendocardial ischemia (SEI) in this snapshot
+
+AI:
+
+Queen of Hearts: negative for OMI
+
+Smith notes a newer internal model output consistent with SEI and highlights pseudonormalization of T waves in III and aVF compared with the clinic ECG.
+
+Clinical pearl:
+
+Even if not diagnostic for occlusion on this frame, sleep-awakening chest pain carries very high pretest probability, and a single ECG can look “too normal” depending on timing.
+
+ECG 2 (Clinic, 4 days prior) — “Baseline” but Highly Informative
+
+Although recorded when the patient was reportedly without symptoms, the fact that it was obtained and a nuclear stress test was ordered suggests possible antecedent concern.
+
+Interpretive significance in the context of today’s presentation:
+
+Described as extremely suspicious (bordering on diagnostic) for reperfused inferoposterior occlusion MI
+
+Key pattern described:
+
+Terminal T-wave inversion in lead III
+
+Reciprocal “down-up” T waves in I and aVL
+
+Overly upright T waves in V1–V2 consistent with posterior reperfusion (reciprocal changes)
+
+Concept:
+
+Likely unstable lesion with recurrent occlusion and spontaneous reperfusion (“stuttering” course).
+
+ECG 3 (ED, 05:53) — After NTG + DAPT + Heparin
+
+This ECG showed dynamic reperfusion changes, and is treated as the “diagnostic moment” in the narrative:
+
+Inferior biphasic reperfusion T-wave changes
+
+Overly upright T waves in V2–V3, interpreted as reciprocal posterior reperfusion T waves
+
+Queen of Hearts identified a reperfusion pattern
+
+Interpretation:
+
+Inferoposterior pattern, suggestive of RCA culprit, now reperfusing.
+
+Troponin Trend (hsTnT)
+
+Demonstrated evolving infarction despite initial “normal” value:
+
+09:36: 77 ng/L
+
+14:45: 309 ng/L
+
+17:53: 532 ng/L
+
+Next day 01:11: 647 ng/L
+
+Key lesson: initial troponin can be normal early in ACS, especially if the patient is in a transient reperfusion phase at first sampling.
+
+Angiography / Outcome
+
+Coronary angiography showed a critical RCA lesion with TIMI 3 flow (consistent with reperfusion rather than fully persistent occlusion at that moment).
+
+Patient underwent successful PCI to RCA.
+
+TTE showed inferior wall motion abnormality with EF ~35–40%.
+
+Discharged on beta blocker, ACE inhibitor, DAPT, and rosuvastatin, with close outpatient follow-up.
+
+ECG 4 (Post-PCI)
+
+Showed more reperfusion evolution: inferior biphasic T waves progressed to deep T-wave inversion, consistent with reperfusion progression.
+
+Learning Points (Condensed)
+
+Pretest probability can outweigh a “negative” ECG, especially with classic high-risk chest pain history.
+
+OMI can present with unimpressive or even near-normal ECGs, depending on timing (pseudonormalization window).
+
+Always obtain serial ECGs (ideally within 15–20 minutes when concern is high) plus serial troponins.
+
+Recognize reperfusion evolution:
+
+biphasic T waves → progressively deeper inversion
+
+overly upright anterior T waves (V2–V3) can be reciprocal posterior reperfusion T waves (“posterior Wellens-type” concept).

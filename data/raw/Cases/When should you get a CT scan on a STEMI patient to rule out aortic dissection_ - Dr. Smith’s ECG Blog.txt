@@ -1,0 +1,124 @@
+When should you get a CT scan on a STEMI patient to rule out aortic dissection?
+Answer: Almost never.
+
+Central Thesis
+
+Acute OMI (STEMI) caused by aortic dissection is very rare (~0.5%).
+
+Any delay to reperfusion kills myocardium.
+
+Sending a STEMI/OMI patient to CT “just to be safe” is usually more dangerous than helpful.
+
+Key Epidemiology
+
+Best available data: ~5 per 1000 STEMI (0.5%) are due to acute aortic dissection.
+
+Reference cited: Zhu et al., Am J Emerg Med 2017.
+
+This means >99% of STEMI patients do NOT have dissection.
+
+Core Rule
+
+If the ECG shows OMI and the patient has ongoing symptoms → treat as OMI immediately.
+Do NOT delay reperfusion to rule out dissection unless there are very strong clinical features of dissection.
+
+Case 1 — Fatal Delay Due to CT
+
+Patient:
+
+55-year-old woman, HTN, no CAD
+
+Symptoms: shortness of breath, nausea, no chest/back pain
+
+ECG: Inferior + lateral OMI, likely subacute and reperfused, but symptomatic → cath indicated
+
+Error Chain:
+
+ECG correctly identified as OMI
+
+Portable CXR appeared to show wide mediastinum
+
+Image was rotated, creating a false appearance of mediastinal widening
+
+Physician worried about dissection → ordered CTA before thrombolytics
+
+Patient arrested in CT scanner and died
+
+Important Clarifications:
+
+Rotated portable CXRs frequently fake mediastinal widening
+
+SOB was due to heart failure from subacute MI, not dissection
+
+Troponin and BNP confirmed subacute OMI with pulmonary congestion
+
+Bottom line:
+
+The patient died because of delay and location (CT scanner), not because of missed dissection.
+
+Case 2 — True Dissection With OMI
+
+Very elderly woman
+
+Sudden severe chest pain radiating to the back
+
+Differential blood pressures
+
+ECG: large anterior OMI
+
+Bedside ultrasound showed flap → rupture → death
+
+Teaching Point:
+
+Even when dissection truly exists, outcome may not be alterable
+
+High suspicion does not automatically mean CT helps
+
+Why CT Is Usually the Wrong Move in STEMI
+
+Reperfusion benefit is time-critical
+
+By 4 hours, ~80% of thrombolytic mortality benefit is gone
+
+CT causes:
+
+Transport away from resuscitation area
+
+Delay in lytics / PCI
+
+High risk location if arrest occurs
+
+CT rarely changes management in true OMI
+
+When CT Might Be Reasonable (Very Rare)
+
+Only consider CT before reperfusion if multiple strong dissection features are present, such as:
+
+Abrupt tearing chest/back pain dominates the presentation
+
+Marked blood pressure differential
+
+Focal neurologic deficits
+
+Known connective tissue disease
+
+Bedside ultrasound strongly suggestive of dissection
+
+Even then: risk–benefit must be explicit and conscious.
+
+Critical Learning Points
+
+OMI from dissection is rare
+
+Delaying reperfusion is common — and lethal
+
+Portable CXR is unreliable for mediastinal width (rotation matters)
+
+CT scanner is a terrible place to arrest
+
+Emergency medicine requires decisive action, not defensive overthinking
+
+Final Takeaway
+
+In STEMI/OMI, default to reperfusion.
+Do not let fear of a rare diagnosis delay treatment of a common, deadly one.

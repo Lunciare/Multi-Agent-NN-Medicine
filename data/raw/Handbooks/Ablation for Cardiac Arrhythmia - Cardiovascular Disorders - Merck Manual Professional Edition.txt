@@ -1,0 +1,41 @@
+Ablation for Cardiac Arrhythmia - Cardiovascular Disorders - Merck Manual Professional Edition
+The decision to treat an arrhythmia depends on its symptoms and its potential severity. Treatment is
+directed at causes. If necessary, direct antiarrhythmic therapy, including antiarrhythmic drugs,
+cardioversion-defibrillation, implantable cardioverter-defibrillators (ICDs), pacemakers (and a special
+form of pacing, cardiac resynchronization therapy), catheter ablation, surgery, or a combination, is used.
+If a tachyarrhythmia depends on a specific pathway or ectopic site of automaticity, the site can be
+purposefully destroyed (ablated) to effect a cure (1). Methods of ablation include
+Radiofrequency ablation
+Cryoablation
+Laser ablation
+Pulsed electric field ablation
+Radiofrequency ablation is usually accomplished using transvenous catheter supplied low-voltage,
+high-frequency (300 to 750 MHz) electrical radiofrequency (RF) energy. This energy heats and necroses
+an area < 1 cm in diameter and up to 1 cm deep.
+Cryoablation uses tissue freezing (to -70° C) to effect tissue destruction. Other delivery systems have
+been developed for intraoperative use.
+Laser energy can be delivered using a transvenous catheter to ablate a target area.
+Pulsed electrical field ablation uses a train of high voltage, short duration electrical impulses that kill
+cardiac myocytes in a non-thermal method. The electrical current causes pores to develop in the cell
+membrane, destroying the cell. Myocytes are more sensitive to this stimulus than many other cells so
+collateral structures may experience less damage. This ablation technique is sufficiently painful that
+general anesthesia is required.
+Before energy can be applied, the target site or sites must be identified during an electrophysiologic
+study.
+Success rate is > 90% for reentrant supraventricular tachycardias (via the atrioventricular [AV] node or
+an accessory pathway), focal atrial tachycardia and atrial flutter, and focal idiopathic ventricular
+tachycardia (VT—right ventricular outflow tract, left septal, or bundle branch reentrant VT) (2, 3).
+ 1/2
+
+  
+Because atrial fibrillation (AF) often originates in or is maintained by an arrhythmogenic site in the
+pulmonary veins, this source can be electrically isolated by ablations at the pulmonary vein–left atrial
+junction or in the left atrium. Alternatively, in patients with refractory AF and rapid ventricular rates, the
+AV node may be ablated after permanent pacemaker implantation. Ablation is sometimes successful in
+patients with VT refractory to medications, particularly when ischemic heart disease is present.
+Transcatheter ablation is safe. Major complications include vascular damage, valvular damage,
+pulmonary vein stenosis or occlusion (if used to treat atrial fibrillation), stroke or other embolism,
+cardiac perforation, tamponade, and unintended AV node ablation. Major complication rates range
+from 0.5 to 1% in straightforward supraventricular ablations to approximately 5% in complex VT
+ablations (4, 5). Mortality rates range from 0.02 to 0.04% in straightforward supraventricular ablations
+to 0.5% in complex ventricular tachycardia ablations (4, 5).

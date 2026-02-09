@@ -1,0 +1,71 @@
+Case Summary
+
+A patient presented to the emergency department with chest pain that began ~24 hours prior to arrival. An ECG was obtained immediately at triage. At this hospital, the Queen of Hearts (QOH) AI system is routinely used to determine cath lab activation.
+
+Initial ECG Findings
+
+The triage ECG demonstrated:
+
+ST depression maximal in V1–V4, diagnostic of posterior OMI
+
+Subtle ST elevation and mildly hyperacute T wave in V6, consistent with lateral/posterior involvement (V6 is anatomically close to posterior leads)
+
+These findings are not de Winter T waves (which indicate LAD occlusion with depressed ST takeoff and hyperacute T waves)
+
+QOH analyzed the ECG and diagnosed OMI with high confidence, triggering automatic cath lab activation without physician delay.
+
+Intervention and Outcomes
+
+Door-to-balloon time was extremely short
+
+100% circumflex artery occlusion was identified and opened with stenting
+
+High-sensitivity troponin T later returned at 1400 ng/L
+
+This case illustrates that AI-based ECG interpretation diagnosed OMI faster than troponin
+
+Additional ECGs and Evolution
+
+Right-sided ECG (V3R–V6R) showed ST depression (expected opposite posterior wall); no ST elevation suggestive of RV MI
+
+Immediate post-PCI ECG showed larger T waves in V2–V3, consistent with posterior reperfusion T waves
+
+Reperfusion in posterior myocardium produces anterior T-wave augmentation (inversion posteriorly appears as increased anterior T-wave amplitude)
+
+These are not hyperacute T waves, which occur during active occlusion
+
+ECG at ~90 minutes post-PCI showed continued recovery with normalization of ST segments
+
+Median-beat overlays across ECGs highlighted resolution of ST depression and posterior reperfusion T waves
+
+Expert Interpretation (Key ECG Pearls)
+
+Posterior OMI often presents with anterior ST depression rather than classic ST elevation
+
+Lead V3 is critical: instead of normal slight upsloping ST elevation, ST straightening/depression is abnormal and concerning
+
+Lead placement issues (e.g., V1–V2 placed too high) can complicate interpretation but did not obscure diagnosis here
+
+Subtle lateral changes (e.g., in V6) can support posterior OMI when paired with anterior ST depression
+
+Clinical Impact
+
+Prompt AI recognition enabled rapid reperfusion, likely improving myocardial salvage
+
+Demonstrates the value of AI-assisted ECG analysis in accelerating diagnosis of OMI without STEMI criteria
+
+Highlights that posterior OMI can be missed without careful ECG analysis or advanced tools
+
+Key Learning Points
+
+Posterior OMI may present with ST depression in V1–V4 and subtle lateral changes
+
+QOH can accurately and rapidly identify OMI, reducing delays to reperfusion
+
+Posterior reperfusion T waves manifest as increased anterior T-wave amplitude post-PCI
+
+AI can outperform troponin timing for early OMI detection
+
+Bottom Line
+
+Routine implementation of AI ECG analysis (QOH) enabled immediate recognition and treatment of posterior OMI, resulting in rapid cath lab activation, successful revascularization, and likely improved patient outcomes.

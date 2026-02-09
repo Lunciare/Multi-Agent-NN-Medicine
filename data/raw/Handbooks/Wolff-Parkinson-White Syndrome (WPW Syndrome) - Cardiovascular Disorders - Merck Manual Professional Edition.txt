@@ -1,0 +1,171 @@
+Wolff-Parkinson-White Syndrome (WPW Syndrome)
+Classic (manifest) Wolff-Parkinson-White syndrome is due to an accessory
+atrioventricular connection that produces a prototypical ECG consisting of a
+short PR interval, a wide QRS complex with an initial slurred component (delta
+wave), and secondary repolarization changes in association with symptomatic
+reentrant (paroxysmal) supraventricular tachycardia. Reentrant (paroxysmal)
+supraventricular tachycarida produces sudden episodes of palpitations that
+begin and terminate abruptly; some patients have dyspnea or chest discomfort.
+The accessory atrioventricular (AV) connection can facilitate very rapid
+ventricular response rates to any fast supraventricular arrhythmia, especially
+atrial fibrillation in which ultrafast ventricular response rates may initiate
+ventricular fibrillation and sudden death. Diagnosis is clinical and by
+electrocardiography. Initial treatment of reentrant (paroxysmal)
+supraventricular tachycardia is usually with vagotonic maneuvers. If these
+maneuvers are ineffective, treatment is with IV adenosine or
+nondihydropyridine calcium channel blockers for regular narrow QRS rhythms
+or for regular wide QRS rhythms known to be a reentrant SVT with aberrant
+conduction. Procainamide or amiodarone are effective for irregular or other
+wide QRS rhythms. Synchronized cardioversion can be done when medications
+are ineffective or there is hemodynamic instability.
+(See also Overview of Arrhythmias and Atrioventricular Reentrant Tachycardia.)
+Pathophysiology of WPW Syndrome
+An accessory pathway connecting an atrium and a ventricle is the substrate for the Wolff-Parkinson-
+White syndrome. When the accessory AV connection conducts in the antegrade direction, the AV nodal
+delay is bypassed and a portion of ventricular myocardium is activated before the rest is activated by
+the normal conduction system. This ventricular pre-excitation produces a short PR interval (< 0.12
+seconds), a wide QRS complex (≥ 0.12 seconds) with an initial slurred component (the delta wave) which,
+along with symptoms of paroxysmal tachycardia, define the classic (manifest) Wolff-Parkinson-White
+ 1/7
+ 
+syndrome (1). Classic (manifest) Wolff-Parkinson-White syndrome occurs in about 1 to 3/1000 people
+([2] sampled in Canadian men).
+Depending on the orientation of the delta wave, a pseudoinfarction pattern Q-wave may be present.
+Because the early depolarized parts of the ventricle also repolarize early, the T-wave vector may be
+abnormal.
+If the accessory AV connection can conduct in the retrograde direction, it can support a form of
+paroxysmal supraventricular tachycardia called orthodromic atrioventricular reentrant tachycardia. The
+accessory AV connection tends to have a longer refractory period at baseline heart rates than the AV
+node. At a premature atrial depolarization coupling interval less than the refractory period of the
+accessory AV pathway, but longer than the refractory period of the AV node, antegrade accessory AV
+pathway transmission is blocked but antegrade AV nodal conduction proceeds. The ECG shows a
+sudden increase in the PR interval and loss of the delta wave. When antegrade conduction through the
+AV node is sufficiently slow, it can find the distal accessory AV connection ready to conduct, but now in
+the retrograde (ventricle to atrium) direction. When this retrograde accessory AC connection
+transmission finds the atria and, subsequently, the AV node ready to conduct again in the antegrade
+direction, around-and-around atrioventricular reentry occurs. The ECG then shows a rapid, regular,
+tachycardia. This orthodromic atrioventricular tachycardia is the usual (95%) type of AV reentrant
+tachycardia (3).
+Less commonly, and more often induced by a ventricular premature beat, the reentry occurs in the
+opposite direction (antidromic atrioventricular reentrant tachycardia). Since 5% of patients with an
+accessory AV connection have multiple accessory AV connections (4), it is also possible to have a dual
+accessory AV connection atrioventricular reentrant tachycardia that uses one accessory AV connection
+for antegrade conduction and another accessory AV connection for retrograde conduction.
+The accessory atrioventricular connection in WPW syndrome behaves like atrial myocardium, a fast
+channel tissue, the refractory period of which shortens with increasing rates. Accordingly, should a rapid
+supraventricular rhythm occur, the ventricular response may not be controlled by the usual increased
+refractoriness of the AV node as the accessory AV connection may be able to conduct at very rapid
+rates. This is particularly relevant to the ventricular response rate to atrial fibrillation which may be
+sufficiently rapid as to produce hemodynamic compromise and may induce ventricular fibrillation and
+sudden death. Sudden death may be the first clinical manifestation of WPW syndrome, particularly in
+adolescence. In some patients with an accessory AV connection that conducts in the retrograde
+direction (and can, therefore, participate in orthodromic atrioventricular reentrant tachycardia) the
+accessory AV connection does not conduct in the antegrade direction. Such patients do not have the
+WPW pattern on their ECG and are said to have concealed WPW syndrome. They are not at risk of
+rapidly conducted supraventricular arrhythmias.
+WPW syndrome is mainly idiopathic, although it is more common among patients with hypertrophic
+cardiomyopathy, transposition of the great vessels, or Epstein's anomaly.
+Classic Wolff-Parkinson-White (WPW) Pattern
+Leads I, II, III, V through V show classic features of WPW syndrome, with a short PR interval
+3 6
+and a delta wave during sinus rhythm.
+Symptoms and Signs of WPW Syndrome
+Most patients present with symptoms of atrioventricular reentrant tachycardia during young adulthood
+or middle age. They typically have episodes of sudden-onset, sudden-offset, rapid, regular palpitations
+often associated with symptoms of hemodynamic compromise (eg, dyspnea, chest discomfort, light-
+headedness). Attacks may last only a few seconds or persist for several hours (rarely, > 12 hours).
+Syncope is uncommon but may occur. Infants present with episodic breathlessness, lethargy, feeding
+problems, or rapid precordial pulsations. If the episode of tachycardia is protracted, infants may present
+with heart failure.
+Patients with WPW syndrome may also experience rapidly conducted supraventricular arrhythmias such
+as 1:1 conduction of atrial flutter or rapidly conducted atrial fibrillation wherein symptoms of
+hemodynamic compromise, including syncope are more common.
+Rapidly conducted atrial fibrillation may also induce ventricular fibrillation and sudden death. This risk is
+low (approximately 1%) but is more likely to occur in adolescence.
+Between episodes of arrhythmia, examination is normal.
+Diagnosis of WPW Syndrome
+Electrocardiography (ECG)
+Diagnosis of WPW syndrome is by ECG showing a short PR interval (< 0.12 seconds), a wide QRS
+complex (≥ 0.12 seconds) with an initial slurred component (the delta wave), and secondary ST and T
+wave changes (see figure Classic Wolff-Parkinson-White (WPW) Pattern) (1). During the most common
+arrhythmia in WPW syndrome, orthodromic atrioventricular tachycardia, the ECG shows a rapid (120 to
+250 beats/minute), regular, tachycardia. The QRS complex is usually narrow but may be wide (≥ 0.12
+seconds) with coexistent bundle branch block. If found, the P-wave is in the first half of the RR interval (a
+short RP tachycardia), often in the ST segment or early T-wave, and is negative in the inferior leads (II, III,
+AVF) (see figure Narrow QRS Tachycardia: Orthodromic Atrioventricular Reentrant Tachycardia Using an
+Accessory AV Connection in Wolff-Parkinson-White Syndrome).
+During antidromic atrioventricular reentrant tachycardia, the ECG shows a rapid (120 to 250
+beats/minute), regular tachycardia. The QRS complex is wide (≥ 0.12 seconds) due to total ventricular
+preexcitation. When the accessory AV connection functions as a bystander conducting a
+supraventricular arrhythmia, the QRS complexes may show total ventricular preexcitation, intermittent
+total preexcitation mingled with normally conducted narrow QRS complexes, and/or variable degrees of
+fusion QRS complexes between the QRS complexes of total ventricular preexcitation and those of
+normal conduction.
+Conduction of atrial fibrillation via the accessory AV connection in WPW syndrome can be very
+dangerous if antegrade conduction is very fast. Clues to the presence of pre-excited atrial fibrillation
+include a very rapid, dominantly wide QRS complex arrhythmia with the occasional occurrence of a
+narrow QRS complex that is not the result of a long proceeding RR interval. The QRS complex
+morphology may vary, but all QRS complexes are a fusion of that of the widest QRS complex and that of
+a normal narrow QRS complex. In pre-excited atrial fibrillation, the normal rate-limiting effects of the AV
+node are bypassed, and the resultant excessive ventricular rates (sometimes 200 to 300 beats/minutes)
+may lead to ventricular fibrillation (2). Risk factors for ventricular fibrillation in WPW syndrome include
+younger age, exercise, prior tachyarrhythmias, multiple accessory AV connections, presence of negative
+dromotropic medications (especially digitalis),and minimum RR interval during pre-excited atrial
+fibrillation ≤ 0.25 seconds (2). The estimated risk of developing atrial fibrillation in patients with WPW
+syndrome is 1.5%/year and that of sudden death is 0.1%/year (3).
+Treatment of WPW Syndrome
+Acute: treatment of the presenting arrhythmia
+Long-term: chronic antiarrhythmic therapy for arrhythmia prevention or ablation of the
+accessory AV connection
+Acute
+When a patient with WPW syndrome presents with a rapid, regular, narrow QRS complex tachycardia,
+the mechanism of the tachycardia is almost always orthodromic atrioventricular reentrant tachycardia
+and may be treated as any other regular, narrow QRS complex tachycardia (see Reentrant (Paroxysmal)
+Supraventricular Tachycardia (PSVT) ). Vagal maneuvers are attempted first.
+If the patient is hemodynamically unstable or unresponsive to other medical therapies, synchronized DC
+cardioversion is used. For hemodynamically stable patients, IV adenosine is preferred. If unresponsive
+to IV adenosine, United States guidelines recommend a class IIb such as an IV beta blocker, IV diltiazem,
+or IV verapamil (1). This class IIb recommendation in patients with known WPW syndrome (rather than
+the class IIa recommendation in the setting of other causes of PSVT) recognizes the rare possibility that
+the PSVT will terminate to pre-excited atrial fibrillation with a more rapid ventricular response rate
+because of the presence of one of these medications. Alternatively, synchronized DC cardioversion is
+performed.
+When a patient with WPW syndrome presents with a rapid, regular, wide QRS complex tachycardia the
+possibilities include orthodromic atrioventricular reentrant tachycardia with bundle branch block,
+antidromic atrioventricular reentrant tachycardia, dual accessory connection atrioventricular
+tachycardia, accessory AV connection of another supraventricular arrhythmia (atrial tachycardia, atrial
+flutter, or atrioventricular nodal reentrant tachycardia), or ventricular tachycardia. Synchronized
+cardioversion is used if hemodynamic instability is present. If stable and vagal maneuvers are
+unsuccessful, therapy with IV procainamide, IV amiodarone, or synchronized cardioversion is
+recommended (1).
+When a patient with classic (manifest) WPW syndrome presents with atrial fibrillation, at least some of
+the QRS complexes are expected to show ventricular pre-excitation. When most or all of the QRS
+complexes show ventricular pre-excitation, the ventricular response rate may be very fast. If
+hemodynamically unstable, synchronized DC cardioversion is used. If hemodynamically stable, IV
+ibutilide, IV procainamide, or synchronized DC cardioversion is recommended (1).
+Long-term
+Long-term therapy of patients who have had a documented WPW syndrome-related tachyarrhythmia
+(or symptoms highly suggestive thereof) is with catheter ablation of the accessory AV connection(s) (1). A
+meta-analysis of ablation in WPW syndrome reports a success rate of 94%, a recurrence rate of 6%
+(usually treated by re-ablation), and a procedure-related complication rate of 1% (2). If ablation cannot
+be performed or if the patient declines ablation, medical therapy may be accomplished with almost any
+oral antiarrhythmic medication other than digoxin. Class IIa recommendations are given for oral
+flecainide or oral propafenone in the absence of a structural heart disorder (1). Class IIb
+recommendations are given for oral dofetilide, oral sotalol, and oral amiodarone (1). Although a class IIb
+recommendation is given for oral beta blockers (especially useful if symptoms occur with exercise), oral
+diltiazem, or oral verapamil, there is a small possibility that these mediations could be harmful should
+atrial fibrillation ever occur.
+Key Points
+Wolff-Parkinson-White (WPW) syndrome is characterized by a short PR interval, a wide QRS
+complex with an initial slurred component (delta wave), and secondary repolarization
+changes in association with symptomatic reentrant (paroxysmal) supraventricular
+tachycardia.
+Episodes of reentrant supraventricular tachycardia underlie symptoms of palpitations,
+chest pain, and sometimes syncope. In patients with WPW syndrome who develop atrial
+fibrillation, excessively rapid ventricular response rates can lead to ventricular fibrillation
+and sudden death.
+Acute treatment of WPW-related tachycardia in unstable patients is with synchronized DC
+cardioversion; treatment of stable patients with regular, narrow QRS complex tachycardia is
+IV adenosine or alternatively parenteral antiarrhythmics.
+Long-term treatment is with catheter ablation of the accessory pathway; oral
+antiarrhythmics can be used if ablation cannot be performed.

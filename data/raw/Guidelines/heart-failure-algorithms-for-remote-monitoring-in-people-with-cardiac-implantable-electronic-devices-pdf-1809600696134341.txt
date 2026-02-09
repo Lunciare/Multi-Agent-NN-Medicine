@@ -1,0 +1,572 @@
+Heart failure algorithms for remote monitoring in people with cardiac implantable
+electronic devices
+1 Recommendations
+Use as an option
+For people with heart failure
+1.1 Use HeartLogic and TriageHF as options for algorithm-based remote monitoring
+in people with cardiac implantable electronic devices (CIEDs) who have heart
+failure. They should be used as part of a specialist multidisciplinary heart failure
+service with alerts reviewed and acted on by specialist healthcare professionals.
+Can only be used in research
+For people with heart failure
+1.2 More research is needed on HeartInsight for algorithm-based remote monitoring
+in people with CIEDs who have heart failure, before it can be routinely used in the
+NHS.
+For people at risk of developing heart failure
+1.3 More research is needed on HeartInsight, HeartLogic and TriageHF for algorithm-
+based remote monitoring in people with CIEDs who are at risk of developing heart
+failure, before they can be routinely used in the NHS.
+
+ 
+More research
+1.4 More research for the technologies in sections 1.2 and 1.3 is needed in the
+populations outlined. This research is needed on:
+• prognostic accuracy
+• rates of false positives or unexplained alerts
+• hospitalisation rates
+• heart-failure-related mortality rates
+• rates of emergency department or primary care visits
+• patient-reported outcomes.
+1.5 Access to the technologies in sections 1.2 and 1.3 in the populations outlined
+should be through company, research or non-core NHS funding, and clinical or
+financial risks should be appropriately managed.
+Do not use
+1.6 CorVue should not be used for algorithm-based remote monitoring in people with
+CIEDs who have or are at risk of developing heart failure.
+Why the committee made these recommendations
+Algorithm-based remote monitoring automatically detects the early signs of worsening
+heart failure and sends an alert to the healthcare professional. People who have or are at
+risk of developing heart failure can be offered CIEDs as part of heart failure therapy.
+Algorithm-based remote monitoring may be activated in a person's CIED.
+Evidence for HeartLogic and TriageHF shows that they can detect the signs of worsening
+heart failure that could lead to hospitalisation or an unscheduled clinic visit (referred to as
+heart failure events). Evidence shows that CIEDs used with HeartLogic or TriageHF reduce
+hospitalisations compared with CIEDs used with remote monitoring only. Collection of
+
+ 
+registry data is recommended for these algorithms to confirm the extent of the benefit
+seen in the studies.
+It is uncertain whether the HeartInsight algorithm can detect early signs of worsening
+heart failure. There is also no evidence to show how well CIEDs that use HeartInsight
+reduce heart failure events. HeartInsight may be better at predicting worsening heart
+failure and reducing hospitalisations than CIEDs without algorithms, so more research is
+recommended.
+More research is also recommended for HeartInsight, HeartLogic and TriageHF in people
+at risk of developing heart failure because there is very limited evidence in this population.
+CorVue collects only intrathoracic impedance data, while the other algorithms monitor
+additional factors. Clinical trial evidence suggests that CorVue fails to detect some signs
+of worsening heart failure and has a high rate of false-positive alerts (alerts that are not
+followed by a heart failure event). So CorVue is not recommended for use in the NHS.
+
+ 
+2 Heart failure algorithms
+Clinical need and practice
+2.1 Heart failure is a clinical syndrome caused by any structural or functional cardiac
+disorder that impairs the heart's ability to efficiently pump blood around the
+body. The most common symptoms of heart failure are breathlessness, fatigue
+and oedema. Conditions that can cause heart failure include:
+• coronary heart disease
+• high blood pressure
+• heart rhythm or valve abnormalities and
+• conditions affecting the heart muscle (cardiomyopathies and myocarditis).
+Around 920,000 people in the UK were living with heart failure in 2018 with
+an estimated 200,000 new diagnoses each year. Heart failure mainly affects
+people over 65, with an average age at diagnosis of 77.
+2.2 Cardiac implantable electronic devices (CIEDs) are recommended as treatment
+options for some people who have or are at high risk of heart failure. The
+different types of CIEDs are pacemakers, implantable cardioverter defibrillators,
+and cardiac resynchronisation therapy devices.
+2.3 Remote monitoring is the ability for a CIED to communicate wirelessly with a
+remote monitoring system. People who have CIEDs must be followed up by
+hospitals for regular technical reviews of how their device is working. They may
+also have scheduled appointments, during which the clinical events recorded by
+the device are monitored. There is a lot of variation in clinical practice and the
+frequency of these follow-up visits varies according to the person's condition.
+NICE's guideline on diagnosis and management of chronic heart failure in adults
+recommends that reviews are offered every 6 months for people whose condition
+is stable, but clinical experts highlighted that in practice most people would have
+a review annually. Sometimes clinical reviews are only triggered if the person with
+
+ 
+the CIED reports worsening symptoms.
+2.4 Some CIEDs have algorithm-based remote monitoring incorporated in the device.
+Heart failure algorithms analyse and collate different clinical data recorded by the
+device to detect gradual worsening of heart failure. The system can send alerts
+to healthcare professionals to prompt a review of the stored data. This enables
+proactive investigation into the cause of the suspected decompensation,
+potentially before the person even feels symptomatic. This could ensure that
+people have appropriate treatment as early as possible, reducing the number of
+unnecessary hospital visits.
+The interventions
+There are 4 heart failure algorithms that were identified as relevant for inclusion in this
+assessment. Each algorithm is only compatible with specific CIEDs manufactured by the
+same company that makes the algorithm.
+CorVue (Abbott Medical)
+2.5 The CorVue algorithm works with the Merlin.net Patient Care Network (PCN)
+platform, and is intended for remotely monitoring for the early signs of heart
+failure in people who have compatible CIEDs. The CorVue algorithm collects
+intrathoracic impedance data from the CIED and transmits it to the Merlin.net
+PCN platform via the mobile app (myMerlinPulse). It does this using Bluetooth
+and an internet or mobile network connection to generate an alert. Or, instead of
+using the app-based smartphone transmitter, the company can provide a remote
+monitoring unit (Merlin@Home) that connects via Wi-Fi, mobile or landline
+connection. Healthcare professionals can view the data transmitted by the device
+on the Merlin.net PCN platform. Access to Merlin.net and the mobile transmitter
+is provided as part of the CIED, and the CorVue algorithm comes free of charge
+with the CIED devices.
+2.6 The CorVue algorithm automatically calculates the mean daily impedance (from
+12 daily measurements). It also collects reference impedance data based on the
+previous 12 to 14 days, which changes continuously based on new impedance
+readings. If a consistent drop of daily impedance values is detected (13 or
+
+ 
+14 consecutive days in congestion) then a congestive event is reported and
+detected during device check-up. Patient alerts can be activated via remote
+monitoring if the person wishes.
+HeartInsight (Biotronik)
+2.7 HeartInsight is a predictive algorithm designed to monitor for early signs of
+worsening heart failure in people with compatible CIEDs. The algorithm works
+with the BIOTRONIK Home Monitoring system. The HeartInsight algorithm
+combines the following 7 parameters into 1 composite score (calculated daily):
+• atrial burden
+• heart rate variability
+• general activity
+• thoracic impedance
+• heart rate
+• heart rate at rest and
+• premature ventricular contractions.
+2.8 HeartInsight triggers an alert to healthcare professionals (via text message, email
+or both) once the prespecified threshold is exceeded for 3 consecutive
+transmissions (normally 3 consecutive days), indicating higher risk of worsening
+heart failure. The threshold is customisable. Upon receipt of an alert, a healthcare
+professional logs on to the Home Monitoring Service Centre website to review
+and assess the alert.
+2.9 The system includes the handheld CardioMessenger device, which transmits
+data automatically and daily from the CIED to the BIOTRONIK Home Monitoring
+system via a mobile phone network. Access to HeartInsight has a one-off cost of
+£450 per person. Standard Home Monitoring is a separate cost.
+
+ 
+HeartLogic (Boston Scientific)
+2.10 HeartLogic is a diagnostic algorithm designed to monitor for early signs of
+worsening heart failure in people with compatible CIEDs. It works with the
+Latitude NXT Patient Management System. Measurements including heart
+sounds, thoracic impedance, respiration, heart rate and activity are collected by
+the implanted device. The HeartLogic algorithm then combines these into
+1 composite index that indicates decompensation. Boston Scientific's HeartLogic
+and Latitude NXT Patient Management System work together to provide
+advanced monitoring and management capabilities for people with heart failure
+who have CIEDs. The system has daily data transfers to the clinical team. The
+transmitter can use a mobile phone connection or an internet connection to relay
+the data. The system is configured to send an alert to a healthcare professional
+when the index is over a set threshold (customisable by a healthcare
+professional). Healthcare professionals need to log on to the LATITUDE NXT
+website to receive alerts. Secondary notification of alerts may be through email
+or text message. Access to HeartLogic has a one-off cost of £3,650 per person,
+but discounts may be offered based on purchase volume.
+TriageHF (Medtronic)
+2.11 TriageHF is an alert-based algorithm used with CareLink remote monitoring. It is a
+monitoring system for identifying and managing an increased risk of heart failure
+or worsening heart failure in people with CIEDs. When TriageHF is used within a
+structured heart failure clinical care pathway it is called TriageHF Plus. TriageHF
+is hosted on the Medtronic CareLink network for collaborative management of
+heart failure between clinical teams. The algorithm monitors the following
+parameters:
+• atrial tachycardia
+• atrial fibrillation burden
+• ventricular rate during atrial tachycardia or atrial fibrillation
+• OptiVol fluid index (which tracks changes in thoracic impedance over time)
+• general activity
+
+ 
+• night ventricular rate
+• heart rate variability
+• percent of ventricular pacing
+• treated ventricular tachycardia or ventricular fibrillation and
+• defibrillator shocks.
+CareLink uses a plug-in monitor or a smartphone app for transmitting data.
+Using a mobile or landline connection, data is transmitted from the CIED to
+the CareLink network where it can be accessed by healthcare professionals.
+Data can be transmitted:
+• manually, if a person notices symptoms
+• automatically, based on TriageHF algorithm alert triggers, or
+• by scheduled transmission, based on a predefined date to replace a routine
+check.
+For each day the data is transmitted, the TriageHF algorithm generates a
+daily risk status of a heart failure event occurring in the next 30 days (low,
+medium or high risk). This is based on the maximum daily risk status for the
+previous 30 days. A heart failure management report is generated on the
+daily risk status. The CareLink network sends an alert for people who have
+high-risk score so that they can be contacted for a telephone consultation.
+Access to TriageHF and CareLink remote monitoring has a yearly cost of
+£100 per person.
+The comparator
+Conventional remote monitoring of heart failure in people with
+CIEDs
+2.12 Standard care for monitoring heart failure in people who have CIEDs is periodic
+
+ 
+reviews of device function with a cardiac physiologist or cardiologist. A person
+will also have ad hoc reviews of symptoms with a GP, specialist nurse,
+cardiologist or a heart failure team. The number and timing of the reviews varies
+in practice depending on the person's symptoms (see section 2.3). The
+organisation of heart failure monitoring pathways varies in practice between
+different trusts, and even between different hospitals.
+
+ 
+3 Committee discussion
+The diagnostics advisory committee looked at evidence on algorithm-based remote
+monitoring of heart failure in people with cardiac implantable electronic devices (CIEDs).
+Evidence was considered from several sources, including an external assessment report
+and an overview of that report. Full details are in the project documents for this guidance.
+Patient considerations
+3.1 Wider availability of algorithm-based remote monitoring may allow greater access
+to care for people who are less able to attend in-person appointments (because
+of costs associated with travel, poor public transport, time taken from work,
+physical impairments, or anxiety). An alert may be followed by an initial telephone
+call to determine whether in-person follow up is needed. This could reduce the
+number of unnecessary in-person clinic visits.
+3.2 The patient expert explained that CIEDs provide a sense of security to people
+because they know that their condition is being managed. With conventional
+remote monitoring, an unscheduled review would only be triggered if the person
+reports worsening symptoms. Algorithm-based remote monitoring provides
+reassurance to people because they know that alerts are transmitted
+automatically and reviewed by a healthcare professional, potentially before they
+experience symptoms. This could prevent people being admitted to hospital and
+improve their quality of life. But the committee acknowledged that, for some
+people, false-positive alerts (when an alert is triggered but there are no signs of
+decompensation) may cause unnecessary anxiety. The committee recommended
+more research on people's experiences with having heart failure algorithms
+activated on their CIEDs.
+
+ 
+Clinical effectiveness
+Prognostic accuracy
+3.3 The committee noted that the heart failure algorithms needed to be considered
+independently of each other because they are each unique and have different
+alert rates and levels of accuracy. Each of the heart failure algorithms collects
+different data types to monitor decompensation or predict a person's risk status.
+The committee noted that CorVue collects only intrathoracic impedance data,
+while the other algorithms monitor additional factors (see sections 2.5 to 2.11).
+The committee noted that the prognostic accuracy of CorVue may be affected by
+the collection of only 1 data type.
+3.4 For the heart failure event endpoint defined by the Framingham Heart Study,
+CorVue had a sensitivity of 68%. For endpoints related to hospitalisation, clinic
+visits and changes to treatment, sensitivity ranged from 20% to 61.9%. This
+suggests that people who are experiencing decompensation may not have an
+alert triggered using CorVue. Clinical experts noted that heart failure algorithms
+should have a high sensitivity. This is to ensure that people with early signs of a
+heart failure event can be identified, assessed and have treatment if necessary,
+and so people are not missed. False positives were also considered to be high in
+all studies reporting this outcome. All studies were also assessed by the external
+assessment group (EAG) as being at a high risk of bias, with a key concern being
+the analysis methods. The committee concluded that CorVue cannot accurately
+predict heart failure events.
+3.5 Evidence from a single published study suggested that, at the nominal threshold
+of 4.5, HeartInsight had 65.5% sensitivity and 86.7% specificity for the endpoint
+of first post-implant heart failure hospitalisation. For the endpoint of heart failure
+hospitalisation, outpatient intravenous intervention or death, HeartInsight had
+54.8% sensitivity and 86.5% specificity. The positive predictive value was
+reported as 7.7%, indicating that there is a high probability that an alert is a false
+positive. This study was also assessed by the EAG as being at a high risk of bias,
+with a key concern being the analysis methods. The committee concluded that it
+is uncertain whether HeartInsight can accurately predict heart failure events.
+3.6 Using the study endpoint of worsening heart failure, HeartLogic showed
+
+ 
+sensitivity ranging from 70% to 100%, and specificity ranging from 61% to 93%.
+False positives and unexplained alert rates were generally low in 6 studies.
+Statistically significant associations were observed between being in alert and
+hospitalisations, length of hospital stay, rate of heart failure events and rate of
+emergency care visits. All studies reporting prognostic accuracy data for
+HeartLogic were assessed by the EAG as being at a high risk of bias with the
+analysis methods being a key concern. The committee also considered data from
+a study that was published after the EAG's review was complete. Singh et al.
+(2024) evaluated HeartLogic in 1,458 people. For the endpoint of detecting heart
+failure events, HeartLogic demonstrated sensitivity of 74.5% and false-positive
+rate of 1.48 alerts per patient-year. The committee concluded that while there are
+some concerns regarding the quality of the prognostic accuracy data, it is likely
+that HeartLogic can predict heart failure events.
+3.7 Using the study endpoint of worsening heart failure in people with a 'high-risk'
+status, TriageHF demonstrated sensitivity ranging from 87.9% to 98.6% and
+specificity ranging from 59.4% to 63.4%. The false-positive rate was reported in
+1 study and was considered to be low. Most studies reporting prognostic
+accuracy data were assessed by the EAG as being at a high or unclear risk of
+bias. A key concern was the analysis methods, and some of the studies were only
+available as abstracts that contained limited information. The committee
+concluded that while there are some concerns regarding the quality of the
+prognostic accuracy data, it is likely that TriageHF can predict heart failure
+events.
+False-positive or unexplained alerts
+3.8 The committee noted that heart failure algorithms are intended to be used to
+support review of heart failure data by healthcare professionals, and should not
+be used in isolation to make treatment decisions. This is because events other
+than heart failure decompensation can sometimes trigger an alert. For example,
+viral respiratory illnesses can increase a person's intrathoracic impedance, which
+could cause an alert to be triggered even if the person has no decompensation.
+In a study this would be classed as a false-positive alert. The committee noted
+that these alerts and the follow up with a person would still be valuable because
+a non-heart-failure clinical event may still require intervention.
+
+ 
+3.9 Some studies reported high rates of false-positive alerts. But the committee
+noted that all alerts would be reviewed alongside other clinical information and
+discussed with the person before a treatment decision is made. So the
+committee considered that unnecessary treatment arising from false-positive
+alerts is unlikely and so harms from over treatment when using heart failure
+algorithms are expected to be low.
+3.10 The committee discussed the impact that the number of false positives could
+have on service burden. Specialist committee members indicated that this burden
+is low in their experience, because initial interaction following an alert is usually
+via phone call rather than in-person. The committee concluded that more
+research should be done on the rate of false-positive alerts.
+Intermediate and clinical outcomes
+CorVue
+3.11 Shapiro et al. (2017) showed a statistically significant reduction in hospitalisations
+for people using the CorVue algorithm. But, this study was assessed by the EAG
+as being at a substantial risk of confounding because the comparator was people
+with no implanted device having home care. So the reduction in hospitalisations
+reported in the study could be because of the CIED rather than the CorVue
+algorithm. The committee concluded that it is uncertain whether use of CorVue
+can reduce hospitalisations.
+HeartInsight
+3.12 No evidence was identified that compared the HeartInsight algorithm with no
+algorithm use.
+HeartLogic
+3.13 Evidence suggests that using the HeartLogic algorithm instead of conventional
+remote monitoring, provides statistically significant reductions in:
+
+ 
+• hospitalisations
+• the rate of heart failure events
+• the length of hospital stays and
+• emergency or urgent care visits.
+The 2 key comparative studies that were used in cost-effectiveness
+modelling both had small sample sizes; Treskes et al. (2021) included
+68 people and Feijen et al. (2023) included 161 people. This raised concerns
+regarding the statistical power of these studies to detect the effects of heart
+failure algorithms. These studies were also assessed by the EAG as being at
+serious risk of bias. The committee concluded that while there are concerns
+regarding the quality of the comparative evidence for HeartLogic, it is likely
+that HeartLogic can reduce heart failure events compared with no algorithm
+use.
+TriageHF
+3.14 For TriageHF, comparative evidence was limited to 1 study, Ahmed et al. (2024).
+This is a real-world, UK study of 758 people. This study reported a statistically
+significant reduction in hospitalisation with TriageHF compared with no algorithm
+use. Ahmed et al. was assessed by the EAG as being at a critical risk of bias
+because of risks of confounding and selection bias. The committee concluded
+that while there are concerns regarding the quality of the comparative evidence
+from Ahmed et al., it is likely that TriageHF can reduce heart failure events
+compared with no algorithm use.
+Failure rates
+3.15 CIEDs may fail to transmit data if there are technical problems or connectivity
+issues, including internet problems, or if they are out of range of the transmission
+device. The committee noted that failure rates in the studies appear to be high,
+but it is difficult to separate transmission failure due to technical issues from
+transmission failure due to connectivity issues. If data transmission is missed,
+
+ 
+each algorithm has built-in retry mechanisms that will attempt transmission again.
+Healthcare professionals will be notified if a person's data transmission is missed
+for a number of weeks. The companies commented that they pay stringent
+attention to device failures and always follow up on these. High failure rates
+reported in Debski et al. (2020) have been addressed by ensuring that devices
+are correctly programmed and that local protocols are in place. The committee
+concluded that they have no concerns regarding transmission failure, because
+systems are in place to manage and resolve this.
+Cost effectiveness
+A pairwise analysis approach was used
+3.16 A pairwise analysis approach was taken to estimating cost effectiveness. This
+was because of the lack of data comparing algorithms and because the
+comparator for each algorithm is a brand-specific CIED that is not using the heart
+failure algorithm. The EAG explained that the comparator costs differ for each
+pairwise analysis because different data sources were used to derive model
+inputs. For HeartLogic and TriageHF, evidence on hospitalisation rates was
+available, so different rates were used for these 2 interventions and their
+comparators. Because of the lack of evidence for CorVue and HeartInsight, no
+difference in hospitalisation was assumed between these heart failure algorithms
+and their comparators. The hospitalisation rate for these 2 algorithms and their
+comparators was assumed to be an average of the rates used for HeartLogic and
+TriageHF.
+Model structure
+3.17 The EAG used comparative hospitalisation data to model the impact of heart
+failure algorithms rather than using prognostic accuracy data and a linked
+evidence approach. False-positive alerts were indirectly captured in the model for
+HeartLogic and TriageHF because study results on the number of unscheduled
+visits would be impacted by false-positive alerts. For CorVue and HeartInsight, no
+published data was available on unscheduled visits, so it was assumed that there
+
+ 
+was no difference in the number of unscheduled visits between these heart
+failure algorithms and their comparators. This may underestimate the impact that
+false-positive alerts have on the cost-effectiveness estimates for CorVue and
+HeartInsight.
+Probabilistic sensitivity analysis
+3.18 The EAG's economic model showed that HeartLogic and TriageHF were more
+effective and less costly than standard care. The first probabilistic sensitivity
+analysis used probability distributions around mortality and intervention costs.
+This analysis showed that the probability of HeartLogic being cost effective was
+81% at a threshold of £20,000 per quality-adjusted life year (QALY) gained and
+73% at a threshold of £30,000 per QALY gained. The probability of TriageHF
+being cost effective was 85% at a threshold of £20,000 per QALY gained and
+76% at a threshold of £30,000 per QALY gained. The committee noted that
+intervention costs would not be higher than the list price and so uncertainty
+around intervention cost should not be included in the probabilistic sensitivity
+analysis. The committee acknowledged the importance of considering the
+uncertainty around mortality rates, but noted limitations with how this uncertainty
+had been modelled. So, an additional probabilistic sensitivity analysis that
+excluded uncertainty around intervention costs and mortality was done. This
+analysis showed that both HeartLogic and TriageHF have a 100% probability of
+being cost effective at thresholds of £20,000 and £30,000 per QALY gained.
+Cost-effectiveness estimates are driven by hospitalisation rates
+3.19 There was no comparative evidence on hospitalisations for CorVue or
+HeartInsight that was considered suitable for inclusion in the EAG's economic
+model. A conservative deterministic base-case model assumption was made of
+no difference in hospitalisations between CorVue and HeartInsight and their
+comparators. The results of this deterministic model showed CorVue and
+HeartInsight to be more costly than standard care and equally as effective.
+Threshold analysis showed that only a small reduction in hospitalisations would
+make these heart failure algorithms cost effective.
+
+ 
+3.20 The EAG's model used published hospitalisation rates for HeartLogic and
+TriageHF. For HeartLogic, the hospitalisation incidence rate ratio of 0.28 was
+calculated from Treskes et al. (2021), which indicates a 72% lower rate of
+hospitalisations in the intervention group. For TriageHF, the hospitalisation
+incidence rate ratio of 0.42 was taken from Ahmed et al. (2024), which indicates
+a 58% lower rate of hospitalisations in the intervention group. These inputs
+resulted in the technologies being dominant (less costly and more effective than
+standard care) in the deterministic model base case. The committee noted that
+post hoc or subgroup analyses from these publications show that reductions in
+hospitalisations were smaller in some subgroups than in the overall study
+populations. For example, an analysis by Ahmed et al. that was limited to data
+collected before the onset of the COVID-19 in the UK, gave a hospitalisation
+incidence rate ratio of 0.69, indicating a 31% lower rate of hospitalisations in the
+intervention group. The committee also recalled the concerns regarding the
+quality of the comparative evidence for HeartLogic (see section 3.13) and
+TriageHF (see section 3.14) and noted that the risk of confounding may impact
+the reliability of the results from these studies. But, only small reductions in
+hospitalisations are needed for HeartLogic and TriageHF to be cost effective in
+the EAG's model. So the committee concluded that HeartLogic and TriageHF are
+likely to be cost-effective uses of NHS resources.
+Potential uncaptured benefits
+3.21 There was a lack of evidence for the impact of heart failure algorithms on heart-
+failure-related mortality rates and health-related quality of life. In the EAG's
+deterministic base-case model, conservative assumptions were made that there
+is no difference in heart-failure-related mortality rates between heart failure
+algorithms and their comparators. The committee noted that if there was an
+improvement in mortality or if health-related quality of life is greater when using
+heart failure algorithms, then there would be gains in QALYs. These potential
+benefits could not be captured in the model because of the lack of evidence.
+Modelling of scheduled visits
+3.22 The base case modelled 2 scheduled visits per year, in the intervention and
+
+ 
+comparator arms. In clinical practice, people who have stable heart failure would
+likely only have 1 scheduled visit per year. Other people may also only have 1 visit
+because of capacity issues. The EAG modelled 2 additional different scenarios for
+the intervention arms: no scheduled follow-up visits per year and 1 scheduled
+follow-up visit per year. These scenario analyses did not impact the direction of
+the model results.
+Modelling of unscheduled visits
+3.23 In the EAG's base-case model it was assumed that all alerts are reviewed and
+followed by an unscheduled, in-person follow-up visit. In practice, alerts may be
+followed by an initial remote interaction (such as a phone call) to determine
+whether an in-person visit is necessary. Scenarios were modelled in which it was
+assumed that 25% and 50% of alerts initially require non-face-to-face follow up.
+The committee agreed that the base-case scenario and scenario analyses were
+reasonable. Scenarios were also done in which the base-case number of
+interactions in the intervention arm was doubled and quadrupled. The committee
+agreed that this assumption was reasonable. This was because the overall
+number of interactions is likely to be increased in the heart failure algorithm arm
+because of healthcare professionals reviewing alerts and following up with
+people remotely or in-person. Unscheduled emergency visits to an emergency
+department or primary care settings were not modelled. The committee noted
+that the number of emergency visits is expected to be lower for people with heart
+failure algorithms because alerts are intended to be triggered before the person
+experiences symptoms.
+More data is needed on people without a diagnosis of heart
+failure
+3.24 There was very limited evidence in people who have a CIED and do not have a
+diagnosis of heart failure but are at high risk of new onset acute heart failure. One
+study for TriageHF reported that a proportion of people in the cohort did not have
+a prior diagnosis of heart failure. But results were not reported separately for
+each population and so could not be used by the EAG to model the population of
+people at risk of heart failure. The committee agreed that data is needed on the
+
+ 
+prognostic accuracy and clinical impact of using heart failure algorithms in this
+population.
+Collection of registry data
+3.25 The committee noted that the evidence available for HeartLogic and TriageHF
+suggests that they can accurately detect the signs of worsening heart failure that
+could lead to hospitalisation or an unscheduled clinic event. The evidence also
+suggests that HeartLogic and TriageHF can reduce the number of heart failure
+events compared with conventional remote monitoring. But there are some
+concerns about the quality of the evidence for these algorithms and the size of
+the effects that could be seen.
+3.26 To confirm the extent of the benefit seen in the studies, companies should work
+with the NHS to collect registry data for HeartLogic and TriageHF on:
+• hospitalisation rates
+• heart-failure-related mortality rates
+• rates of emergency department or primary care visits
+• patient-reported outcomes.
+Equalities
+Heart failure algorithms could reduce inequalities
+3.27 Algorithm-based remote monitoring systems are ideally positioned to reduce
+inequalities in access to healthcare. The committee heard that many people,
+particularly those from ethnic minority groups and lower socioeconomic
+backgrounds, do not seek medical assistance until they need to attend
+emergency services. Heart failure algorithms could benefit these people,
+because signs of decompensation would be detected and healthcare
+professionals automatically alerted, before the person needs to seek emergency
+
+ 
+assistance. For this reason, people who are unable to advocate for themselves or
+who have less awareness of their symptoms would also benefit from heart failure
+algorithms. Algorithm-based remote monitoring could also benefit people who
+are less mobile or people who live in remote areas. This is because following an
+alert, initial follow up may be a phone call to determine if an in-person follow up is
+necessary. This will reduce the need for unnecessary travel to hospital
+appointments.
+Digital inclusion
+3.28 Apart from the technologies that can use a landline to send data, access to
+technologies for remote monitoring may be restricted in some populations
+because of internet requirements. This may mean that older people, people from
+lower socioeconomic groups and people in rural areas could be less able to use
+algorithm-based remote monitoring because they do not have access to a Wi-Fi
+connection. The committee noted that the technology is incorporated into the
+person's CIED and does not need the person to engage directly with the
+technology themselves.
+People may feel confined to their home to ensure their data is
+transmitted
+3.29 All of the algorithms can transmit data using Wi-Fi, and some using a landline
+connection. If people are not in range of a connection, their data will not be
+transmitted until they are in range. This may cause anxiety for some people when
+leaving their home, because they do not want to risk transmission of an important
+alert being missed or delayed.
+Ensuring equitable access to heart failure algorithms
+3.30 The committee discussed that for heart failure algorithms to be used effectively
+in clinical practice, they should be used as part of a multidisciplinary specialist
+heart failure service and specialist staff should be available to review and action
+alerts. Protocols should also be in place to ensure heart failure is properly
+
+ 
+managed and alerts are responded to in a timely manner. At present, the way
+centres manage heart failure and respond to alerts can vary. This could mean
+that some centres are unable to implement heart failure algorithms into their
+services, which could lead to inequity of access across the country. Specialist
+committee members indicated that directives and initiatives are in place to steer
+heart failure services in the right direction for providing equitable access.
+Protocols should detail how heart failure alerts fit within the clinical pathway and
+how they should be responded to.
+
+ 
+4 Implementation
+NICE intends to develop tools, in association with relevant stakeholders, to help
+organisations put this guidance into practice.
+In addition NICE will support this guidance through a range of activities to promote the
+recommendations for further research. NICE will also incorporate the recommendations for
+research in sections 1.2 to 1.4 into its guidance research recommendations database and
+highlight these recommendations to public research bodies.

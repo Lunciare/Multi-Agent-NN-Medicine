@@ -1,0 +1,26 @@
+Acute chest pain in a 50-something: resolves, recurs, resolves — Does the ED ECG show “Early Repol”?
+
+Case
+A man in his 50s called 911 for acute chest pain. He had a significant history of myocardial infarction and coronary artery disease with multiple stents (D1 and RCA), and ischemic cardiomyopathy.
+
+Medics recorded serial ECGs.
+
+ECG 1 (time zero):
+Diagnostic of LAD occlusion (LAD OMI).
+
+The pain began to improve, and serial ECGs were recorded.
+
+ECG 2 (time 2 minutes)
+ECG 3 (time 16 minutes)
+ECG 4 (time 32 minutes):
+The ECG normalized. The patient was pain free, and the ECGs showed prehospital full reperfusion.
+
+The patient then arrived in the ED with recurrent chest pain. ECG 5 was recorded at t = 58 minutes.
+
+ECG 5 (ED ECG):
+Recurrent ST elevation with loss of the previously present S-wave in V2–V5. Absence of the S-wave in V2–V3 is not seen in normal variants except when a J-wave is present. Absence of both S-wave and J-wave in V2–V3 represents terminal QRS distortion (TQRSD), which is never present in early repolarization. In this case, there is J-point notching in V3, but the S-wave has disappeared compared with prior ECGs, confirming terminal QRS distortion.
+
+Marked ST elevation (~5 mm) further argues against early repolarization.
+
+Conclusion:
+Findings are consistent with LAD occlusion myocardial infarction, not early repolarization.

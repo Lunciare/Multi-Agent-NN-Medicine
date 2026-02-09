@@ -1,0 +1,58 @@
+Case Summary
+
+A 54-year-old male presented to the ED with severe substernal chest pain lasting 15–20 minutes, associated with general weakness, mild dyspnea, and diaphoresis. An initial 12-lead ECG was obtained.
+
+ECG Pattern Recognition
+
+The ECG shows:
+
+ST elevation (STE) in V1, V2, aVR, and aVL
+
+Hyperacute T wave in V3
+
+Otherwise diffuse ST depression (STD):
+
+Inferior leads (II, III, aVF)
+
+Low lateral / lateral leads (V4–V6)
+
+Overall interpretation: Superiorly directed ST vector (a “north-pointing” injury vector). This is unequivocally an OMI / STEMI-equivalent pattern, but the distribution is unusual because the STE vector is directly superior with reciprocal inferior/lower-lateral STD.
+
+Named Pattern: “Northern OMI”
+
+This ECG matches what is sometimes called “Northern Occlusion Myocardial Infarction (Northern OMI)” — a STEMI/OMI pattern associated with subepicardial (transmural) ischemia of the base of the heart, potentially involving the basal septum.
+
+Key Features (as described in the case)
+
+STE in aVR and aVL (often with negative T waves)
+
+STD in inferior (II, III, aVF) and lateral (V4–V6) leads with positive or biphasic T waves
+
+ST vector points “straight up” (≈ −90°, i.e., “north”)
+
+Suggested Etiologies (high-risk culprits)
+
+This pattern can indicate:
+
+Left main coronary artery occlusion
+
+Proximal LAD occlusion
+
+Multivessel coronary artery disease
+
+Clinical implication: represents a large territory at risk and can be missed by traditional STEMI criteria, so it should trigger immediate cath lab activation when clinically consistent.
+
+Case Course / Outcome
+
+The cath lab was activated.
+On arrival, the patient was diaphoretic, clammy, and altered, and was taken emergently to the cath lab with a weak thready pulse.
+
+Cath findings:
+
+100% occlusion of the left main coronary artery, TIMI 0 flow
+
+Despite restoration of flow in the left system, the patient had emesis with inability to protect airway, was intubated, then suffered PEA arrest, underwent CPR, and was pronounced dead at 12:06 am.
+
+Additional Expert Note (Conceptual Pearl)
+
+Prediction of the culprit artery can be hard when the ECG suggests occlusion but with conflicting regional findings; this often points toward significant multivessel disease. Acute left main occlusion has high variability in ECG presentation, and lead aVR alone does not “solve” the diagnosis.

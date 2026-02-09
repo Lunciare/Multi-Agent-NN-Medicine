@@ -1,0 +1,83 @@
+A woman in her 50s with acute chest pain
+
+A woman in her 50s with no significant past medical history experienced acute anterior chest pain that woke her from sleep and radiated to her back. She described it as “stabbing”, 8/10, constant, and associated with nausea. She denied preceding symptoms or recent illnesses.
+
+Here is her triage ECG during active pain:
+What do you think?
+
+This ECG was recorded 30 minutes later with ongoing pain.
+
+The physician was worried about possible acute coronary occlusion and activated the cath lab.
+
+The angiogram showed no significant coronary disease.
+First troponin I was 10 ng/L.
+Second troponin was 23 ng/L.
+Echocardiogram showed normal EF, no wall motion abnormalities, no pericardial effusion.
+
+Here is the ECG the next day.
+She was given colchicine and discharged.
+
+She returned with similar symptoms about 1 month later.
+
+Repeat echocardiogram revealed a small pericardial effusion.
+
+Cardiac MRI was read as:
+
+Acute pericarditis with signs of early constrictive physiology. The pericardium is diffusely thickened. There is diffuse late gadolinium enhancement of parietal and visceral layers consistent with pericardial inflammation. There is a small circumferential effusion, no tamponade physiology. Mild septal bounce demonstrates ventricular interdependence. IVC dilated to 2.9 cm with <50% collapse, suggesting early constrictive physiology. No myocardial LGE to suggest myocarditis or infarction.
+
+Two troponins were <6 ng/L.
+She was treated with colchicine and ibuprofen.
+Rheumatologic and infectious workups were negative.
+
+ECG recorded on day 4 of hospitalization.
+ECG recorded on day 6 of hospitalization.
+
+She was diagnosed with recurrent idiopathic pericarditis and discharged.
+
+Here is her ECG 6 months later, without symptoms.
+
+The “four stages of pericarditis on ECG” are taught as:
+Stage 1: widespread STE and PR depression
+Stage 2: ST segments return to baseline with T-wave flattening
+Stage 3: T-wave inversion
+Stage 4: Normalization
+
+This patient fulfills the classic sequence.
+
+Actual pericarditis is rare compared to normal variant baseline ST elevation.
+The harm of missing OMI is far greater than the harm of mislabeling pericarditis.
+“You diagnose pericarditis at your peril.”
+
+
+Medicine is humbling. I included pericarditis in the differential but thought pure pericarditis was unlikely. I suspected acute LCx occlusion.
+
+For clarity, I reproduced the initial ECG.
+
+The ECG shows sinus rhythm ~90 bpm, normal intervals and axis, and extensive ST elevation. A 50-something woman awakened from sleep with severe new chest pain should be assumed to be having acute MI until proven otherwise.
+
+Findings suggesting acute MI:
+
+* Q waves present in multiple leads with ST elevation
+* ST elevation pattern consistent with acute inferolateral infarction
+* Reciprocal changes in aVL
+* Hyperacute-appearing T waves in V3 and V4
+* Possible (initially suspected) terminal QRS distortion in V4
+
+Bottom line: ECG #1 looked like acute inferolateral STEMI needing prompt cath.
+
+* Q waves in almost all STE leads (could represent early infarction)
+* Inferior Q waves not consistent with normal septal q waves
+* ST-T in lead II does not resemble lead I (expected in pericarditis)
+* No reciprocal change expected, yet seen in aVL
+* Flat ST in V2 (not typical for pericarditis)
+* Hyperacute-appearing ST-T in V3 and V4 inconsistent with pericarditis
+
+NOTE #1: Myocarditis could mimic this ECG, but normal cath, troponins, echo, and MRI ruled it out.
+NOTE #2: No pericardial friction rub reported (which would confirm diagnosis).
+NOTE #3: Pain not described as pleuritic or positional (pain was “constant” and “stabbing”).
+
+* Acute MI is far more common than pericarditis in ED settings.
+* Missing an MI is far more dangerous than missing pericarditis.
+* This case illustrates appropriate activation of the cath lab.
+* It expands understanding of atypical ECG presentations of pericarditis.
+* It is a reminder that patients do not always present in textbook fashion.

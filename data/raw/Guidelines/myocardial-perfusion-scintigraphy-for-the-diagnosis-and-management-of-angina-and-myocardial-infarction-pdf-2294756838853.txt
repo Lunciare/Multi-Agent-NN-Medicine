@@ -1,0 +1,632 @@
+Myocardial perfusion scintigraphy for the diagnosis and management of angina and
+myocardial infarction
+1 Recommendations
+This appraisal covers the use of myocardial perfusion scintigraphy (MPS) using single
+photon emission computed tomography (SPECT) in the diagnosis and management of
+angina and myocardial infarction. It does not cover planar MPS or the use of MPS in the
+management of heart failure or in the assessment of myocardial viability. In this guidance,
+the term coronary artery disease (CAD) is used to refer to angina and myocardial
+infarction.
+1.1 This recommendation has been updated and replaced by recommendation 1.3.6.1
+in NICE's guideline on recent-onset chest pain of suspected cardiac origin.
+1.2 MPS using SPECT is recommended as part of the investigational strategy in the
+management of established CAD in people who remain symptomatic following
+myocardial infarction or reperfusion interventions.
+This recommendation has been partially updated by recommendations 1.5.2 and
+1.5.12 in NICE's guideline on stable angina.
+
+ 
+2 Clinical need and practice
+2.1 Coronary artery disease (CAD) is the commonest cause of death in England and
+Wales. It is characterised by the development of lipid-laden coronary arterial
+plaques, which reduce the blood supply to the heart muscle. Significant CAD is
+defined as a stenosis (narrowing) of more than 70% of the diameter of at least 1
+major epicardial artery segment or more than 50% of the diameter of the left main
+coronary artery.
+2.2 Angina (chest pain) is the most common symptom of CAD. It is usually provoked
+by exercise and relieved by rest. Angina of rapidly increasing frequency, or
+experienced at rest, is called unstable angina. CAD can also lead to heart attack
+(myocardial infarction, MI) and sudden cardiac death. MI is characterised by
+severe chest pain persisting for at least 20 minutes, a rise in cardiac enzymes in
+the serum, and/or an abnormal electrocardiogram (ECG).
+2.3 About 2.65 million people in the UK have CAD, and of these 1.2 million have had
+an MI. There were an estimated 275,000 heart attacks in the UK in 2001, and
+335,000 new cases of angina are diagnosed each year. CAD is more prevalent in
+men than in women. The prevalence of CAD increases with age, and varies
+across geographic regions and socioeconomic groups.
+2.4 Preventative strategies for reducing the frequency of CAD include smoking
+cessation, diet modification, exercise, and treating conditions that exacerbate
+progression of the disease, such as hyperlipidaemia, hyperglycaemia,
+hypertension and blood hypercoagulability. Medical treatment of angina
+symptoms includes the use of nitrates, beta-adrenergic blockers and/or calcium
+channel blockers. In severe CAD, revascularisation may be required, using
+surgical procedures such as coronary artery bypass grafting (CABG) or via the
+use of percutaneous coronary intervention (PCI), commonly with the insertion of
+an intraluminal coronary stent.
+2.5 The cost of CAD to the UK healthcare system in 1999 was estimated in the
+Assessment Report (see Appendix B) at £1.7 billion; the total annual cost was
+around £7 billion when informal care and productivity losses were included. More
+than 378,000 inpatients were treated for CAD in NHS hospitals in 2000 to 2001.
+
+ 
+Approximately 28,500 CABG and 39,000 PCI procedures are performed each
+year in the UK.
+2.6 The individual likelihood for CAD can be estimated from age, gender, ethnic
+group, family history, existence of symptoms, associated comorbidities and the
+results of tests such as resting electrocardiography (rECG). rECG is a commonly
+used test because it is readily available in primary care and is inexpensive, but
+because it does not exclude CAD, it is of limited diagnostic value. Stress ECG
+(sECG) and coronary angiography (CA) are commonly used in clinical practice for
+the diagnosis of CAD.
+2.7 sECG is normally recorded during progressive exercise on a treadmill, and so is
+not suitable for people for whom treadmill exercise is difficult or impossible.
+2.8 CA involves manipulating a cardiac catheter into the heart from a vein or artery in
+a limb. A contrast medium is injected through the catheter, and its progress
+monitored by a rapid series of X-rays. CA provides mainly anatomical information
+and is used to measure the degree of stenosis. It is considered the 'gold
+standard' for defining the site and severity of coronary artery lesions. However,
+CA findings are not always a reliable indicator of the functional significance of a
+coronary stenosis. Routine use of CA without prior non-invasive testing is not
+advisable, because of its high cost and associated mortality and morbidity.
+Potential complications include non-fatal MI (0.1%), stroke (0.1%) and death (0.1%
+to 0.2%).
+2.9 Other frequently used non-invasive techniques include myocardial perfusion
+scintigraphy (MPS) and echocardiography. Imaging techniques such as magnetic
+resonance imaging and positron emission tomography are used less frequently.
+
+ 
+3 The technology
+3.1 MPS involves the intravenous injection of small amounts of a radioactive tracer to
+evaluate perfusion of living cardiac muscle via the coronary arteries after stress
+and at rest. After injection, the tracer is taken up by cardiac muscle cells, and its
+distribution within the myocardium is imaged using a gamma camera. Three
+tracers are commercially available in the UK: thallium-201 thallous chloride,
+technetium-99m 2-methoxy-isobutyl-isonitrile, and technetium-99m
+1,2-bis(bis[2-ethoxyethyl]phosphino)ethane. MPS is a non-invasive procedure
+which provides more detailed information about coronary function than sECG and
+CA. Cardiovascular stress can be induced by exercise as in sECG, but is most
+commonly induced by pharmacological agents.
+3.2 MPS was originally developed as a planar imaging technique, but SPECT is the
+clinical standard in current practice. In SPECT, the camera rotates around the
+patient for 10 to 20 minutes and the raw data are processed to obtain
+tomographic images of the myocardium. The stress and rest images are normally
+separated by 3 to 4 hours. The total patient contact time for stress induction,
+injection and image acquisition is approximately 60 minutes.
+3.3 Homogeneous uptake of tracer throughout the myocardium indicates the
+absence of clinically significant infarction or coronary stenosis. A defect in the
+stress images that normalises in the rest images usually corresponds to a
+significant coronary stenosis. A defect in both stress and rest images indicates an
+area with loss of viable myocardium, such as after MI.
+3.4 Two technical improvements to SPECT were also considered in this appraisal.
+Attenuation-corrected SPECT compensates for the fact that many emitted
+photons never reach the detector as a result of interactions with body tissues.
+ECG-gated SPECT is synchronised with the patient's ECG, thereby minimising
+artefacts caused by cardiac motion. Also, left ventricular ejection fraction can be
+measured at rest with ECG-gated SPECT.
+3.5 The complication rates for SPECT are no different from those of sECG, and are
+usually related to exercise or pharmacological stimulation given as part of the
+stress component in the procedure, with an associated mortality of around 0.01%
+
+ 
+and a morbidity of around 0.02%. The radiation exposure from SPECT is similar to
+the exposure from uncomplicated CA.
+3.6 The cost of a SPECT scan is estimated to be around £265, whereas the costs for
+sECG and CA are £104 and £1,103, respectively (2002 NHS reference costs).
+
+ 
+4 Evidence and interpretation
+The Appraisal Committee considered evidence from a number of sources.
+4.1 Clinical effectiveness
+4.1.1 The Assessment Report and the submissions reviewed the literature and focused
+on 2 aspects separately: the diagnostic performance of SPECT, and its long-term
+prognostic value. Much of the evidence consisted of non-randomised open
+observational (both prospective and retrospective) studies, with several studies
+using a comparative design.
+Diagnostic performance
+4.1.2 The diagnostic performance of SPECT was expressed as sensitivity and
+specificity. Sensitivity is the proportion of true-positives that are correctly
+identified by the test. Specificity is the proportion of true-negatives that are
+correctly identified by the test.
+4.1.3 The Assessment Report reviewed 21 studies with 100 or more patients that
+evaluated the sensitivity and specificity of both SPECT and sECG in the diagnosis
+of CAD compared with CA. Median sensitivity values for SPECT were higher than
+those for sECG in all studies (SPECT: 81% for the largest subcategory of studies,
+with a range of 63% to 93%; sECG: 65% for the largest subcategory of studies,
+with a range of 42% to 92%). However, the results were not pooled because of
+the heterogeneity across the different studies. Median specificity values were
+similar for SPECT (65%, range 10% to 90%) and sECG (67%, range 41% to 88%).
+4.1.4 The submission from the professional groups reviewed the diagnostic
+performance of SPECT only (compared with CA) from 62 studies. Because of
+differences in inclusion criteria, only 2 of these studies were also included in the
+Assessment Report analysis. There was considerable variation in study size,
+quality and design, but weighted means for sensitivity and specificity were
+reported to be 86% and 74%, respectively. The manufacturer's submission quoted
+
+ 
+1 publication with sensitivity and specificity for SPECT reported as 91% and 89%,
+respectively, and the American College of Cardiologists and American Heart
+Association Task Force guideline, with average sensitivity and specificity
+reported as 89% to 90% and 70% to 76%, respectively.
+Long-term prognostic value
+4.1.5 For the long-term prognostic value of SPECT, the Assessment Report included a
+systematic review of 46 observational studies.
+4.1.6 In the 20 studies that provided general prognostic information, cardiac event
+rates (defined as cardiac mortality or non-fatal MI) were significantly higher for
+patients with abnormal SPECT scans than for those with normal scans. An
+abnormal SPECT result was associated with an annual cardiac event rate of 6.7%,
+whereas a normal scan was associated with an annual cardiac event rate of 0.7%
+(data from meta-analyses of 15,000 and 20,963 patients, respectively).
+Furthermore, the extent and size of a perfusion defect can predict the likelihood
+of future cardiac events.
+4.1.7 The proportion of normal angiograms was lower in patients who were referred to
+CA after a positive SPECT than in patients referred directly for CA (2 studies: 33%
+versus 43% [4,688 patients], and 18% versus 33% [6,800 patients], respectively).
+4.1.8 However, the rate of subsequent revascularisations was lower for the SPECT-CA
+strategy (13% to 27%) than for the direct CA strategy (16% to 44%; data from 3
+studies with a combined total of approximately 11,000 patients).
+4.1.9 In studies where it was possible to analyse the contribution of different clinical
+parameters to the prediction of clinical outcomes, it was found that SPECT
+provided independent prognostic information for predicting MI, and had an
+additional value over clinical and sECG data that was maintained at long-term
+follow-up.
+4.1.10 In several studies that investigated whether an abnormal SPECT scan was a
+predictor of cardiac death, the relative risk or odds ratios were calculated
+depending on study design. In all studies an abnormal SPECT scan was described
+
+ 
+as an independent, main or statistically significant predictor of cardiac death. In 4
+studies, with patient numbers ranging from 176 to 947, the relative risk ranged
+between 1.1 and 17.6. In 2 studies, with patient numbers of 248 and 1,182, the
+odds ratios were reported to be 2.8 and 4.8, respectively.
+4.1.11 SPECT also provided independent prognostic information in the following
+subgroups: women (5 studies), patients post-MI (4 studies), patients who had
+undergone PCI or CABG (3 studies), medically treated patients with left main and/
+or 3-vessel CAD (1 study), patients hospitalised with angina who had a normal or
+non-diagnostic sECG (1 study), and patients with diabetes (2 studies).
+4.1.12 Two studies found ECG-gated SPECT to be more sensitive than non-ECG-gated
+SPECT, but with slightly lower specificity. Also, ECG-gated SPECT provided
+incremental prognostic information in patients with known or suspected CAD that
+was better than perfusion data alone. One study compared SPECT with
+attenuation-corrected SPECT and reported that attenuation correction had a
+significant impact on the assessment of the severity and extent of MI.
+4.1.13 The search strategy used in the Assessment Report did not identify any studies
+evaluating the role of SPECT in the context of rapid access chest pain clinics or in
+pre-operative risk assessment of patients undergoing major surgery who were
+potentially at risk of coronary events. However, the submission from the
+professional groups lists 20 studies on SPECT in pre-operative risk assessment,
+and emphasises the acknowledged role of SPECT for this indication.
+4.1.14 In summary, as studies reviewed in the Assessment Report were carried out
+under a number of different clinical settings investigating different outcomes, it
+was not possible to summarise the effectiveness of SPECT in simple quantitative
+estimates. However, the evidence from the reviewed studies consistently
+suggested that SPECT provided valuable independent and incremental
+information predictive of outcome that helped to risk-stratify patients and
+influence the way in which their condition was managed.
+4.1.15 The submissions from the professional groups and the manufacturer included
+reviews of a larger number of papers and, because of differences in the inclusion
+criteria, there was little overlap between the studies included in each of the 3
+reviews. Despite the differences in the evidence base of the 3 reviews, similar
+
+ 
+conclusions were drawn.
+4.2 Cost effectiveness
+4.2.1 The Assessment Group, the manufacturer and the professional group reviewed
+published cost-effectiveness studies. The Assessment Group and the
+manufacturer also provided new economic models.
+4.2.2 The systematic review in the Assessment Report included studies that compared
+both costs and outcomes of SPECT with alternative diagnostic strategies. The
+comparison of different publications was complicated by the multitude of
+strategies considered, differences in study designs and populations, in treatment
+comparisons, in costing methods and different ways in which outcomes were
+measured. Overall, it was concluded that direct CA (without any prior tests) was
+cost effective when the prevalence of disease was high. At low levels of
+prevalence, strategies involving SPECT and/or sECG were considered to be a
+better use of resources than a strategy of direct CA. Furthermore, strategies
+involving SPECT were often found to be dominant or provided additional benefits
+that might be considered worth the additional cost compared with the sECG-CA
+strategy.
+4.2.3 The new economic models provided by the Assessment Group and the
+manufacturer used similar designs; decision tree models were constructed for the
+diagnostic performance of different strategies and Markov models were used to
+estimate the long-term costs and benefits. They both used a hypothetical cohort
+of 1,000 patients (to start at the age of 60), with the assumption that
+effectiveness of therapy (CABG, PCI, medical management) lasts for 10 years.
+The time horizon was 25 years with an annual cycle time.
+4.2.4 The diagnostic strategies considered in both models were:
+• sECG, followed by SPECT if sECG was positive or indeterminate, followed by
+CA if SPECT was positive or non-diagnostic (sECG-SPECT-CA)
+• sECG, followed by CA if sECG was positive or non-diagnostic (sECG-CA)
+• SPECT, followed by CA if SPECT was positive or non-diagnostic (SPECT-CA)
+
+ 
+• direct CA (CA).
+4.2.5 The results were presented as incremental cost per true-positive diagnosed, per
+accurate diagnosis, per life year gained and per quality-adjusted life year (QALY)
+gained, and – importantly – were calculated for different levels of prevalence of
+CAD.
+4.2.6 The key results were as follows:
+• As prevalence of CAD increased, total cost increased and total number of
+QALYs gained decreased for each diagnostic strategy.
+• At all prevalence levels of CAD the ordering of diagnostic strategies was the
+same, with sECG-SPECT-CA being least costly and least effective, and
+having the lowest average cost per QALY. This implies that an incremental
+cost is paid for some incremental benefit when SPECT is not included.
+• CA was the most costly strategy in both models and for all prevalence levels
+of CAD, and (as the reference standard) was defined as the most effective
+strategy.
+• Most incremental cost-effectiveness ratios (ICERs) were less favourable in
+the manufacturer's model than in the Assessment Report model. However, all
+ICERs calculated were less than £24,000, apart from the ICER for direct CA
+compared with SPECT-CA at low and 30% prevalence of CAD.
+4.2.7 When compared with sECG-CA at low prevalence of CAD, the ICER for SPECT-CA
+(£8,723) was more favourable than the ICER for direct CA (£21,538). Conversely,
+at high prevalence of CAD, the more favourable strategy was direct CA with an
+ICER of £1,962, whilst SPECT-CA had an ICER of £3,242.
+4.2.8 When direct CA was compared with the SPECT-CA strategy, a high ICER was
+seen at low prevalence (£42,225). However, as prevalence increased, direct CA
+became increasingly more cost-effective. At 80% prevalence of CAD, the move to
+the direct CA from SPECT-CA involved a modest extra cost per additional QALY
+gained (£942 in the Assessment Report and £4,482 in the manufacturer's
+submission).
+
+ 
+4.2.9 Several sensitivity analyses showed that the results varied considerably
+depending on the sensitivity or specificity values entered for SPECT and sECG.
+When the impact of the additional independent information provided by SPECT
+was explored by increasing the proportion of SPECT positives whose condition
+could be satisfactorily managed medically, ICERs generally improved. When the
+time horizon was less than 15 years, all ICERs became less favourable. In the
+subgroup analysis for women, the SPECT-CA strategy dominated both the sECG-
+CA and CA strategies.
+4.2.10 In summary, when compared with sECG-CA, SPECT-CA has more favourable
+ICERs than direct CA at low levels of prevalence of CAD. At higher prevalence
+levels, the sECG-CA and CA strategies lead to more favourable ICERs than
+SPECT-CA.
+4.3 Consideration of the evidence
+4.3.1 The Committee reviewed the evidence available on the clinical and cost
+effectiveness of MPS for the diagnosis and management of CAD, having
+considered evidence on the value placed by users on the benefits of MPS for the
+diagnosis and management of CAD, from people with CAD, those who represent
+them, and clinical experts. It was also mindful of the need to ensure that its
+advice took account of the effective use of NHS resources.
+4.3.2 The Committee considered the evidence submitted on the diagnostic
+performance of SPECT indicating that, overall, it is more sensitive than sECG.
+However, the Committee appreciated that considerable uncertainty remains over
+the true values for sensitivity and specificity of SPECT. In particular, trials that
+assessed these values were subject to referral bias, in that only SPECT-positive
+cases were referred for CA, which was assumed to be the 'gold standard'.
+Additionally, the Committee was aware that, contrary to SPECT, CA does not
+always provide the fullest evaluation of the patient with CAD, particularly where
+information relating to myocardial perfusion and function are considered
+important for the establishment of prognosis and management.
+4.3.3 The Committee heard from the clinical experts that SPECT is of value at all levels
+of likelihood for CAD, because it provides highly accurate diagnostic and
+
+ 
+prognostic information. The experts indicated that, if SPECT and sECG were
+equally accessible in the NHS, there would be a case for the preferential use of
+SPECT in certain groups of patients. However, because of the currently limited
+availability of SPECT in the UK, the committee believed that its use should be
+particularly directed to patient groups for whom it provides the greatest
+additional benefit in terms of initial diagnosis of suspected CAD and in the
+management and prediction of prognosis in those with established CAD.
+4.3.4 The Committee also recognised that there are circumstances where the
+information from sECG is important, as in the evaluation of the overall exercise
+performance of patients with CAD. sECG is therefore likely to remain a commonly
+used investigation in most circumstances.
+4.3.5 The Committee reviewed the cost-effectiveness modelling. They noted that
+because the difference in QALYs derived between the different investigational
+strategies was small, and the disutility of CA was not included in the models, the
+conclusions of cost–utility differences between diagnostic strategies (see Section
+4.2.4) should be interpreted with caution. However, the Committee considered
+that, overall, SPECT was cost effective across a wide range of clinical situations.
+4.3.6 The Committee further considered that, in terms of both clinical effectiveness
+and cost effectiveness, the absolute 'value' of SPECT as an appropriate
+diagnostic tool depends on the likelihood of the presence of CAD in the target
+population under investigation. Thus, the diagnostic strategy SPECT-CA is clearly
+preferred on cost-effectiveness grounds in individuals with a lower likelihood of
+CAD and consequently lower risk of future coronary events. However, as the
+likelihood of CAD increases, differences in the incremental cost effectiveness for
+the different testing strategies decrease. Thus, at higher likelihood of CAD and of
+possible intervention (CABG or PCI), a strategy where direct CA is preferred over
+SPECT-CA could be considered more appropriate.
+4.3.7 The Committee heard from the experts that SPECT enables the redirection of
+patients into medical rather than surgical management. SPECT may therefore
+postpone or completely avert the need for CA in some clinical situations. The
+Committee also recognised the significance of the disutility associated with CA,
+which would favour SPECT and had been omitted from the economic models
+reviewed. It concluded that full consideration of these aspects is likely to improve
+
+ 
+the cost effectiveness of SPECT.
+4.3.8 The Committee was advised by the experts that SPECT scanning may be
+particularly useful as an initial diagnostic tool in people for whom sECG poses
+particular problems of poor sensitivity or difficulties with interpretation. This
+includes women, patients with cardiac conduction defects (such as left bundle
+branch block) and people with diabetes. SPECT also has an important role in
+assessing the presence of CAD in patients for whom treadmill exercise is difficult
+or impossible, and in the full evaluation of patients following MI or reperfusion
+interventions.
+4.3.9 The Committee considered that increased provision of SPECT within the NHS
+over that currently available was desirable on the basis of this evidence.
+However, it recognised that more widespread use of SPECT would require an
+implementation strategy that may take several years to fulfil and would need a
+significant increase in the availability of both equipment and trained staff. The
+Committee therefore concluded that the increased use of SPECT should initially
+be targeted at those groups for whom it provides the greatest benefit in terms of
+cost effectiveness, as expressed in section 1.
+
+ 
+5 Recommendations for further research
+5.1 Further research is recommended in patients with established CAD regarding the
+value of SPECT relative to other tests of cardiac function such as
+echocardiography, magnetic resonance imaging and positron emission
+tomography in order to inform future assessment of the needs of the NHS.
+
+ 
+6 Implications for the NHS
+6.1 According to the British Nuclear Cardiology Society survey, there were about
+1,200 SPECT scans per million population in the UK in 2000. The average waiting
+time for a scan was 20 weeks. The submission prepared jointly by the
+professional groups estimated the optimal level of SPECT provision to be around
+4,000 SPECT scans per million population per year, calculated on the basis of
+current revascularisation and CA rates. Furthermore, it suggested that suitable
+waiting times would be 6 weeks for routine scans and 1 week for urgent tests.
+6.2 In order to achieve these levels of both adequacy of provision and speed of
+accessibility, it is estimated that 73 additional gamma cameras would be needed
+in England and Wales, at a capital cost of around £18 million. This is based on
+providing 2,000 scans per annum per gamma camera, and a unit cost of
+£250,000 per camera.
+6.3 Because of the current lack of trained personnel, these levels of provision could
+take some years to achieve, so the total cost to the NHS is likely to be phased
+over several years. Once a steady state is achieved, based on the provision of
+4,000 SPECT tests per million population per year, the estimated annual revenue
+cost would be in the order of £27 million.
+
+ 
+7 Implementation and audit
+7.1 NHS hospitals and all clinicians who care for people with CAD should review
+current diagnostic options available to take account of the guidance set out in
+section 1.
+7.2 Local guidelines or care pathways for people with CAD should incorporate the
+guidance.
+7.3 To measure compliance locally with the guidance, the following criteria could be
+used. Further details on suggestions for audit are presented in the section on
+detail on criteria for audit.
+7.3.1 MPS using SPECT is carried out for the diagnosis of individuals with suspected
+CAD in the following circumstances.
+• As the initial diagnostic tool for an individual with suspected CAD for whom
+sECG poses problems of poor sensitivity or difficulties in interpretation, and
+for an individual for whom treadmill exercise is difficult or impossible.
+• As part of an investigational strategy for the diagnosis of suspected CAD in
+an individual who has a lower likelihood of CAD and of future cardiac events.
+7.3.2 MPS using SPECT is carried out as part of an investigational strategy in the
+management of established CAD in an individual who remains symptomatic
+following myocardial infarction or reperfusion interventions (CABG or PCI).
+7.4 Local clinical audits on the care of patients with CAD could also include criteria
+for the management of CAD based on the national standards, including standards
+in the National Service Framework.
+
+ 
+8 Appraisal Committee members and
+NICE project team
+Appraisal Committee members
+The Appraisal Committee is a standing advisory committee of NICE. Its members are
+appointed for a 3-year term. A list of the Committee members who took part in the
+discussions for this appraisal appears below. The Appraisal Committee meets 3 times a
+month except in December, when there are no meetings. The Committee membership is
+split into 3 branches, with the chair, vice-chair and a number of other members between
+them attending meetings of all branches. Each branch considers its own list of
+technologies and ongoing topics are not moved between the branches.
+Committee members are asked to declare any interests in the technology to be appraised.
+If it is considered there is a conflict of interest, the member is excluded from participating
+further in that appraisal.
+The minutes of each Appraisal Committee meeting, which include the names of the
+members who attended and their declarations interests, are posted on the NICE website.
+Dr A E Ades
+MRC Senior Scientist, MRC Health Services Research Collaboration, Department of Social
+Medicine, University of Bristol
+Professor Ron Akehurst
+Dean, School of Health-Related Research, University of Sheffield
+Dr Tom Aslan
+General Practitioner, Stockwell, London
+Professor David Barnett (Chair)
+Professor of Clinical Pharmacology, University of Leicester
+Dr Sheila Bird
+MRC Biostatistics Unit, Cambridge
+
+ 
+Professor Rosamund Bryar
+Professor of Community and Primary Care Nursing, St Bartholomew's School of Nursing
+and Midwifery, London
+Dr Karl Claxton
+Health Economist, University of York
+Professor Terry Feest
+Clinical Director and Consultant Nephrologist, Richard Bright Renal Unit, Chair of UK Renal
+Registry, Bristol
+Professor Gary A Ford
+Professor of Pharmacology of Old Age, Consultant Physician, Newcastle-upon-Tyne
+Hospitals NHS Trust
+Dr John Geddes
+Consultant Psychiatrist, University Department of Psychiatrists, Oxford
+Ms Bethan George
+Interface Liaison Pharmacist, Tower Hamlets PCT and Royal London Hospital, Whitechapel
+Dr Trevor Gibbs
+Head, Global Clinical Safety and Pharmacovigilance, GlaxoSmithKline, Greenford
+Mr John Goulston
+Director of Finance, Barts and The London NHS Trust
+Professor Philip Home
+Professor of Diabetes Medicine, University of Newcastle-upon- Tyne
+Dr Terry John
+General Practitioner, The Firs, London
+Mr Muntzer Mughal
+Consultant Surgeon, Lancashire Teaching Hospitals NHS Trust, Chorley
+Judith Paget
+Chief Executive, Caerphilly Local Health Board, Torfaen
+
+ 
+Mrs Kathryn Roberts
+Nurse Practitioner, Hyde, Cheshire
+Ms Anne Smith
+Lay Representative, Trustee, Long-Term Medical Conditions Alliance
+Dr Cathryn Thomas
+General Practitioner, Senior Lecturer, Department of Primary Care and General Practice,
+University of Birmingham
+Dr Norman Vetter Reader
+Department of Epidemiology, Statistics and Public Health, College of Medicine, University
+of Wales, Cardiff
+Dr David Winfield
+Consultant Haematologist, Royal Hallamshire Hospital, Sheffield
+NICE Project Team
+Each appraisal of a technology is assigned to a health technology analyst and a project
+manager.
+Dr Elisabeth George and Dr Dogan Fidan
+Technical Leads
+Kathleen Dalby
+Project Manager
+
+ 
+9 Sources of evidence considered by the
+Committee
+The following documentation and opinions were made available to the Committee:
+The Assessment Report for this appraisal was prepared by the Health Services Research
+Unit in collaboration with the Health Economics Research Unit, the Department of Public
+Health, Institute of Applied Health Sciences, and the Cardiology Research Group,
+University of Aberdeen, and the Department of Bio-Medical Physics and Bio-Engineering,
+Grampian University Hospitals NHS Trust.
+Systematic review of the effectiveness and cost-effectiveness, and economic evaluation,
+of myocardial perfusion scintigraphy for the diagnosis and management of angina and
+myocardial infarction
+Graham Mowatt, Luke Vale, Miriam Brazzelli, Rodolfo Hernandez, Alison Murray, Neil Scott,
+Cynthia Fraser, Lynda McKenzie, Howard Gemmell, Graham Hillis, and Malcolm Metcalfe,
+May 2003.
+The following organisations accepted the invitation to participate in this appraisal. They
+were invited to make submissions and comment on the draft scope, assessment report
+and the Appraisal Consultation Document (ACD). Consultee organisations are provided
+with the opportunity to appeal against the Final Appraisal Determination.
+Companies or sponsors:
+• Amersham Health
+• Ashby GB Ltd
+• Bartec Medical Systems (UK) Ltd
+• Bristol-Myers Squibb
+• GE Medical Systems
+• Philips Medical Systems
+
+ 
+• Siemens
+• Tyco Healthcare UK Ltd
+Professional or specialist, and patient or carer groups:
+• Action Heart
+• Association of British Health-Care Industries
+• British Cardiac Patients Association
+• British Cardiac Society
+• British Cardiovascular Interventional Society
+• British Heart Foundation
+• British Nuclear Cardiology Society
+• British Nuclear Medicine Society
+• Department of Health
+• Fareham and Gosport Primary Care Trust
+• Maidstone Weald Primary Care Trust
+• Royal College of Physicians
+• Royal College of Radiologists
+• Society for Cardiological Science and Technology
+• Welsh Assembly Government
+Commentator organisations (without the right of appeal):
+• Cochrane Heart Group
+• Institute of Nuclear Medicine
+• Institute of Physics and Engineering in Medicine
+• NHS Confederation
+
+ 
+• NHS Information Authority
+• NHS Purchasing and Supply Agency
+• NHS Quality Improvement Scotland
+The following individuals were selected from clinical expert and patient advocate
+nominations from the professional or specialist, and patient or carer groups. They
+participated in the Appraisal Committee discussions and provided evidence to inform the
+Appraisal Committee's deliberations. They gave their expert personal view on myocardial
+perfusion scintigraphy for the diagnosis and management of angina and myocardial
+infarction by attending the initial Committee discussion and/or providing written evidence
+to the Committee. They were also invited to comment on the ACD.
+• Dr Constantinos Anagnostopoulos, President, British Nuclear Cardiology Society and
+Consultant and Honorary Senior Lecturer of Nuclear Medicine, Department of Nuclear
+Medicine, Royal Brompton Hospital, London
+• Professor SR Underwood, Professor of Cardiac Imaging, Royal Brompton Hospital,
+London
+
+ 
+10 Detail on criteria for audit of the use of
+myocardial perfusion scintigraphy for the
+diagnosis and management of angina and
+myocardial infarction
+Possible objectives for an audit
+An audit on MPS using SPECT could be carried out to ensure that the technique is used
+appropriately.
+Possible patients to be included in the audit
+An audit could be carried out on people referred for investigation of coronary artery
+disease (CAD) and people who have CAD and who remain symptomatic following
+myocardial infarction, CABG or PCI, for a reasonable period for audit, for example, 3 or 6
+months.
+
+ 
+Measures that could be used as a basis for audit
+Table 1 The measure that could be used in an audit of MPS using SPECT for people
+referred for investigation of CAD
+Criterion Standard Exception Definition of terms
+1. MPS using SPECT
+is carried out in the Clinicians will need to agree locally on how
+following patients are identified as having suspected
+circumstances: CAD, for audit purposes.
+a. as the initial For 1a, people for whom there may be
+diagnostic tool for an problems of sensitivity or interpretation
+individual with include women, people with cardiac
+suspected CAD for conduction defects (for example, left bundle
+whom sECG poses branch block), and people with diabetes.
+problems of poor 100% of Clinicians will need to agree locally on how a
+sensitivity or people patient for whom treadmill exercise is
+difficulties in who have difficult or impossible is identified, for audit
+interpretation or for suspected None purposes.
+whom treadmill CAD and
+For 1b, clinicians will need to agree locally
+exercise is difficult or who meet
+on how the likelihood of CAD and the
+impossible 1a or 1b
+likelihood of future cardiac events is
+b. as part of an determined to be low, for audit purposes.
+investigational Risk factors include age, gender, ethnic
+strategy for the group, family history, associated co-
+diagnosis of morbidities, clinical presentation, physical
+suspected CAD in an examination, and results from other
+individual with a lower investigations (for example, blood
+likelihood of CAD and cholesterol levels or a resting
+of future cardiac electrocardiogram).
+events
+
+ 
+Table 2 The measure that could be used in an audit of MPS using SPECT for people with
+established CAD who remain symptomatic following myocardial infarction, CABG or PCI
+Criterion Standard Exception Definition of terms
+100% of people
+1. MPS using SPECT is carried Clinicians will need to
+with established
+out as part of an investigational agree locally on the
+CAD who remain
+strategy for an individual with definition of
+symptomatic
+established CAD who remains None symptomatic for an
+following
+symptomatic following individual patient that is
+myocardial
+myocardial infarction, CABG or documented, for audit
+infarction, CABG or
+PCI purposes.
+PCI
+Calculation of compliance
+Compliance (%) with each measure described in the table above is calculated as follows.
+[Number of patients whose care is consistent with the criterion plus number of patients
+who meet any exception listed] divided by [Number of patients to whom the measure
+applies] × 100
+Clinicians should review the findings of measurement, identify whether practice can be
+improved, agree on a plan to achieve any desired improvement and repeat the
+measurement of actual practice to confirm that the desired improvement is being
+achieved.
