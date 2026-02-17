@@ -1,3 +1,4 @@
 Ventricular action potential
+KEYWORDS: channels, potential, membrane, action, open, action potential, channels open, sodium, phase, delayed, inactivation, plateau, current, activated, ventricular
 
 but are inactivated until the end of the action potential (rapid delayed rectifier channels). Fast delayed rectifier channels open quickly but are shut by inactivation at high membrane potentials. As the membrane voltage begins to drop the channels recover from inactivation and carry current. Shown below is an image summarizing the phases of the ventricular action potential.

@@ -1,3 +1,4 @@
 Electrical conduction system of the heart
+KEYWORDS: node, heart, ventricular, cells, atria, bundle, electrical, contraction, ventricles, depolarization, muscle, wave, myocardium, node node, left
 
 If the SA node fails to initialize the AV Junction can take over as the main pacemaker of the heart. The AV Junction "surrounds" the AV node (the AV node is not able to initialize its own impulses) and has a regular rate of 40 to 60 bpm. These "Junctional" rhythms are characterized by a missing or inverted P Wave. If both the SA node and the AV Junction fail to initialize the electrical impulse, the ventricles can fire the electrical impulses themselves at a rate of 20 to 40 bpm and will have a QRS complex of greater than 0.12 seconds.
