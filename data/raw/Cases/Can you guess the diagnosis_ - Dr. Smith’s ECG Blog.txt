@@ -1,0 +1,83 @@
+An ECG was sent without clinical context for interpretation.
+
+ECG #1
+
+The ECG shows sinus rhythm at just above 90 beats per minute. The QRS is narrow. T-wave inversions are present in leads V1–V3. QRS voltage is on the low side. Lead III shows small q waves and T-wave inversion.
+
+There is T-wave inversion in V1–V3 and T-wave inversion in lead III (S1Q3T3 pattern). When the differential is acute coronary syndrome versus pulmonary embolism, the presence of T-wave inversion in lead III together with precordial T-wave inversion has an extremely high likelihood ratio for pulmonary embolism.
+
+Interpretation: Not diagnostic, but right heart strain must be ruled out.
+
+Clinical Correlation
+
+The patient is a 75-year-old overweight woman with subacute shortness of breath for two weeks. On the day of presentation, her dyspnea worsened and was accompanied by lightheadedness during exertion.
+
+Pulmonary CT angiography revealed bilateral pulmonary emboli with significant right heart strain. The right ventricle was markedly enlarged compared to the left ventricle.
+
+This patient had a large pulmonary embolism.
+
+Pulmonary Embolism Classification and Risk
+
+Submassive pulmonary embolism accounts for approximately 40% of all PE cases and is associated with mortality up to 25%.
+
+Patients with submassive PE are normotensive but usually tachycardic and show signs of myocardial injury or dysfunction. They demonstrate right ventricular strain on ECG or imaging and often have elevated troponin and BNP levels.
+
+On presentation, the patient was hypoxemic with elevated hs-troponin I (1348 ng/L) and NT-proBNP (4555 pg/mL). She was normotensive with a heart rate in the 90s. She was treated with a heparin infusion and later transitioned to oral anticoagulation.
+
+The distinction between submassive and massive PE is often difficult, and deciding which patients require thrombolytics or thrombectomy is challenging.
+
+Hemodynamics of Acute Pulmonary Embolism
+
+The right ventricle is thin-walled and compliant and is poorly equipped for acute increases in afterload. In sudden afterload increase, the right ventricle dilates.
+
+As right ventricular stroke volume falls, blood accumulates in the right ventricle, leading to dilation. Severe dilation interferes with left ventricular filling due to pericardial constraint, reducing left ventricular stroke volume and cardiac output.
+
+The right ventricle normally receives coronary blood flow throughout systole and diastole. In severe pulmonary embolism, reduced cardiac output may lead to insufficient diastolic pressure to perfuse the right ventricle, resulting in right ventricular ischemia.
+
+These hemodynamic changes may lead to syncope, shock, or cardiac arrest.
+
+Learning Points
+
+Even large pulmonary embolism may show little or no ECG abnormality.
+
+The right ventricle dilates in response to acute afterload increase.
+
+Right ventricular dilation leads to left ventricular underfilling and decreased cardiac output.
+
+The right ventricle normally receives blood supply throughout the cardiac cycle.
+
+ECG Findings in Pulmonary Embolism
+
+The ECG is not sensitive for pulmonary embolism. However, findings such as sinus tachycardia, S1Q3T3, anterior T-wave inversions, new right bundle branch block, or incomplete right bundle branch block increase likelihood.
+
+S1Q3T3 is uncommon but increases the likelihood of PE.
+
+When troponin is positive, the differential includes myocardial infarction and pulmonary embolism. In patients with precordial T-wave inversion, concomitant T-wave inversion in leads III and V1 strongly favors pulmonary embolism over acute coronary syndrome.
+
+Negative T waves in leads III and V1 are rare in ACS and common in acute pulmonary embolism.
+
+Anterior T-wave inversion is a common ECG finding in massive pulmonary embolism.
+
+Normal ECGs are uncommon in massive pulmonary embolism, but smaller emboli may present with minimal ECG changes.
+
+Interpretation Without History
+
+Without clinical history, ECG findings may appear nonspecific. When history reveals progressive dyspnea over two weeks, subtle ECG findings become clinically meaningful.
+
+Subtle ECG findings consistent with pulmonary disease include:
+
+Anterior T-wave inversion
+
+T-wave inversion in lead III
+
+S1Q3T3 pattern
+
+qR pattern in lead V1
+
+Persistent precordial S waves
+
+Low QRS voltage
+
+Subtle ST-segment straightening or elevation in aVR
+
+These findings, taken together with clinical history, are consistent with acute submassive pulmonary embolism.

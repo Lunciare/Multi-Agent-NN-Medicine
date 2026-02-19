@@ -1,0 +1,153 @@
+Case Summary
+
+A man in his 60s with hypertension and prior stroke presented with 3 days of crushing substernal chest pain, radiating to the right arm. He reported intermittent chest pain for months, but never this severe or prolonged. Based on symptoms alone, acute OMI was highly likely even before ECG review.
+
+ECG Interpretation — Rhythm First
+
+The initial ECG showed multiple QRS morphologies, indicating more than one rhythm mechanism.
+
+Key rhythm findings (best seen after reformatting ECG into 12-channel rhythm):
+
+Narrow QRS beats (beats 4–5)
+
+True natively conducted beats
+
+Preceded by P waves inverted in inferior leads → low atrial rhythm
+
+These beats are the most reliable for ischemia assessment
+
+Wide, regular beats (beats 1–2, 7–10)
+
+Uniform morphology, ~120 ms QRS
+
+Rate ~80–100 bpm
+
+Consistent with AIVR (Accelerated Idioventricular Rhythm)
+
+Typical reperfusion arrhythmia
+
+Fusion beats (beats 3 and 6)
+
+Intermediate morphology between narrow and wide beats
+
+Occur when sinus impulse partially conducts into ventricle already depolarized by AIVR
+
+Atrial activity without conduction
+
+Atrial impulses sometimes blocked because ventricular depolarization occurred first
+
+Not retrograde conduction (variable RP intervals)
+
+Conclusion (rhythm):
+Reperfused OMI with AIVR + low atrial rhythm + fusion beats, consistent with acute ischemia followed by partial reperfusion.
+
+ECG Interpretation — Ischemia
+
+Focusing on the narrow conducted beats (4–5):
+
+Inferior leads (II, III, aVF):
+
+T-wave inversion → inferior infarction
+
+V2–V3:
+
+Overly upright T waves → posterior reperfusion
+
+I / aVL:
+
+Upright T waves where inversion would be expected with LVH strain → reciprocal reperfusion pattern
+
+Diagnosis from ECG:
+Reperfused inferoposterior OMI, most consistent with RCA occlusion.
+
+Clinical Course and System Failure
+
+Patient presented to a hospital without cath lab coverage over the weekend
+
+Chest pain documented as “almost resolved”
+
+In OMI, this means NOT resolved
+
+Managed medically (ASA, clopidogrel, heparin), cath deferred to Monday
+
+hs-troponin extremely elevated (>14,000 ng/L)
+
+Echo: inferior wall hypokinesis
+
+On Sunday:
+
+Patient developed dyspnea and exertional angina
+
+Repeat ECG showed:
+
+Persistent inferior/posterior reperfusion
+
+Subtle coving in III and aVF → ongoing ischemia
+
+Cath Lab Errors
+First Angiography:
+
+RCA described as “chronic total occlusion (CTO)”
+
+PCI performed to LAD and diagonal branches
+
+Culprit RCA not treated
+
+Patient had persistent chest pain overnight
+
+Second Angiography (next day, different operator):
+
+RCA recognized as acute thrombotic occlusion
+
+Three overlapping stents placed
+
+Culprit finally treated
+
+Core Lessons
+1. ECG Can Identify the Culprit Vessel
+
+This ECG correctly localized the infarct to the RCA
+
+Angiography misidentified the culprit vessel
+
+2. Wrong-Vessel PCI Is Common
+
+~27% of NSTEMIs receive PCI to uninvolved arteries
+
+~46% have either:
+
+Wrong infarct-related artery treated, or
+
+No ischemic diagnosis at all
+
+3. “CTO” on Angiography ≠ Chronic
+
+ECG evidence + symptoms must override cath labels
+
+4. Chest Pain Is Binary in OMI
+
+“Almost resolved” = ongoing infarction
+
+Refractory pain means immediate cath, regardless of timing or logistics
+
+5. AIVR Is a Reperfusion Marker
+
+Presence of AIVR strongly suggests:
+
+Recent reperfusion
+
+Recently occluded artery
+
+It does not mean the problem is over
+
+Key Takeaways for Practice
+
+Always integrate ECG + symptoms, not cath alone
+
+Identify the culprit vessel on ECG whenever possible
+
+Use narrow conducted beats to assess ischemia
+
+AIVR + fusion beats in chest pain = recent OMI
+
+Delayed or wrong-vessel PCI leads to avoidable myocardial loss

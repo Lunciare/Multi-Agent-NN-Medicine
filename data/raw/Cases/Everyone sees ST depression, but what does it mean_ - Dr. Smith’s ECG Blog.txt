@@ -1,0 +1,123 @@
+A man in his 70s with a history of hypertension and type 2 diabetes mellitus presented with acute chest pain that awakened him from sleep around midnight. The pain was substernal, non-radiating, and rated 7/10 in intensity. An ECG was obtained at approximately 4:00 AM.
+
+Initial ECG (ECG #1)
+
+The initial ECG was clearly abnormal, though it did not meet classic STEMI criteria.
+
+Key findings:
+
+ST depression in inferolateral leads (II, III, aVF, V4–V6)
+
+ST elevation and hyperacute T waves in V1, V2
+
+ST elevation and hyperacute T wave in aVL
+
+Reciprocal ST depression in III
+
+Loss of normal gentle ST elevation in V3
+
+Pattern consistent with a combination of:
+
+Precordial swirl
+
+South African Flag sign
+
+This constellation of findings is diagnostic of acute LAD occlusion, involving:
+
+Septal perforators (precordial swirl)
+
+A major diagonal branch (South African Flag pattern)
+
+This ECG represents acute occlusion myocardial infarction (OMI) and warrants immediate cardiac catheterization, regardless of troponin level or symptom improvement.
+
+The Queen of Hearts AI diagnosed OMI with very high confidence (0.99).
+
+Initial Management and Misinterpretation
+
+The ECG was interpreted clinically as showing only “mild ST depression”. The patient received:
+
+Aspirin 325 mg
+
+Sublingual nitroglycerin 0.4 mg
+
+Documentation stated that the patient’s pain “resolved,” but no short-interval repeat ECG was obtained to confirm electrical resolution.
+
+Initial troponin I was mildly elevated (0.049 ng/mL, reference <0.033).
+
+Clinical Deterioration
+
+At 8:10 AM, repeat troponin I was 3.788 ng/mL, indicating a substantial infarction. A repeat ECG (ECG #2) showed improvement compared to ECG #1, but remained clearly abnormal, raising concern for ongoing ischemia.
+
+Despite this:
+
+The ECG was again described as showing only ST depression
+
+Pain was documented as “2/10” and later “resolved”
+
+The distinction between partial improvement and complete resolution was not acted upon
+
+Echocardiography
+
+Transthoracic echocardiogram demonstrated:
+
+Apical akinesis
+
+LVEF approximately 45%
+
+The pattern could superficially resemble takotsubo, but ECG and clinical context were diagnostic of LAD OMI.
+
+Cardiac Catheterization
+
+Cardiac catheterization was delayed approximately 8 hours after the initial diagnostic ECG.
+
+Findings:
+
+Severe LAD vasospasm involving septal perforators and a major diagonal branch
+
+Very poor flow in the LAD
+
+No acute plaque rupture
+
+This was classified as a Type 2 MI (ischemia due to vasospasm rather than atherosclerotic plaque disruption).
+
+Intracoronary nitroglycerin was administered around 12:30 PM, resulting in resolution of vasospasm. Troponin continued to rise, reaching 6.607 ng/mL.
+
+Final Diagnosis
+
+Acute LAD occlusion myocardial infarction due to coronary vasospasm
+
+Mechanism: non-atherosclerotic (vasospastic OMI)
+
+Resulted in a supervised, in-hospital anterior wall infarction due to delayed intervention
+
+Key Clinical Insights
+
+ST depression is not a diagnosis; it is a finding that must be interpreted in pattern and context
+
+Precordial swirl and South African Flag patterns are STEMI-equivalents
+
+Symptom improvement is not sufficient to defer cath unless:
+
+Chest pain is completely resolved
+
+Ischemic ECG changes are completely resolved
+
+“Much better” or “2/10 pain” still represents refractory ischemia
+
+The initial ECG alone is sufficient to mandate cath when clearly abnormal
+
+Troponin values do not guide the initial decision to cath in suspected OMI
+
+Vasospastic and microvascular causes of MI are frequently missed without angiography
+
+Learning Points
+
+Acute coronary occlusion can present without classic STEMI criteria
+
+Coronary vasospasm often occurs at night or early morning
+
+Failure to recognize OMI patterns leads to preventable myocardial injury
+
+If a patient presents with ACS symptoms and a diagnostic ECG for OMI, they belong in the cath lab
+
+Delay based on symptom improvement or fear of false activation can result in large, avoidable infarctions

@@ -1,0 +1,1107 @@
+Atrial fibrillation: diagnosis and management
+Overview
+This guideline covers diagnosing and managing atrial fibrillation in adults. It includes
+guidance on providing the best care and treatment for people with atrial fibrillation,
+including assessing and managing risks of stroke and bleeding.
+See the MHRA advice on warfarin and other anticoagulants – monitoring of patients during
+the COVID-19 pandemic, which includes reports of supratherapeutic anticoagulation with
+warfarin.
+Who is it for?
+• Healthcare professionals
+• Commissioners and providers
+• People with atrial fibrillation, their families and carers
+
+ 
+Recommendations
+People have the right to be involved in discussions and make informed decisions
+about their care, as described in NICE's information on making decisions about your
+care.
+Making decisions using NICE guidelines explains how we use words to show the
+strength (or certainty) of our recommendations, and has information about
+prescribing medicines (including off-label use), professional guidelines, standards
+and laws (including on consent and mental capacity), and safeguarding.
+1.1 Detection and diagnosis
+1.1.1 Perform manual pulse palpation to assess for the presence of an irregular pulse if
+there is a suspicion of atrial fibrillation. This includes people presenting with any
+of the following:
+• breathlessness
+• palpitations
+• syncope or dizziness
+• chest discomfort
+• stroke or transient ischaemic attack. [2006]
+1.1.2 Perform a 12-lead electrocardiogram (ECG) to make a diagnosis of atrial
+fibrillation if an irregular pulse is detected in people with suspected atrial
+fibrillation with or without symptoms. [2021]
+1.1.3 In people with suspected paroxysmal atrial fibrillation undetected by 12-lead ECG
+recording:
+• use a 24-hour ambulatory ECG monitor if asymptomatic episodes are
+suspected or symptomatic episodes are less than 24 hours apart
+
+ 
+• use an ambulatory ECG monitor, event recorder or other ECG technology for
+a period appropriate to detect atrial fibrillation if symptomatic episodes are
+more than 24 hours apart. [2021]
+For a short explanation of why the committee made the 2021 recommendations and
+how they might affect practice, see the rationale and impact section on detection and
+diagnosis.
+Full details of the evidence and the committee's discussion are in evidence review A:
+effectiveness of tests for detection and evidence review B: accuracy of tests for
+detection.
+1.2 Assessment of stroke and bleeding risks
+Stroke risk
+1.2.1 Use the CHA DS -VASc stroke risk score to assess stroke risk in people with any
+2 2
+of the following:
+• symptomatic or asymptomatic paroxysmal, persistent or permanent atrial
+fibrillation
+• atrial flutter
+• a continuing risk of arrhythmia recurrence after cardioversion back to sinus
+rhythm or catheter ablation. [2021]
+See the section on review of people with atrial fibrillation for advice on
+reassessment of stroke risk.
+For a short explanation of why the committee made this recommendation and how it
+might affect practice, see the rationale and impact section on stroke risk.
+Full details of the evidence and the committee's discussion are in evidence review C
+and D: tools to predict stroke in people with atrial fibrillation.
+
+ 
+Bleeding risk
+1.2.2 Assess the risk of bleeding when:
+• considering starting anticoagulation in people with atrial fibrillation and
+• reviewing people already taking anticoagulation.
+Use the ORBIT bleeding risk score because evidence shows that it has a
+higher accuracy in predicting absolute bleeding risk than other bleeding risk
+tools. Accurate knowledge of bleeding risk supports shared decision making
+and has practical benefits, for example, increasing patient confidence and
+willingness to accept treatment when risk is low and prompting discussion of
+risk reduction when risk is high. Although ORBIT is the best tool for this
+purpose, other bleeding risk tools may need to be used until it is embedded
+in clinical pathways and electronic systems. [2021]
+1.2.3 Offer monitoring and support to modify risk factors for bleeding, including:
+• uncontrolled hypertension (see NICE's guideline on hypertension in adults)
+• poor control of international normalised ratio (INR) in patients on vitamin K
+antagonists
+• concurrent medication, including antiplatelets, selective serotonin reuptake
+inhibitors (SSRIs) and non-steroidal anti-inflammatory drugs (NSAIDs)
+• harmful alcohol consumption (see NICE's guideline on alcohol-use disorders:
+diagnosis, assessment and management of harmful drinking and alcohol
+dependence)
+• reversible causes of anaemia. [2021]
+Discussing the results of the risk assessment
+1.2.4 Discuss the results of the assessments of stroke and bleeding risk with the
+person taking into account their specific characteristics, for example
+comorbidities, and their individual preferences. For further guidance, see the
+section on enabling patients to actively participate in their care in NICE's
+
+ 
+guideline on patient experience in adult NHS services. [2021]
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on bleeding risk.
+Full details of the evidence and the committee's discussion are in evidence review E
+and F: risk stratification tools for predicting bleeding in people with atrial fibrillation.
+1.3 Assessment of cardiac function
+1.3.1 Perform transthoracic echocardiography (TTE) in people with atrial fibrillation:
+• for whom a baseline echocardiogram is important for long-term management
+• for whom a rhythm-control strategy that includes cardioversion (electrical or
+pharmacological) is being considered
+• in whom there is a high risk or a suspicion of underlying structural or
+functional heart disease (such as heart failure or heart murmur) that
+influences their subsequent management (for example, choice of
+antiarrhythmic drug)
+• in whom refinement of clinical risk stratification for antithrombotic therapy is
+needed (see section 1.2 on assessment of stroke and bleeding risks and
+section 1.6 on stroke prevention). [2006, amended 2014]
+1.3.2 Do not routinely perform TTE solely for the purpose of further stroke risk
+stratification in people with atrial fibrillation for whom the need to start
+anticoagulation therapy has already been agreed on appropriate clinical criteria
+(see section 1.2 on assessment of stroke and bleeding risks and section 1.6 on
+stroke prevention). [2006, amended 2014]
+1.3.3 Perform transoesophageal echocardiography (TOE) in people with atrial
+fibrillation:
+• when TTE demonstrates an abnormality (such as valvular heart disease) that
+warrants further specific assessment
+
+ 
+• in whom TTE is technically difficult and/or of questionable quality and when
+there is a need to exclude cardiac abnormalities
+• for whom TOE-guided cardioversion is being considered. [2006]
+1.4 Personalised package of care and information
+1.4.1 Offer people with atrial fibrillation a personalised package of care. Ensure that the
+package of care is documented and delivered, and that it covers:
+• stroke awareness and measures to prevent stroke
+• rate control
+• assessment of symptoms for rhythm control
+• who to contact for advice if needed
+• psychological support if needed
+• up-to-date and comprehensive education and information on:
+－ cause, effects and possible complications of atrial fibrillation
+－ management of rate and rhythm control
+－ anticoagulation
+－ practical advice on anticoagulation in line with the recommendations on
+information and support for people having anticoagulation treatment in
+NICE's guideline on venous thromboembolic diseases
+－ support networks (for example, cardiovascular charities). [2014]
+1.4.2 Follow the recommendations in NICE's guideline on shared decision making.
+[2014]
+
+ 
+Medicines adherences and optimisation
+1.4.3 To support adherence and ensure safe and effective medicines use in people
+with atrial fibrillation, follow the recommendations in NICE's guidelines on
+medicines adherence and medicines optimisation. [2021]
+1.5 Referral for specialised management
+1.5.1 Refer people promptly at any stage if treatment fails to control the symptoms of
+atrial fibrillation and more specialised management is needed. This should be
+within 4 weeks after the failed treatment or after recurrence of atrial fibrillation
+after cardioversion. [2014]
+1.6 Stroke prevention
+Anticoagulation
+1.6.1 When discussing the benefits and risks of anticoagulation use clinical risk profiles
+and personal preferences to guide treatment choices. Discuss with the person
+that:
+• for most people the benefit of anticoagulation outweighs the bleeding risk
+• for people with an increased risk of bleeding, the benefit of anticoagulation
+may not always outweigh the bleeding risk, and careful monitoring of
+bleeding risk is important. [2021]
+1.6.2 When deciding between anticoagulation treatment options:
+• Discuss the risks and benefits of different drugs with the person and follow
+the recommendations in NICE's guideline on shared decision making.
+• Follow the recommendations on patient involvement in decisions about
+medicines in NICE's guideline on medicines adherence and patient decision
+aids in NICE's guideline on medicines optimisation.
+
+ 
+• Take into account any contraindications for each drug and follow the
+guidance in the British National Formulary and the MHRA advice on direct-
+acting oral anticoagulants, in particular for advice on dosages in people with
+renal impairment, reversal agents and monitoring. [2021]
+1.6.3 Offer anticoagulation with a direct-acting oral anticoagulant to people with atrial
+fibrillation and a CHA DS -VASc score of 2 or above, taking into account the risk
+2 2
+of bleeding. Apixaban, dabigatran, edoxaban and rivaroxaban are recommended
+as options, when used in line with the criteria specified in the relevant NICE
+technology appraisal guidance (see the section on direct-acting oral
+anticoagulant treatment options). [2021]
+1.6.4 Consider anticoagulation with a direct-acting oral anticoagulant for men with
+atrial fibrillation and a CHA DS -VASc score of 1, taking into account the risk of
+2 2
+bleeding. Apixaban, dabigatran, edoxaban and rivaroxaban are recommended as
+options, when used in line with the criteria specified in the relevant NICE
+technology appraisal guidance (see the section on direct-acting oral
+anticoagulant treatment options). [2021]
+1.6.5 If direct-acting oral anticoagulants are contraindicated, not tolerated or not
+suitable in people with atrial fibrillation, offer a vitamin K antagonist. See the
+section on self-monitoring and self-management of vitamin K antagonists. [2021]
+1.6.6 For adults with atrial fibrillation who are already taking a vitamin K antagonist and
+are stable, continue with their current medication and discuss the option of
+switching treatment at their next routine appointment, taking into account the
+person's time in therapeutic range. [2021]
+1.6.7 Do not offer stroke prevention therapy with anticoagulation to people aged under
+65 years with atrial fibrillation and no risk factors other than their sex (that is,
+very low risk of stroke equating to a CHA DS -VASc score of 0 for men or 1 for
+2 2
+women). [2021]
+1.6.8 Do not withhold anticoagulation solely because of a person's age or their risk of
+falls. [2021]
+
+ 
+Direct-acting oral anticoagulant treatment options
+1.6.9 For direct-acting oral anticoagulants recommended as options in NICE
+technology appraisal guidance for preventing stroke and systemic embolism in
+some people with atrial fibrillation, see the guidance on:
+• edoxaban (TA355, 2021)
+• apixaban (TA275, 2021)
+• rivaroxaban (TA256, 2021)
+• dabigatran etexilate (TA249, 2021).
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on stroke prevention.
+Full details of the evidence and the committee's discussion are in evidence review G1:
+anticoagulant therapy for stroke prevention in people with atrial fibrillation and
+evidence review G2: anticoagulant therapy health economics analysis.
+Assessing anticoagulation control with vitamin K antagonists
+1.6.10 Calculate the person's time in therapeutic range (TTR) at each visit. When
+calculating TTR:
+• use a validated method of measurement such as the Rosendaal method for
+computer-assisted dosing or proportion of tests in range for manual dosing
+• exclude measurements taken during the first 6 weeks of treatment
+• calculate TTR over a maintenance period of at least 6 months. [2014]
+1.6.11 Reassess anticoagulation for a person whose anticoagulation is poorly controlled
+shown by any of the following:
+• 2 INR values higher than 5 or 1 INR value higher than 8 within the past
+6 months
+
+ 
+• 2 INR values less than 1.5 within the past 6 months
+• TTR less than 65%. [2014]
+1.6.12 When reassessing anticoagulation, take into account and if possible address the
+following factors that may contribute to poor anticoagulation control:
+• cognitive function
+• adherence to prescribed therapy
+• illness
+• interacting drug therapy
+• lifestyle factors including diet and alcohol consumption. [2014]
+1.6.13 If poor anticoagulation control cannot be improved, evaluate the risks and
+benefits of alternative stroke prevention strategies and discuss these with the
+person. [2014]
+Self-monitoring and self-management of vitamin K antagonists
+NICE has developed diagnostics guidance on atrial fibrillation and heart valve disease:
+self-monitoring coagulation status using point-of-care coagulometers (the CoaguChek XS
+system).
+Antiplatelets
+For guidance on antiplatelet therapy for people who have had a myocardial infarction and
+are having anticoagulation, see antiplatelet therapy for people with an ongoing separate
+indication for anticoagulation in NICE's guideline on acute coronary syndromes.
+1.6.14 Do not offer aspirin monotherapy solely for stroke prevention to people with atrial
+fibrillation. [2014]
+
+ 
+Review of people with atrial fibrillation
+1.6.15 For people who are not taking an anticoagulant, review stroke risk when they
+reach age 65 or if they develop any of the following at any age:
+• diabetes
+• heart failure
+• peripheral arterial disease
+• coronary heart disease
+• stroke, transient ischaemic attack or systemic thromboembolism. [2014]
+1.6.16 For people who are not taking an anticoagulant because of bleeding risk or other
+factors, review stroke and bleeding risks annually, and ensure that all reviews and
+decisions are documented. [2014]
+1.6.17 For people who are taking an anticoagulant, review the need for anticoagulation
+and the quality of anticoagulation (taking into account MHRA advice on direct-
+acting oral anticoagulants about bleeding risk and the need to monitor renal
+function in patients with renal impairment) at least annually, or more frequently if
+clinically relevant events occur affecting anticoagulation or bleeding risk. [2014]
+Left atrial appendage occlusion
+1.6.18 Consider left atrial appendage occlusion (LAAO) if anticoagulation is
+contraindicated or not tolerated and discuss the benefits and risks of LAAO with
+the person. For more information see NICE's interventional procedure guidance
+on percutaneous occlusion of the left atrial appendage in non-valvular atrial
+fibrillation for the prevention of thromboembolism. [2014]
+1.6.19 Do not offer LAAO as an alternative to anticoagulation unless anticoagulation is
+contraindicated or not tolerated. [2014]
+
+ 
+1.7 Rate and rhythm control
+This section covers rate and rhythm control in non-acute settings. See section 1.8 for rate
+and rhythm control for people presenting acutely (either new onset or destabilisation of
+existing atrial fibrillation).
+Rate control
+1.7.1 Offer rate control as the first-line treatment strategy for atrial fibrillation except in
+people:
+• whose atrial fibrillation has a reversible cause
+• who have heart failure thought to be primarily caused by atrial fibrillation
+• with new-onset atrial fibrillation
+• with atrial flutter whose condition is considered suitable for an ablation
+strategy to restore sinus rhythm
+• for whom a rhythm-control strategy would be more suitable based on clinical
+judgement. [2014]
+1.7.2 Offer either a standard beta-blocker (that is, a beta-blocker other than sotalol) or
+a rate-limiting calcium-channel blocker (diltiazem or verapamil) as initial
+rate-control monotherapy to people with atrial fibrillation unless the person has
+the features described in recommendation 1.7.4. Base the choice of drug on the
+person's symptoms, heart rate, comorbidities and preferences. [2021]
+In April 2021, this was an off-label use of diltiazem. See NICE's information on
+prescribing medicines.
+1.7.3 For people with atrial fibrillation and concomitant heart failure, follow the
+recommendations on the use of beta-blockers and avoiding calcium-channel
+blockers in NICE's guideline on chronic heart failure. [2021]
+1.7.4 Consider digoxin monotherapy for initial rate control for people with
+non-paroxysmal atrial fibrillation if:
+
+ 
+• the person does no or very little physical exercise or
+• other rate-limiting drug options are ruled out because of comorbidities or the
+person's preferences. [2021]
+1.7.5 If monotherapy does not control the person's symptoms, and if continuing
+symptoms are thought to be caused by poor ventricular rate control, consider
+combination therapy with any 2 of the following:
+• a beta-blocker
+• diltiazem
+• digoxin. [2021]
+In April 2021, this was an off-label use of diltiazem. See NICE's information on
+prescribing medicines.
+1.7.6 Do not offer amiodarone for long-term rate control. [2021]
+For a short explanation of why the committee made the 2021 recommendations and
+how they might affect practice, see the rationale and impact section on rate control.
+Full details of the evidence and the committee's discussion are in evidence review I:
+non-ablative rate control therapies.
+Rhythm control
+1.7.7 Consider pharmacological and/or electrical rhythm control for people with atrial
+fibrillation whose symptoms continue after heart rate has been controlled or for
+whom a rate-control strategy has not been successful. [2014]
+Antiarrhythmic drug therapy
+1.7.8 Assess the need for drug treatment for long-term rhythm control, taking into
+account the person's preferences, associated comorbidities, risks of treatment
+
+ 
+and likelihood of recurrence of atrial fibrillation. [2014]
+1.7.9 Do not offer class 1c antiarrhythmic drugs such as flecainide or propafenone to
+people with known ischaemic or structural heart disease. [2014]
+1.7.10 If drug treatment for long-term rhythm control is needed, consider a standard
+beta-blocker (that is, a beta-blocker other than sotalol) as first-line treatment
+unless there are contraindications. [2014]
+1.7.11 If beta-blockers are contraindicated or unsuccessful, assess the suitability of
+alternative drugs for rhythm control, taking comorbidities into account. [2014]
+1.7.12 Dronedarone is recommended in NICE technology appraisal guidance as a
+second-line treatment option for long-term rhythm control in some people after
+successful cardioversion. For full details, see the guidance on dronedarone
+(TA197, 2012). [2014]
+1.7.13 Consider amiodarone for people with left ventricular impairment or heart failure.
+[2014]
+1.7.14 In people with infrequent paroxysms and few symptoms, or if symptoms are
+induced by known precipitants (such as alcohol, caffeine), a 'no drug treatment'
+strategy or a 'pill-in-the-pocket' strategy (in which antiarrhythmic drugs are taken
+only when an episode starts) should be considered and discussed with the
+person. [2006]
+1.7.15 In people with paroxysmal atrial fibrillation, a 'pill-in-the-pocket' strategy should
+be considered for those who:
+• have no history of left ventricular dysfunction, or valvular or ischaemic heart
+disease and
+• have a history of infrequent symptomatic episodes of paroxysmal atrial
+fibrillation and
+• have a systolic blood pressure greater than 100 mmHg and a resting heart
+rate above 70 bpm and
+• are able to understand how to, and when to, take the medication. [2006]
+
+ 
+Cardioversion
+1.7.16 For people having cardioversion for atrial fibrillation that has persisted for longer
+than 48 hours, offer electrical (rather than pharmacological) cardioversion.
+[2014]
+1.7.17 Consider amiodarone therapy starting 4 weeks before and continuing for up to
+12 months after electrical cardioversion to maintain sinus rhythm, and discuss the
+benefits and risks of amiodarone with the person. [2014]
+1.7.18 For people with atrial fibrillation of greater than 48 hours' duration, in whom
+elective cardioversion is indicated:
+• both transoesophageal echocardiography (TOE)-guided cardioversion and
+conventional cardioversion should be considered equally effective
+• a TOE-guided cardioversion strategy should be considered:
+－ if experienced staff and appropriate facilities are available and
+－ if a minimal period of precardioversion anticoagulation is indicated due to
+the person's choice or bleeding risks. [2006]
+Left atrial ablation
+1.7.19 If drug treatment is unsuccessful, unsuitable or not tolerated in people with
+symptomatic paroxysmal or persistent atrial fibrillation:
+• consider radiofrequency point-by-point ablation or
+• if radiofrequency point-by-point ablation is assessed as being unsuitable,
+consider cryoballoon ablation or laser balloon ablation. [2021]
+1.7.20 When considering left atrial ablation, discuss the risks and benefits and take into
+account the person's preferences. In particular, explain that the procedure is not
+always effective and that the resolution of symptoms may not be long-lasting.
+[2021]
+
+ 
+1.7.21 Consider left atrial surgical ablation at the same time as other cardiothoracic
+surgery for people with symptomatic atrial fibrillation. [2014]
+For NICE interventional procedures guidance on left atrial ablation for atrial fibrillation, see
+the NICE interventional procedures guidance on our topic page on heart rhythm
+conditions.
+For a short explanation of why the committee made the 2021 recommendations and
+how they might affect practice, see the rationale and impact section on left atrial
+ablation.
+Full details of the evidence and the committee's discussion are in evidence review J1:
+ablation, evidence review J2: ablation network meta-analysis and evidence review J3:
+ablation cost-effectiveness analysis.
+Preventing recurrence after ablation
+1.7.22 Consider antiarrhythmic drug treatment for 3 months after left atrial ablation to
+prevent recurrence of atrial fibrillation, taking into account the person's
+preferences, and the risks and potential benefits. [2021]
+1.7.23 Reassess the need for antiarrhythmic drug treatment at 3 months after left atrial
+ablation. [2021]
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on preventing
+recurrence after ablation.
+Full details of the evidence and the committee's discussion are in evidence review K:
+antiarrhythmic drugs after ablation.
+Pace and ablate strategy
+1.7.24 Consider pacing and atrioventricular node ablation for people with permanent
+
+ 
+atrial fibrillation with symptoms or left ventricular dysfunction thought to be
+caused by high ventricular rates. [2014]
+1.7.25 When considering pacing and atrioventricular node ablation, reassess symptoms
+and the consequent need for ablation after pacing has been carried out and drug
+treatment further optimised. [2014]
+1.7.26 Consider left atrial catheter ablation before pacing and atrioventricular node
+ablation for people with paroxysmal atrial fibrillation or heart failure caused by
+non-permanent (paroxysmal or persistent) atrial fibrillation. [2014]
+1.8 Management for people presenting acutely with
+atrial fibrillation
+Rate and rhythm control for people presenting acutely
+1.8.1 Carry out emergency electrical cardioversion, without delaying to achieve
+anticoagulation, in people with life-threatening haemodynamic instability caused
+by new-onset atrial fibrillation. [2014]
+1.8.2 In people with atrial fibrillation presenting acutely without life-threatening
+haemodynamic instability:
+• offer either rate or rhythm control if the onset of the arrhythmia is less than
+48 hours
+• offer rate control if onset is more than 48 hours or is uncertain. [2014]
+1.8.3 In people with atrial fibrillation presenting acutely with suspected concomitant
+acute decompensated heart failure, seek senior specialist input on the use of
+beta-blockers and do not use calcium-channel blockers. [2021]
+1.8.4 Consider either pharmacological or electrical cardioversion depending on clinical
+circumstances and resources in people with new-onset atrial fibrillation who will
+be treated with a rhythm-control strategy. [2014]
+
+ 
+1.8.5 If pharmacological cardioversion has been agreed on clinical and resource
+grounds for new-onset atrial fibrillation, offer:
+• a choice of flecainide or amiodarone to people with no evidence of structural
+or ischaemic heart disease or
+• amiodarone to people with evidence of structural heart disease. [2014]
+1.8.6 In people with atrial fibrillation in whom the duration of the arrhythmia is greater
+than 48 hours or uncertain and considered for long-term rhythm control, delay
+cardioversion until they have been maintained on therapeutic anticoagulation for
+a minimum of 3 weeks. During this period offer rate control as appropriate.
+[2006, amended 2014]
+1.8.7 Do not offer magnesium or a calcium-channel blocker for pharmacological
+cardioversion. [2014]
+For a short explanation of why the committee made the 2021 recommendation and
+how it might affect practice, see the rationale and impact section on rate and rhythm
+control for people presenting acutely.
+Full details of the evidence and the committee's discussion are in evidence review I:
+non-ablative rate control therapies.
+Anticoagulation for people presenting acutely with atrial
+fibrillation
+1.8.8 In people with new-onset atrial fibrillation who are receiving no, or
+subtherapeutic, anticoagulation therapy:
+• in the absence of contraindications, offer heparin at initial presentation
+• continue heparin until a full assessment has been made and appropriate
+antithrombotic therapy has been started, based on risk stratification (see
+section 1.2 on assessment of stroke and bleeding risks and section 1.6 on
+stroke prevention). [2006, amended 2014]
+
+ 
+1.8.9 In people with a confirmed diagnosis of atrial fibrillation of recent onset (less than
+48 hours since onset), offer oral anticoagulation if:
+• stable sinus rhythm is not successfully restored within the same 48-hour
+period after onset of atrial fibrillation or
+• there are factors indicating a high risk of atrial fibrillation recurrence,
+including history of failed cardioversion, structural heart disease, prolonged
+atrial fibrillation (more than 12 months), or previous recurrences or
+• it is recommended in section 1.2 on assessment of stroke and bleeding risks
+and section 1.6 on stroke prevention. [2006, amended 2014]
+1.8.10 In people with new-onset atrial fibrillation, if there is uncertainty over the precise
+time since onset, offer oral anticoagulation as for persistent atrial fibrillation (see
+section 1.2 on assessment of stroke and bleeding risks and section 1.6 stroke
+prevention). [2006, amended 2014]
+1.9 Initial management of stroke and atrial
+fibrillation
+1.9.1 For guidance on the initial management of stroke and atrial fibrillation see
+recommendation 1.4.17 in NICE's guideline on stroke and transient ischaemic
+attack in over 16s. [2014]
+1.10 Preventing and managing postoperative atrial
+fibrillation
+Preventing postoperative atrial fibrillation
+1.10.1 In people having cardiothoracic surgery:
+• reduce the risk of postoperative atrial fibrillation by offering 1 of the following:
+－ amiodarone
+
+ 
+－ a standard beta-blocker (that is, a beta-blocker other than sotalol)
+－ a rate-limiting calcium-channel blocker (diltiazem or verapamil)
+• do not offer digoxin. [2006, amended 2014]
+In April 2021, this was an off-label use of diltiazem. See NICE's information on
+prescribing medicines.
+1.10.2 In people having cardiothoracic surgery who are already on beta-blocker therapy,
+continue this treatment unless contraindications develop (such as postoperative
+bradycardia or hypotension). [2006, amended 2014]
+1.10.3 Do not start statins in people having cardiothoracic surgery solely to prevent
+postoperative atrial fibrillation. [2021]
+1.10.4 In people having cardiothoracic surgery who are already on statins, continue this
+treatment. For further advice on statins for the prevention of cardiovascular
+disease, see NICE's guideline on cardiovascular disease: risk assessment and
+reduction. [2021]
+For a short explanation of why the committee made the 2021 recommendations and
+how they might affect practice, see the rationale and impact section on preventing
+postoperative atrial fibrillation.
+Full details of the evidence and the committee's discussion are in evidence review M:
+statins for preventing atrial fibrillation after cardiothoracic surgery.
+Managing postoperative atrial fibrillation
+Atrial fibrillation after cardiothoracic surgery
+1.10.5 Consider either a rhythm-control or rate-control strategy for the initial treatment
+of new-onset postoperative atrial fibrillation after cardiothoracic surgery. [2021]
+1.10.6 If a rhythm-control strategy is chosen, reassess the need for antiarrhythmic drug
+
+ 
+treatment at a suitable time point (usually at around 6 weeks). [2021]
+Atrial fibrillation after non-cardiothoracic surgery
+1.10.7 Manage postoperative atrial fibrillation after non-cardiothoracic surgery in the
+same way as for new-onset atrial fibrillation with any other cause. [2006,
+amended 2014]
+Antithrombotic therapy for postoperative atrial fibrillation
+1.10.8 In the prophylaxis and management of postoperative atrial fibrillation, use
+appropriate antithrombotic therapy and correct identifiable causes (such as
+electrolyte imbalance or hypoxia). [2006, amended 2014]
+For a short explanation of why the committee made the 2021 recommendations and
+how they might affect practice, see the rationale and impact section on managing
+atrial fibrillation after cardiothoracic surgery.
+Full details of the evidence and the committee's discussion are in evidence review L:
+treatment strategies for atrial fibrillation after cardiothoracic surgery.
+1.11 Stopping anticoagulation
+1.11.1 In people with a diagnosis of atrial fibrillation, do not stop anticoagulation solely
+because atrial fibrillation is no longer detectable. [2021]
+1.11.2 Base decisions to stop anticoagulation on a reassessment of stroke and bleeding
+risk using CHA DS -VASc and ORBIT and a discussion of the person's
+2 2
+preferences. [2021]
+
+ 
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on stopping
+anticoagulation.
+Full details of the evidence and the committee's discussion are in evidence review H:
+discontinuing anticoagulation in people whose atrial fibrillation has resolved.
+Terms used in this guideline
+This section defines terms that have been used in a particular way for this guideline.
+People with atrial fibrillation presenting acutely
+People presenting with atrial fibrillation of definite recent onset or with destabilisation of
+existing atrial fibrillation. This does not include people with atrial fibrillation that has been
+discovered incidentally, for example through pulse palpitation before routine blood
+pressure measurement.
+Pill-in-the-pocket strategy
+The person self-manages paroxysmal atrial fibrillation by taking antiarrhythmic drugs only
+when an episode of atrial fibrillation starts.
+Paroxysmal atrial fibrillation
+Episodes of atrial fibrillation that stop within 7 days, usually within 48 hours, without any
+treatment.
+
+ 
+Recommendations for research
+As part of the 2021 update, the guideline committee made 4 new research
+recommendations (marked [2021]). Research recommendations retained from the
+2014 guideline are labelled [2014].
+Key recommendations for research
+1 Tests to diagnose persistent atrial fibrillation
+What is the diagnostic accuracy of key index tests (such as the KardiaMobile heart
+monitor (AliveCor), MyDiagnostik, Microlife BP monitors, iPhone plethysmography and
+pulse palpation) compared with the gold standard of 12-lead ECG in people with risk
+factors for or symptoms of atrial fibrillation? [2021]
+For a short explanation of why the committee made the recommendation for research,
+see the rationale on detection and diagnosis.
+Full details of the evidence and the committee's discussion are in evidence review B:
+accuracy of tests for detection.
+2 Tests to diagnose paroxysmal atrial fibrillation
+What is the diagnostic accuracy of key index tests compared with the gold standard of
+prolonged ambulatory monitoring in people suspected of having paroxysmal atrial
+fibrillation? [2021]
+For a short explanation of why the committee made the recommendation for research,
+see the rationale on detection and diagnosis.
+Full details of the evidence and the committee's discussion are in evidence review B:
+accuracy of tests for detection.
+
+ 
+3 Stopping anticoagulation after ablation
+What is the clinical and cost effectiveness of stopping anticoagulation in people whose
+atrial fibrillation has resolved after ablation? [2021]
+For a short explanation of why the committee made the recommendation for research,
+see the rationale on stopping anticoagulation.
+Full details of the evidence and the committee's discussion are in evidence review H:
+discontinuing anticoagulation in people whose atrial fibrillation has resolved.
+4 Stopping anticoagulation after resolution of postoperative atrial
+fibrillation
+What is the clinical and cost effectiveness of stopping anticoagulation in people whose
+postoperative atrial fibrillation after cardiac surgery has resolved? [2021]
+For a short explanation of why the committee made the recommendation for research,
+see the rationale on stopping anticoagulation.
+Full details of the evidence and the committee's discussion are in evidence review H:
+discontinuing anticoagulation in people whose atrial fibrillation has resolved.
+5 Cognitive behavioural therapy for people with atrial fibrillation
+What is the clinical and cost effectiveness of cognitive behavioural therapy compared with
+usual care for people with newly diagnosed atrial fibrillation? [2014]
+Other recommendations for research
+6 Rate-control drug treatment for people aged 75 and over with
+atrial fibrillation
+What is the comparative effectiveness of the 3 main drug classes used for rate control
+
+ 
+(beta-blockers, calcium-channel blockers and digoxin) in people aged 75 and over with
+atrial fibrillation in controlling symptoms, improving quality of life and reducing morbidity
+and mortality? [2014]
+7 Stroke risk assessment
+Can routine data from UK primary care databases clarify stroke risk in people with atrial
+fibrillation according to baseline risk factors and treatment? [2014]
+
+ 
+Rationale and impact
+These sections briefly explain why the committee made the recommendations and how
+they might affect practice.
+Detection and diagnosis
+Recommendations 1.1.2 and 1.1.3
+Why the committee made the recommendations
+The evidence did not support changing the recommended diagnostic tests to either
+replace 12-lead ECG as the test to confirm persistent atrial fibrillation or replace pulse
+palpation as the initial step for persistent atrial fibrillation in a 2-step strategy. The
+committee clarified that 12-lead ECG should be used as the test to confirm atrial
+fibrillation, to prevent the use of less accurate ECG devices, such as mobile and lead-I ECG
+devices. The committee agreed that, although the evidence showed that accuracy varied,
+there was some evidence that new devices were accurate and showed promise. It was
+noted that NICE has produced diagnostics guidance on lead-I ECG devices for detecting
+symptomatic atrial fibrillation using single time point testing in primary care. The
+committee made a research recommendation on tests to diagnose persistent atrial
+fibrillation to encourage further high-quality research in this area to guide future practice.
+The committee agreed that the evidence on tests to detect paroxysmal atrial fibrillation
+was not clear enough to warrant a change in practice from the 2014 recommendation.
+However, the evidence did show that longer durations of detection increased accuracy.
+The committee made a research recommendation on tests to diagnose paroxysmal atrial
+fibrillation.
+How the recommendations might affect practice
+The recommendations reflect current good practice and are unlikely to have an impact on
+practice.
+Return to recommendations
+
+ 
+Stroke risk
+Recommendation 1.2.1
+Why the committee made the recommendations
+The committee decided to prioritise identifying people above or below a certain risk
+threshold (discrimination) in its interpretation of the evidence rather than estimating a
+person's risk of stroke in absolute terms.
+The evidence suggested that a score of 2 or more is the ideal threshold for the
+CHA DS -VASC in terms of indicating the need for anticoagulation. (Men with a
+2 2
+CHA DS -VASc score of 1 were regarded as being at intermediate risk, and a group in
+2 2
+whom anticoagulation should also be considered.) The evidence showed that this
+threshold of 2 or more offered a good combination of high sensitivity (0.92) and adequate
+specificity (0.23).
+The high sensitivity means that the tool would correctly identify almost everyone who
+would later have a stroke if they did not receive anticoagulants. Importantly, this will allow
+them to be prescribed anticoagulants to reduce their risk of stroke.
+The adequate specificity means that 23% of the people who would not later have a stroke
+(even when not taking anticoagulants) would be correctly identified as not needing
+anticoagulation. This would prevent these people from having adverse events from
+anticoagulants. It also means that 77% of people who would not later have a stroke
+(without anticoagulation) would be wrongly identified as needing anticoagulation.
+However, this was thought to be acceptable given the perceived lesser harms from
+unnecessarily giving anticoagulants compared with not giving anticoagulants to people
+who need them, together with the inevitable trade-off between sensitivity and specificity.
+The ATRIA stroke risk score was shown to have better overall accuracy, but although it had
+better specificity than CHA DS -VASc (fewer false-positive results) it had lower sensitivity,
+2 2
+meaning that more people at risk would be missed (more false-negative results) compared
+with the CHA DS -VASc score. As already suggested, sensitivity was agreed by the
+2 2
+committee to be more important than specificity because the risks of unnecessary
+anticoagulation are outweighed by the risks of not treating people who need
+anticoagulation. In addition, the ATRIA risk score may result in a time delay in calculating
+the results.
+
+ 
+The committee also discussed that the evidence for the QStroke risk calculator suggested
+that it might be a useful tool. However, the evidence was limited, and they agreed that
+further research was needed.
+How the recommendation might affect practice
+The recommendation does not constitute a change in practice, and so there would not be
+a resource impact on the NHS.
+Return to recommendations
+Bleeding risk
+Recommendations 1.2.2 to 1.2.4
+Why the committee made the recommendations
+The committee agreed that anticoagulation should usually be considered in people at risk
+of stroke even if bleeding risk is high, and so a bleeding risk tool should not be used to
+provide a cut off for determining who should have anticoagulation. Instead, the tool should
+be used to provide accurate knowledge of absolute bleeding risk, which can support
+discussions between the person and their healthcare professional about bleeding risk
+modification and appropriate levels of vigilance. They therefore agreed that accurately
+estimating absolute risk (calibration) is more important than identifying a risk threshold for
+anticoagulation (discrimination) when choosing between different bleeding risk tools.
+The committee focused on calibration data for the tools with the most evidence: ORBIT,
+HAS-BLED and ATRIA. The calibration evidence clearly suggested that ORBIT was more
+accurate than HAS-BLED and ATRIA at predicting absolute risk of major bleeding, both for
+people using vitamin K antagonists and those using direct-acting oral anticoagulants.
+Importantly, ORBIT was better calibrated at all levels of major bleeding risk, including
+higher levels. ORBIT was also better at predicting absolute risk of intracranial
+haemorrhage.
+The discrimination data showed little difference between tools in predicting major
+bleeding, with some outcome measures showing no difference and others showing a slight
+benefit for either ORBIT or HAS-BLED. Evidence showed that ORBIT had a significantly
+
+ 
+higher specificity and a slighter lower sensitivity than the other tools, but the committee
+agreed that the lower sensitivity would not be a drawback when used to inform
+discussions of risk.
+The committee agreed that the evidence overall, and particularly the calibration data
+demonstrating higher accuracy of absolute risk, strongly supported ORBIT as the tool of
+choice.
+The committee agreed that NICE's previous advice on monitoring and addressing
+modifiable risk factors was still relevant and added reversible causes of anaemia because
+it is a component of the ORBIT tool.
+How the recommendations might affect practice
+Use of the ORBIT score is a change in practice, which will take time to implement. The
+committee considered that the more accurate prediction of the absolute risk of bleeding is
+a real advantage in supporting patients and clinicians in shared decision making, which
+should lead to better clinical outcomes. The committee considered carefully a number of
+practical issues set out in this section. Overall, the committee concluded that this change
+is one that is worth making.
+One potential concern discussed by the committee is that ORBIT does not include all of
+the modifiable risk factors included in HAS-BLED so does not serve as a reminder of these
+to clinicians. However, the committee considered that fully investigating modifiable risk
+factors is established clinical practice, regardless of the tool used.
+Another potential challenge is that ORBIT is not the recommended bleeding risk tool for
+other conditions (such as venous thromboembolism). Therefore, an initial transition period
+may be needed for training and education in both primary and secondary care while
+healthcare professionals become familiar with the tool. This will have a resource impact,
+although it will be time limited. The committee also noted that use of the ORBIT tool, and
+access to online versions, is straightforward.
+Finally, the committee also discussed that, unlike HAS-BLED, ORBIT is not embedded in GP
+systems, which may cause some initial practical difficulties. However, because this will
+involve changes to centralised software, it is thought that it will be straightforward to
+implement and ORBIT will quickly be included in GP systems. Neither tool is included in
+hospital systems although both are widely available on smartphone apps.
+
+ 
+Return to recommendations
+Stroke prevention
+Recommendations 1.6.1 to 1.6.8
+Why the committee made the recommendations
+Evidence from an analysis of several studies showed that direct-acting oral anticoagulants
+are more effective than warfarin for a number of outcomes. An economic model also
+showed that they offered a better balance of benefits to costs than warfarin. There were
+no studies directly comparing the direct-acting anticoagulants head-to-head but indirect
+comparisons based on the clinical evidence showed that the different direct-acting oral
+anticoagulants offered different benefits depending on the outcome considered. When all
+these outcomes were combined in the cost-effectiveness analysis, apixaban was the most
+clinically effective and cost-effective anticoagulant based on UK drug tariff prices at the
+time. However, the committee had concerns over the lack of head-to-head comparisons,
+differences in the study populations and uncertainties in the economic model.
+Based on the evidence and their experience, the committee decided not to recommend
+one direct-acting oral anticoagulant over the others, but instead to emphasise that
+treatment should be tailored to the person's clinical needs and preferences. Each
+anticoagulant has different risks and benefits that should be considered and fully
+discussed with the person as part of informed shared decision making. The committee
+highlighted that the choice might be affected by factors such as renal impairment and
+swallowing difficulties, and that healthcare professionals should refer to the BNF for
+advice on contraindications and cautions. They also stressed the importance of adherence
+and factors that might affect this, such as dosing frequency, when making the decision. If
+direct-acting oral anticoagulants are not suitable, for example in people with
+antiphospholipid syndrome, the committee agreed that a vitamin K antagonist should be
+offered.
+For people already established and stable on a vitamin K antagonist, the committee agreed
+that the benefits of changing to a direct-acting anticoagulant need to be discussed.
+Therefore, the risks and benefits of changing medication, the person's time in therapeutic
+range and the person's preferences should be explored at their next routine appointment.
+The committee agreed that the existing thresholds for the CHA DS -VASc score threshold
+2 2
+
+ 
+for anticoagulation are in line with current practice.
+Although bleeding risk scores may occasionally be used as a reason not to offer
+anticoagulation, the committee agreed that they should typically be used as a prompt to
+identify and manage modifiable risk factors for bleeding rather than as a reason for not
+offering anticoagulation in people at increased risk. The committee discussed that when
+anticoagulation is not given because of bleeding risk, people should have regular review
+and reconsideration for treatment.
+The committee were concerned that anticoagulation is sometimes not recommended for
+people at risk of falls and for older people, even though age is factored into the bleeding
+risk score and falls are rarely a cause of major haemorrhage. Age was therefore added to
+the previous recommendation on people at risk of falls to ensure that anticoagulation is
+offered in this population when needed. The benefits and harms should be discussed with
+the person.
+How the recommendations might affect practice
+The recommendations are likely to lead to a change in current practice, with a reduction in
+warfarin use. The committee noted that this has been a prescribing trend over recent
+years and it may lead to a contraction in warfarin clinic services. The unit cost of
+direct-acting anticoagulants is greater than that for warfarin, so there is likely to be a
+resource impact from increased use of direct-acting anticoagulants.
+Return to recommendations
+Rate control
+Recommendations 1.7.2 to 1.7.6
+Why the committee made the recommendations
+The committee made some updates to the 2014 recommendations, based on their
+experience and knowledge.
+The use of beta-blockers or rate-limiting calcium-channel blockers for initial rate-control
+treatment was retained by the committee because this is current practice and there was
+
+ 
+insufficient evidence to suggest an alternative option. The committee agreed that the
+choice of treatment should still be made based on the symptoms, heart rate, comorbidities
+and preferences of those being treated.
+The committee agreed that the recommendations should refer to NICE's guideline on
+chronic heart failure for advice on using beta-blockers and avoiding rate-limiting
+calcium-channel blockers such as diltiazem and verapamil in people who have atrial
+fibrillation with heart failure.
+The committee agreed that digoxin monotherapy for non-paroxysmal atrial fibrillation
+should continue to be considered for people who are sedentary. Based on their
+experience, the committee agreed that it may also be considered as a treatment option
+when other rate-limiting drugs are not suitable, so they expanded the recommendation in
+the previous guideline to also cover these circumstances. The committee were aware that
+some clinicians feel that digoxin monotherapy is often better than alternatives for
+improving symptoms; however, the lack of evidence currently available meant that the
+recommendation for digoxin was not expanded to cover further groups of people.
+In the absence of new evidence, the committee also agreed with the existing
+recommendation for combination therapy options if initial monotherapy fails, which is
+consistent with the committee's experience and current practice.
+There was a lack of evidence on long-term rate control, and the committee were aware of
+numerous serious side effects associated with the long-term use of amiodarone (including
+thyroid, lung and nerve damage), many of which are irreversible. The committee noted that
+although the most common side effects were less severe, the occurrence of severe side
+effects was unpredictable and long-term rate control with amiodarone should be avoided.
+Amiodarone should only be used as an interim therapy, for example while waiting for
+cardioversion, and would not usually be taken for longer than 12 months.
+How the recommendations might affect practice
+The recommendations reflect current practice. Digoxin monotherapy may now be an
+option in non-paroxysmal atrial fibrillation if comorbidities or patient preferences limit other
+rate-control drug choices. However, the committee agreed that this already happens in
+practice.
+Return to recommendations
+
+ 
+Left atrial ablation
+Recommendations 1.7.19 to 1.7.20
+Why the committee made the recommendations
+Ablation may be a treatment option if antiarrhythmic drug treatment has not been
+successful or is not tolerated. The committee reviewed new clinical and health economic
+evidence for the different types of ablation for people with paroxysmal atrial fibrillation and
+agreed that the catheter ablation techniques were the most clinically effective ablation
+options. Thoracoscopy and the hybrid techniques led to lower recurrence, but they also
+led to more serious adverse effects. There were no clear differences in efficacy between
+the 4 catheter ablation techniques: radiofrequency point-by-point, radiofrequency
+multi-electrode, laser and cryoballoon ablation.
+A new economic model was developed for the guideline using the clinical evidence from
+people with paroxysmal atrial fibrillation. It showed that radiofrequency point-by-point
+ablation was more cost effective over a lifetime than antiarrhythmic drug treatment and
+other ablation strategies in people for whom 1 or more antiarrhythmic drug has failed.
+Cryoballoon, radiofrequency multi-electrode and laser ablation were the second, third and
+fourth most cost-effective options respectively.
+The committee acknowledged that the NHS reference cost used for the catheter ablation
+procedures may not fully capture differences in resource use between the different
+techniques. However, despite further analysis to adjust costs and account for this,
+radiofrequency point-by-point ablation remained the most cost-effective option, and other
+catheter ablation techniques are therefore unlikely to provide a cost-effective use of NHS
+resources. Based on the economic model results the committee agreed that
+radiofrequency point-by-point ablation should be considered in people with symptomatic
+paroxysmal atrial fibrillation if drug treatment is unsuccessful, unsuitable or not tolerated.
+The committee noted that cryoballoon and laser ablation may be more suitable for some
+patients because they can sometimes be carried out without general anaesthesia, and
+cryoballoon ablation may be quicker to perform, with same-day discharge more likely.
+There is also an increased risk of fluid overload from saline irrigated radiofrequency
+ablation. They decided that either cryoballoon or laser ablation could be considered if
+radiofrequency point-by-point ablation is not suitable; for example, if a short procedure
+time is a priority or for people with a recent history of decompensated heart failure who
+
+ 
+are at increased risk of fluid overload. Radiofrequency multi-electrode was not included as
+an alternative due to its lower efficacy relative to cryoballoon and laser ablation and
+concerns about a higher risk of stroke.
+There was limited evidence for ablation in people with persistent atrial fibrillation. Despite
+this, the committee decided that the evidence, combined with their experience and
+knowledge (also noting the Packer et al. CABANA randomized clinical trial, 2019, which
+contained a mixed population of people with persistent and paroxysmal atrial fibrillation)
+was sufficient to support ablation as an option to be considered for those with persistent
+symptoms that are not alleviated by, or who cannot have, antiarrhythmic drugs. The
+committee agreed that ablation can be effective in people with persistent atrial fibrillation,
+and that this population might have as much to gain from ablation as people with
+paroxysmal symptoms. The committee agreed that the cost-effectiveness analyses of
+different types of ablation in paroxysmal atrial fibrillation could also be applied to this
+population.
+The committee emphasised the importance of discussing the risks and benefits of
+catheter ablation with the person, in particular the risk of adverse events. The discussion
+should also include that, in the experience of the committee, the effects of ablation may
+not be long term.
+How the recommendations might affect practice
+The committee noted that the recommendations are likely to reinforce current practice.
+Ablation is carried out in a relatively restricted population (approximately 1% to 2% of all
+people with atrial fibrillation currently have ablation) and is usually reserved for people in
+whom antiarrhythmic drugs have failed. The recommendation is likely to lead to a change
+in the types of ablation offered, with more people receiving radiofrequency point-by-point
+ablation and fewer having other catheter ablation techniques.
+Return to recommendations
+Preventing recurrence after ablation
+Recommendations 1.7.22 and 1.7.23
+
+ 
+Why the committee made the recommendations
+Most of the evidence on preventing recurrence after ablation was for amiodarone. The
+evidence suggested that amiodarone may reduce recurrence of atrial fibrillation after
+ablation. However, there was evidence of an increased risk of hospitalisation and the
+committee noted the known side effects of amiodarone, which, although rare, can be
+severe and life-threatening.
+There was a lack of evidence for other antiarrhythmic drugs and there were no
+comparisons between different antiarrhythmic drugs. Therefore, the committee agreed
+that there was too much uncertainty to recommend one specific antiarrhythmic drug over
+others.
+In addition, the studies often made no distinction between people who had been on
+antiarrhythmic drugs up to ablation and those who had not. There is variation in current
+practice on whether people who were not previously taking antiarrhythmic drugs should
+start them after ablation to reduce recurrence. However, the evidence did not support
+making separate recommendations to clarify this.
+The committee decided that antiarrhythmic drug treatment should be considered after
+ablation, but only after discussion with the person, taking into account their preferences
+for treatment and the potential individual risks and benefits. In particular, the committee
+noted that people should fully understand the potential adverse events associated with
+these drugs. While there is some variation, the committee agreed that good current
+practice is for patients taking antiarrhythmic drugs up to ablation to continue them for
+3 months after ablation and reassess the need for drug treatment after this time.
+How the recommendations might affect practice
+There is some variation in current practice. Practice is likely to change in some centres
+both in prescribing and in the need for a more formal reassessment of treatment at
+3 months. The impact on use of antiarrhythmic drugs is difficult to predict, but there may
+be an increase from current levels. Increased resources may be needed for reassessment,
+but it is anticipated that this could be performed at routine follow-up appointments with a
+cardiologist.
+Return to recommendations
+
+ 
+Rate and rhythm control for people presenting
+acutely
+Recommendation 1.8.3
+Why the committee made the recommendation
+The committee agreed that the evidence was too limited in quality and quantity to be able
+to specify a preferred rate-control drug for acute atrial fibrillation. Although there was
+some evidence that amiodarone was better than digoxin for rate control, the committee
+had concerns about the quality of the evidence and the short timeframe used in 1 study,
+which it agreed could disadvantage digoxin. In addition, there was limited evidence
+available for morbidity and adverse events for this comparison and no evidence identified
+for other drug classes.
+The committee highlighted that the existing recommendations gave no guidance on acute
+atrial fibrillation with acute decompensated heart failure. Using their expertise and
+experience the committee agreed that advice on the use of beta-blockers and rate-
+limiting calcium-channel blockers should be included because they can lead to further
+deterioration in people with pulmonary oedema caused by heart failure.
+How the recommendation might affect practice
+The recommendations do not constitute a change in practice, and so are unlikely to have a
+resource impact.
+Return to recommendations
+Preventing postoperative atrial fibrillation
+Recommendations 1.10.3 and 1.10.4
+Why the committee made the recommendations
+The committee noted that the most recent studies reviewed showed no benefit from
+statins in reducing atrial fibrillation after cardiothoracic surgery. This contrasted with
+analysis of the evidence overall, which showed a small but definite benefit from statins.
+
+ 
+The committee agreed that the evidence of no effect in the newer studies was important,
+because these studies were larger and of higher quality than the older studies included in
+the analysis.
+Although the newer studies suggested that statins did not affect the short-term risk of
+stroke, they did suggest a greater risk of mortality in the peri-operative period compared
+with placebo treatment or usual care. The committee agreed that although the additional
+risk of death was probably small, it was important, especially alongside the lack of
+convincing evidence of benefit.
+For these reasons, the committee decided that statins should not be given to prevent atrial
+fibrillation after cardiothoracic surgery. However, the committee wanted to highlight that
+statins have an important role in preventing cardiovascular events other than atrial
+fibrillation and that people already taking statins for other reasons should continue to do
+so.
+How the recommendations might affect practice
+The committee agreed that the recommendation would not constitute a change in
+practice, and that there would not be a resource impact on the NHS.
+Return to recommendations
+Managing atrial fibrillation after cardiothoracic
+surgery
+Recommendations 1.10.5 and 1.10.6
+Why the committee made the recommendations
+The evidence on managing postoperative atrial fibrillation after cardiothoracic surgery in
+people without pre-existing atrial fibrillation was limited – many of the studies reviewed
+were old and included small numbers of participants. There were few studies comparing
+drug classes, and the committee agreed that they could not recommend a particular class
+of drugs based on such limited evidence.
+One larger study comparing mixed rate control and rhythm control with a
+
+ 
+potassium-channel blocker (amiodarone) with or without rate control suggested little
+difference between the 2 groups. Based on this evidence and their experience, the
+committee decided that rhythm control could be considered but that the evidence no
+longer supported the stronger recommendation included in the 2014 guideline. The
+committee noted that postoperative atrial fibrillation often resolves naturally, meaning that
+rate control rather than rhythm control may be a suitable option for some people. Reducing
+the emphasis on rhythm-control strategies will allow rate-control strategies to be
+considered if appropriate for the person.
+The committee were also aware of the risk of adverse events if amiodarone, a rhythm
+control drug, is taken long-term. They highlighted that if a rhythm-control strategy is
+chosen, the need for rhythm control drugs should be reassessed at approximately 6
+weeks, in line with current practice, and they should not be continued automatically for
+long periods of time. The committee agreed that 6 weeks is an appropriate time point to
+assess the person's recovery, including for example prosthetic valve function, and to
+check if sinus rhythm has been restored.
+The committee did not make a separate recommendation for people with pre-existing
+atrial fibrillation because of a lack of evidence. The committee noted that most people
+undergoing mitral valve surgery with pre-existing atrial fibrillation would undergo left atrial
+surgery to treat atrial fibrillation at the same time.
+How the recommendations might affect practice
+Rhythm control for the treatment of new-onset atrial fibrillation after cardiothoracic
+surgery is current practice and amiodarone is most commonly used. This can still be
+considered, but there may be a reduction in the use of rhythm control in this population
+and an increase in the use of rate-control drugs instead.
+Return to recommendations
+Stopping anticoagulation
+Recommendations 1.11.1 and 1.11.2
+
+ 
+Why the committee made the recommendations
+There was limited evidence on whether to continue anticoagulation or to stop it and switch
+to aspirin after successful treatment of atrial fibrillation by catheter ablation. The
+committee agreed that the evidence was insufficient and that there was too much
+uncertainty in the results to make a recommendation based on the evidence. The
+committee therefore developed research recommendations on stopping anticoagulation
+after ablation and stopping anticoagulation after resolution of postoperative atrial
+fibrillation to encourage further research.
+The committee was concerned about the potential withdrawal of anticoagulation in people
+who had not had ablation or cardiac surgery for atrial fibrillation, but in whom sinus rhythm
+is now present and atrial fibrillation is no longer detectable. In particular, the committee
+noted that paroxysmal atrial fibrillation is not always detectable. Based on their
+experience, the committee made a consensus-based recommendation to ensure that
+decisions about stopping anticoagulation in this population are based on formal risk
+assessment of stroke and bleeding risks and patient preference.
+How the recommendations might affect practice
+The committee felt that the recommendation would not constitute a change in practice,
+and that there would not be a resource impact on the NHS.
+Return to recommendations
+
+ 
+Context
+Atrial fibrillation is the most common heart rhythm disorder (affecting approximately 2% of
+the adult population), and estimates suggest its prevalence is increasing. Atrial fibrillation
+causes palpitations and breathlessness in many people but it may be silent and
+undetected. If left untreated it is a significant risk factor for stroke and other morbidities: it
+is estimated that it is responsible for approximately 20% of all strokes and is associated
+with increased mortality. Men are more commonly affected than women and the
+prevalence increases with age and in underlying heart disease, diabetes, obesity and
+hypertension.
+Atrial fibrillation is typically detected as an irregular pulse or an irregular rhythm on an
+electrocardiogram (ECG). This may be an incidental finding or may arise while investigating
+symptoms suggestive of the disease. Because atrial fibrillation can be intermittent,
+detection and diagnosis may be challenging.
+The aim of treatment is to prevent complications, particularly stroke, and alleviate
+symptoms. Drug treatments include anticoagulants to reduce the risk of stroke and
+antiarrhythmics to restore or maintain the normal heart rhythm or to slow the heart rate in
+people who remain in atrial fibrillation. Non-pharmacological management includes
+electrical cardioversion, which may be used to 'shock' the heart back to its normal rhythm,
+and catheter or surgical ablation to create lesions to stop the triggers that cause atrial
+fibrillation. These procedures can markedly reduce the symptom burden when drug
+therapy is ineffective or not tolerated.
+This update focuses on areas of new evidence and changing practice since the 2014 NICE
+guideline. These include methods of identifying atrial fibrillation; assessing stroke and
+bleeding risk; antithrombotic agents; ablation strategies; preventing recurrence; and
+preventing and managing postoperative atrial fibrillation. This guideline update includes
+recommendations on these specific issues.
+The recommendations apply to adults (18 years or older) with atrial fibrillation, including
+paroxysmal (recurrent), persistent and permanent atrial fibrillation, and atrial flutter. They
+do not apply to people with congenital heart disease precipitating atrial fibrillation.
+
+ 
+Update information
+30 June 2021: We further corrected recommendation 1.2.2 on using the ORBIT score to
+assess bleeding risk to reinstate the link to the previous calculation tool, which was
+amended in error on 10 June. The tool includes the full criteria, including options for
+reduced haemoglobin and reduced haematocrit which are available once the patient's sex
+has been selected.
+10 June 2021: We amended recommendation 1.2.2 on using the ORBIT score to assess
+bleeding risk so that it links to a calculation tool that includes the full list of criteria,
+including reduced haemoglobin, reduced haematocrit and history of anaemia. We deleted
+a paragraph of text from the rationale and impact section for recommendation 1.8.3 that
+was included incorrectly.
+April 2021: We have reviewed the evidence and made new recommendations on diagnosis
+and assessment, assessment of stroke and bleeding risks, preventing stroke, rate and
+rhythm control, preventing recurrence, and preventing and managing postoperative atrial
+fibrillation. These recommendations are marked [2021].
+Recommendations marked [2014] and [2006] last had an evidence review in 2014 and
+2006 respectively. In some cases, minor changes have been made to the wording for
+clarity and to bring the language and style up to date, without changing the meaning.
+Minor changes since publication
+March 2025: We replaced technology appraisal guidance recommendations with links to
+the relevant guidance in the sections on direct-acting oral anticoagulant treatment options
+and antiarrhythmic drug therapy.
+August 2023: As part of our work to make our guidance more useful and usable, we are
+testing out some changes to improve the way we present our guidance.

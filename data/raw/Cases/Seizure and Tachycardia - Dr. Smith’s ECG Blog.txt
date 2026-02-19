@@ -1,0 +1,122 @@
+Case Summary
+
+A young man presented with altered mental status (AMS) and seizure-like activity. EMS was called by police after the patient was observed ingesting powder and pills, followed by erratic behavior. He was actively seizing on ED arrival; seizures resolved after 5 mg midazolam (Versed) administered prehospital.
+
+During secondary survey, a large amount of white powder was noted both in a bag and free-form around the genital area, raising concern for acute drug toxicity.
+
+Initial ECG Findings (ECG #1)
+
+Sinus rhythm, borderline tachycardia
+
+Markedly wide QRS: ~178 ms
+
+Large R wave in aVR
+
+Terminal right axis deviation
+
+Brugada-type morphology in V1–V2
+
+This ECG pattern is pathognomonic for sodium channel blockade.
+
+Although hyperkalemia can cause wide, bizarre QRS complexes, the combination of findings (large R in aVR + Brugada phenocopy + extreme QRS widening) strongly favors toxic sodium channel blockade, requiring immediate antidotal therapy.
+
+Etiology: Drugs Causing Sodium Channel Blockade
+
+Common causes include:
+
+Tricyclic antidepressants (TCAs)
+
+Class I antiarrhythmics (especially flecainide, procainamide)
+
+Cocaine
+
+Given the history of white powder ingestion and seizure, cocaine toxicity was the leading diagnosis in this case (though TCA overdose must always be considered in similar presentations).
+
+Management and ECG Response
+Immediate Treatment
+
+IV sodium bicarbonate administered immediately
+
+Each “amp”: 100 mL of 8.4% NaHCO₃ = 100 mEq sodium + 100 mEq bicarbonate
+
+Serial ECG Changes with Treatment
+
+QRS narrowed from 178 ms → 160 ms
+
+After additional bicarbonate doses:
+
+QRS → 130 ms
+
+Eventually normalized to ~110 ms (upper limit of normal)
+
+Brugada morphology gradually resolved
+
+Acid–Base Status
+
+Initial venous blood gas:
+
+pH 6.96
+
+pCO₂ 64
+
+HCO₃⁻ 14
+
+Repeat after treatment:
+
+pH 7.21
+
+pCO₂ 47
+
+HCO₃⁻ 18
+
+Severe combined metabolic and respiratory acidosis likely contributed to sodium channel toxicity and arrhythmogenic risk.
+
+Clinical Course
+
+Required intubation for airway protection and persistent stupor
+
+Bicarbonate infusion planned but ultimately not required as QRS remained normalized
+
+Urine drug screen positive for cocaine and fentanyl
+
+Discharged from ICU three days later with good outcome
+
+Key ECG Features of Sodium Channel Blockade
+
+QRS ≥ 100 ms
+
+In TCA toxicity, QRS > 100 ms is 100% sensitive for seizure risk
+
+Large R wave in aVR
+
+R ≥ 3 mm or R/S ratio > 0.7
+
+Terminal right axis deviation
+
+Brugada phenocopy (V1–V2)
+
+QT prolongation
+
+Bizarre QRS morphology
+
+Important Differential Consideration
+
+Hyperkalemia can mimic sodium channel blockade
+
+When uncertain, it is reasonable to give both IV calcium and IV sodium bicarbonate until diagnosis is clarified
+
+Key Learning Points
+
+Wide QRS + large R in aVR = sodium channel blockade until proven otherwise
+
+Treat immediately with sodium bicarbonate — do not wait for labs
+
+Serial ECGs are essential to guide therapy
+
+Drug-induced Brugada phenocopy is a known manifestation of sodium channel blockade
+
+Severe acidosis worsens sodium channel toxicity and must be corrected
+
+Bottom Line
+
+This case demonstrates classic sodium channel blockade toxicity, most consistent with cocaine ingestion, diagnosed by pathognomonic ECG findings and successfully treated with aggressive sodium bicarbonate therapy.

@@ -1,0 +1,329 @@
+Carnation Ambulatory Monitor for ambulatory detection of cardiac arrythmias
+Summary
+• The technology described in this briefing is Carnation Ambulatory Monitor (CAM). It is
+an ambulatory cardiac monitor used for detecting cardiac arrhythmias.
+• The innovative aspects are a low noise floor, leading to more accurate and clearer
+signal detection. The device can also be worn for up to 14 days.
+• The intended place in therapy would be as an alternative to existing ambulatory
+cardiac monitors in people with suspected arrhythmias.
+• The main points from the evidence summarised in this briefing are from 4 studies
+(including 3 prospective comparative studies and 1 retrospective study in children)
+including a total of 125 adults and children. They show that CAM is at least as effective
+as other ambulatory cardiac monitors in adults with suspected arrhythmias.
+• Key uncertainties around the evidence are that the study sample sizes are small.
+
+ 
+• The cost of CAM is between £110 and £145 per person (if the analysis is done in the
+hospital) or £150 to £200 per person (if the analysis is done externally by the
+company; all excluding VAT), depending on the number of days recorded, if the device
+is posted and analysis costs. The cost of standard care for electrocardiogram
+monitoring or stress testing is £127 for outpatients and £62 as a directly accessed
+diagnostic service.
+The technology
+Carnation Ambulatory Monitor (CAM; Bardy Diagnostics, Inc.) is a P-wave centric
+electrocardiogram (ECG) patch monitor for people with suspected cardiac arrhythmias.
+The device can monitor a person remotely for up to 14 days. The device is placed along
+the sternum to optimise P-wave signal capture. The device comprises of a battrode which
+has 2 electrodes, one below where the monitor will clip in and the second located on the
+xyphoid point. The battrode has a slim hourglass shape and has long-term adhesive
+(suitable for sensitive skin) to hold the device in place on the skin. A recorder clips into the
+battrode before being attached to the sternum. The recorder has a button which is
+pressed to start recording and is then additionally pressed when the patient is
+experiencing a symptom. The timings of the start of the recordings and symptom events
+needs to be recorded in the supplied patient diary.
+After the CAM patch has collected recordings for up to 14 days, the device is posted back
+to the hospital or external data processing centre for analysis. The CAM patch is linked to
+ECG analysis services and tools. After data are collected, a secure web-based portal is
+used for uploading and analysing ECG data, accessing and managing patient reports. The
+data can be analysed internally or by the company's ECG technicians who will prepare a
+report. The cardiologist would receive a full report within 2 working days. The report
+shows the ECG traces with different time scales (8 seconds, 56 seconds and 40 minutes)
+to provide context around an episode or event.
+Innovations
+The company claims the device has a low noise floor, leading to more accurate and clearer
+signal detection than similar devices. The device can be worn for up to 14 days, unlike a
+Holter monitor which is generally used for between 24 and 48 hours, which makes it
+suitable for people with symptoms of arrhythmia that happen more than 24 hours apart.
+The device is also wire free and is water resistant, meaning that it can be worn in the
+
+ 
+shower and during exercise. However, users are advised to avoid showering or strenuous
+exercise for at least 24 hours after applying the patch. They also recommend avoiding
+environments or activities that lead to excessive sweating and advise against any activity
+which involves fully submerging the device in water, such as swimming or submerging the
+device whilst bathing.
+Current care pathway
+The CAM is intended for use in those who need extended duration cardiac monitoring for
+people with suspected cardiac arrhythmias.
+NICE's guideline on atrial fibrillation states that standard care for people with suspected
+arrhythmias is assessment using manual pulse palpation followed by an ECG. In people
+with suspected paroxysmal atrial fibrillation undetected by standard ECG recording, use of
+a 24-hour ambulatory ECG monitor is recommended in people with suspected episodes
+less than 24 hours apart. An event recorder ECG is recommended for people with
+symptomatic episodes more than 24 hours apart.
+The following publications have been identified as relevant to this care pathway:
+• NICE's guideline on atrial fibrillation
+• NICE's guideline on transient loss of consciousness ('blackouts') in over 16s
+• NICE's medical technologies guidance on Zio XT for detecting cardiac arrythmias
+• NICE's medical technologies guidance on WatchBP Home A for opportunistically
+detecting atrial fibrillation during diagnosis and monitoring of hypertension.
+Population, setting and intended user
+The CAM is indicated for detecting cardiac arrythmias in anyone weighing 10 kg or more.
+This includes using the device for diagnosing paediatric arrhythmias. The device can be
+fitted in a clinic or at home by a patient. Once used, the device can be posted back to the
+hospital or an external centre for analysis. The device pack comes with instructions for
+placing and activating the device and a patient diary. The device would be prescribed by a
+consultant cardiologist in a secondary or tertiary care setting. Patients need to press the
+button on the device and record the time and date in their diary if they experience any
+
+ 
+symptoms of their suspected arrhythmia.
+Costs
+Technology costs
+The cost of the device depends on the number of days the device is used for, if the
+analysis is done externally, and if the device is posted. This leads to a cost between £110
+and £145 per person (if the analysis is done in the hospital) or £150 to £200 per person (if
+the analysis is done externally by the company):
+• 2-day monitoring, £110 (excluding VAT)
+• 7-day monitoring, £125 (excluding VAT)
+• 14-day monitoring, £140 (excluding VAT).
+Reporting costs are £40 per person for the 2- and 7-day service and £55 for the 14-day
+report. If the reporting is done in the hospital there are no reporting costs. If the device is
+directly mailed to the patient, there is an extra charge of £5 for the postage and
+administration costs. If the device is fitted in a clinic there are no additional postage
+charges. The company states that most devices would be fitted in a clinic.
+Costs of standard care
+ECG monitoring or stress testing is £127 for outpatients and £62 for directly accessed
+diagnostic services (EY51Z, National schedule of NHS costs for 2019 to 2020).
+The Zio XT monitoring services cost £265 per patient (excluding VAT). This figure includes
+the cost of the biosensor and the cost of analysing and reporting the data.
+Resource consequences
+The CAM patch is currently being used at 18 NHS hospitals. It is a single-use device which
+could be used as an alternative to the Holter monitor. This device can be used for up to
+14 days, meaning that longer recordings can be done compared with Holter monitors.
+Because the device can be posted back, an additional hospital appointment is not needed.
+
+ 
+The company offers free training on device usage, fitting and data analysis (using their
+software). The software is provided for free and can be installed on as many computers in
+the hospital as needed.
+Regulatory information
+Carnation Ambulatory Monitor is a CE-marked class IIa medical device.
+Equality considerations
+NICE is committed to promoting equality of opportunity, eliminating unlawful discrimination
+and fostering good relations between people with particular protected characteristics and
+others.
+Cardiac arrhythmias can develop in people of any age but are more common in those aged
+over 60. Women tend to be at higher risk of certain arrhythmias, whereas men are 3 times
+more likely to develop atrial fibrillation at any age. However, of those people who develop
+atrial fibrillation, women have a much higher incidence of morbidity and mortality. The area
+of where the Carnation Ambulatory Monitor patch is applied will need shaving if hair is
+present. Some religions forbid cutting or shaving bodily hair. To show the device is working
+correctly, an LED light flashes when the recorder is attached to the battrode. People with a
+visual impairment may need help to check that the device is assembled and placed
+correctly. Religion, disability, age and sex are protected characteristics under the Equality
+Act 2010.
+Clinical and technical evidence
+A literature search was carried out for this briefing in accordance with the interim process
+and methods statement for medtech innovation briefings. This briefing includes the most
+relevant or best available published evidence relating to the clinical effectiveness of the
+technology. Further information about how the evidence for this briefing was selected is
+available on request by contacting mibs@nice.org.uk.
+Published evidence
+Four studies are summarised in this briefing.
+
+ 
+This includes 3 prospective comparative studies in adults and 1 retrospective single-arm
+study in children. A total of 125 people were included in the studies.
+The clinical evidence and its strengths and limitations is summarised in the overall
+assessment of the evidence.
+Overall assessment of the evidence
+Two of the included full text papers compare using Carnation Ambulatory Monitor (CAM)
+with either Holter monitors or Zio XT. One study compared 4 external cardiac monitors and
+uses an implanted pacemaker to test for recording accuracy. These studies found that the
+CAM device led to equivalent or enhanced detection of atrial fibrillation. There was
+positive patient experience in wearing the device, particularly when compared with Holter
+monitor use. Two of the studies show CAM use over 24 hours to 48 hours. This could be
+considered as a limitation because the CAM device can be used for up to 2 weeks and
+may be more appropriate for longer term use where arrhythmias may not be detected
+within a 48-hour period. The evidence is also limited by having small sample sizes. In the
+single-arm study in children, the CAM device was being used in those under 10 kg, which
+is not recommended by the company. Only 1 study was done in the UK, which could limit
+the generalisability of the evidence to the NHS.
+Eysenck et al. (2020)
+Study size, design and location
+Prospective randomised study comparing 4 external cardiac monitors on 21 adults with
+implanted pacemakers and known atrial fibrillation in the UK.
+Intervention and comparator
+All patients acted as their own control and wore 4 external cardiac monitors (Zio XT,
+NUUBO vest, CAM, Novacor 'R' test 4) for 2 weeks each in randomised order. All patients
+also had dual chamber permanent pacemakers implanted, which detect arrhythmias to a
+high level of sensitivity and specificity.
+
+ 
+Key outcomes
+CAM measures of atrial fibrillation burden were compared with the implanted pacemaker.
+The CAM device was found to correlate with the pacemaker (R-square value 0.9618). CAM
+more accurately identified the presence or absence of atrial fibrillation than the Novacor
+'R' test 4 device (odds ratio 5.8; 95% confidence interval [CI] 1.1 to 32.1; p=0.042). Zio XT
+was also significantly more accurate than Novacor 'R' test 4 (odds ratio 12.3; 95% CI 1.4 to
+110.3; p=0.02). CAM was significantly more comfortable during initial application than
+Novacor 'R' test 4 (p=0.024), but there was no significant different in comfort between the
+devices during the recording phase. All the devices were found to be more expensive than
+Novacor 'T' test 4 when both device and clinical care costs were considered.
+Strengths and limitations
+This randomised study was done in the UK but was limited by having a small sample size.
+Most of the comparisons are with the Novacor 'R' test 4 device because it was viewed to
+be the most commonly used external cardiac monitor in the UK that can record for more
+than 48 hours. The study reviewed the 4 devices at separate intervals rather than at the
+same time which limits the comparability between devices. However, this was thought to
+be reasonable because of the risk of artefacts being generated on the recordings. People
+in the study had dual chamber permanent pacemakers implanted which is not
+generalisable to the atrial fibrillation population.
+Rho et al. (2018)
+Study size, design and location
+Prospective comparative single centre study of 29 adults needing ambulatory
+electrocardiogram (ECG) monitoring in the US.
+Intervention and comparator
+All patients simultaneously wore a CAM and Zio XT monitor for 7 days.
+Key outcomes
+A total of 86.7 plus or minus 0.6 arrhythmias were detected using Zio XT and 121.7 plus or
+minus 2.1 for CAM (p<0.001). Of the arrhythmias identified, atrial tachycardia was most
+
+ 
+diagnosed, and was more frequently identified with CAM than Zio XT (22.3 plus or minus
+0.6 compared with 8.7 plus or minus 3.2, p<0.001). ECG clarity was ranked as high in all
+29 CAM reports (100%) and on 4.5 (16%) of the Zio XT reports (p<0.001). Higher ECG
+clarity was mostly because of the greater ability to see P-waves when using the CAM
+device. Patient experiences were comparable and positive for both devices.
+Strengths and limitations
+This prospective study had a small sample size. The analysis was done using multiple
+reviewers with averaged rhythms decisions to compensate for subjectivity in individual
+reviewing opinions. Company analysis centres were also unaware of the research to
+prevent analysis bias.
+Smith et al. (2017)
+Study size, design and location
+Prospective comparative study including 50 adults needing continuous ECG recording in
+the US and New Zealand.
+Intervention and comparator
+All patients simultaneously wore a CAM and Holter monitor for 24 hours.
+Key outcomes
+The CAM patch identified rhythms in 23 people (46%) that changed management,
+compared with 6 in the Holter group (12%; p<0.01). All 6 Holter recordings with clinically
+significant arrhythmias were also found when using the CAM patch. The CAM patch ECG
+intervals PR, QRS and QT correlated well with the Holter ECG intervals having correlation
+coefficients of 0.93, 0.86, and 0.94, respectively. In terms of comfort, 48 people (96%)
+preferred wearing the CAM patch.
+Strengths and limitations
+The study compared 2 devices at the same time on the same person, which allowed direct
+data comparison. However, the CAM patch was only used for 24 hours (in line with normal
+
+ 
+Holter monitor use) which limits the evidence on comfort of CAM patch use for up to
+14 days.
+Romme et al. (2021)
+Study size, design and location
+Retrospective study of 25 children aged 0 to 15 months needing ECG monitoring in the US.
+Intervention and comparator
+CAM patches worn for 48 hours. Five children wore a secondary CAM patch horizontally
+(leading to a total of 33 reports).
+Key outcomes
+The mean age was 4.2 plus or minus 5 months and the mean weight was 5.3 plus or minus
+2.4 kg. P-waves were identifiable in all 33 reports and led to changes in medical
+management in 30% of children. Horizontal patch placement led to smaller amplitude P-
+waves.
+Strengths and limitations
+This study included children who weighed less than 10 kg. The company specify that their
+device is for use in children and adults weighing more than 10 kg. The retrospective study
+sample size was small and the monitoring time was limited to 48 hours, which may not be
+reflective of real-world use.
+Sustainability
+The company claims the technology will reduce the number of clinic visits needed. The
+device is also smaller than other patch monitors and the battrode can be recycled. The
+device packaging is made of paper and cardboard which can be recycled. There is no
+published evidence to support these claims.
+
+ 
+Recent and ongoing studies
+• Optimized Continuous 7-day Detection of Arrhythmias in Dialysis Population by a
+Patch With a High Resolution Differentiation of Atrial Activity. ClinicalTrials.gov
+identifier: NCT04071054. Status: unknown. Indication: arrhythmia, dialysis
+complications. Devices: CAM. Estimated study completion date: December 2020.
+Austria.
+• Comparative Study of the CarnationTM Ambulatory Monitoring Sternal ECG Patch
+System With a Conventional 24-Hour 7 Lead Holter Monitor Recorder.
+ClinicalTrials.gov identifier: NCT04241692. Status: enrolling by invitation. Indication:
+children with known or suspected cardiac arrhythmia. Devices: CAM, 7-lead Holter
+Monitor recorder. Estimated study completion date: March 2023. US.
+Expert comments
+Comments on this technology were invited from clinical experts working in the field and
+relevant patient organisations. The comments received are individual opinions and do not
+represent NICE's view.
+All 3 of the experts were familiar with or had used this technology before.
+Level of innovation
+All experts acknowledged that this technology was not as innovative as other ambulatory
+cardiac monitors available. One expert said that the device was a novel solution during the
+COVID-19 pandemic to manage diagnostic waits for cardiac monitors. Two experts said
+that device would be more comfortable for people to use than standard care which uses
+Holter monitors. This is because Holter monitors uses standard electrocardiogram (ECG)
+electrodes with wires connecting to a recording box. The experts agreed the patch-type
+devices are less intrusive than standard ambulatory monitors and are becoming more
+widely used in the NHS.
+Potential patient impact
+Two experts said that when compared with Holter monitors, these patch-type devices are
+less intrusive because there is no need for cables and they are smaller and water resistant
+
+ 
+(and so does not need to be removed when showering). One expert said that longer
+monitoring is also likely to improve diagnostic yield, especially in those with relatively
+infrequent symptoms. If diagnostic yield is improved it is also likely to reduce the need for
+more invasive procedures. Two experts noted that the device can be sent via post and be
+self-applied by the patient and then posted back after the monitoring period. This could
+be more convenient than other monitoring options available and reduce the need for
+hospital visits. One expert further commented that this will also benefit people with poor
+mobility, where attending hospital appointments may be more difficult.
+Potential system impact
+One expert said that the diagnostic pathway is unlikely to change. However, because of
+improved comfort compared with Holter monitors, people are more likely to use the device
+for the entire monitoring period. This could lead to increased diagnostic yield through
+having a longer, continuous, monitoring period. The device could also reduce in-hospital
+work through reports being done externally and could lead to time savings for device
+preparation because of the device being single use. One expert said that the cost of the
+device is likely to be offset by an improved diagnostic yield, which can reduce need for
+repeat testing or repeat appointments. It could also reduce hospital physiologist time
+needed for data analysis and reporting, if the assessment was done externally. One expert
+further said that this would reduce hospital waiting times for cardiac monitoring. Applying
+the device at home and posting it back would also reduce the hospital time needed. One
+expert said that the training would be simple and similar to other technologies and that
+further training would be supported by the company. One expert also said that the
+instructions to use the device are simple and the patch is easy to apply. Another expert
+said that familiarisation was needed for registering patients onto the device portal and that
+some training would be needed for trusts wanting to use their own technicians to analyse
+data.
+General comments
+One expert stated that this is a very low risk technology and any risks would be shared by
+other ECG monitors. The most common adverse reaction to these devices is a skin
+reaction to the adhesive material, although they say the incidence of this is low. One
+expert said that it would be useful to have a 14-day monitoring study comparing other
+similar patch-type devices used in the NHS. One expert said that larger population studies
+would be needed. One expert said that cost compared with Holter monitors would be a
+
+ 
+barrier to wider uptake of the device. They said that there would be a reduction in capital
+cost but an increase in consumables cost if the device replaced Holter monitoring.
+Patient organisation comments
+Representatives from 3 patient organisations, Syncope Trust And Reflex anoxic Seizures
+(STARS), AF Association, and Arrhythmia Alliance, gave the following comments.
+The benefits of the device are that its more comfortable than a Holter monitor and is less
+obstructive when doing everyday activities. This includes being able to wear the device
+while showering and exercising. It is also discrete, which reduces the risk of social stigma
+or embarrassment because of wearing the device. They also said that the device is easy
+to apply and remove. The results were also received quickly. Earlier detection of
+arrhythmias could lead to faster treatment and reduce the risk of adverse outcomes
+including strokes.
+This device may particularly benefit people with intermittent symptoms which may be hard
+to identify when using a 12-lead electrocardiogram or a Holter monitor for up to 48 hours.
+This includes people with syncope who may only faint once or twice a month or those with
+paroxysmal atrial fibrillation. This could prevent repeat hospital appointments which could
+reduce the costs and time associated with traveling to and waiting for multiple
+appointments.

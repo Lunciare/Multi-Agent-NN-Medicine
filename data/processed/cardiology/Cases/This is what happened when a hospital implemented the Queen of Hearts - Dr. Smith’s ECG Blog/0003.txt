@@ -1,0 +1,4 @@
+Case Summary
+KEYWORDS: posterior, ecg, omi, waves, depression, posterior omi, reperfusion, anterior, elevation, analysis, anterior t-wave, post-pci, reperfusion waves, posterior reperfusion, subtle
+
+Highlights that posterior OMI can be missed without careful ECG analysis or advanced tools Key Learning Points Posterior OMI may present with ST depression in V1–V4 and subtle lateral changes QOH can accurately and rapidly identify OMI, reducing delays to reperfusion Posterior reperfusion T waves manifest as increased anterior T-wave amplitude post-PCI AI can outperform troponin timing for early OMI detection Bottom Line Routine implementation of AI ECG analysis (QOH) enabled immediate recognition and treatment of posterior OMI, resulting in rapid cath lab activation, successful revascularization, and likely improved patient outcomes.

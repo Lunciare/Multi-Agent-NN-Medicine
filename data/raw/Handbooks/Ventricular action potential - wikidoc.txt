@@ -1,0 +1,31 @@
+Ventricular action potential
+Overview
+The ventricular action potential is composed of four phases: phase 0 is depolarization, phase 1 is
+early repolarization, phase 2 is a plateau, phase 3 is rapid repolarization and phase 4 is the resting
+potential. The different phases depend on the opening and/or closure of specific ion channels.
+Ventricular Action Potential
+At rest, the ventricular myocyte membrane potential is about -90 mV, which is close to the
+potassium reversal potential. When an action potential is generated, the membrane potential rises
+above this level in four distinct phases.
+The beginning of the action potential, phase 1, specialized membrane proteins (voltage-gated
+sodium channels) in the cell membrane selectively allow sodium ions to enter the cell. This causes
+the membrane potential to rise at a rate of about 300 V/s. As the membrane voltage rises (to about
+40 mV) sodium channels close due to a process called inactivation.
+The sodium channel opening is followed by inactivation. Sodium inactivation comes with slowly
+inactivating Ca2+ channels at the same time as a few fast K+ channels open. There is a balance
+between the centrifugal flow of K+ and the centripetal flow of Ca2+ causing a plateau of length in
+variables. The delayed opening of more Ca2+-activated K+ channels, which are activated by build-
+up of Ca2+ in the sarcoplasm, while the Ca2+ channels close, ends the plateau. This leads to
+repolarisation.
+The depolarization of the membrane allows calcium channels to open as well. As sodium channels
+close calcium provides current to maintain the potential around 10 mV. The plateau lasts on the
+order of 100 ms. At the time that calcium channels are getting activated, channels that mediate the
+transient outward potassium current open as well. This outward potassium current causes a small
+dip in membrane potential shortly after depolarization. This current is observed in human and dog
+action potentials, but not in guinea pig action potentials.
+Repolarization is accomplished by channels that open slowly and are mostly activated at the end of
+the action potential (slow delayed-rectifier channels), and channels that open quickly but are
+inactivated until the end of the action potential (rapid delayed rectifier channels). Fast delayed
+rectifier channels open quickly but are shut by inactivation at high membrane potentials. As the
+membrane voltage begins to drop the channels recover from inactivation and carry current.
+Shown below is an image summarizing the phases of the ventricular action potential.

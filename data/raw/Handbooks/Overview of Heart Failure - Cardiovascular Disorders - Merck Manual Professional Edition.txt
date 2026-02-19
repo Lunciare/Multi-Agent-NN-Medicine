@@ -1,0 +1,474 @@
+Overview of Heart Failure
+Heart failure (HF) is a clinical syndrome in which the heart is not able to meet
+the metabolic demands of the body due to a structural and or functional
+cardiac abnormality, leading to low cardiac output, elevated ventricular filling
+pressure, or both. HF can involve systolic and/or diastolic function, in the left
+and/or right heart. Left ventricular (LV) failure typically causes shortness of
+breath and fatigue, and right ventricular (RV) failure typically causes peripheral
+and abdominal fluid accumulation; the ventricles can be involved together or
+separately. Diagnosis is initially clinical, supported by chest radiography,
+echocardiography, hemodynamic evaluation, and laboratory testing. Treatment
+includes patient education, treating the cause(s) of the HF syndrome,
+pharmacologic therapy including neurohormonal modulation, implantable
+pacemakers/defibrillators, mechanical circulatory support, and heart
+transplantation.
+Heart failure affects more than 64 million people worldwide (1). In the United States, there are
+approximately 6.7 million people with heart failure and approximately 1 million new cases per year; 8.7
+million people are projected to have heart failure by 2030 (2, 3).
+Cardiovascular Physiology
+Cardiac contractility (force and velocity of contraction), ventricular performance, and myocardial oxygen
+requirements are determined by:
+Preload
+Afterload
+Substrate availability (eg, oxygen, fatty acids, glucose)
+Heart rate and rhythm
+Amount of viable myocardium
+Cardiac output is the product of stroke volume and heart rate; it is also affected by venous return,
+peripheral vascular tone, and neurohumoral factors.
+Preload is the loading condition of the heart at the end of its relaxation and filling phase (diastole) just
+before contraction (systole). Preload represents the degree of end-diastolic fiber stretch and end-
+diastolic volume, which is influenced by ventricular diastolic volume and pressure and the composition
+of the myocardial wall. Typically, left ventricular (LV) end-diastolic pressure, especially if higher than
+normal, is a reasonable measure of preload. LV dilation, hypertrophy, and changes in myocardial
+distensibility (compliance) modify preload. Preload is not identical to, but is largely a function of, the
+body's overall intravascular volume status.
+Afterload is the force resisting myocardial fiber contraction at the start of systole. It is determined by LV
+chamber pressure, radius, and wall thickness at the time the aortic valve opens. Clinically, systemic
+systolic blood pressure at or shortly after the aortic valve opens correlates with peak systolic wall stress
+and approximates afterload.
+The Frank-Starling principle describes the relationship between preload and cardiac performance. It
+states that, normally, systolic performance (often estimated by stroke volume) is proportional to
+preload within the normal physiologic range (see figure Frank-Starling Principle). In patients with heart
+failure, systolic performance and myocardial contractility are reduced when compared to those with a
+healthy heart at the same preload. Contractility is difficult to measure clinically (because it requires
+cardiac catheterization with pressure-volume analysis) but is reasonably reflected by the ejection
+fraction (EF), which is the percentage of end-diastolic volume ejected with each contraction (stroke
+volume/end-diastolic volume). EF can generally be adequately assessed noninvasively with
+echocardiography, nuclear imaging, or MRI.
+The force-frequency relationship refers to the phenomenon in which repetitive stimulation of a
+muscle within a certain frequency range results in increased force of contraction. Normal cardiac
+muscle at typical heart rates exhibits a positive force-frequency relationship, so a faster rate causes
+stronger contraction (and corresponding greater substrate requirements). During some types of heart
+ 2/15
+ 
+failure, the force-frequency relationship may become negative, so that myocardial contractility
+decreases as heart rate increases above a certain rate.
+Cardiac reserve is the ability of the heart to increase its performance above resting levels in response
+to emotional or physical stress; body oxygen consumption may increase from 250 mL/minute to ≥ 1500
+mL/minute during maximal exertion. Mechanisms include:
+Increasing heart rate
+Increasing diastolic filling volumes
+Increasing contractility and stroke volume
+Selectively altering systemic vascular resistance to direct blood flow toward certain organs
+(eg, skeletal muscle during exercise)
+Increasing tissue extraction of oxygen (the difference between oxygen content in arterial
+blood and in mixed venous or pulmonary artery blood)
+In well-trained young adults during maximal exercise, heart rate may increase from 55 to 70
+beats/minute at rest to > 180 beats/minute, and cardiac output may increase from 6 L/minute to ≥ 25
+L/minute. At rest, arterial blood contains approximately 18 mL oxygen/dL of blood, and mixed venous or
+pulmonary artery blood contains approximately 14 mL/dL. Oxygen extraction is thus approximately 4
+mL/dL. When demand is increased, oxygen extraction may increase to 12 to 14 mL/dL. This mechanism
+also helps compensate for reduced tissue blood flow in heart failure.
+ 3/15
+ 
+Frank-Starling Principle
+Normally (top curve), as preload increases, cardiac performance also increases. However, at a
+certain point, performance plateaus, then declines. In heart failure (HF) due to systolic
+dysfunction (bottom curve), the overall curve shifts downward, reflecting reduced cardiac
+performance at a given preload, and as preload increases, cardiac performance increases
+less. With treatment (middle curve), performance is improved, although not normalized.
+Pathophysiology of Heart Failure
+In heart failure, the heart may not provide tissues with adequate blood for metabolic needs, and
+cardiac-related elevation of pulmonary or systemic venous pressures may result in organ congestion.
+This condition can result from abnormalities of systolic or diastolic function or, commonly, both.
+Although a primary abnormality can be a change in cardiomyocyte function, there are also changes in
+collagen turnover of the extracellular matrix. Cardiac structural defects (eg, congenital defects, valvular
+disorders), rhythm abnormalities (including persistently high heart rate), and high metabolic demand
+(eg, due to thyrotoxicosis) also can cause heart failure.
+Classification of heart failure
+ 4/15
+ 
+Overview of Heart Failure
+VIDEO
+Heart failure can be classified as primarily left or right heart failure, or by the Universal Definition and
+Classification of Heart Failure (1), which uses the left ventricular ejection fraction.
+The traditional distinction between left and right ventricular failure is somewhat misleading because the
+heart is an integrated pump, and changes in one chamber ultimately affect the whole heart. However,
+these terms indicate the major site of pathology leading to heart failure and can be useful for initial
+evaluation and treatment. Other common terms used to differentiate types of and causes for heart
+failure include acute or chronic; high output or low output; dilated or nondilated; and ischemic,
+hypertensive, or idiopathic dilated cardiomyopathy. Treatment also differs based on whether the
+presentation is acute or chronic HF.
+LV failure
+Heart failure most commonly occurs as a result of left ventricular dysfunction (2). As a result, the
+Universal Classification of Heart Failure has categorized heart failure according to reduced, preserved,
+minimally reduced, and improved ejection fraction based on left ventricular systolic function (1). In left
+heart failure, cardiac output decreases and pulmonary venous pressure increases. When pulmonary
+capillary pressure exceeds the oncotic pressure of plasma proteins (approximately 24 mm Hg), fluid
+extravasates from the capillaries into the interstitial space and alveoli, reducing pulmonary compliance
+and increasing the work of breathing. Lymphatic drainage increases but cannot compensate for the
+increase in pulmonary fluid. Marked fluid accumulation in alveoli (pulmonary edema) significantly alters
+ventilation-perfusion (V/Q) relationships. Deoxygenated pulmonary arterial blood passes through poorly
+ventilated alveoli, decreasing systemic arterial oxygenation (partial pressure of arterial oxygen [PaO2])
+and causing dyspnea. However, dyspnea may occur before V/Q abnormalities, probably because of
+elevated pulmonary venous pressure and increased work of breathing; the precise mechanism is
+unclear.
+ 5/15
+ 
+In severe or chronic LV failure, pleural effusions characteristically develop, further aggravating dyspnea.
+Minute ventilation increases; thus, partial pressure of arterial carbon dioxide (PaCO2) decreases and
+blood pH increases (respiratory alkalosis). Marked interstitial edema of the small airways may interfere
+with ventilation, elevating PaCO2—a sign of impending respiratory failure.
+Heart failure with reduced ejection fraction (HFrEF)
+In HFrEF (also called systolic heart failure), global LV systolic dysfunction predominates. The LV contracts
+poorly and empties inadequately, leading to:
+Increased diastolic volume and pressure
+Decreased ejection fraction (≤ 40%)
+Many defects in energy utilization, energy supply, electrophysiologic function, and contractile element
+interaction occur, with abnormalities in intracellular calcium modulation and cyclic adenosine
+monophosphate (cAMP) production.
+Predominant systolic dysfunction is common in heart failure due to myocardial infarction, myocarditis,
+and dilated cardiomyopathy. Systolic dysfunction may affect primarily the LV or the right ventricle (RV);
+LV failure often leads to RV failure.
+Heart failure with preserved ejection fraction (HFpEF)
+In HFpEF (also called diastolic heart failure), LV filling is impaired, resulting in:
+Increased LV end-diastolic pressure at rest or during exertion
+Usually, normal LV end-diastolic volume
+Global contractility and hence LV ejection fraction remain normal (≥ 50%).
+However, in some patients, marked restriction to LV filling can cause inappropriately low LV end-
+diastolic volume and thus cause low cardiac output and systemic symptoms. Elevated left atrial
+pressures can cause pulmonary hypertension and pulmonary congestion.
+Diastolic dysfunction usually results from impaired ventricular relaxation (an active process), increased
+ventricular stiffness, valvular disease, or constrictive pericarditis. Acute myocardial ischemia is also a
+cause of diastolic dysfunction. Resistance to filling increases with age, reflecting cardiomyocyte
+dysfunction and cardiomyocyte loss, and increased interstitial collagen deposition; thus, diastolic
+dysfunction is particularly common among older adults. Diastolic dysfunction predominates in
+hypertrophic cardiomyopathy, other disorders with ventricular hypertrophy (eg, hypertension,
+significant aortic stenosis), and amyloid infiltration of the myocardium. LV filling and function may also
+be impaired if marked increases in RV pressure shift the interventricular septum to the left.
+Diastolic dysfunction is recognized as an important cause of HF. Approximately 50% of patients with
+heart failure have HFpEF; the prevalence increases with age and in patients with diabetes (3). HFpEF is a
+complex, heterogenous, multiorgan, systemic syndrome, often with multiple concomitant
+pathophysiologies. Data suggest that multiple comorbidities (eg, obesity, hypertension, diabetes,
+chronic kidney disease) lead to systemic inflammation, widespread endothelial dysfunction, cardiac
+ 6/15
+ 
+microvascular dysfunction, and, ultimately, molecular changes in the heart that cause increased
+myocardial fibrosis and ventricular stiffening. Thus, although HFrEF is typically associated with primary
+myocardial injury, HFpEF may be associated with secondary myocardial injury due to abnormalities in
+the periphery.
+Heart failure with mildly reduced ejection fraction (HFmrEF)
+HF with mildly reduced ejection fraction (HFmrEF) is defined as an LV ejection fraction of 41 to 49%. It is
+unclear whether this group is a distinct population or consists of a mixture of patients with either HFpEF
+or HFrEF.
+Heart failure with improved ejection fraction (HFimpEF)
+Patients with HF whose LV ejection fraction has improved by more than an absolute of 10% from a prior
+value and also measures over 40% are categorized as having HFimpEF.
+RV failure
+Right ventricular failure most commonly occurs as a consequence of or in tandem with left ventricular
+failure. Isolated right heart failure is observed much less commonly. In heart failure that involves right
+ventricular dysfunction (see Right Heart Failure), systemic venous pressure increases, causing fluid
+extravasation and consequent edema, primarily in dependent tissues (feet and ankles of ambulatory
+patients) and abdominal viscera. The liver is most severely affected, but the stomach and intestine also
+become congested; fluid accumulation in the peritoneal cavity (ascites) can occur. RV failure commonly
+causes moderate hepatic dysfunction, with usually modest increases in conjugated and unconjugated
+bilirubin, prothrombin time (PT), and hepatic enzymes (particularly alkaline phosphatase and gamma-
+glutamyl transpeptidase [GGT]). The impaired liver breaks down less aldosterone, further contributing
+to fluid accumulation. Chronic venous congestion in the viscera can cause anorexia, malabsorption of
+nutrients and medications, protein-losing enteropathy (characterized by diarrhea and marked
+hypoalbuminemia), chronic gastrointestinal blood loss, and rarely ischemic bowel infarction.
+Responses to heart failure
+Myocardial response
+When left ventricular contractility is impaired, as is the case in HRrEF, a higher preload is required to
+maintain cardiac output. As a result, the ventricles are remodeled over time. During remodelling, the LV
+becomes less ovoid and more spherical, dilates, and hypertrophies; the RV dilates and may
+hypertrophy. Initially compensatory, remodelling ultimately is associated with adverse outcomes
+because the changes eventually increase diastolic stiffness and wall tension (ie, diastolic dysfunction
+develops), compromising cardiac performance, especially during physical stress. Increased wall stress
+raises oxygen demand and accelerates apoptosis (programmed cell death) of myocardial cells. Dilation
+of the ventricles can also cause mitral or tricuspid valve regurgitation (due to annular dilation) with
+further increases in end-diastolic volumes.
+Hemodynamic response
+ 7/15
+ 
+With reduced cardiac output, oxygen delivery to the tissues is maintained by increasing oxygen
+extraction from the blood and sometimes shifting the oxyhemoglobin dissociation curve (see figure
+Oxyhemoglobin Dissociation Curve) to the right to favor oxygen release.
+Reduced cardiac output with lower systemic blood pressure activates arterial baroreflexes, increasing
+sympathetic tone and decreasing parasympathetic tone. As a result, heart rate and myocardial
+contractility increase, arterioles in selected vascular beds constrict, venoconstriction occurs, and sodium
+and water are retained. These changes compensate for reduced ventricular performance and help
+maintain hemodynamic homeostasis in the early stages of heart failure. However, these compensatory
+changes increase cardiac work, preload, and afterload; reduce coronary and renal perfusion; cause fluid
+accumulation resulting in congestion; increase potassium excretion; and may cause cardiomyocyte
+necrosis and arrhythmias.
+Renal response
+As cardiac function deteriorates, renal blood flow decreases due to low cardiac output. In addition, renal
+venous pressures increase, leading to renal venous congestion. These changes result in a decrease in
+glomerular filtration rate (GFR), and blood flow within the kidneys is redistributed. The filtration fraction
+and filtered sodium decrease, but tubular resorption increases, leading to sodium and water retention.
+Blood flow is further redistributed away from the kidneys during exercise, but renal blood flow
+improves during rest.
+Decreased perfusion of the kidneys (and possibly decreased arterial systolic stretch secondary to
+declining ventricular function) activates the renin-angiotensin-aldosterone system, increasing sodium
+and water retention and renal and peripheral vascular tone. These effects are amplified by the intense
+sympathetic activation accompanying heart failure.
+The renin-angiotensin-aldosterone-vasopressin (antidiuretic hormone [ADH]) system causes a cascade
+of potentially deleterious long-term effects. Angiotensin II worsens heart failure by causing
+vasoconstriction, including efferent renal vasoconstriction, and by increasing aldosterone production,
+which enhances sodium reabsorption in the distal nephron and also causes myocardial and vascular
+collagen deposition and fibrosis. Angiotensin II increases norepinephrine release, stimulates release of
+vasopressin, and triggers apoptosis. Angiotensin II may be involved in vascular and myocardial
+hypertrophy, thus contributing to the remodeling of the heart and peripheral vasculature, potentially
+worsening heart failure. Aldosterone can be synthesized in the heart and vasculature independently of
+angiotensin II (perhaps mediated by corticotropin, nitric oxide, free radicals, and other stimuli) and may
+have deleterious effects in these organs.
+Heart failure that causes progressive renal dysfunction (including renal dysfunction caused by
+medications used to treat HF) contributes to worsening HF and has been termed the cardiorenal
+syndrome.
+Neurohumoral response
+In conditions of stress, neurohumoral responses help increase heart function and maintain blood
+pressure and organ perfusion. Chronic activation of these responses is detrimental to the normal
+ 8/15
+ 
+balance between myocardial-stimulating and vasoconstricting hormones and between myocardial-
+relaxing and vasodilating hormones.
+The heart contains many neurohumoral receptors (alpha-1, beta-1, beta-2, beta-3, angiotensin II type 1
+[AT1] and type 2 [AT2], muscarinic, endothelin, serotonin, adenosine, cytokine, natriuretic peptides); the
+roles of all of these receptors are not fully defined. In patients with heart failure, beta-1 receptors (which
+constitute 70% of cardiac beta receptors) are downregulated, probably in response to intense
+sympathetic activation. The result of downregulation is impaired myocyte contractility and increased
+heart rate.
+Plasma norepinephrine levels are increased, largely reflecting sympathetic nerve stimulation as plasma
+epinephrine levels are not increased. Detrimental effects include vasoconstriction with increased
+preload and afterload, direct myocardial damage including apoptosis, reduced renal blood flow, and
+activation of other neurohumoral systems, including the renin-angiotensin-aldosterone-vasopressin
+system.
+Vasopressin is released in response to a fall in blood pressure via various neurohormonal stimuli.
+Increased vasopressin decreases renal excretion of free water, possibly contributing to hyponatremia in
+heart failure. Vasopressin levels in patients with HF and normal blood pressure vary.
+Atrial natriuretic peptide is released in response to increased atrial volume and pressure; brain (B-type)
+natriuretic peptide (BNP) is released from the ventricle in response to ventricular stretching. These
+peptides enhance renal excretion of sodium; however, in patients with HF, the effect is blunted by
+decreased renal perfusion pressure, receptor downregulation, and perhaps enhanced enzymatic
+degradation. In addition, elevated levels of natriuretic peptides exert a counter-regulatory effect on the
+renin-angiotensin-aldosterone system and catecholamine stimulation.
+Because endothelial dysfunction occurs in HF, fewer endogenous vasodilators (eg, nitric oxide,
+prostaglandins) are produced, and more endogenous vasoconstrictors (eg, endothelin) are produced,
+thus increasing afterload.
+The failing heart and other organs produce tumor necrosis factor (TNF) alpha. This cytokine increases
+catabolism and is possibly responsible for cardiac cachexia (loss of lean tissue ≥ 10%), which may
+accompany severely symptomatic HF, and for other detrimental changes. The failing heart also
+undergoes metabolic changes with increased free fatty acid utilization and decreased glucose
+utilization; these changes may become therapeutic targets.
+Changes with aging
+Age-related changes in the heart and cardiovascular system lower the threshold for expression of heart
+failure. Interstitial collagen within the myocardium increases, the myocardium stiffens, and myocardial
+relaxation is prolonged. These changes lead to a significant reduction in diastolic left ventricular
+function, even in healthy older adults. Modest decline in systolic function also occurs with aging. An age-
+related decrease in myocardial and vascular responsiveness to beta-adrenergic stimulation further
+impairs the ability of the cardiovascular system to respond to increased work demands.
+ 9/15
+ 
+As a result of these changes, peak exercise capacity decreases significantly (approximately 8%/decade
+after age 30 years), and cardiac output at peak exercise decreases more modestly. This decline can be
+slowed by regular physical exercise. Thus, older patients are more prone than are younger ones to
+develop HF symptoms in response to the stress of systemic disorders or relatively modest
+cardiovascular insults. Stressors include infections (particularly pneumonia), hyperthyroidism, anemia,
+hypertension, myocardial ischemia, hypoxia, hyperthermia, renal failure, perioperative IV fluid loads,
+nonadherence to medication regimens or to low-salt diets, and use of certain medications (particularly
+nonsteroidal anti-inflammatory drugs [NSAIDs]).
+Etiology of Heart Failure
+Both cardiac and systemic factors can impair cardiac performance and cause or aggravate heart failure
+(see table Causes of Heart Failure).
+TABLE
+Causes of Heart Failure
+Type Examples
+Cardiac
+Cardiomyopathy
+Myocardial infarction
+Myocardial damage
+Myocarditis
+Some chemotherapy agents
+Valvular disorders Aortic stenosis
+ 10/15
+ 
+Type Examples
+Mitral regurgitation
+Tricuspid regurgitation
+Bradyarrhythmias
+Arrhythmias
+Tachyarrhythmias
+Atrioventricular block
+Conduction defects
+Left bundle branch block
+Reduced substrate availability (eg, of free
+Ischemia
+fatty acids or glucose)
+Amyloidosis
+Infiltrative or matrix disorders Chronic fibrosis (eg, systemic sclerosis)
+Hemochromatosis
+Systemic
+Anemia
+Disorders that increase demand for
+Hyperthyroidism
+cardiac output
+Paget disease
+Aortic stenosis
+Disorders that increase resistance to
+output (afterload)
+Hypertension
+LV failure characteristically develops in ischemic heart disease, hypertension, mitral regurgitation,
+aortic regurgitation, aortic stenosis, most forms of cardiomyopathy, and congenital heart disorders (eg,
+ventricular septal defect, patent ductus arteriosus with large shunts).
+RV failure is most commonly caused by previous LV failure (which increases pulmonary venous
+pressure and leads to pulmonary hypertension, thus overloading the RV) or by a severe lung disorder (in
+which case it is called cor pulmonale). Other causes are multiple pulmonary emboli, RV infarction,
+pulmonary arterial hypertension, tricuspid regurgitation, tricuspid stenosis, mitral stenosis, pulmonary
+artery stenosis, pulmonic valve stenosis, pulmonary venous occlusive disease, arrhythmogenic right
+ventricular cardiomyopathy, or congenital disorders such as Ebstein anomaly or Eisenmenger
+syndrome. Some conditions mimic RV failure, except cardiac function may be normal; they include
+volume overload and increased systemic venous pressure in polycythemia or overtransfusion, acute
+kidney injury with retention of sodium and water, obstruction of either vena cava, and hypoproteinemia
+due to any cause resulting in low plasma oncotic pressure and peripheral edema.
+Biventricular failure results from disorders that affect the whole myocardium (eg, viral myocarditis,
+amyloidosis, Chagas disease) or long-standing LV failure causing RV failure.
+ 11/15
+ 
+High-output HF results from a persistently high cardiac output, which may eventually result in an
+inability of a normal heart to maintain adequate output. Conditions that may increase cardiac output
+include severe anemia, end-stage liver disease, beriberi, thyrotoxicosis, advanced Paget disease,
+arteriovenous fistula, and persistent tachycardia.
+Cardiomyopathy is a general term indicating disease of the myocardium. Most commonly, the term
+refers to a primary disorder of the ventricular myocardium that is not caused by congenital anatomic
+defects; valvular, systemic, or pulmonary vascular disorders; isolated pericardial, nodal, or conduction
+system disorders; or epicardial coronary artery disease (CAD). The term is sometimes used to reflect
+etiology (eg, ischemic vs hypertensive cardiomyopathy). Cardiomyopathy does not always lead to
+symptomatic HF. It is often idiopathic and is classified as dilated, congestive, hypertrophic, infiltrative-
+restrictive, or apical-ballooning cardiomyopathy (also known as takotsubo or stress cardiomyopathy).
+Staging of Heart Failure
+International consensus defines the staging system for heart failure (HF) to highlight the need for HF
+prevention (1, 2):
+A: High risk of HF but no structural or functional cardiac abnormalities or symptoms
+B: Structural or functional cardiac abnormalities but no symptoms of HF
+C: Structural heart disease with symptoms of HF
+D: Refractory HF requiring advanced therapies (eg, mechanical circulatory support, cardiac
+transplantation) or palliative care
+Clinical severity (or functional classification) varies significantly and is usually classified according to the
+New York Heart Association (NYHA) system (see table NYHA Functional Classification of Heart Failure);
+the examples of ordinary activity may be modified for older, debilitated patients. Because HF has such a
+broad range of severity, some experts subdivide NYHA class III into IIIA or IIIB (3, 4). Class IIIB is typically
+reserved for those patients who recently had a heart failure exacerbation, although the definition is not
+standardized.
+TABLE
+New York Heart Association (NYHA) Functional Classification of
+Heart Failure
+NYHA Class Definition Limitation Example
+I Ordinary physical None Can complete any
+activity does not activity requiring ≥
+cause undue 7 METs:
+fatigue, dyspnea, or
+Carry > 11 kg
+palpitations
+(24 pounds) up
+stairs
+ 12/15
+ 
+NYHA Class Definition Limitation Example
+Carry load
+weighing 23 kg
+(50 pounds)
+Shovel snow
+Spade soil
+Ski
+Play squash,
+handball, or
+basketball
+Jog or walk ≥
+6.9 km/hour (≥
+4.3 mph)
+Can complete
+activity requiring ≥
+5 but ≤ 7 METs:
+Vigorous sexual
+activity
+Comfortable at
+rest; ordinary Garden
+physical activity Roller skate
+II causes fatigue, Mild
+Brisk walking
+dyspnea,
+up to 7
+palpitations, or
+km/hour (4.4
+angina
+mph) on level
+ground
+Carry an 11 kg
+(24-pound)
+load up stairs
+III Comfortable at Moderate Can complete
+rest; less than activity requiring ≥
+ordinary physical 2 and ≤ 5 METs:
+activity causes
+Shower or
+fatigue, dyspnea,
+dress while
+palpitations, or
+standing
+angina
+Moderate
+IIIa: Without recent household
+HF exacerbation or cleaning (eg,
+recent resting washing
+dyspnea windows,
+ 13/15
+ 
+NYHA Class Definition Limitation Example
+sweeping,
+IIIb: With recent HF
+vacuuming,
+exacerbation or
+kitchen
+recent resting
+activities)
+dyspnea
+Play golf
+Walk up to 5.4
+km/hour (3.4
+mph) on level
+ground
+Climb stairs,
+slowly
+Symptoms with all
+activities
+Symptomatic rest;
+Cannot complete
+any physical activity
+IV Severe
+any activity
+increases
+requiring ≥ 2 METs
+discomfort
+(all activities listed
+above)
+HF = heart failure, MET = metabolic equivalent of task, a measure of how much energy is
+expended compared to remaining at rest; mph = mile per hour.
+Heidenreich PA, Bozkurt B, Aguilar D, et al. 2022 AHA/ACC/HFSA Guideline for the
+Management of Heart Failure: A Report of the American College of Cardiology/American
+Heart Association Joint Committee on Clinical Practice Guidelines [published correction
+appears in J Am Coll Cardiol. 2023 Apr 18;81(15):1551. doi: 10.1016/j.jacc.2023.03.002.]. J Am
+Coll Cardiol. 2022;79(17):e263-e421. doi:10.1016/j.jacc.2021.12.012; Yancy CW, Jessup M,
+Bozkurt B, et al. 2013 ACCF/AHA guideline for the management of heart failure: executive
+summary: a report of the American College of Cardiology Foundation/American Heart
+Association Task Force on practice guidelines. Circulation. 2013;128(16):1810-1852.
+doi:10.1161/CIR.0b013e31829e8807; and Dolgin M, Association NYH, Fox AC, Gorlin R, Levin
+RI, New York Heart Association. Criteria Committee. Nomenclature and criteria for diagnosis of
+diseases of the heart and great vessels. 9th ed. Boston, MA: Lippincott Williams and Wilkins;
+Key Points
+Heart failure is the inability the heart to provide tissues with adequate blood for
+metabolic needs.
+Heart failure most commonly affects the left ventricle, but can involve the right or both
+ventricles.
+Heart failure is classified based on the left ventricular ejection fraction into heart failure
+with reduced, minimally reduced, preserved, or improved ejection fraction.

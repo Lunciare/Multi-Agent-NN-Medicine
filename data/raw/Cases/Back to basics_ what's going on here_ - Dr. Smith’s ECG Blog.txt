@@ -1,0 +1,41 @@
+A man in his 70s with a history of pacemaker presented with shortness of breath on exertion and presyncope.
+
+Initial ECG (Triage)
+
+The ECG shows pacemaker failure with inability to capture or sense, with either underlying atrial fibrillation or junctional escape rhythm.
+
+The QRS shows left ventricular hypertrophy with diffuse ST-T abnormalities, likely in part appropriate for LVH, though memory T waves are also a consideration.
+
+Interpretation: Atrial fibrillation with a very slow ventricular response. A junctional rhythm should be fairly regular. The QRS is not wide, so this is not a ventricular escape rhythm.
+
+Clinical Course
+
+The patient was found to have a fractured pacemaker lead. The lead was replaced successfully without complications, with resolution of symptoms. The patient did well.
+
+Pacemaker lead fracture can often be seen on chest X-ray.
+
+Pacemaker Assessment and Interpretation
+
+Awareness that the patient has a pacemaker immediately requires assessment of whether the device is functioning correctly.
+
+Determining appropriate pacemaker function is challenging due to increasing device complexity and limited access to programmed parameters. Pacemaker malfunction is relatively uncommon, which further complicates recognition.
+
+In this case, pacemaker malfunction is easy to diagnose.
+
+Regular pacing spikes are present throughout the ECG at a rate of approximately 70 per minute, with pacing spikes regularly spaced at intervals of approximately 4.3 large boxes.
+
+There is complete pacer–ventricular dissociation, with no relationship between pacing spikes and QRS complexes. The narrow QRS complexes continue at their inherent rate, indicating failure of the pacemaker to sense and respond to native beats.
+
+No P wave or QRS complex follows any pacing spike, consistent with failure to capture due to fractured pacing lead.
+
+Learning Points
+
+If pacing spikes are difficult to visualize, check ECG filter settings. Suboptimal filter settings may obscure pacing spikes. Repeating the ECG at a 0.05–150 Hz setting may improve spike visibility.
+
+Identification of pacing spikes often makes assessment of pacemaker function straightforward.
+
+Determining the underlying rhythm is clinically useful. In this case, the underlying rhythm is either slow atrial fibrillation or a junctional escape rhythm, characterized by a fairly but not completely regular bradycardic rhythm with narrow QRS complexes and no P waves.
+
+Given the patient’s age and underlying rhythm, the most likely indication for pacemaker implantation is sick sinus syndrome.
+
+The patient continues to require permanent pacing.

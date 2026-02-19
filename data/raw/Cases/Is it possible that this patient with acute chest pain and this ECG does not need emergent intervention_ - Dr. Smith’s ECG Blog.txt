@@ -1,0 +1,117 @@
+84-year-old male with significant cardiac history (CABG + multiple stents) awoke at 05:00 with chest pressure, diaphoresis, and light-headedness. He arrived to a rural ED ~06:30. Because he was recovering from an influenza-like illness (ILI) and screened positive at triage, his symptoms were initially attributed to viral illness, but an ECG was obtained at 06:49.
+
+Initial ECG (06:49) — Why This Does Need Emergent Intervention
+
+Despite baseline artifact, findings were consistent with infero-posterior OMI:
+
+Sinus bradycardia
+
+Convex ST elevation in lead III
+
+Reciprocal ST depression in aVL
+
+Possible anterior ST depression (V2–V3) → posterior involvement
+
+Interpretation: Inferior + posterior occlusive event → inferoposterior OMI until proven otherwise.
+
+Key concept: STEMI criteria are insensitive for OMI; failure to meet STEMI thresholds does not mean “no cath”.
+
+Early Management Pitfalls
+Troponin error
+
+Initial hs-cTn negative (11 ng/L). This falsely reassured the team.
+
+Troponin can be normal in early OMI (especially <2 hours from onset).
+
+In the presence of a diagnostic ECG, an initial normal troponin is not actionable for ruling out occlusion.
+
+Nitroglycerin
+
+Two sprays of SL nitro did not improve pain but caused transient hypotension (SBP <90).
+
+Hypotension after nitro in suspected inferior MI raises concern for preload dependence (possible RV involvement).
+
+Right-sided leads may be considered clinically, but this does not change the need for cath when OMI is present.
+
+Objective Deterioration (Several Hours Later)
+
+Repeat troponin returned >600 ng/L.
+
+At this point, even without ECG interpretation skills:
+
+Persistent chest pain + elevated troponin = high-risk ACS needing urgent invasive strategy.
+
+Repeat ECG (11:19) — Reperfusion Pattern But Ongoing Danger
+
+Repeat ECG showed evidence of reperfusion:
+
+Less ST elevation inferiorly
+
+More T-wave inversion in inferior leads
+
+Loss of T-wave bulk in V4–V6
+
+But: patient still had pain → reperfusion ECG does not equal “safe” if symptoms persist.
+
+Posterior Leads (15-lead ECG at 12:10) — Not Required and Can Mislead
+
+A 15-lead ECG was obtained because posterior MI was suspected.
+
+Core message from the case:
+
+Posterior leads are not necessary to diagnose posterior OMI.
+
+Any ST depression in V1–V3 in chest pain is posterior OMI until proven otherwise.
+
+Posterior leads can be falsely negative due to reduced amplitudes through back musculature.
+
+In this case, V9 was misplaced, further reducing reliability.
+
+Best posterior OMI clue: Maximal ST depression in V2–V3 (very high specificity), plus mirror-test morphology.
+
+Treatment and Outcome
+
+Treated under “NSTEMI protocol” (ASA, enoxaparin, ticagrelor)
+
+Transferred to cardiac center
+
+Still had persistent 4/10 chest pressure, but appeared comfortable
+
+Underwent PCI: 100% RCA occlusion stented
+
+LCx open but small, supplied little posterior wall
+
+Receiving cardiologist described case as “challenging”
+
+Key ECG Pattern (Posterior OMI)
+
+This case demonstrates classic pattern:
+
+Inferior STE with reciprocal STD in aVL (may be subtle, not meeting STEMI criteria)
+
+ST depression maximal in V2–V3 → posterior OMI (high specificity)
+
+Increasing anterior R-wave progression can support posterior infarction
+
+Inferior T-wave inversion can indicate reperfusion or ongoing ischemia depending on symptoms
+
+System-Level Learning Points
+
+High pretest probability matters
+Elderly + known CAD + ischemic symptoms waking from sleep → assume acute coronary pathology.
+
+Do not anchor on ILI
+Viral illness does not exclude MI and can precipitate plaque rupture.
+
+Do not wait for troponin when ECG is diagnostic
+Early troponin can be negative even in true occlusion.
+
+Posterior leads can be falsely negative and can be placed wrong
+Posterior OMI is best diagnosed using V1–V3 mirror findings.
+
+“NSTEMI” label can delay life-saving cath
+Many NSTEMI patients have an occluded artery; delays lead to preventable myocardial loss.
+
+Bottom Line (One Sentence)
+
+In a high-risk chest pain patient, convex STE in III with reciprocal STD in aVL plus maximal STD in V2–V3 is infero-posterior OMI until proven otherwise — and requires emergent cath regardless of initial troponin or symptom attribution to ILI.

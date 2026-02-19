@@ -1,0 +1,40 @@
+87-year-old with chest pain
+
+This prehospital ECG was obtained from an elderly male with new onset chest pain. The pain was substernal 7/10, crushing in nature and radiating to the neck. He had a medical history significant for type II DM treated with insulin, DVT and abdominal surgery. How would you assess this ECG?
+
+Prehospital ECG (ECG #1)
+
+Interpretation: The ECG shows sinus rhythm with a heart rate of approximately 50 beats per minute. The QRS duration is 110 ms, and in lead I the QRS morphology, along with absent significant R waves in V1–V2, is consistent with incomplete left bundle branch block. There is minimal J-point elevation noted in the anterolateral and high-lateral leads. T waves in leads V3–V6 are notably hyperacute, with the most pronounced T wave changes seen in lead V5. These subtle ECG changes were not noticed or commented on by providers.
+
+The patient arrived in the emergency department with ongoing chest pain unresponsive to morphine and nitroglycerin. Initial high-sensitivity troponin I was mildly elevated at 35 ng/L (reference <34 ng/L). A repeat troponin I, drawn 3 hours later, showed a marked increase to 592 ng/L. The subsequent ECG was recorded after this second troponin result, though it is unclear if chest pain persisted at that time.
+
+Repeat ECG done in the ED (ECG #2)
+
+This ECG has some baseline wander, but essentially it shows the same findings as the initial one, strongly suggesting the patient likely remained symptomatic at the time this ECG was recorded. There are no clear signs of reperfusion.
+
+Despite the rising troponin levels (and probable ongoing chest pain), the patient was not taken to the catheterization lab but was admitted to the hospital instead. Troponin I levels increased to 23,076 ng/L overnight, and rose further to 35,906 ng/L in the morning. Both ECGs in this case independently meet criteria for diagnosing occlusion myocardial infarction (OMI). Additionally, comparison with a previous baseline ECG, which was available for this patient, makes the changes even more evident.
+
+In the image below, selected leads from the prehospital ECG are compared with baseline. The change from prior can only be caused by ischemia.
+
+Notice the concordant T wave in lead I, and the hyperacute T waves in leads V5 and V6 in the prehospital ECG when compared to baseline.
+
+The Queen of Hearts was not used in the patient management in this case. Had this AI model been used, she would have identified the occlusion myocardial infarction. See the below image for the QoH interpretation with explainability map for the initial ECG in today’s case.
+
+QoH with explainability for ECG #1
+
+As you can see, the AI model highlights subtle concordant ST segment convexity in lead I, as well as hyperacute, prominent T waves in the lateral chest leads. Additionally, there is an inappropriately isoelectric ST segment in lead III, where one would typically expect slight ST elevation given the marked S wave. Collectively, these features are diagnostic for occlusion myocardial infarction (OMI).
+
+How certain can you be that this ECG represents OMI? I was sent this ECG by my colleague Dr. Vinje without clinical information. My response was, “OMI until proven otherwise.”
+
+The Queen of Hearts AI model classified this ECG as a STEMI-equivalent (OMI), outputting a value of 0.981 for active OMI, corresponding to approximately 99–99.5% specificity.
+
+Discussion
+
+This 87-year-old man was ultimately referred for coronary angiography. During the procedure, a 100% occlusion of the first diagonal branch (D1) was identified and successfully stented. The rest of the coronary arteries showed only mild atheromatosis without significant obstructive lesions. The angiogram took place more than 24 hours after symptom onset. Opening a coronary artery that has been fully occluded for more than 24 hours provides little prognostic benefit.
+
+Learning points
+
+When you have a diagnostic ECG, do not wait for troponin.
+A patient with rising troponin and ongoing refractory chest pain needs to go to the cath lab.
+Comparison to a baseline ECG should be done when available.
+Subtle ECG changes are often diagnostic.

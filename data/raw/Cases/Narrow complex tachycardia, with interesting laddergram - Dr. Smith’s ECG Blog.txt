@@ -1,0 +1,87 @@
+Case Summary
+
+A woman in her late 70s presented to the emergency department with nausea, vomiting, and diarrhea. An ECG was obtained.
+
+Initial ECG (ECG 1)
+
+The rhythm was regular, narrow complex tachycardia and was initially interpreted as atrial flutter with 2:1 AV block. The patient received metoprolol 5 mg IV and subsequently converted to sinus rhythm.
+
+Reconsidering the Diagnosis
+
+Metoprolol does not cardiovert atrial flutter or atrial fibrillation; it only slows AV nodal conduction. While spontaneous conversion is possible, successful conversion after metoprolol strongly suggests the rhythm was not atrial flutter.
+
+Alternative diagnoses for a regular narrow-complex tachycardia include:
+
+AVNRT
+
+AVRT
+
+Atrial tachycardia
+
+To differentiate SVT mechanisms, comparison of QRS morphology between sinus rhythm and tachycardia is useful to detect concealed atrial activity.
+
+Key ECG Clue (Lead V3)
+
+Side-by-side comparison of lead V3 showed:
+
+Loss of the R wave during tachycardia (possibly lead position–related)
+
+A terminally positive deflection at the end of the QRS during tachycardia
+
+This terminal deflection cannot be explained by lead placement and is most consistent with atrial activity.
+
+Using marching calipers showed no additional P wave halfway between beats, excluding 2:1 flutter conduction.
+
+This terminal deflection represents a “pseudo R′”, a classic finding of typical AVNRT (often best seen in V1, but in this case visible in V3).
+
+Mechanism of Typical AVNRT
+
+Typical AVNRT occurs in patients with dual AV nodal pathways:
+
+A fast pathway
+
+A slow pathway
+
+During sinus rhythm:
+
+Impulses enter both pathways
+
+The fast pathway reaches the ventricles first
+
+Slow pathway conduction arrives when the His–Purkinje system is refractory and is electrically silent (“concealed conduction”)
+
+Clinical Course
+
+The patient was discharged on amiodarone and therapeutic anticoagulation.
+
+Several days later, she re-presented with dizziness. ECG showed junctional bradycardia with heart rate in the 30s. Amiodarone was held and she was admitted.
+
+Telemetry Findings
+
+Telemetry heart rate trend showed an abrupt rate change, prompting rhythm review.
+
+Rhythm Interpretation (Laddergram Explanation)
+
+Initial beats were junctional escape beats with antegrade ventricular conduction and retrograde conduction up both AV nodal pathways, with concealed conduction via the slow pathway.
+
+A brief burst of atrial ectopy occurred (P waves 5–9).
+
+Early atrial impulses conducted via the fast pathway.
+
+Subsequent impulses found the fast pathway refractory and conducted via the slow pathway, producing progressively longer PR intervals (decremental conduction).
+
+One atrial impulse conducted extremely slowly down the slow pathway; by the time it reached the distal AV node, the fast pathway had recovered, initiating re-entry.
+
+Because the resulting rate was <100 bpm, this was termed atrioventricular nodal reentrant arrhythmia, rather than tachycardia.
+
+Definitive Management
+
+The patient underwent electrophysiology study, which demonstrated easily inducible AVNRT. She underwent successful ablation.
+
+Learning Points
+
+Compare QRS morphology between sinus rhythm and SVT to detect concealed atrial activity, especially a pseudo R′.
+
+Telemetry heart rate trend lines are valuable for identifying arrhythmia onset and termination.
+
+Abrupt termination of a narrow-complex tachycardia with AV nodal blockers strongly favors a node-dependent mechanism (AVNRT or AVRT).

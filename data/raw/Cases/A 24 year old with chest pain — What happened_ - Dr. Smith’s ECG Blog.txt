@@ -1,0 +1,124 @@
+A 24 year old with chest pain — What happened?
+
+This was written up by one of our superb EM/IM residents, Emily Syverud.
+
+A 24-year-old man presented to the ED early in the morning with burning chest pain that had started suddenly the night before while watching TV, he also reported some associated nausea and vomiting. He played soccer earlier in the evening without any chest pain at all. A week earlier he had been sick with a URI-type illness, this had since resolved. Here is his initial EKG:
+
+What do you think?
+
+The conventional (Veritas) computer interpretation was this:
+SINUS BRADYCARDIA WITH SINUS ARRHYTHMIA
+ST ELEVATION CONSISTENT WITH INJURY, PERICARDITIS, OR EARLY REPOLARIZATION
+
+But the final interpretation was changed by the physician to this:
+SINUS BRADYCARDIA WITH SINUS ARRHYTHMIA
+Nonspecifc ST changes, inferior elevation.
+
+Emily writes this:
+
+There is STE in leads II, III, and aVF with reciprocal STD in aVL, diagnostic for OMI. This was recognized as abnormal by the team taking care of him, but characterized as nonspecific ST changes. His initial high-sensitivity troponin was 248 ng/L. Given his age and the preceding URI symptoms, they were concerned about pericarditis (which brings to mind one of Dr. Smithʼs famous quotes “you diagnose pericarditis at your peril”). They performed a bedside cardiac ultrasound which did not show any large wall motion abnormalities. With some concern for ACS they loaded him with aspirin and decided to trend troponins and repeat an EKG.
+
+Smith: This is ACTIVE inferior OMI!! The cath lab should be activated immediately based on the ECG alone without waiting for troponin!!
+
+There is virtually never reciprocal ST depression in pericarditis, as there is here in aVL. We showed this years ago in this study: ST depression in lead aVL differentiates inferior ST-elevation myocardial infarction from pericarditis
+
+However, myocarditis can mimic OMI nearly perfectly, and can indeed have reciprocal ST depression. (Moreover, if this is inflammation (myopericarditis), it is myocarditis (not pericarditis) if there is an elevated troponin.)
+
+Here is the diagnosis of the PMCardio Queen of Hearts AI Model (she of course diagnoses OMI (STEMI equivalent = OMI).
+
+Case continued by Emily:
+
+His troponin continued to rise with a 2H repeat elevated at 601. A repeat EKG was then obtained:
+
+Smith: this shows reperfusion of the inferior OMI. The ST Elevation is resolved and the T-waves have inverted. There is also T-wave inversion in V4-6, which tells us that this is also an area of infarct that I did not see and neither did the Queen!! If the patient is now completely chest pain free, then there is much less urgency for immediate cath.
+
+Emily continues:
+
+The STE in II, III, and aVF is still present, though not as obvious as before. He now has STE in V3-V5 and new TWI in the inferior and lateral leads. With the dynamic changes and rising troponin, cardiology was consulted. They collected additional history during which the patient described a possible positional and pleuritic component to his pain.
+
+In my experience, if a cardiologist canʼt believe that a 24 year old had an MI, they will interpret the history to conform to that bias. So I do not believe that the chest pain was positional and/or pleuritic.
+
+This, along with his young age and lack of risk factors, led them to also conclude that myocarditis or myopericarditis was most likely, despite noting his rising troponin, dynamic EKG changes, and possible wall motion abnormality on a formal TTE. They did recommend starting a heparin drip as ACS could not be ruled out. They recommended obtaining a CT Coronary Angiogram (CTCA) to evaluate his coronary arteries.
+
+Smith: Myocarditis is possible with this initial EKG, however, you cannot differentiate OMI from myocarditis using troponin or wall motion abnormality. Myocarditis will also have a rising troponin. It will also have a wall motion abnormality. The only way to differentiate on an EMERGENCY basis is using angiogram.
+
+Moreover, you donʼt get a RAPID reperfusion pattern (decreased pain, resolving ST Elevation, and T-wave inversion) with myocarditis. Myocarditis is more indolent, and resolution is not so rapid.
+
+So how else would you make the diagnosis of myocarditis?
+
+If there is no culprit on angiogram, it can still be MINOCA (Myocardial Infarction with Non-Obstructive Coronary Arteries). The interventionalist could verify Type 1 MI (plaque rupture) with Optical Coherence Tomography (OCT) or IVUS. If none is found, then myocarditis or Type 2 MI are likely. In order to differentiate the two, one would need MRI.
+
+Inflammatory markers are also helpful.
+
+As it was now daytime hours, the CTCA was obtained relatively quickly and notable for severe LAD stenosis. At this point I went to collect a history as part of the admitting team and was concerned when he told me that his chest pain was much better, only a 1/10 compared to the 8/10 when he had arrived.
+
+With his ongoing chest pain and the CTCA results, I was very concerned about ongoing ischemia – another thing Steve Smith has taught me is that 1/10 pain is still refractory pain and warrants more urgent PCI! I talked with his ED team who started a nitroglycerin drip and when that did not immediately resolve his pain, they conferred with cardiology who agreed to take him for an angiogram.
+
+His angiogram showed a culprit lesion in the mid-LAD with embolization to the wraparound LAD which explains his inferior findings on EKG. IVUS was used to characterize the lesion given his young age and lack of any ACS risk factors, it was NOT characteristic of SCAD and indicated True ruptured atherosclerotic plaque. He underwent PCI with a DES and aspiration thrombectomy in the LAD. His lab workup did not show any hyperlipidemia, so he is currently being evaluated for hypercoagulability as an etiology for his atherosclerosis. He has not had a repeat TTE since his PCI, but has not had any clinical signs or symptoms of heart failure.
+
+This case was an important reminder for me that OMI can occur in any patient, even those without clear risk factors. This manʼs young age and his red herring URI symptoms led really excellent providers to explain away symptoms, labs, and EKG findings that would have likely triggered more urgent intervention in an older patient. Fortunately for this young man, he continues to recover well.
+
+The highest troponin measured was 7500 ng/L, but it was not measured to peak.
+
+Smith: I always say that the second worst thing you can be if you have an MI is to be a young man. The worst thing is to be a young woman.
+
+======================================
+
+MY Comment, by KEN GRAUER, MD
+(10/15/2025):
+
+My thoughts on seeing todayʼs initial ECG were simply, When the ECG is concerning ==> Believe the ECG until you prove otherwise!
+
+While totally understandable that providers might question the likelihood that an active, previously healthy 24-year old man with a recent URI would suddenly present to the ED with an acute MI — his initial ECG (that Iʼve reproduced below in Figure-1) said otherwise.
+
+In such cases — we need to prove that the ECG is wrong, rather than the other way around.
+
+And, when the initial Troponin is also significantly elevated ==> We need to determine WHY …
+
+The Lessons-to-be-Learned from todayʼs case are cogently highlighted by Drs. Syverud and Smith. Among them:
+
+Acute OMI can occur in any patient, including previously healthy young adult men.
+
+True acute pericarditis is rare — especially when the ECG looks much more like an acute OMI or myocarditis.
+
+The young age of todayʼs patient, his unremarkable prior medical history, and the increased initial Troponin combine to statistically favor acute myocarditis over OMI. That said, as per Dr. Smith — acute myocarditis may mimic perfectly the clinical findings of OMI, such that the only way to acutely distinguish between these 2 conditions is by cardiac cath.
+
+The 2 ECGs in Todayʼs CASE:
+
+For ease of comparison in Figure-1 — Iʼve put todayʼs 2 ECGs together.
+
+Todayʼs initial ECG does not suggest acute pericarditis because:
+i) ST elevation is localized to the inferior leads — rather than being generalized, as it should be with acute pericarditis;
+ii) The ST-T wave pattern in lead II looks similar to that in lead III, and does not at all look like the pattern in lead I (whereas the opposite tends to be true with acute pericarditis);
+iii) Acute pericarditis does not produce reciprocal ST depression — whereas this invaluable finding is convincingly present in lead aVL;
+iv) The ST/T wave ratio in lead V6 is normal (ie, there is no more than minimal ST elevation in lead V6 vs a much taller T wave in this lead).
+
+Instead — todayʼs initial ECG strongly suggests an acute OMI:
+
+In a patient with new CP (Chest Pain) — my “eye” was immediately drawn to the straightened ST segment takeoff, in association with definite ST elevation in each of the inferior leads.
+
+In addition — Q waves are present in each of the inferior leads, with the Q in lead III being surprisingly deep relative to modest R wave amplitude in this lead. And while inferior lead Q waves are not necessarily an abnormal finding — it is much less common to see such Q waves when the frontal plane axis is relatively horizontal, as it is in ECG #1.
+
+Reciprocal ST depression is definitely present in lead aVL.
+
+Acute posterior OMI is also suggested in ECG #1 — because there is loss of the gentle, slight upward concavity ST elevation that is normally seen in both leads V2 and V3 (note that this gently upsloping ST elevation is present in lead V3 — whereas the ST segment in lead V2 is flat and isoelectric).
+
+P.S.: The final point that Iʼll note is the suggestion of T-QRS-D (Terminal QRS Distortion) in leads III and aVF. To emphasize that the diagnostic significance of this finding in the inferior leads is uncertain — however, it does occur here in association with other convincing findings of OMI.
+
+The Repeat ECG in Todayʼs CASE:
+
+Of note — the initial ECG in todayʼs case was apparently not repeated until ~2 hours had passed (and then, seemingly because of the increase in Troponin). In a patient who presents with new, severe CP (rated 8/10 by this patient on arrival in the ED) about whom there is uncertainty as to whether there is an ongoing acute OMI — no more than 15–20 minutes should pass before repeating the initial ECG. Doing so might have expedited cardiac cath in todayʼs case.
+
+Comparison between serial ECGs is most easily accomplished when the 2 tracings are placed side-by-side.
+
+The persistent size of the Q wave in lead III now looks even more like an infarction Q wave next to its small R wave and terminal T wave inversion.
+
+Appreciation of just how abnormal the ST segment straightening was in each of the inferior leads on the initial ECG — is now readily apparent in comparison with the deflation and change in ST-T wave shape seen in ECG #2.
+
+Note that S waves have now reformed in leads III and aVF (whereas they were absent in ECG #1).
+
+Reciprocal ST segment flattening and depression in lead aVL has now totally resolved.
+
+The flattened isoelectric ST segment in lead V2 is no longer seen in the repeat ECG.
+
+Finally — reperfusion T waves (in association with improved but not completely resolved CP) are now seen in multiple leads (T wave inversion in leads III, aVF; V3, V4, V5 — along with ST segment flattening in leads II and V6 that are probably in transition toward T wave inversion given their previous appearance in ECG #1).

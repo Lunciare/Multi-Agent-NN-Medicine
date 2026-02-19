@@ -1,0 +1,1256 @@
+Venous thromboembolic diseases: diagnosis, management and thrombophilia testing
+Overview
+This guideline covers diagnosing and managing venous thromboembolic diseases in
+adults. It aims to support rapid diagnosis and effective treatment for people who develop
+deep vein thrombosis (DVT) or pulmonary embolism (PE). It also covers testing for
+conditions that can make a DVT or PE more likely, such as thrombophilia (a blood clotting
+disorder) and cancer. It does not cover pregnant women.
+See the MHRA advice on warfarin and other anticoagulants – monitoring of patients during
+the COVID-19 pandemic, which includes reports of supratherapeutic anticoagulation with
+warfarin.
+Who is it for?
+• Commissioners and providers of venous thromboembolism services
+• Healthcare professionals in primary, secondary and tertiary care
+• Adults (18 and over) with suspected or confirmed DVT or PE, their families and carers
+• First-degree relatives of people with inherited thrombophilia or other venous
+thromboembolic diseases
+
+ 
+Recommendations
+People have the right to be involved in discussions and make informed decisions
+about their care, as described in NICE's information on making decisions about your
+care.
+Making decisions using NICE guidelines explains how we use words to show the
+strength (or certainty) of our recommendations, and has information about
+prescribing medicines (including off-label use), professional guidelines, standards
+and laws (including on consent and mental capacity), and safeguarding.
+1.1 Diagnosis and initial management
+NICE has produced a visual summary of the recommendations on diagnosis and initial
+management of suspected deep vein thrombosis (DVT) and pulmonary embolism (PE).
+Signs or symptoms of DVT
+1.1.1 For people who present with signs or symptoms of DVT, such as a swollen or
+painful leg, assess their general medical history and do a physical examination to
+exclude other causes. [2012]
+1.1.2 If DVT is suspected, use the 2-level DVT Wells score (table 1) to estimate the
+clinical probability of DVT. [2012]
+Table 1 Two-level DVT Wells score
+Clinical feature Points
+Active cancer (treatment ongoing, within 6 months, or palliative) 1
+Paralysis, paresis or recent plaster immobilisation of the lower extremities 1
+Recently bedridden for 3 days or more, or major surgery within 12 weeks
+1
+requiring general or regional anaesthesia
+Localised tenderness along the distribution of the deep venous system 1
+
+ 
+Clinical feature Points
+Entire leg swollen 1
+Calf swelling at least 3 cm larger than asymptomatic side 1
+Pitting oedema confined to the symptomatic leg 1
+Collateral superficial veins (non-varicose) 1
+Previously documented DVT 1
+An alternative diagnosis is at least as likely as DVT -2
+Clinical probability simplified score Points
+2 points
+DVT likely
+or more
+1 point or
+DVT unlikely
+less
+Adapted with permission from Wells et al. (2003) Evaluation of D-dimer in the diagnosis of
+suspected deep-vein thrombosis.
+DVT likely (Wells score 2 points or more)
+1.1.3 Offer people with a likely DVT Wells score (2 points or more):
+• a proximal leg vein ultrasound scan, with the result available within 4 hours if
+possible (if the scan result cannot be obtained within 4 hours follow
+recommendation 1.1.4)
+• a D-dimer test if the scan result is negative. [2012]
+1.1.4 If a proximal leg vein ultrasound scan result cannot be obtained within 4 hours,
+offer people with a DVT Wells score of 2 points or more:
+• a D-dimer test, then
+• interim therapeutic anticoagulation (see the section on interim therapeutic
+anticoagulation for suspected DVT or PE) and
+• a proximal leg vein ultrasound scan with the result available within 24 hours.
+[2012, amended 2020]
+
+ 
+1.1.5 For people with a positive proximal leg vein ultrasound scan:
+• offer or continue anticoagulation treatment (see the section on
+anticoagulation treatment for confirmed DVT or PE) or
+• if anticoagulation treatment is contraindicated, offer a mechanical
+intervention (see the section on mechanical interventions).
+For people with symptomatic iliofemoral DVT, see the section on thrombolytic
+therapy. [2012]
+1.1.6 For people with a negative proximal leg vein ultrasound scan and a positive
+D-dimer test result:
+• stop interim therapeutic anticoagulation, but do not stop:
+－ long-term anticoagulation when used for secondary prevention [2012,
+amended 2020], or
+－ short-term anticoagulation when used for primary venous
+thromboembolism (VTE) prevention in people with COVID-19 (see the
+recommendations on VTE prophylaxis in the NICE guideline on managing
+COVID-19) [2023]
+• offer a repeat proximal leg vein ultrasound scan 6 to 8 days later and
+－ if the repeat scan result is positive, follow the actions in
+recommendation 1.1.5 [2012, amended 2020]
+－ if the repeat scan result is negative, follow the actions in
+recommendation 1.1.7. [2012, amended 2020]
+1.1.7 For people with a negative proximal leg vein ultrasound scan and a negative
+D-dimer test result:
+• stop interim therapeutic anticoagulation, but do not stop:
+－ long-term anticoagulation when used for secondary prevention [2012,
+amended 2020], or
+－ short-term anticoagulation when used for primary VTE prevention in
+
+ 
+people with COVID-19 (see the recommendations on VTE prophylaxis in
+the NICE guideline on managing COVID-19) [2023]
+• think about alternative diagnoses [2012, amended 2020]
+• tell the person that it is not likely they have DVT. Discuss with them the signs
+and symptoms of DVT and when and where to seek further medical help.
+[2012, amended 2020]
+DVT unlikely (Wells score 1 point or less)
+1.1.8 Offer people with an unlikely DVT Wells score (1 point or less):
+• a D-dimer test with the result available within 4 hours (see the section on D-
+dimer testing) or
+• if the D-dimer test result cannot be obtained within 4 hours, offer interim
+therapeutic anticoagulation while awaiting the result (see the section on
+interim therapeutic anticoagulation for suspected DVT or PE). [2012,
+amended 2020]
+1.1.9 If the D-dimer test result is negative, follow the actions in recommendation 1.1.7.
+[2012]
+1.1.10 If the D-dimer test result is positive, offer:
+• a proximal leg vein ultrasound scan, with the result available within 4 hours if
+possible or
+• interim therapeutic anticoagulation (see the section on interim therapeutic
+anticoagulation for suspected DVT or PE) and a proximal leg vein ultrasound
+scan with the result available within 24 hours. [2012, amended 2020]
+1.1.11 If the proximal leg vein ultrasound scan is:
+• positive, follow the actions in recommendation 1.1.5 [2012]
+• negative, follow the actions in recommendation 1.1.7, that is:
+
+ 
+－ stop interim therapeutic anticoagulation, but do not stop:
+◇ long-term anticoagulation when used for secondary prevention
+[2012], or
+◇ short-term anticoagulation when used for primary VTE prevention in
+people with COVID-19 (see the recommendations on VTE prophylaxis
+in the NICE guideline on managing COVID-19) [2023]
+－ think about alternative diagnoses [2012]
+－ tell the person that it is not likely they have DVT. Discuss with them the
+signs and symptoms of DVT and when and where to seek further medical
+help. [2012]
+For a short explanation of why the committee made the 2023 recommendations and
+how they might affect practice, see the rationale and impact section on diagnosis and
+initial management in people with COVID-19.
+Full details of the evidence and the committee's discussion are in evidence review I:
+diagnosing VTE in people with COVID-19.
+D-dimer testing
+1.1.12 When offering D-dimer testing for suspected DVT or PE, consider a point-of-care
+test if laboratory facilities are not immediately available. [2020]
+1.1.13 If using a point-of-care D-dimer test, choose a fully quantitative test. [2020]
+1.1.14 When using a point-of-care or laboratory D-dimer test, consider an age-adjusted
+D-dimer test threshold for people aged over 50. [2020]
+
+ 
+For a short explanation of why the committee made the 2020 recommendations and
+how they might affect practice, see the rationale and impact section on D-dimer
+testing.
+Full details of the evidence and the committee's discussion are in evidence review A:
+D-dimer testing in the diagnosis of deep vein thrombosis and pulmonary embolism.
+Signs or symptoms of PE
+1.1.15 For people who present with signs or symptoms of PE, such as chest pain,
+shortness of breath or coughing up blood, assess their general medical history,
+do a physical examination and offer a chest X-ray to exclude other causes. [2012]
+Pulmonary embolism rule-out criteria (the PERC rule)
+1.1.16 If clinical suspicion of PE is low based on the overall clinical impression (from
+general medical history, physical examination and any initial investigations such
+as electrocardiography or chest X-ray), and other diagnoses are feasible,
+consider using the pulmonary embolism rule-out criteria (PERC) to help determine
+whether any further investigations for PE are needed.
+Be aware that the PERC rule has not been validated in people with COVID-19.
+[2020, amended 2023]
+For a short explanation of why the committee made the 2020 recommendation and
+amended the recommendation in 2023 and how it might affect practice, see the
+rationale and impact section on the PERC rule.
+Full details of the evidence and the committee's discussion are in evidence review B:
+the use of the pulmonary embolism rule-out criteria for diagnosis of pulmonary
+embolism and supporting document: refresh of recommendation 1.1.16 on the PERC
+rule.
+1.1.17 If PE is suspected, use the 2-level PE Wells score (table 2) to estimate the clinical
+
+ 
+probability of PE. [2012]
+Table 2 Two-level PE Wells score
+Clinical feature Points
+Clinical signs and symptoms of DVT (minimum of leg swelling and pain
+3
+with palpation of the deep veins)
+An alternative diagnosis is less likely than PE 3
+Heart rate more than 100 beats per minute 1.5
+Immobilisation for more than 3 days or surgery in the previous 4 weeks 1.5
+Previous DVT/PE 1.5
+Haemoptysis 1
+Malignancy (on treatment, treated in the last 6 months, or palliative) 1
+Clinical probability simplified score Points
+More than
+PE likely
+4 points
+4 points or
+PE unlikely
+less
+Adapted with permission from Wells et al. (2000) Derivation of a simple clinical model to
+categorize patients' probability of pulmonary embolism: increasing the model's utility with
+the SimpliRED D-dimer.
+PE likely (Wells score more than 4 points)
+1.1.18 For people with a likely PE Wells score (more than 4 points):
+• offer a computed tomography pulmonary angiogram (CTPA) immediately if
+possible or
+• for people with an allergy to contrast media, severe renal impairment
+(estimated creatinine clearance less than 30 ml/min) or a high risk from
+irradiation, assess the suitability of a ventilation/perfusion single photon
+emission computed tomography (V/Q SPECT) scan or, if a V/Q SPECT scan is
+not available, a V/Q planar scan, as an alternative to CTPA.
+
+ 
+If a CTPA, V/Q SPECT or V/Q planar scan cannot be done immediately, offer
+interim therapeutic anticoagulation (see the section on interim therapeutic
+anticoagulation for suspected DVT or PE). [2012, amended 2020]
+1.1.19 If PE is identified by CTPA, V/Q SPECT or V/Q planar scan:
+• offer or continue anticoagulation treatment (see the section on
+anticoagulation treatment for confirmed DVT or PE) or
+• if anticoagulation treatment is contraindicated, consider a mechanical
+intervention (see the section on mechanical interventions).
+For people with PE and haemodynamic instability, see the section on
+thrombolytic therapy. [2012, amended 2020]
+1.1.20 If PE is not identified by CTPA, V/Q SPECT or V/Q planar scan:
+• consider a proximal leg vein ultrasound scan if DVT is suspected [2012,
+amended 2020]
+• if DVT is not suspected:
+－ stop interim therapeutic anticoagulation, but do not stop:
+◇ long-term anticoagulation when used for secondary prevention
+[2012, amended 2020], or
+◇ short-term anticoagulation when used for primary VTE prevention in
+people with COVID-19 (see the recommendations on VTE prophylaxis
+in the NICE guideline on managing COVID-19) [2023]
+－ think about alternative diagnoses [2012, amended 2020]
+－ tell the person that it is not likely they have PE. Discuss with them the
+signs and symptoms of PE and when and where to seek further medical
+help. [2012, amended 2020]
+
+ 
+PE unlikely (Wells score 4 points or less)
+1.1.21 Offer people with an unlikely PE Wells score (4 points or less):
+• a D-dimer test with the result available within 4 hours if possible (see the
+section on D-dimer testing) [2012, amended 2020] or
+• if the D-dimer test result cannot be obtained within 4 hours (in any setting),
+offer interim therapeutic anticoagulation while awaiting the result (see the
+section on interim therapeutic anticoagulation for suspected DVT or PE).
+[2012, amended 2020]
+If the D-dimer test result is:
+• positive, follow the actions in recommendations 1.1.18 and 1.1.19 [2012,
+amended 2020]
+• negative:
+－ stop interim therapeutic anticoagulation, but do not stop:
+◇ long-term anticoagulation when used for secondary prevention
+[2012, amended 2020], or
+◇ short-term anticoagulation when used for primary VTE prevention in
+people with COVID-19 (see the recommendations on VTE prophylaxis
+in the NICE guideline on managing COVID-19) [2023]
+－ think about alternative diagnoses [2012, amended 2020]
+－ tell the person that it is not likely they have PE. Discuss with them the
+signs and symptoms of PE and when and where to seek further medical
+help. [2012, amended 2020]
+For a short explanation of why the committee made the 2023 recommendations and
+how they might affect practice, see the rationale and impact section on diagnosis and
+initial management in people with COVID-19.
+Full details of the evidence and the committee's discussion are in evidence review I:
+diagnosing VTE in people with COVID-19.
+
+ 
+Signs or symptoms of both DVT and PE
+1.1.22 For people who present with signs or symptoms of both DVT and PE, carry out
+initial diagnostic investigations for either DVT or PE, basing the choice of
+diagnostic investigations on clinical judgement. [2012]
+1.2 Outpatient treatment for low-risk PE
+1.2.1 Consider outpatient treatment for suspected or confirmed low-risk PE, using a
+validated risk stratification tool to determine the suitability of outpatient
+treatment. [2020]
+1.2.2 When offering outpatient treatment to people with suspected PE, follow
+recommendations 1.1.15 to 1.1.21 on diagnosis and initial management. [2020]
+1.2.3 When offering outpatient treatment to people with confirmed PE, follow the
+recommendations in the section on anticoagulation treatment for confirmed DVT
+or PE. [2020]
+1.2.4 Agree a plan for monitoring and follow-up with people having outpatient
+treatment for suspected or confirmed low-risk PE. Give them:
+• written information on symptoms and signs to look out for, including the
+potential complications of thrombosis and of treatment
+• direct contact details of a healthcare professional or team with expertise in
+thrombosis who can discuss any new symptoms or signs, or other concerns
+• information about out-of-hours services they can contact when their
+healthcare team is not available. [2020]
+For a short explanation of why the committee made the 2020 recommendations and
+how they might affect practice, see the rationale and impact section on outpatient
+treatment for low-risk PE.
+Full details of the evidence and the committee's discussion are in evidence review E:
+outpatient treatment of low-risk pulmonary embolism.
+
+ 
+1.3 Anticoagulation treatment for suspected or
+confirmed DVT or PE
+NICE has produced a visual summary of the recommendations on anticoagulation
+treatment for DVT or PE.
+1.3.1 When offering anticoagulation treatment, follow the recommendations on shared
+decision making and supporting adherence in the NICE guidelines on medicines
+optimisation, medicines adherence, patient experience in adult NHS services and
+shared decision making. [2020]
+Interim therapeutic anticoagulation for suspected DVT or PE
+1.3.2 Follow the recommendations on when to offer interim therapeutic anticoagulation
+for suspected proximal DVT or PE in the section on diagnosis and initial
+management. [2020]
+1.3.3 If possible, choose an interim anticoagulant that can be continued if DVT or PE is
+confirmed (see the section on anticoagulation treatment for confirmed DVT or
+PE). [2020]
+In March 2020, direct-acting anticoagulants and some low molecular weight
+heparins (LMWHs) were off label for the treatment of suspected DVT or PE. See
+NICE's information on prescribing medicines.
+1.3.4 When using interim therapeutic anticoagulation for suspected proximal DVT or
+PE:
+• carry out baseline blood tests including full blood count, renal and hepatic
+function, prothrombin time (PT) and activated partial thromboplastin time
+(APTT)
+• do not wait for the results of baseline blood tests before starting
+anticoagulation treatment
+• review, and if necessary act on, the results of baseline blood tests within
+
+ 
+24 hours of starting interim therapeutic anticoagulation. [2020]
+Anticoagulation treatment for confirmed DVT or PE
+1.3.5 Offer anticoagulation treatment for at least 3 months to people with confirmed
+proximal DVT or PE. For recommendations on treatment after 3 months, see the
+section on long-term anticoagulation for secondary prevention. [2020]
+1.3.6 If not already done, carry out baseline blood tests, as outlined in
+recommendation 1.3.4, when starting anticoagulation treatment. [2020]
+1.3.7 When offering anticoagulation treatment, take into account comorbidities,
+contraindications and the person's preferences.
+Follow the recommendations on anticoagulation treatment in the sections on:
+• DVT or PE in people at extremes of body weight
+• PE with haemodynamic instability
+• DVT or PE with renal impairment or established renal failure
+• DVT or PE with active cancer
+• DVT or PE with triple positive antiphospholipid syndrome. [2020]
+1.3.8 Offer either apixaban or rivaroxaban to people with confirmed proximal DVT or PE
+(but see recommendations 1.3.11 to 1.3.20 for people with any of the clinical
+features listed in recommendation 1.3.7). If neither apixaban nor rivaroxaban is
+suitable offer:
+• LMWH for at least 5 days followed by dabigatran or edoxaban or
+• LMWH concurrently with a vitamin K antagonist (VKA) for at least 5 days, or
+until the international normalised ratio (INR) is at least 2.0 in 2 consecutive
+readings, followed by a VKA on its own. [2020]
+1.3.9 Do not routinely offer unfractionated heparin (UFH) with a VKA to treat confirmed
+
+ 
+proximal DVT or PE unless the person has renal impairment or established renal
+failure (see recommendations 1.3.13 and 1.3.14) or an increased risk of bleeding.
+[2020]
+1.3.10 Do not routinely offer self-management or self-monitoring of INR to people who
+have had DVT or PE and are having treatment with a VKA. [2012]
+Anticoagulation treatment for DVT or PE in people at extremes of body weight
+1.3.11 Consider anticoagulation treatment with regular monitoring of therapeutic levels
+for people with confirmed proximal DVT or PE who weigh less than 50 kg or more
+than 120 kg, to ensure effective anticoagulation.
+Note the cautions and requirements for dose adjustment and monitoring in the
+medicine's summary of product characteristics (SPC), and follow locally agreed
+protocols or advice from a specialist or multidisciplinary team. [2020]
+Anticoagulation treatment for PE with haemodynamic instability
+1.3.12 For people with confirmed PE and haemodynamic instability, offer continuous
+UFH infusion and consider thrombolytic therapy (see the section on thrombolytic
+therapy). [2020]
+Anticoagulation treatment for DVT or PE with renal impairment or established
+renal failure
+In March 2020, some LMWHs were off label for the treatment of DVT or PE in people
+with severe renal impairment (estimated creatinine clearance 15 ml/min to 30 ml/min)
+or established renal failure (estimated creatinine clearance less than 15 ml/min). See
+NICE's information on prescribing medicines.
+1.3.13 Offer people with confirmed proximal DVT or PE and renal impairment (estimated
+creatinine clearance between 15 ml/min and 50 ml/min) one of:
+
+ 
+• apixaban
+• rivaroxaban
+• LMWH for at least 5 days followed by:
+－ edoxaban or
+－ dabigatran if estimated creatinine clearance is 30 ml/min or above
+• LMWH or UFH, given concurrently with a VKA for at least 5 days or until the
+INR is at least 2.0 in 2 consecutive readings, followed by a VKA on its own.
+Note the cautions and requirements for dose adjustment and monitoring in
+the medicine's SPC, and follow locally agreed protocols or advice from a
+specialist or multidisciplinary team. [2020]
+1.3.14 Offer people with confirmed proximal DVT or PE and established renal failure
+(estimated creatinine clearance less than 15 ml/min) one of:
+• LMWH
+• UFH
+• LMWH or UFH concurrently with a VKA for at least 5 days or until the INR is
+at least 2.0 in 2 consecutive readings, followed by a VKA on its own.
+Note the cautions and requirements for dose adjustment and monitoring in
+the medicine's SPC, and follow locally agreed protocols or advice from a
+specialist or multidisciplinary team. [2020]
+Anticoagulation treatment for DVT or PE with active cancer
+In March 2020, most anticoagulants were off label for the treatment of DVT or PE in
+people with active cancer. See NICE's information on prescribing medicines.
+1.3.15 Offer people with active cancer and confirmed proximal DVT or PE
+
+ 
+anticoagulation treatment for 3 to 6 months. Review at 3 to 6 months according
+to clinical need. For recommendations on treatment after 3 to 6 months, see the
+section on long-term anticoagulation for secondary prevention. [2020]
+1.3.16 When choosing anticoagulation treatment for people with active cancer and
+confirmed proximal DVT or PE, take into account the tumour site, interactions
+with other drugs including those used to treat cancer, and the person's bleeding
+risk. [2020]
+1.3.17 Consider a direct-acting oral anticoagulant (DOAC) for people with active cancer
+and confirmed proximal DVT or PE. [2020]
+1.3.18 If a DOAC is unsuitable consider LMWH alone or LMWH concurrently with a VKA
+for at least 5 days, or until the INR is at least 2.0 in 2 consecutive readings,
+followed by a VKA on its own. [2020]
+1.3.19 For people with confirmed DVT or PE and cancer that is in remission, follow the
+recommendations in the section on anticoagulation treatment for confirmed DVT
+or PE. [2020]
+Anticoagulation treatment for DVT or PE with triple positive antiphospholipid
+syndrome
+1.3.20 Offer people with confirmed proximal DVT or PE and an established diagnosis of
+triple positive antiphospholipid syndrome LMWH concurrently with a VKA for at
+least 5 days, or until the INR is at least 2.0 in 2 consecutive readings, followed by
+a VKA on its own. [2020]
+Treatment failure
+1.3.21 If anticoagulation treatment fails:
+• check adherence to anticoagulation treatment
+• address other sources of hypercoagulability
+
+ 
+• increase the dose of anticoagulant or change to an anticoagulant with a
+different mode of action. [2020]
+NICE technology appraisal guidance on anticoagulation
+treatment for confirmed DVT or PE
+For direct-acting oral anticoagulants recommended as options in NICE technology
+appraisal guidance for treating and preventing confirmed DVT or PE, see the guidance on:
+• edoxaban (TA354, August 2015)
+• apixaban (TA341, June 2015)
+• dabigatran etexilate (TA327, December 2014)
+• rivaroxaban (TA287, June 2013 and TA261, July 2012).
+For a short explanation of why the committee made the 2020 recommendations and
+how they might affect practice, see the rationale and impact section on
+anticoagulation treatment for confirmed DVT or PE.
+Full details of the evidence and the committee's discussion are in evidence review D:
+pharmacological treatment in people with suspected or confirmed deep vein
+thrombosis and/or pulmonary embolism.
+Evidence review G: economic modelling report for pharmacological treatment also
+underpins recommendations 1.3.8, 1.3.9, 1.3.17 and 1.3.18.
+1.4 Long-term anticoagulation for secondary
+prevention
+1.4.1 Assess and discuss the benefits and risks of continuing, stopping or changing the
+anticoagulant with people who have had anticoagulation treatment for 3 months
+(3 to 6 months for people with active cancer) after a proximal DVT or PE. Follow
+
+ 
+the recommendations on shared decision making and supporting adherence in
+the NICE guidelines on medicines optimisation, medicines adherence and patient
+experience in adult NHS services. [2020]
+1.4.2 Consider stopping anticoagulation treatment 3 months (3 to 6 months for people
+with active cancer) after a provoked DVT or PE if the provoking factor is no longer
+present and the clinical course has been uncomplicated. If anticoagulation
+treatment is stopped, give advice about the risk of recurrence and provide:
+• written information on symptoms and signs to look out for
+• direct contact details of a healthcare professional or team with expertise in
+thrombosis who can discuss any new symptoms or signs, or other concerns
+• information about out-of-hours services they can contact when their
+healthcare team is not available. [2020]
+1.4.3 Consider continuing anticoagulation beyond 3 months (6 months for people with
+active cancer) after an unprovoked DVT or PE. Base the decision on the balance
+between the person's risk of VTE recurrence and their risk of bleeding. Discuss
+the risks and benefits of long-term anticoagulation with the person, and take
+their preferences into account. [2020]
+1.4.4 Explain to people with unprovoked DVT or PE and a low bleeding risk that the
+benefits of continuing anticoagulation treatment are likely to outweigh the risks.
+[2020]
+1.4.5 Do not rely solely on predictive risk tools to assess the need for long-term
+anticoagulation treatment. [2020]
+1.4.6 Consider using the HAS-BLED score for major bleeding risk to assess the risk of
+major bleeding in people having anticoagulation treatment for unprovoked
+proximal DVT or PE. Discuss stopping anticoagulation if the HAS-BLED score is 4
+or more and cannot be modified. [2020]
+1.4.7 Take into account the person's preferences and their clinical situation when
+selecting an anticoagulant for long-term treatment. [2020]
+
+ 
+1.4.8 For people who do not have renal impairment, active cancer, established triple
+positive antiphospholipid syndrome or extreme body weight (less than 50 kg or
+more than 120 kg):
+• offer continued treatment with the current anticoagulant if it is well tolerated
+or
+• if the current treatment is not well tolerated, or the clinical situation or
+person's preferences have changed, consider switching to apixaban if the
+current treatment is a direct-acting anticoagulant other than apixaban.
+[2020]
+1.4.9 For people with renal impairment, active cancer, established triple positive
+antiphospholipid syndrome or extreme body weight (less than 50 kg or more than
+120 kg), consider carrying on with the current treatment if it is well tolerated.
+[2020]
+1.4.10 If anticoagulation treatment fails follow the recommendation on treatment failure.
+[2020]
+1.4.11 For people who decline continued anticoagulation treatment, consider aspirin
+75 mg or 150 mg daily.
+In March 2020, the use of aspirin for secondary prevention of DVT or PE was off
+label. See NICE's information on prescribing medicines. [2020]
+1.4.12 Review general health, risk of VTE recurrence, bleeding risk and treatment
+preferences at least once a year for people taking long-term anticoagulation
+treatment or aspirin. [2020]
+
+ 
+For a short explanation of why the committee made the 2020 recommendations on
+reviewing anticoagulation treatment and how they might affect practice, see the
+rationale and impact section on long-term anticoagulation for secondary prevention.
+Full details of the evidence and the committee's discussion are in:
+• evidence review F: what factors determine the optimum duration of
+pharmacological treatment for DVT or PE in people with a VTE?
+• evidence review D: pharmacological treatment in people with suspected or
+confirmed deep vein thrombosis and/or pulmonary embolism (for
+recommendations 1.4.1 and 1.4.7 to 1.4.11).
+Evidence review G: economic modelling report for pharmacological treatment also
+underpins recommendation 1.4.8.
+1.5 Information and support for people having
+anticoagulation treatment
+1.5.1 Give people having anticoagulation treatment verbal and written information
+about:
+• how to use anticoagulants
+• how long to take anticoagulants
+• possible side effects of anticoagulants and what to do if these occur
+• how other medications, foods and alcohol can affect oral anticoagulation
+treatment
+• any monitoring needed for their anticoagulant treatment
+• how anticoagulants may affect their dental treatment
+• taking anticoagulants if they are planning pregnancy or become pregnant
+• how anticoagulants may affect activities such as sports and travel
+
+ 
+• when and how to seek medical help. [2012]
+1.5.2 Give people who are having anticoagulation treatment information and an
+'anticoagulant alert card' that is specific to their treatment. Advise them to carry
+the 'anticoagulant alert card' at all times. [2012]
+1.5.3 Be aware that heparins are of animal origin and that apixaban and rivaroxaban
+contain lactose from cow's milk. For people who have concerns about using
+animal products because of a religious or ethical belief, or a food intolerance, see
+the section on giving information and planning for discharge in the NICE guideline
+on venous thromboembolism in over 16s. [2012, amended 2020]
+1.6 Thrombolytic therapy
+DVT
+1.6.1 Consider catheter-directed thrombolytic therapy for people with symptomatic
+iliofemoral DVT who have:
+• symptoms lasting less than 14 days and
+• good functional status and
+• a life expectancy of 1 year or more and
+• a low risk of bleeding. [2012]
+See NICE's interventional procedures guidance on ultrasound-enhanced,
+catheter-directed thrombolysis for deep vein thrombosis.
+PE
+1.6.2 Consider pharmacological systemic thrombolytic therapy for people with PE and
+haemodynamic instability(see also the section on anticoagulation treatment for
+PE with haemodynamic instability). [2012]
+
+ 
+1.6.3 Do not offer pharmacological systemic thrombolytic therapy to people with PE
+and haemodynamic stability with or without right ventricular dysfunction (see
+also the section on anticoagulation treatment for DVT or PE). If the person
+develops haemodynamic instability, refer to recommendation 1.6.2. [2015]
+See NICE's interventional procedures guidance on ultrasound-enhanced,
+catheter-directed thrombolysis for pulmonary embolism.
+1.7 Mechanical interventions
+Inferior vena caval filters
+1.7.1 Do not offer an inferior vena caval (IVC) filter to people with proximal DVT or PE
+unless:
+• it is part of a prospective clinical study or
+• anticoagulation is contraindicated or a PE has occurred during
+anticoagulation treatment (see recommendations 1.7.2 and 1.7.3). [2020]
+1.7.2 Consider an IVC filter for people with proximal DVT or PE when anticoagulation
+treatment is contraindicated. Remove the IVC filter when anticoagulation
+treatment is no longer contraindicated and has been established. [2020]
+1.7.3 Consider an IVC filter for people with proximal DVT or PE who have a PE while
+taking anticoagulation treatment only after taking the steps outlined in the
+recommendation on treatment failure. [2020]
+1.7.4 Before fitting an IVC filter, ensure that there is a strategy in place for it to be
+removed at the earliest possible opportunity. Document the strategy and review it
+if the clinical situation changes. [2020]
+
+ 
+For a short explanation of why the committee made the 2020 recommendations and
+how they might affect practice, see the rationale and impact section on IVC filters.
+Full details of the evidence and the committee's discussion are in evidence review H:
+inferior vena caval filters for people with venous thromboembolism.
+Elastic graduated compression stockings
+1.7.5 Do not offer elastic graduated compression stockings to prevent post-thrombotic
+syndrome or VTE recurrence after a DVT. This recommendation does not cover
+the use of elastic stockings for the management of leg symptoms after DVT.
+[2015]
+1.7.6 If offering elastic graduated compression stockings to manage leg symptoms
+after DVT, explain how to apply and use them, how long they should be worn and
+when they should be replaced. [2012]
+Percutaneous mechanical thrombectomy
+See NICE's interventional procedures guidance on percutaneous mechanical
+thrombectomy for acute deep vein thrombosis of the leg.
+1.8 Investigations for cancer
+1.8.1 For people with unprovoked DVT or PE who are not known to have cancer, review
+the medical history and baseline blood test results including full blood count,
+renal and hepatic function, PT and APTT, and offer a physical examination.
+[2020]
+1.8.2 Do not offer further investigations for cancer to people with unprovoked DVT or
+PE unless they have relevant clinical symptoms or signs (for further information,
+see the NICE guideline on suspected cancer). [2020]
+
+ 
+For a short explanation of why the committee made the 2020 recommendations and
+how they might affect practice, see the rationale and impact section on investigations
+for cancer.
+Full details of the evidence and the committee's discussion are in evidence review C:
+investigations for cancer in people with unprovoked venous thromboembolism.
+1.9 Thrombophilia testing
+1.9.1 Do not offer testing for hereditary thrombophilia to people who are continuing
+anticoagulation treatment. [2012, amended 2020]
+1.9.2 Do not offer thrombophilia testing to people who have had provoked DVT or PE.
+[2012]
+1.9.3 Consider testing for antiphospholipid antibodies in people who have had
+unprovoked DVT or PE if it is planned to stop anticoagulation treatment, but be
+aware that these tests can be affected by anticoagulants and specialist advice
+may be needed. [2012, amended 2020]
+1.9.4 Consider testing for hereditary thrombophilia in people who have had unprovoked
+DVT or PE and who have a first-degree relative who has had DVT or PE if it is
+planned to stop anticoagulation treatment, but be aware that these tests can be
+affected by anticoagulants and specialist advice may be needed. [2012,
+amended 2020]
+1.9.5 Do not routinely offer thrombophilia testing to first-degree relatives of people
+with a history of DVT or PE and thrombophilia. [2012]
+Terms used in this guideline
+Active cancer
+Receiving active antimitotic treatment; or diagnosed within the past 6 months; or recurrent
+
+ 
+or metastatic; or inoperable. Excludes squamous skin cancer and basal cell carcinoma.
+Estimated creatinine clearance
+Creatinine clearance estimated using the Cockcroft and Gault formula; see the BNF's
+information on prescribing in renal impairment.
+Provoked DVT or PE
+DVT or PE in a person with a recent (within 3 months) and transient major clinical risk
+factor for VTE, such as surgery, trauma, significant immobility (bedbound, unable to walk
+unaided or likely to spend a substantial proportion of the day in bed or in a chair),
+pregnancy or puerperium – or in a person who is having hormonal therapy (combined oral
+contraceptive pill or hormone replacement therapy).
+Proximal DVT
+DVT at or above the level of the popliteal trifurcation area.
+Unprovoked DVT or PE
+DVT or PE in a person with no recent major clinical risk factor for VTE (see provoked DVT
+or PE) who is not having hormonal therapy (combined oral contraceptive pill or hormone
+replacement therapy).
+Wells score
+Clinical prediction rule for estimating the probability of DVT or PE. There are a number of
+versions of Wells scores available. This guideline recommends the 2-level DVT Wells score
+and the 2-level PE Wells score.
+
+ 
+Recommendations for research
+The guideline committee has made the following recommendations for research.
+Key recommendations for research
+1 Clinical and cost effectiveness of inferior vena caval filters in
+people with venous thromboembolism
+What is the short- and long-term clinical and cost effectiveness of inferior vena caval
+filters in people with venous thromboembolism (VTE)? [2020]
+For a short explanation of why the committee made the recommendation for research,
+see the rationale section on inferior vena caval filters.
+Full details of the evidence and the committee's discussion are in evidence review H:
+inferior vena caval filters for people with VTE.
+2 Clinical and cost effectiveness of direct-acting oral
+anticoagulants based on individual patient data
+What is the clinical and cost effectiveness of direct-acting oral anticoagulants (DOACs)
+compared with each other, with low molecular weight heparin (LMWH) plus a vitamin K
+antagonist (VKA), with LMWH alone, with placebo and with aspirin for the initial and
+long-term treatment of deep vein thrombosis (DVT) or pulmonary embolism (PE) based on
+individual patient data from existing trials? [2020]
+For a short explanation of why the committee made the recommendation for research,
+see the rationale section on anticoagulation treatment for confirmed DVT or PE.
+Full details of the evidence and the committee's discussion are in evidence review D:
+pharmacological treatment in people with suspected or confirmed DVT and/or PE.
+
+ 
+3 Prediction tools compared with clinical judgement
+What is the prognostic accuracy of a tool to predict both VTE recurrence and major
+bleeding compared with clinical judgement in people with unprovoked proximal DVT or PE?
+[2020]
+For a short explanation of why the committee made the recommendation for research,
+see the rationale section on long-term anticoagulation for secondary prevention.
+Full details of the evidence and the committee's discussion are in evidence review F:
+what factors determine the optimum duration of pharmacological treatment for DVT or
+PE in people with a VTE?
+4 Lower-dose thrombolysis for people with acute PE and right
+ventricular dysfunction
+Does lower-dose thrombolysis reduce the risk of major bleeding and improve outcomes for
+people with acute PE and right ventricular dysfunction? [2015]
+5 Diagnosis of DVT
+What is the clinical and cost effectiveness of a whole-leg ultrasound scan compared with a
+proximal leg vein ultrasound scan in the diagnosis of acute DVT? [2012]
+Other recommendations for research
+6 Treatment strategy for people who use intravenous drugs
+What is the optimal pharmacological treatment strategy for DVT or PE in people who use
+intravenous drugs? [2020]
+
+ 
+For a short explanation of why the committee made the recommendation for research,
+see the rationale section on anticoagulation treatment for DVT or PE in people who
+use intravenous drugs.
+Full details of the evidence and the committee's discussion are in evidence review D:
+pharmacological treatment in people with suspected or confirmed DVT and/or PE.
+7 Predicting VTE recurrence and major bleeding
+What is the prognostic accuracy of a tool to predict both VTE recurrence and major
+bleeding after 3 months of initial anticoagulation treatment and in the long term? [2020]
+For a short explanation of why the committee made the recommendation for research,
+see the rationale section on long-term anticoagulation for secondary prevention.
+Full details of the evidence and the committee's discussion are in evidence review F:
+what factors determine the optimum duration of pharmacological treatment for DVT or
+PE in people with a VTE?
+8 Thrombolytic therapy for DVT
+What is the clinical and cost effectiveness of clot removal using catheter-directed
+thrombolytic therapy or pharmacomechanical thrombolysis compared with standard
+anticoagulation therapy for the treatment of acute proximal DVT? [2012]
+
+ 
+Rationale and impact
+These sections briefly explain why the committee made the recommendations and how
+they might affect practice. They link to details of the evidence and a full description of the
+committee's discussion.
+Diagnosis and initial management in people with
+COVID-19
+Recommendations 1.1.1 to 1.1.22
+Why the committee made the recommendations
+The following text covers the 2023 changes to the recommendations.
+The committee were aware of the increased risk of venous thromboembolism (VTE) in
+people with COVID-19 and that diagnosis of VTE in this population can be complicated.
+They may present with symptoms similar to pulmonary embolism (PE), and with elevated
+D-dimer levels even in the absence of VTE. However, limited evidence suggested that
+raising the D-dimer threshold for recommending imaging in people with COVID-19 would
+probably increase the number of missed VTE diagnoses.
+The committee agreed that there are now fewer cases of COVID-19-related VTE. This is
+partly due to changes over time in people's responses to COVID-19 that have made it less
+severe. For example, much of the population has now had COVID-19 or has been
+vaccinated. In addition, evolution of the SARS-CoV-2 variants has led to a milder disease.
+Therefore, the committee decided that the current pathway for diagnosing PE or deep vein
+thrombosis (DVT), including the use of D-dimer testing, is still appropriate for people with
+COVID-19. Healthcare professionals would still have a high suspicion of PE for people who
+rapidly deteriorate with symptoms indicative of PE.
+The committee noted that people with COVID-19 who need supplemental oxygen or other
+respiratory support will be receiving prophylactic or therapeutic doses of anticoagulation
+depending on the severity of illness. They agreed that it may not be appropriate to stop
+this management, even when the results of the imaging investigations are negative. This is
+
+ 
+because immunothrombosis occurring at the capillary level associated with COVID-19 is
+beyond the sensitivity of standard CT pulmonary angiogram. NICE's guideline on managing
+COVID-19 has advice on when to stop anticoagulation for primary prevention in this
+population.
+How the recommendations might affect practice
+The following text covers the 2023 changes to the recommendations.
+Imaging investigations are indicated in people with a low-risk Wells score but positive
+D-dimer test. People with COVID-19, a low-risk Wells score and elevated D-dimers are
+likely to have imaging based on the current diagnostic pathway. As there may be other
+reasons for elevated D-dimer levels in the COVID-19 population and because the evidence
+suggests an increase in false-positive D-dimer results, these recommendations may lead
+to an increase in the number of people who have imaging but turn out not to have VTE.
+However, the incidence rate for COVID-19-related hospital admissions is currently much
+lower compared with that during the early pandemic, so imaging rates may not increase
+substantially in practice.
+VTE prevention with anticoagulation for people with COVID-19 who need supplemental
+oxygen or other respiratory support is standard practice. Therefore, the recommendations
+for continuing this management following a negative imaging result is unlikely to result in a
+change in practice or an increase in resources.
+Return to recommendations
+D-dimer testing
+Recommendations 1.1.12 to 1.1.14
+Why the committee made the recommendations
+Point-of-care D-dimer testing
+The committee agreed that, if both laboratory-based and point-of-care D-dimer testing
+are immediately available, laboratory testing is preferable because it provides more
+rigorous quality assurance and greater certainty of diagnostic accuracy. However, if
+
+ 
+laboratory-based testing is not immediately available, the committee were in agreement
+that offering immediate point-of-care testing is more beneficial for patients than delaying
+diagnosis by waiting for laboratory testing. Although point-of-care tests are more
+expensive than laboratory tests, a cost-effectiveness analysis showed that the additional
+cost may be offset by faster results that reduce the need for additional GP time and
+unnecessary interim anticoagulation.
+Evidence on fully quantitative point-of-care D-dimer tests for DVT suggested that they are
+as accurate as laboratory tests and more accurate than qualitative or semi-quantitative
+tests. There is little evidence on these tests for PE but the committee agreed that the
+evidence on DVT is applicable to PE because it is very unlikely that there is a biological
+reason that the accuracy of the tests would differ between these groups. The committee
+were aware that quantitative tests are more commonly used than qualitative or semi-
+quantitative tests. However, because the latter types of tests are still used in some
+services, they specified that point-of-care tests should be fully quantitative.
+Age-adjusted D-dimer test thresholds
+In people aged over 50, there was limited prospective evidence available for DVT and only
+retrospective evidence available for PE. This evidence suggested that adjusting D-dimer
+test thresholds for age improves the usefulness of these tests for ruling out VTE in this
+age group. The evidence also suggested that age adjustment does not reduce the
+accuracy of the tests in identifying VTE. The committee noted that adjusting test
+thresholds for age could be beneficial in reducing anxiety and unnecessary imaging for
+people with suspected DVT or PE. Although the evidence was not plentiful, the committee
+agreed that, taken together with the potential benefits, it was sufficient to support a
+recommendation suggesting age adjustment in D-dimer test thresholds for people aged
+over 50.
+How the recommendations might affect practice
+Services that do not currently provide quantitative point-of-care D-dimer tests may need
+to acquire new equipment and provide training on how to conduct and interpret the tests.
+It is uncertain what impact this would have on practice, because it is unclear what
+proportion of primary care centres already use point-of-care testing. Facilities for point-of-
+care testing are only needed if rapid laboratory testing is not available.
+The number of D-dimer tests that are adjusted for age is likely to increase, leading to a
+
+ 
+reduction in the number of additional investigations for VTE.
+Return to recommendations
+Pulmonary embolism rule-out criteria (the PERC
+rule)
+Recommendation 1.1.16
+Why the committee made the recommendation
+In people with signs or symptoms of PE, but in whom clinical suspicion of PE is low (based
+on the overall clinical impression and that other diagnoses are feasible), there was some
+evidence showing that applying the pulmonary embolism rule-out criteria (PERC rule) can
+safely identify people who are unlikely to benefit from any further investigations for PE.
+The committee agreed that using the PERC rule can reduce anxiety and avoid unnecessary
+D-dimer testing, imaging and interim anticoagulation treatment for people with a low
+probability of PE and none of the PERC criteria. However, the evidence was limited so the
+committee agreed to recommend that the PERC rule be considered as part of initial
+assessment for PE.
+The committee noted that the largest randomised trial evaluating the implementation of
+the PERC rule used a percentage to quantify low risk (less than 15% risk of PE). However,
+the committee agreed with the recent report by the Healthcare Safety Investigation
+Branch (HSIB) on diagnosing PE in emergency departments, that this judgement is difficult
+to quantify in practice. They therefore decided that using wording such as 'low risk' would
+be less confusing. The committee described that identification of low risk is based on
+clinical gestalt informed by general medical history, physical examination and initial
+investigations. For example, a healthcare professional may consider using the PERC to rule
+out PE from the differential diagnosis if the presenting patient was young with new onset
+atraumatic chest pain or shortness of breath, but who had no concerning historical or
+clinical features for PE and a feasible alternative diagnosis (such as lower respiratory tract
+infection).
+The committee noted that the studies evaluating PERC all took place in emergency
+departments. But they could see no reason why its use should be limited to this setting or
+why the diagnostic accuracy of PERC would differ in other settings such as outside of the
+
+ 
+hospital. They reiterated that it was the experience of diagnosing PE that was important
+for applying the rule as opposed to the setting.
+People with COVID-19 are considered to have a higher risk of VTE than the general
+population, and risk increases with severity of disease. The committee discussed that the
+PERC rule may not be suitable to rule out PE in people with COVID-19 because of the
+increased risk of VTE in this population. However, they also acknowledged that the tool
+has not been validated in this population. Taken together, the committee wanted to raise
+awareness around the use of PERC in the COVID-19 population.
+How the recommendation might affect practice
+The PERC rule is not widely used in current practice. This recommendation is expected to
+increase its use in a subgroup of people in whom clinical suspicion of PE is low and for
+whom discharge is being considered. Increased use of PERC can be expected to reduce
+the need for D-dimer testing and imaging for people with none of the PERC criteria for PE,
+leading to some reductions in waiting times in primary care and emergency departments. It
+will also help to avoid unnecessary anticoagulation treatment. However, the overall impact
+of this recommendation is not expected to be substantial because of the limited
+population it affects.
+Return to recommendation
+Outpatient treatment for low-risk pulmonary
+embolism
+Recommendations 1.2.1 to 1.2.4
+Why the committee made the recommendations
+The committee noted that outpatient treatment for people with PE who have a low risk of
+poor outcomes is increasingly being used in settings such as ambulatory care units. There
+was limited evidence comparing outpatient with inpatient treatment for PE so the
+committee were unable to reach firm conclusions about the overall benefits and risks of
+outpatient treatment. However, no evidence showed that outpatient treatment is less
+effective or less safe than inpatient treatment for people with low-risk PE. The committee
+agreed that outpatient care offers substantial benefits for people with PE and for hospital
+
+ 
+services and should be considered for those with suspected or confirmed low-risk PE.
+The committee emphasised the importance of clear arrangements for monitoring and
+follow-up to ensure that outpatients receive the same quality of care as inpatients. They
+noted that specialist services with expertise in thrombosis are not available at all times
+and agreed that it is important for people with VTE to know who they can contact if they
+need advice outside normal service hours.
+How the recommendations might affect practice
+Outpatient treatment for PE is common practice in many services with ambulatory care
+units. These recommendations might lead to the establishment of ambulatory care units in
+services that do not currently have them, and this will reduce hospital stays in those
+services.
+Return to recommendations
+Anticoagulation treatment for suspected or
+confirmed deep vein thrombosis or pulmonary
+embolism
+Recommendations 1.3.1 to 1.3.21
+Why the committee made the recommendations
+Interim therapeutic anticoagulation for suspected DVT or PE
+There was no evidence specifically on interim anticoagulation treatment for suspected
+DVT or PE. However, the committee agreed that it is vital to start treatment if DVT or PE is
+suspected and diagnostic test results are delayed by more than 4 hours. They reasoned
+that anticoagulation treatments that are effective for confirmed DVT or PE are likely to be
+equally effective when used as interim treatment while awaiting a confirmed diagnosis.
+They also noted that continuing the same anticoagulant treatment after diagnosis offers
+benefits in terms of safety and convenience. However, they acknowledged that local
+protocols or availability of anticoagulants for suspected VTE may necessitate the use of
+different anticoagulants before and after diagnosis.
+
+ 
+The committee agreed that when choosing an interim anticoagulant, clinicians should
+always take individual clinical circumstances into account, including whether the person is
+at an extreme of body weight, has PE with haemodynamic instability, renal impairment,
+active cancer or established triple positive antiphospholipid syndrome.
+Anticoagulation treatment for confirmed DVT or PE
+Evidence suggested that treatment with a direct-acting oral anticoagulant (DOAC) is less
+likely to result in bleeding complications than treatment with low molecular weight heparin
+(LMWH) and a vitamin K antagonist (VKA). Additionally, people taking a DOAC benefit by
+being able to have an oral treatment and avoid the frequent monitoring that is necessary
+with other types of anticoagulation treatment.
+Within the DOACs, there was evidence showing that apixaban is the most cost-effective
+option. because it results in the fewest bleeds. Rivaroxaban is the second most cost-
+effective option and only slightly less cost effective than apixaban. However, the
+committee had reservations about this evidence because the inclusion criteria setting out
+which patients took part in the studies were not the same in each study. In particular, the
+apixaban study did not include patients with provoked VTE unless it was caused by a
+persistent risk factor, so a larger proportion of patients in the apixaban study had
+unprovoked VTE compared with the rivaroxaban studies. This made it difficult to compare
+the results of the studies. Because of this, the committee were not confident that
+apixaban should be the only option for a DOAC and recommended a choice of apixaban or
+rivaroxaban. Sensitivity analyses were carried out varying the drug prices but these
+analyses did not change any of the conclusions from the economic model.
+The committee recognised that apixaban or rivaroxaban might not be suitable for
+everyone, so they included options for treatment with LMWH followed by dabigatran or
+edoxaban, or LMWH with a VKA. The committee also made a recommendation for research
+on DOACs compared with each other and with other anticoagulants.
+The evidence did not support a recommendation for fondaparinux. It showed that
+fondaparinux is more likely to result in bleeding and is less cost effective than other
+treatments. However, the committee decided not to make a recommendation precluding
+its use because they were aware that it may be needed in rare circumstances.
+Unfractionated heparin (UFH) was associated with increased bleeding complications,
+greater recurrence rates of VTE and higher mortality rates than other treatments so the
+
+ 
+committee did not think it should be offered routinely. They recognised that it may be a
+suitable option for some people with VTE.
+Anticoagulation treatment for DVT or PE in people at extremes of body weight
+(less than 50 kg or more than 120 kg)
+Body weight can influence the absorption, distribution and elimination of anticoagulants,
+and their therapeutic effect can be altered at extremes of body weight. Because of this,
+and based on their knowledge and experience, the committee agreed that body weight
+should be taken into account and therapeutic monitoring considered when choosing
+anticoagulation for people whose weight is outside the range of 50 kg to 120 kg.
+There was little evidence on the comparative effectiveness of different anticoagulants for
+people at extremes of body weight, and the evidence was limited to obesity defined as a
+body mass index of 30 kg/m2 and above rather than body weight. However, the committee
+noted that the summaries of product characteristics (SPCs) for several anticoagulants
+specify body weight rather than obesity and agreed that using the same criterion as the
+SPCs would make the recommendations clearer and easier to implement.
+Because of the uncertainty about the most effective anticoagulant treatment for this
+group, the committee included a subgroup based on body weight in their recommendation
+for research on DOACs compared with each other and with other anticoagulants.
+Anticoagulation treatment for PE with haemodynamic instability
+The committee agreed that intravenous UFH should be offered to people with PE and
+haemodynamic instability because the anticoagulant effect needs to be carefully
+controlled for these people. People with haemodynamic instability have poor peripheral
+circulation and because UFH is administered intravenously it allows for a more certain
+therapeutic effect. Additionally, the anticoagulant effect of UFH wears off relatively quickly
+if treatment needs to be stopped.
+The committee did not review the evidence on thrombolytic therapy and the 2012
+recommendation that it be considered for this population is unchanged.
+
+ 
+Anticoagulation treatment for DVT or PE with renal impairment or established
+renal failure
+Renal impairment increases the risk of anticoagulants accumulating in the body, which can
+increase bleeding risk. There was very limited evidence on anticoagulant treatment for
+VTE in people with renal impairment.
+Based on their expertise and the SPC for each treatment, the committee agreed that
+LMWH, UFH or DOACs are suitable options to treat VTE in people with renal impairment.
+However, dabigatran is not an option for people with more severe renal impairment
+(estimated creatinine clearance 15 ml/min to 29 ml/min) based on its SPC. For people with
+estimated creatinine clearance less than 15 ml/min the main options are UFH or LMWH
+given either on their own or with a VKA until oral anticoagulation is established and in the
+therapeutic range. The committee emphasised the importance of following the SPCs and
+locally agreed protocols, and seeking advice from specialist colleagues or a
+multidisciplinary team to ensure correct dosing and monitoring.
+Anticoagulation treatment for DVT or PE with active cancer
+There was very little evidence available on the duration of anticoagulation treatment for
+people with DVT or PE and active cancer. The committee agreed, based on the evidence
+and their experience, that anticoagulation treatment should continue for 3 to 6 months and
+then be reviewed. They noted that most of the evidence on VTE in people with active
+cancer looked at treatment over a period of 6 months, but agreed that some people need
+shorter treatment durations and it is good practice to determine the length of treatment on
+a case-by-case basis.
+The effectiveness of DOACs compared with other anticoagulation treatments in people
+with active cancer has not been studied sufficiently to enable firm conclusions to be
+made. Evidence from studies in people without cancer may not be applicable because
+cancer could affect the action of these drugs. In studies that recruited only people with
+active cancer and VTE, rivaroxaban, edoxaban and LMWH were found to be similarly
+effective, although bleeding complications were more frequent with DOACs. These studies
+did not look at apixaban or dabigatran. In studies that looked at apixaban and dabigatran
+and in which a small number of people within the study population had active cancer, the
+effects of apixaban and dabigatran were similar in people with and without cancer.
+Economic evidence based on these studies showed apixaban to be the most cost-
+effective option, although the evidence for apixaban was based on a relatively small
+
+ 
+number of people.
+The committee agreed that, if suitable, a DOAC should be considered to treat VTE in
+people with active cancer but, because of the limitations of the evidence, they could not
+be more specific about the choice of DOAC.
+The committee noted the potential for interactions between anticoagulants and other
+drugs people with active cancer may be taking, such as chemotherapy drugs, and the
+possibility of an increased risk of bleeding with some types of tumours. The evidence
+suggested a higher rate of gastrointestinal and genitourinary bleeds in people with active
+cancer having treatment with a DOAC compared with those having LMWH. The committee
+agreed that DOACs may be unsuitable for people with tumours that are associated with an
+increased risk of these types of bleeds (such as people with gastrointestinal
+malignancies). However, they agreed that treatment decisions for people with active
+cancer need to be made on a case-by-case basis.
+The committee made provision for people with active cancer if a DOAC is not suitable by
+including LMWH alone and LMWH with a VKA as alternatives. Although LMWH alone is
+commonly used in practice and is the only licensed option to treat VTE in active cancer, it
+is not cost effective compared with DOACs and reducing its use would be beneficial in
+conserving NHS resources. Sensitivity analyses were carried out varying the drug prices
+but these analyses did not change any of the conclusions from the economic model.
+The committee recognised that there are circumstances in which LMWH is the most
+suitable treatment option and agreed that it could be considered when this is the case.
+They were aware that LMWH with a VKA is often impractical for people with active cancer
+because of difficulties with international normalised ratio (INR) monitoring and maintaining
+INR within the therapeutic range. They agreed that it is less clinically effective than LMWH
+alone but is less costly and remains a suitable option in some circumstances.
+Anticoagulation treatment for people with DVT or PE and triple positive
+antiphospholipid syndrome
+The committee were aware of an MHRA safety alert warning of an increase in VTE
+recurrence in people with diagnosed triple positive antiphospholipid syndrome taking a
+DOAC compared with those taking LMWH and a VKA. Although people with
+antiphospholipid syndrome were not included in the evidence review, the committee
+agreed that it is important to include a recommendation highlighting the need to offer
+
+ 
+LMWH with a VKA to this group.
+Anticoagulation treatment for DVT or PE in people who use intravenous drugs
+VTE can be difficult to treat in people who use intravenous drugs. They often have
+problems with access to medical care and adherence to prescribed treatments. There is a
+lack of good evidence on the comparative clinical and cost effectiveness of treatments
+and doses for VTE in this population. The committee made a recommendation for research
+with the aim of improving VTE treatment in people who use intravenous drugs.
+Treatment failure
+The committee acknowledged that VTE can recur despite anticoagulant treatment and
+used their knowledge and experience to outline steps that can be taken if treatment fails.
+How the recommendations might affect practice
+The recommendations are expected to lead to increased use of DOACs, particularly
+apixaban and rivaroxaban, to treat suspected and confirmed VTE. This should reduce the
+need for resources to monitor INR, manage bleeding complications and administer
+parenteral anticoagulation. The recommendation to start anticoagulation treatment before
+blood test results are available may increase community prescribing of anticoagulation
+treatment. However, more use of DOACs may also increase the need for expensive reversal
+agents.
+Current VTE management for people at extremes of body weight is not expected to
+change substantially.
+For people with haemodynamically unstable PE, UFH is currently used in clinical practice
+and the recommendation is not expected to affect the frequency of its use in this group.
+More people with renal impairment are likely to be offered a DOAC or LMWH, reducing the
+use of UFH. This can be expected to produce cost savings by increasing the number of
+people with renal impairment who can have outpatient care for VTE.
+For people with active cancer, it is expected that there will be an increase in the use of
+DOACs and a concomitant decrease in the use of more expensive treatments such as
+LMWH alone. This will also reduce the amount of district nursing support needed to
+
+ 
+provide assistance with parenteral therapies.
+For people with VTE and antiphospholipid syndrome, the use of DOACs is expected to
+decrease.
+Return to recommendations
+Long-term anticoagulation for secondary
+prevention
+Recommendations 1.4.1 to 1.4.12
+Why the committee made the recommendations
+The committee agreed that the benefits of anticoagulation treatment become less certain
+over time, and that after 3 months (or 3 to 6 months in people with active cancer)
+treatment needs to be reviewed and a decision made about whether to continue or stop
+treatment. They agreed that, at this point, the aim of anticoagulation changes from
+treatment to reducing the risk of recurrence.
+Predicting VTE recurrence and assessing bleeding risk after provoked or
+unprovoked DVT or PE
+The committee noted that continuing anticoagulation treatment after 3 months is less
+beneficial for people who have had a provoked DVT or PE if the provoking factor is no
+longer present, because of the lower rate of recurrence compared with unprovoked DVT or
+PE.
+For people with unprovoked DVT or PE, the benefits and risks of continuing
+anticoagulation treatment are less certain and the committee agreed that they need to be
+carefully balanced. However, for most people with a low bleeding risk, the committee
+agreed that the benefits of continuing anticoagulation treatment outweigh the risks.
+The committee agreed that the tools currently available to predict the risk of recurrence of
+VTE or the risk of bleeding are not sufficiently accurate or validated to be used as the sole
+basis for a decision, and that using them in such a manner might result in incorrect
+predictions and subsequent harm to the person. However, they also agreed that, in certain
+
+ 
+circumstances, a clinical prediction tool can be a useful adjunct to discussion with people
+offered long-term anticoagulation treatment. For bleeding risk, evidence on the HAS-BLED
+score showed that it can identify people with unprovoked proximal DVT or PE who are at
+particularly high risk of major bleeding and might benefit from stopping anticoagulation.
+For VTE recurrence, there was very limited evidence, and that evidence suggested that
+these tools are not sufficiently accurate to be used in practice.
+Because of the uncertainty in predicting VTE recurrence and the risk of major bleeding,
+the committee made recommendations for research to develop a new prediction tool for
+VTE recurrence and major bleeding combined and research to compare this tool with
+clinical judgement.
+Continuing or changing current treatment
+The committee agreed that there are risks involved in switching anticoagulant treatment,
+particularly if there have been no adverse events with the current treatment. They also
+expressed concerns about convenience for people who are asked to switch from a DOAC
+with no monitoring to a VKA regimen with frequent monitoring, or problems with
+adherence if switching from a VKA to a DOAC. Based on these concerns and their clinical
+experience, the committee agreed that if treatment is continued beyond 3 months, the
+first option for most people should be to continue the current treatment if it is well
+tolerated.
+Some evidence indicated that there are fewer major bleeds with apixaban than with
+rivaroxaban, dabigatran or a VKA. However, the committee were not entirely convinced by
+this evidence because the study of apixaban had stricter inclusion criteria, setting out
+which patients took part, than the other studies. Additionally, the studies recorded a very
+low number of major bleeds, leading to uncertainty about the effects of the different
+anticoagulation treatments on the likelihood of major bleeding. Apixaban was shown by
+the economic evidence to be the most cost-effective long-term treatment so the
+committee agreed that switching to apixaban should be considered as an option for
+people currently taking a DOAC other than apixaban. Sensitivity analyses were carried out
+varying the drug prices but these analyses did not change any of the conclusions from the
+economic model.
+There was a lack of evidence on longer-term treatment for people with renal impairment,
+active cancer, antiphospholipid syndrome or extremes of body weight. Based on their
+clinical experience, the committee agreed that continuing the current treatment, if it is well
+
+ 
+tolerated, should be considered for people in these groups, taking into account their
+preferences and clinical situation.
+For people who do not continue anticoagulation treatment, evidence showed that aspirin is
+better than no treatment at reducing DVT or PE recurrence for up to 2 years, although
+there was no difference in DVT or PE recurrence between aspirin and no treatment at
+4 years. On balance, the committee agreed that aspirin can be considered as an option for
+people who wish to stop anticoagulation treatment, using a prophylactic dose based on
+current UK practice (75 mg daily or 150 mg daily).
+To ensure that treatment is guided by the person's changing balance of benefits and risks,
+and changes in their preferences over time, the committee agreed that people taking long-
+term anticoagulation treatment or aspirin should have their risk of VTE recurrence,
+bleeding risk and general health reviewed at least once a year.
+How the recommendations might affect practice
+The recommendations to review anticoagulation treatment at 3 months (3 to 6 months for
+people with active cancer), and annually thereafter, reflect most current practice but may
+increase the number of appointments and clinician time needed in services that do not
+currently provide these reviews. Giving patients who stop anticoagulation treatment
+information on signs and symptoms and a point of contact should ensure that a
+comprehensive safety net is in place.
+Discussions about the benefits and risks of stopping or continuing anticoagulation
+treatment may increase the time needed for consultations, particularly if a prediction tool
+is used as part of the decision-making process. Using HAS-BLED can be expected to
+reduce long-term anticoagulation treatment in people with a high risk of major bleeding.
+The recommendations are not expected to change practice for people with renal
+impairment or extremes of body weight. For people with antiphospholipid syndrome, it is
+expected that DOAC use will decrease, with a concomitant increase in the use of LMWH
+with a VKA. For people with active cancer, DOAC use can be expected to increase, with
+LMWH on its own becoming a less common treatment. For people with none of these
+clinical features, greater use of DOACs, particularly apixaban, for long-term treatment can
+be expected to lower costs by reducing the need for clinical visits, INR monitoring and
+managing bleeding events. The use of aspirin may increase for people who decline long-
+term anticoagulation. This may reduce VTE recurrence in people who would otherwise not
+
+ 
+receive treatment.
+Return to recommendations
+Inferior vena caval filters
+Recommendations 1.7.1 to 1.7.4
+Why the committee made the recommendations
+There was little good evidence on inferior vena caval (IVC) filters. The evidence in a
+number of populations, including people about to have surgery, people with cancer, people
+with a high risk of having a subsequent PE and people with a high risk of a poor outcome
+from a subsequent PE, did not show a benefit from IVC filters. The committee therefore
+agreed that the use of IVC filters should be restricted to prospective clinical studies
+(including but not limited to prospective cohort studies and randomised controlled trials)
+unless anticoagulation is contraindicated or a PE has occurred during anticoagulation
+treatment. They made a recommendation for research to further investigate the
+effectiveness of IVC filters.
+For people with proximal DVT or PE and a contraindication to anticoagulation treatment, a
+small amount of new evidence has become available since the 2012 guideline was
+published. This evidence did not show a clear difference in outcomes such as mortality
+and VTE recurrence between people who were given IVC filters and those who were not.
+One study found evidence of an increase in DVT occurrence (in people with an undefined
+initial VTE event) at 1 year in the group given IVC filters. However, based on their
+experience and knowledge of IVC filters, the committee agreed that they can help to
+reduce the risk of PE when therapeutic anticoagulation cannot be given. The committee
+also had concerns about the inherent risks involved in using IVC filters, including the
+invasive nature of the procedure for placing them and the potential for complications such
+as migration or fracture of the filter. In light of this, the committee agreed that the
+evidence was not sufficient to retain the 2012 recommendation to offer temporary IVC
+filters to people who cannot have anticoagulation treatment. However, they recognised
+that these people have a high risk of recurrent VTE and a limited number of alternative
+treatments, so agreed that a recommendation to consider an IVC filter for them is justified.
+They also agreed to retain the 2012 advice to remove the IVC filter when anticoagulation is
+no longer contraindicated, adding that anticoagulation treatment should be established
+before the IVC filter is removed.
+
+ 
+There was very limited evidence on the use of IVC filters for people who have a PE while
+taking anticoagulation treatment for an initial proximal DVT or PE. The evidence suggested
+a reduction in short-term mortality from all causes in people in this group who had an IVC
+filter fitted. Because of the limited amount of evidence, the committee agreed that IVC
+filters could be considered for people in this group only after problems with adherence or
+other causes of hypercoagulability have been excluded, and different anticoagulation
+treatments or treatment regimens have been explored. The committee reasoned that, in
+many cases, optimising anticoagulation treatment will obviate the need for an IVC filter.
+The committee noted that the type of IVC filter used is the same whether it is intended to
+be temporary or permanent. They agreed that, although the decision between a temporary
+and permanent IVC filter would be made on a case-by-case basis, most IVC filters are
+likely to be temporary. It is therefore prudent to have a plan in place for removal of the IVC
+filter at the time of fitting it, to ensure it is removed promptly when no longer needed.
+How the recommendations might affect practice
+It is expected that the overall impact of the recommendations will be to reduce the use of
+IVC filters. For people with VTE at acute risk of thrombosis, clinicians may fit an IVC filter
+as part of a clinical trial.
+Return to recommendations
+Investigations for cancer
+Recommendations 1.8.1 and 1.8.2
+Why the committee made the recommendations
+Unprovoked VTE is associated with an increased risk of cancer, which may be
+undiagnosed when the VTE occurs. The committee agreed that a physical examination and
+review of medical history (including previous investigations such as imaging) are
+worthwhile precautions for people who have had an apparently unprovoked DVT or PE.
+However, the evidence did not show any benefit from further investigations for cancer for
+people who have no signs or symptoms. Moreover, these investigations can be costly, time
+consuming, potentially invasive or pose a radiation risk, and cause anxiety. The committee
+therefore agreed that further investigations for cancer should not be offered to people
+
+ 
+without relevant signs or symptoms.
+How the recommendations might affect practice
+A physical examination and a review of medical history is current practice for people with
+unprovoked DVT or PE. The recommendations can be expected to reduce costs by
+reducing further investigations for cancer in people without symptoms or signs.
+Return to recommendations
+
+ 
+Context
+In venous thromboembolism (VTE), a blood clot forms in a vein, usually in the deep veins
+of the legs or pelvis. This is known as deep vein thrombosis, or DVT. The blood clot can
+dislodge and travel in the blood, particularly to the pulmonary arteries. This is known as
+pulmonary embolism (PE). The term 'VTE' includes both DVT and PE.
+Failure to diagnose and treat VTE correctly can result in fatal PE, in which the blood clot
+blocks the blood supply to the lungs. However, diagnosis of VTE is not always
+straightforward. This guideline includes advice on the Wells score, D-dimer measurement,
+ultrasound and radiological imaging. It also offers guidance on treating VTE, investigations
+for cancer in people with VTE and thrombophilia testing. The guideline covers adults with
+suspected or confirmed DVT or PE. It does not cover children or young people aged
+under 18, or women who are pregnant.
+Since the publication of the updated guideline in 2020, new evidence has emerged that
+indicates higher risk of VTE and elevated D-dimer levels in people with COVID-19. In
+addition, a Healthcare Safety Investigation Branch (HSIB) report published in March 2022
+reported difficulties in using the PERC for ruling out pulmonary embolism. This 2023
+update includes updated recommendations in these areas.

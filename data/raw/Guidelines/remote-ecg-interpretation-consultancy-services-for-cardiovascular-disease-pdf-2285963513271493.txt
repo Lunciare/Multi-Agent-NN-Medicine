@@ -1,0 +1,599 @@
+Remote ECG interpretation consultancy services for cardiovascular disease
+Summary
+• The technologies described in this briefing are remote electrocardiogram (ECG)
+interpretation consultancy services. They are used for assisting in diagnosing and
+decision-making for people with cardiovascular disease.
+• The innovative aspects are that with remote ECG interpretation, a person does not
+need to travel to hospital for a consultation with a cardiologist, potentially providing
+quicker and more accurate diagnoses.
+• The intended place in therapy would be to replace referrals to secondary care for
+interpreting ECGs from people with suspected cardiovascular disease.
+• The main points from the evidence summarised in this briefing are from 4 UK pilot
+studies including 26,320 adults and children in primary care. The studies show that
+remote ECG interpretation consultancy services may reduce the number of
+unnecessary referrals to secondary care and reduce costs for the NHS.
+
+ 
+• Key uncertainties around the evidence or technology are that the economic benefits
+are not yet clear and there is a lack of evidence for clinical outcomes. Published
+evidence of clinical utility is only available for 1 out of 6 services in this briefing.
+• The cost of the services in this briefing ranges from £3 to £195 per report (excluding
+VAT). The resource impact may be cost saving because of reductions in secondary
+care referrals.
+The technology
+An electrocardiogram (ECG) is a recording of the electrical activity of the heart and is used
+to diagnose cardiovascular disorders. Remote ECG interpretation consultancy services
+provide expert analysis of ECGs to support clinical decision-making. The services can
+receive and interpret ECGs – along with other information – using telephone and digital
+methods. This briefing describes 6 services that are available in the UK (see table 1).
+There are 3 main types of ECG:
+• 12-lead ECG: the standard diagnostic test used in primary care for a number of
+cardiovascular disorders. Ten electrodes are placed on the skin of the chest and limbs
+to measure the electrical activity of the heart from 12 angles. The signal is recorded
+for about 10 seconds.
+• Holter/ambulatory ECG: a monitor is worn for a period ranging from a day to a week,
+to record heart activity. The number of leads varies between manufacturers.
+• Loop/event monitoring: captures unusual heart activity over longer periods, in some
+cases up to 4 years.
+An ECG of any type can be interpreted by a trained health professional or by dedicated
+software. The services in this briefing all offer interpretation by expert staff at remote
+locations. The ECG is transmitted from a primary care centre to the service provider. This
+can be done automatically from devices supplied by the services (see regulatory
+information). Alternatively, ECGs may be uploaded to the internet using a software
+platform or webpage, or sent by email.
+A cardiac technician, cardiac nurse, consultant cardiologist or specialist consultant
+cardiologist such as an electrophysiologist interprets the ECG. Recordings from Holter,
+loop and event monitors can be interpreted live. The signal can be continuously
+
+ 
+transmitted to allow the interpreter to monitor activity in real time.
+The interpreter returns a report with their ECG interpretation or recommendations to the
+patient's primary care clinician within an agreed timeframe. All 6 of the services in this
+briefing can receive ECGs recorded using any existing device. Three of the services are
+also able to supply third-party devices.
+Five of the 6 services in this briefing are based in the UK. Smart Telecardiology is based in
+India and offers interpretation worldwide. The UK-based services all support transmission
+using the N3 broadband network (with an NHS.net email address).
+Table 1 summarises the remote ECG interpretation services included in this briefing. Other
+similar technologies may be available but are not included (for example, if they were not
+identified, or the company chose not to participate).
+Table 1 Summary of included remote ECG Interpretation services
+Proposed reporting
+Company Transmission Interpretation Devices Modality
+time
+Instant report* or
+consultant
+cardiologist's or
+electro-
+NHS
+physiologist's Under 12-lead,
+email,
+written patient care 24 hours; Holter,
+MEOMED dedicated None.
+plan with level of average loop/
+software
+urgency. Offers live 2 hours. event.
+upload.
+feedback between
+GP and consultant
+cardiologist after
+report is returned.
+
+ 
+Proposed reporting
+Company Transmission Interpretation Devices Modality
+time
+Technician's written
+report – if a
+NHS consultant
+12-lead,
+email, cardiologist's
+Primary Under Holter,
+dedicated expertise is needed, None.
+Diagnostics 24 hours. loop/
+software the ECG can be
+event.
+upload. passed on to a
+service such as
+MEOMED.
+Verbal report
+Automatic Specialist nurse's or
+returned
+by cardiologist's Supplies/ 12-lead,
+'immediately'
+Broomwell telephone, reports – quality leases Holter,
+and a full
+Healthwatch or digitally control performed third-party loop/
+written report
+with NHS by consultant devices. event.
+within 15 to
+email. cardiologists.
+20 minutes.
+SCST-accredited Supplies/
+Express NHS data analyst's Same day; up leases 12-lead,
+Diagnostics email. report with pathway to 10 days.** third-party Holter.
+recommendation.** devices.
+SCST-accredited
+cardiac
+Within
+Automatic physiologist's
+24 hours or
+– digitally written report with Supplies/
+'immediately' 12-lead,
+ECG On- with NHS level of urgency. leases
+on request. Holter/
+Demand email or Quality control third-party
+Average event.
+webpage performed by devices.***
+turnaround
+upload. consultant cardiac
+2 hours.
+electro-
+physiologists.
+
+ 
+Proposed reporting
+Company Transmission Interpretation Devices Modality
+time
+4 to 48 hours,
+Webpage
+Technician's or depending on 12-lead,
+upload or
+Smart cardiologist's geographical Holter,
+dedicated None.
+Telecardiology downloadable location and loop/
+online
+report.** depth of event.
+platform.
+interpretation.
+Abbreviations: ECG, electrocardiogram; SCST, Society for Cardiological Science and
+Technology.
+* If ECG is normal and no patient information is provided.
+** Depending on the customer's needs.
+*** Loaded with (Glasgow) interpretation algorithms. The algorithms identify potentially
+abnormal ECGs, and the practice can decide to transmit only identified ECGs or transmit
+all ECGs.
+Innovations
+Remote ECG interpretation consultancy services may provide diagnostic reports quicker
+than with standard care. Interpretation takes between 15 minutes and 2 days and does not
+need a person to travel to hospital for an appointment. This may be particularly useful for
+specific populations, such as those who live in rural areas, people who work offshore and
+prisoners.
+Interpreting ECGs often needs in-depth knowledge and continuous practice, so ECGs that
+are challenging to interpret are frequently referred to secondary care. Using remote ECG
+interpretation services may reduce the number of unnecessary referrals to secondary care
+and the number of misdiagnoses.
+Current NHS pathway or current care pathway
+A standard 12-lead ECG should be offered to:
+• adults when atrial fibrillation is suspected (see NICE's guideline on atrial fibrillation)
+
+ 
+• people aged 16 and over if they have experienced a blackout (see NICE's guideline on
+transient loss of consciousness)
+• adults with recent onset chest pain, in certain instances (see NICE's guideline on chest
+pain of recent onset).
+Other types of ECG may be taken in the above circumstances, if a 12-lead ECG is
+inconclusive.
+After taking an ECG, the practitioner can either: interpret the results and treat the person
+themselves; refer the person to an NHS consultant; or refer the person for emergency
+treatment. A referral to an NHS consultant cardiologist or electrophysiologist can take
+between 2 and 18 weeks and the patient must travel to hospital.
+Automated ECG interpretation services are related technologies that use algorithms to
+interpret ECGs that are automatically uploaded to cloud networks or virtual private
+networks (VPNs).
+Population, setting and intended user
+GPs or nurses in primary care take ECGs from people with suspected cardiovascular
+disease. Remote ECG interpretation would replace a referral to an NHS consultant
+cardiologist or electrophysiologist in secondary care. A GP, nurse or healthcare assistant
+would record the ECG and then transmit the results to a remote location for interpretation.
+The consultancy service would then send a report back to the GP or nurse, with a
+recommendation for treatment.
+Training may be needed for GPs to learn how to transmit the recorded ECGs and receive
+the reports.
+
+ 
+Costs
+Technology costs
+Table 2 Cost of remote ECG interpretation consultancy services
+Company Cost (excluding VAT) Additional information
+12-lead ECG service:
+£14 to £30 per report.
+Broomwell Price depends on speed of
+Arrhythmia service – 24-hour tape
+Healthwatch response and level of advice.
+(Holter):
+£30 to £50 per report.
+Cardiologist 12-lead ECG service:
+Price varies depending on
+between £22 and £30 per report.
+MEOMED the usage for a practice per
+Arrhythmia service – (Holter): £65 per
+annum.
+report.
+Price varies depending on
+Primary
+About £65 per analysis. the usage for a practice per
+Diagnostics
+annum.
+12-lead ECG service: £14 to £25 per
+report or a fixed monthly fee of £77
+per 1,000-practice population,
+irrespective of the number of tests
+done.
+Holter analysis: Holter analysis prices are
+ECG On-
+based on the duration of the
+24 hours: £45 per report
+Demand
+ECG is recording.
+48 hours: £70 per report
+72 hours: £95 per report
+7 days: £120 per report.
+Consultant cardiologist
+e-consultation: £42 per report.
+
+ 
+Company Cost (excluding VAT) Additional information
+Price depends on client
+Fees for 12-lead ECG interpretation location, reading
+Smart
+start at £3 for a technician's report and cardiologists, turnaround
+Telecardiology
+£8 for a cardiologist's report. time for reports and practice
+working hours.
+Price depends on turnaround
+Express 12-lead ECG service: £10 to £25.
+time and recording time for
+Diagnostics Holter analysis: £25 to £195.
+Holter recordings.
+Abbreviation: ECG, electrocardiogram.
+Costs of standard care
+The standard care in the NHS for ECG interpretation is referral to either emergency care or
+a cardiology outpatient unit. The unit cost per attendance for a hospital emergency
+department is £138 and for a cardiology outpatient appointment is £156 (Department of
+Health and Social Care 2016).
+Resource consequences
+It is estimated that 34.7 ECGs per 1,000 patients are recorded annually in GP practices
+(Wolff et al. 2012). Assuming that a GP practice sends all recorded ECGs to a service for
+interpretation, then the likely use is about 35 ECGs per 1,000 patients.
+Table 3 NHS use of interpretation consultancies
+Service NHS use Training
+Provided
+Broomwell States that its services are currently used by around
+free of
+Healthwatch 70 CCGs in the UK.
+charge.
+States its service is used by CCGs, NHS trusts, GP Provided
+ECG On-
+alliances, and NHS healthcare providers such as mental free of
+Demand
+health trusts and HMP. charge.
+Provided
+Performed 3 pilot trials in Brent CCG, Liverpool CCG and
+MEOMED free of
+Vale of York CCG.
+charge.
+
+ 
+Service NHS use Training
+Provided
+Primary Has provided its service to Suffolk CCG for the past
+free of
+Diagnostics 6 years.
+charge.
+Provided
+Express
+States that its services are currently used by 20 CCGs. free of
+Diagnostics
+charge.
+Provided
+Smart
+Not currently in use. free of
+Telecardiology
+charge.
+Abbreviations: CCG, clinical commissioning group; ECG, electrocardiogram; HMP, Her
+Majesty's Prison Service.
+As long as the services are compliant with NHS communication networks such as the
+N3 network or health and social care network, no changes to current infrastructure are
+needed.
+No published reports on the resource consequences of adopting the technology were
+found. Broomwell Healthwatch provided the results of 3 audits of pilot studies performed
+in Lancashire and Cumbria, Greater Manchester and Greater Birmingham. Cost savings
+were estimated based on secondary care referrals that were prevented in 61 to 65% of the
+cases. In Greater Birmingham, 1,934 audit forms were returned and the estimated cost
+savings were £97,672. In Greater Manchester, 2,377 secondary care referrals were
+prevented out of 3,732 ECGs, leading to estimated cost savings of £358,927. MEOMED
+also provided the results of a number of pilot studies (see table 5). It estimated that its
+service could save a 60-practice CCG between £730,000 and £1.816 million per year.
+Regulatory information
+Table 4 shows the regulatory status of the remote electrocardiogram (ECG) interpretation
+consultancy services included in this briefing. Telehealth services operating in England
+must be registered with the Care Quality Commission (CQC). The CQC inspects these
+services and reports on the quality of care provided.
+Some of the services included in this briefing supply or lease medical devices from third
+parties. These devices are regulated under the Medicines and Healthcare products
+
+ 
+Regulatory Agency's (MHRA) medical devices directive and must carry a CE mark.
+Table 4 Regulatory information
+Company CQC registration Medical device and CE mark
+• HeartView 12L and
+HeartView 12i (Aerotel
+Medical systems Ltd).
+Broomwell Registered 19 May 2011. Last
+Class IIa.
+Healthwatch inspection report 28 March 2013.
+• LifeCard (Spacelabs
+Healthcare Ltd). Class IIa.
+Will register with the CQC when
+Intend to register with the CQC
+MEOMED work begins (registration not needed
+when work begins.
+before starting contract).
+Will register with the CQC when
+Primary Intend to register with the CQC
+work begins (registration not needed
+Diagnostics when work begins.
+before starting contract).
+• eMotion Faros 90, 180 and
+360 (Mega Electronics Ltd).
+Class IIa.
+ECG Registered 28 October 2015. No
+On-Demand inspection reports to date.
+• Cardioline TouchECG with
+HD+, ECG100+, ECG200+
+(Cardioline SpA). Class IIa.
+• LifeCard (Spacelabs
+Healthcare Ltd). Class IIa.
+Express Registered 30 December 2010. Last
+Diagnostics inspection report 5 September 2013. • eMotion Faros 90, 180 and
+360 (Mega Electronics Ltd).
+Class IIa.
+Smart
+Not registered. No information available.
+Telecardiology
+
+ 
+Equality considerations
+NICE is committed to promoting equality, eliminating unlawful discrimination and fostering
+good relations between people with particular protected characteristics and others. In
+producing guidance and advice, NICE aims to comply fully with all legal obligations to:
+promote race and disability equality and equality of opportunity between men and women,
+eliminate unlawful discrimination on grounds of race, disability, age, sex, gender
+reassignment, marriage and civil partnership, pregnancy and maternity (including women
+post-delivery), sexual orientation, and religion or belief (these are protected
+characteristics under the Equality Act 2010).
+People aged 65 or over are more likely to have cardiovascular disorders. Age is a
+protected characteristic under the Equality Act 2010.
+Clinical and technical evidence
+A literature search was carried out for this briefing in line with the interim process and
+methods statement. This briefing includes the most relevant or best available published
+evidence relating to the clinical effectiveness of the technology. Further information about
+how the evidence for this briefing was selected is available on request by contacting
+mibs@nice.org.uk.
+Published evidence
+Four studies including 26,320 participants are summarised in this briefing. All 4 are pilot
+studies, 3 relating to Broomwell Healthwatch and 1 to MEOMED and all were done in the
+UK. One is an abstract reporting the results of a large pilot study (n=25,346) over 4 years.
+Using these services resulted in improvement of appropriate referrals and this was found
+to be cost saving. The average time to receive results was around 2 hours.
+Table 5 summarises the clinical evidence as well as its strengths and limitations.
+Overall assessment of the evidence
+Broomwell Healthwatch and MEOMED were the only services for which there is publicly
+
+ 
+available information. These services report results from pilot studies in the NHS and focus
+on assessing the clinical utility of the service.
+The primary outcome for all of the studies is the proportion of changes to care plans. The
+potential utility of the service can be shown by evaluating differences between the remote
+service's recommendation and the care pathway prescribed by the practitioner.
+There is no direct within-study comparison between the services in this briefing. There are
+also no comparisons between the services and other technologies, such as automatic
+interpretation services. In the evidence included in this briefing, there was no follow-up of
+outcomes to ensure that care pathway recommendations made by the service resulted in
+improved clinical outcomes. There are also no comparisons of results between different
+clinical commissioning groups or regions of the UK.
+Table 5 Summary of Evidence
+Paynter (2008)
+Study size,
+32 people with chest pain or transient loss of consciousness in a
+design and
+6-week pilot study in Bridgwater Community Hospital, Somerset, UK.
+location
+Intervention
+Broomwell Healthwatch compared with automatic referral to acute
+and
+trust.
+comparator(s)
+16% of ECGs had abnormalities not detected by practitioner (that were
+Key outcomes
+identified by Broomwell Healthwatch).
+The study did not report any power calculation. This was a single-
+Strengths and centre pilot and so is not representative of other types of practice,
+limitations such as GP surgeries. No economic information is reported and
+outcomes are limited to descriptions of the prescribed care plan.
+Albouaini et al. (2009)
+Study size,
+24,541 12-lead ECGs and 805 1-lead ECGs, in a 4-year pilot study in
+design and
+the Greater Manchester and Cheshire Cardiac Stroke Network, UK.
+location
+Intervention
+and Broomwell Healthwatch compared with standard care.
+comparator(s)
+
+ 
+Paynter (2008)
+In 15,698 people with symptoms (from 24,541 12-lead ECGs), 87.5%
+were recommended for treatment in primary care; 6.5% were
+recommended for secondary care and 6% recommended for
+emergency care. In people with symptoms from lead-I ECGs, 96%
+Key outcomes were recommended for treatment in primary care. All ECGs were
+reported within 2 hours of their receipt. The prevention rate of
+secondary care referrals was 65.8% of the total cases (95%
+confidence interval 61.6 to 65.8%) and the extrapolated gross savings
+were calculated to be over £300,000.
+The study included a large number of ECGs, over 4 years, in multiple
+Strengths and GP surgeries.
+limitations Only the abstract is freely available, so there is no detail on the study
+methodology.
+Weatherburn et al. (2009)
+Study size,
+A total of 373 ECGs from people aged 8 to102 years, in a 6-month pilot
+design and
+study in Lancashire and Cumbria (NHS Northwest), UK.
+location
+Intervention
+and Broomwell Healthwatch compared with standard care.
+comparator(s)
+There were 76 changes made to care pathways. In total,
+14 unnecessary referrals to secondary care were avoided and
+Key outcomes
+18 people who the practitioner planned to only see in primary care
+were referred to secondary care.
+The study included results from 8 GP surgeries and 2 walk-in centres
+Strengths and
+and included people with a wide age range. Rates of use varied
+limitations
+between practices so economic outcomes are not given.
+MEOMED Ltd Process Improvement Audit, Hall et al. 2015
+Study size,
+design and 569 people from 3 CCGs (see table 3) in the UK.
+location
+Intervention
+and MEOMED compared with standard care.
+comparator(s)
+
+ 
+Paynter (2008)
+Using the MEOMED service, 78% fewer patients were referred to
+secondary care when compared to the standard pathway. A total of
+37% of all patients – and 61% of all people with abnormal ECGs (256
+from a total of 569) – had their condition managed in primary care,
+based on MEOMED's management plan.
+In the patients that the GP would have initially cared for in primary
+care, MEOMED recommended, within 2 hours, that 29% be referred to
+secondary care.
+In addition, 24 unnecessary referrals were prevented in a group of
+Key outcomes
+30 patients that the GP would have referred to secondary care, based
+on patient history alone.
+A total of 5% of all patients were referred to secondary care by
+MEOMED, based on patient history alone.
+The average cost saving for a 60-practice CCG was estimated to be:
+• £730,000, compared with a technician-led ECG service
+• £1,816,000 compared with a standard hospital service.
+The study included multiple practices across 3 CCGs. The report was
+Strengths and
+written by employees of MEOMED in collaboration with Trustech (NHS
+limitations
+Northwest innovation organisation).
+Recent and ongoing studies
+No ongoing or in-development trials were identified.
+Specialist commentator comments
+Comments on this technology were invited from clinical experts working in the field. The
+comments received are individual opinions and do not represent NICE's view.
+All 4 experts were aware of, or had used, the remote electrocardiogram (ECG)
+interpretation services described in this briefing. Two experts believed that the services
+were not being widely used in the NHS, while the other 2 were unsure or did not comment.
+
+ 
+Level of innovation
+Two experts believed that the services were novel, while another thought they were not.
+One expert believed the services were only a minor iteration of current care that had not
+been superseded.
+One expert thought that some of these services were innovative because patient reports
+could be written and interpreted by experienced clinicians who had access to patient
+history. Two experts felt that non-commercial interpretation services available in their local
+hospital coronary care unit by trained clinicians offered competition to the services
+reported in this briefing because, in their opinion, they were either faster, free or better.
+One expert mentioned that some services developed in hospital had a system to
+immediately assess if ECG changes were new or pre-existing. They believed that this gave
+their service an advantage over the commercial services in this briefing. On the contrary,
+1 expert had to stop using a commercial service because their local trust chose to provide
+their own in-house service instead. They felt that the commercial service was better than
+the service provided by the local trust because it had a faster turnaround time and less
+variability in reporting. One expert mentioned open access services for Holter monitors as
+a similar technology but added that they were often poorly supervised and did not take
+patient history into account.
+Potential patient impact
+All of the experts agreed that avoiding unnecessary hospital visits was a potential patient
+benefit. Three experts also agreed that high-risk cardiac symptoms could be identified
+earlier than with standard care and this would allow for earlier prevention or treatment to
+begin. However, 1 expert also expressed concern that such services may be used
+improperly in people with symptoms that need clinical review, such as acute chest pain or
+unexplained syncope. One expert mentioned that some of these services may provide the
+added reassurance to patients because the results would be reviewed by highly trained
+clinicians.
+The experts stated various types of patients would particularly benefit from these services
+including: people with low-risk symptoms (history of vasovagal syncope, palpitations or
+hypertension); people with a pre-existing ECG abnormality because a comparison to a
+current ECG might prevent an unnecessary referral or because ECGs taken from Holter
+monitors are more likely to be misinterpreted in primary care; older people or those with
+mobility issues because there would be a reduced need for them to travel to hospital.
+
+ 
+Potential system impact
+All of the experts agreed that a potential reduction in non-emergency referrals to
+secondary care specialist clinics would be a benefit to the health or care system. One
+expert said this reduction could lead to cost savings in regions where links to secondary
+care are poor. Another expert added that less money would need to be spent on
+secondary care and more could be allocated to primary care. Two experts thought that
+cardiac interpretation services could increase costs for their region but another expert
+thought that there could be cost savings if cardiologist resources were used more
+effectively by reducing unnecessary outpatient appointments. They added that this may
+also lead to better resource allocation in secondary care.
+Three experts felt that little to no change to current infrastructure would be needed to use
+these technologies and that when needed they would presumably be provided by the
+companies. One expert believed that advanced ECG interpretation skills would be needed
+for clinicians to use any of the technologies.
+Two experts expressed some concerns about the resource impact from adopting these
+technologies. One thought that the interpreter would need to take a holistic view and take
+clinical history into account for best management. They also felt that the most important
+element of such services was the skill set of the interpreter. The other expert reiterated
+that such services should not be used alone in managing high-risk symptoms and
+expressed worry that some practitioners could become overly reliant on these services. A
+third expert highlighted that primary care services would be expected to take
+responsibility for clinical decision-making if not referring patients onward for additional
+specialist follow-up. No safety concerns or regulatory issues were raised surrounding the
+use of these technologies.
+General comments
+One expert mentioned that his knowledge of ECG analysis had improved after using an
+ECG interpretation service. Another expert felt that establishing local, non-commercial
+telemetry services should be attempted before using commercial providers. The expert
+acknowledged that some regions may not manage to establish close collaborations with
+their local hospital to successfully use non-commercial services. None of the experts had
+an opinion on how the services will adapt to the end of the N3 network but stressed the
+importance of continued data security. One expert expressed suspicion of services that
+provide diagnostic guidance without assessing clinical presentation.
+
+ 
+Three of the experts felt that the technology would be an addition to standard care, rather
+than a replacement. One added that the services could be a replacement for outpatient
+referral where links to local cardiology services are poor. The fourth expert agreed, stating
+that the technology would replace the need to refer every patient for an initial outpatient
+appointment.
+Two experts identified information technology-related difficulties, such as network and
+transmission problems, as the only practical issues with the services. One expert was not
+convinced by the published research because of industry involvement and limited real-
+world cost information. The expert felt that a pilot trial for an individual healthcare
+organisation would provide more useful data as results may vary across different locations.
+One expert thought that the services should agree to make audits of their performance
+available to purchasers. This would be particularly informative if the results included
+hospital referral rates and patient outcomes.
+Specialist commentators
+The following clinicians contributed to this briefing:
+• Dr Jonathan Watt, consultant cardiologist, Raigmore Hospital, NHS Highland, member
+of the British Cardiovascular Intervention Society. No relevant conflicts of interest.
+• Mr Charlie Bloe, clinical ward manager, NHS Highland, member of SHARP (Scottish
+Heart and Arterial disease Risk Prevention). Mr Bloe is the clinical lead and managing
+director for a private healthcare education company and provides regular tuition to
+healthcare professionals on electrocardiogram (ECG) interpretation.
+• Dr Richard Schilling, professor of cardiology, Barts Health NHS Trust, member of the
+British Heart Rhythm Society. No relevant conflicts of interest.
+• Dr M C Patel, GP, Brent Clinical Commissioning Group. Dr Patel is a shareholder in
+Harness GP Cooperative Ltd and chair of Harness Board. His patients were included in
+an NHS England Regional Innovation-funded audit.
+Development of this briefing
+This briefing was developed for NICE by King's Technology Evaluation Centre. The interim
+process and methods statement sets out the process NICE uses to select topics, and how

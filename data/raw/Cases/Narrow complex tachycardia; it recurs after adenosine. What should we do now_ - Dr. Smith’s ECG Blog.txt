@@ -1,0 +1,95 @@
+Case Summary
+
+A man in his 50s presented with palpitations, fever, and hypotension (BP ~80/40). Ultrasound showed low intravascular volume (flat IVC), good LV function, and no pulmonary edema. He had a history of atrial fibrillation with prior ablation, and had recently been in sinus rhythm. IV fluids were given.
+
+Because of a very rapid heart rate (~190 bpm), an ECG was obtained.
+
+Initial ECG Interpretation
+
+The ECG showed a narrow complex tachycardia at ~156 bpm with no clearly visible P waves.
+
+Key features:
+
+Narrow QRS → supraventricular origin
+
+Not irregularly irregular → not atrial fibrillation
+
+Regularly irregular rhythm with two alternating RR intervals (approximately 360 ms and 400 ms)
+
+Each RR interval had a slightly different QRS amplitude
+
+Differential diagnosis included:
+
+Atrial flutter
+
+AVNRT
+
+AVRT
+
+Atrial tachycardia
+
+No flutter waves were identified. Sinus tachycardia at this rate would be very unusual for a patient of this age.
+
+The alternating RR intervals suggested reentry SVT, most consistent with AVNRT, possibly involving multiple AV nodal pathways.
+
+Initial Management
+
+Given the rapid rate and narrow-complex SVT, adenosine was administered.
+
+Adenosine converted the rhythm to sinus, but the patient rapidly reverted back to SVT
+
+Adenosine was repeated two more times, each with transient conversion followed by immediate recurrence
+
+Electrical cardioversion was attempted twice, with the same result (brief sinus rhythm, then reversion)
+
+Amiodarone bolus and infusion were started on cardiology recommendation, with no effect
+
+Despite IV fluids, the patient remained hypotensive.
+
+Reassessment and Management Strategy
+
+Because the SVT consistently reverted after adenosine and cardioversion, further use of short-acting therapies was deemed futile.
+
+Key principles:
+
+Adenosine and electricity terminate reentry SVT transiently but do not prevent recurrence
+
+Persistent SVT requires a longer-acting AV nodal blocker
+
+Calcium channel blockers (verapamil or diltiazem) are effective if LV function is good
+
+These agents can worsen hypotension, so blood pressure support may be required first
+
+Amiodarone was discontinued.
+
+To support blood pressure without beta-agonist stimulation, a phenylephrine infusion was started. Once BP improved to ~105/70, a diltiazem bolus was administered.
+
+Outcome
+
+Immediate and sustained conversion to sinus rhythm
+
+Sinus rate ~66 bpm
+
+A diltiazem infusion was started for maintenance
+
+Chest X-ray showed pneumonia, explaining the fever and hypotension.
+
+Despite hypotension, the patient did not mount an appropriate sinus tachycardic response due to AV nodal blockade from diltiazem, and therefore required continued phenylephrine support.
+
+The patient ultimately recovered and did well.
+
+Key Learning Points
+
+Narrow-complex SVT with alternating RR intervals strongly suggests reentry SVT (AVNRT/AVRT)
+
+Immediate conversion with adenosine confirms a reentry mechanism
+
+Rapid recurrence after adenosine or cardioversion means these therapies should be stopped
+
+Use a long-acting AV nodal blocker (diltiazem or verapamil) if LV function is preserved
+
+Avoid calcium channel blockers in patients with poor LV function
+
+Support blood pressure before AV nodal blockade if hypotension is present
+
+Always record a long rhythm strip after adenosine, as conversion may be very brief and easily missed

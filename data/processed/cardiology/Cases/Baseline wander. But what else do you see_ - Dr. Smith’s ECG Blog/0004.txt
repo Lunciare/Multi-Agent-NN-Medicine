@@ -1,0 +1,4 @@
+An ECG was obtained from a 65-year-old man with ongoing chest pain. He has a history of hypertension and tobacco use and is otherwise healthy. There was no prior ECG for comparison.
+KEYWORDS: myocardial, occlusion, occlusion myocardial, infarction, ecg, myocardial infarction, coronary, qrs, elevation, lead, baseline, angiography, wander, baseline wander, reperfusion
+
+myocardial infarction can be identified despite baseline wander and a wide QRS complex. The Queen of Hearts AI model can identify these cases reliably and improve management of acute coronary syndrome. Repeat ECG acquisition is advisable whenever ECG quality is poor, though sometimes clinical decisions must be made using imperfect tracings. Dynamic ST-T wave changes on serial ECGs are diagnostic of acute coronary occlusion and should be actively sought by comparing tracings side-by-side.

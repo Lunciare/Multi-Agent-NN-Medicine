@@ -1,0 +1,137 @@
+A 70-something y.o. male presents to triage with shortness of breath. He reports significant chest pain at the base of his scapula on the right side along with new shortness of breath.
+
+ECG 1 at time zero
+
+EARLY REPOLARIZATION
+ABNORMAL ECG
+
+ED final official overread: “early repol vs hyperacute T, minimal changes from previous (previous shown below)”
+
+Smith: there is some minimal ST elevation in V2–V6, but does not meet STEMI criteria. Is it normal STE? The computer thinks so, and the physician thinks that is quite possible.
+
+However, there is terminal QRS distortion in lead V3. We showed that this NEVER happens in normal ST elevation.
+
+There are also subtly hyperacute T-waves in I, aVL, and V2–V6.
+
+There is also a very negative (reciprocally inverted) T-wave in lead III, and a down-up T-wave in aVF, both of which are highly suggestive of occlusion of the LAD or D1.
+
+Previous ECG many months ago (patient had vertigo)
+
+Notice that the T-waves are far smaller, there is none of the inferior findings, and there is a well-formed S-wave in V3 (absence of terminal QRS distortion).
+
+Queen of Hearts on first ECG:
+OMI with High Confidence
+
+Queen of Hearts interpretation of this prior ECG:
+Not OMI with High Confidence
+
+These findings were very suspicious for the triage MD and so she took the patient to the critical care area.
+
+The patient’s pain resolved spontaneously after 2 sublingual nitroglycerine and another ECG was recorded.
+
+ECG 2 at 16 minutes
+
+ST ELEVATION CONSISTENT WITH INJURY, PERICARDITIS, OR EARLY REPOLARIZATION
+
+Smith: The T-waves are now MUCH smaller. The S-wave is reconstituted. The inferior findings are much less pronounced. The T-wave and STE in V2 are still very suspicious and much different from baseline, but the overall interpretation is that it is consistent with reperfusion.
+
+Thus, the LAD has reperfused (“recanalized”) spontaneously.
+
+Queen on ECG 2:
+Not OMI, Low confidence
+She is also worried about V2.
+
+ECG 3 at 21 minutes
+
+SINUS RHYTHM WITH FIRST DEGREE AV BLOCK
+
+Smith: Look at V2. All findings are now resolved. However, the ST segments are still relatively straight.
+
+ECG 4 at 55 minutes
+
+SINUS RHYTHM WITH FIRST DEGREE AV BLOCK
+
+Overread: previous in the same day, resolution of hyperacute T wave
+
+Smith: Upward concavity is restored.
+
+Comparison of V1–V3 across ECGs shows terminal QRS distortion in V3 at time zero, restoration of the S-wave at 16 minutes, decrease in T-wave size, and restoration of upward concavity at 21 and 55 minutes.
+
+Because the pain was gone and the ECG improving, the cath lab was not activated. Cardiology agreed the first ECG was early repolarization and similar to previous, but recommended aspirin, heparin, and waiting for the first troponin. An aortic CT was negative.
+
+This is a “Transient OMI”. Transient STEMI has been studied and many of these patients will re-occlude in the middle of the night. If prepared for this, it is acceptable to wait until morning for intervention.
+
+The proximal LAD thrombus lysed or partially lysed, restoring flow. It is not clear that this was recognized as a transient OMI.
+
+Lemkes et al. Timing of revascularization in patients with transient ST segment elevation myocardial infarction: a randomized clinical trial. Eur Heart J 2018.
+
+Biomarkers
+
+First troponin I: 48 ng/L
+High-sensitivity troponin I peak: 1849 ng/L
+
+ECG 5 at 143 minutes
+
+No significant change
+
+ECG 6 at 261 minutes
+
+Same
+
+Formal Echocardiogram
+
+Estimated LVEF: 74%
+Pulmonary artery systolic pressure: 27 mmHg + RA pressure
+Normal left ventricular cavity size
+No wall motion abnormality
+
+This shows that significant ACS can have ZERO WMA.
+
+Angiogram
+
+LAD is a large-caliber vessel wrapping around the apex
+
+Tubular 80% ostial LAD stenosis, smooth, did not resolve with IC nitroglycerin
+
+Tiny D1, medium D2, small D3
+
+Lesion on proximal LAD: Ostial 80% stenosis
+Pre-procedure TIMI III flow
+Post-procedure TIMI III flow
+
+ECG 7 at 24 hours
+
+Wellens’ waves: terminal T-wave inversion in V2–V4 (Wellens Pattern A)
+Read as “Normal ECG” by the overreading cardiologist
+
+ECG 8 at 36 hours
+
+Wellens’ waves persist but less prominent
+V2 especially; V3 has artifact; V4 subtle Wellens wave
+Read as “Normal ECG” by the overreading cardiologist
+
+Wellens described reperfusion T-waves but did not explicitly link them to his syndrome.
+
+Wellens’ waves and reperfusion T-waves are the same thing.
+
+Wellens’ waves indicate prior occlusion during chest pain followed by spontaneous reperfusion with resolution of ST elevation or hyperacute T-waves and subsequent T-wave inversion.
+
+Evidence and Interpretation
+
+There is no formal paper proving Wellens as a reperfusion syndrome, but clinical experience strongly supports it.
+
+Recognition was based on papers describing terminal T-wave inversion as a reperfusion marker after thrombolysis.
+
+Wehrens XH et al., Am Heart J. 2000;139(3):430–6.
+Doevendans PA et al., Am J Cardiol. 1995;75(17):1206–10.
+
+ECG Comparison Principles
+
+The key to comparing ECGs is placing them side by side.
+
+Step 1: Ensure accurate lead-to-lead comparison by checking frontal plane axis and R-wave progression.
+Step 2: Compare ST–T wave morphology lead by lead.
+
+In this patient with new symptoms, early repolarization is a diagnosis of exclusion.
+
+Dynamic ST–T changes between ECGs confirm an acute event in progress.

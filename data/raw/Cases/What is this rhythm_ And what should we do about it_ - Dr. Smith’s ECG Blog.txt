@@ -1,0 +1,80 @@
+Case Setup
+
+ECG presented without patient information. Task: identify the rhythm and decide what to do in the ED.
+
+Core ECG Description
+
+Regular narrow-complex tachycardia at ~118 bpm
+
+Normal axis
+
+No sinus P waves (no upright P in lead II)
+
+Atrial activity is present but subtle:
+
+Negative P waves in inferior leads (hidden in ST segments)
+
+Small upright P waves in V1 (high-frequency “sharper” than T waves)
+
+Retrograde atrial activation: wavefront travels inferior → superior
+
+RP interval ~120 ms → short-RP tachycardia
+
+Retrograde P waves show constant RP′ interval and are 1:1 related to the preceding QRS
+
+Differential Diagnosis (Short-RP SVT with retrograde P waves)
+
+Low atrial tachycardia (possibly with long PR / 1° AV block)
+
+Junctional tachycardia (JT) (automatic focus at AV junction)
+
+Orthodromic AVRT (reentry via AV node down, accessory pathway back)
+
+Slow–fast AVNRT (most common SVT mechanism; usually faster rates, but can be slower)
+
+Fast–slow AVNRT is unlikely because that is typically a long-RP tachycardia (P wave appears just before QRS).
+
+Key Interpretation Debate in the Case
+
+One view: AVNRT is the first thought because it’s common, but 118 bpm is slow for typical AVNRT (often ~140–280).
+
+Another view: JT fits the slower rate better, but true junctional tachycardia is rare in adults.
+
+Ken Grauer’s position: the RP′ interval is relatively long (retrograde P waves occur past mid-ST segment) → favors orthodromic AVRT over AVNRT and over adult JT (which usually has a shorter RP′, when retrograde P waves are visible).
+
+Bottom-line diagnostic reality: you often cannot know with absolute certainty from a single ECG snapshot, but the rhythm is best characterized as a regular SVT with 1:1 retrograde P waves (short-RP SVT).
+
+Behavioral Clues That Help Distinguish Mechanism (when available)
+
+Onset
+
+Reentry (AVNRT/AVRT): often abrupt onset, triggered by PAC/PVC
+
+Automatic (some AT, JT): “warm-up” period (gradual acceleration)
+
+Regularity
+
+Reentry: highly regular
+
+Automatic: more variability / slight irregularity
+
+Termination
+
+Reentry: terminates when circuit interrupted (often abruptly)
+
+Automatic: may slow/stop as focus loses dominance
+
+Patient context
+
+JT is mostly pediatric; adult “junctional” rhythms often reflect “something else” (illness, drugs, electrolytes, postop state, etc.)
+
+ED Management (What to do)
+Primary diagnostic–therapeutic maneuver: Adenosine
+
+AVNRT / AVRT: usually terminates with adenosine (conversion to sinus rhythm)
+
+Automatic atrial tachycardia: adenosine may cause transient AV block revealing atrial activity (P waves continue), no conversion
+
+Junctional tachycardia (automatic): typically does not terminate with adenosine → if no termination, consider JT/automatic mechanism and search for underlying cause (myocarditis, infection, meds/drugs, electrolytes, etc.)
+
+Practical ED takeaway in this case: treat as SVT and try adenosine; use the response to refine diagnosis and next steps.

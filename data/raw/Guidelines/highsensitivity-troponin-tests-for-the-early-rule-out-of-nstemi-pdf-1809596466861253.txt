@@ -1,0 +1,1120 @@
+High-sensitivity troponin tests for the early rule out of NSTEMI
+1 Recommendations
+1.1 The following high-sensitivity troponin tests are recommended as options for the
+early rule out of non-ST-segment elevation myocardial infarction (NSTEMI) in
+people presenting to an emergency department with chest pain and suspected
+acute coronary syndrome:
+• Access High-Sensitivity Troponin I Assay
+• ADVIA Centaur High-Sensitivity Cardiac Troponin-I Assay
+• Alinity High Sensitive Troponin-I assay
+• ARCHITECT STAT High Sensitive Troponin-I assay
+• Atellica IM High-Sensitivity Cardiac Troponin I Assay
+• Dimension Vista High-Sensitivity Cardiac Troponin I Assay
+• Dimension EXL High-Sensitivity Cardiac Troponin I Assay
+• Elecsys Troponin T-high sensitive assay
+• Elecsys Troponin T-high sensitive STAT assay
+• VIDAS High sensitive Troponin I assay
+• VITROS High Sensitivity Troponin I Assay.
+1.2 The tests are recommended for use with different early rule-out test strategies
+alongside clinical judgement, including:
+• A single sample on presentation using a threshold at or near the limit of
+detection, which will vary depending on the assay being used. If this sample
+is positive it should not be used to rule in NSTEMI.
+• Multiple sample strategies, which typically include a sample at initial
+
+ 
+assessment followed by a second sample taken at 30 minutes to 3 hours (if
+clinically appropriate) and use of 99th percentile thresholds or thresholds at
+or near the limit of detection of the assay.
+Healthcare professionals should consider the likely time since the onset of
+symptoms when interpreting test results.
+1.3 When NSTEMI is not ruled out using early rule-out test strategies, use NICE's
+guideline on recent-onset chest pain of suspected cardiac origin to help diagnose
+myocardial infarction, and consider using sex-specific thresholds at the 99th
+percentile (see section 4.7 and section 5.2).
+1.4 Further research is recommended on the diagnostic performance of the
+TriageTrue High Sensitivity Troponin I test when using samples at point of care
+(see section 5.1).
+Why the committee made these recommendations
+When someone comes to a hospital emergency department with chest pain, tests are
+needed to work out if they're having a myocardial infarction (heart attack), and if so, what
+type it is and what treatment they need. Standard troponin tests take 10 to 12 hours, so
+people need to be admitted to hospital while they wait for the results.
+High-sensitivity troponin tests can help to quickly rule out a type of heart attack called an
+NSTEMI. Doing these tests can mean people with normal troponin levels do not need to be
+admitted to hospital, and those with a confirmed NSTEMI can get earlier treatment.
+Evidence shows that, of the high-sensitivity troponin tests, 9 are similarly effective in
+terms of diagnostic performance. Of these, 8 are also similarly cost effective compared
+with standard troponin tests in different early rule-out test strategies and so are
+recommended for use in the NHS.
+There is only 1 diagnostic accuracy study for Elecsys STAT, and no diagnostic accuracy
+evidence for Alinity and Dimension EXL. But they use the same methods, principles and
+reagents as alternative versions of the tests that do have diagnostic accuracy evidence
+and were included in the economic model. The main difference is that they are run on
+different analysers. They are therefore also recommended.
+
+ 
+Although the TriageTrue test has the potential to be cost effective, its diagnostic accuracy
+when used on whole blood is uncertain.
+
+ 
+2 The diagnostic tests
+Clinical need and practice
+2.1 Chest pain and suspected myocardial infarction were the cause of about 5% of all
+emergency hospital admissions in 2017 to 2018. However, myocardial infarction
+will have occurred in only about 20% of those admissions. Tests that can quickly
+tell whether a person is having a myocardial infarction or not could mean that
+unnecessary hospital admissions are avoided, reducing waiting time and anxiety
+for many people.
+2.2 Cardiac troponins I and T are biological markers of cardiac muscle death
+(cardiomyocyte necrosis). They are released into the circulation, so rise when the
+cardiac muscle is damaged. They are used as markers of acute myocardial
+infarction along with clinical history taking and electrocardiography (ECG)
+monitoring. ST-segment elevation myocardial infarction (STEMI) can usually be
+diagnosed by ECG alone. So, the main diagnostic challenge is detecting or ruling
+out non-ST-segment elevation myocardial infarction (NSTEMI).
+2.3 The optimum sensitivity of older (non-high-sensitivity) troponin tests (referred to
+here as standard troponin tests) for acute myocardial infarction is 10 to 12 hours
+after the onset of symptoms. For many people, this means hospital admission and
+observation while serial troponin testing is done. To overcome this, high-
+sensitivity troponin tests have been developed. These can detect lower levels of
+troponin in the blood earlier than standard troponin tests, so enable early rule out
+of NSTEMI after the onset of acute chest pain. This could lead to fewer people
+being admitted to hospital, earlier discharge for people with normal troponin
+levels and earlier intervention for those with a confirmed NSTEMI.
+2.4 NICE's 2014 guidance on high-sensitivity troponin tests recommended the
+Elecsys troponin T-high sensitive test and ARCHITECT STAT High Sensitive
+Troponin-I test as options for the early rule out of NSTEMI in people presenting to
+an emergency department with chest pain and suspected acute coronary
+syndrome. Since that guidance was published, NICE's guideline on recent-onset
+chest pain of suspected cardiac origin has been updated to include high-
+
+ 
+sensitivity troponin tests. But stakeholder feedback suggests that high-sensitivity
+troponin testing used with early rule-out strategies has not been routinely
+adopted in the NHS and, if it has, there is wide variation in how it is being done.
+This updated assessment is being done to ensure that guidance is based on
+evidence including new high-sensitivity tests developed and marketed since
+publication of the NICE guidance. It is also to provide more detailed
+recommendations on how to use high-sensitivity tests (for example, timing of
+testing and using sequential testing strategies) when possible.
+The interventions
+2.5 All tests included in the assessment are CE marked and available to the NHS.
+Access High-Sensitivity Troponin I Assay (Beckman Coulter)
+2.6 The Access test is designed to be used in a laboratory with the Beckman Coulter
+Access 2 and DxI/DxC analysers. The company says that the test's performance
+is the same regardless of analyser. It is a paramagnetic particle chemiluminescent
+immunoassay for in-vitro quantitative determination of troponin I in serum and
+plasma samples. Results are available in 17 minutes. Recommended 99th
+percentile cut-offs are:
+• 17.5 ng/litre for the whole population
+• 11.6 ng/litre for women
+• 19.8 ng/litre for men.
+Each 99th percentile has a coefficient of variation (CV) of less than 10%. The
+test can detect troponin I in more than 97% of the reference population.
+
+ 
+ARCHITECT STAT High Sensitive Troponin-I assay (Abbott
+Diagnostics)
+2.7 The ARCHITECT test is designed to be used in a laboratory with the Abbott
+ARCHITECT i2000SR and i1000SR analysers. The test is a chemiluminescent
+microparticle immunoassay for in-vitro quantitative determination of troponin I in
+serum and plasma samples. Results are available in 18 minutes. The ARCHITECT
+test can detect troponin I in 96% of the reference population. Recommended
+99th percentile cut-offs are:
+• 26.2 ng/litre for the whole population with a CV of 4%
+• 15.6 ng/litre for women (CV 5.3%)
+• 34.2 ng/litre for men (CV 3.5%).
+Alinity High Sensitive Troponin-I assay (Abbott Diagnostics)
+2.8 The Alinity test is designed to be used in a laboratory with the Alinity i analyser. It
+is a chemiluminescent microparticle immunoassay for the quantitative
+determination of troponin I in plasma and serum samples. Results are available in
+18 minutes. Recommended 99th percentile cut-offs are:
+• 26.2 ng/litre for the whole population with a CV of 4.6%
+• 15.6 ng/litre for women (CV 5.0%)
+• 34.2 ng/litre for men (CV 4.5%).
+ADVIA Centaur High-Sensitivity Cardiac Troponin I Assay
+(Siemens Healthineers)
+2.9 The ADVIA Centaur test is designed to be used in a laboratory with the Siemens
+ADVIA Centaur XP and ADVIA Centaur XPT analysers. It is a magnetic latex
+particle chemiluminescent immunoassay for the in-vitro quantitative
+determination of troponin I in serum and plasma samples. Test results are
+available in 18 minutes. Recommended 99th percentile cut-offs are:
+
+ 
+• 47.34 ng/litre in lithium heparin and 46.47 ng/litre in serum for the whole
+population
+• 36.99 ng/litre in lithium heparin and 39.59 ng/litre in serum for women
+• 57.27 ng/litre in lithium heparin and 58.05 ng/litre in serum for men.
+Each 99th percentile has a CV of less than 10%. The test can detect
+troponin I in more than 50% of the reference population.
+Atellica IM High-Sensitivity Cardiac Troponin I Assay (Siemens
+Healthineers)
+2.10 The Atellica test is designed to be used in a laboratory with the Siemens Atellica
+IM analyser. It is a magnetic latex particle chemiluminescent immunoassay for the
+in-vitro quantitative determination of troponin I in serum and plasma samples.
+Test results are available in 10 minutes. Recommended 99th percentile cut-offs
+are:
+• 45.2 ng/litre in lithium heparin and 45.43 ng/litre in serum for the whole
+population
+• 34.11 ng/litre in lithium heparin and 38.64 ng/litre in serum for women
+• 53.48 ng/litre in lithium heparin and 53.53 ng/litre in serum for men.
+Each 99th percentile has a CV of less than 10%. The test can detect
+troponin I in more than 50% of the reference population.
+Dimension EXL High-Sensitivity Cardiac Troponin I Assay
+(Siemens Healthineers)
+2.11 The Dimension EXL test is designed to be used in a laboratory with the Siemens
+Dimension EXL analyser. It is a magnetic latex particle chemiluminescent
+immunoassay for the in-vitro quantitative determination of troponin I in serum and
+plasma samples. Test results are available in 18 minutes. Recommended 99th
+
+ 
+percentile cut-offs are:
+• 60.4 ng/litre in lithium heparin and 58.2 ng/litre in serum for the whole
+population
+• 51.4 ng/litre in lithium heparin and 47.8 ng/litre in serum for women
+• 76.2 ng/litre in lithium heparin and 71.8 ng/litre in serum for men.
+Each 99th percentile has a CV of less than 10%. The test can detect
+troponin I in more than 50% of the reference population.
+Dimension Vista High-Sensitivity Cardiac Troponin I Assay
+(Siemens Healthineers)
+2.12 The Dimension Vista test is designed to be used in a laboratory with the Siemens
+Dimension Vista analysers. It is a magnetic latex particle chemiluminescent
+immunoassay, and is intended for the in-vitro quantitative determination of
+troponin I in serum and plasma samples. Test results are available in 10 minutes.
+Recommended 99th percentile cut-offs are:
+• 58.9 ng/litre in lithium heparin and 57.9 ng/litre in serum for the whole
+population
+• 53.77 ng/litre in lithium heparin and 51.1 ng/litre in serum for women
+• 78.5 ng/litre in lithium heparin and 74.9 ng/litre in serum for men.
+Each 99th percentile has a CV of less than 10%. The test can detect
+troponin I in more than 50% of the reference population.
+Elecsys troponin T-high sensitive assay (Roche)
+2.13 The Elecsys and Elecsys STAT tests are designed to be used in a laboratory on
+the Roche cobas e411, e601, and e602 analysers. The company says that
+performance is the same when used on these analysers. The test can also be run
+on the cobas e801 analyser, which is designed for very high throughput as both a
+
+ 
+standard and STAT test. The Elecsys test is a sandwich
+electrochemiluminescence immunoassay for in-vitro quantitative determination of
+troponin T in serum and plasma samples. Results are available in 18 minutes with
+the standard test and in 9 minutes with the STAT test. Both tests can detect
+troponin T in 57% of the reference population. Recommended 99th percentile
+cut-offs are:
+• 14.0 ng/litre for the whole population with a CV of less than 10%
+• 9.0 ng/litre for women
+• 16.8 ng/litre for men.
+TriageTrue High Sensitivity Troponin I Test (Quidel
+Cardiovascular)
+2.14 The TriageTrue test can be used at point of care or in a laboratory with the Triage
+MeterPro analyser. It is a fluorescence immunoassay for the in-vitro quantitative
+determination of troponin I in EDTA anticoagulated whole blood and plasma
+samples. Test results are available in less than 20 minutes. Recommended 99th
+percentile cut-offs are:
+• 20.5 ng/litre for the whole population with a CV of less than 10%
+• 14.4 ng/litre for women
+• 25.7 ng/litre for men.
+The test can detect troponin I in more than 50% of the reference population.
+VITROS High Sensitivity Troponin I Assay (Ortho Clinical
+Diagnostics)
+2.15 The VITROS test is designed to be used in a laboratory on the following
+analysers: VITROS ECi/ECiQ/3600 Immunodiagnostic Systems and the VITROS
+5600/XT 7600 Integrated System. It is an immunometric immunoassay for the in-
+vitro quantitative determination of troponin I in serum and plasma samples. Test
+
+ 
+results are available in 15 minutes. Recommended 99th percentile cut-offs are:
+• 11 ng/litre in lithium heparin and serum for the whole population
+• 9 ng/litre in lithium heparin and serum for women
+• 13 ng/litre in lithium heparin and 12 ng/litre in serum for men.
+The test can detect troponin I in more than 50% of the reference population.
+VIDAS High sensitive Troponin I assay (bioMérieux)
+2.16 The VIDAS test is designed to be used in a laboratory on the following analysers:
+VIDAS, MINI VIDAS and VIDAS 3. It is for the in-vitro quantitative determination of
+troponin I in serum and plasma (lithium heparin) samples. Test results are
+available in 20 minutes. Recommended 99th percentile cut-offs are:
+• 19 ng/litre for the whole population
+• 11 ng/litre for women
+• 25 ng/litre for men.
+The comparator
+2.17 The comparator was standard troponin testing over 10 to 12 hours from symptom
+onset used with early rule-out strategies.
+
+ 
+3 Evidence
+The diagnostics advisory committee considered evidence on high-sensitivity troponin
+tests for the early rule out of non-ST-segment elevation myocardial infarction (NSTEMI)
+from several sources. Full details of all the evidence are in the committee papers.
+Clinical effectiveness
+3.1 The external assessment group (EAG) did a systematic review to identify
+evidence on the clinical effectiveness of high-sensitivity troponin tests for the
+early rule out of acute myocardial infarction, including NSTEMI, in people who
+come to hospital with chest pain. It also considered studies used to develop the
+original diagnostics guidance on early rule out of myocardial infarction using high-
+sensitivity troponin tests.
+3.2 The EAG identified 37 studies that met the inclusion criteria. Test accuracy data
+were reported for the following high-sensitivity troponin tests: Elecsys (30
+studies), ARCHITECT (9 studies), Atellica (2 studies), ADVIA Centaur (3 studies),
+Access (2 studies). One study each reported accuracy data for Dimension Vista,
+VITROS, VIDAS and TriageTrue.
+3.3 Seven studies reported diagnostic accuracy data for more than 1 test. No studies
+were identified that matched the inclusion criteria for the review for Alinity or
+Dimension EXL tests. Two randomised controlled trials were included in the
+review: High-STEACS and HiSTORIC.
+3.4 Of the 37 included studies, 22 were done in Europe (7 in the UK), 5 in Australia
+and New Zealand, 6 in the US, 3 in East Asia, and 1 was a worldwide study.
+3.5 The randomised controlled trials were quality assessed using the revised
+Cochrane risk of bias tool for cluster randomised trials. Studies that evaluated a
+single high-sensitivity test were assessed using the QUADAS-2 tool. Studies that
+provided data for 2 or more high-sensitivity tests were assessed using the
+QUADAS-2C tool.
+
+ 
+Randomised controlled trials
+3.6 Both trials used the ARCHITECT test.
+3.7 The High-STEACS trial evaluated the implementation of an early rule-out strategy
+in 10 secondary and tertiary care hospitals in Scotland. It compared the rates at
+which conditions were reclassified after high-sensitivity troponin tests with the
+rates of reclassification after standard troponin testing. It also compared the
+subsequent incidence of myocardial infarction and cardiovascular death.
+3.8 The HiSTORIC trial also evaluated the implementation of an early rule-out
+strategy in 7 acute hospitals in Scotland. The primary outcomes were length of
+stay and myocardial infarction or cardiac death after discharge at 30 days. The
+results are academic in confidence.
+3.9 During the validation phase of High-STEACS (6 to 12 months), results of the high-
+sensitivity troponin I test were concealed from the attending clinician, and a
+standard cardiac troponin test was used to guide care. A high-sensitivity test was
+introduced after 6 months (early implementation) or 12 months (late
+implementation).
+3.10 In patients whose condition was reclassified in the High-STEACS trial, there were
+no differences between high-sensitivity and standard troponin tests in the
+primary or any of the secondary efficacy and safety outcome measures
+(myocardial infarction, unplanned coronary revascularisation, all-cause death,
+death from cardiovascular causes, hospital admission for heart failure and
+ischaemic stroke). The median length of stay for patients without myocardial
+injury was 7 hours (interquartile range 3 to 24) in the validation phase and
+4 hours (interquartile range 3 to 20) in the implementation phase. The authors of
+High-STEACS concluded that implementing an early rule-out strategy was not
+associated with any increase in myocardial infarction or cardiovascular death
+within 1 year of initial presentation.
+
+ 
+Diagnostic test accuracy
+Elecsys troponin T-high sensitive assay
+3.11 Summary estimates of sensitivity and specificity from testing a single sample,
+using a 99th percentile diagnostic threshold for the general population, were 90%
+(95% confidence interval [CI] 85 to 94) and 78% (95% CI 72 to 83) respectively,
+based on data from 22 studies. The summary estimates of sensitivity and
+specificity, using a single sample and a limit of detection threshold, were 99%
+(95% CI 97 to 99) and 36% (95% CI 28 to 45) respectively, based on data from
+9 studies. The 8 studies that assessed the diagnostic performance of a limit of
+blank threshold in a single sample gave a similarly high summary estimate of
+sensitivity of 100% (95% CI 98 to 100), but a reduced specificity of 19% (95% CI
+11 to 31). All estimates were similar when the analyses were restricted to studies
+that excluded people with ST-segment elevation myocardial infarction (STEMI).
+3.12 Using multiple sample strategies appears to offer better specificity without
+substantial loss of sensitivity than using a single sample on presentation and a
+very low limit of detection or limit of blank threshold. The European Society of
+Cardiology's (ESC) 0/1-hour rule-out pathway combines an initial sample and a
+very low limit of detection threshold (5 ng/litre) in patients reporting a minimum
+symptom duration of 3 hours. The strategy tests at presentation and 1 hour later
+for patients whose acute myocardial infarction is not ruled out by the initial test,
+that is, it uses an 'OR' combination. The threshold for repeat testing is an initial
+troponin concentration of less than 12 ng/litre with an absolute change in
+troponin concentration, from 0 to 1 hour, of less than 3 ng/litre. For NSTEMI, the
+sensitivity and specificity estimates for this strategy were 99% (95% CI 98 to 100)
+and 68% (95% CI 67 to 70), respectively. Estimates of diagnostic performance
+were similar for strategies using an 'AND' combination of initial high-sensitivity
+troponin level and absolute change in troponin level.
+ARCHITECT STAT High Sensitive Troponin-I assay
+3.13 Summary estimates of sensitivity and specificity for a single sample using a
+diagnostic threshold of the 99th percentile for the general population were 75%
+(95% CI 65 to 82) and 94% (95% CI 94 to 96) respectively, based on data from 5
+
+ 
+studies. These estimates were similar if the analysis was restricted to studies that
+excluded people with STEMI. The summary estimates of sensitivity and
+specificity, using a limit of detection threshold (2 ng/litre) in a single sample taken
+on presentation, were 100% (95% CI 99 to 100) and 21% (95% CI 16 to 26)
+respectively, based on data from 4 studies in NSTEMI.
+3.14 For multiple sample strategies, the High-STEACS pathway was used as follows:
+• in the whole population, symptoms for 2 hours or more and a troponin
+concentration of less than 5 ng/litre at 0 hours, or
+• in women, 16 ng/litre or lower when measured 3 hours from presentation and
+an absolute change of less than 3 ng/litre at 0 to 3 hours, or
+• in men, 34 ng/litre or lower when measured 3 hours from presentation and an
+absolute change of less than 3 ng/litre at 0 to 3 hours.
+3.15 Using the High-STEACS pathway in this way appeared to offer increased
+specificity without substantial loss of sensitivity compared with a single sample
+on presentation and a risk stratification threshold of less than 5 ng/litre. The
+sensitivity and specificity estimates for this strategy were 99% (95% CI 97 to 100)
+and 76% (95% CI 73 to 78) respectively, for NSTEMI. The ESC 0/1-hour rule-out
+pathway reported a lower specificity than the High-STEACS pathway. It used an
+initial sample and a limit of detection threshold of less than 2 ng/litre, or repeat
+testing combining an initial troponin concentration of less than 5 ng/litre and an
+absolute change in troponin concentration, from 0 to 1 hour, of less than 2 ng/
+litre. Summary sensitivity and specificity estimates were 99% (95% CI 98 to 100)
+and 57% (95% CI 56 to 59) respectively for NSTEMI.
+Access High-Sensitivity Troponin I Assay
+3.16 The 2 studies evaluating the Access test each assessed a different multiple
+sample strategy. One followed the ESC 0/1-hour rule-out pathway (initial sample
+and a limit of detection threshold of less than 4 ng/litre, or repeat testing
+combining an initial concentration of less than 5 ng/litre and an absolute change
+in troponin concentration, from 0 to 1 hour, of less than 4 ng/litre), giving
+sensitivity and specificity estimates of 99% (95% CI 94 to 100) and 70% (95% CI
+
+ 
+66 to 74) respectively for NSTEMI. The second study assessed a similar strategy,
+but with repeat testing at 2 hours. The sensitivity estimates were similar for the 2
+strategies, but the specificity of the 2-hour repeat testing strategy was higher
+than that of the 1-hour strategy.
+VIDAS High sensitive Troponin I assay
+3.17 The study evaluating the VIDAS test assessed a multiple sample strategy, with
+samples taken on presentation and at 2 hours using a threshold of less than 2 ng/
+litre at presentation, or less than 6 ng/litre at presentation and at 2 hours. The
+reported sensitivity and specificity estimates were 98% (95% CI 92 to 100) and
+64% (95% CI 59 to 68) respectively for NSTEMI.
+VITROS High Sensitivity Troponin I Assay
+3.18 The study evaluating the VITROS test assessed the ESC 0/1-hour rule-out
+pathway. This combined an initial sample and a limit of detection threshold of less
+than 1 ng/litre, or repeat testing combining an initial troponin concentration of
+less than 2 ng/litre and an absolute change in troponin concentration, from 0 to
+1 hour, of less than 1 ng/litre. The reported sensitivity and specificity estimates
+were 100% (95% CI 95 to 100) and 60% (95% CI 55 to 64) respectively for
+NSTEMI.
+TriageTrue High-Sensitivity Troponin I Test
+3.19 The study evaluating the TriageTrue test assessed the ESC 0/1-hour rule-out
+pathway. This combined an initial sample and a limit of detection threshold of less
+than 4 ng/litre, or repeat testing combining an initial troponin concentration of
+less than 5 ng/litre and an absolute change in troponin concentration, from 0 to
+1 hour, of less than 3 ng/litre. The reported sensitivity of this strategy was 100%
+(95% CI 97 to 100) and the specificity was 66% (95% CI 62 to 70) for NSTEMI.
+
+ 
+ADVIA Centaur high-sensitivity Troponin I assay
+3.20 Three studies evaluated the ADVIA Centaur test. Using a rule-out threshold of
+2 ng/litre in a single sample taken on presentation, the sensitivity and specificity
+estimates were 100% (95% CI 99 to 100) and 23% (95% CI 21 to 25) respectively
+for NSTEMI. Two multiple sample strategies were evaluated. One followed the
+ESC 0/1-hour rule-out pathway. This combined an initial sample and a limit of
+detection threshold of less than 3 ng/litre, or repeat testing combining an initial
+concentration of less than 6 ng/litre and an absolute change in troponin
+concentration, from 0 to 1 hour, of less than 3 ng/litre. The sensitivity and
+specificity estimates for this strategy were 99% (95% CI 95 to 100) and 56% (95%
+CI 52 to 60) respectively for NSTEMI. The second study assessed a similar
+strategy, but with higher thresholds and repeat testing at 2 hours. The sensitivity
+and specificity estimates for this strategy were 100% (95% CI 95 to 100) and 67%
+(95% CI 61 to 72) respectively for NSTEMI.
+Atellica High-Sensitivity Troponin I Assay
+3.21 Using a rule-out threshold of 2 ng/litre, in a single sample taken on presentation,
+the sensitivity and specificity estimates for the Atellica test were 100% (95% CI
+98 to 100) and 26% (95% CI 24 to 28) respectively for NSTEMI. Sensitivity and
+specificity estimates for the High-STEACS pathway (symptoms for at least
+2 hours and an initial troponin concentration of less than 5 ng/litre, or a troponin
+concentration of 34 ng/litre or less in women, or 53 ng/litre or less in men at
+3 hours and an absolute change in concentration from 0 to 3 hours, of less than
+3 ng/litre) were 98% (95% CI 95 to 100) and 74% (95% CI 72 to 76) respectively
+for NSTEMI.
+Dimension Vista High-Sensitivity Cardiac Troponin I Assay
+3.22 The study of the Dimension Vista test assessed a strategy using measurements
+done at baseline using a troponin concentration threshold of less than 5 ng/litre
+and an absolute change of less than 2 ng/litre within 1 hour. The sensitivity of the
+strategy was 100% (95% CI 97 to 100) and specificity was 66% (95% CI 62 to 69)
+for NSTEMI.
+
+ 
+Diagnostic accuracy in relevant subgroups
+3.23 The EAG identified some data on the subgroups described in the scope for this
+guidance. In a study using the Elecsys test and a 99th percentile threshold on a
+single sample at presentation, a higher sensitivity for any acute myocardial
+infarction was estimated in people over 70 than for people aged 70 or under (97%
+[95% CI 92 to 99] and 88% [95% CI 78 to 94] respectively). The estimate of
+sensitivity for people over 70 was also higher than the corresponding summary
+estimates from all 22 studies that used the 99th percentile diagnostic threshold.
+There was a similar pattern for people with a high pre-test probability
+(determined by clinical judgement of cardiovascular risk factors, type of chest
+pain, physical findings and electrocardiography [ECG] abnormalities) compared
+with those with a low to moderate pre-test probability. The same was found for
+people without pre-existing cardiovascular disease compared with those with
+pre-existing cardiovascular disease.
+3.24 Only the High-STEACS trial reported using sex-specific thresholds. Data from this
+study appeared to show that testing using a single sample taken on presentation
+is markedly more sensitive if sex-specific 99th percentile cut-offs are used,
+compared with a standard troponin test with a uniform threshold. This is
+particularly true in women, for whom the 99th percentile is lower. This study also
+used sex-specific thresholds as part of a multiple test strategy: the High-STEACS
+pathway. It is unclear whether using sex-specific thresholds in this strategy
+offers any advantage over using a single general population threshold. This is
+because no equivalent strategy, using a single universal threshold, was
+evaluated. Other studies reported data on men and women using a single general
+population threshold in each group. Results from a study on the Elecsys test
+showed very similar accuracy estimates for the subgroups, although a study on
+the Dimension Vista reported a lower sensitivity and specificity in men than in
+women.
+3.25 Two studies on the Elecsys test and 2 on the ARCHITECT test reported data on
+how diagnostic performance varies with renal function. All studies show a
+decrease in specificity as renal function decreases.
+
+ 
+Comparative diagnostic accuracy for more than 1 test
+3.26 Seven studies reported accuracy data for more than 1 test.
+3.27 The APACE study provided data on the ESC 0/1-hour pathway using the Elecsys,
+ARCHITECT and ADVIA Centaur tests. It also provided data on the ESC 0/1-hour
+pathway using the Access, VITROS and TriageTrue tests, but these results came
+from different patient subgroups and were reported in different publications. Data
+showed that the ESC 0/1-hour pathway performed consistently across all 6 high-
+sensitivity troponin tests evaluated with sensitivity estimates of 98% or higher.
+3.28 Three other studies, ADAPT, ROMI-3, and TRUST, compared the Elecsys and
+ARCHITECT tests. Although the sensitivity estimates for the Elecsys test, using
+the 99th percentile and a single sample at presentation, were higher than those
+for the ARCHITECT test, both had sensitivity estimates of less than 97%. When
+the limit of detection threshold was used with a single sample at presentation,
+sensitivity estimates were comparable for the Elecsys test and the ARCHITECT
+test, and were always 99% or higher.
+3.29 The High-STEACS trial provided data on the rule-out performance of 3 strategies
+(ESC 0/1-hour, ESC 0/3-hour and High-STEACS 0/3-hour) using the ARCHITECT
+and Atellica tests. It is unclear whether both tests were evaluated in the same
+subgroup of people in the study. Data showed that the sensitivity of the ESC 0/
+1-hour pathway was lower using the Atellica test (94% [95% CI 79 to 99]) than
+using the ARCHITECT test (100% [95% CI 91 to 100]). The sensitivity and
+specificity estimates for the High-STEACS 0/3-hour rule-out pathway were
+similar using either test (both had sensitivity estimates of 98% or more). The ESC
+0/3-hour rule-out pathway in this study consisted of:
+• symptoms for 6 hours or more and a troponin concentration of 16 ng/litre or
+less in women or 34 ng/litre or less in men at 0 hours, or
+• a troponin concentration of 16 ng/litre or less in women or 34 ng/litre or less
+in men at 3 hours, or
+• an absolute change of less than 50% of the 99th percentile at 0 to 3 hours.
+The sensitivity and specificity estimates for the ESC 0/3-hour rule-out
+
+ 
+pathway were both less than 97% using either test.
+3.30 The HIGH-US study compared 2 Siemens tests (Atellica and ADVIA Centaur),
+using 3 low thresholds and a single sample at presentation. The results showed
+sensitivity estimates were 99% or more for both tests for all thresholds.
+3.31 The BEST study compared 2 single sample at presentation strategies using the
+ADVIA Centaur test (threshold of 3 ng/litre) and Elecsys test (limit of detection
+[5 ng/litre] threshold). Data were reported in separate publications with different
+numbers of people. The sensitivity estimates were 99% for both tests, but the
+Elecsys test had a higher specificity (47% [95% CI 43 to 51]) than the ADVIA
+Centaur test (33% [95% CI 30 to 36]).
+Cost effectiveness
+3.32 The EAG did a search to identify evidence on the cost effectiveness of high-
+sensitivity troponin tests for the early rule out of acute myocardial infarction,
+including NSTEMI. The EAG also developed a de novo economic model to assess
+the cost effectiveness of the different testing strategies.
+Review of economic evidence
+3.33 Studies were eligible if they reported a full economic analysis of the cost
+effectiveness of either high-sensitivity troponin testing or standard troponin
+testing. They also had to include survival or quality-adjusted life years (QALYs) as
+an outcome measure.
+3.34 Five studies identified in the original assessment report and 1 new study were
+included in the systematic review. Results varied in the 5 studies from the original
+report, and the EAG concluded that there was uncertainty about the cost
+effectiveness of diagnostic strategies using high-sensitivity troponin testing. The
+EAG noted that the key drivers of cost effectiveness in the included studies were
+the accuracy of high-sensitivity troponin tests, and the efficiency of decision
+making once test results were available.
+
+ 
+3.35 The most recent study (Ambavane et al. 2017) reported that a 1-hour strategy
+using high-sensitivity troponin testing had higher sensitivity (87% compared with
+69%) but lower specificity (96% compared with 97%) than standard care. The
+reference standard used to calculate diagnostic accuracy was determination of
+final diagnosis based on a comprehensive review of medical records. Total costs
+were less for the 1-hour strategy compared with standard care (£2,480
+compared with £4,561). This was mainly because of a shorter length of stay in
+the emergency department.
+Economic analysis
+3.36 The EAG developed a de novo economic model to explore the cost effectiveness
+of high-sensitivity troponin tests for the early rule out of acute myocardial
+infarction, including NSTEMI, in people with acute chest pain (used up to 4 hours
+from the onset of chest pain or at presentation). The model compared high-
+sensitivity tests with standard troponin T or I testing, or both, on admission and
+at 10 to 12 hours after the onset of symptoms. The population in the model was
+people presenting to the emergency department with suspected non-ST-
+segment elevation acute coronary syndrome, who have no major comorbidities
+needing hospitalisation (for example, heart failure or arrhythmia) and in whom
+STEMI has been ruled out.
+3.37 Only high-sensitivity troponin tests with a sensitivity of 97% or above were used
+in the economic model, based on expert opinion of the minimum sensitivity
+acceptable in clinical practice. The strategies evaluated are described in table 1.
+Table 1 Test strategies evaluated in the economic model
+Strategy
+Test Strategy
+number
+99th percentile threshold (under 14 ng/litre at 0 hours AND
+1 Elecsys
+3 hours)
+2 Elecsys Limit of detection under 5 ng/litre at 0 hours
+ESC 0/1-hour pathway: symptoms over 3 hours AND under 5 ng/
+litre at 0 hours
+3 Elecsys
+OR under 12 ng/litre at 0 hours AND an absolute change of less
+than 3 ng/litre at 0 to 1 hour
+
+ 
+Strategy
+Test Strategy
+number
+Under 8 ng/litre at 0 hours AND an absolute change of less than
+4 Elecsys
+3 ng/litre at 0 to 0.5 hours
+Under 12 ng/litre at 0 hours AND an absolute change of less than
+5 Elecsys
+3 ng/litre at 0 to 1 hour
+Dimension Under 5 ng/litre at 0 hours AND an absolute change of less than
+6
+Vista 2 ng/litre at 0 to 1 hours
+Under 12 ng/litre at 0 hours AND an absolute change of less than
+7 ARCHITECT
+3 ng/litre at 0 to 1 hour
+ESC 0/1-hour pathway: symptoms over 3 hours AND under 2 ng/
+litre at 0 hours
+8 ARCHITECT
+OR under 5 ng/litre at 0 hours AND an absolute change of less
+than 2 ng/litre at 0 to 1 hours
+High-STEACS pathway: symptoms for 2 hours or more AND under
+5 ng/litre at 0 hours
+9 ARCHITECT
+OR 16 ng/litre or more (women) and 34 ng/litre or more (men) at
+3 hours AND an absolute change of less than 3 ng/litre
+10 ARCHITECT Under 4 ng/litre at 0 hours
+ADVIA
+11 Under 2 ng/litre at 0 hours
+Centaur
+Under 3 ng/litre at 0 hours
+ADVIA
+12 OR under 8 ng/litre at 0 hours AND an absolute change of less
+Centaur
+than 7 ng/litre at 0 to 2 hours
+ESC 0/1-hour pathway: symptoms over 3 hours AND under 3 ng/
+ADVIA litre at 0 hours
+13
+Centaur OR under 6 ng/litre at 0 hours AND an absolute change of less
+than 3 ng/litre at 0 to 1 hour
+ADVIA
+14 Under 5 ng/litre at 0 hours
+Centaur
+15 Atellica Under 2 ng/litre at 0 hours
+
+ 
+Strategy
+Test Strategy
+number
+High-STEACS pathway: symptoms for 2 hours or more AND under
+5 ng/litre at 0 hours
+16 Atellica
+OR 34 ng/litre or less (women) and 53 ng/litre or less (men) at
+3 hours AND an absolute change of less than 3 ng/litre
+ESC 0/1-hour pathway: symptoms over 3 hours AND under 4 ng/
+litre at 0 hours
+17 Access
+OR under 5 ng/litre and an absolute change of less than 4 ng/litre
+at 0 to 1 hour
+Symptoms over 3 hours AND under 4 ng/litre at 0 hours
+18 Access OR under 5 ng/litre and an absolute change of less than 5 ng/litre
+at 0 to 2 hours
+ESC 0/1-hour pathway: symptoms over 3 hours AND under 1 ng/
+litre at 0 hours
+19 VITROS
+OR under 2 ng/litre at 0 hours AND an absolute change of under
+1 ng/litre at 0 to 1 hour
+Under 2 ng/litre at 0 hours
+20 VIDAS
+OR under 6 ng/litre at 0 AND 2 hours
+ESC 0/1-hour pathway: symptoms over 3 hours AND under 4 ng/
+litre at 0 hours
+21 TriageTrue
+OR under 5 ng/litre at 0 hours AND an absolute change of less
+than 3 ng/litre at 0 to 1 hour
+Model structure
+3.38 The model structure from the original diagnostics assessment report was used.
+This model structure was adapted from the health technology assessment report
+from Goodacre et al. (2013). It consists of a decision tree and a state-transition
+model. The decision tree was used to model the 30-day outcomes after
+presentation, based on test results and the accompanying treatment decision.
+The following health states were included:
+• no acute coronary syndrome and no unstable angina (no ACS, no UA)
+• unstable angina (UA)
+
+ 
+• post-acute myocardial infarction, treated and untreated (post-AMI)
+• post-acute myocardial infarction with reinfarction (post-AMI with reinfarction)
+• death.
+3.39 People presenting at the emergency department with suspected non-ST
+elevation acute coronary syndrome were tested and results were classified as
+either true positive, false positive, false negative or true negative. These people
+entered health states as listed (people could also die after treatment or be
+discharged):
+• People with true positive test results were correctly treated for acute
+myocardial infarction and were allocated to 'non-fatal AMI (treated)'.
+• People with false positive test results were considered to have no acute
+myocardial infarction, but did not meet early rule-out criteria. They were
+subdivided between 'no ACS, no UA' and 'UA'. It was assumed that people
+with false positive test results would remain in the hospital longer but would
+not be treated for acute myocardial infarction.
+• People with true negative test results were considered not to be treated for
+acute myocardial infarction and were subdivided between 'no ACS, no UA'
+and 'UA'.
+• People with false negative test results were assumed to have untreated acute
+myocardial infarction resulting in increased reinfarction and mortality
+probabilities for 1 year and were allocated to 'non-fatal AMI (untreated)'.
+3.40 The long-term consequences in terms of costs and QALYs were estimated using
+a state-transition cohort model with a lifetime time horizon (60 years) and a cycle
+time of 1 year (except for the first cycle which was adjusted to 335.25 days to
+ensure that the decision tree period and the first cycle summed to 1 year).
+Discount rates of 3.5% and a half-cycle correction were applied for both costs
+and effects.
+
+ 
+Model inputs
+3.41 Estimates for the model input parameters were retrieved from the literature and
+from consulting experts. Accuracy estimates were derived from the systematic
+review component of the assessment. The proportion of people testing positive
+or negative was based on the estimated accuracy of the testing strategies
+considered (table 2) and the estimated prevalence of NSTEMI in the UK (12.2%).
+Table 2 Test accuracy inputs
+Sensitivity Specificity
+Number Test Strategy
+(SE) (SE)
+Standard 1.00 (- 1.00 (-
+0 At presentation and after 10 to 12 hours
+troponin ) )
+1.00 0.77
+1 Elecsys 99th percentile at 0 hours AND 3 hours
+(0.03) (0.08)
+0.99 0.35
+2 Elecsys Limit of detection at 0 hours
+(0.01) (0.05)
+0.99 0.68
+3 Elecsys ESC 0/1-hour pathway
+(0.01) (0.01)
+Less than 8 ng/litre at 0 hours AND change of less 1.00 0.45
+4 Elecsys
+than 3 ng/litre at 0 to 0.5 hours (0.02) (0.02)
+Less than 12 ng/litre at 0 hours AND change of less 0.98 0.73
+5 Elecsys
+than 3 ng/litre at 0 to 1 hour (0.01) (0.01)
+Dimension Less than 5 ng/litre at 0 hours AND change less 1.00 0.66
+6
+Vista than 2 ng/litre at 0 to 1 hour (0.02) (0.02)
+1.00 0.21
+7 ARCHITECT Limit of detection at 0 hours
+(0.00) (0.03)
+0.99 0.57
+8 ARCHITECT ESC 0/1-hour pathway
+(0.00) (0.01)
+0.99 0.76
+9 ARCHITECT High-STEACS pathway
+(0.01) (0.01)
+0.99 0.50
+10 ARCHITECT Less than 4 ng/litre at 0 hours
+(0.01) (0.01)
+
+ 
+Sensitivity Specificity
+Number Test Strategy
+(SE) (SE)
+ADVIA 1.00 0.23
+11 Less than 2 ng/litre at 0 hours
+Centaur (0.00) (0.01)
+Less than 3 ng/litre at 0 hours OR less than 8 ng/
+ADVIA 1.00 0.67
+12 litre at 0 hours AND change of less than 7 ng/litre
+Centaur (0.01) (0.03)
+at 0 to 2 hours
+ADVIA 0.99 0.56
+13 ESC 0/1-hour pathway
+Centaur (0.01) (0.02)
+ADVIA 0.99 0.52
+14 Less than 5 ng/litre at 0 hours
+Centaur (0.01) (0.01)
+1.00 0.26
+15 Atellica Less than 2 ng/litre at 0 hours
+(0.01) (0.01)
+0.98 0.74
+16 Atellica High-STEACS pathway
+(0.01) (0.01)
+0.99 0.70
+17 Access ESC 0/1-hour pathway
+(0.02) (0.02)
+Symptoms at more than 3 hours AND less than
+0.98 0.83
+18 Access 4 ng/litre at 0 hour OR less than 5 ng/litre and
+(0.02) (0.01)
+change of less than 5 ng/litre at 0 to 2 hours
+1.00 0.60
+19 VITROS ESC 0/1-hour pathway
+(0.01) (0.02)
+Less than 2 ng/litre at 0 hour OR less than 6 ng/litre 0.98 0.64
+20 VIDAS
+at 0 AND 2 hours (0.02) (0.02)
+1.00 0.66
+21 TriageTrue ESC 0/1-hour pathway
+(0.01) (0.02)
+ESC, European Society of Cardiology; SE, standard error; ng/litre is nanograms troponin
+per litre of blood.
+3.42 Test-specific resource use consisted of the number of tests done and the
+duration of hospital stay in hours before discharge or acute myocardial infarction
+treatment. For test strategies that involved a subsequent test conditional on the
+
+ 
+outcome of the first test, the rule-out rate for the presentation sample was used
+to calculate the number of subsequent tests. The resource use included a delay
+from the time at which sampling could be done to the time at which results
+became available (2 hours) and delay between arrival at hospital and troponin
+assessment starting (1 hour).
+3.43 Health state costs were taken from a retrospective cohort study done in the UK
+(Danese et al. 2016). Acute myocardial infarction treatment costs were based on
+NHS reference costs and hospital stay costs were based on data from the
+Personal Social Services Research Unit.
+3.44 In the base case, test costs were assumed to be identical for all tests (£2.50)
+except for the point-of-care test (£25.00, based on information provided by
+Quidel). A scenario analysis was done using test-specific costs and assuming
+that costs relating to the analyser and staff time were identical for all strategies.
+3.45 Age-dependent utility scores from the UK general population were calculated for
+people in the 'no ACS, no UA' health state. These age-dependent utility scores
+were combined with age-dependent disutility values for acute myocardial
+infarction, to calculate utility values for the 'post-AMI' health states (with or
+without reinfarction). Utility values for the 'UA' health state were calculated based
+on the 'post-MI' utility values and assuming a utility increment of 0.010.
+Assumptions
+3.46 The following assumptions were applied in the base-case analysis:
+• Standard troponin testing (at presentation and after 10 to 12 hours) has
+perfect accuracy.
+• Compared with acute myocardial infarctions occurring during the decision
+tree period, all acute myocardial infarctions (either first or reinfarction)
+occurring in the state-transition model are diagnosed correctly, so are
+treated.
+• Unstable angina is always correctly diagnosed, so is treated.
+• The reinfarction probability for the 'post-AMI with reinfarction' health state is
+
+ 
+equal to the reinfarction probability for the 'post-AMI' health state.
+• The increased post-acute myocardial infarction reinfarction and mortality
+probabilities for untreated acute myocardial infarction were assumed to last
+1 year. After this a relative risk of 1.0 was applied (for untreated compared
+with treated acute myocardial infarction).
+• There is no additional benefit of starting treatment early, so treatment effect
+for high-sensitivity strategies is equal to treatment effect for standard
+troponin strategies.
+• All 30-day deaths (after presentation at the emergency department) are due
+to fatal acute myocardial infarction events and will receive the associated
+costs.
+3.47 For the base case, it was assumed that people who tested negative on standard
+troponin tests and positive on high-sensitivity troponin tests would have a life
+expectancy and quality of life equal to people with true negative test results, but
+this assumption is debatable. A meta-analysis by Liplinski et al. (2015) showed
+that people with a negative standard troponin test and positive high-sensitivity
+troponin test have an increased risk of reinfarction and mortality compared with
+those who test negative on both standard troponin and high-sensitivity troponin
+tests. Although this risk was not as high as in people with both positive standard
+troponin and positive high-sensitivity troponin tests, it could still be considered
+prognostically important. A secondary analysis was done in which the risk of
+acute myocardial infarction and mortality was adjusted for people with false
+positive results.
+Results
+3.48 In the base case, standard troponin testing was the most effective and the most
+expensive strategy. But other testing strategies with a sensitivity of 100%
+(subject to uncertainty) were almost equally as effective, resulting in the same
+QALY gain up to 4 decimal places. Compared with standard troponin testing,
+high-sensitivity troponin testing resulted in probabilistic incremental cost-
+effectiveness ratios (ICERs) ranging between £34,307 and £36,842,603 savings
+per QALY lost.
+
+ 
+3.49 In the secondary analysis, standard troponin was the cheapest and the least
+effective testing strategy. Compared with standard troponin testing, high-
+sensitivity troponin testing resulted in probabilistic ICERs ranging between
+£4,043 and £6,148 per QALY gained.
+3.50 For all scenario analyses of the secondary analysis, results were similar to those
+from the secondary analysis base case. Standard troponin remained the
+cheapest and the least effective testing strategy (deterministic analysis). In all
+scenario analyses of the secondary analysis, high-sensitivity troponin testing
+compared with standard troponin testing resulted in ICERs less than £10,000 per
+QALY gained.
+3.51 One-way sensitivity analyses were done including all parameters that were
+changed in the probabilistic sensitivity analysis. In the secondary analysis, the
+parameters that had a notable effect on the estimated cost-effectiveness
+estimates were:
+• 30-day mortality for untreated acute myocardial infarction
+• mortality 1 year after treated and untreated acute myocardial infarction
+• discount rate used for outcomes
+• relative mortality for people who had a true positive result compared with
+those who had a false positive result.
+At extreme values (based on 95% confidence intervals) of these inputs,
+standard troponin testing remains cheaper and less effective than the high-
+sensitivity troponin tests.
+
+ 
+4 Committee discussion
+Quick, accurate tests may reduce anxiety for
+patients and carers
+4.1 The committee heard from a patient expert who highlighted the stresses and
+fears that patients and their families experience when attending the emergency
+department with chest pain. Reducing waiting times is important for patients.
+Technologies that reduce the time taken from sample to clinical decision, while
+providing good diagnostic accuracy, may help reduce patient anxiety. Patients
+may be reassured that they are having the most appropriate treatment with tests
+that provide an accurate result.
+Flexibility on tests and strategies helps hospitals
+4.2 NICE has previously recommended high-sensitivity troponin for early rule out of
+acute myocardial infarction, so most emergency departments are already set up
+for high-sensitivity troponin testing. Many have implemented early rule-out
+strategies as routine practice. The committee considered that there were
+practical issues around early rule-out strategies that incorporate serial testing but
+that these could be resolved in practice. It also considered that, if more tests and
+different testing strategies were found to be cost effective and were
+recommended, this would help with procurement and give hospitals more
+flexibility to implement a strategy that works for them.
+Clinical effectiveness
+The comparative accuracy of the different tests is uncertain
+4.3 There were concerns about the level of clinical evidence available for some of the
+tests. Most diagnostic accuracy results related to the Elecsys (30 studies) and
+
+ 
+ARCHITECT (9 studies) tests. Other tests had less evidence available but were
+mostly still acceptable. The committee noted that there was also limited evidence
+comparing the diagnostic performance of 1 test with another. This meant that
+although there may be differences in performance between the tests, it is difficult
+to estimate these differences with any certainty.
+The sensitivity of single-sample early rule-out strategies varies
+depending on which threshold is used
+4.4 Results from the diagnostic accuracy studies showed that strategies that test a
+single sample on presentation using a threshold at or close to the limit of
+detection gave high sensitivity but low specificity. However, the committee
+commented that single sample strategies can be useful to rule out non-ST-
+segment elevation myocardial infarction (NSTEMI) early in emergency
+departments and, for this purpose, specificity is not a priority. There were
+concerns about the consistency of different analysers to provide accurate results
+at these low thresholds. However, clinical experts commented that samples with
+results close to these low thresholds would be from people considered very low
+risk and would have a good prognosis regardless of treatment. In contrast, results
+from diagnostic accuracy studies showed that a single test strategy using the
+99th percentile threshold had sensitivity estimates too low to be safely used in
+clinical practice.
+Multiple sample early rule-out strategies have better specificity
+than single-sample strategies
+4.5 Results from the diagnostic accuracy studies showed that multiple sample early
+rule-out strategies, that is, those that included a second rule-out step, had better
+specificity than single-sample strategies using a very low threshold. Multiple
+sample strategies also maintained high levels of sensitivity. However, clinical
+experts commented that it was difficult to make direct comparisons of the
+different test strategies based on specificity because the number of true
+negatives would be affected by the prevalence of NSTEMI in each of the different
+study populations.
+
+ 
+High-sensitivity troponin tests should be used alongside clinical
+judgement
+4.6 Clinical experts noted that the clinical context in which decisions on discharging
+or admitting someone to hospital is important, and that decisions should never be
+based solely on the results of a high-sensitivity troponin test. For example, a
+person with a negative high-sensitivity troponin test result should not be
+discharged without further investigations if they look visibly unwell or if the
+sample was collected too soon after the suspected cardiac event, a practice that
+could result in a false negative result.
+Using sex-specific 99th percentile thresholds could reduce
+inequality in women's treatment
+4.7 Clinical experts explained that there was consistent evidence from reference
+range studies that the 99th percentile threshold differs between men and
+women. For the Elecsys and ARCHITECT tests, the 99th percentile upper
+reference limit for women is much lower than the general (mixed) population 99th
+percentile. The High-STEACS trial was the only strategy included in the cost-
+effectiveness modelling to use sex-specific 99th percentile thresholds in an early
+rule-out strategy. But it did not provide a direct comparison with a general
+population 99th percentile threshold. The committee therefore considered that
+the evidence on using sex-specific 99th percentile thresholds in early rule-out
+strategies was unclear. Clinical experts noted that sex-specific 99th percentile
+thresholds were sometimes used in clinical practice to help diagnose NSTEMI,
+but that there was no evidence that using them affected clinical outcomes. They
+noted that the ongoing CODE-MI study aims to evaluate the effect of using the
+sex-specific 99th percentile threshold for women for high-sensitivity cardiac
+troponin. This will be compared with the general (mixed) population 99th
+percentile threshold, for the diagnosis, treatment and outcomes of women
+presenting to the emergency department with cardiac chest pain. The committee
+noted that there was a wider equality issue because women with acute
+myocardial infarction are generally under-diagnosed and under-treated compared
+with men. The committee considered that using sex-specific 99th percentile
+thresholds to help diagnose NSTEMI could be a step towards reducing this health
+inequality. It concluded that, when NSTEMI is not ruled out using early rule-out
+
+ 
+test strategies, NICE's guideline on recent-onset chest pain of suspected cardiac
+origin may be used to help diagnose myocardial infarction, and the use of sex-
+specific thresholds at the 99th percentile should be considered (see section 5.2).
+Randomised controlled trial evidence shows early rule-out
+strategies do not negatively affect health
+4.8 The committee considered evidence from 2 randomised controlled trials, High-
+STEACS and HiSTORIC. It noted that the authors of High-STEACS concluded that
+the implementation of an early rule-out strategy was not associated with any
+increase in myocardial infarction or cardiovascular death within 1 year of initial
+presentation. The HiSTORIC trial was submitted to NICE as academic-in-
+confidence evidence. The committee concluded that evidence from the
+randomised controlled trials, which reported end clinical outcomes, strongly
+supported using high-sensitivity troponin tests with early rule-out strategies in
+clinical practice.
+The TriageTrue point-of-care test is innovative but its diagnostic
+accuracy is uncertain
+4.9 The committee noted that the TriageTrue point-of-care test had a turnaround
+time of around 20 minutes and had the potential to be an important development
+in the field. The rapid time to test results could have benefits because of a
+reduced length of time spent waiting for a result in the emergency department
+(see section 4.1). Only 1 study was available on the TriageTrue test. In this study
+troponin levels were tested in stored plasma samples rather than the whole blood
+samples used in clinical practice. The committee noted that the evidence did not
+reflect how the test would be used in clinical practice at the point of care. It
+concluded that further evidence on TriageTrue's diagnostic performance when
+used on whole blood at the point of care is needed before the test can be
+recommended for use in clinical practice.
+
+ 
+The Alinity, Dimension EXL and Elecsys STAT tests are likely to
+have the same performance as alternative versions of tests
+4.10 The Alinity and Dimension EXL tests were not included in the economic model
+because there were no direct diagnostic accuracy data for them in the systematic
+review. However, the committee noted that these tests were based on the same
+methods and principles, and used the same reagents as other tests that were
+included in the modelling. The committee heard that the Alinity test was a newer
+version of the ARCHITECT test and that the Dimension EXL test was a different
+version of the Vista test, but the tests were all run on different analysers. It noted
+further that the Elecsys STAT test was the same in terms of technical
+specification and performance as the Elecsys troponin T-high sensitive test, and
+is run on the same analysers. The committee concluded that the diagnostic
+accuracy of these different versions of the tests should be comparable. It also
+concluded that it was the responsibility of individual laboratories to assess the
+equivalency of these tests in practice, and to validate their diagnostic
+performance against their current system. This would be achieved in part by
+participating in external quality assessment schemes.
+Cost effectiveness
+Only including early rule-out strategies with a minimum
+sensitivity of 97% in the economic analysis is acceptable
+4.11 Only early rule-out strategies with a sensitivity of 97% or more were used in the
+cost-effectiveness modelling, based on expert opinion about the minimum
+sensitivity acceptable in clinical practice. The committee noted that this approach
+could mean that some potentially cost-effective strategies were excluded from
+the economic modelling. But overall it agreed that it was an acceptable approach
+that was necessary to keep the number of test strategies in the economic model
+manageable and ensure that those considered were likely to be safe in practice.
+The prognostic benefits associated with a false positive high-
+sensitivity troponin test should be incorporated into decision
+
+ 
+making
+4.12 The secondary analysis incorporated prognostic benefits associated with false
+positive high-sensitivity troponin test results. Clinical experts noted that it is now
+widely accepted that people with a negative standard troponin test and a positive
+high-sensitivity troponin test (classified as false positives in the analysis) have an
+increased risk of reinfarction and mortality compared with people who have a
+negative result from both tests. The committee concluded that the secondary
+analysis was most appropriate for decision making.
+All early rule-out test strategies in the model are cost effective
+compared with standard troponin testing at 0 hours and 12 hours
+4.13 Compared with standard troponin testing, high-sensitivity troponin test strategies
+resulted in incremental cost-effectiveness ratios (ICERs) of less than £7,000 per
+quality-adjusted life year (QALY) gained. These ICERs are below £20,000 per
+QALY gained, which NICE would typically consider to be cost effective. The
+committee noted that there were only small differences in costs and QALYs
+between the different test strategies included in the economic model, and
+recalled its previous conclusion that it was not possible to indirectly compare the
+tests and early rule-out strategies. The committee concluded that it was not
+possible to differentiate between the different test strategies, and that all early
+rule-out strategies had the potential to be recommended for clinical practice,
+provided that each test used with them had enough diagnostic accuracy data.
+The results of the economic model are robust to changes in the
+input parameter values
+4.14 The model results were robust to changes in the input parameter values, for
+example, the number of admissions based on the specificity of the test strategy
+and the prevalence of NSTEMI. Early rule-out strategies with lower specificities
+would likely result in fewer people being discharged from hospital, but this does
+not have a substantial effect on the cost-effectiveness results. In addition, clinical
+experts noted that people having standard troponin testing and who get a
+negative test result would probably have a hospital length of stay of 24 hours
+
+ 
+rather than the 14 hours assumed in the economic model. So the benefits of
+using early rule-out strategies may have been underestimated. The external
+assessment group (EAG) commented that changing this assumption would be
+unlikely to affect the model results.
+Recommending a range of different high-sensitivity troponin
+tests gives greater flexibility to NHS trusts
+4.15 Some of the tests had lower levels of clinical evidence than others. But the
+diagnostic performance and costs of all the tests used in the modelling were
+comparable (except for the test cost for TriageTrue). There was no strong
+evidence to differentiate one test over another (see section 4.3), and when used
+in the early rule-out strategies all were cost effective compared with the standard
+troponin test (see section 4.13). The committee noted that recommending a
+range of tests would benefit hospitals by enabling them to operate within existing
+equipment contracts or investments in a particular platform. It concluded that
+recommending a range of high-sensitivity troponin tests gives greater flexibility
+to NHS trusts and enables them to work with any local restrictions or equipment
+contracts.
+Recommending a range of early rule-out strategies means
+hospitals can use one that works for their emergency department
+4.16 The original NICE diagnostics guidance on troponin tests for myocardial infarction
+recommended strategies that test at 0 hours and 3 hours, report absolute values
+and use an upper reference limit at the 99th percentile. The committee noted that
+much more evidence is now available on different early rule-out strategies. The
+committee considered the different strategies included in the model:
+• single-sample strategies using a threshold at or near to the limit of detection
+• multiple sample strategies in which all patients would be tested at baseline
+and again at 1 to 3 hours after the initial test
+• multiple sample strategies in which people only had a second test (1 hour to
+3 hours after the initial test) if the first test result could not be used to rule
+
+ 
+out acute myocardial infarction.
+The multiple sample strategies incorporated different thresholds, including
+those at or close to the limit of detection, the general (mixed) population
+99th percentile, and sex-specific 99th percentiles. The committee recalled
+that all single-sample strategies and multiple sample strategies included in
+the model were highly sensitive, that is, they had a low false negative rate
+(see sections 4.4 and 4.5). It considered that strategies in which people
+could be safely discharged after the first test could be beneficial because
+fewer people would have to remain in the emergency department for a
+second test. The committee noted further that all strategies were cost
+effective compared with a standard troponin test strategy (see section 4.13).
+The committee concluded that recommending a range of early rule-out
+strategies would enable hospitals to use strategies that worked with the set
+up of their emergency department.
+Further diagnostic accuracy evidence is needed before the
+TriageTrue test can be recommended for routine clinical use
+4.17 The TriageTrue point-of-care test, when used in the European Society of
+Cardiology 0/1-hour pathway, was cost effective compared with a standard
+troponin test strategy, with an ICER of less than £5,000 per QALY gained. The
+committee considered that the potential benefits associated with the rapid
+turnaround times of point-of-care tests (see section 4.9) may not have been fully
+captured in the economic model. But the committee was concerned about the
+evidence used to provide the diagnostic accuracy inputs in the model, so
+concluded that further research was needed on the TriageTrue test before it
+could be recommended for routine clinical use.
+
+ 
+Research considerations
+Further research to understand the 99th percentile in population
+subgroups would be useful
+4.18 Some evidence supported using sex-specific 99th percentile thresholds in clinical
+practice in men and women but overall their value in early rule-out is unclear (see
+section 4.7). The clinical experts said that there are much less data on the 99th
+percentile in other subgroups, such as older or younger people, people with or
+without renal disease and black, Asian and minority ethnic groups. The
+committee considered that it would be helpful to have a better understanding of
+differences in the 99th percentile between these subgroups.
+
+ 
+5 Recommendations for further research
+5.1 Further research is recommended on the diagnostic performance of the
+TriageTrue high-sensitivity troponin test using samples at point of care.
+5.2 Further research is recommended on how using sex-specific 99th percentile
+thresholds affects treatment decisions and clinical outcomes for men and women.
+
+ 
+6 Implementation
+NICE will support this guidance through a range of activities to promote the
+recommendations for further research. The research proposed will be considered by the
+NICE Medical Technologies Evaluation Programme research facilitation team for
+developing specific research study protocols as appropriate. NICE will also incorporate the
+research recommendations in section 5 into its guidance research recommendations
+database and highlight these recommendations to public research bodies.
